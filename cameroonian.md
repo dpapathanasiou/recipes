@@ -1,3 +1,3 @@
 # cameroonian
 
- * [Cameroonian Fried Spinach](index/c/cameroonian-fried-spinach.json)
+ * [Cameroonian Fried Spinach](../index/c/cameroonian-fried-spinach.json)

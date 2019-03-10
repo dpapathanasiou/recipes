@@ -1,3 +1,3 @@
 # xanthia
 
- * [Xanthia](index/x/xanthia-200354.json)
+ * [Xanthia](../index/x/xanthia-200354.json)

@@ -1,3 +1,3 @@
 # cooperstown
 
- * [Cooperstown](index/c/cooperstown-200509.json)
+ * [Cooperstown](../index/c/cooperstown-200509.json)

@@ -1,3 +1,3 @@
 # robson
 
- * [Robson](index/r/robson-200405.json)
+ * [Robson](../index/r/robson-200405.json)

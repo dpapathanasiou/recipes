@@ -1,3 +1,3 @@
 # newbury
 
- * [Newbury](index/n/newbury-200965.json)
+ * [Newbury](../index/n/newbury-200965.json)

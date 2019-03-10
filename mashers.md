@@ -1,3 +1,3 @@
 # mashers
 
- * [Mashers Recipe](index/m/mashers-recipe.json)
+ * [Mashers Recipe](../index/m/mashers-recipe.json)

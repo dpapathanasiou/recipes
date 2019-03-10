@@ -1,3 +1,3 @@
 # vegducken
 
- * [Vegducken](index/v/vegducken.json)
+ * [Vegducken](../index/v/vegducken.json)

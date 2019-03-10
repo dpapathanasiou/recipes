@@ -1,3 +1,3 @@
 # angelo
 
- * [Chicken Angelo](index/c/chicken-angelo.json)
+ * [Chicken Angelo](../index/c/chicken-angelo.json)

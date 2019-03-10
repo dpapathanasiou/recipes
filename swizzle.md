@@ -1,3 +1,3 @@
 # swizzle
 
- * [Rum Swizzle](index/r/rum-swizzle-56389925.json)
+ * [Rum Swizzle](../index/r/rum-swizzle-56389925.json)

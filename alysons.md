@@ -1,3 +1,3 @@
 # alysons
 
- * [Alysons Broccoli Salad](index/a/alysons-broccoli-salad.json)
+ * [Alysons Broccoli Salad](../index/a/alysons-broccoli-salad.json)

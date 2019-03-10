@@ -1,5 +1,5 @@
 # sensation
 
- * [Sensation](index/s/sensation-201030.json)
- * [Strawberry Sensation Smoothie](index/s/strawberry-sensation-smoothie.json)
- * [Strawberry Whipped Sensation](index/s/strawberry-whipped-sensation.json)
+ * [Sensation](../index/s/sensation-201030.json)
+ * [Strawberry Sensation Smoothie](../index/s/strawberry-sensation-smoothie.json)
+ * [Strawberry Whipped Sensation](../index/s/strawberry-whipped-sensation.json)

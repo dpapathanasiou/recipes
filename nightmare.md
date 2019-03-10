@@ -1,3 +1,3 @@
 # nightmare
 
- * [Nightmare](index/n/nightmare-201002.json)
+ * [Nightmare](../index/n/nightmare-201002.json)

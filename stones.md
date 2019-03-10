@@ -1,3 +1,3 @@
 # stones
 
- * [Edible Stones](index/e/edible-stones-51102800.json)
+ * [Edible Stones](../index/e/edible-stones-51102800.json)

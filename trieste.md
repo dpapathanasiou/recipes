@@ -1,3 +1,3 @@
 # trieste
 
- * [Trieste Tequila Cooler](index/t/trieste-tequila-cooler.json)
+ * [Trieste Tequila Cooler](../index/t/trieste-tequila-cooler.json)

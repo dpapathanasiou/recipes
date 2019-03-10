@@ -1,3 +1,3 @@
 # eugene
 
- * [Chicken Eugene](index/c/chicken-eugene.json)
+ * [Chicken Eugene](../index/c/chicken-eugene.json)

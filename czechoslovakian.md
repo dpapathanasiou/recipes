@@ -1,3 +1,3 @@
 # czechoslovakian
 
- * [Czechoslovakian Cookies](index/c/czechoslovakian-cookies.json)
+ * [Czechoslovakian Cookies](../index/c/czechoslovakian-cookies.json)

@@ -1,3 +1,3 @@
 # ade
 
- * [Kool Ade Punch](index/k/kool-ade-punch.json)
+ * [Kool Ade Punch](../index/k/kool-ade-punch.json)

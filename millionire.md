@@ -1,3 +1,3 @@
 # millionire
 
- * [Millionire](index/m/millionire-200994.json)
+ * [Millionire](../index/m/millionire-200994.json)

@@ -1,3 +1,3 @@
 # biancas
 
- * [Biancas Green Chile Pork](index/b/biancas-green-chile-pork.json)
+ * [Biancas Green Chile Pork](../index/b/biancas-green-chile-pork.json)

@@ -1,3 +1,3 @@
 # baghdad
 
- * [Baghdad Beef Stew](index/b/baghdad-beef-stew.json)
+ * [Baghdad Beef Stew](../index/b/baghdad-beef-stew.json)

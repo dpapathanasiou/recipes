@@ -1,3 +1,3 @@
 # triestine
 
- * [Triestine Cevapcici](index/t/triestine-cevapcici.json)
+ * [Triestine Cevapcici](../index/t/triestine-cevapcici.json)

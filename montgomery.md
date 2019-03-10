@@ -1,3 +1,3 @@
 # montgomery
 
- * [Montgomery Pie](index/m/montgomery-pie.json)
+ * [Montgomery Pie](../index/m/montgomery-pie.json)

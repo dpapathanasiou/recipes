@@ -1,3 +1,3 @@
 # isle
 
- * [Emerald Isle](index/e/emerald-isle-200461.json)
+ * [Emerald Isle](../index/e/emerald-isle-200461.json)

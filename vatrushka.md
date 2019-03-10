@@ -1,3 +1,3 @@
 # vatrushka
 
- * [Raspberry Vatrushka Buns](index/r/raspberry-vatrushka-buns.json)
+ * [Raspberry Vatrushka Buns](../index/r/raspberry-vatrushka-buns.json)

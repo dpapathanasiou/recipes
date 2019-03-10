@@ -1,3 +1,3 @@
 # afghani
 
- * [Aush Afghani Chili](index/a/aush-afghani-chili.json)
+ * [Aush Afghani Chili](../index/a/aush-afghani-chili.json)

@@ -1,3 +1,3 @@
 # waikaloa
 
- * [Waikaloa Breeze](index/w/waikaloa-breeze-200534.json)
+ * [Waikaloa Breeze](../index/w/waikaloa-breeze-200534.json)

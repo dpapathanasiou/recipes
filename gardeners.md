@@ -1,3 +1,3 @@
 # gardeners
 
- * [Gardeners Pizza](index/g/gardeners-pizza-395569.json)
+ * [Gardeners Pizza](../index/g/gardeners-pizza-395569.json)

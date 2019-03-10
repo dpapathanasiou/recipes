@@ -1,3 +1,3 @@
 # peg
 
- * [Queens Peg](index/q/queens-peg-200240.json)
+ * [Queens Peg](../index/q/queens-peg-200240.json)

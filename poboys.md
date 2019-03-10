@@ -1,3 +1,3 @@
 # poboys
 
- * [Beef Poboys](index/b/beef-poboys.json)
+ * [Beef Poboys](../index/b/beef-poboys.json)

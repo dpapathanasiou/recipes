@@ -1,3 +1,3 @@
 # encebollao
 
- * [Bistec Encebollao](index/b/bistec-encebollao.json)
+ * [Bistec Encebollao](../index/b/bistec-encebollao.json)

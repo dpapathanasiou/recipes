@@ -1,3 +1,3 @@
 # kourambiedes
 
- * [Kourambiedes Iii](index/k/kourambiedes-iii.json)
+ * [Kourambiedes Iii](../index/k/kourambiedes-iii.json)

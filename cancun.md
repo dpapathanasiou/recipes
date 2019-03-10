@@ -1,3 +1,3 @@
 # cancun
 
- * [Cancun Martini](index/c/cancun-martini.json)
+ * [Cancun Martini](../index/c/cancun-martini.json)

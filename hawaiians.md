@@ -1,3 +1,3 @@
 # hawaiians
 
- * [Grilled Hawaiians](index/g/grilled-hawaiians.json)
+ * [Grilled Hawaiians](../index/g/grilled-hawaiians.json)

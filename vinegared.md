@@ -1,3 +1,3 @@
 # vinegared
 
- * [Vinegared Cucumber Salad](index/v/vinegared-cucumber-salad-15265.json)
+ * [Vinegared Cucumber Salad](../index/v/vinegared-cucumber-salad-15265.json)

@@ -1,3 +1,3 @@
 # bettes
 
- * [Bettes Pineapple Cookies](index/b/bettes-pineapple-cookies.json)
+ * [Bettes Pineapple Cookies](../index/b/bettes-pineapple-cookies.json)

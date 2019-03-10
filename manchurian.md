@@ -1,3 +1,3 @@
 # manchurian
 
- * [Chicken Manchurian](index/c/chicken-manchurian.json)
+ * [Chicken Manchurian](../index/c/chicken-manchurian.json)

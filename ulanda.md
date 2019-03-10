@@ -1,3 +1,3 @@
 # ulanda
 
- * [Ulanda](index/u/ulanda-201050.json)
+ * [Ulanda](../index/u/ulanda-201050.json)

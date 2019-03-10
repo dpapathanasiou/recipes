@@ -1,3 +1,3 @@
 # capri
 
- * [Chicken Capri Pasta](index/c/chicken-capri-pasta.json)
+ * [Chicken Capri Pasta](../index/c/chicken-capri-pasta.json)

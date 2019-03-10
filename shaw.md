@@ -1,3 +1,3 @@
 # shaw
 
- * [Shrimp Sizzlers Shaw](index/s/shrimp-sizzlers-shaw-14104.json)
+ * [Shrimp Sizzlers Shaw](../index/s/shrimp-sizzlers-shaw-14104.json)

@@ -1,3 +1,3 @@
 # whitechapel
 
- * [Whitechapel Shepherds Pie](index/w/whitechapel-shepherds-pie.json)
+ * [Whitechapel Shepherds Pie](../index/w/whitechapel-shepherds-pie.json)

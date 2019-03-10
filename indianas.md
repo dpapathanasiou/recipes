@@ -1,3 +1,3 @@
 # indianas
 
- * [Indianas Finest Sweet Potato Cassero](index/i/indianas-finest-sweet-potato-cassero.json)
+ * [Indianas Finest Sweet Potato Cassero](../index/i/indianas-finest-sweet-potato-cassero.json)

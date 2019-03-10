@@ -1,3 +1,3 @@
 # thistle
 
- * [Thistle](index/t/thistle-200081.json)
+ * [Thistle](../index/t/thistle-200081.json)

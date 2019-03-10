@@ -1,3 +1,3 @@
 # berkeley
 
- * [Mushrooms Berkeley](index/m/mushrooms-berkeley.json)
+ * [Mushrooms Berkeley](../index/m/mushrooms-berkeley.json)

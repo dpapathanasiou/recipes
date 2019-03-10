@@ -1,3 +1,3 @@
 # aligot
 
- * [Grits Aligot](index/g/grits-aligot.json)
+ * [Grits Aligot](../index/g/grits-aligot.json)

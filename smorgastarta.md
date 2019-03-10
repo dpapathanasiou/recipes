@@ -1,3 +1,3 @@
 # smorgastarta
 
- * [Smorgastarta](index/s/smorgastarta-14043.json)
+ * [Smorgastarta](../index/s/smorgastarta-14043.json)

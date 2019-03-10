@@ -1,3 +1,3 @@
 # spain
 
- * [Southern Spain Style Gazpacho](index/s/southern-spain-style-gazpacho.json)
+ * [Southern Spain Style Gazpacho](../index/s/southern-spain-style-gazpacho.json)

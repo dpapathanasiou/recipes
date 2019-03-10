@@ -1,3 +1,3 @@
 # abernathy
 
- * [Abernathy Biscuits](index/a/abernathy-biscuits.json)
+ * [Abernathy Biscuits](../index/a/abernathy-biscuits.json)

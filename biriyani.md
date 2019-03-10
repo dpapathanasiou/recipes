@@ -1,3 +1,3 @@
 # biriyani
 
- * [Biriyani](index/b/biriyani.json)
+ * [Biriyani](../index/b/biriyani.json)

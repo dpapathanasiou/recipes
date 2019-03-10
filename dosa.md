@@ -1,3 +1,3 @@
 # dosa
 
- * [Dosa Podi With Garlic](index/d/dosa-podi-with-garlic.json)
+ * [Dosa Podi With Garlic](../index/d/dosa-podi-with-garlic.json)

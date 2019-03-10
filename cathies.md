@@ -1,3 +1,3 @@
 # cathies
 
- * [Cathies Clam Chowder](index/c/cathies-clam-chowder.json)
+ * [Cathies Clam Chowder](../index/c/cathies-clam-chowder.json)

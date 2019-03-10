@@ -1,3 +1,3 @@
 # sarladaise
 
- * [Sarladaise Home Fries](index/s/sarladaise-home-fries.json)
+ * [Sarladaise Home Fries](../index/s/sarladaise-home-fries.json)

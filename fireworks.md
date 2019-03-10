@@ -1,3 +1,3 @@
 # fireworks
 
- * [Fireworks](index/f/fireworks-200267.json)
+ * [Fireworks](../index/f/fireworks-200267.json)

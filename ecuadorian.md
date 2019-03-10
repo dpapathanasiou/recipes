@@ -1,3 +1,3 @@
 # ecuadorian
 
- * [Ecuadorian Huevos Rancheros](index/e/ecuadorian-huevos-rancheros.json)
+ * [Ecuadorian Huevos Rancheros](../index/e/ecuadorian-huevos-rancheros.json)

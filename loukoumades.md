@@ -1,3 +1,3 @@
 # loukoumades
 
- * [Loukoumades](index/l/loukoumades.json)
+ * [Loukoumades](../index/l/loukoumades.json)

@@ -1,5 +1,5 @@
 # astoria
 
- * [Astoria Crab Pasta](index/a/astoria-crab-pasta.json)
- * [Waldorf Astoria Cake Frosting](index/w/waldorf-astoria-cake-frosting.json)
- * [Waldorf Astoria Red Cake](index/w/waldorf-astoria-red-cake.json)
+ * [Astoria Crab Pasta](../index/a/astoria-crab-pasta.json)
+ * [Waldorf Astoria Cake Frosting](../index/w/waldorf-astoria-cake-frosting.json)
+ * [Waldorf Astoria Red Cake](../index/w/waldorf-astoria-red-cake.json)

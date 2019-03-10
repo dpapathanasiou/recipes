@@ -1,3 +1,3 @@
 # spencer
 
- * [Spencer](index/s/spencer-201042.json)
+ * [Spencer](../index/s/spencer-201042.json)

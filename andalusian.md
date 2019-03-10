@@ -1,3 +1,3 @@
 # andalusian
 
- * [Andalusian Gazpacho](index/a/andalusian-gazpacho.json)
+ * [Andalusian Gazpacho](../index/a/andalusian-gazpacho.json)

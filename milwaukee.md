@@ -1,3 +1,3 @@
 # milwaukee
 
- * [Milwaukee Rye Bread](index/m/milwaukee-rye-bread.json)
+ * [Milwaukee Rye Bread](../index/m/milwaukee-rye-bread.json)

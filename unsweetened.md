@@ -1,3 +1,3 @@
 # unsweetened
 
- * [Unsweetened Surprise](index/u/unsweetened-surprise.json)
+ * [Unsweetened Surprise](../index/u/unsweetened-surprise.json)

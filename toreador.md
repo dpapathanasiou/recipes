@@ -1,3 +1,3 @@
 # toreador
 
- * [Toreador](index/t/toreador-200278.json)
+ * [Toreador](../index/t/toreador-200278.json)
