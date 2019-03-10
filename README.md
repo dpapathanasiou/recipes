@@ -1,6 +1,6 @@
 # About
 
-This is a collection of recipes in [json format](http://json.org/) generated using the [recipebook](https://github.com/dpapathanasiou/recipebook) application
+This is a collection of cooking recipes in [json format](http://json.org/) generated using the [recipebook](https://github.com/dpapathanasiou/recipebook) application
 
 ## Contribute
 
