@@ -1,6 +1,10 @@
 # About
 
-This is a collection of recipes in [json format](http://json.org/) generated using the [recipebook](https://github.com/dpapathanasiou/recipebook) application.
+This is a collection of recipes in [json format](http://json.org/) generated using the [recipebook](https://github.com/dpapathanasiou/recipebook) application
+
+## Contribute
+
+[Pull requests](https://help.github.com/articles/about-pull-requests/) are welcome
 
 # Alphabetical Index
 
