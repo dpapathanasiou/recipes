@@ -16,3 +16,5 @@
  * [Veal Shanks Artichoke Hearts And Chick Peas With Preserved Lemon](index/v/veal-shanks-artichoke-hearts-and-chick-peas-with-preserved-lemon-11392.json)
  * [Veal Shanks With Caramelized Onions And Sage](index/v/veal-shanks-with-caramelized-onions-and-sage-102374.json)
  * [Wine Braised Lamb Shanks With Herbes De Provence](index/w/wine-braised-lamb-shanks-with-herbes-de-provence-109263.json)
+ * [Pomegranate Merlot Lamb Shanks](index/p/pomegranate-merlot-lamb-shanks.json)
+ * [Slow Cooker Braised Lamb Shanks](index/s/slow-cooker-braised-lamb-shanks.json)

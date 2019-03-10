@@ -68,3 +68,4 @@
  * [Wine Baked Halibut Steaks With Mustard Fennel Butter](index/w/wine-baked-halibut-steaks-with-mustard-fennel-butter-104813.json)
  * [Zesty Halibut In Soy Ginger Dressing](index/z/zesty-halibut-in-soy-ginger-dressing-51156800.json)
  * [Zucchini Wrapped Halibut Scallops](index/z/zucchini-wrapped-halibut-scallops-51171810.json)
+ * [Spicy Halibut With Ratatouille](index/s/spicy-halibut-with-ratatouille.json)

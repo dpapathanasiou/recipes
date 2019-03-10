@@ -28,3 +28,5 @@
  * [Sweet Potato Souffle](index/s/sweet-potato-souffle-105050.json)
  * [White Chocolate And Orange Souffle](index/w/white-chocolate-and-orange-souffle-1867.json)
  * [Winter Squash Souffle](index/w/winter-squash-souffle-236420.json)
+ * [Green Garlic And Spinach Souffle](index/g/green-garlic-and-spinach-souffle.json)
+ * [Savory Leek Gruyere Souffle](index/s/savory-leek-gruyere-souffle.json)

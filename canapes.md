@@ -14,3 +14,5 @@
  * [Smoked Mackerel Canapes](index/s/smoked-mackerel-canapes-10379.json)
  * [Spanish Olive And Cream Cheese Canapes](index/s/spanish-olive-and-cream-cheese-canapes-231160.json)
  * [Sweet Pea Canapes](index/s/sweet-pea-canapes-238403.json)
+ * [Beef Tenderloin Canapes](index/b/beef-tenderloin-canapes.json)
+ * [Tenderloin And Heirloom Tomato Canapes](index/t/tenderloin-and-heirloom-tomato-canapes.json)

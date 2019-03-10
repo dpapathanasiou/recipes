@@ -28,3 +28,5 @@
  * [Turkey Sausage Spinach Lasagna With Spicy Tomato Sauce](index/t/turkey-sausage-spinach-lasagna-with-spicy-tomato-sauce-100988.json)
  * [Tuscan Lasagna](index/t/tuscan-lasagna-51219410.json)
  * [Vegetable Lasagna](index/v/vegetable-lasagna-232660.json)
+ * [Beef Basil And Goat Cheese Lasagna Roll Ups](index/b/beef-basil-and-goat-cheese-lasagna-roll-ups.json)
+ * [Slow Cooker Lasagna](index/s/slow-cooker-lasagna.json)

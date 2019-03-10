@@ -72,3 +72,6 @@
  * [White Cheddar Polenta With Sauteed Greens And Garlic Roasted Portobellos](index/w/white-cheddar-polenta-with-sauteed-greens-and-garlic-roasted-portobellos-104587.json)
  * [White Cheddar Puffs With Green Onions](index/w/white-cheddar-puffs-with-green-onions-233121.json)
  * [Wild Mushroom Frittata With Cheddar Green Onions And Peas](index/w/wild-mushroom-frittata-with-cheddar-green-onions-and-peas-51171410.json)
+ * [Cheddar Stuffed Burgers With Air Fried French Fries](index/c/cheddar-stuffed-burgers-with-air-fried-french-fries.json)
+ * [Jalapeno Bacon Cheddar Burgers](index/j/jalapeno-bacon-cheddar-burgers.json)
+ * [Stuffed Barbecue Burgers With Beer Cheddar Fondue](index/s/stuffed-barbecue-burgers-with-beer-cheddar-fondue.json)

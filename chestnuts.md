@@ -21,3 +21,4 @@
  * [Whole Wheat Stuffing With Pancetta Chestnuts And Parmesan](index/w/whole-wheat-stuffing-with-pancetta-chestnuts-and-parmesan-355780.json)
  * [Wild Mushrooms With Chestnuts And Thyme](index/w/wild-mushrooms-with-chestnuts-and-thyme-107320.json)
  * [Wild Rice Dressing With Apples And Chestnuts](index/w/wild-rice-dressing-with-apples-and-chestnuts-236540.json)
+ * [Beef Stew With Chestnuts](index/b/beef-stew-with-chestnuts.json)

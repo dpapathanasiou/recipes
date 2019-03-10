@@ -159,3 +159,4 @@
  * [White Chocolate Raspberry Creme Brulee Tartlets](index/w/white-chocolate-raspberry-creme-brulee-tartlets-104531.json)
  * [Yogurt Cake With Currant Raspberry Sauce](index/y/yogurt-cake-with-currant-raspberry-sauce-354477.json)
  * [Zuni Rolls With Raspberry Chipotle Sauce](index/z/zuni-rolls-with-raspberry-chipotle-sauce-15259.json)
+ * [Raspberry And Chocolate Tartlets](index/r/raspberry-and-chocolate-tartlets.json)

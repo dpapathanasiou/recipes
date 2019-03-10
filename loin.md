@@ -36,3 +36,5 @@
  * [Rosemary And Mustard Pork Loin With Baby Artichokes Shallots And Vermouth Jus](index/r/rosemary-and-mustard-pork-loin-with-baby-artichokes-shallots-and-vermouth-jus-358213.json)
  * [Veal Loin Stuffed With Bell Peppers Goat Cheese And Basil](index/v/veal-loin-stuffed-with-bell-peppers-goat-cheese-and-basil-1052.json)
  * [Vegetable Stuffed Loin Of Veal With Sweetbreads](index/v/vegetable-stuffed-loin-of-veal-with-sweetbreads-109214.json)
+ * [Grill Roasted Pork Loin With Onions](index/g/grill-roasted-pork-loin-with-onions.json)
+ * [Pork Loin Chops Romesco Sauce](index/p/pork-loin-chops-romesco-sauce.json)

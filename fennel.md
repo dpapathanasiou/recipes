@@ -256,3 +256,8 @@
  * [Watermelon With Fennel Salt](index/w/watermelon-with-fennel-salt-232023.json)
  * [Wine Baked Halibut Steaks With Mustard Fennel Butter](index/w/wine-baked-halibut-steaks-with-mustard-fennel-butter-104813.json)
  * [Yukon Gold And Fennel Puree With Rosemary Butter](index/y/yukon-gold-and-fennel-puree-with-rosemary-butter-350476.json)
+ * [Chilled Potato Leek Soup With Fennel And Watercress Vichyssoise](index/c/chilled-potato-leek-soup-with-fennel-and-watercress-vichyssoise.json)
+ * [Mussels With Fennel And Saffron](index/m/mussels-with-fennel-and-saffron.json)
+ * [Pan Roasted Chicken With Fennel Leeks And Cream](index/p/pan-roasted-chicken-with-fennel-leeks-and-cream.json)
+ * [Pizza With Fennel And Sausage](index/p/pizza-with-fennel-and-sausage.json)
+ * [Radish Cucumber And Fennel](index/r/radish-cucumber-and-fennel.json)

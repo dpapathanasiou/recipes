@@ -293,3 +293,5 @@
  * [Wine Baked Halibut Steaks With Mustard Fennel Butter](index/w/wine-baked-halibut-steaks-with-mustard-fennel-butter-104813.json)
  * [Winter Vegetable Roast With Maple Mustard Vinaigrette](index/w/winter-vegetable-roast-with-maple-mustard-vinaigrette-51186650.json)
  * [Yam Latkes With Mustard Seeds And Curry](index/y/yam-latkes-with-mustard-seeds-and-curry-974.json)
+ * [Mustard Peppercorn Steak And Arugula Salad](index/m/mustard-peppercorn-steak-and-arugula-salad.json)
+ * [Pork Chops With Mustard And Caper Pan Sauce](index/p/pork-chops-with-mustard-and-caper-pan-sauce.json)

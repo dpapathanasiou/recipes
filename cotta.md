@@ -17,3 +17,4 @@
  * [Strawberry Panna Cotta With Strawberry Compote](index/s/strawberry-panna-cotta-with-strawberry-compote-106549.json)
  * [Vanilla Panna Cotta With Mixed Berry Compote](index/v/vanilla-panna-cotta-with-mixed-berry-compote-106858.json)
  * [Yogurt Panna Cotta With Cherry And Peach Compote](index/y/yogurt-panna-cotta-with-cherry-and-peach-compote-105702.json)
+ * [Yogurt Panna Cotta Flecked With Vanilla Bean](index/y/yogurt-panna-cotta-flecked-with-vanilla-bean.json)

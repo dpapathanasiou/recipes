@@ -41,3 +41,5 @@
  * [Warm Pumpkin Salad With Polenta And Candied Pumpkin Seeds](index/w/warm-pumpkin-salad-with-polenta-and-candied-pumpkin-seeds-105581.json)
  * [Watermelon With Yogurt Poppy Seeds And Fried Rosemary](index/w/watermelon-with-yogurt-poppy-seeds-and-fried-rosemary.json)
  * [Yam Latkes With Mustard Seeds And Curry](index/y/yam-latkes-with-mustard-seeds-and-curry-974.json)
+ * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)
+ * [Steamed Sugar Snap Peas With Black Sesame Seeds](index/s/steamed-sugar-snap-peas-with-black-sesame-seeds.json)

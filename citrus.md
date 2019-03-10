@@ -80,3 +80,5 @@
  * [Winter Salad With Brussels Sprouts And Citrus](index/w/winter-salad-with-brussels-sprouts-and-citrus.json)
  * [Yellow Salad With Citrus Date Vinaigrette](index/y/yellow-salad-with-citrus-date-vinaigrette-56389539.json)
  * [Yellowtail Crudo With Citrus And Avocado](index/y/yellowtail-crudo-with-citrus-and-avocado.json)
+ * [Citrus Caipirinhas](index/c/citrus-caipirinhas.json)
+ * [Cranberry Curd Pie With Citrus Whipped Cream](index/c/cranberry-curd-pie-with-citrus-whipped-cream.json)

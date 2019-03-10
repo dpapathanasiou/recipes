@@ -16,3 +16,5 @@
  * [Roasted Duck Breasts With Farro Risotto And Duck Confit](index/r/roasted-duck-breasts-with-farro-risotto-and-duck-confit-108580.json)
  * [Roasted Poultry Wild Boar Bacon And Mushroom Farro With Pan Roasted Fennel And Carrots](index/r/roasted-poultry-wild-boar-bacon-and-mushroom-farro-with-pan-roasted-fennel-and-carrots-51183200.json)
  * [Wild Rice Farro And Tangerine Salad](index/w/wild-rice-farro-and-tangerine-salad-51198520.json)
+ * [Farro Salad With Turkey And Roasted Squash](index/f/farro-salad-with-turkey-and-roasted-squash.json)
+ * [Turkey Meatball Soup With Spinach And Farro](index/t/turkey-meatball-soup-with-spinach-and-farro.json)

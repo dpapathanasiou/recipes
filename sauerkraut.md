@@ -11,3 +11,4 @@
  * [Sausage With Sauerkraut Apples And Bok Choy](index/s/sausage-with-sauerkraut-apples-and-bok-choy-51254430.json)
  * [Sausages And Pork Chops Baked With Fruited Sauerkraut](index/s/sausages-and-pork-chops-baked-with-fruited-sauerkraut-866.json)
  * [Ziti With Kielbasa And Sauerkraut](index/z/ziti-with-kielbasa-and-sauerkraut-5118.json)
+ * [Pork Shoulder With Sauerkraut And Apples](index/p/pork-shoulder-with-sauerkraut-and-apples.json)

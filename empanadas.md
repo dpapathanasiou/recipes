@@ -9,3 +9,5 @@
  * [Sherried Mushroom Empanadas](index/s/sherried-mushroom-empanadas-11422.json)
  * [Smoked Rib Eye And Goat Cheese Empanadas](index/s/smoked-rib-eye-and-goat-cheese-empanadas-108546.json)
  * [Turkey Empanadas](index/t/turkey-empanadas-2065.json)
+ * [Beef Empanadas Fmf](index/b/beef-empanadas-fmf.json)
+ * [Beef Empanadas](index/b/beef-empanadas.json)

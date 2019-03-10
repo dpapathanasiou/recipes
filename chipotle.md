@@ -60,3 +60,6 @@
  * [Winter Salsa With Chipotle And Orange](index/w/winter-salsa-with-chipotle-and-orange-11018.json)
  * [Yuca Fries With Chipotle Mayonnaise](index/y/yuca-fries-with-chipotle-mayonnaise-232004.json)
  * [Zuni Rolls With Raspberry Chipotle Sauce](index/z/zuni-rolls-with-raspberry-chipotle-sauce-15259.json)
+ * [Beef Chipotle Chili](index/b/beef-chipotle-chili.json)
+ * [Chipotle Beef And Corn Salad](index/c/chipotle-beef-and-corn-salad.json)
+ * [Chipotle Black Bean Dip](index/c/chipotle-black-bean-dip.json)

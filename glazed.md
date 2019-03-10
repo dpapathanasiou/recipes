@@ -127,3 +127,5 @@
  * [Weihnachten Gedeckter Apfelkuchen Christmas Glazed Apple Cake](index/w/weihnachten-gedeckter-apfelkuchen-christmas-glazed-apple-cake.json)
  * [Wild Turkey Glazed Ribs](index/w/wild-turkey-glazed-ribs-104863.json)
  * [Worcestershire And Orange Glazed Baby Back Ribs](index/w/worcestershire-and-orange-glazed-baby-back-ribs-662.json)
+ * [Balsamic Glazed Beets](index/b/balsamic-glazed-beets.json)
+ * [Glazed Carrots With Coriander](index/g/glazed-carrots-with-coriander.json)

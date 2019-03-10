@@ -31,3 +31,7 @@
  * [Turkey Hash](index/t/turkey-hash-10418.json)
  * [Turkey Hash](index/t/turkey-hash-350650.json)
  * [Turkey Hash With Sweet Potatoes And Turnips](index/t/turkey-hash-with-sweet-potatoes-and-turnips-102434.json)
+ * [Corned Beef Hash Patties](index/c/corned-beef-hash-patties.json)
+ * [Corned Beef Hash With Caramelized Onions And Chiles](index/c/corned-beef-hash-with-caramelized-onions-and-chiles.json)
+ * [Corned Beef Hash](index/c/corned-beef-hash.json)
+ * [Steak Hash And Eggs](index/s/steak-hash-and-eggs.json)

@@ -49,3 +49,5 @@
  * [Swiss Honey Walnut Tart](index/s/swiss-honey-walnut-tart-4663.json)
  * [Tuscan Bean And Swiss Chard Soup](index/t/tuscan-bean-and-swiss-chard-soup-109022.json)
  * [Vegetarian Green Curry With Brown Rice Noodles And Swiss Chard](index/v/vegetarian-green-curry-with-brown-rice-noodles-and-swiss-chard.json)
+ * [Polenta Galettes With Leek And Swiss Chard](index/p/polenta-galettes-with-leek-and-swiss-chard.json)
+ * [Sauteed Scallops And Swiss Chard](index/s/sauteed-scallops-and-swiss-chard.json)

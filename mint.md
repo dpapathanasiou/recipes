@@ -265,3 +265,6 @@
  * [Zucchini In Mint Vinaigrette](index/z/zucchini-in-mint-vinaigrette-10489.json)
  * [Zucchini Tagliatelle With Mint Cucumber And Lemon](index/z/zucchini-tagliatelle-with-mint-cucumber-and-lemon-242986.json)
  * [Zucchini With Vinegar And Mint](index/z/zucchini-with-vinegar-and-mint-241988.json)
+ * [Cilantro Mint Chutney](index/c/cilantro-mint-chutney.json)
+ * [Seared Beef Tenderloin With Cilantro And Mint](index/s/seared-beef-tenderloin-with-cilantro-and-mint.json)
+ * [Spaghetti With Arugula Mint Pesto](index/s/spaghetti-with-arugula-mint-pesto.json)

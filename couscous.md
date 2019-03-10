@@ -78,3 +78,4 @@
  * [Vegetable Couscous Goat Cheese And Beets](index/v/vegetable-couscous-goat-cheese-and-beets-109734.json)
  * [Vegetable Couscous With Black Olives](index/v/vegetable-couscous-with-black-olives-14294.json)
  * [Vegetable Stew With Couscous](index/v/vegetable-stew-with-couscous-10097.json)
+ * [Israeli Couscous With Porcini And Arugula](index/i/israeli-couscous-with-porcini-and-arugula.json)

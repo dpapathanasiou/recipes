@@ -78,3 +78,5 @@
  * [Sweet Potato Salad With Spicy Peanut Dressing](index/s/sweet-potato-salad-with-spicy-peanut-dressing-232373.json)
  * [Turkey And Noodles With Peanut Sauce](index/t/turkey-and-noodles-with-peanut-sauce-105728.json)
  * [Watercress And Apple Salad With Peanut Yogurt Dressing](index/w/watercress-and-apple-salad-with-peanut-yogurt-dressing-105718.json)
+ * [Chinese Peanut Noodles With Beef](index/c/chinese-peanut-noodles-with-beef.json)
+ * [Steamed Tofu With Greens And Peanut Sauce](index/s/steamed-tofu-with-greens-and-peanut-sauce.json)

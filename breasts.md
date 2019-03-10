@@ -47,3 +47,5 @@
  * [Tandoori Spiced Chicken Breasts](index/t/tandoori-spiced-chicken-breasts-101511.json)
  * [Tea Smoked Duck Breasts](index/t/tea-smoked-duck-breasts-235728.json)
  * [Three Cheese Chicken Breasts In Tomato Sauce](index/t/three-cheese-chicken-breasts-in-tomato-sauce-434.json)
+ * [Sauteed Chicken Breasts With Fava Beans And Green Garlic](index/s/sauteed-chicken-breasts-with-fava-beans-and-green-garlic.json)
+ * [Spinach And Cheese Stuffed Chicken Breasts](index/s/spinach-and-cheese-stuffed-chicken-breasts.json)

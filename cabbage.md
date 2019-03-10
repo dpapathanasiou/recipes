@@ -123,3 +123,5 @@
  * [Wilted Red Cabbage And Bell Pepper Slaw](index/w/wilted-red-cabbage-and-bell-pepper-slaw-12057.json)
  * [Wilted Red Cabbage With Balsamic Vinegar](index/w/wilted-red-cabbage-with-balsamic-vinegar-15526.json)
  * [Wine Braised Red Cabbage](index/w/wine-braised-red-cabbage-4986.json)
+ * [Corned Beef And Cabbage](index/c/corned-beef-and-cabbage.json)
+ * [Stir Fried Soba Noodles With Beef And Cabbage](index/s/stir-fried-soba-noodles-with-beef-and-cabbage.json)

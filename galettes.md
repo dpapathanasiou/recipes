@@ -5,3 +5,4 @@
  * [Potato Galettes With Crab Shrimp And Asparagus](index/p/potato-galettes-with-crab-shrimp-and-asparagus-105064.json)
  * [Raspberry Galettes](index/r/raspberry-galettes-1871.json)
  * [Sefrou Apricot Galettes Sucrees](index/s/sefrou-apricot-galettes-sucrees-104994.json)
+ * [Polenta Galettes With Leek And Swiss Chard](index/p/polenta-galettes-with-leek-and-swiss-chard.json)

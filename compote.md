@@ -104,3 +104,5 @@
  * [White Pepper Creme Brulee With Fig And Prune Compote](index/w/white-pepper-creme-brulee-with-fig-and-prune-compote-108592.json)
  * [Winter Fruit Compote With Ginger](index/w/winter-fruit-compote-with-ginger-10936.json)
  * [Yogurt Panna Cotta With Cherry And Peach Compote](index/y/yogurt-panna-cotta-with-cherry-and-peach-compote-105702.json)
+ * [Almond Pavlova With Strawberry Rhubarb Compote](index/a/almond-pavlova-with-strawberry-rhubarb-compote.json)
+ * [Pork Roast With Dried Fruit Compote](index/p/pork-roast-with-dried-fruit-compote.json)

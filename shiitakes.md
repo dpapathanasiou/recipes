@@ -6,3 +6,4 @@
  * [Spicy Soba Noodles With Shiitakes And Cabbage](index/s/spicy-soba-noodles-with-shiitakes-and-cabbage-239266.json)
  * [Steamed Sea Bass With Ginger And Shiitakes](index/s/steamed-sea-bass-with-ginger-and-shiitakes-232446.json)
  * [Wasabi Salmon With Bok Choy Green Cabbage And Shiitakes](index/w/wasabi-salmon-with-bok-choy-green-cabbage-and-shiitakes-394719.json)
+ * [Chicken With Squash Turnips And Shiitakes](index/c/chicken-with-squash-turnips-and-shiitakes.json)

@@ -15,3 +15,4 @@
  * [Sourdough Italian Sausage And Chestnut Stuffing](index/s/sourdough-italian-sausage-and-chestnut-stuffing-51255150.json)
  * [Veal Carrot And Chestnut Ragout](index/v/veal-carrot-and-chestnut-ragout-4671.json)
  * [Warm Chestnut And Apple Salad](index/w/warm-chestnut-and-apple-salad-232871.json)
+ * [Chestnut And Sausage Dressing](index/c/chestnut-and-sausage-dressing.json)

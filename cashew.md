@@ -13,3 +13,5 @@
  * [Skirt Steak Tostadas With Cashew Salsa And Red Cabbage Slaw](index/s/skirt-steak-tostadas-with-cashew-salsa-and-red-cabbage-slaw.json)
  * [Spiced Pumpkin Seed And Cashew Crunch](index/s/spiced-pumpkin-seed-and-cashew-crunch-51210440.json)
  * [Spicy Pork And Cashew Stir Fry With Snow Peas And Red Pepper](index/s/spicy-pork-and-cashew-stir-fry-with-snow-peas-and-red-pepper-104637.json)
+ * [Acorn Squash Dal With Cashew Cilantro Rice](index/a/acorn-squash-dal-with-cashew-cilantro-rice.json)
+ * [Cashew Cilantro Rice](index/c/cashew-cilantro-rice.json)

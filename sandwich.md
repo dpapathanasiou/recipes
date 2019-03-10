@@ -47,3 +47,4 @@
  * [Turkey And Sweet Potato Sandwich](index/t/turkey-and-sweet-potato-sandwich-230169.json)
  * [Turkey Sausage And Vegetable Frittata Sandwich](index/t/turkey-sausage-and-vegetable-frittata-sandwich-276.json)
  * [Veal Burger Pita Sandwich](index/v/veal-burger-pita-sandwich-210.json)
+ * [Reuben Sandwich](index/r/reuben-sandwich.json)

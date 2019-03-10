@@ -206,3 +206,5 @@
  * [White Beans With Sage And Olive Oil](index/w/white-beans-with-sage-and-olive-oil-103458.json)
  * [Wok Seared Sesame Green Beans](index/w/wok-seared-sesame-green-beans-107878.json)
  * [Zesty Pinto Beans](index/z/zesty-pinto-beans-2499.json)
+ * [Braised Maple Bourbon Pork With Beans](index/b/braised-maple-bourbon-pork-with-beans.json)
+ * [Sauteed Chicken Breasts With Fava Beans And Green Garlic](index/s/sauteed-chicken-breasts-with-fava-beans-and-green-garlic.json)

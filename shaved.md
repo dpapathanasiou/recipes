@@ -23,3 +23,5 @@
  * [Slow Roasted Halibut With Shaved Asparagus And Fennel Salad](index/s/slow-roasted-halibut-with-shaved-asparagus-and-fennel-salad-358230.json)
  * [Sweet Potato Gnocchi With Fried Sage And Shaved Chestnuts](index/s/sweet-potato-gnocchi-with-fried-sage-and-shaved-chestnuts-355415.json)
  * [Wild Arugula Salad With Garlic Croutons Shaved Parmesan And Lemon](index/w/wild-arugula-salad-with-garlic-croutons-shaved-parmesan-and-lemon-242507.json)
+ * [Shaved Asparagus   Herb Pizza With Egg](index/s/shaved-asparagus---herb-pizza-with-egg.json)
+ * [Shaved Rhubarb Salad With Almonds And Cheese](index/s/shaved-rhubarb-salad-with-almonds-and-cheese.json)

@@ -48,3 +48,6 @@
  * [Tequila Lime Mahimahi Tacos](index/t/tequila-lime-mahimahi-tacos-51101200.json)
  * [Texas Beef Tacos](index/t/texas-beef-tacos-2670.json)
  * [Zucchini And Corn Tacos](index/z/zucchini-and-corn-tacos-354249.json)
+ * [Ancho Short Rib Tacos With Pickled Red Onions](index/a/ancho-short-rib-tacos-with-pickled-red-onions.json)
+ * [Lettuce Tacos With Grilled Sesame Beef](index/l/lettuce-tacos-with-grilled-sesame-beef.json)
+ * [Spicy Beef Tacos](index/s/spicy-beef-tacos.json)

@@ -7,3 +7,6 @@
  * [Salvadoran Stuffed Masa Cakes](index/s/salvadoran-stuffed-masa-cakes-239963.json)
  * [Stuffed Masa Pockets With Green Chiles And Cheese](index/s/stuffed-masa-pockets-with-green-chiles-and-cheese-108027.json)
  * [Tortillas De Masa Harina](index/t/tortillas-de-masa-harina-51110230.json)
+ * [Beef Chili With Masa Harina In A Stovetop Pressure Cooker](index/b/beef-chili-with-masa-harina-in-a-stovetop-pressure-cooker.json)
+ * [Beef Chili With Masa Harina In An Electric Pressure Cooker](index/b/beef-chili-with-masa-harina-in-an-electric-pressure-cooker.json)
+ * [Beef Chili With Masa Harina](index/b/beef-chili-with-masa-harina.json)

@@ -56,3 +56,4 @@
  * [Tropical Fruit Salsa With Jalapeno And Bell Peppers](index/t/tropical-fruit-salsa-with-jalapeno-and-bell-peppers-1987.json)
  * [Turkey Roulades With Corn Bread Jalapeno Monterey Jack Filling](index/t/turkey-roulades-with-corn-bread-jalapeno-monterey-jack-filling-10768.json)
  * [Zucchini With Jalapeno Monterey Jack](index/z/zucchini-with-jalapeno-monterey-jack-12275.json)
+ * [Jalapeno Bacon Cheddar Burgers](index/j/jalapeno-bacon-cheddar-burgers.json)

@@ -8,3 +8,5 @@
  * [Savory Bread Pudding With Asparagus Gruyere And Fines Herbes](index/s/savory-bread-pudding-with-asparagus-gruyere-and-fines-herbes-107057.json)
  * [Scalloped Potatoes With Goat Cheese And Herbes De Provence](index/s/scalloped-potatoes-with-goat-cheese-and-herbes-de-provence-2999.json)
  * [Wine Braised Lamb Shanks With Herbes De Provence](index/w/wine-braised-lamb-shanks-with-herbes-de-provence-109263.json)
+ * [Leek And Pancetta Risotto With Fines Herbes](index/l/leek-and-pancetta-risotto-with-fines-herbes.json)
+ * [Prime Rib Herbes De Provence](index/p/prime-rib-herbes-de-provence.json)

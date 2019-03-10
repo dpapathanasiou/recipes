@@ -69,3 +69,5 @@
  * [Walnut Toasts With Fig Jam And Manchego Cheese](index/w/walnut-toasts-with-fig-jam-and-manchego-cheese-236525.json)
  * [Warm Black Mission Fig Walnut Crunch And Blue Cheese Tartlets](index/w/warm-black-mission-fig-walnut-crunch-and-blue-cheese-tartlets-236218.json)
  * [White Pepper Creme Brulee With Fig And Prune Compote](index/w/white-pepper-creme-brulee-with-fig-and-prune-compote-108592.json)
+ * [Fig And Prosciutto Pizza](index/f/fig-and-prosciutto-pizza.json)
+ * [Pizza Bianca With Prosciutto And Fig](index/p/pizza-bianca-with-prosciutto-and-fig.json)

@@ -13,3 +13,4 @@
  * [Pineapple Mint Mojito](index/p/pineapple-mint-mojito-51160820.json)
  * [Spiced Mango Mojito Sauce](index/s/spiced-mango-mojito-sauce-234827.json)
  * [Tequila Mojito](index/t/tequila-mojito-201234.json)
+ * [Blood Orange Mojito](index/b/blood-orange-mojito.json)

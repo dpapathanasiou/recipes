@@ -92,3 +92,6 @@
  * [Sun Dried Tomato And Garlic Crusted Rack Of Lamb](index/s/sun-dried-tomato-and-garlic-crusted-rack-of-lamb-241109.json)
  * [Whole Wheat Crusted Chicken Breast Cutlets](index/w/whole-wheat-crusted-chicken-breast-cutlets-239147.json)
  * [Wild Rice Crusted Halibut](index/w/wild-rice-crusted-halibut-56389978.json)
+ * [Herb Crusted Beef Tenderloin](index/h/herb-crusted-beef-tenderloin.json)
+ * [Peppercorn Crusted Rib Eye](index/p/peppercorn-crusted-rib-eye.json)
+ * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)

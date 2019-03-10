@@ -9,3 +9,4 @@
  * [Root Vegetable Cobbler With Chive Biscuit Topping](index/r/root-vegetable-cobbler-with-chive-biscuit-topping-104335.json)
  * [Strawberry Rhubarb Cobbler With Cornmeal Biscuit Topping](index/s/strawberry-rhubarb-cobbler-with-cornmeal-biscuit-topping-1690.json)
  * [Turkey Potpie With Cheddar Biscuit Crust](index/t/turkey-potpie-with-cheddar-biscuit-crust-240566.json)
+ * [Slow Cooked Chicken Herb Biscuit](index/s/slow-cooked-chicken-herb-biscuit.json)

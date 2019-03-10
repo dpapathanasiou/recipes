@@ -24,3 +24,4 @@
  * [Toasted Caraway Salt Rub](index/t/toasted-caraway-salt-rub-51104330.json)
  * [Tricked Up Brisket Rub](index/t/tricked-up-brisket-rub-242262.json)
  * [Yemeni Spice Rub](index/y/yemeni-spice-rub-240754.json)
+ * [Chateaubriand With Shiitake Mushroom Rub](index/c/chateaubriand-with-shiitake-mushroom-rub.json)

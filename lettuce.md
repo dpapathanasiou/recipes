@@ -36,3 +36,4 @@
  * [Steak In Lettuce Rolls](index/s/steak-in-lettuce-rolls-238343.json)
  * [Tomato And Bacon Salad In Bibb Lettuce Cups](index/t/tomato-and-bacon-salad-in-bibb-lettuce-cups-12231.json)
  * [Watercress And Boston Lettuce Salad With Walnuts](index/w/watercress-and-boston-lettuce-salad-with-walnuts-13299.json)
+ * [Lettuce Tacos With Grilled Sesame Beef](index/l/lettuce-tacos-with-grilled-sesame-beef.json)

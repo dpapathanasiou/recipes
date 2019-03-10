@@ -12,3 +12,7 @@
  * [Toddy Bowl](index/t/toddy-bowl-200940.json)
  * [Tofu Yum Yum Rice Bowl](index/t/tofu-yum-yum-rice-bowl-56389364.json)
  * [Tomato And Mozzarella Bread Bowl Souffles](index/t/tomato-and-mozzarella-bread-bowl-souffles-15817.json)
+ * [Acai Bowl With Berries And Coconut](index/a/acai-bowl-with-berries-and-coconut.json)
+ * [Bowl Of Red Chili](index/b/bowl-of-red-chili.json)
+ * [Breakfast Bowl With Fresh Fruit And Granola](index/b/breakfast-bowl-with-fresh-fruit-and-granola.json)
+ * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)

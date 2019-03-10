@@ -5,3 +5,4 @@
  * [Jalapeno Cheeseburgers With Bacon And Grilled Onions](index/j/jalapeno-cheeseburgers-with-bacon-and-grilled-onions-232193.json)
  * [Pimiento Cheeseburgers](index/p/pimiento-cheeseburgers-354410.json)
  * [Triple Beef Cheeseburgers With Spiced Ketchup And Red Vinegar Pickles](index/t/triple-beef-cheeseburgers-with-spiced-ketchup-and-red-vinegar-pickles-360757.json)
+ * [Cheeseburgers](index/c/cheeseburgers.json)

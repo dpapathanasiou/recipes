@@ -31,3 +31,7 @@
  * [Grilled Pork Chops With Classic Barbecue Sauce](index/g/grilled-pork-chops-with-classic-barbecue-sauce-15066.json)
  * [Karo Classic Pecan Pie](index/k/karo-classic-pecan-pie.json)
  * [Penguin Buffets Classic Israeli Schnitzel](index/p/penguin-buffets-classic-israeli-schnitzel-231757.json)
+ * [Classic Beef Burgers](index/c/classic-beef-burgers.json)
+ * [Classic Beef Kabobs](index/c/classic-beef-kabobs.json)
+ * [Classic Pepperoni Pizza](index/c/classic-pepperoni-pizza.json)
+ * [Classic Reuben](index/c/classic-reuben.json)

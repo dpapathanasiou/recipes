@@ -20,3 +20,4 @@
  * [Strawberry Pistachio Crumble Pie](index/s/strawberry-pistachio-crumble-pie.json)
  * [Strawberry Rhubarb Crumble Smoothie](index/s/strawberry-rhubarb-crumble-smoothie-51258030.json)
  * [Wild Blueberry Pie With Almond Crumble Topping](index/w/wild-blueberry-pie-with-almond-crumble-topping-238822.json)
+ * [Rhubarb Ginger Crumble](index/r/rhubarb-ginger-crumble.json)

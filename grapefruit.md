@@ -67,3 +67,8 @@
  * [Tangerine Honey Flan With Grapefruit Segments](index/t/tangerine-honey-flan-with-grapefruit-segments-234825.json)
  * [Vin Santo Zabaglione With Orange And Grapefruit](index/v/vin-santo-zabaglione-with-orange-and-grapefruit-104659.json)
  * [Watermelon And Grapefruit Agua Fresca](index/w/watermelon-and-grapefruit-agua-fresca-395950.json)
+ * [Angel Food Cake With Grapefruit](index/a/angel-food-cake-with-grapefruit.json)
+ * [Braised Beef Arugula Grapefruit](index/b/braised-beef-arugula-grapefruit.json)
+ * [Candied Grapefruit Peel](index/c/candied-grapefruit-peel.json)
+ * [Pink Grapefruit   Sumac Salad](index/p/pink-grapefruit---sumac-salad.json)
+ * [Ruby Grapefruit Sorbet](index/r/ruby-grapefruit-sorbet.json)

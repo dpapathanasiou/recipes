@@ -39,3 +39,4 @@
  * [Warm Pumpkin Salad With Polenta And Candied Pumpkin Seeds](index/w/warm-pumpkin-salad-with-polenta-and-candied-pumpkin-seeds-105581.json)
  * [Wendes Blue Ribbon Apple Pie With Candied Ginger](index/w/wendes-blue-ribbon-apple-pie-with-candied-ginger-106670.json)
  * [White Chocolate Cupcakes With Candied Kumquats](index/w/white-chocolate-cupcakes-with-candied-kumquats-233944.json)
+ * [Candied Grapefruit Peel](index/c/candied-grapefruit-peel.json)

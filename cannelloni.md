@@ -9,3 +9,4 @@
  * [Seafood Cannelloni](index/s/seafood-cannelloni-107417.json)
  * [Shrimp And Crab Cannelloni](index/s/shrimp-and-crab-cannelloni-2455.json)
  * [Spinach Ricotta And Prosciutto Cannelloni](index/s/spinach-ricotta-and-prosciutto-cannelloni-11628.json)
+ * [Stuffed Cannelloni With Bolognese](index/s/stuffed-cannelloni-with-bolognese.json)

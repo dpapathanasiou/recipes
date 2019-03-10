@@ -14,3 +14,4 @@
  * [Succotash And Goat Cheese Quiche](index/s/succotash-and-goat-cheese-quiche-105792.json)
  * [Yellow Squash And Mozzarella Quiche With Fresh Thyme](index/y/yellow-squash-and-mozzarella-quiche-with-fresh-thyme-230610.json)
  * [Zucchini Bacon And Gruyere Quiche](index/z/zucchini-bacon-and-gruyere-quiche-233259.json)
+ * [Bacon And Leek Quiche](index/b/bacon-and-leek-quiche.json)

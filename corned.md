@@ -16,3 +16,7 @@
  * [Parsnip Soup With Corned Beef And Cabbage](index/p/parsnip-soup-with-corned-beef-and-cabbage-237294.json)
  * [Pulled Corned Beef](index/p/pulled-corned-beef-51225010.json)
  * [Twice Baked Potatoes With Corned Beef And Cabbage](index/t/twice-baked-potatoes-with-corned-beef-and-cabbage-230974.json)
+ * [Corned Beef And Cabbage](index/c/corned-beef-and-cabbage.json)
+ * [Corned Beef Hash Patties](index/c/corned-beef-hash-patties.json)
+ * [Corned Beef Hash With Caramelized Onions And Chiles](index/c/corned-beef-hash-with-caramelized-onions-and-chiles.json)
+ * [Corned Beef Hash](index/c/corned-beef-hash.json)

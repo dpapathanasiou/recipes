@@ -113,3 +113,5 @@
  * [Wild Rice And Roasted Vegetable Salad With Sherry Thyme Vinaigrette](index/w/wild-rice-and-roasted-vegetable-salad-with-sherry-thyme-vinaigrette-107476.json)
  * [Yellow Squash And Mozzarella Quiche With Fresh Thyme](index/y/yellow-squash-and-mozzarella-quiche-with-fresh-thyme-230610.json)
  * [Zucchini Potato Lemon Thyme Mash](index/z/zucchini-potato-lemon-thyme-mash-102029.json)
+ * [Dairy Less Potato Leeks Thyme](index/d/dairy-less-potato-leeks-thyme.json)
+ * [Savory Barley Soup With Wild Mushrooms And Thyme](index/s/savory-barley-soup-with-wild-mushrooms-and-thyme.json)

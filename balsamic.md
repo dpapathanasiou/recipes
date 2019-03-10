@@ -83,3 +83,6 @@
  * [Watermelon Feta And Arugula Salad With Balsamic Glaze](index/w/watermelon-feta-and-arugula-salad-with-balsamic-glaze-353890.json)
  * [White Balsamic Jicama Slaw](index/w/white-balsamic-jicama-slaw-358170.json)
  * [Wilted Red Cabbage With Balsamic Vinegar](index/w/wilted-red-cabbage-with-balsamic-vinegar-15526.json)
+ * [Balsamic Beef Stew](index/b/balsamic-beef-stew.json)
+ * [Balsamic Braised Short Ribs](index/b/balsamic-braised-short-ribs.json)
+ * [Balsamic Glazed Beets](index/b/balsamic-glazed-beets.json)

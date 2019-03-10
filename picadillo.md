@@ -7,3 +7,4 @@
  * [Plantain Picadillo Pie With Cheese](index/p/plantain-picadillo-pie-with-cheese-234803.json)
  * [Pork Picadillo Empanadas With Chipotle Salsa](index/p/pork-picadillo-empanadas-with-chipotle-salsa-696.json)
  * [Sweet Potatoes With Cuban Style Beef Picadillo](index/s/sweet-potatoes-with-cuban-style-beef-picadillo-51203840.json)
+ * [Cuban Beef Picadillo](index/c/cuban-beef-picadillo.json)

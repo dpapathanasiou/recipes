@@ -12,3 +12,4 @@
  * [Ratatouille Sandwich](index/r/ratatouille-sandwich-56389613.json)
  * [Ratatouille With Penne](index/r/ratatouille-with-penne-102256.json)
  * [Slow Cooked Ratatouille Over Goat Cheese Polenta](index/s/slow-cooked-ratatouille-over-goat-cheese-polenta-51152210.json)
+ * [Spicy Halibut With Ratatouille](index/s/spicy-halibut-with-ratatouille.json)

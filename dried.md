@@ -209,3 +209,4 @@
  * [Winter Dried Fruit And Nut Chocolate Bark](index/w/winter-dried-fruit-and-nut-chocolate-bark-240687.json)
  * [Zucchini Sun Dried Tomato And Mozarella Tart](index/z/zucchini-sun-dried-tomato-and-mozarella-tart-109567.json)
  * [Zucchini With Garlic And Dried Crushed Red Pepper](index/z/zucchini-with-garlic-and-dried-crushed-red-pepper-108462.json)
+ * [Pork Roast With Dried Fruit Compote](index/p/pork-roast-with-dried-fruit-compote.json)

@@ -55,3 +55,4 @@
  * [Vegetable Stir Fry With Garlic Miso Sauce](index/v/vegetable-stir-fry-with-garlic-miso-sauce-5146.json)
  * [Vegetarian Miso Tahini Squash Soup With Brown Rice](index/v/vegetarian-miso-tahini-squash-soup-with-brown-rice.json)
  * [White Miso Peach Pear Apple](index/w/white-miso-peach-pear-apple-395670.json)
+ * [Easy Weeknight Chicken With Sesame Miso Slaw](index/e/easy-weeknight-chicken-with-sesame-miso-slaw.json)

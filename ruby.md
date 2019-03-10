@@ -6,3 +6,4 @@
  * [Spiced Ruby Lamb Shanks](index/s/spiced-ruby-lamb-shanks-241228.json)
  * [The Ruby Diamond](index/t/the-ruby-diamond-56390143.json)
  * [Toasted Coconut Souffles With Ruby Red Cranberry Sauce](index/t/toasted-coconut-souffles-with-ruby-red-cranberry-sauce-356336.json)
+ * [Ruby Grapefruit Sorbet](index/r/ruby-grapefruit-sorbet.json)

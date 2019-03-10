@@ -6,3 +6,5 @@
  * [Stout Floats](index/s/stout-floats-238690.json)
  * [Stout Floats With Cocoa Syrup](index/s/stout-floats-with-cocoa-syrup-363725.json)
  * [Stout Spice Cake With Lemon Glaze](index/s/stout-spice-cake-with-lemon-glaze-13166.json)
+ * [Beef And Stout Pie](index/b/beef-and-stout-pie.json)
+ * [Stout Braised Short Ribs](index/s/stout-braised-short-ribs.json)

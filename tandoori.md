@@ -17,3 +17,6 @@
  * [Tandoori Style Roast Chicken](index/t/tandoori-style-roast-chicken-351426.json)
  * [Tandoori Tilapia With Hearts Of Palm Salad](index/t/tandoori-tilapia-with-hearts-of-palm-salad-236365.json)
  * [Tandoori Turkey](index/t/tandoori-turkey-368303.json)
+ * [Chicken Kabobs With Tandoori Spices](index/c/chicken-kabobs-with-tandoori-spices.json)
+ * [Tandoori Chicken Wings With Lemon](index/t/tandoori-chicken-wings-with-lemon.json)
+ * [Tandoori Grilled Chicken And Eggplant](index/t/tandoori-grilled-chicken-and-eggplant.json)

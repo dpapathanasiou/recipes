@@ -12,3 +12,6 @@
  * [Sweet Potato Chickpea Quinoa Burgers](index/s/sweet-potato-chickpea-quinoa-burgers-51196430.json)
  * [Sweet Potato Pumpkin Seed And Chickpea Party Mix](index/s/sweet-potato-pumpkin-seed-and-chickpea-party-mix-104629.json)
  * [Vegetable And Chickpea Ragout](index/v/vegetable-and-chickpea-ragout-355370.json)
+ * [Butternut Squash And Chickpea Curry](index/b/butternut-squash-and-chickpea-curry.json)
+ * [Chickpea Cauliflower And Potato Curry](index/c/chickpea-cauliflower-and-potato-curry.json)
+ * [Chickpea Curry](index/c/chickpea-curry.json)

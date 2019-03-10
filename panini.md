@@ -6,3 +6,6 @@
  * [Prosciutto Mozzarella Tomato And Basil Panini](index/p/prosciutto-mozzarella-tomato-and-basil-panini-108452.json)
  * [Smoked Ham Roasted Radicchio And Cheese Panini](index/s/smoked-ham-roasted-radicchio-and-cheese-panini-363311.json)
  * [Tuna And Artichoke Panini](index/t/tuna-and-artichoke-panini-106580.json)
+ * [Mini Roast Beef And Horseradish Panini Triangles](index/m/mini-roast-beef-and-horseradish-panini-triangles.json)
+ * [Pizza Panini](index/p/pizza-panini.json)
+ * [Roast Beef And Caramelized Onion Panini](index/r/roast-beef-and-caramelized-onion-panini.json)

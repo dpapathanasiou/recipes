@@ -10,3 +10,4 @@
  * [Snap Bean And Radish Crudites With Caesar Mayonnaise](index/s/snap-bean-and-radish-crudites-with-caesar-mayonnaise-100687.json)
  * [Summer Crudites With Bagna Cauda](index/s/summer-crudites-with-bagna-cauda-56389893.json)
  * [Sun Dried Tomato Aioli Dip With Crudites](index/s/sun-dried-tomato-aioli-dip-with-crudites-1237.json)
+ * [Creamy Herb Dip With Crudites](index/c/creamy-herb-dip-with-crudites.json)

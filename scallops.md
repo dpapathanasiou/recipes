@@ -109,3 +109,5 @@
  * [Winter Salad With Sauteed Bay Scallops](index/w/winter-salad-with-sauteed-bay-scallops-107694.json)
  * [Zucchini And Saffron Vichyssoise With Scallops](index/z/zucchini-and-saffron-vichyssoise-with-scallops-107004.json)
  * [Zucchini Wrapped Halibut Scallops](index/z/zucchini-wrapped-halibut-scallops-51171810.json)
+ * [Sauteed Scallops And Swiss Chard](index/s/sauteed-scallops-and-swiss-chard.json)
+ * [Seared Scallops With Orange And Red Onion Salad](index/s/seared-scallops-with-orange-and-red-onion-salad.json)

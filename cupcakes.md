@@ -21,3 +21,6 @@
  * [Vegan Vanilla Chai Cupcakes](index/v/vegan-vanilla-chai-cupcakes.json)
  * [White Chocolate Cupcakes With Candied Kumquats](index/w/white-chocolate-cupcakes-with-candied-kumquats-233944.json)
  * [Zucchini Ginger Cupcakes](index/z/zucchini-ginger-cupcakes-1222207.json)
+ * [Double Lemon Cupcakes With Cream](index/d/double-lemon-cupcakes-with-cream.json)
+ * [Easter Egg Nest Cupcakes](index/e/easter-egg-nest-cupcakes.json)
+ * [Rose And Vanilla Cupcakes](index/r/rose-and-vanilla-cupcakes.json)

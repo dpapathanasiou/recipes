@@ -56,3 +56,5 @@
  * [Three Pepper Relish](index/t/three-pepper-relish-180.json)
  * [Three Stripes](index/t/three-stripes-201019.json)
  * [Wild Mushroom And Three Cheese Lasagne](index/w/wild-mushroom-and-three-cheese-lasagne-1333.json)
+ * [Three Layer Carrot Cake With Cream Cheese Frosting](index/t/three-layer-carrot-cake-with-cream-cheese-frosting.json)
+ * [Three Pepper Pizza](index/t/three-pepper-pizza.json)

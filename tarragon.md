@@ -106,3 +106,5 @@
  * [Walnut Tarragon Bulgur](index/w/walnut-tarragon-bulgur-12412.json)
  * [Wild Rice And Chicken Or Turkey Salad With Tarragon](index/w/wild-rice-and-chicken-or-turkey-salad-with-tarragon-1427.json)
  * [Zucchini Ribbons With Tarragon](index/z/zucchini-ribbons-with-tarragon-242587.json)
+ * [Braised Tarragon Chicken](index/b/braised-tarragon-chicken.json)
+ * [Ricotta Pea Crostini Tarragon](index/r/ricotta-pea-crostini-tarragon.json)

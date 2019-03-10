@@ -25,3 +25,4 @@
  * [Sweet And Tangy Hummus](index/s/sweet-and-tangy-hummus-51239620.json)
  * [Vegetable Platter With Cannellini Hummus](index/v/vegetable-platter-with-cannellini-hummus-2340.json)
  * [Vegetables On Rosemary Skewers With White Bean Hummus](index/v/vegetables-on-rosemary-skewers-with-white-bean-hummus-230189.json)
+ * [Grilled Pizza With Hummus](index/g/grilled-pizza-with-hummus.json)

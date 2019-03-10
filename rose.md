@@ -18,3 +18,4 @@
  * [Rose Petal And Pistachio Raspberry Custard](index/r/rose-petal-and-pistachio-raspberry-custard-51104880.json)
  * [Strawberry Kiwi Sangria With Rose Geranium](index/s/strawberry-kiwi-sangria-with-rose-geranium-201237.json)
  * [Toasted Almond Cake With Strawberries In Rose Water Syrup](index/t/toasted-almond-cake-with-strawberries-in-rose-water-syrup-238684.json)
+ * [Rose And Vanilla Cupcakes](index/r/rose-and-vanilla-cupcakes.json)

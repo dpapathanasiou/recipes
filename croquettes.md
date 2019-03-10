@@ -9,3 +9,4 @@
  * [Sweet Potato Croquettes](index/s/sweet-potato-croquettes-1686.json)
  * [Turkey And Sweet Potato Croquettes With Cranberry Apple Salsa](index/t/turkey-and-sweet-potato-croquettes-with-cranberry-apple-salsa-13380.json)
  * [Wine And Ham Croquettes](index/w/wine-and-ham-croquettes-107135.json)
+ * [Rice Croquettes](index/r/rice-croquettes.json)

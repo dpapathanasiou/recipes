@@ -9,3 +9,4 @@
  * [Mache And Avocado Salad With Tortilla Strips](index/m/mache-and-avocado-salad-with-tortilla-strips-239074.json)
  * [Marinated Fried Fish Strips And Potatoes With Onions And Green Peppers](index/m/marinated-fried-fish-strips-and-potatoes-with-onions-and-green-peppers-10412.json)
  * [Spicy Tortilla Strips](index/s/spicy-tortilla-strips-230492.json)
+ * [Sauteed Strips Beef Arugula](index/s/sauteed-strips-beef-arugula.json)

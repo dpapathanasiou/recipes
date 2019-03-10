@@ -8,3 +8,6 @@
  * [Maple Barbecued Chicken](index/m/maple-barbecued-chicken-12278.json)
  * [Southwestern Barbecued Brisket With Ancho Chile Sauce](index/s/southwestern-barbecued-brisket-with-ancho-chile-sauce-242727.json)
  * [Spicy Barbecued Rib Eye Steaks With Smoked Vegetable Salsa](index/s/spicy-barbecued-rib-eye-steaks-with-smoked-vegetable-salsa-107148.json)
+ * [Barbecued Beef Sandwiches](index/b/barbecued-beef-sandwiches.json)
+ * [Korean Barbecued Beef](index/k/korean-barbecued-beef.json)
+ * [Texas Style Barbecued Brisket](index/t/texas-style-barbecued-brisket.json)

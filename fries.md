@@ -11,3 +11,7 @@
  * [Yuca French Fries](index/y/yuca-french-fries-107670.json)
  * [Yuca Fries With Chipotle Mayonnaise](index/y/yuca-fries-with-chipotle-mayonnaise-232004.json)
  * [Yukon Gold And Sweet Potato Home Fries](index/y/yukon-gold-and-sweet-potato-home-fries-368473.json)
+ * [Breakfast Skillet With Green Onion Home Fries](index/b/breakfast-skillet-with-green-onion-home-fries.json)
+ * [Cheddar Stuffed Burgers With Air Fried French Fries](index/c/cheddar-stuffed-burgers-with-air-fried-french-fries.json)
+ * [Grass Fed Beef Sliders With Air Fried French Fries](index/g/grass-fed-beef-sliders-with-air-fried-french-fries.json)
+ * [Sweet Potato Waffle Fries](index/s/sweet-potato-waffle-fries.json)

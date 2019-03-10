@@ -12,3 +12,4 @@
  * [Smoked Chicken Salad On Toasted Corn Bread Triangles](index/s/smoked-chicken-salad-on-toasted-corn-bread-triangles-5772.json)
  * [Spinach And Garlic Dip With Pita Triangles And Vegetables](index/s/spinach-and-garlic-dip-with-pita-triangles-and-vegetables-4317.json)
  * [Three Cheese Phyllo Triangles With Onions And Yogurt](index/t/three-cheese-phyllo-triangles-with-onions-and-yogurt-109733.json)
+ * [Mini Roast Beef And Horseradish Panini Triangles](index/m/mini-roast-beef-and-horseradish-panini-triangles.json)

@@ -12,3 +12,6 @@
  * [Texas Style Chili](index/t/texas-style-chili-11341.json)
  * [Texas Style Smoked Brisket](index/t/texas-style-smoked-brisket-51175220.json)
  * [West Texas Stacked Enchiladas](index/w/west-texas-stacked-enchiladas-367410.json)
+ * [Michael Voltaggios Texas Short Ribs](index/m/michael-voltaggios-texas-short-ribs.json)
+ * [Texas Beef Chili](index/t/texas-beef-chili.json)
+ * [Texas Style Barbecued Brisket](index/t/texas-style-barbecued-brisket.json)

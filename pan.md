@@ -106,3 +106,8 @@
  * [Spiced Pork Tenderloin With Cherry Thyme Pan Sauce](index/s/spiced-pork-tenderloin-with-cherry-thyme-pan-sauce.json)
  * [Spiced Roast Goose With Dried Fruit Pan Sauce](index/s/spiced-roast-goose-with-dried-fruit-pan-sauce-105910.json)
  * [Veal Saute With Merlot Pan Sauce](index/v/veal-saute-with-merlot-pan-sauce-103007.json)
+ * [Pan Roasted Asparagus With Garlic And Lemon Zest](index/p/pan-roasted-asparagus-with-garlic-and-lemon-zest.json)
+ * [Pan Roasted Beef Tenderloin With Rosemary And Garlic](index/p/pan-roasted-beef-tenderloin-with-rosemary-and-garlic.json)
+ * [Pan Roasted Chicken With Fennel Leeks And Cream](index/p/pan-roasted-chicken-with-fennel-leeks-and-cream.json)
+ * [Pan Seared Salmon With Pea Shoots And Watercress](index/p/pan-seared-salmon-with-pea-shoots-and-watercress.json)
+ * [Pork Chops With Mustard And Caper Pan Sauce](index/p/pork-chops-with-mustard-and-caper-pan-sauce.json)

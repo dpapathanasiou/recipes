@@ -111,3 +111,5 @@
  * [Vegan Vanilla Chai Cupcakes](index/v/vegan-vanilla-chai-cupcakes.json)
  * [Vegetables A La Barigoule With Vanilla](index/v/vegetables-a-la-barigoule-with-vanilla-394717.json)
  * [Warm Milk Chocolate Souffles With Vanilla Ice Cream](index/w/warm-milk-chocolate-souffles-with-vanilla-ice-cream-107329.json)
+ * [Rose And Vanilla Cupcakes](index/r/rose-and-vanilla-cupcakes.json)
+ * [Yogurt Panna Cotta Flecked With Vanilla Bean](index/y/yogurt-panna-cotta-flecked-with-vanilla-bean.json)

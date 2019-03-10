@@ -13,3 +13,5 @@
  * [Roasted Chili Citrus Chicken Thighs With Mixed Olives And Potatoes](index/r/roasted-chili-citrus-chicken-thighs-with-mixed-olives-and-potatoes-361192.json)
  * [Sheet Pan Cumin Chicken Thighs With Squash Fennel And Grapes](index/s/sheet-pan-cumin-chicken-thighs-with-squash-fennel-and-grapes-56390000.json)
  * [Thai Chicken Thighs](index/t/thai-chicken-thighs-149.json)
+ * [Braised Chicken Thighs Carrots](index/b/braised-chicken-thighs-carrots.json)
+ * [Vindaloo Spiced Chicken Thighs With Coconut Tomato Stew](index/v/vindaloo-spiced-chicken-thighs-with-coconut-tomato-stew.json)

@@ -9,3 +9,4 @@
  * [Sweet Corn Tamale](index/s/sweet-corn-tamale-233.json)
  * [Tamale Pie](index/t/tamale-pie-105915.json)
  * [Tamale Pie](index/t/tamale-pie-239927.json)
+ * [Tamale Pie](index/t/tamale-pie.json)

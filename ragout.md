@@ -36,3 +36,4 @@
  * [White Bean Ragout With Lemon Oil And Shiitake Mushrooms](index/w/white-bean-ragout-with-lemon-oil-and-shiitake-mushrooms-5848.json)
  * [Wild Mushroom And Parsnip Ragout With Cheesy Polenta](index/w/wild-mushroom-and-parsnip-ragout-with-cheesy-polenta.json)
  * [Wild Mushroom Ragout On Crispy Polenta With Comte Cheese](index/w/wild-mushroom-ragout-on-crispy-polenta-with-comte-cheese-240689.json)
+ * [Beef Tenderloin Mushroom Ragout](index/b/beef-tenderloin-mushroom-ragout.json)

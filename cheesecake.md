@@ -66,3 +66,4 @@
  * [Vanilla Bean Cheesecake With Guava Topping And Mango Lime Salad](index/v/vanilla-bean-cheesecake-with-guava-topping-and-mango-lime-salad-108538.json)
  * [Vanilla Cheesecake Tartlets With Vanilla Vodka Berries](index/v/vanilla-cheesecake-tartlets-with-vanilla-vodka-berries-100163.json)
  * [White Chocolate And Raspberry Cheesecake](index/w/white-chocolate-and-raspberry-cheesecake-1162.json)
+ * [Goat Cheese Lemon Cheesecake](index/g/goat-cheese-lemon-cheesecake.json)

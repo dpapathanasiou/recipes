@@ -25,3 +25,5 @@
  * [Summer Rolls With Baked Tofu And Sweet And Savory Dipping Sauce](index/s/summer-rolls-with-baked-tofu-and-sweet-and-savory-dipping-sauce-352777.json)
  * [Sweet And Savory Pine Nut Relish](index/s/sweet-and-savory-pine-nut-relish-4385.json)
  * [Yellow And Green Bean Salad With Olives Cherry Tomatoes And Summer Savory](index/y/yellow-and-green-bean-salad-with-olives-cherry-tomatoes-and-summer-savory-243587.json)
+ * [Savory Barley Soup With Wild Mushrooms And Thyme](index/s/savory-barley-soup-with-wild-mushrooms-and-thyme.json)
+ * [Savory Leek Gruyere Souffle](index/s/savory-leek-gruyere-souffle.json)

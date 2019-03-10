@@ -49,3 +49,4 @@
  * [Whipped Sweet Potatoes With Cardamom](index/w/whipped-sweet-potatoes-with-cardamom-2777.json)
  * [Whipped Sweet Potatoes With Nutmeg And Lemon](index/w/whipped-sweet-potatoes-with-nutmeg-and-lemon-2873.json)
  * [Whole Roasted Cauliflower With Whipped Goat Cheese](index/w/whole-roasted-cauliflower-with-whipped-goat-cheese-51161230.json)
+ * [Cranberry Curd Pie With Citrus Whipped Cream](index/c/cranberry-curd-pie-with-citrus-whipped-cream.json)

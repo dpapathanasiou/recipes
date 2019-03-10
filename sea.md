@@ -85,3 +85,5 @@
  * [Steamed Sea Bass With Ginger And Shiitakes](index/s/steamed-sea-bass-with-ginger-and-shiitakes-232446.json)
  * [Teriyaki Glazed Sea Bass](index/t/teriyaki-glazed-sea-bass-15262.json)
  * [Turkish Sauteed Sea Bass With Almond Tarator](index/t/turkish-sauteed-sea-bass-with-almond-tarator-342.json)
+ * [Flatbread With Olive Oil And Sea Salt](index/f/flatbread-with-olive-oil-and-sea-salt.json)
+ * [Kale Chips With Sea Salt And Smoked Paprika](index/k/kale-chips-with-sea-salt-and-smoked-paprika.json)

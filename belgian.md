@@ -6,3 +6,4 @@
  * [Orange Belgian Coffee](index/o/orange-belgian-coffee-200739.json)
  * [Roasted Beetroot Beet Blood Orange Red Witlof Belgian Endive And Asparagus With Orange Oil](index/r/roasted-beetroot-beet-blood-orange-red-witlof-belgian-endive-and-asparagus-with-orange-oil-104027.json)
  * [Watercress And Belgian Endive Salad](index/w/watercress-and-belgian-endive-salad-107607.json)
+ * [Belgian Beer And Onion Beef](index/b/belgian-beer-and-onion-beef.json)

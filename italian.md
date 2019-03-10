@@ -63,3 +63,6 @@
  * [To Trim Artichokes Into Bottoms Italian Style](index/t/to-trim-artichokes-into-bottoms-italian-style-101060.json)
  * [To Trim Artichokes Italian Style](index/t/to-trim-artichokes-italian-style-14975.json)
  * [Tortellini With Italian Sausage Fennel And Mushroom](index/t/tortellini-with-italian-sausage-fennel-and-mushroom-362553.json)
+ * [Italian Braised Short Ribs](index/i/italian-braised-short-ribs.json)
+ * [Italian Burgers With Peppers And Onions](index/i/italian-burgers-with-peppers-and-onions.json)
+ * [Italian Meat Loaf](index/i/italian-meat-loaf.json)

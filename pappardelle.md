@@ -11,3 +11,7 @@
  * [Pappardelle With Portobello Mushrooms Spinach And Pine Nuts](index/p/pappardelle-with-portobello-mushrooms-spinach-and-pine-nuts-4490.json)
  * [Pappardelle With Squash Mushrooms And Spinach](index/p/pappardelle-with-squash-mushrooms-and-spinach-240429.json)
  * [Yuba Pappardelle With English Peas Fava Leaves And Basil](index/y/yuba-pappardelle-with-english-peas-fava-leaves-and-basil-242046.json)
+ * [Pappardelle Bolognese Sauce](index/p/pappardelle-bolognese-sauce.json)
+ * [Pappardelle With Beef Ragu](index/p/pappardelle-with-beef-ragu.json)
+ * [Pappardelle With Bolognese Sauce](index/p/pappardelle-with-bolognese-sauce.json)
+ * [Short Rib Ragu With Fresh Pappardelle](index/s/short-rib-ragu-with-fresh-pappardelle.json)

@@ -9,3 +9,4 @@
  * [Panfried Tofu With Chinese Black Bean Sauce](index/p/panfried-tofu-with-chinese-black-bean-sauce-103384.json)
  * [Steamed Scrod Fillets Chinese Style](index/s/steamed-scrod-fillets-chinese-style-11939.json)
  * [Sticky Rice With Chinese Sausage And Dried Scallops](index/s/sticky-rice-with-chinese-sausage-and-dried-scallops-231372.json)
+ * [Chinese Peanut Noodles With Beef](index/c/chinese-peanut-noodles-with-beef.json)

@@ -23,3 +23,7 @@
  * [Easy Veggie Shrimp Stir Fry With Udon](index/e/easy-veggie-shrimp-stir-fry-with-udon-237146.json)
  * [Grilled Tuna With Provencal Vegetables And Easy Aioli](index/g/grilled-tuna-with-provencal-vegetables-and-easy-aioli-242694.json)
  * [Lemon Herb Chicken With Roasted Potatoes And Easy Caesar Salad](index/l/lemon-herb-chicken-with-roasted-potatoes-and-easy-caesar-salad-240523.json)
+ * [Easy Beef Bourguignonne With Steamed Potatoes](index/e/easy-beef-bourguignonne-with-steamed-potatoes.json)
+ * [Easy Slow Cooker Beef Bourguignonne](index/e/easy-slow-cooker-beef-bourguignonne.json)
+ * [Easy Spaghetti Bolognese](index/e/easy-spaghetti-bolognese.json)
+ * [Easy Weeknight Chicken With Sesame Miso Slaw](index/e/easy-weeknight-chicken-with-sesame-miso-slaw.json)

@@ -249,3 +249,6 @@
  * [Yams With Crispy Skins And Brown Butter Vinaigrette](index/y/yams-with-crispy-skins-and-brown-butter-vinaigrette-356314.json)
  * [Yellow Salad With Citrus Date Vinaigrette](index/y/yellow-salad-with-citrus-date-vinaigrette-56389539.json)
  * [Zucchini In Mint Vinaigrette](index/z/zucchini-in-mint-vinaigrette-10489.json)
+ * [Chicken Caesar With Creamy Lemon Vinaigrette](index/c/chicken-caesar-with-creamy-lemon-vinaigrette.json)
+ * [Poached Salmon Over Greens With Caper Vinaigrette](index/p/poached-salmon-over-greens-with-caper-vinaigrette.json)
+ * [Roasted Squash Salad With Curry Vinaigrette](index/r/roasted-squash-salad-with-curry-vinaigrette.json)

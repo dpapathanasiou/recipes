@@ -26,3 +26,6 @@
  * [Sheboygan Style Beer Soaked Brats](index/s/sheboygan-style-beer-soaked-brats-12642.json)
  * [Slow Cooked Texas Beer Brisket](index/s/slow-cooked-texas-beer-brisket-242260.json)
  * [Spiced Stonington Shrimp Steamed In Beer](index/s/spiced-stonington-shrimp-steamed-in-beer-107192.json)
+ * [Belgian Beer And Onion Beef](index/b/belgian-beer-and-onion-beef.json)
+ * [Braised Brisket With Beer And Onion Sauce](index/b/braised-brisket-with-beer-and-onion-sauce.json)
+ * [Stuffed Barbecue Burgers With Beer Cheddar Fondue](index/s/stuffed-barbecue-burgers-with-beer-cheddar-fondue.json)

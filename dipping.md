@@ -32,3 +32,4 @@
  * [Three Dipping Sauces](index/t/three-dipping-sauces-109291.json)
  * [Vietnamese Dipping Sauce](index/v/vietnamese-dipping-sauce-108119.json)
  * [Zucchini Bacon Fritters With Basil Mayo Dipping Sauce](index/z/zucchini-bacon-fritters-with-basil-mayo-dipping-sauce-357981.json)
+ * [Beef Satay With Ginger Dipping Sauce](index/b/beef-satay-with-ginger-dipping-sauce.json)

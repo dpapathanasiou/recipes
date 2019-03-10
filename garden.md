@@ -14,3 +14,4 @@
  * [Summer Garden Salad With Chili Garlic Shrimp](index/s/summer-garden-salad-with-chili-garlic-shrimp-232547.json)
  * [Victory Garden Chicken Vegetable Soup](index/v/victory-garden-chicken-vegetable-soup-102128.json)
  * [Winter Garden Ditalini](index/w/winter-garden-ditalini-106221.json)
+ * [Herbed Garden Salad Goat Cheese](index/h/herbed-garden-salad-goat-cheese.json)

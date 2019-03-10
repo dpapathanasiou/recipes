@@ -13,3 +13,4 @@
  * [Shrimp And Crab Gumbo](index/s/shrimp-and-crab-gumbo-13484.json)
  * [Shrimp Chicken And Andouille Gumbo](index/s/shrimp-chicken-and-andouille-gumbo-236774.json)
  * [Spicy Gumbo Laya](index/s/spicy-gumbo-laya-4104.json)
+ * [Spicy Slow Cooker Gumbo](index/s/spicy-slow-cooker-gumbo.json)

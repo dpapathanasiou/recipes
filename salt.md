@@ -42,3 +42,5 @@
  * [Vodka Spiked Cherry Tomatoes With Pepper Salt](index/v/vodka-spiked-cherry-tomatoes-with-pepper-salt-354490.json)
  * [Watermelon With Fennel Salt](index/w/watermelon-with-fennel-salt-232023.json)
  * [Yukari Shiso Salt Yaki Onigiri](index/y/yukari-shiso-salt-yaki-onigiri-365590.json)
+ * [Flatbread With Olive Oil And Sea Salt](index/f/flatbread-with-olive-oil-and-sea-salt.json)
+ * [Kale Chips With Sea Salt And Smoked Paprika](index/k/kale-chips-with-sea-salt-and-smoked-paprika.json)

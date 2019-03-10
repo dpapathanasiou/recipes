@@ -11,3 +11,4 @@
  * [Red Lentil Soup With Garam Masala](index/r/red-lentil-soup-with-garam-masala-14125.json)
  * [Shrimp With Spiced Masala And Coconut Milk](index/s/shrimp-with-spiced-masala-and-coconut-milk-105541.json)
  * [Spiced Milk Tea Masala Chai](index/s/spiced-milk-tea-masala-chai-355421.json)
+ * [Chicken Tikka Masala](index/c/chicken-tikka-masala.json)

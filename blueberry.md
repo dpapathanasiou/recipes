@@ -48,3 +48,4 @@
  * [White Chocolate Passion Fruit Turnovers With Blueberry Mint Sauce And Coconut Cream](index/w/white-chocolate-passion-fruit-turnovers-with-blueberry-mint-sauce-and-coconut-cream-51190810.json)
  * [Whole Grain Pancakes With Wild Blueberry Maple Syrup](index/w/whole-grain-pancakes-with-wild-blueberry-maple-syrup-241329.json)
  * [Wild Blueberry Pie With Almond Crumble Topping](index/w/wild-blueberry-pie-with-almond-crumble-topping-238822.json)
+ * [Individual Blueberry Lemon Cakes](index/i/individual-blueberry-lemon-cakes.json)

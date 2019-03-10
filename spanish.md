@@ -23,3 +23,5 @@
  * [Spanish Style Tomato Toast With Garlic And Olive Oil](index/s/spanish-style-tomato-toast-with-garlic-and-olive-oil-56389821.json)
  * [Spanish Style Tortilla](index/s/spanish-style-tortilla-4473.json)
  * [Spanish Trail Mix](index/s/spanish-trail-mix-363089.json)
+ * [Spanish Pizza Chorizo Manchego](index/s/spanish-pizza-chorizo-manchego.json)
+ * [Spanish Steak](index/s/spanish-steak.json)

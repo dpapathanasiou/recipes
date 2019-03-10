@@ -23,3 +23,8 @@
  * [Vietnamese Style Pork Chops With Fresh Herb Salad](index/v/vietnamese-style-pork-chops-with-fresh-herb-salad.json)
  * [Vietnamese Style Spaghetti Squash Noodle Bowls With Skirt Steak](index/v/vietnamese-style-spaghetti-squash-noodle-bowls-with-skirt-steak.json)
  * [Vietnamese Style Spring Rolls With Shrimp](index/v/vietnamese-style-spring-rolls-with-shrimp-4626.json)
+ * [Quick Vietnamese Beef  And Noodle Soup](index/q/quick-vietnamese-beef--and-noodle-soup.json)
+ * [Vietnamese Beef And Watercress Salad](index/v/vietnamese-beef-and-watercress-salad.json)
+ * [Vietnamese Beef Noodle Salad](index/v/vietnamese-beef-noodle-salad.json)
+ * [Vietnamese Beef Noodle Soup](index/v/vietnamese-beef-noodle-soup.json)
+ * [Vietnamese Beef Salad](index/v/vietnamese-beef-salad.json)

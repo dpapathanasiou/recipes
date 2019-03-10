@@ -12,3 +12,5 @@
  * [Pork Medallions With Spiced Tomato Pan Gravy](index/p/pork-medallions-with-spiced-tomato-pan-gravy-10775.json)
  * [Sherry Lemon Veal Medallions](index/s/sherry-lemon-veal-medallions-4456.json)
  * [Turkey Breast Medallions With Tomato Jam](index/t/turkey-breast-medallions-with-tomato-jam-234084.json)
+ * [Beef Medallions Curry Cream](index/b/beef-medallions-curry-cream.json)
+ * [Beef Medallions With Spring Mashed Potatoes](index/b/beef-medallions-with-spring-mashed-potatoes.json)

@@ -15,3 +15,5 @@
  * [Sausage And Potato Breakfast Casserole](index/s/sausage-and-potato-breakfast-casserole-4387.json)
  * [Southwestern Breakfast Scramble](index/s/southwestern-breakfast-scramble-104327.json)
  * [Willem De Koonings Traditional Dutch Breakfast](index/w/willem-de-koonings-traditional-dutch-breakfast-108326.json)
+ * [Breakfast Bowl With Fresh Fruit And Granola](index/b/breakfast-bowl-with-fresh-fruit-and-granola.json)
+ * [Breakfast Skillet With Green Onion Home Fries](index/b/breakfast-skillet-with-green-onion-home-fries.json)

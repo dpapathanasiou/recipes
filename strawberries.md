@@ -42,3 +42,4 @@
  * [Vanilla Roasted Rhubarb And Strawberries](index/v/vanilla-roasted-rhubarb-and-strawberries-395949.json)
  * [White Chocolate Easter Cake With Strawberries](index/w/white-chocolate-easter-cake-with-strawberries-449.json)
  * [White Chocolate Tartlets With Strawberries And Bananas](index/w/white-chocolate-tartlets-with-strawberries-and-bananas-103302.json)
+ * [Baby Spinach Salad With Roasted Strawberries](index/b/baby-spinach-salad-with-roasted-strawberries.json)

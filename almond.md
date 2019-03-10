@@ -136,3 +136,6 @@
  * [Wild Blueberry Pie With Almond Crumble Topping](index/w/wild-blueberry-pie-with-almond-crumble-topping-238822.json)
  * [Wild Rice And Toasted Almond Pilaf](index/w/wild-rice-and-toasted-almond-pilaf-106282.json)
  * [Yarnall Familys Fyrstekake Norwegian Cardamom Almond Tart](index/y/yarnall-familys-fyrstekake-norwegian-cardamom-almond-tart-51135090.json)
+ * [Almond Pavlova With Strawberry Rhubarb Compote](index/a/almond-pavlova-with-strawberry-rhubarb-compote.json)
+ * [Olive Oil Almond Cake](index/o/olive-oil-almond-cake.json)
+ * [Orange Scented Almond Torte](index/o/orange-scented-almond-torte.json)

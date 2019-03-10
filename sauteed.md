@@ -155,3 +155,8 @@
  * [Walnut Cake With Sauteed Pears Pecorino And Black Pepper Ice Cream](index/w/walnut-cake-with-sauteed-pears-pecorino-and-black-pepper-ice-cream-235858.json)
  * [White Cheddar Polenta With Sauteed Greens And Garlic Roasted Portobellos](index/w/white-cheddar-polenta-with-sauteed-greens-and-garlic-roasted-portobellos-104587.json)
  * [Winter Salad With Sauteed Bay Scallops](index/w/winter-salad-with-sauteed-bay-scallops-107694.json)
+ * [Grill Sauteed Beef Vegetables](index/g/grill-sauteed-beef-vegetables.json)
+ * [Sauteed Chicken Breasts With Fava Beans And Green Garlic](index/s/sauteed-chicken-breasts-with-fava-beans-and-green-garlic.json)
+ * [Sauteed English Peas With Garlic And Sesame](index/s/sauteed-english-peas-with-garlic-and-sesame.json)
+ * [Sauteed Scallops And Swiss Chard](index/s/sauteed-scallops-and-swiss-chard.json)
+ * [Sauteed Strips Beef Arugula](index/s/sauteed-strips-beef-arugula.json)

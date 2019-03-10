@@ -17,3 +17,4 @@
  * [Rum Fizz](index/r/rum-fizz-200441.json)
  * [Strawberry Margarita Fizz](index/s/strawberry-margarita-fizz-200662.json)
  * [Vodka Rosemary Lemonade Fizz](index/v/vodka-rosemary-lemonade-fizz-352869.json)
+ * [Honey Tangerine Fizz](index/h/honey-tangerine-fizz.json)

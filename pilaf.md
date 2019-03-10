@@ -34,3 +34,4 @@
  * [Wild And Brown Rice Pilaf With Cranberries](index/w/wild-and-brown-rice-pilaf-with-cranberries-15537.json)
  * [Wild Rice And Toasted Almond Pilaf](index/w/wild-rice-and-toasted-almond-pilaf-106282.json)
  * [Yellow Rice Pilaf](index/y/yellow-rice-pilaf-51126870.json)
+ * [Coconut Curry Chicken With Basmati Pilaf](index/c/coconut-curry-chicken-with-basmati-pilaf.json)

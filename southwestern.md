@@ -20,3 +20,5 @@
  * [Southwestern Sweet Potato Saute](index/s/southwestern-sweet-potato-saute-233217.json)
  * [Southwestern Taco Salad](index/s/southwestern-taco-salad-108439.json)
  * [Southwestern Turkey With Garlic Ancho Chili Paste And Gravy](index/s/southwestern-turkey-with-garlic-ancho-chili-paste-and-gravy-803.json)
+ * [Grilled Southwestern Pizza](index/g/grilled-southwestern-pizza.json)
+ * [Southwestern Beef And Peppers](index/s/southwestern-beef-and-peppers.json)

@@ -100,3 +100,4 @@
  * [Vegetable Medley In Garlic Chile Sauce](index/v/vegetable-medley-in-garlic-chile-sauce-232059.json)
  * [White Bean Soup With Chile Paste](index/w/white-bean-soup-with-chile-paste-239798.json)
  * [Xuxu And Shrimp With Chile And Lemon](index/x/xuxu-and-shrimp-with-chile-and-lemon-354968.json)
+ * [Margherita Pizza Ghost Chile Sauce](index/m/margherita-pizza-ghost-chile-sauce.json)

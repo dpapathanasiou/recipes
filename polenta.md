@@ -71,3 +71,6 @@
  * [Wild Mushroom And Parsnip Ragout With Cheesy Polenta](index/w/wild-mushroom-and-parsnip-ragout-with-cheesy-polenta.json)
  * [Wild Mushroom And Parsnip Ragu With Cheesy Polenta](index/w/wild-mushroom-and-parsnip-ragu-with-cheesy-polenta.json)
  * [Wild Mushroom Ragout On Crispy Polenta With Comte Cheese](index/w/wild-mushroom-ragout-on-crispy-polenta-with-comte-cheese-240689.json)
+ * [Braised Short Ribs With Creamy Polenta](index/b/braised-short-ribs-with-creamy-polenta.json)
+ * [Polenta Galettes With Leek And Swiss Chard](index/p/polenta-galettes-with-leek-and-swiss-chard.json)
+ * [Polenta Pizza With Tomatoes And Fresh Herbs](index/p/polenta-pizza-with-tomatoes-and-fresh-herbs.json)

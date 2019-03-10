@@ -304,3 +304,5 @@
  * [Yukon Gold And Fennel Puree With Rosemary Butter](index/y/yukon-gold-and-fennel-puree-with-rosemary-butter-350476.json)
  * [Zucchini In Pecan Brown Butter](index/z/zucchini-in-pecan-brown-butter-103969.json)
  * [Zucchini Noodles With Anchovy Butter](index/z/zucchini-noodles-with-anchovy-butter-56389802.json)
+ * [Beef Short Ribs With Cumin Butter Carrots](index/b/beef-short-ribs-with-cumin-butter-carrots.json)
+ * [Steaks With Herb Butter](index/s/steaks-with-herb-butter.json)

@@ -155,3 +155,4 @@
  * [Whiskey Sour Cocktail](index/w/whiskey-sour-cocktail.json)
  * [Yellow Layer Cake With Chocolate Sour Cream Frosting](index/y/yellow-layer-cake-with-chocolate-sour-cream-frosting-51118090.json)
  * [Zucchini With Sour Cream And Dill](index/z/zucchini-with-sour-cream-and-dill-100769.json)
+ * [Sweet And Sour Vidalia Onions](index/s/sweet-and-sour-vidalia-onions.json)

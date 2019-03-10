@@ -12,3 +12,4 @@
  * [Spicy Potato Tagine With Preserved Lemon And Olives](index/s/spicy-potato-tagine-with-preserved-lemon-and-olives-231569.json)
  * [Tagine Bil Kok](index/t/tagine-bil-kok-15841.json)
  * [Vegetarian Tagine](index/v/vegetarian-tagine-56389876.json)
+ * [Chicken Tagine Lemons And Olives](index/c/chicken-tagine-lemons-and-olives.json)

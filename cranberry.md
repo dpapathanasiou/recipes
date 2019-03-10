@@ -243,3 +243,4 @@
  * [White Chocolate Rice Pudding With Dried Cranberry Compote](index/w/white-chocolate-rice-pudding-with-dried-cranberry-compote-5812.json)
  * [Whole Grain Cranberry Apple Scones](index/w/whole-grain-cranberry-apple-scones-241368.json)
  * [Wild Rice Apple And Dried Cranberry Stuffing](index/w/wild-rice-apple-and-dried-cranberry-stuffing-108759.json)
+ * [Cranberry Curd Pie With Citrus Whipped Cream](index/c/cranberry-curd-pie-with-citrus-whipped-cream.json)

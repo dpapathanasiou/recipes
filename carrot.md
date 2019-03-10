@@ -88,3 +88,6 @@
  * [Vietnamese Sticky Chicken With Daikon And Carrot Pickle](index/v/vietnamese-sticky-chicken-with-daikon-and-carrot-pickle-231644.json)
  * [Warm Goat Cheese And Carrot Salad With Marjoram Honey Vinaigrette](index/w/warm-goat-cheese-and-carrot-salad-with-marjoram-honey-vinaigrette-240031.json)
  * [Zested Carrot Zucchini Julienne](index/z/zested-carrot-zucchini-julienne-13271.json)
+ * [Beef Carrot And Edamame Stew](index/b/beef-carrot-and-edamame-stew.json)
+ * [North African Carrot Salad](index/n/north-african-carrot-salad.json)
+ * [Three Layer Carrot Cake With Cream Cheese Frosting](index/t/three-layer-carrot-cake-with-cream-cheese-frosting.json)

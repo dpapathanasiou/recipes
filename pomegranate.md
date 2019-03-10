@@ -54,3 +54,4 @@
  * [Walnut And Almond Cake With Orange Pomegranate Compote](index/w/walnut-and-almond-cake-with-orange-pomegranate-compote-237918.json)
  * [Walnut Chicken With Pomegranate Sauce](index/w/walnut-chicken-with-pomegranate-sauce-963.json)
  * [Watercress Pear And Pomegranate Salad](index/w/watercress-pear-and-pomegranate-salad-984.json)
+ * [Pomegranate Merlot Lamb Shanks](index/p/pomegranate-merlot-lamb-shanks.json)

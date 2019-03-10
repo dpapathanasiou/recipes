@@ -32,3 +32,4 @@
  * [Turkey Tortilla Soup](index/t/turkey-tortilla-soup-989.json)
  * [Vegetable Tortilla Lasagne](index/v/vegetable-tortilla-lasagne-10235.json)
  * [Zucchini Potato Tortilla](index/z/zucchini-potato-tortilla-242870.json)
+ * [Smoky Beef Chili With Tortilla Chip Crust](index/s/smoky-beef-chili-with-tortilla-chip-crust.json)

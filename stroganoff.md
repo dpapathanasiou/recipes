@@ -5,3 +5,5 @@
  * [Mushrooms Stroganoff](index/m/mushrooms-stroganoff-2212.json)
  * [Tri Tip Beef Stroganoff With Wild Mushrooms On Sourdough Toasts](index/t/tri-tip-beef-stroganoff-with-wild-mushrooms-on-sourdough-toasts-357530.json)
  * [Vegan Pasta Alfredo With Stroganoff](index/v/vegan-pasta-alfredo-with-stroganoff.json)
+ * [Beef Stroganoff](index/b/beef-stroganoff.json)
+ * [Steak And Mushroom Stroganoff](index/s/steak-and-mushroom-stroganoff.json)

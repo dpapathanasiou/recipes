@@ -29,3 +29,5 @@
  * [Waffled Sweet Potato Chips](index/w/waffled-sweet-potato-chips-11326.json)
  * [Yuca Chips](index/y/yuca-chips-106564.json)
  * [Zucchini Chips](index/z/zucchini-chips-107738.json)
+ * [Kale Chips With Sea Salt And Smoked Paprika](index/k/kale-chips-with-sea-salt-and-smoked-paprika.json)
+ * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)

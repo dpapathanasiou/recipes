@@ -23,3 +23,4 @@
  * [Split Pea Soup With Chorizo](index/s/split-pea-soup-with-chorizo-11594.json)
  * [Steamed Mussels With Tomato And Chorizo Broth](index/s/steamed-mussels-with-tomato-and-chorizo-broth-56389715.json)
  * [Wax Bean Pea And Chorizo Salad](index/w/wax-bean-pea-and-chorizo-salad-242871.json)
+ * [Spanish Pizza Chorizo Manchego](index/s/spanish-pizza-chorizo-manchego.json)

@@ -299,3 +299,5 @@
  * [Winter Dried Fruit And Nut Chocolate Bark](index/w/winter-dried-fruit-and-nut-chocolate-bark-240687.json)
  * [Winter Spiced Molten Chocolate Cakes With Rum Ginger Ice Cream](index/w/winter-spiced-molten-chocolate-cakes-with-rum-ginger-ice-cream-109054.json)
  * [Yellow Layer Cake With Chocolate Sour Cream Frosting](index/y/yellow-layer-cake-with-chocolate-sour-cream-frosting-51118090.json)
+ * [Chocolate Caramel Tart](index/c/chocolate-caramel-tart.json)
+ * [Raspberry And Chocolate Tartlets](index/r/raspberry-and-chocolate-tartlets.json)

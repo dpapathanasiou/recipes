@@ -95,3 +95,5 @@
  * [White Onion Soup With Chive Oil](index/w/white-onion-soup-with-chive-oil-15102.json)
  * [Whole Roasted Cauliflower With Olive Oil And Capers](index/w/whole-roasted-cauliflower-with-olive-oil-and-capers-236377.json)
  * [Yellow Tomato Gazpacho With Cilantro Oil And Avocado](index/y/yellow-tomato-gazpacho-with-cilantro-oil-and-avocado-106817.json)
+ * [Flatbread With Olive Oil And Sea Salt](index/f/flatbread-with-olive-oil-and-sea-salt.json)
+ * [Olive Oil Almond Cake](index/o/olive-oil-almond-cake.json)

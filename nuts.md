@@ -82,3 +82,4 @@
  * [Yogurt With Fresh Figs Honey And Pine Nuts](index/y/yogurt-with-fresh-figs-honey-and-pine-nuts-51239840.json)
  * [Zucchini Salad With Ajo Blanco Dressing Spiced Nuts](index/z/zucchini-salad-with-ajo-blanco-dressing-spiced-nuts-56389847.json)
  * [Zucchini With Raisins And Pine Nuts](index/z/zucchini-with-raisins-and-pine-nuts-101855.json)
+ * [Indian Spiced Mixed Nuts](index/i/indian-spiced-mixed-nuts.json)

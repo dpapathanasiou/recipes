@@ -22,3 +22,5 @@
  * [Sliced Filet Mignon With Fava Beans Radishes And Mustard Dressing](index/s/sliced-filet-mignon-with-fava-beans-radishes-and-mustard-dressing-234424.json)
  * [Spiced Fava Bean Soup With Rice And Tomato](index/s/spiced-fava-bean-soup-with-rice-and-tomato-51232410.json)
  * [Yuba Pappardelle With English Peas Fava Leaves And Basil](index/y/yuba-pappardelle-with-english-peas-fava-leaves-and-basil-242046.json)
+ * [Fava Bean And Ricotta Omelette With Spring Greens](index/f/fava-bean-and-ricotta-omelette-with-spring-greens.json)
+ * [Sauteed Chicken Breasts With Fava Beans And Green Garlic](index/s/sauteed-chicken-breasts-with-fava-beans-and-green-garlic.json)

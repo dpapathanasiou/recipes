@@ -14,3 +14,4 @@
  * [Slow Roasted Lamb Shoulder With Pancetta](index/s/slow-roasted-lamb-shoulder-with-pancetta-236877.json)
  * [Slow Roasted Pork Shoulder With Mustard And Sage](index/s/slow-roasted-pork-shoulder-with-mustard-and-sage-51224010.json)
  * [Veal Shoulder With Porcini Mushrooms Garlic And Rosemary](index/v/veal-shoulder-with-porcini-mushrooms-garlic-and-rosemary-103266.json)
+ * [Pork Shoulder With Sauerkraut And Apples](index/p/pork-shoulder-with-sauerkraut-and-apples.json)

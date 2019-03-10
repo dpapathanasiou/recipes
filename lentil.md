@@ -60,3 +60,5 @@
  * [Warm Lentil Salad With Sausage](index/w/warm-lentil-salad-with-sausage-10670.json)
  * [Warm Lentil Salad With Sausage](index/w/warm-lentil-salad-with-sausage-233546.json)
  * [Yellow Lentil Soup](index/y/yellow-lentil-soup-235451.json)
+ * [Lentil Potato And Spinach Curry](index/l/lentil-potato-and-spinach-curry.json)
+ * [Red Chief Lentil Leek Soup](index/r/red-chief-lentil-leek-soup.json)

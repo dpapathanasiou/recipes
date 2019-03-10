@@ -8,3 +8,4 @@
  * [Moms Meat Loaf](index/m/moms-meat-loaf-2480.json)
  * [Moms Noodle Kugel](index/m/moms-noodle-kugel-6006.json)
  * [Moms Sweet And Sour Red Cabbage](index/m/moms-sweet-and-sour-red-cabbage-51218610.json)
+ * [Moms Home Style Pot Roast](index/m/moms-home-style-pot-roast.json)

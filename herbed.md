@@ -124,3 +124,5 @@
  * [Turkish Grilled Turkey Or Chicken With Tangy Herbed Yogurt](index/t/turkish-grilled-turkey-or-chicken-with-tangy-herbed-yogurt-51237070.json)
  * [Warm Cauliflower And Herbed Barley Salad](index/w/warm-cauliflower-and-herbed-barley-salad-51148400.json)
  * [Young Lettuces With Herbed Avocado](index/y/young-lettuces-with-herbed-avocado-56389981.json)
+ * [Herbed Garden Salad Goat Cheese](index/h/herbed-garden-salad-goat-cheese.json)
+ * [Herbed Pizzas With Prosciutto Basil And Goat Cheese](index/h/herbed-pizzas-with-prosciutto-basil-and-goat-cheese.json)

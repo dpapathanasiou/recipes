@@ -10,3 +10,6 @@
  * [Hearty Rutabaga Carrot Parsnip And Sausage Soup](index/h/hearty-rutabaga-carrot-parsnip-and-sausage-soup-2744.json)
  * [Hearty Rutabaga Turnip And Carrot Soup](index/h/hearty-rutabaga-turnip-and-carrot-soup-4637.json)
  * [Moms Hearty Chicken And Rice Soup](index/m/moms-hearty-chicken-and-rice-soup-103109.json)
+ * [Hearty Beef And Vegetable Soup](index/h/hearty-beef-and-vegetable-soup.json)
+ * [Hearty Beef Stew Cf](index/h/hearty-beef-stew-cf.json)
+ * [Hearty Beef Stew](index/h/hearty-beef-stew.json)

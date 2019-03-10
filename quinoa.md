@@ -39,3 +39,4 @@
  * [Stellar Quinoa Burger](index/s/stellar-quinoa-burger.json)
  * [Sweet Potato Chickpea Quinoa Burgers](index/s/sweet-potato-chickpea-quinoa-burgers-51196430.json)
  * [Sweet Potato Swiss Chard And Quinoa Gratin](index/s/sweet-potato-swiss-chard-and-quinoa-gratin-11436.json)
+ * [Moroccan Spiced Roasted Vegetables And Quinoa](index/m/moroccan-spiced-roasted-vegetables-and-quinoa.json)

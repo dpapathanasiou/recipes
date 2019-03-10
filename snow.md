@@ -18,3 +18,4 @@
  * [Stir Fried Chicken With Bell Peppers And Snow Cabbage](index/s/stir-fried-chicken-with-bell-peppers-and-snow-cabbage-238278.json)
  * [Stir Fried Shrimp Snow Pea And Walnut Salad](index/s/stir-fried-shrimp-snow-pea-and-walnut-salad-11911.json)
  * [Udon Noodles With Shrimp Snow Peas And Peanuts](index/u/udon-noodles-with-shrimp-snow-peas-and-peanuts-56389801.json)
+ * [Tangerine Beef And Snow Peas](index/t/tangerine-beef-and-snow-peas.json)

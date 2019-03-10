@@ -39,3 +39,6 @@
  * [White Chocolate Tartlets With Strawberry Coulis](index/w/white-chocolate-tartlets-with-strawberry-coulis-5841.json)
  * [Wild Mushroom Tartlets](index/w/wild-mushroom-tartlets-101580.json)
  * [Wonky Summer Pasta Herby Salad Pear Drop Tartlets](index/w/wonky-summer-pasta-herby-salad-pear-drop-tartlets-368809.json)
+ * [Buttermilk Tartlets Berries](index/b/buttermilk-tartlets-berries.json)
+ * [Lemon Curd Tartlets](index/l/lemon-curd-tartlets.json)
+ * [Raspberry And Chocolate Tartlets](index/r/raspberry-and-chocolate-tartlets.json)

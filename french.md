@@ -67,3 +67,6 @@
  * [Vanilla Maple French Toast With Warm Berry Preserves](index/v/vanilla-maple-french-toast-with-warm-berry-preserves-231281.json)
  * [Wild Rice With French Green Lentils](index/w/wild-rice-with-french-green-lentils-233941.json)
  * [Yuca French Fries](index/y/yuca-french-fries-107670.json)
+ * [Cheddar Stuffed Burgers With Air Fried French Fries](index/c/cheddar-stuffed-burgers-with-air-fried-french-fries.json)
+ * [Grass Fed Beef Sliders With Air Fried French Fries](index/g/grass-fed-beef-sliders-with-air-fried-french-fries.json)
+ * [Meyer Lemon French Toast](index/m/meyer-lemon-french-toast.json)

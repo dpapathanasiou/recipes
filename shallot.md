@@ -58,3 +58,5 @@
  * [Wild Mushroom Shallot Gravy](index/w/wild-mushroom-shallot-gravy-4379.json)
  * [Wild Mushrooms Haricot Vert And Shallot Saute](index/w/wild-mushrooms-haricot-vert-and-shallot-saute-232889.json)
  * [Wild Mushrooms Shallot And Gruyere Omelets](index/w/wild-mushrooms-shallot-and-gruyere-omelets-1848.json)
+ * [Beef Tenderloin Shallot Syrah](index/b/beef-tenderloin-shallot-syrah.json)
+ * [Beef Tenderloin With Shallot And Red Wine Reduction](index/b/beef-tenderloin-with-shallot-and-red-wine-reduction.json)

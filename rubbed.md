@@ -39,3 +39,5 @@
  * [Spice Rubbed Salmon](index/s/spice-rubbed-salmon-103470.json)
  * [Spice Rubbed Steak With Quick Garlic Fries](index/s/spice-rubbed-steak-with-quick-garlic-fries-234266.json)
  * [Spice Rubbed Turkey With Cognac Gravy](index/s/spice-rubbed-turkey-with-cognac-gravy-236247.json)
+ * [Chili Rubbed Smoked Tri Tip](index/c/chili-rubbed-smoked-tri-tip.json)
+ * [Rosemary Garlic Rubbed Beef Tenderloin With Red Wine Rosemary Bu](index/r/rosemary-garlic-rubbed-beef-tenderloin-with-red-wine-rosemary-bu.json)

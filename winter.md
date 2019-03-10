@@ -54,3 +54,4 @@
  * [Winter Vegetable Roast With Maple Mustard Vinaigrette](index/w/winter-vegetable-roast-with-maple-mustard-vinaigrette-51186650.json)
  * [Winter Vegetables With Horseradish Dill Butter](index/w/winter-vegetables-with-horseradish-dill-butter-11059.json)
  * [Winter White Salad](index/w/winter-white-salad.json)
+ * [Winter Vegetable Coconut Curry](index/w/winter-vegetable-coconut-curry.json)

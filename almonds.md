@@ -62,3 +62,4 @@
  * [Trout With Haricots Verts And Almonds](index/t/trout-with-haricots-verts-and-almonds-231344.json)
  * [Turkey Meatballs With Almonds](index/t/turkey-meatballs-with-almonds-1888.json)
  * [Wild Rice With Roasted Peppers And Toasted Almonds](index/w/wild-rice-with-roasted-peppers-and-toasted-almonds-236380.json)
+ * [Shaved Rhubarb Salad With Almonds And Cheese](index/s/shaved-rhubarb-salad-with-almonds-and-cheese.json)

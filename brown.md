@@ -65,3 +65,4 @@
  * [Wild Rice And Brown Rice Cakes With Roasted Vegetable Ragu](index/w/wild-rice-and-brown-rice-cakes-with-roasted-vegetable-ragu-108815.json)
  * [Yams With Crispy Skins And Brown Butter Vinaigrette](index/y/yams-with-crispy-skins-and-brown-butter-vinaigrette-356314.json)
  * [Zucchini In Pecan Brown Butter](index/z/zucchini-in-pecan-brown-butter-103969.json)
+ * [Turkey Kale Brown Rice Soup](index/t/turkey-kale-brown-rice-soup.json)

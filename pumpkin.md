@@ -133,3 +133,4 @@
  * [Warm Pumpkin Salad With Polenta And Candied Pumpkin Seeds](index/w/warm-pumpkin-salad-with-polenta-and-candied-pumpkin-seeds-105581.json)
  * [Warm Pumpkin Salad With Polenta And Candied Pumpkin Seeds](index/w/warm-pumpkin-salad-with-polenta-and-candied-pumpkin-seeds-105581.json)
  * [White Chocolate Pumpkin Mousse](index/w/white-chocolate-pumpkin-mousse.json)
+ * [Lamb Curry With Pumpkin Gosht](index/l/lamb-curry-with-pumpkin-gosht.json)

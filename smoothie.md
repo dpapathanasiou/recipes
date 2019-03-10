@@ -32,3 +32,4 @@
  * [Tropical Fruit Smoothie](index/t/tropical-fruit-smoothie-200555.json)
  * [Tropical Smoothie](index/t/tropical-smoothie-230559.json)
  * [Watermelon Strawberry And Mint Smoothie](index/w/watermelon-strawberry-and-mint-smoothie-230689.json)
+ * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)

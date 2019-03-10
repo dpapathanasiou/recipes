@@ -111,3 +111,7 @@
  * [Watermelon Ricotta Salata Basil And Pine Nut Salad](index/w/watermelon-ricotta-salata-basil-and-pine-nut-salad-232548.json)
  * [Whipped Ricotta With Honey And Mixed Berries](index/w/whipped-ricotta-with-honey-and-mixed-berries-105374.json)
  * [Zucchini Carpaccio With Homemade Ricotta Cheese](index/z/zucchini-carpaccio-with-homemade-ricotta-cheese-358198.json)
+ * [English Pea Ricotta Tart](index/e/english-pea-ricotta-tart.json)
+ * [Fava Bean And Ricotta Omelette With Spring Greens](index/f/fava-bean-and-ricotta-omelette-with-spring-greens.json)
+ * [Ricotta Gnocchetti With Beef Ragu](index/r/ricotta-gnocchetti-with-beef-ragu.json)
+ * [Ricotta Pea Crostini Tarragon](index/r/ricotta-pea-crostini-tarragon.json)

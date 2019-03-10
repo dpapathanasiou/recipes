@@ -71,3 +71,8 @@
  * [Strawberry Rhubarb Shortcakes](index/s/strawberry-rhubarb-shortcakes-1773.json)
  * [Strawberry Rhubarb Sundaes](index/s/strawberry-rhubarb-sundaes-578.json)
  * [Vanilla Roasted Rhubarb And Strawberries](index/v/vanilla-roasted-rhubarb-and-strawberries-395949.json)
+ * [Almond Pavlova With Strawberry Rhubarb Compote](index/a/almond-pavlova-with-strawberry-rhubarb-compote.json)
+ * [Rhubarb Ginger Crumble](index/r/rhubarb-ginger-crumble.json)
+ * [Shaved Rhubarb Salad With Almonds And Cheese](index/s/shaved-rhubarb-salad-with-almonds-and-cheese.json)
+ * [Strawberry Rhubarb Jam](index/s/strawberry-rhubarb-jam.json)
+ * [Tangy Rhubarb Strawberry Pie](index/t/tangy-rhubarb-strawberry-pie.json)

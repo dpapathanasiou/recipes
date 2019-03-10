@@ -106,3 +106,5 @@
  * [Yellow Tomato Gazpacho With Cilantro Oil And Avocado](index/y/yellow-tomato-gazpacho-with-cilantro-oil-and-avocado-106817.json)
  * [Yellowtail Crudo With Citrus And Avocado](index/y/yellowtail-crudo-with-citrus-and-avocado.json)
  * [Young Lettuces With Herbed Avocado](index/y/young-lettuces-with-herbed-avocado-56389981.json)
+ * [Beef And Monterey Jack Taquitos With Avocado Crema](index/b/beef-and-monterey-jack-taquitos-with-avocado-crema.json)
+ * [Beef Tenderloin Salad With Tomatoes And Avocado](index/b/beef-tenderloin-salad-with-tomatoes-and-avocado.json)

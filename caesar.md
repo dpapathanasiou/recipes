@@ -18,3 +18,4 @@
  * [Southwestern Caesar Salad With Chipotle Dressing](index/s/southwestern-caesar-salad-with-chipotle-dressing-4476.json)
  * [Tapenade Caesar With Prosciutto](index/t/tapenade-caesar-with-prosciutto-4265.json)
  * [Tuscan Kale Caesar Slaw](index/t/tuscan-kale-caesar-slaw-366450.json)
+ * [Chicken Caesar With Creamy Lemon Vinaigrette](index/c/chicken-caesar-with-creamy-lemon-vinaigrette.json)

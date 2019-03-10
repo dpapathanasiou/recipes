@@ -13,3 +13,4 @@
  * [Lemon Pistachio Israeli Couscous](index/l/lemon-pistachio-israeli-couscous-51232810.json)
  * [Penguin Buffets Classic Israeli Schnitzel](index/p/penguin-buffets-classic-israeli-schnitzel-231757.json)
  * [Toasted Israeli Couscous With Pine Nuts And Parsley](index/t/toasted-israeli-couscous-with-pine-nuts-and-parsley-231300.json)
+ * [Israeli Couscous With Porcini And Arugula](index/i/israeli-couscous-with-porcini-and-arugula.json)

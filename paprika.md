@@ -35,3 +35,5 @@
  * [Turkey Cutlet Sandwiches With Smoked Paprika Mayo And Roasted Bell Peppers](index/t/turkey-cutlet-sandwiches-with-smoked-paprika-mayo-and-roasted-bell-peppers-360530.json)
  * [Veal Birds Paprika](index/v/veal-birds-paprika-11050.json)
  * [Veal Cutlets With Spinach And Paprika Sauce](index/v/veal-cutlets-with-spinach-and-paprika-sauce-91.json)
+ * [Kale Chips With Sea Salt And Smoked Paprika](index/k/kale-chips-with-sea-salt-and-smoked-paprika.json)
+ * [Paprika Chicken](index/p/paprika-chicken.json)

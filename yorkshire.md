@@ -5,3 +5,4 @@
  * [Yorkshire Pudding With Bacon And Sage](index/y/yorkshire-pudding-with-bacon-and-sage-236596.json)
  * [Yorkshire Pudding](index/y/yorkshire-pudding.json)
  * [Yorkshire Puddings](index/y/yorkshire-puddings-14921.json)
+ * [Standing Rib Roast With Yorkshire Pudding](index/s/standing-rib-roast-with-yorkshire-pudding.json)

@@ -93,3 +93,5 @@
  * [White Chocolate And Summer Berry Napoleons](index/w/white-chocolate-and-summer-berry-napoleons-4071.json)
  * [Wonky Summer Pasta Herby Salad Pear Drop Tartlets](index/w/wonky-summer-pasta-herby-salad-pear-drop-tartlets-368809.json)
  * [Yellow And Green Bean Salad With Olives Cherry Tomatoes And Summer Savory](index/y/yellow-and-green-bean-salad-with-olives-cherry-tomatoes-and-summer-savory-243587.json)
+ * [Braised Chicken With Summer Tomatoes](index/b/braised-chicken-with-summer-tomatoes.json)
+ * [Summer Squash And Leek Puree](index/s/summer-squash-and-leek-puree.json)

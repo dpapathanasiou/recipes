@@ -152,3 +152,6 @@
  * [White Bean And Ham Hock Soup With Arugula And Corn Bread Croutons](index/w/white-bean-and-ham-hock-soup-with-arugula-and-corn-bread-croutons-104225.json)
  * [Wine And Ham Croquettes](index/w/wine-and-ham-croquettes-107135.json)
  * [Wine Braised Ham With Shallots And Carrots](index/w/wine-braised-ham-with-shallots-and-carrots-109392.json)
+ * [Flatbread Serrano Ham Arugula](index/f/flatbread-serrano-ham-arugula.json)
+ * [Pizza With Caramelized Onions And Ham](index/p/pizza-with-caramelized-onions-and-ham.json)
+ * [Spring Pea Soup Ham Cheese](index/s/spring-pea-soup-ham-cheese.json)

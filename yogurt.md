@@ -180,3 +180,5 @@
  * [Yogurt With Granola Tropical Fruit And Crystallized Ginger](index/y/yogurt-with-granola-tropical-fruit-and-crystallized-ginger-242686.json)
  * [Yogurt With Pistachio Brittle](index/y/yogurt-with-pistachio-brittle-51170850.json)
  * [Zucchini Herb Fritters With Garlic Yogurt](index/z/zucchini-herb-fritters-with-garlic-yogurt-56389547.json)
+ * [Spicy Roasted Potatoes Yogurt](index/s/spicy-roasted-potatoes-yogurt.json)
+ * [Yogurt Panna Cotta Flecked With Vanilla Bean](index/y/yogurt-panna-cotta-flecked-with-vanilla-bean.json)

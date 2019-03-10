@@ -122,3 +122,5 @@
  * [White Chocolate Bread Pudding With Poached Cherries](index/w/white-chocolate-bread-pudding-with-poached-cherries-15819.json)
  * [Wine And Citrus Poached Pears With Triple Creme Cheese](index/w/wine-and-citrus-poached-pears-with-triple-creme-cheese-106129.json)
  * [Wine Poached Mahimahi And Shrimp](index/w/wine-poached-mahimahi-and-shrimp-5134.json)
+ * [Poached Salmon Over Greens With Caper Vinaigrette](index/p/poached-salmon-over-greens-with-caper-vinaigrette.json)
+ * [Spinach Salad With Poached Eggs And Pancetta](index/s/spinach-salad-with-poached-eggs-and-pancetta.json)

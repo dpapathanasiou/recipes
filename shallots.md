@@ -47,3 +47,4 @@
  * [White Bean Stew With Parsnips Shallots And Red Bell Peppers](index/w/white-bean-stew-with-parsnips-shallots-and-red-bell-peppers-104586.json)
  * [Wilted Chard With Shallots And Vinegar](index/w/wilted-chard-with-shallots-and-vinegar.json)
  * [Wine Braised Ham With Shallots And Carrots](index/w/wine-braised-ham-with-shallots-and-carrots-109392.json)
+ * [Grilled Beef Filets With Caramelized Shallots](index/g/grilled-beef-filets-with-caramelized-shallots.json)

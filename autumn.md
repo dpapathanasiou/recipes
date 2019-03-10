@@ -8,3 +8,4 @@
  * [Rich Autumn Pork Stew With Beer](index/r/rich-autumn-pork-stew-with-beer-355309.json)
  * [Roasted Autumn Vegetables](index/r/roasted-autumn-vegetables-231105.json)
  * [Wilted Autumn Greens With Honey Mustard Vinaigrette](index/w/wilted-autumn-greens-with-honey-mustard-vinaigrette-51211620.json)
+ * [Braised Beef With Autumn Vegetables](index/b/braised-beef-with-autumn-vegetables.json)

@@ -30,3 +30,4 @@
  * [Veal Burger Pita Sandwich](index/v/veal-burger-pita-sandwich-210.json)
  * [Warm Lemon Cumin Chicken On Pita Bread Salad](index/w/warm-lemon-cumin-chicken-on-pita-bread-salad-109177.json)
  * [Warm Turkey Tomatillo And Smoked Mozzarella Pita Sandwiches](index/w/warm-turkey-tomatillo-and-smoked-mozzarella-pita-sandwiches-14066.json)
+ * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)

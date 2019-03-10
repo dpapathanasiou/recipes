@@ -284,3 +284,8 @@
  * [White Fish Terrine With Salmon Roe And Dill](index/w/white-fish-terrine-with-salmon-roe-and-dill-233244.json)
  * [Whole Baked Salmon](index/w/whole-baked-salmon-1816.json)
  * [Zitas Salmon With Herb Sauce](index/z/zitas-salmon-with-herb-sauce-12386.json)
+ * [Pan Seared Salmon With Pea Shoots And Watercress](index/p/pan-seared-salmon-with-pea-shoots-and-watercress.json)
+ * [Poached Salmon Over Greens With Caper Vinaigrette](index/p/poached-salmon-over-greens-with-caper-vinaigrette.json)
+ * [Salmon With Spring Vegetables](index/s/salmon-with-spring-vegetables.json)
+ * [Spice Salmon Cucumber Salad](index/s/spice-salmon-cucumber-salad.json)
+ * [Spring Onion And Smoked Salmon Frittata](index/s/spring-onion-and-smoked-salmon-frittata.json)

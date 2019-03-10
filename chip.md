@@ -13,3 +13,4 @@
  * [Sour Cream Chocolate Chip Cake](index/s/sour-cream-chocolate-chip-cake-108141.json)
  * [Sugar Crusted Chocolate Chip And Cherry Bread Puddings](index/s/sugar-crusted-chocolate-chip-and-cherry-bread-puddings-232710.json)
  * [White Cake With Coconut Pecan And Chocolate Chip Frosting](index/w/white-cake-with-coconut-pecan-and-chocolate-chip-frosting-5820.json)
+ * [Smoky Beef Chili With Tortilla Chip Crust](index/s/smoky-beef-chili-with-tortilla-chip-crust.json)

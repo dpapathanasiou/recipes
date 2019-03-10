@@ -186,3 +186,5 @@
  * [Verbena Brined Pork Chops](index/v/verbena-brined-pork-chops-108674.json)
  * [Vietnamese Pork Chops](index/v/vietnamese-pork-chops-51169530.json)
  * [Vietnamese Style Pork Chops With Fresh Herb Salad](index/v/vietnamese-style-pork-chops-with-fresh-herb-salad.json)
+ * [Pork Chops With Mustard And Caper Pan Sauce](index/p/pork-chops-with-mustard-and-caper-pan-sauce.json)
+ * [Pork Loin Chops Romesco Sauce](index/p/pork-loin-chops-romesco-sauce.json)

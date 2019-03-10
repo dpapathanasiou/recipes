@@ -44,3 +44,4 @@
  * [Walnut Maple Torte With Maple Meringue Frosting](index/w/walnut-maple-torte-with-maple-meringue-frosting-14100.json)
  * [Walnut Torte With Coffee Whipped Cream](index/w/walnut-torte-with-coffee-whipped-cream-232895.json)
  * [Yellow Squash And Bell Pepper Torte](index/y/yellow-squash-and-bell-pepper-torte-354988.json)
+ * [Orange Scented Almond Torte](index/o/orange-scented-almond-torte.json)

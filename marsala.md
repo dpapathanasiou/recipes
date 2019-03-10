@@ -16,3 +16,4 @@
  * [Veal Cutlets In Marsala Mustard Sauce](index/v/veal-cutlets-in-marsala-mustard-sauce-107420.json)
  * [Veal Marsala](index/v/veal-marsala-106274.json)
  * [Wood Grilled Breast Of Chicken Marsala With Grilled Carrots](index/w/wood-grilled-breast-of-chicken-marsala-with-grilled-carrots-232444.json)
+ * [Chicken Marsala](index/c/chicken-marsala.json)

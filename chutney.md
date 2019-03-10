@@ -108,3 +108,5 @@
  * [Turkey Wraps With Curry Chutney Mayonnaise And Peanuts](index/t/turkey-wraps-with-curry-chutney-mayonnaise-and-peanuts-231090.json)
  * [Velvet Chicken Satays With Fresh Cilantro Chutney](index/v/velvet-chicken-satays-with-fresh-cilantro-chutney-159.json)
  * [Winter Fruit Chutney](index/w/winter-fruit-chutney-4428.json)
+ * [Cilantro Mint Chutney](index/c/cilantro-mint-chutney.json)
+ * [Shredded Brisket   Chutney Sandwiches](index/s/shredded-brisket---chutney-sandwiches.json)

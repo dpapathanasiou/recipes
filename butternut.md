@@ -60,3 +60,6 @@
  * [White Wine Braised Brisket Butternut Squash Gefilte Manifesto Recipe](index/w/white-wine-braised-brisket-butternut-squash-gefilte-manifesto-recipe.json)
  * [Wild And Brown Rice Pilaf With Butternut Squash And Dried Cranberries](index/w/wild-and-brown-rice-pilaf-with-butternut-squash-and-dried-cranberries-107275.json)
  * [Wild Rice With Butternut Squash Leeks And Corn](index/w/wild-rice-with-butternut-squash-leeks-and-corn-350425.json)
+ * [Butternut Squash And Chickpea Curry](index/b/butternut-squash-and-chickpea-curry.json)
+ * [Butternut Squash Kale Frittata](index/b/butternut-squash-kale-frittata.json)
+ * [Pizza With Butternut Squash Wild Mushrooms And Artichoke Sauce](index/p/pizza-with-butternut-squash-wild-mushrooms-and-artichoke-sauce.json)

@@ -14,3 +14,4 @@
  * [Jerk Pork Tenderloin](index/j/jerk-pork-tenderloin-108300.json)
  * [Jerk Spice Rubbed Chicken Legs](index/j/jerk-spice-rubbed-chicken-legs.json)
  * [Jerk Spiced Beef Tenderloin](index/j/jerk-spiced-beef-tenderloin-108242.json)
+ * [Jerk Spiced Pork Kabobs Relish](index/j/jerk-spiced-pork-kabobs-relish.json)

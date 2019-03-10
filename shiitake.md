@@ -46,3 +46,6 @@
  * [Turkey Congee With Crispy Shiitake Mushrooms](index/t/turkey-congee-with-crispy-shiitake-mushrooms.json)
  * [White Bean Ragout With Lemon Oil And Shiitake Mushrooms](index/w/white-bean-ragout-with-lemon-oil-and-shiitake-mushrooms-5848.json)
  * [Yu Bos Shiitake Mushrooms With Scallions](index/y/yu-bos-shiitake-mushrooms-with-scallions-107965.json)
+ * [Braise Beef Onion Shiitake Olive](index/b/braise-beef-onion-shiitake-olive.json)
+ * [Chateaubriand With Shiitake Mushroom Rub](index/c/chateaubriand-with-shiitake-mushroom-rub.json)
+ * [Korean Beef And Shiitake Skewers](index/k/korean-beef-and-shiitake-skewers.json)

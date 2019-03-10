@@ -11,3 +11,4 @@
  * [Spaghetti Alla Carbonara](index/s/spaghetti-alla-carbonara-107810.json)
  * [Spaghetti Carbonara With Pork Belly And Fresh Peas](index/s/spaghetti-carbonara-with-pork-belly-and-fresh-peas-237910.json)
  * [Strozzapreti Carbonara With Radishes](index/s/strozzapreti-carbonara-with-radishes.json)
+ * [Spaghetti Carbonara With Black Kale](index/s/spaghetti-carbonara-with-black-kale.json)

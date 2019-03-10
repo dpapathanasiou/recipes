@@ -167,3 +167,7 @@
  * [Watermelon Strawberry And Mint Smoothie](index/w/watermelon-strawberry-and-mint-smoothie-230689.json)
  * [White Chocolate And Strawberry Terrine With Dark Chocolate Sauce](index/w/white-chocolate-and-strawberry-terrine-with-dark-chocolate-sauce-1287.json)
  * [White Chocolate Tartlets With Strawberry Coulis](index/w/white-chocolate-tartlets-with-strawberry-coulis-5841.json)
+ * [Almond Pavlova With Strawberry Rhubarb Compote](index/a/almond-pavlova-with-strawberry-rhubarb-compote.json)
+ * [Strawberry Millefeuille](index/s/strawberry-millefeuille.json)
+ * [Strawberry Rhubarb Jam](index/s/strawberry-rhubarb-jam.json)
+ * [Tangy Rhubarb Strawberry Pie](index/t/tangy-rhubarb-strawberry-pie.json)

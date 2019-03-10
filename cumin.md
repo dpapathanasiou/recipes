@@ -76,3 +76,6 @@
  * [Warm Lemon Cumin Chicken On Pita Bread Salad](index/w/warm-lemon-cumin-chicken-on-pita-bread-salad-109177.json)
  * [Yukon Gold Potato Salad With Chiles Cilantro And Toasted Cumin](index/y/yukon-gold-potato-salad-with-chiles-cilantro-and-toasted-cumin-242717.json)
  * [Zucchini Wrapped Red Snapper With Tomato Cumin And Orange Sauce](index/z/zucchini-wrapped-red-snapper-with-tomato-cumin-and-orange-sauce-10045.json)
+ * [Beef Short Ribs With Cumin Butter Carrots](index/b/beef-short-ribs-with-cumin-butter-carrots.json)
+ * [Roasted Sweet Potatoes With Cumin And Cilantro](index/r/roasted-sweet-potatoes-with-cumin-and-cilantro.json)
+ * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)

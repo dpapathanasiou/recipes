@@ -302,3 +302,5 @@
  * [Zucchini And Corn Tacos](index/z/zucchini-and-corn-tacos-354249.json)
  * [Zucchini Corn And Basil Fusilli With Bacon](index/z/zucchini-corn-and-basil-fusilli-with-bacon-242838.json)
  * [Zucchini Tomato And Corn Salad](index/z/zucchini-tomato-and-corn-salad-106911.json)
+ * [Chipotle Beef And Corn Salad](index/c/chipotle-beef-and-corn-salad.json)
+ * [Grill Pizza Corn Peppers Basil](index/g/grill-pizza-corn-peppers-basil.json)

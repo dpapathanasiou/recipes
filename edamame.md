@@ -8,3 +8,4 @@
  * [Roasted Corn And Edamame Salad](index/r/roasted-corn-and-edamame-salad-238346.json)
  * [Seafood Paella With Edamame](index/s/seafood-paella-with-edamame-367830.json)
  * [Tomato Edamame And Corn Saute With Cumin And Cilantro](index/t/tomato-edamame-and-corn-saute-with-cumin-and-cilantro-104600.json)
+ * [Beef Carrot And Edamame Stew](index/b/beef-carrot-and-edamame-stew.json)

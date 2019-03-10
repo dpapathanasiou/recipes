@@ -151,3 +151,6 @@
  * [White Beans With Sage And Olive Oil](index/w/white-beans-with-sage-and-olive-oil-103458.json)
  * [Whole Roasted Cauliflower With Olive Oil And Capers](index/w/whole-roasted-cauliflower-with-olive-oil-and-capers-236377.json)
  * [Zucchini And Olive Mashed Potatoes](index/z/zucchini-and-olive-mashed-potatoes-15714.json)
+ * [Braise Beef Onion Shiitake Olive](index/b/braise-beef-onion-shiitake-olive.json)
+ * [Flatbread With Olive Oil And Sea Salt](index/f/flatbread-with-olive-oil-and-sea-salt.json)
+ * [Olive Oil Almond Cake](index/o/olive-oil-almond-cake.json)

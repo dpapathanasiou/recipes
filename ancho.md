@@ -23,3 +23,5 @@
  * [Southwestern Turkey With Garlic Ancho Chili Paste And Gravy](index/s/southwestern-turkey-with-garlic-ancho-chili-paste-and-gravy-803.json)
  * [Tuna And Potato Stuffed Ancho Chiles](index/t/tuna-and-potato-stuffed-ancho-chiles-108047.json)
  * [Wild Mushroom Enchiladas With Ancho Chili Cream Sauce](index/w/wild-mushroom-enchiladas-with-ancho-chili-cream-sauce-4097.json)
+ * [Ancho Chili Fajitas](index/a/ancho-chili-fajitas.json)
+ * [Ancho Short Rib Tacos With Pickled Red Onions](index/a/ancho-short-rib-tacos-with-pickled-red-onions.json)

@@ -25,3 +25,4 @@
  * [Sausage Fontina And Bell Pepper Strata](index/s/sausage-fontina-and-bell-pepper-strata-353316.json)
  * [Wild Mushroom Pizza With Caramelized Onions Fontina And Rosemary](index/w/wild-mushroom-pizza-with-caramelized-onions-fontina-and-rosemary-230633.json)
  * [Zucchini Potato And Fontina Pizzettas](index/z/zucchini-potato-and-fontina-pizzettas.json)
+ * [Wild Mushroom  Kale And Fontina Pizza](index/w/wild-mushroom--kale-and-fontina-pizza.json)

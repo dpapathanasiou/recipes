@@ -10,3 +10,4 @@
  * [Perfect Pork Chops](index/p/perfect-pork-chops-51206430.json)
  * [Perfect Pumpkin Pie](index/p/perfect-pumpkin-pie-236476.json)
  * [Perfect Turkey](index/p/perfect-turkey-233125.json)
+ * [The Perfect Hamburger](index/t/the-perfect-hamburger.json)

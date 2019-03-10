@@ -32,3 +32,4 @@
  * [Two Potato Salad With Mustard Dressing](index/t/two-potato-salad-with-mustard-dressing-12378.json)
  * [Two Potato Saute With Bacon And Cream](index/t/two-potato-saute-with-bacon-and-cream-105831.json)
  * [Two Tone Coleslaw With Celery Seed Yogurt Dressing](index/t/two-tone-coleslaw-with-celery-seed-yogurt-dressing-109578.json)
+ * [Turkey Two Bean Sweet Potato](index/t/turkey-two-bean-sweet-potato.json)

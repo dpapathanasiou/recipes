@@ -202,3 +202,6 @@
  * [Winter Fruit Crunch](index/w/winter-fruit-crunch-104787.json)
  * [Yogurt With Granola Tropical Fruit And Crystallized Ginger](index/y/yogurt-with-granola-tropical-fruit-and-crystallized-ginger-242686.json)
  * [Yucatan Margarita With Tropical Fruit](index/y/yucatan-margarita-with-tropical-fruit-200593.json)
+ * [Breakfast Bowl With Fresh Fruit And Granola](index/b/breakfast-bowl-with-fresh-fruit-and-granola.json)
+ * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)
+ * [Pork Roast With Dried Fruit Compote](index/p/pork-roast-with-dried-fruit-compote.json)

@@ -21,3 +21,4 @@
  * [Surfers Granola](index/s/surfers-granola-51104620.json)
  * [Vanilla Scented Granola](index/v/vanilla-scented-granola-106306.json)
  * [Yogurt With Granola Tropical Fruit And Crystallized Ginger](index/y/yogurt-with-granola-tropical-fruit-and-crystallized-ginger-242686.json)
+ * [Breakfast Bowl With Fresh Fruit And Granola](index/b/breakfast-bowl-with-fresh-fruit-and-granola.json)

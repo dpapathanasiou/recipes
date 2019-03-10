@@ -11,3 +11,5 @@
  * [Sweet Potato Pie With Gingersnap Pecan Crust](index/s/sweet-potato-pie-with-gingersnap-pecan-crust-233021.json)
  * [Sweet Potato Pudding With Pecan And Gingersnap Topping](index/s/sweet-potato-pudding-with-pecan-and-gingersnap-topping-361832.json)
  * [Sweet Potato Rum Pie With Walnut Gingersnap Crust](index/s/sweet-potato-rum-pie-with-walnut-gingersnap-crust-15692.json)
+ * [Lemon Chiffon Gingersnap Pie](index/l/lemon-chiffon-gingersnap-pie.json)
+ * [Lemon Meringue Pie With Gingersnap Crust](index/l/lemon-meringue-pie-with-gingersnap-crust.json)

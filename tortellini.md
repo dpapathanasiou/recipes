@@ -7,3 +7,5 @@
  * [Tortellini In Parmesan Broth](index/t/tortellini-in-parmesan-broth-234252.json)
  * [Tortellini With Italian Sausage Fennel And Mushroom](index/t/tortellini-with-italian-sausage-fennel-and-mushroom-362553.json)
  * [Tortellini With Porcini Mushroom Sauce](index/t/tortellini-with-porcini-mushroom-sauce-243388.json)
+ * [Beef Tortellini In Broth](index/b/beef-tortellini-in-broth.json)
+ * [Tortellini In Broth](index/t/tortellini-in-broth.json)

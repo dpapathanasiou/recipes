@@ -36,3 +36,4 @@
  * [Tagliatelle With Shredded Beets Sour Cream And Parsley](index/t/tagliatelle-with-shredded-beets-sour-cream-and-parsley-109365.json)
  * [Tsimmes With Beets Turnips And Beef](index/t/tsimmes-with-beets-turnips-and-beef-40009.json)
  * [Vegetable Couscous Goat Cheese And Beets](index/v/vegetable-couscous-goat-cheese-and-beets-109734.json)
+ * [Balsamic Glazed Beets](index/b/balsamic-glazed-beets.json)

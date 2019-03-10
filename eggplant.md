@@ -156,3 +156,6 @@
  * [Vegetable Burgers With Eggplant And Tomato](index/v/vegetable-burgers-with-eggplant-and-tomato-102857.json)
  * [Whole Grilled Japanese Eggplant With Lemon And Soy Sauce](index/w/whole-grilled-japanese-eggplant-with-lemon-and-soy-sauce-365629.json)
  * [Zucchini Noodles With Eggplant And Tomatoes](index/z/zucchini-noodles-with-eggplant-and-tomatoes.json)
+ * [Grilled Pizza With Eggplant And Tomatoes](index/g/grilled-pizza-with-eggplant-and-tomatoes.json)
+ * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)
+ * [Tandoori Grilled Chicken And Eggplant](index/t/tandoori-grilled-chicken-and-eggplant.json)

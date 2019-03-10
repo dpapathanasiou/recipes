@@ -95,3 +95,7 @@
  * [Vacherins With Raspberry Sorbet And Mixed Berry Cardamom Sauce](index/v/vacherins-with-raspberry-sorbet-and-mixed-berry-cardamom-sauce-102908.json)
  * [Vanilla Panna Cotta With Mixed Berry Compote](index/v/vanilla-panna-cotta-with-mixed-berry-compote-106858.json)
  * [Whipped Ricotta With Honey And Mixed Berries](index/w/whipped-ricotta-with-honey-and-mixed-berries-105374.json)
+ * [Frittata With Mixed Herbs Leeks And Parmesan Cheese](index/f/frittata-with-mixed-herbs-leeks-and-parmesan-cheese.json)
+ * [Indian Spiced Mixed Nuts](index/i/indian-spiced-mixed-nuts.json)
+ * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)
+ * [Onion Tarts With Mixed Greens](index/o/onion-tarts-with-mixed-greens.json)

@@ -33,3 +33,4 @@
  * [Spicy Tamarind Skirt Steak](index/s/spicy-tamarind-skirt-steak-51210100.json)
  * [Tecate Skirt Steak Tacos](index/t/tecate-skirt-steak-tacos-56389643.json)
  * [Vietnamese Style Spaghetti Squash Noodle Bowls With Skirt Steak](index/v/vietnamese-style-spaghetti-squash-noodle-bowls-with-skirt-steak.json)
+ * [Kentucky Bourbon Skirt Steak](index/k/kentucky-bourbon-skirt-steak.json)

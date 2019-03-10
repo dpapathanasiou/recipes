@@ -5,3 +5,4 @@
  * [Homemade Chili Powder](index/h/homemade-chili-powder-355890.json)
  * [Red Chili Powder](index/r/red-chili-powder-103657.json)
  * [Toasted Rice Powder](index/t/toasted-rice-powder-10603.json)
+ * [Curry Powder](index/c/curry-powder.json)

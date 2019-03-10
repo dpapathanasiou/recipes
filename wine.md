@@ -174,3 +174,8 @@
  * [Wine Braised Leg Of Lamb With Garlic](index/w/wine-braised-leg-of-lamb-with-garlic-231736.json)
  * [Wine Braised Red Cabbage](index/w/wine-braised-red-cabbage-4986.json)
  * [Wine Poached Mahimahi And Shrimp](index/w/wine-poached-mahimahi-and-shrimp-5134.json)
+ * [Beef Tenderloin With Shallot And Red Wine Reduction](index/b/beef-tenderloin-with-shallot-and-red-wine-reduction.json)
+ * [Grilled Beef Fillets With Mushrooms And Red Wine Sauce](index/g/grilled-beef-fillets-with-mushrooms-and-red-wine-sauce.json)
+ * [Red Wine Braised Short Ribs](index/r/red-wine-braised-short-ribs.json)
+ * [Rosemary Garlic Rubbed Beef Tenderloin With Red Wine Rosemary Bu](index/r/rosemary-garlic-rubbed-beef-tenderloin-with-red-wine-rosemary-bu.json)
+ * [Wine Braised Short Ribs With Lemon Pasta](index/w/wine-braised-short-ribs-with-lemon-pasta.json)

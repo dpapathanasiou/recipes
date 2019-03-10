@@ -65,3 +65,4 @@
  * [Sauteed Quail With Paprika Sauce And Moroccan Spiced Vegetables](index/s/sauteed-quail-with-paprika-sauce-and-moroccan-spiced-vegetables-15506.json)
  * [Sea Bass With Moroccan Salsa](index/s/sea-bass-with-moroccan-salsa-104331.json)
  * [Spiced Moroccan Chicken With Onions And Prunes](index/s/spiced-moroccan-chicken-with-onions-and-prunes-4503.json)
+ * [Moroccan Spiced Roasted Vegetables And Quinoa](index/m/moroccan-spiced-roasted-vegetables-and-quinoa.json)

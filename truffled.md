@@ -6,3 +6,4 @@
  * [Truffled Mac N Cheese](index/t/truffled-mac-n-cheese-51186230.json)
  * [Truffled Red Wine Risotto With Parmesan Broth](index/t/truffled-red-wine-risotto-with-parmesan-broth-235854.json)
  * [Truffled Toast With Radicchio And Egg](index/t/truffled-toast-with-radicchio-and-egg-236003.json)
+ * [Truffled Mushroom Pizza](index/t/truffled-mushroom-pizza.json)

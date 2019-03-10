@@ -20,3 +20,4 @@
  * [Provencal Vegetable And Goat Cheese Terrine](index/p/provencal-vegetable-and-goat-cheese-terrine-1778.json)
  * [Provencal Vegetable Soup Em Soupe Au Pistou Em](index/p/provencal-vegetable-soup-em-soupe-au-pistou-em-352831.json)
  * [Traditional Provencal Christmas Cake](index/t/traditional-provencal-christmas-cake-15780.json)
+ * [Slow Cooker Provencal Chicken](index/s/slow-cooker-provencal-chicken.json)

@@ -97,3 +97,7 @@
  * [Tunisian Bell Pepper Tomato Tuna And Egg Salad](index/t/tunisian-bell-pepper-tomato-tuna-and-egg-salad-329.json)
  * [Vegetable Barley Soup With Poached Egg](index/v/vegetable-barley-soup-with-poached-egg-240585.json)
  * [Whole Egg Lemon Buttercream](index/w/whole-egg-lemon-buttercream-56389523.json)
+ * [Easter Egg Lollipops](index/e/easter-egg-lollipops.json)
+ * [Easter Egg Nest Cupcakes](index/e/easter-egg-nest-cupcakes.json)
+ * [Rustic Flatbread With Egg Arugula And Pecorino](index/r/rustic-flatbread-with-egg-arugula-and-pecorino.json)
+ * [Shaved Asparagus   Herb Pizza With Egg](index/s/shaved-asparagus---herb-pizza-with-egg.json)

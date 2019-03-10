@@ -7,3 +7,4 @@
  * [Tuna Carpaccio With Watercress Salad And Balsamic Dressing](index/t/tuna-carpaccio-with-watercress-salad-and-balsamic-dressing-235832.json)
  * [Zucchini Carpaccio](index/z/zucchini-carpaccio-107802.json)
  * [Zucchini Carpaccio With Homemade Ricotta Cheese](index/z/zucchini-carpaccio-with-homemade-ricotta-cheese-358198.json)
+ * [Beef Carpaccio](index/b/beef-carpaccio.json)

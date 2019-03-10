@@ -205,3 +205,6 @@
  * [Yeasted Apple Coffee Cake](index/y/yeasted-apple-coffee-cake.json)
  * [Yukon Gold Potato And Fuji Apple Gratins](index/y/yukon-gold-potato-and-fuji-apple-gratins-108585.json)
  * [Yukon Gold Potato And Jerusalem Artichoke Latkes With Apple Horseradish Mayonnaise And Taramasalata](index/y/yukon-gold-potato-and-jerusalem-artichoke-latkes-with-apple-horseradish-mayonnaise-and-taramasalata-368729.json)
+ * [Apple  Bacon And Sage Pizza](index/a/apple--bacon-and-sage-pizza.json)
+ * [Curried Chicken Apple Pitas](index/c/curried-chicken-apple-pitas.json)
+ * [Trout Watercress Apple Salad](index/t/trout-watercress-apple-salad.json)

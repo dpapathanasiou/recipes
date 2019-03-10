@@ -10,3 +10,4 @@
  * [Pisto Manchego](index/p/pisto-manchego-10557.json)
  * [Roasted Corn With Manchego Lime](index/r/roasted-corn-with-manchego-lime-366724.json)
  * [Walnut Toasts With Fig Jam And Manchego Cheese](index/w/walnut-toasts-with-fig-jam-and-manchego-cheese-236525.json)
+ * [Spanish Pizza Chorizo Manchego](index/s/spanish-pizza-chorizo-manchego.json)

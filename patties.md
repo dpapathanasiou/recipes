@@ -25,3 +25,4 @@
  * [Veal Patties With Mushrooms And Chives](index/v/veal-patties-with-mushrooms-and-chives-233805.json)
  * [Zucchini Patties](index/z/zucchini-patties-51245270.json)
  * [Zucchini Patties With Feta](index/z/zucchini-patties-with-feta-238266.json)
+ * [Corned Beef Hash Patties](index/c/corned-beef-hash-patties.json)

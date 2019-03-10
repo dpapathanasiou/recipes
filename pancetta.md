@@ -65,3 +65,7 @@
  * [White Beans In Tomato Sauce With Sage And Pancetta](index/w/white-beans-in-tomato-sauce-with-sage-and-pancetta-103457.json)
  * [Whole Wheat Linguine With Cauliflower Pancetta And Parmesan](index/w/whole-wheat-linguine-with-cauliflower-pancetta-and-parmesan-233256.json)
  * [Whole Wheat Stuffing With Pancetta Chestnuts And Parmesan](index/w/whole-wheat-stuffing-with-pancetta-chestnuts-and-parmesan-355780.json)
+ * [Leek And Pancetta Risotto With Fines Herbes](index/l/leek-and-pancetta-risotto-with-fines-herbes.json)
+ * [Pancetta Calabrian Chili Pizza](index/p/pancetta-calabrian-chili-pizza.json)
+ * [Spinach Salad With Poached Eggs And Pancetta](index/s/spinach-salad-with-poached-eggs-and-pancetta.json)
+ * [White Pizza With Clams And Pancetta](index/w/white-pizza-with-clams-and-pancetta.json)

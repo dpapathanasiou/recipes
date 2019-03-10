@@ -41,3 +41,4 @@
  * [Turkey Burgers With Tomato Jam Olives And Feta](index/t/turkey-burgers-with-tomato-jam-olives-and-feta-242973.json)
  * [Walnut Toasts With Fig Jam And Manchego Cheese](index/w/walnut-toasts-with-fig-jam-and-manchego-cheese-236525.json)
  * [Whipped Cream Pastries With Jam And Coffee Glaze](index/w/whipped-cream-pastries-with-jam-and-coffee-glaze-1969.json)
+ * [Strawberry Rhubarb Jam](index/s/strawberry-rhubarb-jam.json)

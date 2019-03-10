@@ -14,3 +14,4 @@
  * [Turkish Style Lamb Burgers With Walnut Sauce](index/t/turkish-style-lamb-burgers-with-walnut-sauce-231647.json)
  * [Turkish Style Tomato And Red Pepper Spread](index/t/turkish-style-tomato-and-red-pepper-spread-358037.json)
  * [Turkish Zucchini Pancakes](index/t/turkish-zucchini-pancakes-1208.json)
+ * [Turkish Pepper Braise With Beef](index/t/turkish-pepper-braise-with-beef.json)

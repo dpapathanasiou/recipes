@@ -6,3 +6,4 @@
  * [Hungarian Hazelnut Torte](index/h/hungarian-hazelnut-torte-107166.json)
  * [Hungarian Porcini Potato Latkes](index/h/hungarian-porcini-potato-latkes-106002.json)
  * [Hungarian Style Beef With Bell Peppers And Caraway](index/h/hungarian-style-beef-with-bell-peppers-and-caraway-233145.json)
+ * [Hungarian Beef Stew](index/h/hungarian-beef-stew.json)

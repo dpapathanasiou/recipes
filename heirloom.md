@@ -14,3 +14,6 @@
  * [New England Heirloom Cake](index/n/new-england-heirloom-cake-233679.json)
  * [Potato Crusted Goat Cheese Tart With Heirloom Tomato Salad](index/p/potato-crusted-goat-cheese-tart-with-heirloom-tomato-salad-354891.json)
  * [Roast Heirloom Goose With Balsamic Vinegar](index/r/roast-heirloom-goose-with-balsamic-vinegar-233402.json)
+ * [Heirloom Tomato And Basil Pizza](index/h/heirloom-tomato-and-basil-pizza.json)
+ * [Heirloom Tomato Arugula Pizza](index/h/heirloom-tomato-arugula-pizza.json)
+ * [Tenderloin And Heirloom Tomato Canapes](index/t/tenderloin-and-heirloom-tomato-canapes.json)

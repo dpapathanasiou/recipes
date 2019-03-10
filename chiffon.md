@@ -7,3 +7,4 @@
  * [Orange Chiffon Cake](index/o/orange-chiffon-cake-11583.json)
  * [Pumpkin Chiffon Pie With Gingersnap Pecan Crust](index/p/pumpkin-chiffon-pie-with-gingersnap-pecan-crust-10807.json)
  * [Vanilla Chiffon Cake With Chocolate Sorbet](index/v/vanilla-chiffon-cake-with-chocolate-sorbet-3145.json)
+ * [Lemon Chiffon Gingersnap Pie](index/l/lemon-chiffon-gingersnap-pie.json)

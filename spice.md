@@ -127,3 +127,4 @@
  * [Vietnamese Sandwiches With Five Spice Chicken](index/v/vietnamese-sandwiches-with-five-spice-chicken-233499.json)
  * [Walnut Spice Cake With Lemon Glaze](index/w/walnut-spice-cake-with-lemon-glaze-108769.json)
  * [Yemeni Spice Rub](index/y/yemeni-spice-rub-240754.json)
+ * [Spice Salmon Cucumber Salad](index/s/spice-salmon-cucumber-salad.json)

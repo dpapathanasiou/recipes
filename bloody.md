@@ -8,3 +8,4 @@
  * [Tomato Water Bloody Mary](index/t/tomato-water-bloody-mary-235093.json)
  * [Tomato Water Bloody Mary](index/t/tomato-water-bloody-mary-366754.json)
  * [Yellow Gazpacho Virgin Bloody Mary](index/y/yellow-gazpacho-virgin-bloody-mary-234077.json)
+ * [Bloody Bull](index/b/bloody-bull.json)

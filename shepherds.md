@@ -6,3 +6,4 @@
  * [Southwestern Shepherds Pie](index/s/southwestern-shepherds-pie-355329.json)
  * [Sweet Potato Shepherds Pie](index/s/sweet-potato-shepherds-pie-355391.json)
  * [Turkey Sweet Potato Shepherds Pie](index/t/turkey-sweet-potato-shepherds-pie-363344.json)
+ * [Slow Cooker Shepherds Pie](index/s/slow-cooker-shepherds-pie.json)

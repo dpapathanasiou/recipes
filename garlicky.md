@@ -14,3 +14,5 @@
  * [Slow Cooked Garlicky Greens](index/s/slow-cooked-garlicky-greens.json)
  * [Spiced Marinated Lamb Chops With Garlicky Yogurt](index/s/spiced-marinated-lamb-chops-with-garlicky-yogurt.json)
  * [Zaatar Sweet Potatoes And Garlicky Kale](index/z/zaatar-sweet-potatoes-and-garlicky-kale.json)
+ * [Garlicky Spinach Frittata](index/g/garlicky-spinach-frittata.json)
+ * [Spaghetti With Garlicky Greens](index/s/spaghetti-with-garlicky-greens.json)

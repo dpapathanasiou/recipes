@@ -63,3 +63,5 @@
  * [Shrimp Scampi With Quick Preserved Lemon And Fennel On Polenta](index/s/shrimp-scampi-with-quick-preserved-lemon-and-fennel-on-polenta-360729.json)
  * [Spaghetti With Turkey Meatballs And Quick Tomato Sauce](index/s/spaghetti-with-turkey-meatballs-and-quick-tomato-sauce-104061.json)
  * [Spice Rubbed Steak With Quick Garlic Fries](index/s/spice-rubbed-steak-with-quick-garlic-fries-234266.json)
+ * [Quick Braise Of Spring Peas With Red Onion Shoots](index/q/quick-braise-of-spring-peas-with-red-onion-shoots.json)
+ * [Quick Vietnamese Beef  And Noodle Soup](index/q/quick-vietnamese-beef--and-noodle-soup.json)

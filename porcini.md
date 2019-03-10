@@ -34,3 +34,4 @@
  * [Veal Shoulder With Porcini Mushrooms Garlic And Rosemary](index/v/veal-shoulder-with-porcini-mushrooms-garlic-and-rosemary-103266.json)
  * [Whole Wheat Porcini Soda Bread](index/w/whole-wheat-porcini-soda-bread-107261.json)
  * [Wild Mushroom Ravioli In Porcini Broth](index/w/wild-mushroom-ravioli-in-porcini-broth-236499.json)
+ * [Israeli Couscous With Porcini And Arugula](index/i/israeli-couscous-with-porcini-and-arugula.json)

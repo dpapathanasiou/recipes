@@ -10,3 +10,8 @@
  * [Pasta With Lentil Bolognese](index/p/pasta-with-lentil-bolognese-239172.json)
  * [Pasticciata Bolognese Lasagna With Spinach Noodles And Bolognese Sauce](index/p/pasticciata-bolognese-lasagna-with-spinach-noodles-and-bolognese-sauce-355929.json)
  * [Pasticciata Bolognese Lasagna With Spinach Noodles And Bolognese Sauce](index/p/pasticciata-bolognese-lasagna-with-spinach-noodles-and-bolognese-sauce-355929.json)
+ * [Easy Spaghetti Bolognese](index/e/easy-spaghetti-bolognese.json)
+ * [Fettuccine Bolognese](index/f/fettuccine-bolognese.json)
+ * [Pappardelle Bolognese Sauce](index/p/pappardelle-bolognese-sauce.json)
+ * [Pappardelle With Bolognese Sauce](index/p/pappardelle-with-bolognese-sauce.json)
+ * [Stuffed Cannelloni With Bolognese](index/s/stuffed-cannelloni-with-bolognese.json)

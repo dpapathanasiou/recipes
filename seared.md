@@ -98,3 +98,7 @@
  * [Sesame Seared Tuna With Vegetable Slaw](index/s/sesame-seared-tuna-with-vegetable-slaw-232445.json)
  * [Teriyaki Black Cod With Sticky Rice Cakes And Seared Baby Bok Choy](index/t/teriyaki-black-cod-with-sticky-rice-cakes-and-seared-baby-bok-choy-363330.json)
  * [Wok Seared Sesame Green Beans](index/w/wok-seared-sesame-green-beans-107878.json)
+ * [Pan Seared Salmon With Pea Shoots And Watercress](index/p/pan-seared-salmon-with-pea-shoots-and-watercress.json)
+ * [Seared Beef Salad Thai Flavors](index/s/seared-beef-salad-thai-flavors.json)
+ * [Seared Beef Tenderloin With Cilantro And Mint](index/s/seared-beef-tenderloin-with-cilantro-and-mint.json)
+ * [Seared Scallops With Orange And Red Onion Salad](index/s/seared-scallops-with-orange-and-red-onion-salad.json)

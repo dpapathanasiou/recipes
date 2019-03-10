@@ -19,3 +19,6 @@
  * [Smoky Tangy Greens And Beans](index/s/smoky-tangy-greens-and-beans.json)
  * [Spicy Smoky Peanuts](index/s/spicy-smoky-peanuts-100347.json)
  * [Sweet And Smoky Baby Back Ribs With Bourbon Barbecue Sauce](index/s/sweet-and-smoky-baby-back-ribs-with-bourbon-barbecue-sauce-103632.json)
+ * [Smoky Beef Chili With Tortilla Chip Crust](index/s/smoky-beef-chili-with-tortilla-chip-crust.json)
+ * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)
+ * [Smoky Spicy Brisket](index/s/smoky-spicy-brisket.json)

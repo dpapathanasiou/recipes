@@ -19,3 +19,5 @@
  * [Wild Mushrooms Shallot And Gruyere Omelets](index/w/wild-mushrooms-shallot-and-gruyere-omelets-1848.json)
  * [Winter Squash Soup With Gruyere Croutons](index/w/winter-squash-soup-with-gruyere-croutons-2997.json)
  * [Zucchini Bacon And Gruyere Quiche](index/z/zucchini-bacon-and-gruyere-quiche-233259.json)
+ * [Caramelized Onion And Gruyere Pizza](index/c/caramelized-onion-and-gruyere-pizza.json)
+ * [Savory Leek Gruyere Souffle](index/s/savory-leek-gruyere-souffle.json)

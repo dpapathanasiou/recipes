@@ -39,3 +39,4 @@
  * [Grilled Pita With Greek Salad](index/g/grilled-pita-with-greek-salad-238399.json)
  * [Shrimp Sates With Greek Garlic Sauce](index/s/shrimp-sates-with-greek-garlic-sauce-12416.json)
  * [Tangy Frozen Greek Yogurt](index/t/tangy-frozen-greek-yogurt-354476.json)
+ * [Greek Style Beef Salad](index/g/greek-style-beef-salad.json)

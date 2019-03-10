@@ -13,3 +13,4 @@
  * [Seven Vegetable Couscous With Chunky Onion Harissa](index/s/seven-vegetable-couscous-with-chunky-onion-harissa-1082.json)
  * [Steamed Clams With Miso Aioli And Harissa](index/s/steamed-clams-with-miso-aioli-and-harissa-363050.json)
  * [Three Chile Harissa](index/t/three-chile-harissa.json)
+ * [Harissa Marinated Grilled Chicken](index/h/harissa-marinated-grilled-chicken.json)

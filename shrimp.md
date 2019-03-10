@@ -395,3 +395,6 @@
  * [Water Spinach With Shrimp](index/w/water-spinach-with-shrimp-234663.json)
  * [Wine Poached Mahimahi And Shrimp](index/w/wine-poached-mahimahi-and-shrimp-5134.json)
  * [Xuxu And Shrimp With Chile And Lemon](index/x/xuxu-and-shrimp-with-chile-and-lemon-354968.json)
+ * [Cajun Shrimp And Sausage Skewers](index/c/cajun-shrimp-and-sausage-skewers.json)
+ * [Lemony Spaghetti With Garlic Shrimp](index/l/lemony-spaghetti-with-garlic-shrimp.json)
+ * [Shrimp With Lemon En Papillote](index/s/shrimp-with-lemon-en-papillote.json)

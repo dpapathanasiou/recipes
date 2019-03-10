@@ -6,3 +6,4 @@
  * [Red Wine Reduction](index/r/red-wine-reduction-102585.json)
  * [Roast Rack Of Lamb With Madeira Peppercorn Reduction](index/r/roast-rack-of-lamb-with-madeira-peppercorn-reduction-103004.json)
  * [Roasted Wild Mushrooms In Red Wine Reduction](index/r/roasted-wild-mushrooms-in-red-wine-reduction-102569.json)
+ * [Beef Tenderloin With Shallot And Red Wine Reduction](index/b/beef-tenderloin-with-shallot-and-red-wine-reduction.json)

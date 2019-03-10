@@ -9,3 +9,4 @@
  * [Steak Burritos With Monterey Jack Cheese](index/s/steak-burritos-with-monterey-jack-cheese-4352.json)
  * [Turkey Roulades With Corn Bread Jalapeno Monterey Jack Filling](index/t/turkey-roulades-with-corn-bread-jalapeno-monterey-jack-filling-10768.json)
  * [Zucchini With Jalapeno Monterey Jack](index/z/zucchini-with-jalapeno-monterey-jack-12275.json)
+ * [Beef And Monterey Jack Taquitos With Avocado Crema](index/b/beef-and-monterey-jack-taquitos-with-avocado-crema.json)

@@ -70,3 +70,5 @@
  * [White Balsamic Jicama Slaw](index/w/white-balsamic-jicama-slaw-358170.json)
  * [Wilted Red Cabbage And Bell Pepper Slaw](index/w/wilted-red-cabbage-and-bell-pepper-slaw-12057.json)
  * [Zesty Bell Pepper Slaw](index/z/zesty-bell-pepper-slaw-102046.json)
+ * [Beef Tataki With Vegetable Slaw And Ponzu](index/b/beef-tataki-with-vegetable-slaw-and-ponzu.json)
+ * [Easy Weeknight Chicken With Sesame Miso Slaw](index/e/easy-weeknight-chicken-with-sesame-miso-slaw.json)

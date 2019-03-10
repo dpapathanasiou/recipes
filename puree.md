@@ -81,3 +81,5 @@
  * [Wild Mushroom Roasted Beet And Goat Cheese Salad With Onion Puree](index/w/wild-mushroom-roasted-beet-and-goat-cheese-salad-with-onion-puree-51181400.json)
  * [Yukon Gold And Fennel Puree With Rosemary Butter](index/y/yukon-gold-and-fennel-puree-with-rosemary-butter-350476.json)
  * [Zucchini Cones Filled With Lemon Mint Pea Puree](index/z/zucchini-cones-filled-with-lemon-mint-pea-puree-13235.json)
+ * [Goat Cheese Crostini With Spring Pea Puree](index/g/goat-cheese-crostini-with-spring-pea-puree.json)
+ * [Summer Squash And Leek Puree](index/s/summer-squash-and-leek-puree.json)

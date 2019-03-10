@@ -42,3 +42,4 @@
  * [White Fish Stock](index/w/white-fish-stock-233577.json)
  * [White Veal Stock](index/w/white-veal-stock-10442.json)
  * [Zinfandel Beef Stock](index/z/zinfandel-beef-stock-108942.json)
+ * [Beef Stock](index/b/beef-stock.json)

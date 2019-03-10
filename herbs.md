@@ -90,3 +90,5 @@
  * [Warm Jasmine Rice Salad With Shrimp And Thai Herbs](index/w/warm-jasmine-rice-salad-with-shrimp-and-thai-herbs-104147.json)
  * [Whole Sardines With Fresh Herbs And Creme Fraiche](index/w/whole-sardines-with-fresh-herbs-and-creme-fraiche-360169.json)
  * [Zucchini Fritters With Herbs And Cheese](index/z/zucchini-fritters-with-herbs-and-cheese-106460.json)
+ * [Frittata With Mixed Herbs Leeks And Parmesan Cheese](index/f/frittata-with-mixed-herbs-leeks-and-parmesan-cheese.json)
+ * [Polenta Pizza With Tomatoes And Fresh Herbs](index/p/polenta-pizza-with-tomatoes-and-fresh-herbs.json)

@@ -9,3 +9,6 @@
  * [Saffron Chicken Breasts With English Pea Puree Pea Shoots And Mint](index/s/saffron-chicken-breasts-with-english-pea-puree-pea-shoots-and-mint-234429.json)
  * [Superb English Plum Pudding](index/s/superb-english-plum-pudding-20010.json)
  * [Yuba Pappardelle With English Peas Fava Leaves And Basil](index/y/yuba-pappardelle-with-english-peas-fava-leaves-and-basil-242046.json)
+ * [English Pea Ricotta Tart](index/e/english-pea-ricotta-tart.json)
+ * [Pasta With English Peas And Morels](index/p/pasta-with-english-peas-and-morels.json)
+ * [Sauteed English Peas With Garlic And Sesame](index/s/sauteed-english-peas-with-garlic-and-sesame.json)

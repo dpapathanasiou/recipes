@@ -18,3 +18,4 @@
  * [Sticky Sesame Chicken Wings](index/s/sticky-sesame-chicken-wings-234650.json)
  * [Sweet Chili Glazed Chicken Wings](index/s/sweet-chili-glazed-chicken-wings-4215.json)
  * [Thai Style Broiled Chicken Wings With Hot And Sour Sauce](index/t/thai-style-broiled-chicken-wings-with-hot-and-sour-sauce-11553.json)
+ * [Tandoori Chicken Wings With Lemon](index/t/tandoori-chicken-wings-with-lemon.json)

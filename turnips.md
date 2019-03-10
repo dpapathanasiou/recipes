@@ -14,3 +14,6 @@
  * [Scalloped Potatoes With Blue Cheese And Turnips](index/s/scalloped-potatoes-with-blue-cheese-and-turnips-891.json)
  * [Tsimmes With Beets Turnips And Beef](index/t/tsimmes-with-beets-turnips-and-beef-40009.json)
  * [Turkey Hash With Sweet Potatoes And Turnips](index/t/turkey-hash-with-sweet-potatoes-and-turnips-102434.json)
+ * [Beef Stew With Turnips And Greens](index/b/beef-stew-with-turnips-and-greens.json)
+ * [Beef Stew With Turnips Beef Bourguignonne](index/b/beef-stew-with-turnips-beef-bourguignonne.json)
+ * [Chicken With Squash Turnips And Shiitakes](index/c/chicken-with-squash-turnips-and-shiitakes.json)

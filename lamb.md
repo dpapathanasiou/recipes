@@ -364,3 +364,7 @@
  * [Twice Cooked Five Spice Lamb With Red Chiles](index/t/twice-cooked-five-spice-lamb-with-red-chiles-237099.json)
  * [Wine Braised Lamb Shanks With Herbes De Provence](index/w/wine-braised-lamb-shanks-with-herbes-de-provence-109263.json)
  * [Wine Braised Leg Of Lamb With Garlic](index/w/wine-braised-leg-of-lamb-with-garlic-231736.json)
+ * [Lamb Curry With Pumpkin Gosht](index/l/lamb-curry-with-pumpkin-gosht.json)
+ * [Little Lamb Meatballs](index/l/little-lamb-meatballs.json)
+ * [Pomegranate Merlot Lamb Shanks](index/p/pomegranate-merlot-lamb-shanks.json)
+ * [Slow Cooker Braised Lamb Shanks](index/s/slow-cooker-braised-lamb-shanks.json)

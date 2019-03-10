@@ -6,3 +6,4 @@
  * [Sherry Crema Catalana Ice Cream With Honeyed Figs](index/s/sherry-crema-catalana-ice-cream-with-honeyed-figs-103209.json)
  * [Smoky Plantain Crema](index/s/smoky-plantain-crema-108216.json)
  * [Watermelon Gazpacho With Feta Crema](index/w/watermelon-gazpacho-with-feta-crema-51242100.json)
+ * [Beef And Monterey Jack Taquitos With Avocado Crema](index/b/beef-and-monterey-jack-taquitos-with-avocado-crema.json)

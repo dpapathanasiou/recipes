@@ -98,3 +98,5 @@
  * [Whipped Cream Cakes With Peaches And Raspberries](index/w/whipped-cream-cakes-with-peaches-and-raspberries-10535.json)
  * [Wild Rice And Brown Rice Cakes With Roasted Vegetable Ragu](index/w/wild-rice-and-brown-rice-cakes-with-roasted-vegetable-ragu-108815.json)
  * [Winter Spiced Molten Chocolate Cakes With Rum Ginger Ice Cream](index/w/winter-spiced-molten-chocolate-cakes-with-rum-ginger-ice-cream-109054.json)
+ * [Individual Blueberry Lemon Cakes](index/i/individual-blueberry-lemon-cakes.json)
+ * [Individual Lemon Pudding Cakes](index/i/individual-lemon-pudding-cakes.json)

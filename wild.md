@@ -121,3 +121,6 @@
  * [Yellow Tomatoes Stuffed With Grilled Wild Mushrooms And Parmesan Cheese](index/y/yellow-tomatoes-stuffed-with-grilled-wild-mushrooms-and-parmesan-cheese-358969.json)
  * [Yukon Gold Potato And Wild Mushroom Gratin](index/y/yukon-gold-potato-and-wild-mushroom-gratin-231109.json)
  * [Yukon Gold Potato And Wild Mushroom Gratin With Blue Cheese](index/y/yukon-gold-potato-and-wild-mushroom-gratin-with-blue-cheese-100346.json)
+ * [Pizza With Butternut Squash Wild Mushrooms And Artichoke Sauce](index/p/pizza-with-butternut-squash-wild-mushrooms-and-artichoke-sauce.json)
+ * [Savory Barley Soup With Wild Mushrooms And Thyme](index/s/savory-barley-soup-with-wild-mushrooms-and-thyme.json)
+ * [Wild Mushroom  Kale And Fontina Pizza](index/w/wild-mushroom--kale-and-fontina-pizza.json)

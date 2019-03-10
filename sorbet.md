@@ -56,3 +56,5 @@
  * [White Russian Sorbet](index/w/white-russian-sorbet-2468.json)
  * [Winter Sorbet Sampler](index/w/winter-sorbet-sampler-550.json)
  * [Yogurt Lime Sorbet](index/y/yogurt-lime-sorbet-51245250.json)
+ * [Limoncello Sorbet](index/l/limoncello-sorbet.json)
+ * [Ruby Grapefruit Sorbet](index/r/ruby-grapefruit-sorbet.json)

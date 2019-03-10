@@ -12,3 +12,5 @@
  * [Sicilian Tuna](index/s/sicilian-tuna-355420.json)
  * [The Sicilian Slush](index/t/the-sicilian-slush.json)
  * [Wood Smoked Tri Tip With Sicilian Herb Sauce](index/w/wood-smoked-tri-tip-with-sicilian-herb-sauce-238793.json)
+ * [Sicilian Style Pizza Dough](index/s/sicilian-style-pizza-dough.json)
+ * [Sicilian Zucchini Pizza](index/s/sicilian-zucchini-pizza.json)

@@ -45,3 +45,5 @@
  * [Tarragon Cilantro Salsa Verde](index/t/tarragon-cilantro-salsa-verde-51241230.json)
  * [Three Day Twice Cooked Pork Roast With Fried Herb Salsa Verde](index/t/three-day-twice-cooked-pork-roast-with-fried-herb-salsa-verde-51262510.json)
  * [Turkey Chili Verde](index/t/turkey-chili-verde-492.json)
+ * [Chili Verde](index/c/chili-verde.json)
+ * [Grilled Beef With Salsa Verde](index/g/grilled-beef-with-salsa-verde.json)

@@ -75,3 +75,6 @@
  * [Yogurt Feta Dip](index/y/yogurt-feta-dip-4455.json)
  * [Yogurt Mint Dip](index/y/yogurt-mint-dip-104157.json)
  * [Zucchini Cilantro Dip](index/z/zucchini-cilantro-dip-1527.json)
+ * [Chipotle Black Bean Dip](index/c/chipotle-black-bean-dip.json)
+ * [Creamy Herb Dip With Crudites](index/c/creamy-herb-dip-with-crudites.json)
+ * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)
