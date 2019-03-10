@@ -1,3 +1,3 @@
 # azalea
 
- * [Pink Azalea Cake](../index/p/pink-azalea-cake.json)
+ * [Pink Azalea Cake](../../index/p/pink-azalea-cake.json)

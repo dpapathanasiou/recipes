@@ -1,3 +1,3 @@
 # ada
 
- * [Ada Adai](../index/a/ada-adai.json)
+ * [Ada Adai](../../index/a/ada-adai.json)

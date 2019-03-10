@@ -1,3 +1,3 @@
 # olympia
 
- * [Halibut Olympia](../index/h/halibut-olympia.json)
+ * [Halibut Olympia](../../index/h/halibut-olympia.json)

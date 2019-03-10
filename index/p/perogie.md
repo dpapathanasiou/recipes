@@ -1,3 +1,3 @@
 # perogie
 
- * [Perogie Casserole](../index/p/perogie-casserole.json)
+ * [Perogie Casserole](../../index/p/perogie-casserole.json)

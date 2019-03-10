@@ -1,3 +1,3 @@
 # journalist
 
- * [Journalist](../index/j/journalist-200973.json)
+ * [Journalist](../../index/j/journalist-200973.json)

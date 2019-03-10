@@ -1,3 +1,3 @@
 # agedashi
 
- * [Agedashi Esque Tofu](../index/a/agedashi-esque-tofu.json)
+ * [Agedashi Esque Tofu](../../index/a/agedashi-esque-tofu.json)

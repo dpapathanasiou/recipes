@@ -1,3 +1,3 @@
 # gilroy
 
- * [Gilroy](../index/g/gilroy-200957.json)
+ * [Gilroy](../../index/g/gilroy-200957.json)

@@ -1,3 +1,3 @@
 # andes
 
- * [Andes Mint Cookies](../index/a/andes-mint-cookies.json)
+ * [Andes Mint Cookies](../../index/a/andes-mint-cookies.json)

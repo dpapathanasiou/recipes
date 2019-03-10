@@ -1,3 +1,3 @@
 # coctel
 
- * [Coctel Veracruzana](../index/c/coctel-veracruzana-200387.json)
+ * [Coctel Veracruzana](../../index/c/coctel-veracruzana-200387.json)

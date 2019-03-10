@@ -1,3 +1,3 @@
 # jordanian
 
- * [Mensaf Jordanian Lamb Stew](../index/m/mensaf-jordanian-lamb-stew.json)
+ * [Mensaf Jordanian Lamb Stew](../../index/m/mensaf-jordanian-lamb-stew.json)

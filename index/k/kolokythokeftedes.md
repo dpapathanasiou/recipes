@@ -1,3 +1,3 @@
 # kolokythokeftedes
 
- * [Zucchini Balls Kolokythokeftedes](../index/z/zucchini-balls-kolokythokeftedes.json)
+ * [Zucchini Balls Kolokythokeftedes](../../index/z/zucchini-balls-kolokythokeftedes.json)

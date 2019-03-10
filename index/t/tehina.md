@@ -1,3 +1,3 @@
 # tehina
 
- * [Hummus Tehina](../index/h/hummus-tehina.json)
+ * [Hummus Tehina](../../index/h/hummus-tehina.json)

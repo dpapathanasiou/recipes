@@ -1,3 +1,3 @@
 # santori
 
- * [Santori](../index/s/santori-15530.json)
+ * [Santori](../../index/s/santori-15530.json)

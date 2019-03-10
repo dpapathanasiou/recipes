@@ -1,3 +1,3 @@
 # calgary
 
- * [Calgary Dinner](../index/c/calgary-dinner.json)
+ * [Calgary Dinner](../../index/c/calgary-dinner.json)

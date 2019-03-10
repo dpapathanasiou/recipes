@@ -1,3 +1,3 @@
 # encebollada
 
- * [Pollo Encebollada Onion Chicken](../index/p/pollo-encebollada-onion-chicken.json)
+ * [Pollo Encebollada Onion Chicken](../../index/p/pollo-encebollada-onion-chicken.json)

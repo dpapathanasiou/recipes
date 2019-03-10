@@ -1,3 +1,3 @@
 # fettucini
 
- * [Easy Seafood Fettucini](../index/e/easy-seafood-fettucini.json)
+ * [Easy Seafood Fettucini](../../index/e/easy-seafood-fettucini.json)

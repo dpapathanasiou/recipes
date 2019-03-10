@@ -1,3 +1,3 @@
 # mexajita
 
- * [Mexajita Chicken Recipe](../index/m/mexajita-chicken-recipe.json)
+ * [Mexajita Chicken Recipe](../../index/m/mexajita-chicken-recipe.json)

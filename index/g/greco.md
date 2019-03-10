@@ -1,3 +1,3 @@
 # greco
 
- * [Greco](../index/g/greco-51255850.json)
+ * [Greco](../../index/g/greco-51255850.json)

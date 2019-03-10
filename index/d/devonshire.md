@@ -1,3 +1,3 @@
 # devonshire
 
- * [Easy Devonshire Cream](../index/e/easy-devonshire-cream.json)
+ * [Easy Devonshire Cream](../../index/e/easy-devonshire-cream.json)

@@ -1,3 +1,3 @@
 # bridgets
 
- * [Bridgets Family Corn Casserole](../index/b/bridgets-family-corn-casserole.json)
+ * [Bridgets Family Corn Casserole](../../index/b/bridgets-family-corn-casserole.json)

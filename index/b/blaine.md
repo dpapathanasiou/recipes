@@ -1,3 +1,3 @@
 # blaine
 
- * [Blaine Pizza Sauce](../index/b/blaine-pizza-sauce.json)
+ * [Blaine Pizza Sauce](../../index/b/blaine-pizza-sauce.json)

@@ -1,3 +1,3 @@
 # annie
 
- * [Chicken Annie Style](../index/c/chicken-annie-style.json)
+ * [Chicken Annie Style](../../index/c/chicken-annie-style.json)

@@ -1,3 +1,3 @@
 # mochas
 
- * [Iced Mochas](../index/i/iced-mochas.json)
+ * [Iced Mochas](../../index/i/iced-mochas.json)

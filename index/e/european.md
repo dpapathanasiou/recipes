@@ -1,8 +1,8 @@
 # european
 
- * [Eastern European Kotlety](../index/e/eastern-european-kotlety.json)
- * [European Black Bread](../index/e/european-black-bread.json)
- * [European Cookie Butter Chocolate Chip](../index/e/european-cookie-butter-chocolate-chip.json)
- * [European Fry Sauce](../index/e/european-fry-sauce.json)
- * [European Muesli](../index/e/european-muesli.json)
- * [Gluten Free European Apple Cake](../index/g/gluten-free-european-apple-cake.json)
+ * [Eastern European Kotlety](../../index/e/eastern-european-kotlety.json)
+ * [European Black Bread](../../index/e/european-black-bread.json)
+ * [European Cookie Butter Chocolate Chip](../../index/e/european-cookie-butter-chocolate-chip.json)
+ * [European Fry Sauce](../../index/e/european-fry-sauce.json)
+ * [European Muesli](../../index/e/european-muesli.json)
+ * [Gluten Free European Apple Cake](../../index/g/gluten-free-european-apple-cake.json)

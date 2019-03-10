@@ -1,3 +1,3 @@
 # nockerl
 
- * [Salzburger Nockerl](../index/s/salzburger-nockerl-237201.json)
+ * [Salzburger Nockerl](../../index/s/salzburger-nockerl-237201.json)

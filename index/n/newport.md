@@ -1,3 +1,3 @@
 # newport
 
- * [Newport Clam Chowder](../index/n/newport-clam-chowder.json)
+ * [Newport Clam Chowder](../../index/n/newport-clam-chowder.json)

@@ -1,3 +1,3 @@
 # claudios
 
- * [Claudios Easy Rotini Puttanesca](../index/c/claudios-easy-rotini-puttanesca.json)
+ * [Claudios Easy Rotini Puttanesca](../../index/c/claudios-easy-rotini-puttanesca.json)

@@ -1,3 +1,3 @@
 # berliner
 
- * [Berliner Kranzer](../index/b/berliner-kranzer.json)
+ * [Berliner Kranzer](../../index/b/berliner-kranzer.json)

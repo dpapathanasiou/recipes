@@ -1,3 +1,3 @@
 # arabian
 
- * [Arabian Rose Water Pudding Muhalbiya](../index/a/arabian-rose-water-pudding-muhalbiya.json)
+ * [Arabian Rose Water Pudding Muhalbiya](../../index/a/arabian-rose-water-pudding-muhalbiya.json)

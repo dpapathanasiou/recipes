@@ -1,3 +1,3 @@
 # warsaw
 
- * [Warsaw Waffle](../index/w/warsaw-waffle.json)
+ * [Warsaw Waffle](../../index/w/warsaw-waffle.json)

@@ -1,3 +1,3 @@
 # jibarito
 
- * [Jibarito](../index/j/jibarito.json)
+ * [Jibarito](../../index/j/jibarito.json)

@@ -1,3 +1,3 @@
 # qatayef
 
- * [Qatayef](../index/q/qatayef-366170.json)
+ * [Qatayef](../../index/q/qatayef-366170.json)

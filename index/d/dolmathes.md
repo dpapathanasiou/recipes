@@ -1,3 +1,3 @@
 # dolmathes
 
- * [Dolmathes](../index/d/dolmathes.json)
+ * [Dolmathes](../../index/d/dolmathes.json)

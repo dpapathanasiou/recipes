@@ -1,3 +1,3 @@
 # uggie
 
- * [Shrimp Uggie](../index/s/shrimp-uggie-104673.json)
+ * [Shrimp Uggie](../../index/s/shrimp-uggie-104673.json)

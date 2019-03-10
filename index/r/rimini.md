@@ -1,3 +1,3 @@
 # rimini
 
- * [Rimini](../index/r/rimini-51255810.json)
+ * [Rimini](../../index/r/rimini-51255810.json)

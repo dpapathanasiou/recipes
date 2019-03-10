@@ -1,3 +1,3 @@
 # pinon
 
- * [Pinon](../index/p/pinon-15742.json)
+ * [Pinon](../../index/p/pinon-15742.json)

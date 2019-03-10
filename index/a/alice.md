@@ -1,3 +1,3 @@
 # alice
 
- * [Alice Chicken](../index/a/alice-chicken.json)
+ * [Alice Chicken](../../index/a/alice-chicken.json)

@@ -1,3 +1,3 @@
 # annemaries
 
- * [Annemaries Lemon Bars](../index/a/annemaries-lemon-bars.json)
+ * [Annemaries Lemon Bars](../../index/a/annemaries-lemon-bars.json)

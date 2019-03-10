@@ -1,3 +1,3 @@
 # eel
 
- * [Eel Sauce](../index/e/eel-sauce.json)
+ * [Eel Sauce](../../index/e/eel-sauce.json)

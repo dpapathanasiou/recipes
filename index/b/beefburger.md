@@ -1,3 +1,3 @@
 # beefburger
 
- * [Beefburger Parcels](../index/b/beefburger-parcels.json)
+ * [Beefburger Parcels](../../index/b/beefburger-parcels.json)

@@ -1,3 +1,3 @@
 # shriner
 
- * [Shriner](../index/s/shriner-201032.json)
+ * [Shriner](../../index/s/shriner-201032.json)

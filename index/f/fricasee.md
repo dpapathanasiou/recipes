@@ -1,3 +1,3 @@
 # fricasee
 
- * [Chicken Fricasee](../index/c/chicken-fricasee.json)
+ * [Chicken Fricasee](../../index/c/chicken-fricasee.json)

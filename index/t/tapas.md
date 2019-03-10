@@ -1,3 +1,3 @@
 # tapas
 
- * [Avocado And Tuna Tapas](../index/a/avocado-and-tuna-tapas.json)
+ * [Avocado And Tuna Tapas](../../index/a/avocado-and-tuna-tapas.json)

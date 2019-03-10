@@ -1,3 +1,3 @@
 # balloon
 
- * [Chocolate Balloon Bowls](../index/c/chocolate-balloon-bowls.json)
+ * [Chocolate Balloon Bowls](../../index/c/chocolate-balloon-bowls.json)

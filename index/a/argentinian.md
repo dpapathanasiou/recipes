@@ -1,3 +1,3 @@
 # argentinian
 
- * [Argentinian Beef Empanadas](../index/a/argentinian-beef-empanadas.json)
+ * [Argentinian Beef Empanadas](../../index/a/argentinian-beef-empanadas.json)

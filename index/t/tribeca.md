@@ -1,3 +1,3 @@
 # tribeca
 
- * [Tribeca Artichoke Dip](../index/t/tribeca-artichoke-dip.json)
+ * [Tribeca Artichoke Dip](../../index/t/tribeca-artichoke-dip.json)

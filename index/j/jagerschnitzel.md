@@ -1,3 +1,3 @@
 # jagerschnitzel
 
- * [Jagerschnitzel](../index/j/jagerschnitzel.json)
+ * [Jagerschnitzel](../../index/j/jagerschnitzel.json)

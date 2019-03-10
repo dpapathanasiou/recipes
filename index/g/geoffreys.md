@@ -1,3 +1,3 @@
 # geoffreys
 
- * [Geoffreys Lemon Tart](../index/g/geoffreys-lemon-tart.json)
+ * [Geoffreys Lemon Tart](../../index/g/geoffreys-lemon-tart.json)

@@ -1,3 +1,3 @@
 # fijian
 
- * [Fijian Dhal Soup](../index/f/fijian-dhal-soup.json)
+ * [Fijian Dhal Soup](../../index/f/fijian-dhal-soup.json)

@@ -1,3 +1,3 @@
 # casablanca
 
- * [Casablanca Chili](../index/c/casablanca-chili.json)
+ * [Casablanca Chili](../../index/c/casablanca-chili.json)

@@ -1,3 +1,3 @@
 # barcelona
 
- * [Sangria Barcelona Style](../index/s/sangria-barcelona-style.json)
+ * [Sangria Barcelona Style](../../index/s/sangria-barcelona-style.json)

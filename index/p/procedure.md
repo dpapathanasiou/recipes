@@ -1,3 +1,3 @@
 # procedure
 
- * [Grilling Procedure](../index/g/grilling-procedure-234697.json)
+ * [Grilling Procedure](../../index/g/grilling-procedure-234697.json)

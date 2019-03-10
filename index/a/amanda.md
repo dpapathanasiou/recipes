@@ -1,3 +1,3 @@
 # amanda
 
- * [Risotto All Amanda](../index/r/risotto-all-amanda.json)
+ * [Risotto All Amanda](../../index/r/risotto-all-amanda.json)
