@@ -6,9 +6,9 @@ This is a collection of cooking recipes in [json format](http://json.org/) gener
 
 [Pull requests](https://help.github.com/articles/about-pull-requests/) are welcome
 
-# Alphabetical Index
+# Alphabetical &amp; Numerical Index
 
-An [alphabetical listing](index) by recipe title
+An [alphanumeric listing](index/README.md) by recipe title
 
 # Component Index
 
