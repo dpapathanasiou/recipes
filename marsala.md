@@ -1,0 +1,18 @@
+# marsala
+
+ * [Cranberry Sauce With Cherries Marsala And Rosemary](index/c/cranberry-sauce-with-cherries-marsala-and-rosemary-102508.json)
+ * [Frozen Italian Zabaglione Tart With Marsala Lemon Sauce](index/f/frozen-italian-zabaglione-tart-with-marsala-lemon-sauce-3019.json)
+ * [Ice Cream With Marsala And Currants](index/i/ice-cream-with-marsala-and-currants-574.json)
+ * [Marsala And Dried Fig Crostata](index/m/marsala-and-dried-fig-crostata-107729.json)
+ * [Marsala And Mascarpone Mousse With Pound Cake And Berries](index/m/marsala-and-mascarpone-mousse-with-pound-cake-and-berries-232104.json)
+ * [Marsala Baked Apples](index/m/marsala-baked-apples-3088.json)
+ * [Orange Almond Torte With Orange Sauce And Marsala Cream](index/o/orange-almond-torte-with-orange-sauce-and-marsala-cream-541.json)
+ * [Pine Nut Torta With Marsala Poached Autumn Fruit](index/p/pine-nut-torta-with-marsala-poached-autumn-fruit-108646.json)
+ * [Poached Pears With Marsala Cinnamon And Vanilla](index/p/poached-pears-with-marsala-cinnamon-and-vanilla-107173.json)
+ * [Roast Veal Brisket With Marsala Mushroom Sauce](index/r/roast-veal-brisket-with-marsala-mushroom-sauce-2893.json)
+ * [Sea Bass With Shallots Garlic And Marsala](index/s/sea-bass-with-shallots-garlic-and-marsala-15545.json)
+ * [Strawberries With Marsala](index/s/strawberries-with-marsala-232022.json)
+ * [Strawberry Mascarpone And Marsala Budini](index/s/strawberry-mascarpone-and-marsala-budini-107890.json)
+ * [Veal Cutlets In Marsala Mustard Sauce](index/v/veal-cutlets-in-marsala-mustard-sauce-107420.json)
+ * [Veal Marsala](index/v/veal-marsala-106274.json)
+ * [Wood Grilled Breast Of Chicken Marsala With Grilled Carrots](index/w/wood-grilled-breast-of-chicken-marsala-with-grilled-carrots-232444.json)

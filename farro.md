@@ -1,0 +1,18 @@
+# farro
+
+ * [Crudites Salad With Farro And Pecans](index/c/crudites-salad-with-farro-and-pecans-56389669.json)
+ * [Cucumber Buffalo Mozzarella And Farro Salad](index/c/cucumber-buffalo-mozzarella-and-farro-salad-352313.json)
+ * [Dill Crusted Pork Tenderloin With Farro Pea And Blistered Tomato Salad](index/d/dill-crusted-pork-tenderloin-with-farro-pea-and-blistered-tomato-salad.json)
+ * [Farro And Pine Nut Tabbouleh](index/f/farro-and-pine-nut-tabbouleh-360329.json)
+ * [Farro And Tomato Salad With Fish Sauce Vinaigrette](index/f/farro-and-tomato-salad-with-fish-sauce-vinaigrette-56389871.json)
+ * [Farro Soup With Kale And Cannellini](index/f/farro-soup-with-kale-and-cannellini-51195210.json)
+ * [Farro Spaghetti With Mushrooms And Hazelnuts](index/f/farro-spaghetti-with-mushrooms-and-hazelnuts-51263920.json)
+ * [Farro With Pistachios Mixed Herbs And Golden Raisins](index/f/farro-with-pistachios-mixed-herbs-and-golden-raisins.json)
+ * [Farro With Wild Mushrooms And Herbs](index/f/farro-with-wild-mushrooms-and-herbs-51118030.json)
+ * [Fried Farro With Pickled Carrots And Runny Eggs](index/f/fried-farro-with-pickled-carrots-and-runny-eggs-51187150.json)
+ * [Gialinas Kale Farro Salad With Avocado](index/g/gialinas-kale-farro-salad-with-avocado-51193750.json)
+ * [Lemony Chicken Soup With Farro White Beans And Kale](index/l/lemony-chicken-soup-with-farro-white-beans-and-kale.json)
+ * [Mustard Crusted Pork With Farro And Carrot Salad](index/m/mustard-crusted-pork-with-farro-and-carrot-salad-51155310.json)
+ * [Roasted Duck Breasts With Farro Risotto And Duck Confit](index/r/roasted-duck-breasts-with-farro-risotto-and-duck-confit-108580.json)
+ * [Roasted Poultry Wild Boar Bacon And Mushroom Farro With Pan Roasted Fennel And Carrots](index/r/roasted-poultry-wild-boar-bacon-and-mushroom-farro-with-pan-roasted-fennel-and-carrots-51183200.json)
+ * [Wild Rice Farro And Tangerine Salad](index/w/wild-rice-farro-and-tangerine-salad-51198520.json)

@@ -1,0 +1,4 @@
+# local
+
+ * [Pan Seared Petrale Sole With Local Winter Vegetables](index/p/pan-seared-petrale-sole-with-local-winter-vegetables-235808.json)
+ * [Vidalia Onion Tart With Bacon Local Honey And Fresh Thyme](index/v/vidalia-onion-tart-with-bacon-local-honey-and-fresh-thyme-354950.json)

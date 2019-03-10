@@ -1,0 +1,15 @@
+# chip
+
+ * [Frozen Cherry And Chocolate Chip Souffle](index/f/frozen-cherry-and-chocolate-chip-souffle-103804.json)
+ * [Mint Chocolate Chip Ice Milk Sandwiches](index/m/mint-chocolate-chip-ice-milk-sandwiches-12449.json)
+ * [Oatmeal Chocolate Chip And Bean Cookies](index/o/oatmeal-chocolate-chip-and-bean-cookies-230170.json)
+ * [Oatmeal Date Pecan And Chocolate Chip Cookies](index/o/oatmeal-date-pecan-and-chocolate-chip-cookies-2501.json)
+ * [Peanut Butter Chocolate Chip Breads](index/p/peanut-butter-chocolate-chip-breads-13547.json)
+ * [Peanut Butter Chocolate Chip Breads](index/p/peanut-butter-chocolate-chip-breads-13585.json)
+ * [Peanut Butter Chocolate Chip Cupcakes With Chocolate Icing](index/p/peanut-butter-chocolate-chip-cupcakes-with-chocolate-icing-11324.json)
+ * [Pear And Dried Cherry Cobblers With Ginger Chocolate Chip Biscuit Topping](index/p/pear-and-dried-cherry-cobblers-with-ginger-chocolate-chip-biscuit-topping-230949.json)
+ * [Raspberry Chocolate Chip Cigars](index/r/raspberry-chocolate-chip-cigars-106183.json)
+ * [Raspberry Chocolate Chip Pancakes](index/r/raspberry-chocolate-chip-pancakes-14163.json)
+ * [Sour Cream Chocolate Chip Cake](index/s/sour-cream-chocolate-chip-cake-108141.json)
+ * [Sugar Crusted Chocolate Chip And Cherry Bread Puddings](index/s/sugar-crusted-chocolate-chip-and-cherry-bread-puddings-232710.json)
+ * [White Cake With Coconut Pecan And Chocolate Chip Frosting](index/w/white-cake-with-coconut-pecan-and-chocolate-chip-frosting-5820.json)

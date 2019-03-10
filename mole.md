@@ -1,0 +1,17 @@
+# mole
+
+ * [Cornbread Casserole And Butternut Squash Mushrooms And Ancho Mole](index/c/cornbread-casserole-and-butternut-squash-mushrooms-and-ancho-mole-233151.json)
+ * [Fish Fillets In Mole Verde](index/f/fish-fillets-in-mole-verde-238509.json)
+ * [Fried Eggs With Coffee Chipotle Mole](index/f/fried-eggs-with-coffee-chipotle-mole-235989.json)
+ * [Green Mole](index/g/green-mole-108193.json)
+ * [Grill Roasted Rack Of Lamb In Red Mole](index/g/grill-roasted-rack-of-lamb-in-red-mole-108206.json)
+ * [Grilled Short Ribs With Sesame Chipotle Em Mole Em](index/g/grilled-short-ribs-with-sesame-chipotle-em-mole-em-56389647.json)
+ * [Mole Cake With Cherry Almond Ice Cream Tamarind Anglaise And Orange Caramel](index/m/mole-cake-with-cherry-almond-ice-cream-tamarind-anglaise-and-orange-caramel-104140.json)
+ * [Mole Poblano](index/m/mole-poblano-51110440.json)
+ * [Pan Roasted Pork Chops With Yellow Pepper Mole Sauce](index/p/pan-roasted-pork-chops-with-yellow-pepper-mole-sauce-363310.json)
+ * [Red Mole](index/r/red-mole-108215.json)
+ * [Spicy Grilled Chicken With Creamy Pumpkin Mole Sauce](index/s/spicy-grilled-chicken-with-creamy-pumpkin-mole-sauce-108581.json)
+ * [Tamales De Mole Poblano](index/t/tamales-de-mole-poblano-51110610.json)
+ * [Teotitlan Style Black Mole](index/t/teotitlan-style-black-mole-232061.json)
+ * [Turkey Mole](index/t/turkey-mole-20140.json)
+ * [Turkey Mole Sauce](index/t/turkey-mole-sauce-240456.json)

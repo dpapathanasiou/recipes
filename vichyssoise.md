@@ -1,0 +1,9 @@
+# vichyssoise
+
+ * [Fresh Fennel Vichyssoise](index/f/fresh-fennel-vichyssoise-103760.json)
+ * [Mushroom Vichyssoise Padian](index/m/mushroom-vichyssoise-padian-10120.json)
+ * [Saffron Vichyssoise](index/s/saffron-vichyssoise-12707.json)
+ * [Sorrel Vichyssoise](index/s/sorrel-vichyssoise-11925.json)
+ * [Vichyssoise](index/v/vichyssoise-102030.json)
+ * [Zucchini And Saffron Vichyssoise With Scallops](index/z/zucchini-and-saffron-vichyssoise-with-scallops-107004.json)
+ * [Zucchini Vichyssoise](index/z/zucchini-vichyssoise-106935.json)

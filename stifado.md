@@ -1,0 +1,3 @@
+# stifado
+
+ * [Lamb Shank Stifado With Sauteed Potatoes](index/l/lamb-shank-stifado-with-sauteed-potatoes-11390.json)

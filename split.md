@@ -1,0 +1,17 @@
+# split
+
+ * [Curried Yellow Split Pea Soup With Spiced Coconut](index/c/curried-yellow-split-pea-soup-with-spiced-coconut.json)
+ * [Easy Split Pea Soup](index/e/easy-split-pea-soup-1919.json)
+ * [Indian Lentil And Split Pea Spread](index/i/indian-lentil-and-split-pea-spread-4280.json)
+ * [Lamb And Yellow Split Pea Stew](index/l/lamb-and-yellow-split-pea-stew-107352.json)
+ * [Mrs Schreiners Split Pea Soup](index/m/mrs-schreiners-split-pea-soup-10096.json)
+ * [Persian Beef And Split Pea Stew](index/p/persian-beef-and-split-pea-stew-239283.json)
+ * [Pineapple Split](index/p/pineapple-split-687.json)
+ * [Spicy Pumpkin And Split Pea Soup](index/s/spicy-pumpkin-and-split-pea-soup-232424.json)
+ * [Split Pea And Green Pea Soup With Fresh Dill](index/s/split-pea-and-green-pea-soup-with-fresh-dill-236775.json)
+ * [Split Pea Soup With Bacon And Rosemary](index/s/split-pea-soup-with-bacon-and-rosemary-103872.json)
+ * [Split Pea Soup With Chorizo](index/s/split-pea-soup-with-chorizo-11594.json)
+ * [Split Pea Soup With Gouda Sausage Toasts](index/s/split-pea-soup-with-gouda-sausage-toasts-2544.json)
+ * [Split Pea Soup With Sausage And Potato](index/s/split-pea-soup-with-sausage-and-potato-231425.json)
+ * [Tropical Fruit Foster Split](index/t/tropical-fruit-foster-split-236221.json)
+ * [Yellow Split Pea Soup](index/y/yellow-split-pea-soup-105641.json)

@@ -1,0 +1,17 @@
+# legs
+
+ * [Cold Smoked Chicken Legs In A Chinese Cure](index/c/cold-smoked-chicken-legs-in-a-chinese-cure-232188.json)
+ * [Crab Legs With Mustard Dipping Sauce](index/c/crab-legs-with-mustard-dipping-sauce-5721.json)
+ * [Duck Legs Confit Cooked In A Pouch Confit De Canard En Sous Vide](index/d/duck-legs-confit-cooked-in-a-pouch-confit-de-canard-en-sous-vide.json)
+ * [Ham Stuffed Chicken Legs With Sweet Pepper Honey And Onion Compote](index/h/ham-stuffed-chicken-legs-with-sweet-pepper-honey-and-onion-compote-1964.json)
+ * [Jerk Spice Rubbed Chicken Legs](index/j/jerk-spice-rubbed-chicken-legs.json)
+ * [Lemon Rubbed Chicken Legs With Garlic And Rosemary](index/l/lemon-rubbed-chicken-legs-with-garlic-and-rosemary-13645.json)
+ * [Mustard Roasted Chicken Legs On Arugula](index/m/mustard-roasted-chicken-legs-on-arugula-103052.json)
+ * [Red Wine Braised Duck Legs](index/r/red-wine-braised-duck-legs-14324.json)
+ * [Red Wine Braised Duck Legs With Roasted Pears And Onions](index/r/red-wine-braised-duck-legs-with-roasted-pears-and-onions-10898.json)
+ * [Roast Chicken Legs With Lemon And Thyme](index/r/roast-chicken-legs-with-lemon-and-thyme-238101.json)
+ * [Roast Chicken Legs With Sorghum And Squash](index/r/roast-chicken-legs-with-sorghum-and-squash.json)
+ * [Roasted Chicken Legs With Jalapeno And Tomato](index/r/roasted-chicken-legs-with-jalapeno-and-tomato-10084.json)
+ * [Roasted Chicken Legs With Plum Chili Salsa](index/r/roasted-chicken-legs-with-plum-chili-salsa-12153.json)
+ * [Roasted Chicken Legs With Vegetables And Arugula](index/r/roasted-chicken-legs-with-vegetables-and-arugula-100749.json)
+ * [Spice Rubbed Duck Legs Braised With Green Olives And Carrots](index/s/spice-rubbed-duck-legs-braised-with-green-olives-and-carrots-237063.json)

@@ -1,0 +1,6 @@
+# shawarma
+
+ * [Shawarma Spiced Braised Leg Of Lamb](index/s/shawarma-spiced-braised-leg-of-lamb.json)
+ * [Shawarma Spiced Chicken Pita With Tahini Yogurt Sauce](index/s/shawarma-spiced-chicken-pita-with-tahini-yogurt-sauce.json)
+ * [Turkey Shawarma With Crunchy Vegetables](index/t/turkey-shawarma-with-crunchy-vegetables.json)
+ * [Turkey Shawarma With Tomato Relish And Tahini Sauce](index/t/turkey-shawarma-with-tomato-relish-and-tahini-sauce-353778.json)

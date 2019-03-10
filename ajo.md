@@ -1,0 +1,4 @@
+# ajo
+
+ * [Red Snapper Yuca Cakes With Mojo De Ajo](index/r/red-snapper-yuca-cakes-with-mojo-de-ajo-108735.json)
+ * [Zucchini Salad With Ajo Blanco Dressing Spiced Nuts](index/z/zucchini-salad-with-ajo-blanco-dressing-spiced-nuts-56389847.json)

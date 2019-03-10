@@ -1,0 +1,13 @@
+# brioche
+
+ * [Gingered Brioche Summer Pudding With Sour Cream Mascarpone](index/g/gingered-brioche-summer-pudding-with-sour-cream-mascarpone-12651.json)
+ * [Herbed Shrimp Salad With Watercress On Toasted Brioche](index/h/herbed-shrimp-salad-with-watercress-on-toasted-brioche-12494.json)
+ * [Herbed Yellow Pepper Scrambled Eggs With Chive Sour Cream On Brioche](index/h/herbed-yellow-pepper-scrambled-eggs-with-chive-sour-cream-on-brioche-12405.json)
+ * [Morels In Cream On Brioche Morilles A La Creme](index/m/morels-in-cream-on-brioche-morilles-a-la-creme-105005.json)
+ * [Poached Egg Brioche](index/p/poached-egg-brioche-234242.json)
+ * [Poached Eggs And Parmesan Cheese Over Toasted Brioche With Pistou](index/p/poached-eggs-and-parmesan-cheese-over-toasted-brioche-with-pistou-242969.json)
+ * [Quinces And Prunes With Caramelized Brioche](index/q/quinces-and-prunes-with-caramelized-brioche-105628.json)
+ * [Red Wine And Pear Brioche Tart](index/r/red-wine-and-pear-brioche-tart-104047.json)
+ * [Rhubarb And Ginger Brioche Bread Pudding](index/r/rhubarb-and-ginger-brioche-bread-pudding-358597.json)
+ * [Seared Foie Gras And Lingonberry Jam On Brioche Toast](index/s/seared-foie-gras-and-lingonberry-jam-on-brioche-toast-102725.json)
+ * [Simple Brioche](index/s/simple-brioche-101116.json)

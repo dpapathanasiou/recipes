@@ -1,0 +1,17 @@
+# daiquiri
+
+ * [Classic Daiquiri](index/c/classic-daiquiri-235570.json)
+ * [Frozen Mango Daiquiri](index/f/frozen-mango-daiquiri-230578.json)
+ * [Frozen Peach Daiquiri](index/f/frozen-peach-daiquiri-200742.json)
+ * [Hemingway Daiquiri](index/h/hemingway-daiquiri-235569.json)
+ * [Lime And Grapefruit Daiquiri Ice Pops](index/l/lime-and-grapefruit-daiquiri-ice-pops-56389732.json)
+ * [Lime Daiquiri With Apricot Brandy](index/l/lime-daiquiri-with-apricot-brandy-201203.json)
+ * [Mixed Berry Daiquiri](index/m/mixed-berry-daiquiri-201165.json)
+ * [Nectarine Daiquiri](index/n/nectarine-daiquiri-201168.json)
+ * [Passion Daiquiri](index/p/passion-daiquiri-102779.json)
+ * [Peach And Mango Daiquiri](index/p/peach-and-mango-daiquiri-201181.json)
+ * [Pineapple Mint Frozen Daiquiri](index/p/pineapple-mint-frozen-daiquiri-200687.json)
+ * [Rum Daiquiri Cocktail](index/r/rum-daiquiri-cocktail.json)
+ * [Strawberry Daiquiri](index/s/strawberry-daiquiri-358554.json)
+ * [Strawberry Daiquiri Slush With Honeydew Melon](index/s/strawberry-daiquiri-slush-with-honeydew-melon-103697.json)
+ * [Watermelon Daiquiri](index/w/watermelon-daiquiri-200772.json)

@@ -1,0 +1,17 @@
+# madeira
+
+ * [Game Hens With Madeira And Wild Mushrooms](index/g/game-hens-with-madeira-and-wild-mushrooms-4414.json)
+ * [Green Beans With Mushroom Madeira Sauce](index/g/green-beans-with-mushroom-madeira-sauce-102143.json)
+ * [Herbed Fillet Of Beef With Tomato Madeira Confit](index/h/herbed-fillet-of-beef-with-tomato-madeira-confit-240981.json)
+ * [Madeira Cream Gravy](index/m/madeira-cream-gravy-108762.json)
+ * [Mulled Madeira](index/m/mulled-madeira-200568.json)
+ * [Mushrooms With Garlic And Madeira](index/m/mushrooms-with-garlic-and-madeira-5330.json)
+ * [Mustard Maple Ham Steaks With Cider Madeira Sauce](index/m/mustard-maple-ham-steaks-with-cider-madeira-sauce-102465.json)
+ * [Quickest Madeira Mushroom Gravy](index/q/quickest-madeira-mushroom-gravy-236538.json)
+ * [Roast Goose With Oranges And Madeira](index/r/roast-goose-with-oranges-and-madeira-966.json)
+ * [Roast Quail With Cranberry Madeira Sauce](index/r/roast-quail-with-cranberry-madeira-sauce-13375.json)
+ * [Roast Rack Of Lamb With Madeira Peppercorn Reduction](index/r/roast-rack-of-lamb-with-madeira-peppercorn-reduction-103004.json)
+ * [Roast Turkey With Sausage Fennel Stuffing And Madeira Gravy](index/r/roast-turkey-with-sausage-fennel-stuffing-and-madeira-gravy-13279.json)
+ * [Spinach And Madeira](index/s/spinach-and-madeira-101482.json)
+ * [Thyme Roasted Chicken Breast With Morel Madeira Gravy](index/t/thyme-roasted-chicken-breast-with-morel-madeira-gravy-1678.json)
+ * [Venison Tenderloin With Madeira Green Peppercorn Sauce](index/v/venison-tenderloin-with-madeira-green-peppercorn-sauce-109028.json)

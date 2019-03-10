@@ -1,0 +1,18 @@
+# shanks
+
+ * [Garlic Braised Beef Shanks](index/g/garlic-braised-beef-shanks-237586.json)
+ * [Greek Style Braised Lamb Shanks](index/g/greek-style-braised-lamb-shanks-107081.json)
+ * [Lamb Shanks Braised With Anise And Orange](index/l/lamb-shanks-braised-with-anise-and-orange-5693.json)
+ * [Lamb Shanks With Pomegranate And Walnuts](index/l/lamb-shanks-with-pomegranate-and-walnuts.json)
+ * [Lamb Shanks With Potatoes Parsnips And Kalamata Olives](index/l/lamb-shanks-with-potatoes-parsnips-and-kalamata-olives-5881.json)
+ * [Lamb Shanks With Tomatoes And Fresh Herbs](index/l/lamb-shanks-with-tomatoes-and-fresh-herbs-107646.json)
+ * [Osso Buco Of Lamb Shanks With Zucchini And Avgolemono](index/o/osso-buco-of-lamb-shanks-with-zucchini-and-avgolemono-11389.json)
+ * [Paprika Veal Shanks](index/p/paprika-veal-shanks-351301.json)
+ * [Red Wine Braised Lamb Shanks](index/r/red-wine-braised-lamb-shanks-21.json)
+ * [Slow Braised Lamb Shanks With Guajillo Pineapple Sauce Roasted Vegetables And Coconut Tamales](index/s/slow-braised-lamb-shanks-with-guajillo-pineapple-sauce-roasted-vegetables-and-coconut-tamales-231938.json)
+ * [Slow Roasted Lamb Shanks With Braised Lentils](index/s/slow-roasted-lamb-shanks-with-braised-lentils-105551.json)
+ * [Spiced Ruby Lamb Shanks](index/s/spiced-ruby-lamb-shanks-241228.json)
+ * [Tom Valentis Lamb Shanks](index/t/tom-valentis-lamb-shanks-105869.json)
+ * [Veal Shanks Artichoke Hearts And Chick Peas With Preserved Lemon](index/v/veal-shanks-artichoke-hearts-and-chick-peas-with-preserved-lemon-11392.json)
+ * [Veal Shanks With Caramelized Onions And Sage](index/v/veal-shanks-with-caramelized-onions-and-sage-102374.json)
+ * [Wine Braised Lamb Shanks With Herbes De Provence](index/w/wine-braised-lamb-shanks-with-herbes-de-provence-109263.json)

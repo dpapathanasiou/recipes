@@ -1,0 +1,16 @@
+# quail
+
+ * [Grilled Charmoula Quail](index/g/grilled-charmoula-quail-234599.json)
+ * [Grilled Quail Salad With Creamy Garlic Vinaigrette](index/g/grilled-quail-salad-with-creamy-garlic-vinaigrette-15509.json)
+ * [Grilled Quail Salad With Honey Dijon Dressing](index/g/grilled-quail-salad-with-honey-dijon-dressing-239843.json)
+ * [Grilled Quail With Wilted Cabbage Slaw](index/g/grilled-quail-with-wilted-cabbage-slaw-13430.json)
+ * [Panfried Quail And Creamed Corn With Bacon](index/p/panfried-quail-and-creamed-corn-with-bacon-15504.json)
+ * [Pickled Quail Eggs](index/p/pickled-quail-eggs-109297.json)
+ * [Roast Quail With Apples And Pecans](index/r/roast-quail-with-apples-and-pecans-231142.json)
+ * [Roast Quail With Cranberry Madeira Sauce](index/r/roast-quail-with-cranberry-madeira-sauce-13375.json)
+ * [Roasted Quail With Juniper Berries And Balsamic Vinegar](index/r/roasted-quail-with-juniper-berries-and-balsamic-vinegar-15508.json)
+ * [Roasted Quail With Red Grapes And Pearl Onions](index/r/roasted-quail-with-red-grapes-and-pearl-onions-13628.json)
+ * [Roasted Quail With Wild Mushrooms](index/r/roasted-quail-with-wild-mushrooms-51211810.json)
+ * [Sauteed Quail With Paprika Sauce And Moroccan Spiced Vegetables](index/s/sauteed-quail-with-paprika-sauce-and-moroccan-spiced-vegetables-15506.json)
+ * [Sauteed Quail With Shiitake Port Sauce](index/s/sauteed-quail-with-shiitake-port-sauce-10676.json)
+ * [Sesame Quail Eggs](index/s/sesame-quail-eggs-351909.json)

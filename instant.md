@@ -1,0 +1,16 @@
+# instant
+
+ * [Faux Tart With Instant Lemon Ginger Custard](index/f/faux-tart-with-instant-lemon-ginger-custard-51185230.json)
+ * [Instant Borscht With Confit Duck](index/i/instant-borscht-with-confit-duck-236945.json)
+ * [Instant Pot Ancho Chile Sauce](index/i/instant-pot-ancho-chile-sauce.json)
+ * [Instant Pot Breakfast Cobbler](index/i/instant-pot-breakfast-cobbler.json)
+ * [Instant Pot Carnitas](index/i/instant-pot-carnitas.json)
+ * [Instant Pot Cowboy Chili](index/i/instant-pot-cowboy-chili.json)
+ * [Instant Pot Cultured Coconut Milk Yogurt](index/i/instant-pot-cultured-coconut-milk-yogurt.json)
+ * [Instant Pot Italian Chickpea Stew With Pesto](index/i/instant-pot-italian-chickpea-stew-with-pesto.json)
+ * [Instant Pot Kidney Bean Etouffee](index/i/instant-pot-kidney-bean-etouffee.json)
+ * [Instant Pot Red Chicken Enchiladas](index/i/instant-pot-red-chicken-enchiladas.json)
+ * [Instant Pot Vegan Cauliflower Queso](index/i/instant-pot-vegan-cauliflower-queso.json)
+ * [Instant Pot Vietnamese Chicken Noodle Soup Pho Ga](index/i/instant-pot-vietnamese-chicken-noodle-soup-pho-ga.json)
+ * [Instant Veal Piccata](index/i/instant-veal-piccata-92.json)
+ * [Jill Nussinows Smoky Sweet Black Eyed Peas And Greens For The Instant Pot](index/j/jill-nussinows-smoky-sweet-black-eyed-peas-and-greens-for-the-instant-pot.json)

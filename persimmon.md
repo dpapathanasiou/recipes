@@ -1,0 +1,15 @@
+# persimmon
+
+ * [Endive Cups With Beet Persimmon And Marinated Feta](index/e/endive-cups-with-beet-persimmon-and-marinated-feta-51259680.json)
+ * [Hachiya Persimmon Puree](index/h/hachiya-persimmon-puree-108929.json)
+ * [Lemon Glazed Persimmon Bars](index/l/lemon-glazed-persimmon-bars-231206.json)
+ * [Persimmon Cake With Cream Cheese Icing](index/p/persimmon-cake-with-cream-cheese-icing-358789.json)
+ * [Persimmon Cranberry Sauce](index/p/persimmon-cranberry-sauce-233000.json)
+ * [Persimmon Fool](index/p/persimmon-fool-108910.json)
+ * [Persimmon Salad With Sweet Ginger Vinaigrette](index/p/persimmon-salad-with-sweet-ginger-vinaigrette-103549.json)
+ * [Persimmon Salsa](index/p/persimmon-salsa-231115.json)
+ * [Persimmon Sorbet](index/p/persimmon-sorbet-102954.json)
+ * [Persimmon Sundaes](index/p/persimmon-sundaes-231125.json)
+ * [Persimmon Wedges With Toasted Hazelnuts](index/p/persimmon-wedges-with-toasted-hazelnuts-236537.json)
+ * [Prosciutto With Persimmon Pomegranate And Arugula](index/p/prosciutto-with-persimmon-pomegranate-and-arugula-236768.json)
+ * [Spiced Persimmon Chutney](index/s/spiced-persimmon-chutney-100344.json)

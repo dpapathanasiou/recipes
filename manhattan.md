@@ -1,0 +1,16 @@
+# manhattan
+
+ * [Dry Manhattan](index/d/dry-manhattan-200220.json)
+ * [Dry Manhattan](index/d/dry-manhattan-238163.json)
+ * [Manhattan](index/m/manhattan-232198.json)
+ * [Manhattan](index/m/manhattan-238166.json)
+ * [Manhattan](index/m/manhattan-350780.json)
+ * [Manhattan](index/m/manhattan-56390125.json)
+ * [Manhattan I](index/m/manhattan-i-200033.json)
+ * [Manhattan Ii](index/m/manhattan-ii-200638.json)
+ * [Manhattan Seafood Chowder](index/m/manhattan-seafood-chowder-100584.json)
+ * [Manhattan Style Seafood Stew](index/m/manhattan-style-seafood-stew-1130.json)
+ * [Perfect Manhattan](index/p/perfect-manhattan-238165.json)
+ * [Pomegranate Manhattan](index/p/pomegranate-manhattan-232184.json)
+ * [Spanish Manhattan](index/s/spanish-manhattan-200221.json)
+ * [The Manhattan](index/t/the-manhattan-355290.json)

@@ -1,0 +1,16 @@
+# yam
+
+ * [Garnet Yam Puree](index/g/garnet-yam-puree-355782.json)
+ * [Mashed Yam And Plantain](index/m/mashed-yam-and-plantain.json)
+ * [Parsnip Yam And Watercress Chowder](index/p/parsnip-yam-and-watercress-chowder-240675.json)
+ * [Potato And Yam Soup With Bacon And Spinach](index/p/potato-and-yam-soup-with-bacon-and-spinach-363951.json)
+ * [Roasted Yam Puree With Brown Butter](index/r/roasted-yam-puree-with-brown-butter-231106.json)
+ * [Spiced And Sour Mushroom Soup Em Tom Yam Hed Em](index/s/spiced-and-sour-mushroom-soup-em-tom-yam-hed-em-355270.json)
+ * [Spiced Yam Pudding](index/s/spiced-yam-pudding-5731.json)
+ * [Spicy Beef Yam And Prune Stew](index/s/spicy-beef-yam-and-prune-stew-3047.json)
+ * [Sweet Potato And Yam Galette](index/s/sweet-potato-and-yam-galette-4406.json)
+ * [Yam And Black Bean Burritos With Amaranth](index/y/yam-and-black-bean-burritos-with-amaranth-51195810.json)
+ * [Yam And Russet Potato Salad With Greens And Bacon](index/y/yam-and-russet-potato-salad-with-greens-and-bacon-2269.json)
+ * [Yam Latkes With Mustard Seeds And Curry](index/y/yam-latkes-with-mustard-seeds-and-curry-974.json)
+ * [Yam Neua](index/y/yam-neua-14421.json)
+ * [Yam Soup With Coriander](index/y/yam-soup-with-coriander-3167.json)
