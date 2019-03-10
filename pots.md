@@ -5,3 +5,5 @@
  * [Chocolate Pots De Creme Recipe](index/c/chocolate-pots-de-creme-recipe.json)
  * [Pots De Creme A Lorange Recipe](index/p/pots-de-creme-a-lorange-recipe.json)
  * [Pots De Creme](index/p/pots-de-creme.json)
+ * [Apricot Jam Pots](index/a/apricot-jam-pots.json)
+ * [Mango Coconut And Chia Seed Pots](index/m/mango-coconut-and-chia-seed-pots.json)

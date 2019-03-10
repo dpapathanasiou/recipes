@@ -15,3 +15,4 @@
  * [Spinach And Madeira](index/s/spinach-and-madeira-101482.json)
  * [Thyme Roasted Chicken Breast With Morel Madeira Gravy](index/t/thyme-roasted-chicken-breast-with-morel-madeira-gravy-1678.json)
  * [Venison Tenderloin With Madeira Green Peppercorn Sauce](index/v/venison-tenderloin-with-madeira-green-peppercorn-sauce-109028.json)
+ * [Madeira Fingers](index/m/madeira-fingers.json)

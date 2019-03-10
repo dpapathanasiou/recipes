@@ -14,3 +14,6 @@
  * [Spaghetti With Olive Oil Garlic And Anchovies](index/s/spaghetti-with-olive-oil-garlic-and-anchovies-1414.json)
  * [Toasted Baguette With Tomatoes And Anchovies](index/t/toasted-baguette-with-tomatoes-and-anchovies-107134.json)
  * [White Beans With Anchovies](index/w/white-beans-with-anchovies-104091.json)
+ * [Anchovies Rosemary Pork Chops](index/a/anchovies-rosemary-pork-chops.json)
+ * [Eggplant Red Gravy With Anchovies](index/e/eggplant-red-gravy-with-anchovies.json)
+ * [Green Beans With Anchovies](index/g/green-beans-with-anchovies.json)

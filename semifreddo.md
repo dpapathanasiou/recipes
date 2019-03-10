@@ -15,3 +15,6 @@
  * [Sweet And Sour Strawberry Semifreddo With Black Sesame](index/s/sweet-and-sour-strawberry-semifreddo-with-black-sesame-56389534.json)
  * [White Chocolate Toasted Almond Semifreddo](index/w/white-chocolate-toasted-almond-semifreddo-14412.json)
  * [Wildflower Honey Semifreddo With Honey Sesame Wafers](index/w/wildflower-honey-semifreddo-with-honey-sesame-wafers-232643.json)
+ * [My Nutty Semifreddo](index/m/my-nutty-semifreddo.json)
+ * [Raspberry And Pistachio Semifreddo](index/r/raspberry-and-pistachio-semifreddo.json)
+ * [Strawberry Semifreddo](index/s/strawberry-semifreddo.json)

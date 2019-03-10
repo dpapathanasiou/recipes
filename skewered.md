@@ -8,3 +8,6 @@
  * [Skewered Rosemary Shrimp With Mint Pesto](index/s/skewered-rosemary-shrimp-with-mint-pesto-109244.json)
  * [Skewered Scallops With Orange Sesame Dipping Sauce](index/s/skewered-scallops-with-orange-sesame-dipping-sauce-106101.json)
  * [Skewered Strawberry Marshmallow Smores](index/s/skewered-strawberry-marshmallow-smores-395349.json)
+ * [Skewered Cantaloupe](index/s/skewered-cantaloupe.json)
+ * [Skewered Grilled Potatoes](index/s/skewered-grilled-potatoes.json)
+ * [Skewered Steak And Vegetable Salad](index/s/skewered-steak-and-vegetable-salad.json)

@@ -10,3 +10,6 @@
  * [Salmon In Saffron Mussel Sauce](index/s/salmon-in-saffron-mussel-sauce-106308.json)
  * [Squid And Mussel Salad](index/s/squid-and-mussel-salad-105715.json)
  * [Warm Mussel And Marinated Vegetable Salad](index/w/warm-mussel-and-marinated-vegetable-salad-15208.json)
+ * [Artichoke And Mussel Bisque](index/a/artichoke-and-mussel-bisque.json)
+ * [Mussel And Potato Stew](index/m/mussel-and-potato-stew.json)
+ * [Saffron Mussel Bisque](index/s/saffron-mussel-bisque.json)

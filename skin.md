@@ -4,3 +4,7 @@
  * [Frisee With Crisped Salmon Skin And Warm Sherry Vinaigrette](index/f/frisee-with-crisped-salmon-skin-and-warm-sherry-vinaigrette-358320.json)
  * [Shredded Kale Salad With Turkey Skin Cracklings](index/s/shredded-kale-salad-with-turkey-skin-cracklings-369376.json)
  * [Spit Roasted Chicken With Herbs Under The Skin Garden Vegetables Toasted Country Bread And Roasti](index/s/spit-roasted-chicken-with-herbs-under-the-skin-garden-vegetables-toasted-country-bread-and-roasti-105878.json)
+ * [Crispy Skin Salmon On Potato Mushroom](index/c/crispy-skin-salmon-on-potato-mushroom.json)
+ * [Onion Skin Colored Eggs](index/o/onion-skin-colored-eggs.json)
+ * [Ranch Red Skin Potato Salad](index/r/ranch-red-skin-potato-salad.json)
+ * [Skin On Savory Mashed Potatoes](index/s/skin-on-savory-mashed-potatoes.json)

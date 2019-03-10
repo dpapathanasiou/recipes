@@ -11,3 +11,4 @@
  * [Seared Savoy Cabbage With Mixed Sausages](index/s/seared-savoy-cabbage-with-mixed-sausages-51122440.json)
  * [Spicy Savoy Slaw](index/s/spicy-savoy-slaw-106908.json)
  * [Steamed Savoy Cabbage And Mustard Greens With Bacon](index/s/steamed-savoy-cabbage-and-mustard-greens-with-bacon-15700.json)
+ * [Chicken Savoy](index/c/chicken-savoy.json)

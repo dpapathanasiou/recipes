@@ -11,3 +11,8 @@
  * [Beef Tartare](index/b/beef-tartare.json)
  * [Steak Tartare](index/s/steak-tartare.json)
  * [Tuna Tartare Recipe](index/t/tuna-tartare-recipe.json)
+ * [Coconut Cashew Tuna Tartare](index/c/coconut-cashew-tuna-tartare.json)
+ * [Original Steak Tartare](index/o/original-steak-tartare.json)
+ * [Salmon Tartare Spread](index/s/salmon-tartare-spread.json)
+ * [Tuna Tartare](index/t/tuna-tartare.json)
+ * [Wasabi Ahi Tuna Tartare](index/w/wasabi-ahi-tuna-tartare.json)

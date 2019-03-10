@@ -11,3 +11,6 @@
  * [Raspberry Fool](index/r/raspberry-fool-5914.json)
  * [Raspberry Fool](index/r/raspberry-fool.json)
  * [Strawberry Fool](index/s/strawberry-fool.json)
+ * [Chef Johns Fresh Berry Fool](index/c/chef-johns-fresh-berry-fool.json)
+ * [Rhubarb Fool](index/r/rhubarb-fool.json)
+ * [Sure To Fool Em Vegan Stuffed Shells](index/s/sure-to-fool-em-vegan-stuffed-shells.json)

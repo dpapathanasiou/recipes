@@ -5,3 +5,5 @@
  * [Pear And Caramel Trifles](index/p/pear-and-caramel-trifles-4661.json)
  * [Quick Cranberry Trifles](index/q/quick-cranberry-trifles-233026.json)
  * [Roasted Strawberry Trifles With Lemon Cream](index/r/roasted-strawberry-trifles-with-lemon-cream.json)
+ * [Fruit Pizza Trifles To Go](index/f/fruit-pizza-trifles-to-go.json)
+ * [Mini Berry Trifles In A Jar](index/m/mini-berry-trifles-in-a-jar.json)

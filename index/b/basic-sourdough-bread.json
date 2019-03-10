@@ -1,0 +1,21 @@
+{
+    "directions": [
+        "Allow starter to come to room temperature.",
+        "Place all ingredients in the bread machine in the order suggested by the manufacturer.",
+        "Select Basic or White Bread cycle, and Medium crust setting.  Start."
+    ],
+    "ingredients": [
+        "1 1/4 cups sourdough starter",
+        "1/3 cup water",
+        "3 cups all-purpose flour",
+        "1 tablespoon white sugar",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon salt",
+        "2 teaspoons bread machine yeast"
+    ],
+    "language": "en-US",
+    "source": "allrecipes.com",
+    "tags": [],
+    "title": "Basic Sourdough Bread",
+    "url": "http://allrecipes.com/recipe/7134/basic-sourdough-bread/"
+}

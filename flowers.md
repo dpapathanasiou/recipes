@@ -6,3 +6,6 @@
  * [Pear And Raspberry Phyllo Flowers](index/p/pear-and-raspberry-phyllo-flowers-103859.json)
  * [Radish Flowers](index/r/radish-flowers-231168.json)
  * [Spring Greens And Flowers Salad](index/s/spring-greens-and-flowers-salad.json)
+ * [Candied Flowers](index/c/candied-flowers.json)
+ * [Fried Zucchini Flowers](index/f/fried-zucchini-flowers.json)
+ * [Sausage Flowers](index/s/sausage-flowers.json)

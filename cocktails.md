@@ -8,3 +8,4 @@
  * [Pineapple Rum Cocktails](index/p/pineapple-rum-cocktails-239992.json)
  * [Sazerac Cocktails](index/s/sazerac-cocktails-236771.json)
  * [Lychee Lillet Cocktails Recipe](index/l/lychee-lillet-cocktails-recipe.json)
+ * [Ice For Cocktails](index/i/ice-for-cocktails.json)

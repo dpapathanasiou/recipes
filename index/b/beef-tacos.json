@@ -1,36 +1,21 @@
 {
     "directions": [
-        "Preheat the oven to 325 degrees F.",
-        "For the beef: In a skillet over medium-high heat, add the olive oil and onions. Cook until starting to soften, then add the ground beef. Cook the meat until it's totally browned, then drain the fat. Add the chili powder, cumin, paprika, salt, black pepper and crushed red pepper and stir to combine. Add 1/2 cup hot water and stir. Reduce the heat to low and simmer for 15 minutes.",
-        "For the fixins: Meanwhile, wrap the flour tortillas in foil and warm in the oven for 20 to 25 minutes. Right before serving, crisp the taco shells in the oven according to package instructions.",
-        "Serve with the grated cheese, diced tomatoes and shredded lettuce."
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "Warm taco shells for 5 minutes on the center rack in the preheated oven.",
+        "In a medium skillet over medium high heat, brown the beef. Halfway through browning, pour in ketchup. Stir well and let simmer for 5 minutes.",
+        "Spoon the meat mixture into the warm taco shells and top with Cheddar cheese. Return the filled taco shells to the preheated oven and bake until cheese is melted. Top each taco with a little tomato and lettuce."
     ],
     "ingredients": [
-        "1 tablespoon olive oil",
-        "1/2 yellow onion, diced",
-        "2 pounds ground beef",
-        "1/2 teaspoon chili powder",
-        "1/2 teaspoon cumin",
-        "1/2 teaspoon paprika",
-        "1/2 teaspoon salt",
-        "1/2 teaspoon ground black pepper",
-        "1/4 teaspoon crushed red pepper",
-        "20 fajita-sized flour tortillas",
-        "18 hard taco shells",
-        "1 pound Cheddar-Jack cheese, grated",
-        "15 Roma tomatoes, diced",
-        "1 head green leaf lettuce, shredded"
+        "18 medium taco shells",
+        "2 pounds lean ground beef",
+        "1 (14 ounce) bottle ketchup",
+        "1 (8 ounce) package shredded Cheddar cheese",
+        "1 large tomato, diced",
+        "1 cup iceberg lettuce, shredded"
     ],
     "language": "en-US",
-    "source": "www.foodnetwork.com",
-    "tags": [
-        "Taco Recipes",
-        "Cheese",
-        "Meat",
-        "Tomato",
-        "Vegetable",
-        "Main Dish Recipes"
-    ],
+    "source": "allrecipes.com",
+    "tags": [],
     "title": "Beef Tacos",
-    "url": "http://www.foodnetwork.com/recipes/ree-drummond/beef-tacos"
+    "url": "http://allrecipes.com/recipe/22849/beef-tacos/"
 }

@@ -1,0 +1,17 @@
+# biryani
+
+ * [Authentic South Indian Biryani](index/a/authentic-south-indian-biryani.json)
+ * [Biryani With Yogurt Marinated Chicken](index/b/biryani-with-yogurt-marinated-chicken.json)
+ * [Chicken Biryani Hyderabadi Style](index/c/chicken-biryani-hyderabadi-style.json)
+ * [Chicken Biryani](index/c/chicken-biryani.json)
+ * [Classic Chicken Biryani](index/c/classic-chicken-biryani.json)
+ * [Fried Chicken Biryani Filipino Style](index/f/fried-chicken-biryani-filipino-style.json)
+ * [Hyderabad Dum Biryani](index/h/hyderabad-dum-biryani.json)
+ * [Lamb Gosht Biryani](index/l/lamb-gosht-biryani.json)
+ * [Prawn Biryani](index/p/prawn-biryani.json)
+ * [Quinoa Biryani](index/q/quinoa-biryani.json)
+ * [Shyams Goat Biryani](index/s/shyams-goat-biryani.json)
+ * [Slow Cooked Chicken Biryani](index/s/slow-cooked-chicken-biryani.json)
+ * [Veg Biryani](index/v/veg-biryani.json)
+ * [Vegetable Biryani Tehri](index/v/vegetable-biryani-tehri.json)
+ * [Vegetable Biryani](index/v/vegetable-biryani.json)

@@ -7,3 +7,5 @@
  * [Lychee Lillet Cocktails Recipe](index/l/lychee-lillet-cocktails-recipe.json)
  * [Lychee Martini Recipe](index/l/lychee-martini-recipe.json)
  * [Lychee Mint Spritzers Recipe](index/l/lychee-mint-spritzers-recipe.json)
+ * [Almond Jell O With Lychee](index/a/almond-jell-o-with-lychee.json)
+ * [Lychee Martini](index/l/lychee-martini.json)

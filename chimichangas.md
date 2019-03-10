@@ -1,0 +1,15 @@
+# chimichangas
+
+ * [Apple Cinnamon Chimichangas](index/a/apple-cinnamon-chimichangas.json)
+ * [Baked Chicken And Rice Chimichangas](index/b/baked-chicken-and-rice-chimichangas.json)
+ * [Bananas Foster Chimichangas](index/b/bananas-foster-chimichangas.json)
+ * [Beef And Bean Chimichangas](index/b/beef-and-bean-chimichangas.json)
+ * [Beef Chimichangas](index/b/beef-chimichangas.json)
+ * [Chicken And Mushroom Chimichangas](index/c/chicken-and-mushroom-chimichangas.json)
+ * [Chicken Chimichangas With Green Sauce](index/c/chicken-chimichangas-with-green-sauce.json)
+ * [Chicken Chimichangas With Sour Cream](index/c/chicken-chimichangas-with-sour-cream.json)
+ * [Chicken Chimichangas](index/c/chicken-chimichangas.json)
+ * [Chocolate Chimichangas To Die For](index/c/chocolate-chimichangas-to-die-for.json)
+ * [Shredded Beef Chimichangas](index/s/shredded-beef-chimichangas.json)
+ * [Sweet Banana Chimichangas](index/s/sweet-banana-chimichangas.json)
+ * [Sweet Potato Chimichangas](index/s/sweet-potato-chimichangas.json)

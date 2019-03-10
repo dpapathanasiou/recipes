@@ -1,24 +1,26 @@
 {
     "directions": [
-        "Preheat the oven to 350 degrees F.",
-        "Slice the cookie dough into 1-inch-thick slices, then into quarters. Place one quarter into each cup of a mini muffin pan. Bake for 9 to 11 minutes.",
-        "While the dough is still warm, push a peanut butter cup into each muffin cup and let cool in the pan. When the cookies are cool, use a spoon to remove them."
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a large bowl, cream together the butter, peanut butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Combine the flour, cocoa, and baking soda; stir into the peanut butter mixture. Mix in the chocolate chips, peanut butter chips, and peanut butter cups. Drop by tablespoonfuls onto ungreased cookie sheets.",
+        "Bake for 8 to 10 minutes in the preheated oven. Let cool for 1 or 2 minutes on sheet before removing, or they will fall apart."
     ],
     "ingredients": [
-        "One 16.5-ounce package refrigerated peanut butter cookie dough",
-        "1 bag of 24 miniature chocolate-peanut butter cups"
+        "1 cup butter, softened",
+        "3/4 cup creamy peanut butter",
+        "3/4 cup white sugar",
+        "3/4 cup packed brown sugar",
+        "2 eggs",
+        "1 teaspoon vanilla extract",
+        "2 1/3 cups all-purpose flour",
+        "1/3 cup cocoa powder",
+        "1 teaspoon baking soda",
+        "1 cup semisweet chocolate chips",
+        "1 cup peanut butter chips",
+        "10 chocolate covered peanut butter cups, cut into eighths"
     ],
     "language": "en-US",
-    "source": "www.foodnetwork.com",
-    "tags": [
-        "Chocolate Cookie Recipes",
-        "Chocolate",
-        "Cookie",
-        "Peanut Butter Cookie Recipes",
-        "Peanut Butter Fudge",
-        "Baking",
-        "Dessert"
-    ],
+    "source": "allrecipes.com",
+    "tags": [],
     "title": "Chocolate Peanut Butter Cup Cookies",
-    "url": "http://www.foodnetwork.com/recipes/ree-drummond/chocolate-peanut-butter-cup-cookies"
+    "url": "http://allrecipes.com/recipe/9986/chocolate-peanut-butter-cup-cookies/"
 }

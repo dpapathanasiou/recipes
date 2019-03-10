@@ -10,3 +10,6 @@
  * [Hot Whiskey Toddy Ii](index/h/hot-whiskey-toddy-ii-200943.json)
  * [Raspberry And Thyme Hot Toddy Punch](index/r/raspberry-and-thyme-hot-toddy-punch.json)
  * [Toddy Bowl](index/t/toddy-bowl-200940.json)
+ * [Hot Toddy Cocktail](index/h/hot-toddy-cocktail.json)
+ * [Hot Toddy](index/h/hot-toddy.json)
+ * [Kombucha Hot Buttered Toddy](index/k/kombucha-hot-buttered-toddy.json)

@@ -11,3 +11,5 @@
  * [Salade Nicoise Sandwich](index/s/salade-nicoise-sandwich-102311.json)
  * [Salade Nicoise Sandwiches](index/s/salade-nicoise-sandwiches-2081.json)
  * [Warm Frisee Lardon Salade With Poached Eggs In Red Wine Sauce](index/w/warm-frisee-lardon-salade-with-poached-eggs-in-red-wine-sauce-241765.json)
+ * [Dutch Potato Salad Huzaren Salade](index/d/dutch-potato-salad-huzaren-salade.json)
+ * [My Sisters Favorite Potato Salade](index/m/my-sisters-favorite-potato-salade.json)

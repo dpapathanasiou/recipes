@@ -11,3 +11,7 @@
  * [Tarte Tatin](index/t/tarte-tatin-237188.json)
  * [Tea Flavored Tarte Tatin Em Tarte Tatin Au The Em](index/t/tea-flavored-tarte-tatin-em-tarte-tatin-au-the-em-355925.json)
  * [Tea Flavored Tarte Tatin Em Tarte Tatin Au The Em](index/t/tea-flavored-tarte-tatin-em-tarte-tatin-au-the-em-355925.json)
+ * [Apple Tarte Tatin](index/a/apple-tarte-tatin.json)
+ * [Maple Pear Tarte Tatin](index/m/maple-pear-tarte-tatin.json)
+ * [Plantain Tarte Tatin](index/p/plantain-tarte-tatin.json)
+ * [Tarte Tatin](index/t/tarte-tatin.json)

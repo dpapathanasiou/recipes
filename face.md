@@ -13,3 +13,8 @@
  * [Open Face Roquefort Burgers With Grilled Onions](index/o/open-face-roquefort-burgers-with-grilled-onions-108571.json)
  * [Open Face Turkey Burgers With Gruyere Mushrooms And Arugula Salad](index/o/open-face-turkey-burgers-with-gruyere-mushrooms-and-arugula-salad-236866.json)
  * [Tomato Feta Open Face Sandwich](index/t/tomato-feta-open-face-sandwich-51108060.json)
+ * [Broiled Spam And Cheese Open Face](index/b/broiled-spam-and-cheese-open-face.json)
+ * [Open Face Mozzarella Sandwich](index/o/open-face-mozzarella-sandwich.json)
+ * [Open Face Smores](index/o/open-face-smores.json)
+ * [Open Face Swiss Burger](index/o/open-face-swiss-burger.json)
+ * [Open Face Toasted Caprese](index/o/open-face-toasted-caprese.json)

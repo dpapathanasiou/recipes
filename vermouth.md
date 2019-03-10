@@ -6,3 +6,6 @@
  * [Seafood Cataplana With Saffron Vermouth And Sorrel](index/s/seafood-cataplana-with-saffron-vermouth-and-sorrel-15625.json)
  * [Tarragon Roast Turkey With Vermouth](index/t/tarragon-roast-turkey-with-vermouth-105800.json)
  * [Veal Scallops With Capers Vermouth And Dill](index/v/veal-scallops-with-capers-vermouth-and-dill-1760.json)
+ * [Chicken Vermouth](index/c/chicken-vermouth.json)
+ * [Tarragon Beef Stew With Vermouth](index/t/tarragon-beef-stew-with-vermouth.json)
+ * [Vermouth Tarragon Chicken](index/v/vermouth-tarragon-chicken.json)

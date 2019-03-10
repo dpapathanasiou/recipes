@@ -8,3 +8,6 @@
  * [Peaches With Lemon Verbena Cream](index/p/peaches-with-lemon-verbena-cream-51170250.json)
  * [Raspberry Apricot Compote With Champagne And Lemon Verbena](index/r/raspberry-apricot-compote-with-champagne-and-lemon-verbena-238531.json)
  * [Verbena Brined Pork Chops](index/v/verbena-brined-pork-chops-108674.json)
+ * [Lemon Verbena Blueberry Muffins](index/l/lemon-verbena-blueberry-muffins.json)
+ * [Lemon Verbena Mint Detox Tea](index/l/lemon-verbena-mint-detox-tea.json)
+ * [Lemon Verbena Simple Syrup](index/l/lemon-verbena-simple-syrup.json)

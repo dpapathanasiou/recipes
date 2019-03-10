@@ -6,3 +6,6 @@
  * [Trio Of Marinated Goat Cheeses](index/t/trio-of-marinated-goat-cheeses-2889.json)
  * [Trio Of Salads](index/t/trio-of-salads-1860.json)
  * [Trio Of Sorbets With Raspberry Coulis](index/t/trio-of-sorbets-with-raspberry-coulis-1637.json)
+ * [Melon Trio With Sherry And Mint](index/m/melon-trio-with-sherry-and-mint.json)
+ * [Trio Of Mashed Roots Parsnip Turnip](index/t/trio-of-mashed-roots-parsnip-turnip.json)
+ * [Trio Of Mushroom Soup Cream Of Mushr](index/t/trio-of-mushroom-soup-cream-of-mushr.json)

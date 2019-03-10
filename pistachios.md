@@ -31,3 +31,7 @@
  * [Strawberry Orange Ricotta Cake With Pistachios](index/s/strawberry-orange-ricotta-cake-with-pistachios-107948.json)
  * [Summer Salad With Apricots Pistachios And Almond Soft Fried Eggs](index/s/summer-salad-with-apricots-pistachios-and-almond-soft-fried-eggs-238787.json)
  * [Toasted Cecchi Almonds And Pistachios Recipe](index/t/toasted-cecchi-almonds-and-pistachios-recipe.json)
+ * [Green Apple Sorbet With Pistachios](index/g/green-apple-sorbet-with-pistachios.json)
+ * [Orange Wild Rice With Pistachios And](index/o/orange-wild-rice-with-pistachios-and.json)
+ * [Peaches And Pistachios Yogurt Cup](index/p/peaches-and-pistachios-yogurt-cup.json)
+ * [Tangy Chicken With Pistachios And Fru](index/t/tangy-chicken-with-pistachios-and-fru.json)

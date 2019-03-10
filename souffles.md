@@ -33,3 +33,5 @@
  * [Warm Chocolate Souffles With Pistachio Ice Cream](index/w/warm-chocolate-souffles-with-pistachio-ice-cream-5901.json)
  * [Warm Lemon Souffles](index/w/warm-lemon-souffles-105085.json)
  * [Warm Milk Chocolate Souffles With Vanilla Ice Cream](index/w/warm-milk-chocolate-souffles-with-vanilla-ice-cream-107329.json)
+ * [Apple And Cheddar Cheese Souffles](index/a/apple-and-cheddar-cheese-souffles.json)
+ * [Chocolate Liqueur Souffles](index/c/chocolate-liqueur-souffles.json)

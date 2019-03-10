@@ -1,3 +1,15 @@
 # navy
 
  * [Navy Bean Escarole Stew With Feta And Olives](index/n/navy-bean-escarole-stew-with-feta-and-olives.json)
+ * [Easy Pleasy Mac N Cheesy   Us Navy S](index/e/easy-pleasy-mac-n-cheesy---us-navy-s.json)
+ * [Lima And Navy Bean And Ham Soup](index/l/lima-and-navy-bean-and-ham-soup.json)
+ * [My Navy Bean Soup](index/m/my-navy-bean-soup.json)
+ * [Navy Bean Pie](index/n/navy-bean-pie.json)
+ * [Navy Bean Soup I](index/n/navy-bean-soup-i.json)
+ * [Navy Bean Soup Ii](index/n/navy-bean-soup-ii.json)
+ * [Navy Bean Soup With Ham](index/n/navy-bean-soup-with-ham.json)
+ * [Navy Bean Soup With Sirloin Tips](index/n/navy-bean-soup-with-sirloin-tips.json)
+ * [Navy Beans And Greens With Bacon And](index/n/navy-beans-and-greens-with-bacon-and.json)
+ * [Roasted Turkey Navy Style](index/r/roasted-turkey-navy-style.json)
+ * [Sauteed Navy Beans And Artichokes](index/s/sauteed-navy-beans-and-artichokes.json)
+ * [Us Navy Minced Beef On Toast](index/u/us-navy-minced-beef-on-toast.json)

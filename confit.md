@@ -31,3 +31,5 @@
  * [White Bean Soup With Duck Confit](index/w/white-bean-soup-with-duck-confit-243546.json)
  * [Wild Mushroom Pizza With Garlic Confit And Bacon](index/w/wild-mushroom-pizza-with-garlic-confit-and-bacon-103101.json)
  * [Onion Confit Pizza Pissaladiere](index/o/onion-confit-pizza-pissaladiere.json)
+ * [Autumn Duck Confit Salad](index/a/autumn-duck-confit-salad.json)
+ * [Duck Confit](index/d/duck-confit.json)

@@ -1,0 +1,18 @@
+# egyptian
+
+ * [Balah El Sham Egyptian Choux Pastry](index/b/balah-el-sham-egyptian-choux-pastry.json)
+ * [Egyptian Bamia](index/e/egyptian-bamia.json)
+ * [Egyptian Feta Cheese Omelet Roll](index/e/egyptian-feta-cheese-omelet-roll.json)
+ * [Egyptian Green Beans With Carrots](index/e/egyptian-green-beans-with-carrots.json)
+ * [Egyptian Koshari](index/e/egyptian-koshari.json)
+ * [Egyptian Koshary](index/e/egyptian-koshary.json)
+ * [Egyptian Lahma Bil Basal Beef In Ric](index/e/egyptian-lahma-bil-basal-beef-in-ric.json)
+ * [Egyptian Lentil Soup](index/e/egyptian-lentil-soup.json)
+ * [Egyptian Meatballs](index/e/egyptian-meatballs.json)
+ * [Egyptian Wheat Porridge Belila](index/e/egyptian-wheat-porridge-belila.json)
+ * [Fried Cauliflower Egyptian Style](index/f/fried-cauliflower-egyptian-style.json)
+ * [Fried Katayef Egyptian Dessert](index/f/fried-katayef-egyptian-dessert.json)
+ * [Quick And Easy Egyptian Chicken Broth](index/q/quick-and-easy-egyptian-chicken-broth.json)
+ * [Saboob Egyptian Flatbread](index/s/saboob-egyptian-flatbread.json)
+ * [Taameya Egyptian Falafel](index/t/taameya-egyptian-falafel.json)
+ * [The Perfect Egyptian Rice With Vermic](index/t/the-perfect-egyptian-rice-with-vermic.json)

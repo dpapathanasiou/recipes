@@ -7,3 +7,5 @@
  * [Tagliatelle With Spotted Sardines Eggplant And House Baked Ricotta Salata](index/t/tagliatelle-with-spotted-sardines-eggplant-and-house-baked-ricotta-salata-232419.json)
  * [Tomato Salad With Cucumbers Arugula And Sardines](index/t/tomato-salad-with-cucumbers-arugula-and-sardines-106465.json)
  * [Whole Sardines With Fresh Herbs And Creme Fraiche](index/w/whole-sardines-with-fresh-herbs-and-creme-fraiche-360169.json)
+ * [Island Style Sardines And Rice](index/i/island-style-sardines-and-rice.json)
+ * [Pasta Con Sarde Pasta With Sardines](index/p/pasta-con-sarde-pasta-with-sardines.json)

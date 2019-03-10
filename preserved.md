@@ -19,3 +19,6 @@
  * [Spicy Potato Tagine With Preserved Lemon And Olives](index/s/spicy-potato-tagine-with-preserved-lemon-and-olives-231569.json)
  * [Strozzapreti With Spinach And Preserved Lemon](index/s/strozzapreti-with-spinach-and-preserved-lemon-51187290.json)
  * [Veal Shanks Artichoke Hearts And Chick Peas With Preserved Lemon](index/v/veal-shanks-artichoke-hearts-and-chick-peas-with-preserved-lemon-11392.json)
+ * [Lamb Chops With Preserved Lemon Moro](index/l/lamb-chops-with-preserved-lemon-moro.json)
+ * [Potato Salad With Quick Preserved Lem](index/p/potato-salad-with-quick-preserved-lem.json)
+ * [Preserved Lemons](index/p/preserved-lemons.json)

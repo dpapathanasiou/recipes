@@ -8,3 +8,4 @@
  * [Zucchini Carpaccio](index/z/zucchini-carpaccio-107802.json)
  * [Zucchini Carpaccio With Homemade Ricotta Cheese](index/z/zucchini-carpaccio-with-homemade-ricotta-cheese-358198.json)
  * [Beef Carpaccio](index/b/beef-carpaccio.json)
+ * [Santa Fe Tuna Carpaccio](index/s/santa-fe-tuna-carpaccio.json)

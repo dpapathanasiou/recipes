@@ -9,3 +9,7 @@
  * [Truffled Mushroom Pizza](index/t/truffled-mushroom-pizza.json)
  * [Truffled Egg Salad Tea Sandwiches](index/t/truffled-egg-salad-tea-sandwiches.json)
  * [Truffled Fillet Of Beef Sandwiches Recipe](index/t/truffled-fillet-of-beef-sandwiches-recipe.json)
+ * [Chef Johns Truffled Potato Gratin](index/c/chef-johns-truffled-potato-gratin.json)
+ * [Four Cheese Truffled Macaroni And Che](index/f/four-cheese-truffled-macaroni-and-che.json)
+ * [Truffled Cauliflower Gratin](index/t/truffled-cauliflower-gratin.json)
+ * [Truffled Mashed Sweet Potatoes](index/t/truffled-mashed-sweet-potatoes.json)

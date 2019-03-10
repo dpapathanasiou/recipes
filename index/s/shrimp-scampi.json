@@ -1,32 +1,23 @@
 {
     "directions": [
-        "Boil water for the pasta and have it ready.",
-        "Melt the butter and heat the olive oil in a large skillet over medium heat. Add the garlic and onions and cook until the onions are translucent, 2 to 3 minutes. Add the shrimp, then stir and cook for a couple of minutes. Squeeze in the lemon juice. Add the wine, hot sauce, salt and pepper. Stir and reduce the heat to low.",
-        "Throw the angel hair pasta into the boiling water. Cook until just al dente. Drain, reserving a cup or 2 of the pasta water.",
-        "Remove the skillet from the heat. Add the pasta and toss, adding a splash of pasta water if it needs to be thinned. Taste for seasoning, adding salt and pepper if needed. Top with the grated Parmesan and minced parsley and serve immediately."
+        "Bring a large pot of salted water to a boil. Stir in pasta and return pot to boil. Cook until al dente. Drain well.",
+        "Melt butter in a large saucepan over medium heat. Stir in garlic and shrimp. Cook, stirring constantly, for 3 to 5 minutes.",
+        "Stir in wine and pepper. Bring to a boil and cook for 30 seconds while stirring constantly.",
+        "Mix shrimp with drained pasta in a serving bowl. Sprinkle with cheese and parsley. Serve immediately."
     ],
     "ingredients": [
-        "2 tablespoons butter",
-        "2 tablespoons olive oil",
-        "4 cloves garlic, minced or pressed",
-        "1/2 medium onion, finely diced",
-        "1 pound peeled and deveined large shrimp (16/20 count)",
-        "2 lemons, halved",
-        "1/2 cup white wine",
-        "4 dashes hot sauce (I used tabasco), or more to taste",
-        "Salt and freshly ground black pepper",
-        "8 ounces angel hair pasta",
-        "1/2 cup grated Parmesan",
-        "Minced fresh parsley, for topping"
+        "1 (8 ounce) package angel hair pasta",
+        "1/2 cup butter",
+        "4 cloves minced garlic",
+        "1 pound shrimp, peeled and deveined",
+        "1 cup dry white wine",
+        "1/4 teaspoon ground black pepper",
+        "3/4 cup grated Parmesan cheese",
+        "1 tablespoon chopped fresh parsley"
     ],
     "language": "en-US",
-    "source": "www.foodnetwork.com",
-    "tags": [
-        "Pasta Recipes",
-        "Shellfish Recipes",
-        "Shrimp",
-        "Main Dish Recipes"
-    ],
+    "source": "allrecipes.com",
+    "tags": [],
     "title": "Shrimp Scampi",
-    "url": "http://www.foodnetwork.com/recipes/ree-drummond/shrimp-scampi"
+    "url": "http://allrecipes.com/recipe/19508/shrimp-scampi/"
 }

@@ -1,3 +1,15 @@
 # buckle
 
  * [Strawberry Buckle With Lemon Pistachio Streusel](index/s/strawberry-buckle-with-lemon-pistachio-streusel-51119400.json)
+ * [Apple Blueberry Buckle](index/a/apple-blueberry-buckle.json)
+ * [Best Blueberry Buckle](index/b/best-blueberry-buckle.json)
+ * [Blubaughs Blueberry Buckle Shortcake](index/b/blubaughs-blueberry-buckle-shortcake.json)
+ * [Blueberry Buckle Ii](index/b/blueberry-buckle-ii.json)
+ * [Blueberry Buckle Pull Apart Bread](index/b/blueberry-buckle-pull-apart-bread.json)
+ * [Blueberry Buckle](index/b/blueberry-buckle.json)
+ * [Chef Johns Blackberry Buckle](index/c/chef-johns-blackberry-buckle.json)
+ * [Grandmas Blueberry Buckle](index/g/grandmas-blueberry-buckle.json)
+ * [Huckleberry Buckle Ii](index/h/huckleberry-buckle-ii.json)
+ * [Maritime Blueberry Buckle](index/m/maritime-blueberry-buckle.json)
+ * [Plum Buckle](index/p/plum-buckle.json)
+ * [Raspberry And Strawberry Buckle](index/r/raspberry-and-strawberry-buckle.json)

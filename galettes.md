@@ -6,3 +6,5 @@
  * [Raspberry Galettes](index/r/raspberry-galettes-1871.json)
  * [Sefrou Apricot Galettes Sucrees](index/s/sefrou-apricot-galettes-sucrees-104994.json)
  * [Polenta Galettes With Leek And Swiss Chard](index/p/polenta-galettes-with-leek-and-swiss-chard.json)
+ * [French Cookies Belgi Galettes](index/f/french-cookies-belgi-galettes.json)
+ * [Summer Fruit Galettes](index/s/summer-fruit-galettes.json)

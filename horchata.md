@@ -1,3 +1,14 @@
 # horchata
 
  * [Iced Horchata Latte](index/i/iced-horchata-latte.json)
+ * [Coconut Horchata](index/c/coconut-horchata.json)
+ * [Fireball Horchata Pops](index/f/fireball-horchata-pops.json)
+ * [Horchata Cinnamon Rice Milk](index/h/horchata-cinnamon-rice-milk.json)
+ * [Horchata De Arroz Rice Drink](index/h/horchata-de-arroz-rice-drink.json)
+ * [Horchata Made Easy](index/h/horchata-made-easy.json)
+ * [Horchata](index/h/horchata.json)
+ * [Lindas Coconut Horchata](index/l/lindas-coconut-horchata.json)
+ * [Lolas Horchata](index/l/lolas-horchata.json)
+ * [Rachels Coconut Horchata](index/r/rachels-coconut-horchata.json)
+ * [Rum Spiked Horchata](index/r/rum-spiked-horchata.json)
+ * [Vanessas Horchata](index/v/vanessas-horchata.json)

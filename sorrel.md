@@ -7,3 +7,5 @@
  * [Sorrel Vichyssoise](index/s/sorrel-vichyssoise-11925.json)
  * [Sorrel Wrapped Goat Cheese And Beet Stacks](index/s/sorrel-wrapped-goat-cheese-and-beet-stacks-108157.json)
  * [Spinach And Sorrel Spanakopita](index/s/spinach-and-sorrel-spanakopita-51240810.json)
+ * [Babas Best Sorrel Soup](index/b/babas-best-sorrel-soup.json)
+ * [Sorrel Soup](index/s/sorrel-soup.json)

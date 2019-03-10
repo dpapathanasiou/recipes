@@ -10,3 +10,4 @@
  * [Easy Slow Cooker Beef Bourguignonne](index/e/easy-slow-cooker-beef-bourguignonne.json)
  * [Filets Mignons With Bourguignonne Sauce](index/f/filets-mignons-with-bourguignonne-sauce.json)
  * [Fondue Bourguignonne](index/f/fondue-bourguignonne.json)
+ * [Tofu A La Bourguignonne](index/t/tofu-a-la-bourguignonne.json)

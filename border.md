@@ -2,3 +2,13 @@
 
  * [South Of The Border Coleslaw With Cilantro And Jalapeno](index/s/south-of-the-border-coleslaw-with-cilantro-and-jalapeno-106833.json)
  * [South Of The Border Sundaes](index/s/south-of-the-border-sundaes-553.json)
+ * [Across The Border Tequila Shrimp](index/a/across-the-border-tequila-shrimp.json)
+ * [Babs South Of The Border Taco Dip](index/b/babs-south-of-the-border-taco-dip.json)
+ * [Gluten Free South Of The Border Spagh](index/g/gluten-free-south-of-the-border-spagh.json)
+ * [South Of The Border Chicken Soup](index/s/south-of-the-border-chicken-soup.json)
+ * [South Of The Border Hash Brown Bake](index/s/south-of-the-border-hash-brown-bake.json)
+ * [South Of The Border Mac And Cheese](index/s/south-of-the-border-mac-and-cheese.json)
+ * [South Of The Border Mashed Potatoes M](index/s/south-of-the-border-mashed-potatoes-m.json)
+ * [South Of The Border Slaw From Dole](index/s/south-of-the-border-slaw-from-dole.json)
+ * [South Of The Border Stuffed Peppers](index/s/south-of-the-border-stuffed-peppers.json)
+ * [Spicy South Of The Border Spinach Che](index/s/spicy-south-of-the-border-spinach-che.json)

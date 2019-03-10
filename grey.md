@@ -8,3 +8,8 @@
  * [Pears Poached In Earl Grey Tea With Dried Fruit](index/p/pears-poached-in-earl-grey-tea-with-dried-fruit-109088.json)
  * [Sugarplum Orange And Apricot Earl Grey Jam Tarts](index/s/sugarplum-orange-and-apricot-earl-grey-jam-tarts-368968.json)
  * [Tarragon Spiked Lady Grey Iced Tea](index/t/tarragon-spiked-lady-grey-iced-tea-239285.json)
+ * [Chocolate Earl Grey Cookies](index/c/chocolate-earl-grey-cookies.json)
+ * [Creamy Earl Grey Rice Pudding](index/c/creamy-earl-grey-rice-pudding.json)
+ * [Earl Grey Martini](index/e/earl-grey-martini.json)
+ * [Grey Cup Chili](index/g/grey-cup-chili.json)
+ * [Grey Cup Nachos](index/g/grey-cup-nachos.json)

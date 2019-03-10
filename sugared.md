@@ -5,3 +5,8 @@
  * [Pink Grapefruit Strawberry And Champagne Granita With Sugared Strawberries](index/p/pink-grapefruit-strawberry-and-champagne-granita-with-sugared-strawberries-109409.json)
  * [Sugared Cranberries And Sage Leaves](index/s/sugared-cranberries-and-sage-leaves-240563.json)
  * [To Make Sugared Cranberries And Mint Leaves](index/t/to-make-sugared-cranberries-and-mint-leaves-104444.json)
+ * [Cajun Sugared Peanuts](index/c/cajun-sugared-peanuts.json)
+ * [Cinnamon Sugared Pecans](index/c/cinnamon-sugared-pecans.json)
+ * [Sugared Black Raspberry Tea Cookies](index/s/sugared-black-raspberry-tea-cookies.json)
+ * [Sugared Danish Butter Cookies With Pe](index/s/sugared-danish-butter-cookies-with-pe.json)
+ * [Sugared Walnuts](index/s/sugared-walnuts.json)

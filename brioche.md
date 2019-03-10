@@ -11,3 +11,7 @@
  * [Rhubarb And Ginger Brioche Bread Pudding](index/r/rhubarb-and-ginger-brioche-bread-pudding-358597.json)
  * [Seared Foie Gras And Lingonberry Jam On Brioche Toast](index/s/seared-foie-gras-and-lingonberry-jam-on-brioche-toast-102725.json)
  * [Simple Brioche](index/s/simple-brioche-101116.json)
+ * [Best Brioche French Toast](index/b/best-brioche-french-toast.json)
+ * [Brioche](index/b/brioche.json)
+ * [French Brioche](index/f/french-brioche.json)
+ * [Gils Brioche French Toast](index/g/gils-brioche-french-toast.json)

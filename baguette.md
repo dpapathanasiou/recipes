@@ -7,3 +7,5 @@
  * [Sesame Chicken With Napa Cabbage And Spinach Slaw On Baguette](index/s/sesame-chicken-with-napa-cabbage-and-spinach-slaw-on-baguette-12391.json)
  * [Sliced Baguette With Radishes And Anchovy Butter](index/s/sliced-baguette-with-radishes-and-anchovy-butter-364610.json)
  * [Toasted Baguette With Tomatoes And Anchovies](index/t/toasted-baguette-with-tomatoes-and-anchovies-107134.json)
+ * [Banh Mi Style Vietnamese Baguette](index/b/banh-mi-style-vietnamese-baguette.json)
+ * [Hot And Spicy Baguette Sandwiches](index/h/hot-and-spicy-baguette-sandwiches.json)

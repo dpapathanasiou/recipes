@@ -25,3 +25,8 @@
  * [Provencal Tomatoes Recipe](index/p/provencal-tomatoes-recipe.json)
  * [Scallops Provencal Recipe](index/s/scallops-provencal-recipe.json)
  * [Swordfish Provencal](index/s/swordfish-provencal.json)
+ * [Apricot Chicken Provencal](index/a/apricot-chicken-provencal.json)
+ * [Mussels Provencal](index/m/mussels-provencal.json)
+ * [Poulet De Provencal](index/p/poulet-de-provencal.json)
+ * [Provencal Tomato And Artichoke Dip](index/p/provencal-tomato-and-artichoke-dip.json)
+ * [Shrimp Provencal](index/s/shrimp-provencal.json)

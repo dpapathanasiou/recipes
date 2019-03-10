@@ -1,3 +1,16 @@
 # fondant
 
  * [Molten Peanut Butter And Chocolate Fondant Cakes](index/m/molten-peanut-butter-and-chocolate-fondant-cakes-56390085.json)
+ * [Cake Fondant](index/c/cake-fondant.json)
+ * [Chocolate Fondant A La Maille](index/c/chocolate-fondant-a-la-maille.json)
+ * [Chocolate Marshmallow Fondant](index/c/chocolate-marshmallow-fondant.json)
+ * [Fondant For Chocolate Cherries](index/f/fondant-for-chocolate-cherries.json)
+ * [Fondant Frosting](index/f/fondant-frosting.json)
+ * [Fondant Potatoes](index/f/fondant-potatoes.json)
+ * [Home Made Rolled Fondant](index/h/home-made-rolled-fondant.json)
+ * [Marshmallow Fondant](index/m/marshmallow-fondant.json)
+ * [Quick Pour Chocolate Fondant](index/q/quick-pour-chocolate-fondant.json)
+ * [Quick Pour Fondant Icing](index/q/quick-pour-fondant-icing.json)
+ * [Rolled Buttercream Fondant](index/r/rolled-buttercream-fondant.json)
+ * [Rolled Fondant](index/r/rolled-fondant.json)
+ * [Rolling Fondant](index/r/rolling-fondant.json)

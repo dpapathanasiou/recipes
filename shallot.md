@@ -61,3 +61,8 @@
  * [Beef Tenderloin Shallot Syrah](index/b/beef-tenderloin-shallot-syrah.json)
  * [Beef Tenderloin With Shallot And Red Wine Reduction](index/b/beef-tenderloin-with-shallot-and-red-wine-reduction.json)
  * [Char Grilled Rib Eye With Roasted Shallot And Herb Butter Recipe](index/c/char-grilled-rib-eye-with-roasted-shallot-and-herb-butter-recipe.json)
+ * [Boneless Pork Chop With Shallot Musta](index/b/boneless-pork-chop-with-shallot-musta.json)
+ * [Garlicky Green Beans With Shallot](index/g/garlicky-green-beans-with-shallot.json)
+ * [Orange Shallot Marsala Pork Chops](index/o/orange-shallot-marsala-pork-chops.json)
+ * [Proscuitto Shallot Vodka Sauce](index/p/proscuitto-shallot-vodka-sauce.json)
+ * [Strawberry Salad With Shallot Honey V](index/s/strawberry-salad-with-shallot-honey-v.json)

@@ -15,3 +15,6 @@
  * [Grilled Steak Pepper And Onion Salad With Romesco Dressing](index/g/grilled-steak-pepper-and-onion-salad-with-romesco-dressing.json)
  * [Meatballs In Romesco Sauce](index/m/meatballs-in-romesco-sauce.json)
  * [Pork Loin Chops Romesco Sauce](index/p/pork-loin-chops-romesco-sauce.json)
+ * [Pork Tenderloin With Low Fat Romesco](index/p/pork-tenderloin-with-low-fat-romesco.json)
+ * [Romesco Dip](index/r/romesco-dip.json)
+ * [Romesco Sauce](index/r/romesco-sauce.json)

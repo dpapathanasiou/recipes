@@ -13,3 +13,6 @@
  * [Tagliatelle With Zucchini And Shrimp](index/t/tagliatelle-with-zucchini-and-shrimp-107018.json)
  * [Zucchini Tagliatelle With Mint Cucumber And Lemon](index/z/zucchini-tagliatelle-with-mint-cucumber-and-lemon-242986.json)
  * [Tagliatelle Leeks Peas](index/t/tagliatelle-leeks-peas.json)
+ * [Aphrodisiac Tagliatelle With Blue Che](index/a/aphrodisiac-tagliatelle-with-blue-che.json)
+ * [Seafood Squid Ink Tagliatelle With Ch](index/s/seafood-squid-ink-tagliatelle-with-ch.json)
+ * [Tomato Basil Tagliatelle](index/t/tomato-basil-tagliatelle.json)

@@ -6,3 +6,4 @@
  * [Cheesecake Petit Fours With Creamy Strawberry Glaze Recipe](index/c/cheesecake-petit-fours-with-creamy-strawberry-glaze-recipe.json)
  * [Gingery Watermelon Petit Fours](index/g/gingery-watermelon-petit-fours.json)
  * [Petit Fours Recipe](index/p/petit-fours-recipe.json)
+ * [Petit Toasts With Brie Fig And Thym](index/p/petit-toasts-with-brie-fig-and-thym.json)

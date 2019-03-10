@@ -14,3 +14,7 @@
  * [Fresh Fruit Platter Recipe](index/f/fresh-fruit-platter-recipe.json)
  * [Roasted Salmon Nicoise Platter Recipe](index/r/roasted-salmon-nicoise-platter-recipe.json)
  * [Seafood Platter Recipe](index/s/seafood-platter-recipe.json)
+ * [Antipasto Platter From Margherita](index/a/antipasto-platter-from-margherita.json)
+ * [Antipasto Platter](index/a/antipasto-platter.json)
+ * [Antipasto Salad Platter](index/a/antipasto-salad-platter.json)
+ * [Crescent Turkey Shaped Veggie Platter](index/c/crescent-turkey-shaped-veggie-platter.json)

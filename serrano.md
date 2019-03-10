@@ -19,3 +19,6 @@
  * [Watermelon And Feta Salad With Lime And Serrano Chili Peppers](index/w/watermelon-and-feta-salad-with-lime-and-serrano-chili-peppers.json)
  * [Watermelon And Feta With Lime And Serrano Chili Peppers](index/w/watermelon-and-feta-with-lime-and-serrano-chili-peppers-51178200.json)
  * [Flatbread Serrano Ham Arugula](index/f/flatbread-serrano-ham-arugula.json)
+ * [Cilantro Serrano Cream Sauce](index/c/cilantro-serrano-cream-sauce.json)
+ * [Serrano Hot Sauce](index/s/serrano-hot-sauce.json)
+ * [Spicy Serrano Burgers](index/s/spicy-serrano-burgers.json)

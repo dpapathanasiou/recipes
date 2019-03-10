@@ -7,3 +7,6 @@
  * [Pork Tamale Potpie With Corn Bread Crust](index/p/pork-tamale-potpie-with-corn-bread-crust-10302.json)
  * [Turkey Potpie With Cheddar Biscuit Crust](index/t/turkey-potpie-with-cheddar-biscuit-crust-240566.json)
  * [Turkey Squash And Lima Bean Potpie With Cheddar Bacon Crust](index/t/turkey-squash-and-lima-bean-potpie-with-cheddar-bacon-crust-10915.json)
+ * [Easy Chicken Potpie](index/e/easy-chicken-potpie.json)
+ * [Homemade Chicken Potpie](index/h/homemade-chicken-potpie.json)
+ * [Simple Classic Chicken Potpie](index/s/simple-classic-chicken-potpie.json)

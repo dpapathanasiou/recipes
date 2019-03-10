@@ -1,42 +1,34 @@
 {
     "directions": [
-        "For the cake: Position an oven rack in the middle of the oven, and preheat to 350 degrees F. Coat two 9-inch round cake pans with cooking spray; dust with flour, and tap out the excess.",
-        "Whisk together the flour, granulated sugar, baking soda and salt in a medium bowl; set aside. Stir together the hot water and cocoa powder in a small bowl until smooth; let cool slightly. Stir together the milk and vinegar in another small bowl, and let stand until thickened, 3 to 5 minutes.",
-        "Whisk together the oil, eggs and vanilla in a large bowl until smooth. Whisk in the red food coloring and the cocoa mixture. Alternate whisking in the flour mixture in three additions and the milk in two, starting and ending with the flour, until just combined. Divide the batter evenly between the prepared pans.",
-        "Bake until a toothpick inserted in the center comes out clean, about 30 minutes. Let cool for 10 minutes in the pans, turn out onto cooling racks and let cool completely.",
-        "For the frosting: While the cake layers are cooling, beat the cream cheese, butter, vanilla and salt with an electric mixer on medium speed in a large bowl until smooth and fluffy. Gradually beat in the confectioners' sugar until smooth. Increase the speed to high, and beat until very fluffy and there is no gritty texture left from the sugar. Beat in the milk to adjust the consistency if the frosting seems too thick.",
-        "To assemble: Place one cake layer bottom-side down on a cake plate. Top with 1 cup of the frosting, and spread to the edge. Top with the second layer, and frost the top and sides with the remaining frosting. If the frosting becomes too soft while assembling the cake, briefly chill the cake and frosting and then finish frosting."
+        "Preheat oven to 350 degrees F (175 degrees C). Grease two 9-inch round pans.",
+        "Beat shortening and 1 1/2 cups sugar until very light and fluffy. Add eggs and beat well.",
+        "Make a paste of cocoa and red food coloring; add to creamed mixture. Mix salt, 1 teaspoon vanilla, and buttermilk together. Add the flour to the batter, alternating with the buttermilk mixture, mixing just until incorporated. Mix soda and vinegar and gently fold into cake batter. Don't beat or stir the batter after this point.",
+        "Pour batter into prepared pans. Bake in preheated oven until a tester inserted into the cake comes out clean, about 30 minutes. Cool cakes completely on wire rack.",
+        "To Make Icing: Cook 5 tablespoons flour and milk over low heat till thick, stirring constantly.  Let cool completely! While mixture is cooling, beat 1 cup sugar, butter, and 1 teaspoon vanilla until light and fluffy. Add cooled flour mixture and beat until frosting is a good spreading consistency. Frost cake layers when completely cool."
     ],
     "ingredients": [
-        "Nonstick cooking spray",
-        "2 3/4 cups all-purpose flour, spooned and leveled, plus more for dusting the pans",
-        "1 1/2 cups granulated sugar",
-        "3/4 teaspoon baking soda",
-        "1/2 teaspoon fine salt",
-        "1/4 cup very hot water",
-        "2 tablespoons unsweetened cocoa powder",
+        "Cake:",
+        "1/2 cup shortening",
+        "1 1/2 cups white sugar",
+        "2 eggs",
+        "2 tablespoons cocoa",
+        "4 tablespoons red food coloring",
+        "1 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1 cup buttermilk",
+        "2 1/2 cups sifted all-purpose flour",
+        "1 1/2 teaspoons baking soda",
+        "1 tablespoon distilled white vinegar",
+        "Icing:",
+        "5 tablespoons all-purpose flour",
         "1 cup milk",
-        "2 tablespoons white distilled vinegar",
-        "1 1/4 cups vegetable oil",
-        "2 large eggs, at room temperature",
-        "1 teaspoon pure vanilla extract",
-        "One 1-ounce bottle red food coloring (about 2 tablespoons)",
-        "Two 8-ounce packages cream cheese, softened",
-        "1 1/2 sticks (12 tablespoons) unsalted butter, softened",
-        "1 teaspoon pure vanilla extract",
-        "Pinch fine salt",
-        "3 cups confectioners' sugar",
-        "1 tablespoon milk, if needed"
+        "1 cup white sugar",
+        "1 cup butter, room temperature",
+        "1 teaspoon vanilla extract"
     ],
     "language": "en-US",
-    "source": "www.foodnetwork.com",
-    "tags": [
-        "Baking",
-        "Dessert",
-        "Cake",
-        "Red Velvet Cake",
-        "Chocolate"
-    ],
+    "source": "allrecipes.com",
+    "tags": [],
     "title": "Red Velvet Cake",
-    "url": "http://www.foodnetwork.com/recipes/food-network-kitchen/red-velvet-cake"
+    "url": "http://allrecipes.com/recipe/9295/red-velvet-cake/"
 }

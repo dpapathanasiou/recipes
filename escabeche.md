@@ -6,3 +6,4 @@
  * [Shrimp Escabeche With Blood Orange Mojo](index/s/shrimp-escabeche-with-blood-orange-mojo-109063.json)
  * [Snapper Escabeche With Charred Scallions](index/s/snapper-escabeche-with-charred-scallions-56389671.json)
  * [Striped Bass Escabeche With Bell Peppers And Green Beans](index/s/striped-bass-escabeche-with-bell-peppers-and-green-beans-13012.json)
+ * [Chef Johns Eggplant Escabeche](index/c/chef-johns-eggplant-escabeche.json)

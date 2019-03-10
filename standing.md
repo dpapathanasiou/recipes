@@ -7,3 +7,8 @@
  * [Standing Rib Roast With Bordelaise Sauce](index/s/standing-rib-roast-with-bordelaise-sauce.json)
  * [Standing Rib Roast With Yorkshire Pudding](index/s/standing-rib-roast-with-yorkshire-pudding.json)
  * [Standing Rib Roast Recipe](index/s/standing-rib-roast-recipe.json)
+ * [Classic Standing Beef Rib Roast](index/c/classic-standing-beef-rib-roast.json)
+ * [Easy Standing Rib Roast](index/e/easy-standing-rib-roast.json)
+ * [Smoked Standing Rib Roast](index/s/smoked-standing-rib-roast.json)
+ * [Standing Rib Roast With Walnut Horser](index/s/standing-rib-roast-with-walnut-horser.json)
+ * [Standing Roast Beef Brined](index/s/standing-roast-beef-brined.json)

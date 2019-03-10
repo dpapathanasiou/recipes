@@ -28,3 +28,6 @@
  * [Steamed Uku Laulau With Ginger Scallion Sauce](index/s/steamed-uku-laulau-with-ginger-scallion-sauce-352952.json)
  * [Stilton Bacon And Scallion Puffs](index/s/stilton-bacon-and-scallion-puffs-13525.json)
  * [Sweet And Spicy Grilled Bacon Kebabs With Scallion Ginger Relish](index/s/sweet-and-spicy-grilled-bacon-kebabs-with-scallion-ginger-relish.json)
+ * [Chinese Scallion Pancakes](index/c/chinese-scallion-pancakes.json)
+ * [Sausage And Scallion Egg Muffins](index/s/sausage-and-scallion-egg-muffins.json)
+ * [Zucchini Scallion Frittata Cups](index/z/zucchini-scallion-frittata-cups.json)

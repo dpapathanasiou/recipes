@@ -23,3 +23,7 @@
  * [Quince Stew Em Choroshte Be Em](index/q/quince-stew-em-choroshte-be-em-51109810.json)
  * [Quince Tarte Tatin](index/q/quince-tarte-tatin-236809.json)
  * [Scottish Salmon With Shallot Truffle Honey Glaze Lump Crab And Green Apple Risotto And Quince Jam](index/s/scottish-salmon-with-shallot-truffle-honey-glaze-lump-crab-and-green-apple-risotto-and-quince-jam-363590.json)
+ * [Lamb Braised With Quince Kidonato](index/l/lamb-braised-with-quince-kidonato.json)
+ * [Quince Jelly](index/q/quince-jelly.json)
+ * [Quince Paste](index/q/quince-paste.json)
+ * [Spicy Quince And Cranberry Chutney](index/s/spicy-quince-and-cranberry-chutney.json)

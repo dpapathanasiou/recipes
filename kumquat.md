@@ -17,3 +17,8 @@
  * [Seared Scallops With Fresh Fennel Salad And Kumquat Tarragon Vinaigrette](index/s/seared-scallops-with-fresh-fennel-salad-and-kumquat-tarragon-vinaigrette-233120.json)
  * [Spiced Kumquat Chutney](index/s/spiced-kumquat-chutney-2666.json)
  * [Spicy Pork And Kumquat Stir Fry](index/s/spicy-pork-and-kumquat-stir-fry-2664.json)
+ * [Candied Kumquat Peels](index/c/candied-kumquat-peels.json)
+ * [Chef Johns Kumquat Marmalade](index/c/chef-johns-kumquat-marmalade.json)
+ * [Kumquat Ice Cream](index/k/kumquat-ice-cream.json)
+ * [Kumquat Marmalade](index/k/kumquat-marmalade.json)
+ * [Kumquat Salad](index/k/kumquat-salad.json)

@@ -5,3 +5,5 @@
  * [Sardine Roulade With Jalapeno Monterey Jack And Tomato Sauce](index/s/sardine-roulade-with-jalapeno-monterey-jack-and-tomato-sauce-10351.json)
  * [Sardine Toasts With Tomato Mayonnaise And Fennel](index/s/sardine-toasts-with-tomato-mayonnaise-and-fennel.json)
  * [Sardine Tonnato Spread](index/s/sardine-tonnato-spread-232506.json)
+ * [Pasta De Sardine](index/p/pasta-de-sardine.json)
+ * [Quick Sardine Curry](index/q/quick-sardine-curry.json)

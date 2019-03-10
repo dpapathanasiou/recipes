@@ -8,3 +8,5 @@
  * [Yuca French Fries](index/y/yuca-french-fries-107670.json)
  * [Yuca Fries With Chipotle Mayonnaise](index/y/yuca-fries-with-chipotle-mayonnaise-232004.json)
  * [Yuca Gratin](index/y/yuca-gratin-231506.json)
+ * [Cuban Style Yuca](index/c/cuban-style-yuca.json)
+ * [Yuca French Fries](index/y/yuca-french-fries.json)

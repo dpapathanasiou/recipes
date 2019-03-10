@@ -7,3 +7,8 @@
  * [Overeaters Tonic](index/o/overeaters-tonic.json)
  * [Tequila And Tonic](index/t/tequila-and-tonic-200768.json)
  * [Turmeric Ginger Tonic With Chia Seeds](index/t/turmeric-ginger-tonic-with-chia-seeds.json)
+ * [Gin And Tonic](index/g/gin-and-tonic.json)
+ * [Lavender Lemon Vodka Tonic](index/l/lavender-lemon-vodka-tonic.json)
+ * [Montana Tonic](index/m/montana-tonic.json)
+ * [Prickly Pear Tonic And Lime](index/p/prickly-pear-tonic-and-lime.json)
+ * [Watermelon Gin And Tonic](index/w/watermelon-gin-and-tonic.json)

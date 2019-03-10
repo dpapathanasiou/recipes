@@ -10,3 +10,6 @@
  * [Roasted Whole Fish And Fennel With Crushed Potatoes Perserved Lemon And Charmoula](index/r/roasted-whole-fish-and-fennel-with-crushed-potatoes-perserved-lemon-and-charmoula-236191.json)
  * [Saffron Panettone With Crushed Sugar Topping](index/s/saffron-panettone-with-crushed-sugar-topping-233914.json)
  * [Zucchini With Garlic And Dried Crushed Red Pepper](index/z/zucchini-with-garlic-and-dried-crushed-red-pepper-108462.json)
+ * [Chevre With Urfa And Crushed Nibs](index/c/chevre-with-urfa-and-crushed-nibs.json)
+ * [Crushed Pineapple Fruitcake](index/c/crushed-pineapple-fruitcake.json)
+ * [Crushed Pineapple Sour Cream Pie](index/c/crushed-pineapple-sour-cream-pie.json)

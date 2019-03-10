@@ -17,3 +17,6 @@
  * [Raspberry Almond Lattice Tart](index/r/raspberry-almond-lattice-tart-232333.json)
  * [Rhubarb Lattice Pie With Cardamom And Orange](index/r/rhubarb-lattice-pie-with-cardamom-and-orange-231903.json)
  * [Spiced Peach Pie With Lattice Crust](index/s/spiced-peach-pie-with-lattice-crust-103655.json)
+ * [Autumn Apple And Pear Lattice Pie](index/a/autumn-apple-and-pear-lattice-pie.json)
+ * [Cherry Lattice Pie](index/c/cherry-lattice-pie.json)
+ * [Lattice Chicken And Peppers Pie](index/l/lattice-chicken-and-peppers-pie.json)

@@ -4,3 +4,8 @@
  * [Shawarma Spiced Chicken Pita With Tahini Yogurt Sauce](index/s/shawarma-spiced-chicken-pita-with-tahini-yogurt-sauce.json)
  * [Turkey Shawarma With Crunchy Vegetables](index/t/turkey-shawarma-with-crunchy-vegetables.json)
  * [Turkey Shawarma With Tomato Relish And Tahini Sauce](index/t/turkey-shawarma-with-tomato-relish-and-tahini-sauce-353778.json)
+ * [Chicken Shawarma](index/c/chicken-shawarma.json)
+ * [Easy Lamb Shawarma](index/e/easy-lamb-shawarma.json)
+ * [Jackfruit Shawarma](index/j/jackfruit-shawarma.json)
+ * [Lamb Shawarma](index/l/lamb-shawarma.json)
+ * [Toronto Chicken Shawarma](index/t/toronto-chicken-shawarma.json)

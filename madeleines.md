@@ -8,3 +8,8 @@
  * [Lemon Thyme Madeleines With Lemon Vodka Syrup](index/l/lemon-thyme-madeleines-with-lemon-vodka-syrup-10004.json)
  * [Madeleines With Lavender Honey](index/m/madeleines-with-lavender-honey-357229.json)
  * [Orange Blossom Honey Madeleines](index/o/orange-blossom-honey-madeleines-367764.json)
+ * [Chocolate Madeleines](index/c/chocolate-madeleines.json)
+ * [Cinnamon Madeleines](index/c/cinnamon-madeleines.json)
+ * [French Butter Cakes Madeleines](index/f/french-butter-cakes-madeleines.json)
+ * [Lemon Madeleines](index/l/lemon-madeleines.json)
+ * [Madeleines Ii](index/m/madeleines-ii.json)

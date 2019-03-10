@@ -6,3 +6,8 @@
  * [Pears Poached In Spiced Red Wine With Bow Tie Pastries](index/p/pears-poached-in-spiced-red-wine-with-bow-tie-pastries-1901.json)
  * [Pumpkin And Fennel Pastries](index/p/pumpkin-and-fennel-pastries-103308.json)
  * [Whipped Cream Pastries With Jam And Coffee Glaze](index/w/whipped-cream-pastries-with-jam-and-coffee-glaze-1969.json)
+ * [Cinnamon Pastries](index/c/cinnamon-pastries.json)
+ * [Crostoli Pastries](index/c/crostoli-pastries.json)
+ * [Festive Mincemeat Pastries](index/f/festive-mincemeat-pastries.json)
+ * [Pasteles De Coco Coconut Pastries](index/p/pasteles-de-coco-coconut-pastries.json)
+ * [Super Easy Hazelnut Pastries](index/s/super-easy-hazelnut-pastries.json)

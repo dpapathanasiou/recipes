@@ -6,3 +6,6 @@
  * [Negroni](index/n/negroni-56390123.json)
  * [Negroni Cooler](index/n/negroni-cooler-200370.json)
  * [Negroni Punch](index/n/negroni-punch-242688.json)
+ * [Negroni Cocktail I](index/n/negroni-cocktail-i.json)
+ * [Negroni Cocktail Ii](index/n/negroni-cocktail-ii.json)
+ * [Negroni Dolce Cocktail](index/n/negroni-dolce-cocktail.json)

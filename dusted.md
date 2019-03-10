@@ -8,3 +8,5 @@
  * [Gold Dusted Bourbon Pecan Balls](index/g/gold-dusted-bourbon-pecan-balls-13463.json)
  * [Panfried Almond And Sesame Dusted Chicken](index/p/panfried-almond-and-sesame-dusted-chicken-103050.json)
  * [Strawberries Dusted With Cardamom Sugar](index/s/strawberries-dusted-with-cardamom-sugar-104977.json)
+ * [Coffee Dusted Pear Galette](index/c/coffee-dusted-pear-galette.json)
+ * [Sugar Dusted Apple Bundt Cake](index/s/sugar-dusted-apple-bundt-cake.json)

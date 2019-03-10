@@ -10,3 +10,4 @@
  * [Strawberries With Cassis](index/s/strawberries-with-cassis-2014.json)
  * [Vanilla Creams With Strawberries In Cassis](index/v/vanilla-creams-with-strawberries-in-cassis-358565.json)
  * [White Peach Cassis And Champagne Floats](index/w/white-peach-cassis-and-champagne-floats-232575.json)
+ * [Cassis Martini](index/c/cassis-martini.json)

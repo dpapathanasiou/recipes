@@ -22,3 +22,5 @@
  * [White Chocolate Mint Terrine With Dark Chocolate Sauce](index/w/white-chocolate-mint-terrine-with-dark-chocolate-sauce-2005.json)
  * [White Chocolate Praline Ice Cream Terrine With Blackberry Raspberry Sauce](index/w/white-chocolate-praline-ice-cream-terrine-with-blackberry-raspberry-sauce-231325.json)
  * [White Fish Terrine With Salmon Roe And Dill](index/w/white-fish-terrine-with-salmon-roe-and-dill-233244.json)
+ * [Salmon Terrine](index/s/salmon-terrine.json)
+ * [Tuna Mousse Terrine With Olives](index/t/tuna-mousse-terrine-with-olives.json)

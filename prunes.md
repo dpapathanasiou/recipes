@@ -21,3 +21,5 @@
  * [Soused Prunes](index/s/soused-prunes-13603.json)
  * [Spiced Moroccan Chicken With Onions And Prunes](index/s/spiced-moroccan-chicken-with-onions-and-prunes-4503.json)
  * [Spiced Shallots And Prunes](index/s/spiced-shallots-and-prunes-236419.json)
+ * [Goat Shoulder Braised With Prunes And](index/g/goat-shoulder-braised-with-prunes-and.json)
+ * [Grilled Sausages With Prunes And Baco](index/g/grilled-sausages-with-prunes-and-baco.json)

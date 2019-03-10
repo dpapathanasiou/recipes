@@ -4,3 +4,5 @@
  * [Molten Chocolate Cakes With Cherries](index/m/molten-chocolate-cakes-with-cherries-104736.json)
  * [Molten Peanut Butter And Chocolate Fondant Cakes](index/m/molten-peanut-butter-and-chocolate-fondant-cakes-56390085.json)
  * [Winter Spiced Molten Chocolate Cakes With Rum Ginger Ice Cream](index/w/winter-spiced-molten-chocolate-cakes-with-rum-ginger-ice-cream-109054.json)
+ * [Idahoan Molten Lava Cakes](index/i/idahoan-molten-lava-cakes.json)
+ * [Molten Chocolate Cakes With Sugar Coa](index/m/molten-chocolate-cakes-with-sugar-coa.json)

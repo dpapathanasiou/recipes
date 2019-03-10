@@ -17,3 +17,7 @@
  * [Rustic Nectarine And Blackberry Crostata With Cornmeal Crust](index/r/rustic-nectarine-and-blackberry-crostata-with-cornmeal-crust-106869.json)
  * [Apple Crostata Recipe](index/a/apple-crostata-recipe.json)
  * [Grilled Peach And Caramel Crostata](index/g/grilled-peach-and-caramel-crostata.json)
+ * [Amazing Apple Crostata](index/a/amazing-apple-crostata.json)
+ * [Apple Crostata](index/a/apple-crostata.json)
+ * [Crostata Della Bisnonna](index/c/crostata-della-bisnonna.json)
+ * [Hazelnut Fudge Crostata](index/h/hazelnut-fudge-crostata.json)

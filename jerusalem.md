@@ -18,3 +18,8 @@
  * [Mashed Jerusalem Artichokes](index/m/mashed-jerusalem-artichokes-101053.json)
  * [Roast Chicken With Parsnips Golden Beets And Jerusalem Artichokes With Beer Pan Juices](index/r/roast-chicken-with-parsnips-golden-beets-and-jerusalem-artichokes-with-beer-pan-juices-361289.json)
  * [Yukon Gold Potato And Jerusalem Artichoke Latkes With Apple Horseradish Mayonnaise And Taramasalata](index/y/yukon-gold-potato-and-jerusalem-artichoke-latkes-with-apple-horseradish-mayonnaise-and-taramasalata-368729.json)
+ * [Chicken Jerusalem I](index/c/chicken-jerusalem-i.json)
+ * [Chicken Jerusalem Ii](index/c/chicken-jerusalem-ii.json)
+ * [Cream Of Jerusalem Artichoke Soup](index/c/cream-of-jerusalem-artichoke-soup.json)
+ * [Jerusalem Pudding](index/j/jerusalem-pudding.json)
+ * [Sunchoke Jerusalem Artichoke And Le](index/s/sunchoke-jerusalem-artichoke-and-le.json)

@@ -6,3 +6,6 @@
  * [Spice Rubbed Pork Tenderloins In Corn Husks With Cranberry Avocado Salsa](index/s/spice-rubbed-pork-tenderloins-in-corn-husks-with-cranberry-avocado-salsa-107490.json)
  * [Balsamic Roast Pork Tenderloins Recipe](index/b/balsamic-roast-pork-tenderloins-recipe.json)
  * [Herb Marinated Pork Tenderloins Recipe](index/h/herb-marinated-pork-tenderloins-recipe.json)
+ * [Beef Tenderloins With Mushroom Garlic](index/b/beef-tenderloins-with-mushroom-garlic.json)
+ * [Restaurant Style Chicken Tenderloins](index/r/restaurant-style-chicken-tenderloins.json)
+ * [Turkey Tenderloins](index/t/turkey-tenderloins.json)

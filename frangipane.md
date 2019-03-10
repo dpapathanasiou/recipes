@@ -10,3 +10,6 @@
  * [Pear And Hazelnut Frangipane Tart](index/p/pear-and-hazelnut-frangipane-tart-105747.json)
  * [Prune Cherry And Apricot Frangipane Tart](index/p/prune-cherry-and-apricot-frangipane-tart-350630.json)
  * [Raspberry Frangipane Tart](index/r/raspberry-frangipane-tart.json)
+ * [Frangipane Pear Tart](index/f/frangipane-pear-tart.json)
+ * [Pear And Hazelnut Frangipane Tart](index/p/pear-and-hazelnut-frangipane-tart.json)
+ * [Pear Frangipane Tart](index/p/pear-frangipane-tart.json)

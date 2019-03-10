@@ -16,3 +16,5 @@
  * [Sweet Pea Canapes](index/s/sweet-pea-canapes-238403.json)
  * [Beef Tenderloin Canapes](index/b/beef-tenderloin-canapes.json)
  * [Tenderloin And Heirloom Tomato Canapes](index/t/tenderloin-and-heirloom-tomato-canapes.json)
+ * [Crab Canapes](index/c/crab-canapes.json)
+ * [Far East Tuna Canapes](index/f/far-east-tuna-canapes.json)

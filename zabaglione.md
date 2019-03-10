@@ -10,3 +10,6 @@
  * [Chocolate Zabaglione Tiramisu Recipe](index/c/chocolate-zabaglione-tiramisu-recipe.json)
  * [Zabaglione With Berries Recipe](index/z/zabaglione-with-berries-recipe.json)
  * [Zabaglione With Fresh Berries Recipe](index/z/zabaglione-with-fresh-berries-recipe.json)
+ * [Chef Johns Zabaglione](index/c/chef-johns-zabaglione.json)
+ * [Whipped Cream Zabaglione](index/w/whipped-cream-zabaglione.json)
+ * [Zabaglione](index/z/zabaglione.json)

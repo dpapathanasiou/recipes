@@ -5,3 +5,4 @@
  * [Croque Madame With Cranberry Mustard Relish](index/c/croque-madame-with-cranberry-mustard-relish.json)
  * [Croque Monsieur](index/c/croque-monsieur-105077.json)
  * [Mushroom Croque Monsieur](index/m/mushroom-croque-monsieur-364090.json)
+ * [Croque Monsieur](index/c/croque-monsieur.json)

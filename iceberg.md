@@ -8,3 +8,5 @@
  * [Iceberg Wedges With Grilled Bacon And Croutons](index/i/iceberg-wedges-with-grilled-bacon-and-croutons-56389651.json)
  * [Iceberg With Tomatoes Blue Cheese And Bacon](index/i/iceberg-with-tomatoes-blue-cheese-and-bacon.json)
  * [Patricia Wellss Cobb Salad Iceberg Tomato Avocado Bacon And Blue Cheese](index/p/patricia-wellss-cobb-salad-iceberg-tomato-avocado-bacon-and-blue-cheese-364872.json)
+ * [Iceberg Wedge Salad With Warm Bacon D](index/i/iceberg-wedge-salad-with-warm-bacon-d.json)
+ * [No Bake Peanut Butter Iceberg Pie](index/n/no-bake-peanut-butter-iceberg-pie.json)

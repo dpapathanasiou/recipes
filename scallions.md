@@ -32,3 +32,6 @@
  * [Steamed Whole Fish With Ginger Scallions And Soy](index/s/steamed-whole-fish-with-ginger-scallions-and-soy-51115200.json)
  * [Toasted Manioc Flour With Eggs And Scallions](index/t/toasted-manioc-flour-with-eggs-and-scallions-359470.json)
  * [Yu Bos Shiitake Mushrooms With Scallions](index/y/yu-bos-shiitake-mushrooms-with-scallions-107965.json)
+ * [Herbed Cream Cheese With Scallions An](index/h/herbed-cream-cheese-with-scallions-an.json)
+ * [Linguini With Cashews And Scallions](index/l/linguini-with-cashews-and-scallions.json)
+ * [Sriracha Chicken With Scallions](index/s/sriracha-chicken-with-scallions.json)

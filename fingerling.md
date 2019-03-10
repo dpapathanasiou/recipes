@@ -12,3 +12,6 @@
  * [Crispy Fingerling Potatoes Recipe](index/c/crispy-fingerling-potatoes-recipe.json)
  * [Pan Fried Honey Lemon Fingerling Potatoes And Leeks](index/p/pan-fried-honey-lemon-fingerling-potatoes-and-leeks.json)
  * [Roasted Fingerling Potatoes Recipe](index/r/roasted-fingerling-potatoes-recipe.json)
+ * [Cheesy Oven Roasted Fingerling Fries](index/c/cheesy-oven-roasted-fingerling-fries.json)
+ * [Pan Fried Fingerling Potatoes With Wi](index/p/pan-fried-fingerling-potatoes-with-wi.json)
+ * [Warm Fingerling Potato Salad](index/w/warm-fingerling-potato-salad.json)

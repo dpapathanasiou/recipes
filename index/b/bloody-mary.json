@@ -1,25 +1,19 @@
 {
     "directions": [
-        "Fill a highball glass one-third of the way with ice cubes. Add the tomato juice, tomato clam juice, vodka, lemon juice, horseradish, celery salt, hot sauce and Worcestershire. Stir to combine. Garnish as desired.",
-        "Copyright (c) 2014 Television Food Network, G.P., All Rights Reserved."
+        "In a blender, combine tomato-vegetable juice, vodka, pickle juice and hot sauce. Season with celery salt, dill weed and garlic salt. Blend until smooth. Pour into glasses over ice, and serve."
     ],
     "ingredients": [
-        "2 ounces tomato juice",
-        "2 ounces tomato clam juice",
-        "2 ounces vodka",
-        "1 teaspoon fresh lemon juice",
-        "1 teaspoon prepared horseradish",
-        "1/2 teaspoon celery salt",
-        "2 to 3 dashes hot sauce",
-        "2 dashes Worcestershire sauce",
-        "Garnishes: Pickled cauliflower on a skewer, avocado slice on a skewer or a long strip of beef jerky"
+        "6 cups tomato-vegetable juice cocktail",
+        "2 cups vodka",
+        "1/3 cup dill pickle juice",
+        "1 tablespoon hot pepper sauce",
+        "2 teaspoons celery salt",
+        "1 teaspoon dried dill weed",
+        "1 teaspoon garlic salt"
     ],
     "language": "en-US",
-    "source": "www.foodnetwork.com",
-    "tags": [
-        "Mixed Drink Recipes",
-        "Vodka Recipes"
-    ],
+    "source": "allrecipes.com",
+    "tags": [],
     "title": "Bloody Mary",
-    "url": "http://www.foodnetwork.com/recipes/food-network-kitchen/bloody-mary"
+    "url": "http://allrecipes.com/recipe/40302/bloody-mary/"
 }

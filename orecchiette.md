@@ -23,3 +23,8 @@
  * [Salmon With Orecchiette Caramelized Onions And Horseradish Cream](index/s/salmon-with-orecchiette-caramelized-onions-and-horseradish-cream-108239.json)
  * [Three Cheese And Mushroom Orecchiette](index/t/three-cheese-and-mushroom-orecchiette-237671.json)
  * [Toasted Orecchiette With Veal Meatballs](index/t/toasted-orecchiette-with-veal-meatballs.json)
+ * [Cajun Shrimp Orecchiette](index/c/cajun-shrimp-orecchiette.json)
+ * [One Pan Orecchiette Pasta](index/o/one-pan-orecchiette-pasta.json)
+ * [Orecchiette And Broccoli Crisp](index/o/orecchiette-and-broccoli-crisp.json)
+ * [Orecchiette Pasta With Margherita](index/o/orecchiette-pasta-with-margherita.json)
+ * [Spicy Chicken Orecchiette](index/s/spicy-chicken-orecchiette.json)

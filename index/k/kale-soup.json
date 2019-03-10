@@ -1,30 +1,25 @@
 {
     "directions": [
-        "Heat the olive oil in a large stockpot over medium heat. Brown the chorizo in the oil, 5 to 7 minutes. Add the potatoes, onions, garlic and chicken broth.",
-        "Simmer until the potatoes are fork tender, 20 to 25 minutes. Reduce the heat to low, add the kale, and cover. Cook until the kale wilts, 7 to 10 minutes.",
-        "Uncover, add the Parmesan, and heat through for about 5 more minutes. Season to taste with salt and pepper."
+        "In a large soup pot, cook onion and garlic in olive oil over medium heat until soft. Mix in choirico, beans, and potatoes, and then add pork chops to the pot. Season with salt and pepper, and add enough water to the pan to cover all of the ingredients. Bring to a boil, then reduce heat, and simmer until potatoes are tender.",
+        "Once potatoes are tender, taste soup,  add Pimenta Moida and more salt and pepper.  Stir in kale and cabbage, and increase heat  to gently boil.  Kale only needs about 5 minutes.  You may add some water if the soup got too thick, I like this soup on the brothy side."
     ],
     "ingredients": [
-        "2 tablespoons olive oil",
-        "1 pound fresh chorizo",
-        "4 Yukon Gold potatoes, cubed",
-        "1 medium onion, finely chopped",
-        "4 cloves garlic, minced",
-        "8 cups chicken broth",
-        "1 pound kale, stems removed, leaves torn into 1-inch pieces",
-        "1/2 cup grated Parmesan",
-        "Kosher salt and black pepper"
+        "1 medium onion, chopped",
+        "3 cloves garlic, minced",
+        "4 tablespoons olive oil",
+        "1 pound Portuguese chourico, broken into large chunks",
+        "2 (15 ounce) cans kidney beans, drained",
+        "1 (15 ounce) can garbanzo beans, drained",
+        "5 Yukon Gold potatoes, cubed",
+        "2 pork chops",
+        "salt and pepper",
+        "3 tablespoons Pimenta Moida (Portuguese hot chopped peppers)",
+        "1 bunch kale - washed, dried, and shredded",
+        "1/2 head savoy cabbage, shredded"
     ],
     "language": "en-US",
-    "source": "www.foodnetwork.com",
-    "tags": [
-        "Soup",
-        "Kale",
-        "Vegetable",
-        "Chorizo",
-        "Sausage Recipes",
-        "Appetizer"
-    ],
+    "source": "allrecipes.com",
+    "tags": [],
     "title": "Kale Soup",
-    "url": "http://www.foodnetwork.com/recipes/trisha-yearwood/kale-soup"
+    "url": "http://allrecipes.com/recipe/86543/kale-soup/"
 }

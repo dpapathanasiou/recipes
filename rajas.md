@@ -10,3 +10,4 @@
  * [Rustic Tomato Soup With Toasted Cumin And Mini Rajas](index/r/rustic-tomato-soup-with-toasted-cumin-and-mini-rajas-356360.json)
  * [Skirt Steak With Poblano Rajas And Zucchini](index/s/skirt-steak-with-poblano-rajas-and-zucchini-231083.json)
  * [Spiced Chicken Breasts With Poblano And Bell Pepper Rajas](index/s/spiced-chicken-breasts-with-poblano-and-bell-pepper-rajas-356712.json)
+ * [Rajas Poblanas Poblano Strips](index/r/rajas-poblanas-poblano-strips.json)

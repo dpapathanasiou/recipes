@@ -8,3 +8,6 @@
  * [Southwest Chicken Salad With Rice Corn And Chilies](index/s/southwest-chicken-salad-with-rice-corn-and-chilies-105160.json)
  * [Southwest Corn Bread Stuffing With Corn And Green Chilies](index/s/southwest-corn-bread-stuffing-with-corn-and-green-chilies-105807.json)
  * [Southwest Fusilli With Tomatoes Garlic And Chilies](index/s/southwest-fusilli-with-tomatoes-garlic-and-chilies-100961.json)
+ * [Baked Snapper With Chilies Ginger An](index/b/baked-snapper-with-chilies-ginger-an.json)
+ * [Carne Con Chilies](index/c/carne-con-chilies.json)
+ * [Green Chilies Rice](index/g/green-chilies-rice.json)

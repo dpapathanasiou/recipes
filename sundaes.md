@@ -35,3 +35,4 @@
  * [Tropical Sundaes](index/t/tropical-sundaes-2363.json)
  * [Tropical Sundaes](index/t/tropical-sundaes-582.json)
  * [Spanish Coffee And Fudge Sundaes Recipe](index/s/spanish-coffee-and-fudge-sundaes-recipe.json)
+ * [Grilled Fruit Ice Cream Sundaes](index/g/grilled-fruit-ice-cream-sundaes.json)

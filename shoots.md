@@ -6,3 +6,4 @@
  * [To Stir Fry Pea Shoots](index/t/to-stir-fry-pea-shoots-105045.json)
  * [Pan Seared Salmon With Pea Shoots And Watercress](index/p/pan-seared-salmon-with-pea-shoots-and-watercress.json)
  * [Quick Braise Of Spring Peas With Red Onion Shoots](index/q/quick-braise-of-spring-peas-with-red-onion-shoots.json)
+ * [Pea Shoots And Chicken In Garlic Sauc](index/p/pea-shoots-and-chicken-in-garlic-sauc.json)

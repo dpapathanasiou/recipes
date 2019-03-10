@@ -6,3 +6,4 @@
  * [Halibut With Clementine Gremolata](index/h/halibut-with-clementine-gremolata-356311.json)
  * [Clementine Cosmos Recipe](index/c/clementine-cosmos-recipe.json)
  * [Focaccia With Clementine And Fennel](index/f/focaccia-with-clementine-and-fennel.json)
+ * [Chocolate Clementine Cake](index/c/chocolate-clementine-cake.json)

@@ -6,3 +6,7 @@
  * [Jalapeno Tequila Gimlet](index/j/jalapeno-tequila-gimlet-51104680.json)
  * [Lemon Vodka Gimlet](index/l/lemon-vodka-gimlet-200719.json)
  * [Vodka Gimlet Spritzer](index/v/vodka-gimlet-spritzer-200856.json)
+ * [Gimlet Cocktail](index/g/gimlet-cocktail.json)
+ * [Gimlet](index/g/gimlet.json)
+ * [Sour Key Lime Vodka Gimlet](index/s/sour-key-lime-vodka-gimlet.json)
+ * [Vodka Gimlet](index/v/vodka-gimlet.json)

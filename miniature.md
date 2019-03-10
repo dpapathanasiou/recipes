@@ -7,3 +7,7 @@
  * [Miniature Cream Scones With Currants](index/m/miniature-cream-scones-with-currants-10328.json)
  * [Miniature Olive Focaccias With Marinated Peppers](index/m/miniature-olive-focaccias-with-marinated-peppers-14257.json)
  * [Miniature Tartufi](index/m/miniature-tartufi-10367.json)
+ * [Miniature Apple Muffins](index/m/miniature-apple-muffins.json)
+ * [Miniature Cheesecakes](index/m/miniature-cheesecakes.json)
+ * [Miniature Chocolate Eclairs](index/m/miniature-chocolate-eclairs.json)
+ * [Strawberry Rhubarb Miniature Tarts](index/s/strawberry-rhubarb-miniature-tarts.json)

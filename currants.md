@@ -21,3 +21,4 @@
  * [Shaved Brussel Sprouts With Currants And Chestnuts](index/s/shaved-brussel-sprouts-with-currants-and-chestnuts-350427.json)
  * [Sweet And Sour Swiss Chard With Dried Currants](index/s/sweet-and-sour-swiss-chard-with-dried-currants-3045.json)
  * [Warm Cinnamon Apple Tart With Currants](index/w/warm-cinnamon-apple-tart-with-currants-103039.json)
+ * [Chicken Liver Pate With Currants](index/c/chicken-liver-pate-with-currants.json)

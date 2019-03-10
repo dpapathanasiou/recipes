@@ -6,3 +6,4 @@
  * [Strawberry Blueberry Napoleons](index/s/strawberry-blueberry-napoleons-108260.json)
  * [Strawberry Napoleons With Lemon Cream](index/s/strawberry-napoleons-with-lemon-cream-5851.json)
  * [White Chocolate And Summer Berry Napoleons](index/w/white-chocolate-and-summer-berry-napoleons-4071.json)
+ * [Strawberry Napoleons](index/s/strawberry-napoleons.json)

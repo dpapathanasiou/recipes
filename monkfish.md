@@ -8,3 +8,4 @@
  * [Roasted Monkfish With Curried Lentils And Browned Butter Cauliflower](index/r/roasted-monkfish-with-curried-lentils-and-browned-butter-cauliflower-230628.json)
  * [Roasted Monkfish With Fennel Saffron Compote](index/r/roasted-monkfish-with-fennel-saffron-compote-4617.json)
  * [Roasted Monkfish With Saffron Tomato Sauce And Celeriac Mash](index/r/roasted-monkfish-with-saffron-tomato-sauce-and-celeriac-mash-231592.json)
+ * [Thai Monkfish Curry](index/t/thai-monkfish-curry.json)

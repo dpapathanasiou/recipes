@@ -7,3 +7,6 @@
  * [Risotto Milanese Style Risotta Alla Milanese](index/r/risotto-milanese-style-risotta-alla-milanese-51112210.json)
  * [Turkey Cutlets Milanese With Watercress Salad](index/t/turkey-cutlets-milanese-with-watercress-salad-10839.json)
  * [Veal Osso Buco Ossobuco Alla Milanese](index/v/veal-osso-buco-ossobuco-alla-milanese-51112230.json)
+ * [Baked Veal Milanese](index/b/baked-veal-milanese.json)
+ * [Chicken Milanese](index/c/chicken-milanese.json)
+ * [Risotto Alla Milanese](index/r/risotto-alla-milanese.json)

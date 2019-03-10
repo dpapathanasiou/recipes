@@ -9,3 +9,7 @@
  * [Rustic Pear Tart With Late Harvest Riesling](index/r/rustic-pear-tart-with-late-harvest-riesling-107175.json)
  * [Spinach Pear And Green Bean Salad With Riesling Dressing](index/s/spinach-pear-and-green-bean-salad-with-riesling-dressing-15660.json)
  * [Trout In Riesling](index/t/trout-in-riesling-232619.json)
+ * [Coq Au Riesling](index/c/coq-au-riesling.json)
+ * [Grilled Chicken With Mango Riesling M](index/g/grilled-chicken-with-mango-riesling-m.json)
+ * [Pork Chops With A Riesling Peach Sauc](index/p/pork-chops-with-a-riesling-peach-sauc.json)
+ * [Riesling Snapper](index/r/riesling-snapper.json)

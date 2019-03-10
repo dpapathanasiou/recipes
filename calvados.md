@@ -6,3 +6,5 @@
  * [Pork With Apples Calvados And Apple Cider](index/p/pork-with-apples-calvados-and-apple-cider-1797.json)
  * [Rustic Apple Tarts With Calvados Whipped Cream](index/r/rustic-apple-tarts-with-calvados-whipped-cream-235777.json)
  * [Spiced Sugarplum And Caramelized Apple Tartlets With Calvados Cream](index/s/spiced-sugarplum-and-caramelized-apple-tartlets-with-calvados-cream-231328.json)
+ * [Chicken Calvados](index/c/chicken-calvados.json)
+ * [Pan Roasted Halibut With Calvados And](index/p/pan-roasted-halibut-with-calvados-and.json)

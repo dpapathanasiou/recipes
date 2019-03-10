@@ -18,3 +18,7 @@
  * [Baby Bok Choy And Beef Noodle Soup With Warm Spices](index/b/baby-bok-choy-and-beef-noodle-soup-with-warm-spices.json)
  * [Chicken Kabobs With Tandoori Spices](index/c/chicken-kabobs-with-tandoori-spices.json)
  * [Sous Vide Beef With Honey Spices](index/s/sous-vide-beef-with-honey-spices.json)
+ * [Lebanese Seven Spices](index/l/lebanese-seven-spices.json)
+ * [Quick And Easy Spaghetti And Spices](index/q/quick-and-easy-spaghetti-and-spices.json)
+ * [Tourtiere Spices](index/t/tourtiere-spices.json)
+ * [Zucchini Soup With Curry Spices](index/z/zucchini-soup-with-curry-spices.json)

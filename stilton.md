@@ -21,3 +21,6 @@
  * [Stilton Walnut Tarts](index/s/stilton-walnut-tarts-101584.json)
  * [Veal Chops With Caramelized Onion And Stilton Sauce](index/v/veal-chops-with-caramelized-onion-and-stilton-sauce-1820.json)
  * [Rib Eye Steaks With Stilton Sauce Recipe](index/r/rib-eye-steaks-with-stilton-sauce-recipe.json)
+ * [Broccoli And Stilton Soup](index/b/broccoli-and-stilton-soup.json)
+ * [Celery And Stilton Soup](index/c/celery-and-stilton-soup.json)
+ * [Cream Of Cauliflower And Stilton Soup](index/c/cream-of-cauliflower-and-stilton-soup.json)

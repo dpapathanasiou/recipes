@@ -10,3 +10,5 @@
  * [Modern Waldorf Salad](index/m/modern-waldorf-salad-1541.json)
  * [The Modern Martini](index/t/the-modern-martini-51169450.json)
  * [Todds Modern Day Brisket](index/t/todds-modern-day-brisket-51154000.json)
+ * [Modern Colcannon](index/m/modern-colcannon.json)
+ * [Modern Jewish Low Fat Kugel](index/m/modern-jewish-low-fat-kugel.json)

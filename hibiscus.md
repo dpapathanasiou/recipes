@@ -8,3 +8,6 @@
  * [Hibiscus Pavlova With Lemon Hibiscus Cream](index/h/hibiscus-pavlova-with-lemon-hibiscus-cream-56389421.json)
  * [Pineapple Hibiscus Tequila Cocktail](index/p/pineapple-hibiscus-tequila-cocktail.json)
  * [Hibiscus Panna Cotta Recipe](index/h/hibiscus-panna-cotta-recipe.json)
+ * [Agua De Jamaica Hibiscus Water](index/a/agua-de-jamaica-hibiscus-water.json)
+ * [Hibiscus Syrup](index/h/hibiscus-syrup.json)
+ * [Lavender Lemonade With Hibiscus](index/l/lavender-lemonade-with-hibiscus.json)

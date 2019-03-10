@@ -7,3 +7,4 @@
  * [Kir Royale With Vanilla Cognac](index/k/kir-royale-with-vanilla-cognac-201207.json)
  * [Pavlovas With Kir Royale Sorbet And Kiwis](index/p/pavlovas-with-kir-royale-sorbet-and-kiwis-11535.json)
  * [Strawberry Kir Royale](index/s/strawberry-kir-royale-200528.json)
+ * [Kir Royale Cocktail](index/k/kir-royale-cocktail.json)

@@ -21,3 +21,7 @@
  * [Steak And Soba Stir Fry](index/s/steak-and-soba-stir-fry-51155240.json)
  * [Stir Fried Soba Noodles With Beef And Cabbage](index/s/stir-fried-soba-noodles-with-beef-and-cabbage.json)
  * [Sesame Soba Noodles Recipe](index/s/sesame-soba-noodles-recipe.json)
+ * [Shrimp And Soba Noodle Salad](index/s/shrimp-and-soba-noodle-salad.json)
+ * [Soba Noodle Kugel](index/s/soba-noodle-kugel.json)
+ * [Soba Noodle Salad With Chicken And Se](index/s/soba-noodle-salad-with-chicken-and-se.json)
+ * [Soba With Toasted Sesame Seed Sauce](index/s/soba-with-toasted-sesame-seed-sauce.json)

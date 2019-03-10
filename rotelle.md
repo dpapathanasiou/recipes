@@ -4,3 +4,4 @@
  * [Rotelle With Mushroom Sauce](index/r/rotelle-with-mushroom-sauce-11471.json)
  * [Rotelle With Roasted Zucchini And Italian Sausage](index/r/rotelle-with-roasted-zucchini-and-italian-sausage-11467.json)
  * [Rotelle With Summer Tomato And Herb Sauce](index/r/rotelle-with-summer-tomato-and-herb-sauce-12525.json)
+ * [Rotelle Pasta Salad](index/r/rotelle-pasta-salad.json)

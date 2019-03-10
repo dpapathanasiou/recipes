@@ -8,3 +8,7 @@
  * [Gingery Watermelon Petit Fours](index/g/gingery-watermelon-petit-fours.json)
  * [Petit Fours Recipe](index/p/petit-fours-recipe.json)
  * [Pumpkin Cheesecake Petits Fours Recipe](index/p/pumpkin-cheesecake-petits-fours-recipe.json)
+ * [Frosting For Petits Fours](index/f/frosting-for-petits-fours.json)
+ * [Japanese Green Tea Petits Fours](index/j/japanese-green-tea-petits-fours.json)
+ * [Petits Fours Frosting](index/p/petits-fours-frosting.json)
+ * [Petits Fours](index/p/petits-fours.json)

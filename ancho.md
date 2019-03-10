@@ -25,3 +25,7 @@
  * [Wild Mushroom Enchiladas With Ancho Chili Cream Sauce](index/w/wild-mushroom-enchiladas-with-ancho-chili-cream-sauce-4097.json)
  * [Ancho Chili Fajitas](index/a/ancho-chili-fajitas.json)
  * [Ancho Short Rib Tacos With Pickled Red Onions](index/a/ancho-short-rib-tacos-with-pickled-red-onions.json)
+ * [Ancho Chile Rubbed Venison Steaks Wit](index/a/ancho-chile-rubbed-venison-steaks-wit.json)
+ * [Ancho Chipotle Salsa](index/a/ancho-chipotle-salsa.json)
+ * [Ancho Honey Mustard Sauce](index/a/ancho-honey-mustard-sauce.json)
+ * [Lamb Shanks With Ancho Chile Honey Gl](index/l/lamb-shanks-with-ancho-chile-honey-gl.json)

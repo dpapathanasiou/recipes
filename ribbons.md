@@ -7,3 +7,5 @@
  * [Spiced Chocolate Torte Wrapped In Chocolate Ribbons](index/s/spiced-chocolate-torte-wrapped-in-chocolate-ribbons.json)
  * [Vegetable Ribbons With Horseradish Lemon Butter](index/v/vegetable-ribbons-with-horseradish-lemon-butter-11782.json)
  * [Zucchini Ribbons With Tarragon](index/z/zucchini-ribbons-with-tarragon-242587.json)
+ * [Raspberry Ribbons](index/r/raspberry-ribbons.json)
+ * [Zucchini Ribbons With Goat Cheese](index/z/zucchini-ribbons-with-goat-cheese.json)

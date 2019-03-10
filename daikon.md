@@ -11,3 +11,7 @@
  * [Smoked Salmon Watercress And Daikon Salad With Ginger Vinaigrette](index/s/smoked-salmon-watercress-and-daikon-salad-with-ginger-vinaigrette-12374.json)
  * [Vietnamese Sticky Chicken With Daikon And Carrot Pickle](index/v/vietnamese-sticky-chicken-with-daikon-and-carrot-pickle-231644.json)
  * [Watercress Bell Pepper And Daikon Radish Salad](index/w/watercress-bell-pepper-and-daikon-radish-salad-10954.json)
+ * [Agave Mustard Daikon Radish Salad](index/a/agave-mustard-daikon-radish-salad.json)
+ * [Namasu Rice Salad With Pickled Daikon](index/n/namasu-rice-salad-with-pickled-daikon.json)
+ * [Pan Fried Daikon Cake](index/p/pan-fried-daikon-cake.json)
+ * [Pickled Daikon Radish And Carrot](index/p/pickled-daikon-radish-and-carrot.json)

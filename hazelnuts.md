@@ -23,3 +23,4 @@
  * [Vanilla Scented Pear Strudel With Hazelnuts And Chocolate Sauce](index/v/vanilla-scented-pear-strudel-with-hazelnuts-and-chocolate-sauce-105460.json)
  * [Warm Endive Salad With Parmesan And Hazelnuts](index/w/warm-endive-salad-with-parmesan-and-hazelnuts-107266.json)
  * [Vanilla Gelato Bites With Chocolate And Hazelnuts Recipe](index/v/vanilla-gelato-bites-with-chocolate-and-hazelnuts-recipe.json)
+ * [Green Beans With Hazelnuts And Lemon](index/g/green-beans-with-hazelnuts-and-lemon.json)

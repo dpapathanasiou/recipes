@@ -19,3 +19,7 @@
  * [Tuna Burgers Nicoise](index/t/tuna-burgers-nicoise-4218.json)
  * [Tuna Nicoise Fusilli](index/t/tuna-nicoise-fusilli-106807.json)
  * [Roasted Salmon Nicoise Platter Recipe](index/r/roasted-salmon-nicoise-platter-recipe.json)
+ * [Nicoise Salad](index/n/nicoise-salad.json)
+ * [Nicoise Style Tuna Salad With White B](index/n/nicoise-style-tuna-salad-with-white-b.json)
+ * [Salad Nicoise](index/s/salad-nicoise.json)
+ * [Tuna Nicoise Salad With Dijon Vinaigr](index/t/tuna-nicoise-salad-with-dijon-vinaigr.json)

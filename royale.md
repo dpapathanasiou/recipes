@@ -12,3 +12,6 @@
  * [Peach Royale](index/p/peach-royale-353390.json)
  * [Pimms Royale Punch](index/p/pimms-royale-punch-56389839.json)
  * [Strawberry Kir Royale](index/s/strawberry-kir-royale-200528.json)
+ * [Banana Royale](index/b/banana-royale.json)
+ * [Eggnog Royale](index/e/eggnog-royale.json)
+ * [Kir Royale Cocktail](index/k/kir-royale-cocktail.json)

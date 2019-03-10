@@ -9,3 +9,5 @@
  * [Shellfish Stew Provencale](index/s/shellfish-stew-provencale-11300.json)
  * [Short Ribs Provencale With Creme Fraiche Mashed Potatoes](index/s/short-ribs-provencale-with-creme-fraiche-mashed-potatoes-106096.json)
  * [Shrimp Provencale](index/s/shrimp-provencale-103617.json)
+ * [Scallops Provencale](index/s/scallops-provencale.json)
+ * [Tarte Provencale](index/t/tarte-provencale.json)

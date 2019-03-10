@@ -6,3 +6,6 @@
  * [Layered Pickled Herring Salad With Tart Apples And Red Onion](index/l/layered-pickled-herring-salad-with-tart-apples-and-red-onion-3004.json)
  * [Mackerel Herring Style With Cucumber And Bibb Lettuce Vinaigrette](index/m/mackerel-herring-style-with-cucumber-and-bibb-lettuce-vinaigrette-231042.json)
  * [Pickled Herring Canapes](index/p/pickled-herring-canapes-10384.json)
+ * [Pickled Herring And Cucumber Salad](index/p/pickled-herring-and-cucumber-salad.json)
+ * [Russian Beet Salad With Herring](index/r/russian-beet-salad-with-herring.json)
+ * [Sledzie W Jogurcie Herring In Yogurt](index/s/sledzie-w-jogurcie-herring-in-yogurt.json)
