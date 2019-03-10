@@ -2,11 +2,11 @@
 
 This is a collection of recipes in [json format](http://json.org/) generated using the [recipebook](https://github.com/dpapathanasiou/recipebook) application.
 
-# [Index](index)
+# Alphabetical Index
 
-An alphabetical listing by recipe title
+An [alphabetical listing](index) by recipe title
 
-# Ingredient Index
+# Component Index
 
 Grouped by ingredient, region, chef, or style
 
