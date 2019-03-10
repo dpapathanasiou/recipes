@@ -14,3 +14,5 @@
  * [Instant Pot Vietnamese Chicken Noodle Soup Pho Ga](index/i/instant-pot-vietnamese-chicken-noodle-soup-pho-ga.json)
  * [Instant Veal Piccata](index/i/instant-veal-piccata-92.json)
  * [Jill Nussinows Smoky Sweet Black Eyed Peas And Greens For The Instant Pot](index/j/jill-nussinows-smoky-sweet-black-eyed-peas-and-greens-for-the-instant-pot.json)
+ * [Instant Chocolate Cake Recipe](index/i/instant-chocolate-cake-recipe.json)
+ * [Instant Pancake Mix Recipe](index/i/instant-pancake-mix-recipe.json)

@@ -49,3 +49,8 @@
  * [Three Cheese Chicken Breasts In Tomato Sauce](index/t/three-cheese-chicken-breasts-in-tomato-sauce-434.json)
  * [Sauteed Chicken Breasts With Fava Beans And Green Garlic](index/s/sauteed-chicken-breasts-with-fava-beans-and-green-garlic.json)
  * [Spinach And Cheese Stuffed Chicken Breasts](index/s/spinach-and-cheese-stuffed-chicken-breasts.json)
+ * [Baked Chicken Breasts With Parmesan Crust Recipe](index/b/baked-chicken-breasts-with-parmesan-crust-recipe.json)
+ * [Grilled Chicken Breasts With Shiitake Mushroom Vinaigrette Recipe](index/g/grilled-chicken-breasts-with-shiitake-mushroom-vinaigrette-recipe.json)
+ * [Lemon Chicken Breasts Recipe](index/l/lemon-chicken-breasts-recipe.json)
+ * [Spicy Kale And Corn Stuffed Chicken Breasts Recipe](index/s/spicy-kale-and-corn-stuffed-chicken-breasts-recipe.json)
+ * [Spinach And Mushroom Stuffed Chicken Breasts Recipe](index/s/spinach-and-mushroom-stuffed-chicken-breasts-recipe.json)

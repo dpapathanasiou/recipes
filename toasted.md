@@ -109,3 +109,7 @@
  * [Wild Rice And Toasted Almond Pilaf](index/w/wild-rice-and-toasted-almond-pilaf-106282.json)
  * [Wild Rice With Roasted Peppers And Toasted Almonds](index/w/wild-rice-with-roasted-peppers-and-toasted-almonds-236380.json)
  * [Yukon Gold Potato Salad With Chiles Cilantro And Toasted Cumin](index/y/yukon-gold-potato-salad-with-chiles-cilantro-and-toasted-cumin-242717.json)
+ * [Green Beans With Toasted Almonds Recipe](index/g/green-beans-with-toasted-almonds-recipe.json)
+ * [Toasted Cecchi Almonds And Pistachios Recipe](index/t/toasted-cecchi-almonds-and-pistachios-recipe.json)
+ * [Toasted Israeli Couscous Salad With Grilled Summer Vegetables Recipe2](index/t/toasted-israeli-couscous-salad-with-grilled-summer-vegetables-recipe2.json)
+ * [Toasted Millet Tabbouleh](index/t/toasted-millet-tabbouleh.json)

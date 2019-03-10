@@ -36,3 +36,5 @@
  * [Spanish Style Shrimp And Scallop Salad](index/s/spanish-style-shrimp-and-scallop-salad-10336.json)
  * [Spinach And Scallop Soup](index/s/spinach-and-scallop-soup-4291.json)
  * [Tarragon Scallop Gratins](index/t/tarragon-scallop-gratins-1041.json)
+ * [Scallop Ceviche Recipe](index/s/scallop-ceviche-recipe.json)
+ * [Shrimp And Scallop Scampi With Linguine Recipe](index/s/shrimp-and-scallop-scampi-with-linguine-recipe.json)

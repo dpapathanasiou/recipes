@@ -59,3 +59,5 @@
  * [Warm Sweet Potato Pudding With Apples And Chestnuts](index/w/warm-sweet-potato-pudding-with-apples-and-chestnuts-241188.json)
  * [Wild Rice Dressing With Apples And Chestnuts](index/w/wild-rice-dressing-with-apples-and-chestnuts-236540.json)
  * [Pork Shoulder With Sauerkraut And Apples](index/p/pork-shoulder-with-sauerkraut-and-apples.json)
+ * [Baked Apples](index/b/baked-apples.json)
+ * [Pork Chops With Apples And Garlic Smashed Potatoes Recipe](index/p/pork-chops-with-apples-and-garlic-smashed-potatoes-recipe.json)

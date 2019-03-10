@@ -15,3 +15,5 @@
  * [Slow Roasted Pork Shoulder With Mustard And Sage](index/s/slow-roasted-pork-shoulder-with-mustard-and-sage-51224010.json)
  * [Veal Shoulder With Porcini Mushrooms Garlic And Rosemary](index/v/veal-shoulder-with-porcini-mushrooms-garlic-and-rosemary-103266.json)
  * [Pork Shoulder With Sauerkraut And Apples](index/p/pork-shoulder-with-sauerkraut-and-apples.json)
+ * [Neelys Pork Shoulder Recipe](index/n/neelys-pork-shoulder-recipe.json)
+ * [Simple Roasted Pork Shoulder Recipe](index/s/simple-roasted-pork-shoulder-recipe.json)

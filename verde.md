@@ -47,3 +47,6 @@
  * [Turkey Chili Verde](index/t/turkey-chili-verde-492.json)
  * [Chili Verde](index/c/chili-verde.json)
  * [Grilled Beef With Salsa Verde](index/g/grilled-beef-with-salsa-verde.json)
+ * [Pork Chili Verde Recipe0](index/p/pork-chili-verde-recipe0.json)
+ * [Tortilla Omelet Burrito With Pulled Chicken And Salsa Verde](index/t/tortilla-omelet-burrito-with-pulled-chicken-and-salsa-verde.json)
+ * [Verde Mary](index/v/verde-mary.json)

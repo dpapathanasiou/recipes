@@ -15,3 +15,4 @@
  * [Saffron Chicken Broth With Spinach Matzo Balls](index/s/saffron-chicken-broth-with-spinach-matzo-balls-231865.json)
  * [Sweet Matzo And Cottage Cheese Pudding](index/s/sweet-matzo-and-cottage-cheese-pudding-103340.json)
  * [Sweet Potato Matzo Ball Tzimmes With Apricot Sauce](index/s/sweet-potato-matzo-ball-tzimmes-with-apricot-sauce-3143.json)
+ * [Matzo Balls Recipe](index/m/matzo-balls-recipe.json)

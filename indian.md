@@ -46,3 +46,7 @@
  * [Indian Style Spiced Greens With Paneer](index/i/indian-style-spiced-greens-with-paneer.json)
  * [Indian Vegetable Curry](index/i/indian-vegetable-curry.json)
  * [Roasted Root Vegetables With Indian Curry And Cilantro](index/r/roasted-root-vegetables-with-indian-curry-and-cilantro.json)
+ * [Extra Crispy Indian Spiced Chicken Wings](index/e/extra-crispy-indian-spiced-chicken-wings.json)
+ * [Indian Summer Turkey Chili Recipe](index/i/indian-summer-turkey-chili-recipe.json)
+ * [Naan Indian Oven Baked Flat Bread Recipe](index/n/naan-indian-oven-baked-flat-bread-recipe.json)
+ * [Young Suns Indian Spinach And Chickpea Fritters Recipe](index/y/young-suns-indian-spinach-and-chickpea-fritters-recipe.json)

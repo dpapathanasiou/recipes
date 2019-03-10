@@ -139,3 +139,5 @@
  * [Almond Pavlova With Strawberry Rhubarb Compote](index/a/almond-pavlova-with-strawberry-rhubarb-compote.json)
  * [Olive Oil Almond Cake](index/o/olive-oil-almond-cake.json)
  * [Orange Scented Almond Torte](index/o/orange-scented-almond-torte.json)
+ * [Cherry Almond Clafouti Recipe](index/c/cherry-almond-clafouti-recipe.json)
+ * [Strawberry And Almond Cream Parfait Recipe](index/s/strawberry-and-almond-cream-parfait-recipe.json)

@@ -27,3 +27,6 @@
  * [Standing Rib Roast With Potatoes And Portobello Mushrooms](index/s/standing-rib-roast-with-potatoes-and-portobello-mushrooms-13630.json)
  * [Stuffed Portobello Mushrooms](index/s/stuffed-portobello-mushrooms-363381.json)
  * [Toasted Barley Salad With Red Bell Pepper Corn And Grilled Portobello Mushrooms](index/t/toasted-barley-salad-with-red-bell-pepper-corn-and-grilled-portobello-mushrooms-5657.json)
+ * [Portobello Mushroom Lasagna Recipe](index/p/portobello-mushroom-lasagna-recipe.json)
+ * [Portobello Mushrooms Recipe](index/p/portobello-mushrooms-recipe.json)
+ * [Vegetable Napoleon With Grilled Portobello Mushroom And Tomato Basil Bisque Recipe](index/v/vegetable-napoleon-with-grilled-portobello-mushroom-and-tomato-basil-bisque-recipe.json)

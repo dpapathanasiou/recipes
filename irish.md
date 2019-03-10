@@ -21,3 +21,5 @@
  * [Popover Pudding With Irish Bacon](index/p/popover-pudding-with-irish-bacon-15781.json)
  * [Standing Rib Roast Spinach Porcini Stuffing Irish Whiskey Gravy And Horseradish Cream](index/s/standing-rib-roast-spinach-porcini-stuffing-irish-whiskey-gravy-and-horseradish-cream-350767.json)
  * [Ultra Buttery Irish Scones](index/u/ultra-buttery-irish-scones-56389333.json)
+ * [Irish Eggnog Recipe](index/i/irish-eggnog-recipe.json)
+ * [Original Irish Coffee Recipe](index/o/original-irish-coffee-recipe.json)

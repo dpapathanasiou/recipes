@@ -16,3 +16,4 @@
  * [Veal Carrot And Chestnut Ragout](index/v/veal-carrot-and-chestnut-ragout-4671.json)
  * [Warm Chestnut And Apple Salad](index/w/warm-chestnut-and-apple-salad-232871.json)
  * [Chestnut And Sausage Dressing](index/c/chestnut-and-sausage-dressing.json)
+ * [Chocolate Chestnut Tortelli Christmas Cookies Recipe](index/c/chocolate-chestnut-tortelli-christmas-cookies-recipe.json)

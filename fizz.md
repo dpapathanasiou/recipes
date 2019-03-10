@@ -18,3 +18,5 @@
  * [Strawberry Margarita Fizz](index/s/strawberry-margarita-fizz-200662.json)
  * [Vodka Rosemary Lemonade Fizz](index/v/vodka-rosemary-lemonade-fizz-352869.json)
  * [Honey Tangerine Fizz](index/h/honey-tangerine-fizz.json)
+ * [Cosmopolitan Fizz Punch](index/c/cosmopolitan-fizz-punch.json)
+ * [Cucumber And Lime Gin Fizz Recipe](index/c/cucumber-and-lime-gin-fizz-recipe.json)

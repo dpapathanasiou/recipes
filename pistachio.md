@@ -69,3 +69,5 @@
  * [Strawberry Pistachio Mille Feuillantines](index/s/strawberry-pistachio-mille-feuillantines-14025.json)
  * [Warm Chocolate Souffles With Pistachio Ice Cream](index/w/warm-chocolate-souffles-with-pistachio-ice-cream-5901.json)
  * [Yogurt With Pistachio Brittle](index/y/yogurt-with-pistachio-brittle-51170850.json)
+ * [Chocolate Pistachio Fudge Tart](index/c/chocolate-pistachio-fudge-tart.json)
+ * [Individual Pistachio Bundt Cakes With Lemon Curd Filling](index/i/individual-pistachio-bundt-cakes-with-lemon-curd-filling.json)

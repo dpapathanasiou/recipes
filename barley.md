@@ -33,3 +33,6 @@
  * [Beef With Mushrooms And Barley](index/b/beef-with-mushrooms-and-barley.json)
  * [Hree Peas Barley Chili Garlic](index/h/hree-peas-barley-chili-garlic.json)
  * [Savory Barley Soup With Wild Mushrooms And Thyme](index/s/savory-barley-soup-with-wild-mushrooms-and-thyme.json)
+ * [Barley Risotto With Roasted Winter Vegetables Recipe](index/b/barley-risotto-with-roasted-winter-vegetables-recipe.json)
+ * [Rich Beef Barley Soup Recipe](index/r/rich-beef-barley-soup-recipe.json)
+ * [Slow Cooker Beef And Barley Recipe](index/s/slow-cooker-beef-and-barley-recipe.json)

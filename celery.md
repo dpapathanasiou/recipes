@@ -72,3 +72,5 @@
  * [Watercress And Frisee Salad With Green Apple And Celery Root](index/w/watercress-and-frisee-salad-with-green-apple-and-celery-root-243609.json)
  * [Watercress Celery And Parsley Salad](index/w/watercress-celery-and-parsley-salad-10037.json)
  * [Watercress Celery And Red Onion Salad](index/w/watercress-celery-and-red-onion-salad-13045.json)
+ * [Braised Celery Recipe](index/b/braised-celery-recipe.json)
+ * [Lemon Herb Grilled Chicken With Apple Celery And Snap Pea Slaw](index/l/lemon-herb-grilled-chicken-with-apple-celery-and-snap-pea-slaw.json)

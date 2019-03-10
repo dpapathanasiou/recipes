@@ -10,3 +10,6 @@
  * [Holiday Salad](index/h/holiday-salad-241231.json)
  * [Spiced Holiday Nuts](index/s/spiced-holiday-nuts-15665.json)
  * [Tropical Holiday Crowns](index/t/tropical-holiday-crowns-14537.json)
+ * [Bobbys Vanilla Holiday Nog Recipe](index/b/bobbys-vanilla-holiday-nog-recipe.json)
+ * [Holiday Party Punch Recipe](index/h/holiday-party-punch-recipe.json)
+ * [Sunnys Holiday Parsnip Puree Recipe](index/s/sunnys-holiday-parsnip-puree-recipe.json)

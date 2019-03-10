@@ -8,3 +8,6 @@
  * [Yukon Gold And Sweet Potato Home Fries](index/y/yukon-gold-and-sweet-potato-home-fries-368473.json)
  * [Breakfast Skillet With Green Onion Home Fries](index/b/breakfast-skillet-with-green-onion-home-fries.json)
  * [Moms Home Style Pot Roast](index/m/moms-home-style-pot-roast.json)
+ * [Home Fries With Zaatar Red Chile Cilantro Lime And Clove Scented Ketchup](index/h/home-fries-with-zaatar-red-chile-cilantro-lime-and-clove-scented-ketchup.json)
+ * [Oven Home Fries With Peppers And Onions Recipe](index/o/oven-home-fries-with-peppers-and-onions-recipe.json)
+ * [Sarladaise Home Fries](index/s/sarladaise-home-fries.json)

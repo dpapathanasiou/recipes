@@ -31,3 +31,4 @@
  * [Warm Frisee Lardon Salade With Poached Eggs In Red Wine Sauce](index/w/warm-frisee-lardon-salade-with-poached-eggs-in-red-wine-sauce-241765.json)
  * [Warm Frisee Salad With Fingerlings And Bacon](index/w/warm-frisee-salad-with-fingerlings-and-bacon-234418.json)
  * [Watercress And Frisee Salad With Green Apple And Celery Root](index/w/watercress-and-frisee-salad-with-green-apple-and-celery-root-243609.json)
+ * [Frisee Salad With Egg And Bacon](index/f/frisee-salad-with-egg-and-bacon.json)

@@ -45,3 +45,7 @@
  * [Beef Ribs With Barbecue Sauce](index/b/beef-ribs-with-barbecue-sauce.json)
  * [Korean Style Barbecue Short Ribs](index/k/korean-style-barbecue-short-ribs.json)
  * [Stuffed Barbecue Burgers With Beer Cheddar Fondue](index/s/stuffed-barbecue-burgers-with-beer-cheddar-fondue.json)
+ * [Foolproof Ribs With Barbecue Sauce](index/f/foolproof-ribs-with-barbecue-sauce.json)
+ * [New Orleans Barbecue Shrimp Dip](index/n/new-orleans-barbecue-shrimp-dip.json)
+ * [Pulled Pork Barbecue Recipe](index/p/pulled-pork-barbecue-recipe.json)
+ * [Slow Cooker Barbecue Brisket](index/s/slow-cooker-barbecue-brisket.json)

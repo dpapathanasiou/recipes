@@ -22,3 +22,6 @@
  * [Prune Armagnac Gingerbread](index/p/prune-armagnac-gingerbread-11624.json)
  * [Real Gingerbread](index/r/real-gingerbread-237680.json)
  * [Rich And Sticky Gingerbread With Marmalade](index/r/rich-and-sticky-gingerbread-with-marmalade-109496.json)
+ * [Gingerbread Cookies For The Holidays Recipe](index/g/gingerbread-cookies-for-the-holidays-recipe.json)
+ * [Gingerbread Cookies With Royal Icing Recipe](index/g/gingerbread-cookies-with-royal-icing-recipe.json)
+ * [Gingerbread House Recipe](index/g/gingerbread-house-recipe.json)

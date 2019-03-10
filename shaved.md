@@ -25,3 +25,4 @@
  * [Wild Arugula Salad With Garlic Croutons Shaved Parmesan And Lemon](index/w/wild-arugula-salad-with-garlic-croutons-shaved-parmesan-and-lemon-242507.json)
  * [Shaved Asparagus   Herb Pizza With Egg](index/s/shaved-asparagus---herb-pizza-with-egg.json)
  * [Shaved Rhubarb Salad With Almonds And Cheese](index/s/shaved-rhubarb-salad-with-almonds-and-cheese.json)
+ * [Arugula Salad With White Truffle Oil Marcona Almonds And Shaved Parmesan](index/a/arugula-salad-with-white-truffle-oil-marcona-almonds-and-shaved-parmesan.json)

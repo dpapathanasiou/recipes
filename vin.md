@@ -8,3 +8,4 @@
  * [Vin Dorange Orange Wine](index/v/vin-dorange-orange-wine-104772.json)
  * [Vin Santo Zabaglione With Orange And Grapefruit](index/v/vin-santo-zabaglione-with-orange-and-grapefruit-104659.json)
  * [Slow Cooker Coq Au Vin](index/s/slow-cooker-coq-au-vin.json)
+ * [Coq Au Vin Recipe4](index/c/coq-au-vin-recipe4.json)

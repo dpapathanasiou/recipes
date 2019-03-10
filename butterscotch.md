@@ -11,3 +11,5 @@
  * [Sweet Corn Ice Cream With Butterscotch](index/s/sweet-corn-ice-cream-with-butterscotch.json)
  * [Toasted Marshmallow Butterscotch Pie](index/t/toasted-marshmallow-butterscotch-pie.json)
  * [Upside Down Butterscotch Apple Sour Cream Cake](index/u/upside-down-butterscotch-apple-sour-cream-cake-234162.json)
+ * [Butterscotch Love Cake](index/b/butterscotch-love-cake.json)
+ * [Butterscotch Pudding](index/b/butterscotch-pudding.json)

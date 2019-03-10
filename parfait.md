@@ -8,3 +8,6 @@
  * [Strawberry Red Currant Parfait](index/s/strawberry-red-currant-parfait-238667.json)
  * [Strawberry Ricotta Parfait](index/s/strawberry-ricotta-parfait-237143.json)
  * [White Chocolate Blackberry Parfait](index/w/white-chocolate-blackberry-parfait-763.json)
+ * [Best Yogurt Parfait Ever](index/b/best-yogurt-parfait-ever.json)
+ * [Strawberry And Almond Cream Parfait Recipe](index/s/strawberry-and-almond-cream-parfait-recipe.json)
+ * [Yogurt Berry Parfait Recipe](index/y/yogurt-berry-parfait-recipe.json)

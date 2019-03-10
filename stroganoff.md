@@ -7,3 +7,5 @@
  * [Vegan Pasta Alfredo With Stroganoff](index/v/vegan-pasta-alfredo-with-stroganoff.json)
  * [Beef Stroganoff](index/b/beef-stroganoff.json)
  * [Steak And Mushroom Stroganoff](index/s/steak-and-mushroom-stroganoff.json)
+ * [Beef Stroganoff Recipe](index/b/beef-stroganoff-recipe.json)
+ * [Beef Stroganoff](index/b/beef-stroganoff.json)

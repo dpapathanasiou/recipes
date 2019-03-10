@@ -8,3 +8,6 @@
  * [Flourless Chocolate Orange Almond Cake](index/f/flourless-chocolate-orange-almond-cake-109404.json)
  * [Flourless Lemon Almond Cake](index/f/flourless-lemon-almond-cake-385.json)
  * [Flourless Pistachio Cake With Strawberry Meringue](index/f/flourless-pistachio-cake-with-strawberry-meringue-56389337.json)
+ * [Chocolate Cracked Earth Flourless Chocolate Cake Recipe](index/c/chocolate-cracked-earth-flourless-chocolate-cake-recipe.json)
+ * [Flourless Chocolate Cake Recipe](index/f/flourless-chocolate-cake-recipe.json)
+ * [Flourless Peanut Butter Cookies Recipe](index/f/flourless-peanut-butter-cookies-recipe.json)

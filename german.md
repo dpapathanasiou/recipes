@@ -7,3 +7,7 @@
  * [German Style Fried Potatoes](index/g/german-style-fried-potatoes-355207.json)
  * [German Style Potato And Ham Salad](index/g/german-style-potato-and-ham-salad-235017.json)
  * [German Style Stuffed Kohlrabi](index/g/german-style-stuffed-kohlrabi-10663.json)
+ * [German Chocolate Cake](index/g/german-chocolate-cake.json)
+ * [German Chocolate Cupcakes Recipe](index/g/german-chocolate-cupcakes-recipe.json)
+ * [German Potato Salad](index/g/german-potato-salad.json)
+ * [Sunnys German Chocolate Cake Cookies Recipe](index/s/sunnys-german-chocolate-cake-cookies-recipe.json)

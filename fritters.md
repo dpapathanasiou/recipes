@@ -36,3 +36,7 @@
  * [Zucchini Fritters](index/z/zucchini-fritters-51175210.json)
  * [Zucchini Fritters With Herbs And Cheese](index/z/zucchini-fritters-with-herbs-and-cheese-106460.json)
  * [Zucchini Herb Fritters With Garlic Yogurt](index/z/zucchini-herb-fritters-with-garlic-yogurt-56389547.json)
+ * [Apple Fritters](index/a/apple-fritters.json)
+ * [Black Eyed Pea Fritters](index/b/black-eyed-pea-fritters.json)
+ * [Corn Fritters](index/c/corn-fritters.json)
+ * [Young Suns Indian Spinach And Chickpea Fritters Recipe](index/y/young-suns-indian-spinach-and-chickpea-fritters-recipe.json)

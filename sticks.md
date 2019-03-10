@@ -8,3 +8,4 @@
  * [Pickled Carrot Sticks](index/p/pickled-carrot-sticks-108763.json)
  * [Pimento Cheese Sticks](index/p/pimento-cheese-sticks-108087.json)
  * [Sweet Potato Sticks With Mustard Seeds And Ginger](index/s/sweet-potato-sticks-with-mustard-seeds-and-ginger-233007.json)
+ * [Fish Sticks With Marinara Sauce Recipe](index/f/fish-sticks-with-marinara-sauce-recipe.json)

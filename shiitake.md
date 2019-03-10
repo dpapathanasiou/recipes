@@ -49,3 +49,4 @@
  * [Braise Beef Onion Shiitake Olive](index/b/braise-beef-onion-shiitake-olive.json)
  * [Chateaubriand With Shiitake Mushroom Rub](index/c/chateaubriand-with-shiitake-mushroom-rub.json)
  * [Korean Beef And Shiitake Skewers](index/k/korean-beef-and-shiitake-skewers.json)
+ * [Grilled Chicken Breasts With Shiitake Mushroom Vinaigrette Recipe](index/g/grilled-chicken-breasts-with-shiitake-mushroom-vinaigrette-recipe.json)

@@ -27,3 +27,5 @@
  * [Wasabi Mashed Potatoes](index/w/wasabi-mashed-potatoes-101027.json)
  * [Wasabi Salmon With Bok Choy Green Cabbage And Shiitakes](index/w/wasabi-salmon-with-bok-choy-green-cabbage-and-shiitakes-394719.json)
  * [Wasabi Shrimp Crackers](index/w/wasabi-shrimp-crackers-231173.json)
+ * [Petite Filet With Wasabi Cream](index/p/petite-filet-with-wasabi-cream.json)
+ * [Seared Ahi Tuna And Salad Of Mixed Greens With Wasabi Vinaigrette Recipe](index/s/seared-ahi-tuna-and-salad-of-mixed-greens-with-wasabi-vinaigrette-recipe.json)

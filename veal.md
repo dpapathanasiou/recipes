@@ -108,3 +108,4 @@
  * [Veal With Whipped Parsnips And Mushroom Cream Sauce](index/v/veal-with-whipped-parsnips-and-mushroom-cream-sauce-5351.json)
  * [Vegetable Stuffed Loin Of Veal With Sweetbreads](index/v/vegetable-stuffed-loin-of-veal-with-sweetbreads-109214.json)
  * [White Veal Stock](index/w/white-veal-stock-10442.json)
+ * [Veal Or Turkey And Spinach Manicotti Recipe](index/v/veal-or-turkey-and-spinach-manicotti-recipe.json)

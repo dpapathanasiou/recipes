@@ -62,3 +62,7 @@
  * [Yellow Lentil Soup](index/y/yellow-lentil-soup-235451.json)
  * [Lentil Potato And Spinach Curry](index/l/lentil-potato-and-spinach-curry.json)
  * [Red Chief Lentil Leek Soup](index/r/red-chief-lentil-leek-soup.json)
+ * [Lentil Sausage Soup Recipe](index/l/lentil-sausage-soup-recipe.json)
+ * [Lentil Soup Recipe](index/l/lentil-soup-recipe.json)
+ * [Lentil Vegetable Soup Recipe](index/l/lentil-vegetable-soup-recipe.json)
+ * [Sausage Kale And Lentil Soup Recipe](index/s/sausage-kale-and-lentil-soup-recipe.json)

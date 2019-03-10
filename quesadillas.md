@@ -20,3 +20,7 @@
  * [Spicy Chicken Eggplant And Red Onion Quesadillas](index/s/spicy-chicken-eggplant-and-red-onion-quesadillas-4263.json)
  * [Sweet Onion Quesadillas](index/s/sweet-onion-quesadillas-11920.json)
  * [Vegetable Quesadillas With Fresh Salsa](index/v/vegetable-quesadillas-with-fresh-salsa-51144400.json)
+ * [Chicken Quesadillas](index/c/chicken-quesadillas.json)
+ * [Chorizo And Shrimp Quesadillas With Smoky Guacamole Recipe](index/c/chorizo-and-shrimp-quesadillas-with-smoky-guacamole-recipe.json)
+ * [Rib Eye Quesadillas](index/r/rib-eye-quesadillas.json)
+ * [Roasted Poblano Quesadillas Recipe](index/r/roasted-poblano-quesadillas-recipe.json)

@@ -16,3 +16,5 @@
  * [Scalloped Squash Red Pepper And Corn Gratin With Cheddar Crust](index/s/scalloped-squash-red-pepper-and-corn-gratin-with-cheddar-crust-233167.json)
  * [Scalloped Turkey](index/s/scalloped-turkey-20021.json)
  * [Scalloped Yukon Gold And Sweet Potato Gratin With Fresh Herbs](index/s/scalloped-yukon-gold-and-sweet-potato-gratin-with-fresh-herbs-350455.json)
+ * [Scalloped Potato Gratin Recipe](index/s/scalloped-potato-gratin-recipe.json)
+ * [Scalloped Potatoes And Ham](index/s/scalloped-potatoes-and-ham.json)

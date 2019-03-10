@@ -7,3 +7,5 @@
  * [Veal Saltimbocca Saltimbocca Alla Romana](index/v/veal-saltimbocca-saltimbocca-alla-romana-51112240.json)
  * [Veal Saltimbocca Saltimbocca Alla Romana](index/v/veal-saltimbocca-saltimbocca-alla-romana-51112240.json)
  * [Veal Scaloppine Saltimbocca](index/v/veal-scaloppine-saltimbocca-107087.json)
+ * [Chicken Saltimbocca Recipe](index/c/chicken-saltimbocca-recipe.json)
+ * [Chicken Saltimbocca](index/c/chicken-saltimbocca.json)

@@ -8,3 +8,4 @@
  * [Sirloin Kebabs With Southeast Asian Style Spice Paste](index/s/sirloin-kebabs-with-southeast-asian-style-spice-paste-238706.json)
  * [Sirloin Steaks With Potatoes And Spicy Chili Butter](index/s/sirloin-steaks-with-potatoes-and-spicy-chili-butter-5716.json)
  * [Top Sirloin Steak With Bell Pepper And Onion Saute](index/t/top-sirloin-steak-with-bell-pepper-and-onion-saute-2314.json)
+ * [Hearty Sirloin Chili Recipe](index/h/hearty-sirloin-chili-recipe.json)

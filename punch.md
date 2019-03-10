@@ -67,3 +67,7 @@
  * [Under The Mistletoe Punch](index/u/under-the-mistletoe-punch.json)
  * [Voodoo Rum Punch Aka The Glastonbury Zombie](index/v/voodoo-rum-punch-aka-the-glastonbury-zombie-51167600.json)
  * [Warm Milk Punch With Indian Spices](index/w/warm-milk-punch-with-indian-spices-200519.json)
+ * [Cosmopolitan Fizz Punch](index/c/cosmopolitan-fizz-punch.json)
+ * [Holiday Party Punch Recipe](index/h/holiday-party-punch-recipe.json)
+ * [Rum Punch Recipe](index/r/rum-punch-recipe.json)
+ * [Sparkling Apple Cider Punch](index/s/sparkling-apple-cider-punch.json)

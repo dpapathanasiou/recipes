@@ -62,3 +62,5 @@
  * [White Chocolate Tiramisu Trifle With Spiced Pears](index/w/white-chocolate-tiramisu-trifle-with-spiced-pears-240701.json)
  * [Whole Wheat Soda Bread With Dried Pears And Anise](index/w/whole-wheat-soda-bread-with-dried-pears-and-anise-1243.json)
  * [Wine And Citrus Poached Pears With Triple Creme Cheese](index/w/wine-and-citrus-poached-pears-with-triple-creme-cheese-106129.json)
+ * [Slow Cooked Winter Bread Pudding With Dried Pears Recipe](index/s/slow-cooked-winter-bread-pudding-with-dried-pears-recipe.json)
+ * [Vanilla Poached Pears Recipe](index/v/vanilla-poached-pears-recipe.json)

@@ -58,3 +58,6 @@
  * [Wild Mushroom And Three Cheese Lasagne](index/w/wild-mushroom-and-three-cheese-lasagne-1333.json)
  * [Three Layer Carrot Cake With Cream Cheese Frosting](index/t/three-layer-carrot-cake-with-cream-cheese-frosting.json)
  * [Three Pepper Pizza](index/t/three-pepper-pizza.json)
+ * [French Three Onion Soup Recipe](index/f/french-three-onion-soup-recipe.json)
+ * [Three Ingredient Brownies](index/t/three-ingredient-brownies.json)
+ * [Three Layer Carrot Cake Recipe](index/t/three-layer-carrot-cake-recipe.json)

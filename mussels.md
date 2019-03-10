@@ -71,3 +71,5 @@
  * [Steamed Mussels With Tomatoes And Garlic Toasts](index/s/steamed-mussels-with-tomatoes-and-garlic-toasts-2474.json)
  * [Tagliatelle With Mussels Clams And Pesto](index/t/tagliatelle-with-mussels-clams-and-pesto-103499.json)
  * [Mussels With Fennel And Saffron](index/m/mussels-with-fennel-and-saffron.json)
+ * [Mussels Clams And Shrimp In Spicy Broth Recipe](index/m/mussels-clams-and-shrimp-in-spicy-broth-recipe.json)
+ * [Mussels In White Wine Recipe](index/m/mussels-in-white-wine-recipe.json)

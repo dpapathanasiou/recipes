@@ -182,3 +182,7 @@
  * [Zucchini Herb Fritters With Garlic Yogurt](index/z/zucchini-herb-fritters-with-garlic-yogurt-56389547.json)
  * [Spicy Roasted Potatoes Yogurt](index/s/spicy-roasted-potatoes-yogurt.json)
  * [Yogurt Panna Cotta Flecked With Vanilla Bean](index/y/yogurt-panna-cotta-flecked-with-vanilla-bean.json)
+ * [Best Yogurt Parfait Ever](index/b/best-yogurt-parfait-ever.json)
+ * [Homemade Mango Agave Granola With Greek Yogurt](index/h/homemade-mango-agave-granola-with-greek-yogurt.json)
+ * [Oatmeal Biscuits With Apple Butter Yogurt](index/o/oatmeal-biscuits-with-apple-butter-yogurt.json)
+ * [Yogurt Berry Parfait Recipe](index/y/yogurt-berry-parfait-recipe.json)

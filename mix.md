@@ -10,3 +10,4 @@
  * [Sweet Potato Pumpkin Seed And Chickpea Party Mix](index/s/sweet-potato-pumpkin-seed-and-chickpea-party-mix-104629.json)
  * [Trail Mix](index/t/trail-mix-11585.json)
  * [Trail Mix Porridge](index/t/trail-mix-porridge-51221010.json)
+ * [Instant Pancake Mix Recipe](index/i/instant-pancake-mix-recipe.json)

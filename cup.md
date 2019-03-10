@@ -13,3 +13,5 @@
  * [Strawberry Cup](index/s/strawberry-cup-232653.json)
  * [Strawberry Mosel Cup](index/s/strawberry-mosel-cup-200762.json)
  * [Summer Melon With Fig And Proscuitto Fruit Cup](index/s/summer-melon-with-fig-and-proscuitto-fruit-cup-363410.json)
+ * [Chocolate Peanut Butter Cup Cookies](index/c/chocolate-peanut-butter-cup-cookies.json)
+ * [Pimms Cup Cocktail Recipe](index/p/pimms-cup-cocktail-recipe.json)

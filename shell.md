@@ -10,3 +10,5 @@
  * [Sauteed Soft Shell Crab](index/s/sauteed-soft-shell-crab-106730.json)
  * [Sliced Shell Steak On Parmesan Toast With Shallot And Sour Cream Sauce](index/s/sliced-shell-steak-on-parmesan-toast-with-shallot-and-sour-cream-sauce-10340.json)
  * [Soft Shell Crabs With Wilted Spinach And Warm Tomato Basil Vinaigrette](index/s/soft-shell-crabs-with-wilted-spinach-and-warm-tomato-basil-vinaigrette-101649.json)
+ * [Crudo On The Half Shell Recipe](index/c/crudo-on-the-half-shell-recipe.json)
+ * [Grilled Or Sauteed Soft Shell Crab Blt Recipe](index/g/grilled-or-sauteed-soft-shell-crab-blt-recipe.json)

@@ -9,3 +9,5 @@
  * [Spicy Lamb With Charred Eggplant Puree And Pita](index/s/spicy-lamb-with-charred-eggplant-puree-and-pita-238269.json)
  * [White Beans And Charred Broccoli With Parmesan](index/w/white-beans-and-charred-broccoli-with-parmesan-51252720.json)
  * [Wild Striped Bass With Charred Leeks And Squid Vinaigrette](index/w/wild-striped-bass-with-charred-leeks-and-squid-vinaigrette-107561.json)
+ * [Pork Tenderloin Nachos With Mornay Sauce Avocado Corn Relish Charred Jalapeno And Goat Cheese Recipe](index/p/pork-tenderloin-nachos-with-mornay-sauce-avocado-corn-relish-charred-jalapeno-and-goat-cheese-recipe.json)
+ * [Sloppy Jose With Chorizo Charred Poblanos And Avocado Crema Recipe](index/s/sloppy-jose-with-chorizo-charred-poblanos-and-avocado-crema-recipe.json)

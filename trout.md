@@ -45,3 +45,4 @@
  * [Vine Smoked Trout](index/v/vine-smoked-trout-352972.json)
  * [Whole Baked Trout With Mushrooms](index/w/whole-baked-trout-with-mushrooms-1251.json)
  * [Trout Watercress Apple Salad](index/t/trout-watercress-apple-salad.json)
+ * [Pan Fried Trout Recipe](index/p/pan-fried-trout-recipe.json)

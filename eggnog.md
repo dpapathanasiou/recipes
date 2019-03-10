@@ -18,3 +18,6 @@
  * [Spoon Eggnog](index/s/spoon-eggnog-200937.json)
  * [The Ultimate Eggnog](index/t/the-ultimate-eggnog-236815.json)
  * [Virginia Eggnog](index/v/virginia-eggnog-200942.json)
+ * [Eggnog Recipe](index/e/eggnog-recipe.json)
+ * [Eggnog Recipe2](index/e/eggnog-recipe2.json)
+ * [Irish Eggnog Recipe](index/i/irish-eggnog-recipe.json)

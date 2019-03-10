@@ -37,3 +37,4 @@
  * [Warm Cocoa Pudding With Candied Pecans](index/w/warm-cocoa-pudding-with-candied-pecans.json)
  * [Whole Wheat Bran Muffins With Figs And Pecans](index/w/whole-wheat-bran-muffins-with-figs-and-pecans-231587.json)
  * [Whole Wheat Pancakes With Bananas And Pecans](index/w/whole-wheat-pancakes-with-bananas-and-pecans-238282.json)
+ * [Banana Bread With Pecans Recipe](index/b/banana-bread-with-pecans-recipe.json)

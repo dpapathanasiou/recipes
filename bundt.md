@@ -8,3 +8,6 @@
  * [Pumpkin Spice Bundt Cake With Buttermilk Icing](index/p/pumpkin-spice-bundt-cake-with-buttermilk-icing-233011.json)
  * [Rhubarb Pistachio Bundt Cake With Rose Glaze](index/r/rhubarb-pistachio-bundt-cake-with-rose-glaze-56389533.json)
  * [Spiced Sweet Potato Bundt Cake](index/s/spiced-sweet-potato-bundt-cake-51256680.json)
+ * [Individual Pistachio Bundt Cakes With Lemon Curd Filling](index/i/individual-pistachio-bundt-cakes-with-lemon-curd-filling.json)
+ * [Meyer Lemon Cranberry Bundt Cake Recipe](index/m/meyer-lemon-cranberry-bundt-cake-recipe.json)
+ * [Mini Chocolate Cherry Bundt Cakes](index/m/mini-chocolate-cherry-bundt-cakes.json)

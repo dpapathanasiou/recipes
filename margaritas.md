@@ -7,3 +7,5 @@
  * [Texas Margaritas](index/t/texas-margaritas-238483.json)
  * [Top Shelf Margaritas](index/t/top-shelf-margaritas-200830.json)
  * [Triple Berry Margaritas](index/t/triple-berry-margaritas-201223.json)
+ * [Mango Margaritas Recipe](index/m/mango-margaritas-recipe.json)
+ * [Pomegranate Margaritas Recipe](index/p/pomegranate-margaritas-recipe.json)

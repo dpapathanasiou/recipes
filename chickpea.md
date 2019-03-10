@@ -15,3 +15,6 @@
  * [Butternut Squash And Chickpea Curry](index/b/butternut-squash-and-chickpea-curry.json)
  * [Chickpea Cauliflower And Potato Curry](index/c/chickpea-cauliflower-and-potato-curry.json)
  * [Chickpea Curry](index/c/chickpea-curry.json)
+ * [Chickpea Crust Pizza](index/c/chickpea-crust-pizza.json)
+ * [Grilled Chickpea Polenta Cakes With Chive Oil And Lemon Recipe](index/g/grilled-chickpea-polenta-cakes-with-chive-oil-and-lemon-recipe.json)
+ * [Young Suns Indian Spinach And Chickpea Fritters Recipe](index/y/young-suns-indian-spinach-and-chickpea-fritters-recipe.json)

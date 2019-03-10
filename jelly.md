@@ -26,3 +26,5 @@
  * [Sufganiyot Jelly Doughnuts](index/s/sufganiyot-jelly-doughnuts-51133810.json)
  * [Sweet And Spicy Chile Pepper Jelly](index/s/sweet-and-spicy-chile-pepper-jelly-51255280.json)
  * [Meyer Lemon Jelly](index/m/meyer-lemon-jelly.json)
+ * [Jelly Doughnuts Recipe](index/j/jelly-doughnuts-recipe.json)
+ * [Peanut Butter And Jelly Cookies](index/p/peanut-butter-and-jelly-cookies.json)

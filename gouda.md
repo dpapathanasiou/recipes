@@ -11,3 +11,4 @@
  * [Spinach Mushroom And Gouda Souffle](index/s/spinach-mushroom-and-gouda-souffle-363769.json)
  * [Spinach Souffle With Shallots And Smoked Gouda Cheese](index/s/spinach-souffle-with-shallots-and-smoked-gouda-cheese-5836.json)
  * [Split Pea Soup With Gouda Sausage Toasts](index/s/split-pea-soup-with-gouda-sausage-toasts-2544.json)
+ * [Smoked Gouda Chorizo Jalapeno Poppers Recipe](index/s/smoked-gouda-chorizo-jalapeno-poppers-recipe.json)

@@ -7,3 +7,4 @@
  * [Shredded Brussels Sprout And Ricotta Toast](index/s/shredded-brussels-sprout-and-ricotta-toast.json)
  * [Sweet Potato And Brussels Sprout Okonomiyaki](index/s/sweet-potato-and-brussels-sprout-okonomiyaki.json)
  * [Warm Brussels Sprout And Spinach Salad With Bacon](index/w/warm-brussels-sprout-and-spinach-salad-with-bacon-10692.json)
+ * [Kale And Brussels Sprout Salad](index/k/kale-and-brussels-sprout-salad.json)

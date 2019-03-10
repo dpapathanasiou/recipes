@@ -16,3 +16,5 @@
  * [Bowl Of Red Chili](index/b/bowl-of-red-chili.json)
  * [Breakfast Bowl With Fresh Fruit And Granola](index/b/breakfast-bowl-with-fresh-fruit-and-granola.json)
  * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)
+ * [Black Bean Feta Quinoa Bowl](index/b/black-bean-feta-quinoa-bowl.json)
+ * [Super Bowl Recipe](index/s/super-bowl-recipe.json)

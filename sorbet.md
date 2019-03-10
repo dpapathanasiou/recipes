@@ -58,3 +58,4 @@
  * [Yogurt Lime Sorbet](index/y/yogurt-lime-sorbet-51245250.json)
  * [Limoncello Sorbet](index/l/limoncello-sorbet.json)
  * [Ruby Grapefruit Sorbet](index/r/ruby-grapefruit-sorbet.json)
+ * [Summer Sorbet Recipe](index/s/summer-sorbet-recipe.json)

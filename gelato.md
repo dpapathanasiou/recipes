@@ -6,3 +6,5 @@
  * [Pistachio Gelato](index/p/pistachio-gelato-572.json)
  * [Pomegranate Gelato](index/p/pomegranate-gelato-235772.json)
  * [Ricotta Gelato With Blackberry Sauce](index/r/ricotta-gelato-with-blackberry-sauce-12509.json)
+ * [Chocolate Hazelnut Gelato Recipe](index/c/chocolate-hazelnut-gelato-recipe.json)
+ * [Vanilla Gelato Bites With Chocolate And Hazelnuts Recipe](index/v/vanilla-gelato-bites-with-chocolate-and-hazelnuts-recipe.json)

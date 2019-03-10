@@ -17,3 +17,5 @@
  * [Individual Deep Dish Pizza](index/i/individual-deep-dish-pizza.json)
  * [Sausage And Pepper Deep Dish Pizza](index/s/sausage-and-pepper-deep-dish-pizza.json)
  * [Sausage And Pepper Mini Deep Dish Pizzas](index/s/sausage-and-pepper-mini-deep-dish-pizzas.json)
+ * [Deep Dish Apple Pie Recipe](index/d/deep-dish-apple-pie-recipe.json)
+ * [Deep Dish Pecan Pie](index/d/deep-dish-pecan-pie.json)

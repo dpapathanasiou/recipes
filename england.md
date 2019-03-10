@@ -15,3 +15,4 @@
  * [New England Seafood Chowder](index/n/new-england-seafood-chowder-2701.json)
  * [New England Style Cod And Potato Cakes With Tartar Sauce](index/n/new-england-style-cod-and-potato-cakes-with-tartar-sauce-233368.json)
  * [Todd Englishs Backyard New England Clam Bake](index/t/todd-englishs-backyard-new-england-clam-bake-106523.json)
+ * [New England Clam Chowder Recipe](index/n/new-england-clam-chowder-recipe.json)

@@ -12,3 +12,4 @@
  * [Portuguese Sausage Sandwiches With Peppers Onions And Olives](index/p/portuguese-sausage-sandwiches-with-peppers-onions-and-olives-109389.json)
  * [Portuguese Stone Soup](index/p/portuguese-stone-soup-2822.json)
  * [Portuguese Style Salt Cod Fritters With Lemon And Olives](index/p/portuguese-style-salt-cod-fritters-with-lemon-and-olives-233768.json)
+ * [Portuguese Chourico And Kale Soup Recipe](index/p/portuguese-chourico-and-kale-soup-recipe.json)

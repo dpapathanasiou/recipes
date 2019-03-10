@@ -29,3 +29,7 @@
  * [Minted Mediterranean Couscous Salad](index/m/minted-mediterranean-couscous-salad-105158.json)
  * [Provencal Lamb With Mediterranean Vegetables](index/p/provencal-lamb-with-mediterranean-vegetables-102661.json)
  * [Roasted Mediterranean Vegetables With Grapefruit Gremolata](index/r/roasted-mediterranean-vegetables-with-grapefruit-gremolata-109163.json)
+ * [Lunchbag Swordfish With Mediterranean Tomato Sauce And Linguini Recipe](index/l/lunchbag-swordfish-with-mediterranean-tomato-sauce-and-linguini-recipe.json)
+ * [Mediterranean Bean And Bacon Soup Recipe](index/m/mediterranean-bean-and-bacon-soup-recipe.json)
+ * [Mediterranean Bruschetta Recipe](index/m/mediterranean-bruschetta-recipe.json)
+ * [Mediterranean Succotash Recipe](index/m/mediterranean-succotash-recipe.json)

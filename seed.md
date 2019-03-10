@@ -69,3 +69,4 @@
  * [Watercress Radish And Endive Salad With Mustard Seed Vinaigrette](index/w/watercress-radish-and-endive-salad-with-mustard-seed-vinaigrette-107912.json)
  * [Watermelon Honeydew Kebabs With Lime Poppy Seed Dressing](index/w/watermelon-honeydew-kebabs-with-lime-poppy-seed-dressing-103480.json)
  * [Yogurt Poppy Seed Dressing](index/y/yogurt-poppy-seed-dressing-231821.json)
+ * [Chia Seed Pudding](index/c/chia-seed-pudding.json)

@@ -17,3 +17,7 @@
  * [Sweet Potato Wedges With Lime Mayo](index/s/sweet-potato-wedges-with-lime-mayo-51149210.json)
  * [Szechwan Style Eggplant With Pita Wedges](index/s/szechwan-style-eggplant-with-pita-wedges-12780.json)
  * [Watermelon And Cantaloupe Wedges With Lime Mint Syrup](index/w/watermelon-and-cantaloupe-wedges-with-lime-mint-syrup-238869.json)
+ * [Baked Potato Wedges Recipe](index/b/baked-potato-wedges-recipe.json)
+ * [Lettuce Wedges With Blue Cheese Dressing Recipe](index/l/lettuce-wedges-with-blue-cheese-dressing-recipe.json)
+ * [Roasted Potato Wedges](index/r/roasted-potato-wedges.json)
+ * [Sweet Roasted Rosemary Acorn Squash Wedges Recipe](index/s/sweet-roasted-rosemary-acorn-squash-wedges-recipe.json)

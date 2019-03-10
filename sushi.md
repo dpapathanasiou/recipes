@@ -4,3 +4,4 @@
  * [Quinoa Brown Rice Sushi](index/q/quinoa-brown-rice-sushi-51156610.json)
  * [Springtime Sushi Nests](index/s/springtime-sushi-nests-103256.json)
  * [Tomato Sushi](index/t/tomato-sushi-109633.json)
+ * [Sushi Rice Recipe](index/s/sushi-rice-recipe.json)

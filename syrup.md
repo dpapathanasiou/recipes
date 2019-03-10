@@ -106,3 +106,4 @@
  * [Watermelon And Cantaloupe Wedges With Lime Mint Syrup](index/w/watermelon-and-cantaloupe-wedges-with-lime-mint-syrup-238869.json)
  * [Whole Grain Pancakes With Wild Blueberry Maple Syrup](index/w/whole-grain-pancakes-with-wild-blueberry-maple-syrup-241329.json)
  * [Whole Wheat Pancakes With Blackberry Syrup](index/w/whole-wheat-pancakes-with-blackberry-syrup-234686.json)
+ * [Biscuit Waffles With Lemon Cream Lemon Syrup And Blueberries](index/b/biscuit-waffles-with-lemon-cream-lemon-syrup-and-blueberries.json)

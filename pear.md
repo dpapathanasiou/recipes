@@ -170,3 +170,8 @@
  * [White Miso Peach Pear Apple](index/w/white-miso-peach-pear-apple-395670.json)
  * [Wonky Summer Pasta Herby Salad Pear Drop Tartlets](index/w/wonky-summer-pasta-herby-salad-pear-drop-tartlets-368809.json)
  * [Yellowtail Poke With Glass Noodles And Pear](index/y/yellowtail-poke-with-glass-noodles-and-pear.json)
+ * [Apple And Pear Crisp Recipe](index/a/apple-and-pear-crisp-recipe.json)
+ * [Pear And Blue Cheese Salad Recipe](index/p/pear-and-blue-cheese-salad-recipe.json)
+ * [Pear Apple And Cranberry Crisp Recipe](index/p/pear-apple-and-cranberry-crisp-recipe.json)
+ * [Pear Clafouti Recipe](index/p/pear-clafouti-recipe.json)
+ * [Snappy Pear And Cranberry Crumble](index/s/snappy-pear-and-cranberry-crumble.json)

@@ -11,3 +11,4 @@
  * [Turkey Club Salad With Avocado And Mayo](index/t/turkey-club-salad-with-avocado-and-mayo-354499.json)
  * [Turkey Cutlet Sandwiches With Smoked Paprika Mayo And Roasted Bell Peppers](index/t/turkey-cutlet-sandwiches-with-smoked-paprika-mayo-and-roasted-bell-peppers-360530.json)
  * [Zucchini Bacon Fritters With Basil Mayo Dipping Sauce](index/z/zucchini-bacon-fritters-with-basil-mayo-dipping-sauce-357981.json)
+ * [Bacon Wrapped Scallops With Spicy Mayo Recipe](index/b/bacon-wrapped-scallops-with-spicy-mayo-recipe.json)

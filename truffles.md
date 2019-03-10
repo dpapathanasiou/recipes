@@ -15,3 +15,7 @@
  * [Roast Magret Duck Breasts With Shaved Black Truffles](index/r/roast-magret-duck-breasts-with-shaved-black-truffles-233930.json)
  * [Sauteed Turbot With Braised Endive Celery Root Flan Black Truffles And Garlic Nage](index/s/sauteed-turbot-with-braised-endive-celery-root-flan-black-truffles-and-garlic-nage-350390.json)
  * [Triple Chocolate Hazelnut Truffles](index/t/triple-chocolate-hazelnut-truffles-14099.json)
+ * [Blue Cheese And Bacon Truffles](index/b/blue-cheese-and-bacon-truffles.json)
+ * [Brazilian Style Truffles](index/b/brazilian-style-truffles.json)
+ * [Chocolate Truffles Recipe](index/c/chocolate-truffles-recipe.json)
+ * [Chocolate Truffles Recipe2](index/c/chocolate-truffles-recipe2.json)

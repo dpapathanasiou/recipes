@@ -11,3 +11,8 @@
  * [Turkey Empanadas](index/t/turkey-empanadas-2065.json)
  * [Beef Empanadas Fmf](index/b/beef-empanadas-fmf.json)
  * [Beef Empanadas](index/b/beef-empanadas.json)
+ * [Beef Empanadas Recipe2](index/b/beef-empanadas-recipe2.json)
+ * [Cheesy Chicken Empanadas Recipe](index/c/cheesy-chicken-empanadas-recipe.json)
+ * [Chicken And Bean Puff Pastry Empanadas Recipe](index/c/chicken-and-bean-puff-pastry-empanadas-recipe.json)
+ * [Empanadas Recipe2](index/e/empanadas-recipe2.json)
+ * [Sherried Mushroom Empanadas Recipe](index/s/sherried-mushroom-empanadas-recipe.json)

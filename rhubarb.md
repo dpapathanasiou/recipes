@@ -76,3 +76,5 @@
  * [Shaved Rhubarb Salad With Almonds And Cheese](index/s/shaved-rhubarb-salad-with-almonds-and-cheese.json)
  * [Strawberry Rhubarb Jam](index/s/strawberry-rhubarb-jam.json)
  * [Tangy Rhubarb Strawberry Pie](index/t/tangy-rhubarb-strawberry-pie.json)
+ * [Rhubarb Crumble Recipe](index/r/rhubarb-crumble-recipe.json)
+ * [Strawberry Rhubarb Crisp Recipe](index/s/strawberry-rhubarb-crisp-recipe.json)

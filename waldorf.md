@@ -6,3 +6,4 @@
  * [Waldorf Salad](index/w/waldorf-salad-360790.json)
  * [Waldorf Salad Celery Boats](index/w/waldorf-salad-celery-boats-12354.json)
  * [Waldorf Salad With Cranberries And Pecans In Radicchio Cups](index/w/waldorf-salad-with-cranberries-and-pecans-in-radicchio-cups-107265.json)
+ * [Chicken Waldorf Salad Recipe](index/c/chicken-waldorf-salad-recipe.json)

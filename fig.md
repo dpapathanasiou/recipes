@@ -71,3 +71,4 @@
  * [White Pepper Creme Brulee With Fig And Prune Compote](index/w/white-pepper-creme-brulee-with-fig-and-prune-compote-108592.json)
  * [Fig And Prosciutto Pizza](index/f/fig-and-prosciutto-pizza.json)
  * [Pizza Bianca With Prosciutto And Fig](index/p/pizza-bianca-with-prosciutto-and-fig.json)
+ * [Fig Stuffed Cookies Cuccidati Italian Recipe](index/f/fig-stuffed-cookies-cuccidati-italian-recipe.json)

@@ -16,3 +16,4 @@
  * [Tropical Bananas Foster](index/t/tropical-bananas-foster-103653.json)
  * [White Chocolate Tartlets With Strawberries And Bananas](index/w/white-chocolate-tartlets-with-strawberries-and-bananas-103302.json)
  * [Whole Wheat Pancakes With Bananas And Pecans](index/w/whole-wheat-pancakes-with-bananas-and-pecans-238282.json)
+ * [Banana Bread Waffles With Bananas Foster Sauce](index/b/banana-bread-waffles-with-bananas-foster-sauce.json)

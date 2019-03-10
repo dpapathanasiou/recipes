@@ -19,3 +19,4 @@
  * [Korean Barbecued Beef](index/k/korean-barbecued-beef.json)
  * [Korean Beef And Shiitake Skewers](index/k/korean-beef-and-shiitake-skewers.json)
  * [Korean Style Barbecue Short Ribs](index/k/korean-style-barbecue-short-ribs.json)
+ * [Korean Shrimp Cocktail](index/k/korean-shrimp-cocktail.json)

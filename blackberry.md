@@ -43,3 +43,6 @@
  * [White Chocolate Blackberry Parfait](index/w/white-chocolate-blackberry-parfait-763.json)
  * [White Chocolate Praline Ice Cream Terrine With Blackberry Raspberry Sauce](index/w/white-chocolate-praline-ice-cream-terrine-with-blackberry-raspberry-sauce-231325.json)
  * [Whole Wheat Pancakes With Blackberry Syrup](index/w/whole-wheat-pancakes-with-blackberry-syrup-234686.json)
+ * [Blackberry Cobbler Recipe](index/b/blackberry-cobbler-recipe.json)
+ * [Peach Blackberry Pie Recipe2](index/p/peach-blackberry-pie-recipe2.json)
+ * [Peach Blackberry Sangria Recipe](index/p/peach-blackberry-sangria-recipe.json)

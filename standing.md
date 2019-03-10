@@ -6,3 +6,4 @@
  * [Standing Rib Roast With Rosemary Thyme Crust](index/s/standing-rib-roast-with-rosemary-thyme-crust-108954.json)
  * [Standing Rib Roast With Bordelaise Sauce](index/s/standing-rib-roast-with-bordelaise-sauce.json)
  * [Standing Rib Roast With Yorkshire Pudding](index/s/standing-rib-roast-with-yorkshire-pudding.json)
+ * [Standing Rib Roast Recipe](index/s/standing-rib-roast-recipe.json)

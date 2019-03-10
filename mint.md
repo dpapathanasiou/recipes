@@ -268,3 +268,5 @@
  * [Cilantro Mint Chutney](index/c/cilantro-mint-chutney.json)
  * [Seared Beef Tenderloin With Cilantro And Mint](index/s/seared-beef-tenderloin-with-cilantro-and-mint.json)
  * [Spaghetti With Arugula Mint Pesto](index/s/spaghetti-with-arugula-mint-pesto.json)
+ * [Double Chocolate And Mint Cookies Recipe](index/d/double-chocolate-and-mint-cookies-recipe.json)
+ * [Lychee Mint Spritzers Recipe](index/l/lychee-mint-spritzers-recipe.json)

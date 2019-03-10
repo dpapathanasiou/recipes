@@ -20,3 +20,7 @@
  * [Corned Beef Hash Patties](index/c/corned-beef-hash-patties.json)
  * [Corned Beef Hash With Caramelized Onions And Chiles](index/c/corned-beef-hash-with-caramelized-onions-and-chiles.json)
  * [Corned Beef Hash](index/c/corned-beef-hash.json)
+ * [Corned Beef And Cabbage Recipe](index/c/corned-beef-and-cabbage-recipe.json)
+ * [Corned Beef Hash Brown Casserole](index/c/corned-beef-hash-brown-casserole.json)
+ * [Corned Beef Hash](index/c/corned-beef-hash.json)
+ * [Corned Beef Recipe](index/c/corned-beef-recipe.json)

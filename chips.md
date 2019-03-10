@@ -31,3 +31,7 @@
  * [Zucchini Chips](index/z/zucchini-chips-107738.json)
  * [Kale Chips With Sea Salt And Smoked Paprika](index/k/kale-chips-with-sea-salt-and-smoked-paprika.json)
  * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)
+ * [Crispy Kale Chips Recipe](index/c/crispy-kale-chips-recipe.json)
+ * [Crispy Lemon Garlic Kale Chips](index/c/crispy-lemon-garlic-kale-chips.json)
+ * [Fish And Chips](index/f/fish-and-chips.json)
+ * [Salsa And Chips Recipe](index/s/salsa-and-chips-recipe.json)

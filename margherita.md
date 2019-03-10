@@ -8,3 +8,4 @@
  * [Margherita Pizza](index/m/margherita-pizza.json)
  * [Pizza Alla Margherita](index/p/pizza-alla-margherita.json)
  * [Pizza Margherita](index/p/pizza-margherita.json)
+ * [Bobby Flays Margherita Pizza Recipe](index/b/bobby-flays-margherita-pizza-recipe.json)

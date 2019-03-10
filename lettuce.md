@@ -37,3 +37,8 @@
  * [Tomato And Bacon Salad In Bibb Lettuce Cups](index/t/tomato-and-bacon-salad-in-bibb-lettuce-cups-12231.json)
  * [Watercress And Boston Lettuce Salad With Walnuts](index/w/watercress-and-boston-lettuce-salad-with-walnuts-13299.json)
  * [Lettuce Tacos With Grilled Sesame Beef](index/l/lettuce-tacos-with-grilled-sesame-beef.json)
+ * [Barbecued Chinese Chicken Lettuce Wraps Recipe](index/b/barbecued-chinese-chicken-lettuce-wraps-recipe.json)
+ * [Belt Bacon Egg Lettuce And Tomato](index/b/belt-bacon-egg-lettuce-and-tomato.json)
+ * [Lettuce Wedges With Blue Cheese Dressing Recipe](index/l/lettuce-wedges-with-blue-cheese-dressing-recipe.json)
+ * [Lettuce Wraps](index/l/lettuce-wraps.json)
+ * [Low Carb Lettuce Burgers](index/l/low-carb-lettuce-burgers.json)

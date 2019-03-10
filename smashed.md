@@ -7,3 +7,5 @@
  * [Smashed Fingerlings With Jalapenos](index/s/smashed-fingerlings-with-jalapenos-51239670.json)
  * [Smashed Potatoes And Peas](index/s/smashed-potatoes-and-peas-233991.json)
  * [Smashed Potatoes And Peas](index/s/smashed-potatoes-and-peas-242836.json)
+ * [Pork Chops With Apples And Garlic Smashed Potatoes Recipe](index/p/pork-chops-with-apples-and-garlic-smashed-potatoes-recipe.json)
+ * [Restaurant Style Smashed Potatoes Recipe](index/r/restaurant-style-smashed-potatoes-recipe.json)

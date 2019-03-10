@@ -14,3 +14,4 @@
  * [Wood Smoked Tri Tip With Sicilian Herb Sauce](index/w/wood-smoked-tri-tip-with-sicilian-herb-sauce-238793.json)
  * [Sicilian Style Pizza Dough](index/s/sicilian-style-pizza-dough.json)
  * [Sicilian Zucchini Pizza](index/s/sicilian-zucchini-pizza.json)
+ * [Sicilian Love Cake](index/s/sicilian-love-cake.json)

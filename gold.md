@@ -18,3 +18,4 @@
  * [Yukon Gold Potato And Wild Mushroom Gratin](index/y/yukon-gold-potato-and-wild-mushroom-gratin-231109.json)
  * [Yukon Gold Potato And Wild Mushroom Gratin With Blue Cheese](index/y/yukon-gold-potato-and-wild-mushroom-gratin-with-blue-cheese-100346.json)
  * [Yukon Gold Potato Salad With Chiles Cilantro And Toasted Cumin](index/y/yukon-gold-potato-salad-with-chiles-cilantro-and-toasted-cumin-242717.json)
+ * [Garlic Yukon Gold Mashed Potatoes Recipe](index/g/garlic-yukon-gold-mashed-potatoes-recipe.json)

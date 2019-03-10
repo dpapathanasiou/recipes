@@ -25,3 +25,5 @@
  * [Tomatillo Salsa With Serranos](index/t/tomatillo-salsa-with-serranos-51235330.json)
  * [Tomato And Tomatillo Gazpacho](index/t/tomato-and-tomatillo-gazpacho-354967.json)
  * [Warm Turkey Tomatillo And Smoked Mozzarella Pita Sandwiches](index/w/warm-turkey-tomatillo-and-smoked-mozzarella-pita-sandwiches-14066.json)
+ * [Chicken Enchiladas With Roasted Tomatillo Chile Salsa Recipe](index/c/chicken-enchiladas-with-roasted-tomatillo-chile-salsa-recipe.json)
+ * [Chilaquiles With Roasted Tomatillo Salsa Recipe](index/c/chilaquiles-with-roasted-tomatillo-salsa-recipe.json)

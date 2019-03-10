@@ -11,3 +11,4 @@
  * [Grilled New York Strip With Horseradish Sauce](index/g/grilled-new-york-strip-with-horseradish-sauce.json)
  * [New York Style Pepperoni Pizza](index/n/new-york-style-pepperoni-pizza.json)
  * [New York Style Sausage And Mushroom Pizza](index/n/new-york-style-sausage-and-mushroom-pizza.json)
+ * [New York Strip Steak With Red Wine Mushroom Sauce Recipe](index/n/new-york-strip-steak-with-red-wine-mushroom-sauce-recipe.json)

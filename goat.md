@@ -238,3 +238,6 @@
  * [Herbed Pizzas With Prosciutto Basil And Goat Cheese](index/h/herbed-pizzas-with-prosciutto-basil-and-goat-cheese.json)
  * [Meyer Lemon Goat Cheese Pizza](index/m/meyer-lemon-goat-cheese-pizza.json)
  * [Pizza With Goat Cheese And Broccoli Rabe](index/p/pizza-with-goat-cheese-and-broccoli-rabe.json)
+ * [Pork Tenderloin Nachos With Mornay Sauce Avocado Corn Relish Charred Jalapeno And Goat Cheese Recipe](index/p/pork-tenderloin-nachos-with-mornay-sauce-avocado-corn-relish-charred-jalapeno-and-goat-cheese-recipe.json)
+ * [Roasted Beet And Goat Cheese Salad](index/r/roasted-beet-and-goat-cheese-salad.json)
+ * [Spice Rubbed Grilled Duck Breast With Grilled Peach And Goat Cheese Salad Recipe](index/s/spice-rubbed-grilled-duck-breast-with-grilled-peach-and-goat-cheese-salad-recipe.json)

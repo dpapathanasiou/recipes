@@ -15,3 +15,4 @@
  * [Strawberry Cream Puffs With Strawberry Sauce](index/s/strawberry-cream-puffs-with-strawberry-sauce-1570.json)
  * [Tomato And Celery Infused Beef Consomme With Tiny Choux Puffs](index/t/tomato-and-celery-infused-beef-consomme-with-tiny-choux-puffs-105485.json)
  * [White Cheddar Puffs With Green Onions](index/w/white-cheddar-puffs-with-green-onions-233121.json)
+ * [French Breakfast Puffs Recipe](index/f/french-breakfast-puffs-recipe.json)

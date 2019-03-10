@@ -28,3 +28,4 @@
  * [Vietnamese Beef Noodle Salad](index/v/vietnamese-beef-noodle-salad.json)
  * [Vietnamese Beef Noodle Soup](index/v/vietnamese-beef-noodle-soup.json)
  * [Vietnamese Beef Salad](index/v/vietnamese-beef-salad.json)
+ * [Vietnamese Noodle Soup Recipe](index/v/vietnamese-noodle-soup-recipe.json)

@@ -12,3 +12,4 @@
  * [Tarragon Lime Bay Scallops Over Angel Hair Pasta](index/t/tarragon-lime-bay-scallops-over-angel-hair-pasta-106889.json)
  * [Tomales Bay Oysters Rockefellar](index/t/tomales-bay-oysters-rockefellar-395476.json)
  * [Winter Salad With Sauteed Bay Scallops](index/w/winter-salad-with-sauteed-bay-scallops-107694.json)
+ * [Nantucket Bay Scallops In Tequila Citrus And Chile Dressing Recipe2](index/n/nantucket-bay-scallops-in-tequila-citrus-and-chile-dressing-recipe2.json)

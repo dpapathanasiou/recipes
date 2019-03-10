@@ -30,3 +30,8 @@
  * [White Sangria](index/w/white-sangria-200651.json)
  * [White Wine And Peach Sangria](index/w/white-wine-and-peach-sangria-200531.json)
  * [White Zinfandel Sangria](index/w/white-zinfandel-sangria-201197.json)
+ * [Peach Blackberry Sangria Recipe](index/p/peach-blackberry-sangria-recipe.json)
+ * [Pomegranate Sangria Recipe](index/p/pomegranate-sangria-recipe.json)
+ * [Sangria Panna Cotta Recipe](index/s/sangria-panna-cotta-recipe.json)
+ * [Sangria Recipe](index/s/sangria-recipe.json)
+ * [White Sangria Recipe0](index/w/white-sangria-recipe0.json)

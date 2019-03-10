@@ -22,3 +22,4 @@
  * [Radishes Filled With Salmon Roe And Lemon Cream](index/r/radishes-filled-with-salmon-roe-and-lemon-cream-12364.json)
  * [Ricotta Filled Ravioli Ravioli Di Ricotta](index/r/ricotta-filled-ravioli-ravioli-di-ricotta-51112640.json)
  * [Zucchini Cones Filled With Lemon Mint Pea Puree](index/z/zucchini-cones-filled-with-lemon-mint-pea-puree-13235.json)
+ * [Peanut Butter Cream Filled Devils Food Cupcakes Recipe](index/p/peanut-butter-cream-filled-devils-food-cupcakes-recipe.json)

@@ -37,3 +37,7 @@
  * [Tsimmes With Beets Turnips And Beef](index/t/tsimmes-with-beets-turnips-and-beef-40009.json)
  * [Vegetable Couscous Goat Cheese And Beets](index/v/vegetable-couscous-goat-cheese-and-beets-109734.json)
  * [Balsamic Glazed Beets](index/b/balsamic-glazed-beets.json)
+ * [Kale With Roasted Beets And Bacon Recipe](index/k/kale-with-roasted-beets-and-bacon-recipe.json)
+ * [Roasted Beets Recipe](index/r/roasted-beets-recipe.json)
+ * [Roasted Beets With Feta Recipe](index/r/roasted-beets-with-feta-recipe.json)
+ * [Roasted Beets With Lemon Recipe](index/r/roasted-beets-with-lemon-recipe.json)

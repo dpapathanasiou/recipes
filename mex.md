@@ -7,3 +7,4 @@
  * [Tex Mex Sheperds Pie](index/t/tex-mex-sheperds-pie-103138.json)
  * [Tex Mex Turkey Meat Loaf And Chipotle Mashed Potatoes](index/t/tex-mex-turkey-meat-loaf-and-chipotle-mashed-potatoes-101065.json)
  * [Tex Mex Veggie Burgers](index/t/tex-mex-veggie-burgers-4221.json)
+ * [Tex Mex Fried Rice](index/t/tex-mex-fried-rice.json)

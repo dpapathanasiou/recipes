@@ -17,3 +17,6 @@
  * [Salted Roast Turkey With Herbs And Shallot Dijon Gravy](index/s/salted-roast-turkey-with-herbs-and-shallot-dijon-gravy-350432.json)
  * [Salted Roast Turkey With Orange Fall Spices And Sherry Gravy](index/s/salted-roast-turkey-with-orange-fall-spices-and-sherry-gravy-350434.json)
  * [Vegan Chocolate Tart With Salted Oat Crust](index/v/vegan-chocolate-tart-with-salted-oat-crust-56390114.json)
+ * [Peanut Butter Bars With Salted Chocolate Ganache](index/p/peanut-butter-bars-with-salted-chocolate-ganache.json)
+ * [Salted Caramel Cheesecake Squares](index/s/salted-caramel-cheesecake-squares.json)
+ * [Salted Caramel Chocolate Chip Cookies](index/s/salted-caramel-chocolate-chip-cookies.json)

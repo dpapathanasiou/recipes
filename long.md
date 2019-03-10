@@ -6,3 +6,5 @@
  * [Long Cooked Green Beans](index/l/long-cooked-green-beans-236750.json)
  * [Long Island Iced Tea](index/l/long-island-iced-tea-200280.json)
  * [Long Island Iced Tea](index/l/long-island-iced-tea-230576.json)
+ * [Long Island Iced Tea Lit Recipe](index/l/long-island-iced-tea-lit-recipe.json)
+ * [Long Island Iced Tea Recipe](index/l/long-island-iced-tea-recipe.json)

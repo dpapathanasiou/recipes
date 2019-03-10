@@ -7,3 +7,5 @@
  * [Smores Ice Cream Pie With Warm Milk Chocolate Sauce](index/s/smores-ice-cream-pie-with-warm-milk-chocolate-sauce-107666.json)
  * [Smores Sandwich Cookies](index/s/smores-sandwich-cookies-56389706.json)
  * [Smores With A Twist](index/s/smores-with-a-twist-108717.json)
+ * [Smores Cheesecake Bars Recipe](index/s/smores-cheesecake-bars-recipe.json)
+ * [Smores Popcorn](index/s/smores-popcorn.json)

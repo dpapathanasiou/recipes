@@ -5,3 +5,5 @@
  * [Smothered Chicken With Creamy Mushroom Gravy](index/s/smothered-chicken-with-creamy-mushroom-gravy-104721.json)
  * [Smothered Grilled Pork Chops](index/s/smothered-grilled-pork-chops-108305.json)
  * [Turkey Smothered In Wild Mushrooms](index/t/turkey-smothered-in-wild-mushrooms-107497.json)
+ * [Smothered Pork Chops Recipe](index/s/smothered-pork-chops-recipe.json)
+ * [Smothered Pork Chops](index/s/smothered-pork-chops.json)

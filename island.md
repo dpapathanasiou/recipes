@@ -13,3 +13,5 @@
  * [Sea Island Red Peas With Celery Leaf Salad](index/s/sea-island-red-peas-with-celery-leaf-salad-388667.json)
  * [Shellfish With Spicy Island Dip](index/s/shellfish-with-spicy-island-dip-2383.json)
  * [Thousand Island Slaw With Chicken](index/t/thousand-island-slaw-with-chicken-238946.json)
+ * [Long Island Iced Tea Lit Recipe](index/l/long-island-iced-tea-lit-recipe.json)
+ * [Long Island Iced Tea Recipe](index/l/long-island-iced-tea-recipe.json)

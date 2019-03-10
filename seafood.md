@@ -61,3 +61,8 @@
  * [Thai Seafood Hot Pot](index/t/thai-seafood-hot-pot-236754.json)
  * [Thai Style Seafood Salad With Herbs](index/t/thai-style-seafood-salad-with-herbs-4072.json)
  * [Triple Seafood Chowder With Dill](index/t/triple-seafood-chowder-with-dill-4968.json)
+ * [Italian Seafood Salad Recipe](index/i/italian-seafood-salad-recipe.json)
+ * [Seafood Chowder Recipe](index/s/seafood-chowder-recipe.json)
+ * [Seafood Platter Recipe](index/s/seafood-platter-recipe.json)
+ * [Seafood Stew Recipe2](index/s/seafood-stew-recipe2.json)
+ * [Spicy Cajun Seafood Stew Recipe](index/s/spicy-cajun-seafood-stew-recipe.json)

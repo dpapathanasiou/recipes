@@ -8,3 +8,5 @@
  * [Pineapple Habanero Salsa](index/p/pineapple-habanero-salsa-106537.json)
  * [Roasted Pineapple Habanero Chile Salsa](index/r/roasted-pineapple-habanero-chile-salsa-363456.json)
  * [Tamarind Glazed Black Cod With Habanero Orange Salsa](index/t/tamarind-glazed-black-cod-with-habanero-orange-salsa-359350.json)
+ * [Grilled Shrimp With Orange Habanero Mojo Recipe2](index/g/grilled-shrimp-with-orange-habanero-mojo-recipe2.json)
+ * [Habanero Parmesan Bacon Burger](index/h/habanero-parmesan-bacon-burger.json)

@@ -13,3 +13,5 @@
  * [Spinach And Omelet Roll](index/s/spinach-and-omelet-roll-103383.json)
  * [Spring Pea And Pea Shoot Omelet](index/s/spring-pea-and-pea-shoot-omelet-51238280.json)
  * [Tarragon Chive And Goat Cheese Omelet](index/t/tarragon-chive-and-goat-cheese-omelet-4073.json)
+ * [Country French Omelet Recipe](index/c/country-french-omelet-recipe.json)
+ * [Tortilla Omelet Burrito With Pulled Chicken And Salsa Verde](index/t/tortilla-omelet-burrito-with-pulled-chicken-and-salsa-verde.json)

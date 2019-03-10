@@ -13,3 +13,4 @@
  * [Strawberry Crunch Bar](index/s/strawberry-crunch-bar-51153010.json)
  * [Warm Black Mission Fig Walnut Crunch And Blue Cheese Tartlets](index/w/warm-black-mission-fig-walnut-crunch-and-blue-cheese-tartlets-236218.json)
  * [Winter Fruit Crunch](index/w/winter-fruit-crunch-104787.json)
+ * [Banana Crunch Muffins Recipe](index/b/banana-crunch-muffins-recipe.json)

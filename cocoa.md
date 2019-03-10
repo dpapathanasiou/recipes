@@ -8,3 +8,6 @@
  * [Mexican Hot Cocoa](index/m/mexican-hot-cocoa-241138.json)
  * [Stout Floats With Cocoa Syrup](index/s/stout-floats-with-cocoa-syrup-363725.json)
  * [Warm Cocoa Pudding With Candied Pecans](index/w/warm-cocoa-pudding-with-candied-pecans.json)
+ * [Cocoa Brownies Recipe](index/c/cocoa-brownies-recipe.json)
+ * [Cocoa Nib Hot Chocolate Recipe](index/c/cocoa-nib-hot-chocolate-recipe.json)
+ * [Hot Cocoa Recipe](index/h/hot-cocoa-recipe.json)

@@ -22,3 +22,5 @@
  * [Strawberry And Apricot Linzertorte Hearts](index/s/strawberry-and-apricot-linzertorte-hearts-13245.json)
  * [Tandoori Tilapia With Hearts Of Palm Salad](index/t/tandoori-tilapia-with-hearts-of-palm-salad-236365.json)
  * [Veal Shanks Artichoke Hearts And Chick Peas With Preserved Lemon](index/v/veal-shanks-artichoke-hearts-and-chick-peas-with-preserved-lemon-11392.json)
+ * [Lemon Chicken With Artichoke Hearts Recipe](index/l/lemon-chicken-with-artichoke-hearts-recipe.json)
+ * [Shortbread Hearts Recipe](index/s/shortbread-hearts-recipe.json)

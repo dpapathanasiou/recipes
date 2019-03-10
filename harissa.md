@@ -14,3 +14,5 @@
  * [Steamed Clams With Miso Aioli And Harissa](index/s/steamed-clams-with-miso-aioli-and-harissa-363050.json)
  * [Three Chile Harissa](index/t/three-chile-harissa.json)
  * [Harissa Marinated Grilled Chicken](index/h/harissa-marinated-grilled-chicken.json)
+ * [Moroccan Harissa Chicken Wings](index/m/moroccan-harissa-chicken-wings.json)
+ * [Roasted Lamb Chops With Harissa](index/r/roasted-lamb-chops-with-harissa.json)

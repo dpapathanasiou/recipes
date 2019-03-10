@@ -14,3 +14,6 @@
  * [Raspberry Rhubarb And Pear Pies](index/r/raspberry-rhubarb-and-pear-pies-1730.json)
  * [Spiced Lamb Hand Pies](index/s/spiced-lamb-hand-pies-51263680.json)
  * [Turkey And Broccoli Pot Pies](index/t/turkey-and-broccoli-pot-pies-102525.json)
+ * [Mini Chicken And Broccoli Pot Pies Recipe](index/m/mini-chicken-and-broccoli-pot-pies-recipe.json)
+ * [Mini Whole Wheat Chicken Pot Pies](index/m/mini-whole-wheat-chicken-pot-pies.json)
+ * [Red Velvet Whoopie Pies With Chocolate Cream Cheese Filling](index/r/red-velvet-whoopie-pies-with-chocolate-cream-cheese-filling.json)

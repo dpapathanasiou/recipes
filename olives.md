@@ -142,3 +142,4 @@
  * [Chicken Tagine Lemons And Olives](index/c/chicken-tagine-lemons-and-olives.json)
  * [Grilled Pizza With Salami Olives And Goat Cheese](index/g/grilled-pizza-with-salami-olives-and-goat-cheese.json)
  * [Pizza With Caramelized Red Onions Olives And Feta Cheese](index/p/pizza-with-caramelized-red-onions-olives-and-feta-cheese.json)
+ * [Gnocchi With Tomatoes Basil And Olives Recipe](index/g/gnocchi-with-tomatoes-basil-and-olives-recipe.json)

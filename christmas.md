@@ -11,3 +11,6 @@
  * [Spiced Christmas Coffee With Brandied Whipped Cream](index/s/spiced-christmas-coffee-with-brandied-whipped-cream-201208.json)
  * [Traditional Provencal Christmas Cake](index/t/traditional-provencal-christmas-cake-15780.json)
  * [Weihnachten Gedeckter Apfelkuchen Christmas Glazed Apple Cake](index/w/weihnachten-gedeckter-apfelkuchen-christmas-glazed-apple-cake.json)
+ * [Chocolate Chestnut Tortelli Christmas Cookies Recipe](index/c/chocolate-chestnut-tortelli-christmas-cookies-recipe.json)
+ * [Christmas Morning Cinnamon Rolls](index/c/christmas-morning-cinnamon-rolls.json)
+ * [Christmas Queso](index/c/christmas-queso.json)

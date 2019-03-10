@@ -5,3 +5,4 @@
  * [Pine Nutty Trout Fillets](index/p/pine-nutty-trout-fillets-68.json)
  * [Quinoa Salad With Beets Blue Cheese And Nutty Herb Vinaigrette](index/q/quinoa-salad-with-beets-blue-cheese-and-nutty-herb-vinaigrette-56389908.json)
  * [Spiced Lamb Patties With Nutty Garlic Sauce](index/s/spiced-lamb-patties-with-nutty-garlic-sauce-51255480.json)
+ * [Nutty Brittle Recipe](index/n/nutty-brittle-recipe.json)

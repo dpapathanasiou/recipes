@@ -7,3 +7,5 @@
  * [Sunday Sauce With Braciole Meatballs And Sausage](index/s/sunday-sauce-with-braciole-meatballs-and-sausage.json)
  * [Sunday Sauce With Sausage And Braciole](index/s/sunday-sauce-with-sausage-and-braciole-51223920.json)
  * [Sunday Supper Macaroni And Cheese](index/s/sunday-supper-macaroni-and-cheese-2660.json)
+ * [Sunday Pot Roast](index/s/sunday-pot-roast.json)
+ * [Sunday Rib Roast Recipe](index/s/sunday-rib-roast-recipe.json)

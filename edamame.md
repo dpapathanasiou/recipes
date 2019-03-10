@@ -9,3 +9,6 @@
  * [Seafood Paella With Edamame](index/s/seafood-paella-with-edamame-367830.json)
  * [Tomato Edamame And Corn Saute With Cumin And Cilantro](index/t/tomato-edamame-and-corn-saute-with-cumin-and-cilantro-104600.json)
  * [Beef Carrot And Edamame Stew](index/b/beef-carrot-and-edamame-stew.json)
+ * [Edamame Parmesan](index/e/edamame-parmesan.json)
+ * [Edamame Succotash Recipe](index/e/edamame-succotash-recipe.json)
+ * [Honey Soy Grilled Salmon With Edamame Recipe](index/h/honey-soy-grilled-salmon-with-edamame-recipe.json)

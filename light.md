@@ -9,3 +9,4 @@
  * [Light Tiramisu](index/l/light-tiramisu-168.json)
  * [Light Vegetable Broth](index/l/light-vegetable-broth-357290.json)
  * [Mussels In Light Broth](index/m/mussels-in-light-broth.json)
+ * [Light Carrot Cake Recipe](index/l/light-carrot-cake-recipe.json)

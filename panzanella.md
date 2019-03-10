@@ -7,3 +7,4 @@
  * [Salmon Panzanella With Green Beans](index/s/salmon-panzanella-with-green-beans-364530.json)
  * [Southwest Panzanella](index/s/southwest-panzanella-369129.json)
  * [Tuscan Panzanella](index/t/tuscan-panzanella-355873.json)
+ * [Winter Panzanella Recipe](index/w/winter-panzanella-recipe.json)

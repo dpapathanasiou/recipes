@@ -6,3 +6,4 @@
  * [Microwave Egg Sandwich With Cheddar And Avocado](index/m/microwave-egg-sandwich-with-cheddar-and-avocado.json)
  * [Microwave Lasagna With Spinach Mushrooms And Three Cheeses](index/m/microwave-lasagna-with-spinach-mushrooms-and-three-cheeses.json)
  * [Microwave Polenta](index/m/microwave-polenta-1418.json)
+ * [Microwave Chocolate Pudding Cake](index/m/microwave-chocolate-pudding-cake.json)

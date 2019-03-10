@@ -110,3 +110,6 @@
  * [Winter Fruit Chutney](index/w/winter-fruit-chutney-4428.json)
  * [Cilantro Mint Chutney](index/c/cilantro-mint-chutney.json)
  * [Shredded Brisket   Chutney Sandwiches](index/s/shredded-brisket---chutney-sandwiches.json)
+ * [Mango Chutney Green Beans](index/m/mango-chutney-green-beans.json)
+ * [Mango Chutney Recipe](index/m/mango-chutney-recipe.json)
+ * [Mango Chutney Turkey Wrap](index/m/mango-chutney-turkey-wrap.json)

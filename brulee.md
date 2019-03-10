@@ -19,3 +19,5 @@
  * [Tapioca Brulee](index/t/tapioca-brulee-166.json)
  * [White Chocolate Raspberry Creme Brulee Tartlets](index/w/white-chocolate-raspberry-creme-brulee-tartlets-104531.json)
  * [White Pepper Creme Brulee With Fig And Prune Compote](index/w/white-pepper-creme-brulee-with-fig-and-prune-compote-108592.json)
+ * [Chocolate Creme Brulee Recipe](index/c/chocolate-creme-brulee-recipe.json)
+ * [Creme Brulee Recipe](index/c/creme-brulee-recipe.json)

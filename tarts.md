@@ -25,3 +25,4 @@
  * [Strawberry Tarts With Ginger Nut Crust](index/s/strawberry-tarts-with-ginger-nut-crust-395925.json)
  * [Sugarplum Orange And Apricot Earl Grey Jam Tarts](index/s/sugarplum-orange-and-apricot-earl-grey-jam-tarts-368968.json)
  * [Onion Tarts With Mixed Greens](index/o/onion-tarts-with-mixed-greens.json)
+ * [Strawberry Tarts Recipe](index/s/strawberry-tarts-recipe.json)

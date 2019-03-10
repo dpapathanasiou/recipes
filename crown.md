@@ -10,3 +10,4 @@
  * [Crown Roast Of Pork With Lady Apples And Shallots](index/c/crown-roast-of-pork-with-lady-apples-and-shallots.json)
  * [Crown Roast Of Pork With Onion And Bread Crumb Stuffing](index/c/crown-roast-of-pork-with-onion-and-bread-crumb-stuffing-233258.json)
  * [Crown Roast Of Pork With Sausage Stuffing](index/c/crown-roast-of-pork-with-sausage-stuffing-100402.json)
+ * [Crown Roast Of Lamb Recipe](index/c/crown-roast-of-lamb-recipe.json)

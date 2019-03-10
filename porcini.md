@@ -35,3 +35,7 @@
  * [Whole Wheat Porcini Soda Bread](index/w/whole-wheat-porcini-soda-bread-107261.json)
  * [Wild Mushroom Ravioli In Porcini Broth](index/w/wild-mushroom-ravioli-in-porcini-broth-236499.json)
  * [Israeli Couscous With Porcini And Arugula](index/i/israeli-couscous-with-porcini-and-arugula.json)
+ * [Petite Filet With Gorgonzola And Porcini Mushroom Sauce Recipe](index/p/petite-filet-with-gorgonzola-and-porcini-mushroom-sauce-recipe.json)
+ * [Porcini Rubbed Roast Beef](index/p/porcini-rubbed-roast-beef.json)
+ * [Rib Eye Steaks With Porcini Rub](index/r/rib-eye-steaks-with-porcini-rub.json)
+ * [Stracotto Pot Roast With Porcini Mushrooms Recipe](index/s/stracotto-pot-roast-with-porcini-mushrooms-recipe.json)

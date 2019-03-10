@@ -79,3 +79,8 @@
  * [Whitefish Salad And Roasted Beet Coleslaw](index/w/whitefish-salad-and-roasted-beet-coleslaw-103250.json)
  * [Wild Mushroom Roasted Beet And Goat Cheese Salad With Onion Puree](index/w/wild-mushroom-roasted-beet-and-goat-cheese-salad-with-onion-puree-51181400.json)
  * [Beet Watercress Salad Farm Eggs](index/b/beet-watercress-salad-farm-eggs.json)
+ * [Balsamic Roasted Beet Salad Recipe](index/b/balsamic-roasted-beet-salad-recipe.json)
+ * [Beet Salad Recipe](index/b/beet-salad-recipe.json)
+ * [Roasted Beet And Goat Cheese Salad](index/r/roasted-beet-and-goat-cheese-salad.json)
+ * [Roasted Beet Salad Recipe](index/r/roasted-beet-salad-recipe.json)
+ * [Sweet Potato Strings With Beet Ketchup Recipe](index/s/sweet-potato-strings-with-beet-ketchup-recipe.json)

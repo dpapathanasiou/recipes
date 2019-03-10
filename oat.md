@@ -21,3 +21,4 @@
  * [Raspberry Whiskey Oat Cheesecake](index/r/raspberry-whiskey-oat-cheesecake-56389498.json)
  * [Seedy Oat Crackers](index/s/seedy-oat-crackers.json)
  * [Vegan Chocolate Tart With Salted Oat Crust](index/v/vegan-chocolate-tart-with-salted-oat-crust-56390114.json)
+ * [Oat Waffle Recipe](index/o/oat-waffle-recipe.json)

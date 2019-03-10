@@ -11,3 +11,4 @@
  * [Shrimp Salad Tostadas With Tomatoes And Cucumber](index/s/shrimp-salad-tostadas-with-tomatoes-and-cucumber-56389832.json)
  * [Skirt Steak Tostadas With Cashew Salsa And Red Cabbage Slaw](index/s/skirt-steak-tostadas-with-cashew-salsa-and-red-cabbage-slaw.json)
  * [Tostadas With Creamy Roasted Poblanos And Corn](index/t/tostadas-with-creamy-roasted-poblanos-and-corn-56389834.json)
+ * [Roasted Vegetable Tostadas With Chipotle Cream Recipe](index/r/roasted-vegetable-tostadas-with-chipotle-cream-recipe.json)

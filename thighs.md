@@ -15,3 +15,6 @@
  * [Thai Chicken Thighs](index/t/thai-chicken-thighs-149.json)
  * [Braised Chicken Thighs Carrots](index/b/braised-chicken-thighs-carrots.json)
  * [Vindaloo Spiced Chicken Thighs With Coconut Tomato Stew](index/v/vindaloo-spiced-chicken-thighs-with-coconut-tomato-stew.json)
+ * [Braised Chicken Thighs With 40 Cloves Of Garlic Recipe](index/b/braised-chicken-thighs-with-40-cloves-of-garlic-recipe.json)
+ * [Maple Mustard Chicken Thighs Recipe](index/m/maple-mustard-chicken-thighs-recipe.json)
+ * [Teriyaki Chicken Thighs Recipe](index/t/teriyaki-chicken-thighs-recipe.json)

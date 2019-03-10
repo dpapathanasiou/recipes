@@ -31,3 +31,7 @@
  * [Tequila Tamarindo](index/t/tequila-tamarindo-359314.json)
  * [Tequila Tropical Punch](index/t/tequila-tropical-punch-201235.json)
  * [Watermelon Lime And Tequila](index/w/watermelon-lime-and-tequila-51240250.json)
+ * [Chicken Tequila Tailgate Sandwiches Recipe](index/c/chicken-tequila-tailgate-sandwiches-recipe.json)
+ * [Nantucket Bay Scallops In Tequila Citrus And Chile Dressing Recipe2](index/n/nantucket-bay-scallops-in-tequila-citrus-and-chile-dressing-recipe2.json)
+ * [Tequila Lemon Chicken Breast Recipe](index/t/tequila-lemon-chicken-breast-recipe.json)
+ * [Tequila Lime Chicken Recipe4](index/t/tequila-lime-chicken-recipe4.json)

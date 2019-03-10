@@ -10,3 +10,5 @@
  * [Steamed Scrod Fillets Chinese Style](index/s/steamed-scrod-fillets-chinese-style-11939.json)
  * [Sticky Rice With Chinese Sausage And Dried Scallops](index/s/sticky-rice-with-chinese-sausage-and-dried-scallops-231372.json)
  * [Chinese Peanut Noodles With Beef](index/c/chinese-peanut-noodles-with-beef.json)
+ * [Barbecued Chinese Chicken Lettuce Wraps Recipe](index/b/barbecued-chinese-chicken-lettuce-wraps-recipe.json)
+ * [Chinese Chicken Salad Recipe](index/c/chinese-chicken-salad-recipe.json)

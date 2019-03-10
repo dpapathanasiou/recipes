@@ -6,3 +6,4 @@
  * [Yorkshire Pudding](index/y/yorkshire-pudding.json)
  * [Yorkshire Puddings](index/y/yorkshire-puddings-14921.json)
  * [Standing Rib Roast With Yorkshire Pudding](index/s/standing-rib-roast-with-yorkshire-pudding.json)
+ * [Yorkshire Puddings Recipe](index/y/yorkshire-puddings-recipe.json)

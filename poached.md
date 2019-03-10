@@ -124,3 +124,6 @@
  * [Wine Poached Mahimahi And Shrimp](index/w/wine-poached-mahimahi-and-shrimp-5134.json)
  * [Poached Salmon Over Greens With Caper Vinaigrette](index/p/poached-salmon-over-greens-with-caper-vinaigrette.json)
  * [Spinach Salad With Poached Eggs And Pancetta](index/s/spinach-salad-with-poached-eggs-and-pancetta.json)
+ * [Perfect Poached Eggs Recipe](index/p/perfect-poached-eggs-recipe.json)
+ * [Traditional Poached Salmon](index/t/traditional-poached-salmon.json)
+ * [Vanilla Poached Pears Recipe](index/v/vanilla-poached-pears-recipe.json)

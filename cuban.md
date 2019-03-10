@@ -14,3 +14,5 @@
  * [Grilled Turkey Cuban Sandwiches](index/g/grilled-turkey-cuban-sandwiches-233149.json)
  * [Sweet Potatoes With Cuban Style Beef Picadillo](index/s/sweet-potatoes-with-cuban-style-beef-picadillo-51203840.json)
  * [Cuban Beef Picadillo](index/c/cuban-beef-picadillo.json)
+ * [Cuban Sandwich Recipe](index/c/cuban-sandwich-recipe.json)
+ * [Cuban Sandwich](index/c/cuban-sandwich.json)

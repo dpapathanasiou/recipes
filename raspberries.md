@@ -25,3 +25,4 @@
  * [Vanillabuttermilk Wedding Cake With Raspberries And Orangecream Cheese Frosting](index/v/vanillabuttermilk-wedding-cake-with-raspberries-and-orangecream-cheese-frosting.json)
  * [Walnut Crepes With Raspberries And Dried Figs](index/w/walnut-crepes-with-raspberries-and-dried-figs-101608.json)
  * [Whipped Cream Cakes With Peaches And Raspberries](index/w/whipped-cream-cakes-with-peaches-and-raspberries-10535.json)
+ * [Lemon Ricotta Pancakes With Lemon Curd And Fresh Raspberries Recipe](index/l/lemon-ricotta-pancakes-with-lemon-curd-and-fresh-raspberries-recipe.json)

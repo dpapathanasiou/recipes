@@ -16,3 +16,7 @@
  * [Poached Oysters In Fennel Saffron Soup](index/p/poached-oysters-in-fennel-saffron-soup-232691.json)
  * [Roasted Oysters With Pickled Radishes Carrots And Celery Root](index/r/roasted-oysters-with-pickled-radishes-carrots-and-celery-root.json)
  * [Tomales Bay Oysters Rockefellar](index/t/tomales-bay-oysters-rockefellar-395476.json)
+ * [Char Grilled Oysters](index/c/char-grilled-oysters.json)
+ * [Oysters Recipe](index/o/oysters-recipe.json)
+ * [Oysters Rockefeller](index/o/oysters-rockefeller.json)
+ * [Pan Fried Oysters Recipe0](index/p/pan-fried-oysters-recipe0.json)

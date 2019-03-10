@@ -38,3 +38,5 @@
  * [Whipped Ricotta With Honey And Mixed Berries](index/w/whipped-ricotta-with-honey-and-mixed-berries-105374.json)
  * [Acai Bowl With Berries And Coconut](index/a/acai-bowl-with-berries-and-coconut.json)
  * [Buttermilk Tartlets Berries](index/b/buttermilk-tartlets-berries.json)
+ * [Zabaglione With Berries Recipe](index/z/zabaglione-with-berries-recipe.json)
+ * [Zabaglione With Fresh Berries Recipe](index/z/zabaglione-with-fresh-berries-recipe.json)

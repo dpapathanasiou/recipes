@@ -8,3 +8,4 @@
  * [Fudgy Gluten Free Cream Cheese Brownies](index/f/fudgy-gluten-free-cream-cheese-brownies.json)
  * [Fudgy Orange Zucchini Cake With Orange Glaze](index/f/fudgy-orange-zucchini-cake-with-orange-glaze-6007.json)
  * [Fudgy Peanut Brownies](index/f/fudgy-peanut-brownies-103794.json)
+ * [Fudgy One Pot Brownies](index/f/fudgy-one-pot-brownies.json)

@@ -17,3 +17,4 @@
  * [Warm Date And Almond Puddings](index/w/warm-date-and-almond-puddings-358409.json)
  * [Warm Jasmine Rice Puddings With Passion Fruit](index/w/warm-jasmine-rice-puddings-with-passion-fruit-230663.json)
  * [Yorkshire Puddings](index/y/yorkshire-puddings-14921.json)
+ * [Yorkshire Puddings Recipe](index/y/yorkshire-puddings-recipe.json)

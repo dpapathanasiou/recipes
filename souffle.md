@@ -30,3 +30,5 @@
  * [Winter Squash Souffle](index/w/winter-squash-souffle-236420.json)
  * [Green Garlic And Spinach Souffle](index/g/green-garlic-and-spinach-souffle.json)
  * [Savory Leek Gruyere Souffle](index/s/savory-leek-gruyere-souffle.json)
+ * [Spinach And Cheddar Souffle Recipe](index/s/spinach-and-cheddar-souffle-recipe.json)
+ * [Sweet Potato Souffle Recipe](index/s/sweet-potato-souffle-recipe.json)

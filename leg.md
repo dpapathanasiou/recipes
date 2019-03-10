@@ -46,3 +46,5 @@
  * [Stuffed Leg Of Lamb Fakdeh Mehshi Khodra](index/s/stuffed-leg-of-lamb-fakdeh-mehshi-khodra-233061.json)
  * [Tandoori Spiced Leg Of Lamb](index/t/tandoori-spiced-leg-of-lamb-109172.json)
  * [Wine Braised Leg Of Lamb With Garlic](index/w/wine-braised-leg-of-lamb-with-garlic-231736.json)
+ * [Grilled Leg Of Lamb Recipe](index/g/grilled-leg-of-lamb-recipe.json)
+ * [Roast Leg Of Lamb Recipe2](index/r/roast-leg-of-lamb-recipe2.json)

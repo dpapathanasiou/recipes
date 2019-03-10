@@ -6,3 +6,4 @@
  * [Pork Satay With Fresh Vegetable Pickles](index/p/pork-satay-with-fresh-vegetable-pickles-231420.json)
  * [Beef Satay With Ginger Dipping Sauce](index/b/beef-satay-with-ginger-dipping-sauce.json)
  * [Lemongrass Beef Satay](index/l/lemongrass-beef-satay.json)
+ * [Chicken Satay With Peanut Sauce](index/c/chicken-satay-with-peanut-sauce.json)

@@ -16,3 +16,6 @@
  * [Spinach Salad With Bacon Dates And Feta Dressing](index/s/spinach-salad-with-bacon-dates-and-feta-dressing-13099.json)
  * [Squash With Dates And Thyme](index/s/squash-with-dates-and-thyme-51252730.json)
  * [Stuffed Dates](index/s/stuffed-dates-51173800.json)
+ * [Bacon Wrapped Dates Stuffed With Manchego Recipe](index/b/bacon-wrapped-dates-stuffed-with-manchego-recipe.json)
+ * [Bacon Wrapped Dates](index/b/bacon-wrapped-dates.json)
+ * [Cheese Stuffed Dates With Prosciutto Recipe](index/c/cheese-stuffed-dates-with-prosciutto-recipe.json)

@@ -8,3 +8,5 @@
  * [Sheet Pan Crispy Fish Tacos With Chili Roasted Corn](index/s/sheet-pan-crispy-fish-tacos-with-chili-roasted-corn-56390001.json)
  * [Sheet Pan Cumin Chicken Thighs With Squash Fennel And Grapes](index/s/sheet-pan-cumin-chicken-thighs-with-squash-fennel-and-grapes-56390000.json)
  * [Vanilla Buttermilk Sheet Cake With Raspberries And Orange Cream Cheese Frosting](index/v/vanilla-buttermilk-sheet-cake-with-raspberries-and-orange-cream-cheese-frosting.json)
+ * [Red Velvet Sheet Cake With Classic Red Velvet Frosting Recipe](index/r/red-velvet-sheet-cake-with-classic-red-velvet-frosting-recipe.json)
+ * [Texas Sheet Cake With Chocolate Ganache](index/t/texas-sheet-cake-with-chocolate-ganache.json)

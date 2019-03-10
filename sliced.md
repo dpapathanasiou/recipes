@@ -12,3 +12,4 @@
  * [Sliced Steak With Roasted Corn Salsa](index/s/sliced-steak-with-roasted-corn-salsa-1031267.json)
  * [Sliced Strip Steak With Arugula And Parsley](index/s/sliced-strip-steak-with-arugula-and-parsley-56389892.json)
  * [Strawberry Souffle With Sliced Strawberries](index/s/strawberry-souffle-with-sliced-strawberries-5247.json)
+ * [Crispy Sliced Roasted Potatoes Recipe](index/c/crispy-sliced-roasted-potatoes-recipe.json)

@@ -92,3 +92,5 @@
  * [Zucchini Fritters With Herbs And Cheese](index/z/zucchini-fritters-with-herbs-and-cheese-106460.json)
  * [Frittata With Mixed Herbs Leeks And Parmesan Cheese](index/f/frittata-with-mixed-herbs-leeks-and-parmesan-cheese.json)
  * [Polenta Pizza With Tomatoes And Fresh Herbs](index/p/polenta-pizza-with-tomatoes-and-fresh-herbs.json)
+ * [Oven Roasted Cod Crusted With Herbs Recipe](index/o/oven-roasted-cod-crusted-with-herbs-recipe.json)
+ * [Roasted Salmon With Green Herbs Recipe](index/r/roasted-salmon-with-green-herbs-recipe.json)

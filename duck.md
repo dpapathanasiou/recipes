@@ -77,3 +77,6 @@
  * [Tea Smoked Duck Breast With Pears And Blueberry Jus](index/t/tea-smoked-duck-breast-with-pears-and-blueberry-jus-240799.json)
  * [Tea Smoked Duck Breasts](index/t/tea-smoked-duck-breasts-235728.json)
  * [White Bean Soup With Duck Confit](index/w/white-bean-soup-with-duck-confit-243546.json)
+ * [Duck Breast With Berry Sauce Recipe](index/d/duck-breast-with-berry-sauce-recipe.json)
+ * [Roast Duck With Oyster Dressing Recipe](index/r/roast-duck-with-oyster-dressing-recipe.json)
+ * [Spice Rubbed Grilled Duck Breast With Grilled Peach And Goat Cheese Salad Recipe](index/s/spice-rubbed-grilled-duck-breast-with-grilled-peach-and-goat-cheese-salad-recipe.json)

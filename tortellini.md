@@ -9,3 +9,5 @@
  * [Tortellini With Porcini Mushroom Sauce](index/t/tortellini-with-porcini-mushroom-sauce-243388.json)
  * [Beef Tortellini In Broth](index/b/beef-tortellini-in-broth.json)
  * [Tortellini In Broth](index/t/tortellini-in-broth.json)
+ * [Tortellini Skewers](index/t/tortellini-skewers.json)
+ * [Tortellini With Pumpkin Alfredo Sauce Recipe](index/t/tortellini-with-pumpkin-alfredo-sauce-recipe.json)

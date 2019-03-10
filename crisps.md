@@ -24,3 +24,5 @@
  * [Tea And Honey Crisps](index/t/tea-and-honey-crisps-236667.json)
  * [Toasted Corn Crisps](index/t/toasted-corn-crisps-354195.json)
  * [Tuna And Avocado Tartare With California Caviar On Sesame Wonton Crisps](index/t/tuna-and-avocado-tartare-with-california-caviar-on-sesame-wonton-crisps-236173.json)
+ * [Parmesan Crisps](index/p/parmesan-crisps.json)
+ * [Zucchini Parmesan Crisps Recipe](index/z/zucchini-parmesan-crisps-recipe.json)

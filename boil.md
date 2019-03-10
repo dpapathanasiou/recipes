@@ -7,3 +7,6 @@
  * [Shellfish Boil With Spicy Green Dipping Sauce](index/s/shellfish-boil-with-spicy-green-dipping-sauce-56389866.json)
  * [Shrimp Boil](index/s/shrimp-boil-365818.json)
  * [Shrimp Boil With Spicy Horseradish Sauce](index/s/shrimp-boil-with-spicy-horseradish-sauce-243174.json)
+ * [Crab Boil Recipe](index/c/crab-boil-recipe.json)
+ * [Low Country Boil Recipe](index/l/low-country-boil-recipe.json)
+ * [Shrimp Boil Recipe](index/s/shrimp-boil-recipe.json)

@@ -13,3 +13,5 @@
  * [Smoked Turkey Wraps With Mango And Curried Mayonnaise](index/s/smoked-turkey-wraps-with-mango-and-curried-mayonnaise-106965.json)
  * [Turkey Wraps With Chipotle Mayonnaise](index/t/turkey-wraps-with-chipotle-mayonnaise-104034.json)
  * [Turkey Wraps With Curry Chutney Mayonnaise And Peanuts](index/t/turkey-wraps-with-curry-chutney-mayonnaise-and-peanuts-231090.json)
+ * [Barbecued Chinese Chicken Lettuce Wraps Recipe](index/b/barbecued-chinese-chicken-lettuce-wraps-recipe.json)
+ * [Lettuce Wraps](index/l/lettuce-wraps.json)

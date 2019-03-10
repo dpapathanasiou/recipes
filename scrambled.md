@@ -21,3 +21,6 @@
  * [Scrambled Eggs With Sausage And Thyme](index/s/scrambled-eggs-with-sausage-and-thyme-4482.json)
  * [Scrambled Eggs With Spinach Parmesan](index/s/scrambled-eggs-with-spinach-parmesan-51143630.json)
  * [Scrambled Eggs With Tomato Goat Cheese And Mint](index/s/scrambled-eggs-with-tomato-goat-cheese-and-mint-104484.json)
+ * [Scrambled Eggs With Smoked Salmon Recipe](index/s/scrambled-eggs-with-smoked-salmon-recipe.json)
+ * [Scrambled Eggs With Smoked Salmon](index/s/scrambled-eggs-with-smoked-salmon.json)
+ * [Spicy Scrambled Eggs](index/s/spicy-scrambled-eggs.json)

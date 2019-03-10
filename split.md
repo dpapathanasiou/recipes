@@ -15,3 +15,5 @@
  * [Split Pea Soup With Sausage And Potato](index/s/split-pea-soup-with-sausage-and-potato-231425.json)
  * [Tropical Fruit Foster Split](index/t/tropical-fruit-foster-split-236221.json)
  * [Yellow Split Pea Soup](index/y/yellow-split-pea-soup-105641.json)
+ * [Parkers Split Pea Soup Recipe](index/p/parkers-split-pea-soup-recipe.json)
+ * [Slow Cooker Split Pea Soup Recipe](index/s/slow-cooker-split-pea-soup-recipe.json)

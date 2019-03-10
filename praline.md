@@ -21,3 +21,4 @@
  * [Raspberry Pistachio Ice Cream Pie With Almond Praline](index/r/raspberry-pistachio-ice-cream-pie-with-almond-praline-105387.json)
  * [Vanilla Praline Meringue Cups With Blackberry Raspberry Sauce](index/v/vanilla-praline-meringue-cups-with-blackberry-raspberry-sauce-4583.json)
  * [White Chocolate Praline Ice Cream Terrine With Blackberry Raspberry Sauce](index/w/white-chocolate-praline-ice-cream-terrine-with-blackberry-raspberry-sauce-231325.json)
+ * [Southern Buttermilk Bourbon Praline Doughnuts Recipe](index/s/southern-buttermilk-bourbon-praline-doughnuts-recipe.json)

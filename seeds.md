@@ -43,3 +43,4 @@
  * [Yam Latkes With Mustard Seeds And Curry](index/y/yam-latkes-with-mustard-seeds-and-curry-974.json)
  * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)
  * [Steamed Sugar Snap Peas With Black Sesame Seeds](index/s/steamed-sugar-snap-peas-with-black-sesame-seeds.json)
+ * [Asian Spice Rubbed Ribs With Pineapple Ginger Bbq Sauce And Black And White Sesame Seeds Recipe](index/a/asian-spice-rubbed-ribs-with-pineapple-ginger-bbq-sauce-and-black-and-white-sesame-seeds-recipe.json)

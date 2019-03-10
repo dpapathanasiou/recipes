@@ -57,3 +57,4 @@
  * [White Chocolate Mousse And Berry Tart](index/w/white-chocolate-mousse-and-berry-tart-1988.json)
  * [White Chocolate Mousse With Blackberries](index/w/white-chocolate-mousse-with-blackberries-102166.json)
  * [White Chocolate Pumpkin Mousse](index/w/white-chocolate-pumpkin-mousse.json)
+ * [Peanut Butter Mousse Recipe](index/p/peanut-butter-mousse-recipe.json)

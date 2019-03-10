@@ -20,3 +20,5 @@
  * [Sauteed Collard Greens With Slab Bacon](index/s/sauteed-collard-greens-with-slab-bacon.json)
  * [Seafood Salad With Collard Greens Slaw](index/s/seafood-salad-with-collard-greens-slaw-108218.json)
  * [Vegetable And Ricotta Stuffed Collard Rolls With Tomato Sauce](index/v/vegetable-and-ricotta-stuffed-collard-rolls-with-tomato-sauce-11642.json)
+ * [Collard Greens Recipe](index/c/collard-greens-recipe.json)
+ * [Collard Greens With Smoked Turkey Wings Recipe0](index/c/collard-greens-with-smoked-turkey-wings-recipe0.json)

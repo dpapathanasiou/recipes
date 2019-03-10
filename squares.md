@@ -27,3 +27,6 @@
  * [Yellow Bell Pepper Squares With Garlic Bread Crumbs](index/y/yellow-bell-pepper-squares-with-garlic-bread-crumbs-13061.json)
  * [Zucchini Parmesan Squares](index/z/zucchini-parmesan-squares-1334.json)
  * [Meyer Lemon Squares](index/m/meyer-lemon-squares.json)
+ * [No Bake Chocolate Pretzel Peanut Butter Squares](index/n/no-bake-chocolate-pretzel-peanut-butter-squares.json)
+ * [Polenta Squares With Mushroom Ragu Recipe](index/p/polenta-squares-with-mushroom-ragu-recipe.json)
+ * [Salted Caramel Cheesecake Squares](index/s/salted-caramel-cheesecake-squares.json)

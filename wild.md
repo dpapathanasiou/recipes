@@ -124,3 +124,6 @@
  * [Pizza With Butternut Squash Wild Mushrooms And Artichoke Sauce](index/p/pizza-with-butternut-squash-wild-mushrooms-and-artichoke-sauce.json)
  * [Savory Barley Soup With Wild Mushrooms And Thyme](index/s/savory-barley-soup-with-wild-mushrooms-and-thyme.json)
  * [Wild Mushroom  Kale And Fontina Pizza](index/w/wild-mushroom--kale-and-fontina-pizza.json)
+ * [Chicken With Wild Mushroom And Balsamic Cream Sauce Recipe](index/c/chicken-with-wild-mushroom-and-balsamic-cream-sauce-recipe.json)
+ * [Cream Of Wild Mushroom Soup Recipe](index/c/cream-of-wild-mushroom-soup-recipe.json)
+ * [Wild Rice Salad Recipe](index/w/wild-rice-salad-recipe.json)

@@ -16,3 +16,4 @@
  * [Mulled Wine Melange](index/m/mulled-wine-melange-200930.json)
  * [Mulled Wine With Citrus](index/m/mulled-wine-with-citrus-200586.json)
  * [Quick Cider Mulled Wine](index/q/quick-cider-mulled-wine.json)
+ * [Mulled Wine Recipe](index/m/mulled-wine-recipe.json)

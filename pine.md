@@ -111,3 +111,4 @@
  * [Watermelon Ricotta Salata Basil And Pine Nut Salad](index/w/watermelon-ricotta-salata-basil-and-pine-nut-salad-232548.json)
  * [Yogurt With Fresh Figs Honey And Pine Nuts](index/y/yogurt-with-fresh-figs-honey-and-pine-nuts-51239840.json)
  * [Zucchini With Raisins And Pine Nuts](index/z/zucchini-with-raisins-and-pine-nuts-101855.json)
+ * [Penne With Brown Butter Arugula And Pine Nuts Recipe](index/p/penne-with-brown-butter-arugula-and-pine-nuts-recipe.json)

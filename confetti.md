@@ -10,3 +10,5 @@
  * [Mexican Confetti Rice](index/m/mexican-confetti-rice-3091.json)
  * [Poached Pears With Sweet Wine And Fruit Confetti](index/p/poached-pears-with-sweet-wine-and-fruit-confetti-101379.json)
  * [Zucchini And Bell Pepper Confetti](index/z/zucchini-and-bell-pepper-confetti-14400.json)
+ * [Confetti Corn Recipe4](index/c/confetti-corn-recipe4.json)
+ * [Fluffy Confetti Birthday Cake](index/f/fluffy-confetti-birthday-cake.json)

@@ -9,3 +9,5 @@
  * [Popped Amaranth And Toasted Wheat Berry Fool](index/p/popped-amaranth-and-toasted-wheat-berry-fool-51123000.json)
  * [Raspberry Fool](index/r/raspberry-fool-102078.json)
  * [Raspberry Fool](index/r/raspberry-fool-5914.json)
+ * [Raspberry Fool](index/r/raspberry-fool.json)
+ * [Strawberry Fool](index/s/strawberry-fool.json)

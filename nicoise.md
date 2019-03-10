@@ -18,3 +18,4 @@
  * [Swordfish Nicoise](index/s/swordfish-nicoise-106706.json)
  * [Tuna Burgers Nicoise](index/t/tuna-burgers-nicoise-4218.json)
  * [Tuna Nicoise Fusilli](index/t/tuna-nicoise-fusilli-106807.json)
+ * [Roasted Salmon Nicoise Platter Recipe](index/r/roasted-salmon-nicoise-platter-recipe.json)

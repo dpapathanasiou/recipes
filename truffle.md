@@ -17,3 +17,5 @@
  * [Truffle Scented Roast Turkey With Shallots And Chestnuts](index/t/truffle-scented-roast-turkey-with-shallots-and-chestnuts-105996.json)
  * [White Chocolate Truffle And Chocolate Fudge Layer Cake](index/w/white-chocolate-truffle-and-chocolate-fudge-layer-cake-107459.json)
  * [Grilled Flat Iron Steaks Semolina Onion Rings And Creamy Truffle](index/g/grilled-flat-iron-steaks-semolina-onion-rings-and-creamy-truffle.json)
+ * [Arugula Salad With White Truffle Oil Marcona Almonds And Shaved Parmesan](index/a/arugula-salad-with-white-truffle-oil-marcona-almonds-and-shaved-parmesan.json)
+ * [Fettuccine With White Truffle Butter And Mushrooms](index/f/fettuccine-with-white-truffle-butter-and-mushrooms.json)

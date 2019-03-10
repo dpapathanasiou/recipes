@@ -6,3 +6,6 @@
  * [Sausage Stuffed Acorn Squash With Molasses Glaze](index/s/sausage-stuffed-acorn-squash-with-molasses-glaze-2768.json)
  * [Strip Steak With Roasted Acorn Squash And Sprouted Lentils](index/s/strip-steak-with-roasted-acorn-squash-and-sprouted-lentils.json)
  * [Acorn Squash Dal With Cashew Cilantro Rice](index/a/acorn-squash-dal-with-cashew-cilantro-rice.json)
+ * [Cheesy Rice Stuffed Acorn Squash](index/c/cheesy-rice-stuffed-acorn-squash.json)
+ * [Sweet Roasted Rosemary Acorn Squash Wedges Recipe](index/s/sweet-roasted-rosemary-acorn-squash-wedges-recipe.json)
+ * [Vegan Quinoa Cranberry Stuffed Acorn Squash](index/v/vegan-quinoa-cranberry-stuffed-acorn-squash.json)

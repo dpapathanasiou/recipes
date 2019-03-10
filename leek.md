@@ -89,3 +89,5 @@
  * [Savory Leek Gruyere Souffle](index/s/savory-leek-gruyere-souffle.json)
  * [Spring Pizza Pea Leek Burrata](index/s/spring-pizza-pea-leek-burrata.json)
  * [Summer Squash And Leek Puree](index/s/summer-squash-and-leek-puree.json)
+ * [Leek And Potato Casserole](index/l/leek-and-potato-casserole.json)
+ * [Potato Leek Soup Recipe](index/p/potato-leek-soup-recipe.json)

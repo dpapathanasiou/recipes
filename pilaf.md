@@ -35,3 +35,6 @@
  * [Wild Rice And Toasted Almond Pilaf](index/w/wild-rice-and-toasted-almond-pilaf-106282.json)
  * [Yellow Rice Pilaf](index/y/yellow-rice-pilaf-51126870.json)
  * [Coconut Curry Chicken With Basmati Pilaf](index/c/coconut-curry-chicken-with-basmati-pilaf.json)
+ * [Basmati Rice Pilaf With Peas Recipe](index/b/basmati-rice-pilaf-with-peas-recipe.json)
+ * [Pilaf Style Rice Recipe](index/p/pilaf-style-rice-recipe.json)
+ * [Rice Pilaf Recipe](index/r/rice-pilaf-recipe.json)

@@ -14,3 +14,4 @@
  * [Turkey Roulades With Corn Bread Jalapeno Monterey Jack Filling](index/t/turkey-roulades-with-corn-bread-jalapeno-monterey-jack-filling-10768.json)
  * [Zucchini With Jalapeno Monterey Jack](index/z/zucchini-with-jalapeno-monterey-jack-12275.json)
  * [Beef And Monterey Jack Taquitos With Avocado Crema](index/b/beef-and-monterey-jack-taquitos-with-avocado-crema.json)
+ * [Marys Grilled Cheese Sandwich With Spicy Buffalo Chicken Pepper Jack And Blue Cheese Recipe](index/m/marys-grilled-cheese-sandwich-with-spicy-buffalo-chicken-pepper-jack-and-blue-cheese-recipe.json)

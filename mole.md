@@ -15,3 +15,5 @@
  * [Teotitlan Style Black Mole](index/t/teotitlan-style-black-mole-232061.json)
  * [Turkey Mole](index/t/turkey-mole-20140.json)
  * [Turkey Mole Sauce](index/t/turkey-mole-sauce-240456.json)
+ * [Chicken Mole Recipe](index/c/chicken-mole-recipe.json)
+ * [Easy Chicken Mole](index/e/easy-chicken-mole.json)

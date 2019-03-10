@@ -13,3 +13,5 @@
  * [Our Favorite Spaghetti And Meatballs](index/o/our-favorite-spaghetti-and-meatballs-56389489.json)
  * [Our Favorite Texas Beef Chili](index/o/our-favorite-texas-beef-chili-51249010.json)
  * [Queen Elizabeths Favorite Quiche](index/q/queen-elizabeths-favorite-quiche-6001.json)
+ * [Davids Favorite Carrot Cake With Pineapple Cream Cheese Frosting](index/d/davids-favorite-carrot-cake-with-pineapple-cream-cheese-frosting.json)
+ * [Jimmys Favorite Garlic Bread Recipe](index/j/jimmys-favorite-garlic-bread-recipe.json)

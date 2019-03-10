@@ -9,3 +9,8 @@
  * [Smoked Fish Platter With Mustard Caper Sauce And Fennel Cucumber Salad](index/s/smoked-fish-platter-with-mustard-caper-sauce-and-fennel-cucumber-salad-239054.json)
  * [Smoked Salmon Platter With Dill Sour Cream](index/s/smoked-salmon-platter-with-dill-sour-cream-240664.json)
  * [Vegetable Platter With Cannellini Hummus](index/v/vegetable-platter-with-cannellini-hummus-2340.json)
+ * [Antipasto Platter Recipe](index/a/antipasto-platter-recipe.json)
+ * [Breakfast Smoked Salmon Platter](index/b/breakfast-smoked-salmon-platter.json)
+ * [Fresh Fruit Platter Recipe](index/f/fresh-fruit-platter-recipe.json)
+ * [Roasted Salmon Nicoise Platter Recipe](index/r/roasted-salmon-nicoise-platter-recipe.json)
+ * [Seafood Platter Recipe](index/s/seafood-platter-recipe.json)

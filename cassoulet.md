@@ -6,3 +6,4 @@
  * [Sausage And White Bean Cassoulet](index/s/sausage-and-white-bean-cassoulet-14292.json)
  * [Shortcut Pork Cassoulet](index/s/shortcut-pork-cassoulet-5880.json)
  * [Vegetarian Cassoulet](index/v/vegetarian-cassoulet-241753.json)
+ * [Cassoulet With Sausage Recipe](index/c/cassoulet-with-sausage-recipe.json)

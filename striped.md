@@ -16,3 +16,4 @@
  * [Striped Bass With Saffron Vegetables And Spiced Broccoli Rabe](index/s/striped-bass-with-saffron-vegetables-and-spiced-broccoli-rabe-236888.json)
  * [Striped Bass With Swiss Chard Chestnuts And Pomegranate Vinaigrette](index/s/striped-bass-with-swiss-chard-chestnuts-and-pomegranate-vinaigrette-231286.json)
  * [Wild Striped Bass With Charred Leeks And Squid Vinaigrette](index/w/wild-striped-bass-with-charred-leeks-and-squid-vinaigrette-107561.json)
+ * [Roasted Striped Bass Recipe](index/r/roasted-striped-bass-recipe.json)

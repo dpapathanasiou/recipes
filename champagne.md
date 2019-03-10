@@ -44,3 +44,4 @@
  * [Strawberry Lime And Champagne Cocktail](index/s/strawberry-lime-and-champagne-cocktail-102812.json)
  * [Tropical Fruit Champagne Granita](index/t/tropical-fruit-champagne-granita-12202.json)
  * [White Peach Cassis And Champagne Floats](index/w/white-peach-cassis-and-champagne-floats-232575.json)
+ * [Arugula Salad With Pickled Red Onions And Champagne Vinaigrette](index/a/arugula-salad-with-pickled-red-onions-and-champagne-vinaigrette.json)

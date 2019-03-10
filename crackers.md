@@ -15,3 +15,7 @@
  * [Rye Crispbread Crackers With Pepper Dill Creme Fraiche And Smoked Salmon](index/r/rye-crispbread-crackers-with-pepper-dill-creme-fraiche-and-smoked-salmon-105902.json)
  * [Seedy Oat Crackers](index/s/seedy-oat-crackers.json)
  * [Wasabi Shrimp Crackers](index/w/wasabi-shrimp-crackers-231173.json)
+ * [Blue Cheese And Walnut Crackers Recipe](index/b/blue-cheese-and-walnut-crackers-recipe.json)
+ * [Homemade Cheddar Crackers](index/h/homemade-cheddar-crackers.json)
+ * [Homemade Herbed Crackers](index/h/homemade-herbed-crackers.json)
+ * [Seasoned Crackers](index/s/seasoned-crackers.json)

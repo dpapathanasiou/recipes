@@ -100,3 +100,6 @@
  * [Vanilla Ice Cream With Kiwi And Banana In Lime Rum Syrup](index/v/vanilla-ice-cream-with-kiwi-and-banana-in-lime-rum-syrup-11675.json)
  * [Voodoo Rum Punch Aka The Glastonbury Zombie](index/v/voodoo-rum-punch-aka-the-glastonbury-zombie-51167600.json)
  * [Winter Spiced Molten Chocolate Cakes With Rum Ginger Ice Cream](index/w/winter-spiced-molten-chocolate-cakes-with-rum-ginger-ice-cream-109054.json)
+ * [Rum Cake Semi Homemaker Recipe Recipe](index/r/rum-cake-semi-homemaker-recipe-recipe.json)
+ * [Rum Punch Recipe](index/r/rum-punch-recipe.json)
+ * [Rum Raisin Bread Pudding Recipe](index/r/rum-raisin-bread-pudding-recipe.json)

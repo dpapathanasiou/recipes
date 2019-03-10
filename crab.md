@@ -125,3 +125,8 @@
  * [Tomato Fennel And Crab Soup](index/t/tomato-fennel-and-crab-soup-362934.json)
  * [Traditional Crab Cakes Club](index/t/traditional-crab-cakes-21-club-13282.json)
  * [Wasabi Lime Crab Salad In Cucumber Cups](index/w/wasabi-lime-crab-salad-in-cucumber-cups-108161.json)
+ * [Crab Boil Recipe](index/c/crab-boil-recipe.json)
+ * [Crab Cakes Recipe](index/c/crab-cakes-recipe.json)
+ * [Crab Cakes With Herb Salad Recipe](index/c/crab-cakes-with-herb-salad-recipe.json)
+ * [Grilled Or Sauteed Soft Shell Crab Blt Recipe](index/g/grilled-or-sauteed-soft-shell-crab-blt-recipe.json)
+ * [She Crab Soup Recipe](index/s/she-crab-soup-recipe.json)

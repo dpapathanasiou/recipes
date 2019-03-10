@@ -69,3 +69,5 @@
  * [Pancetta Calabrian Chili Pizza](index/p/pancetta-calabrian-chili-pizza.json)
  * [Spinach Salad With Poached Eggs And Pancetta](index/s/spinach-salad-with-poached-eggs-and-pancetta.json)
  * [White Pizza With Clams And Pancetta](index/w/white-pizza-with-clams-and-pancetta.json)
+ * [Caramelized Pancetta And Fennel Salad Recipe](index/c/caramelized-pancetta-and-fennel-salad-recipe.json)
+ * [Roasted Brussels Sprouts With Pancetta Recipe](index/r/roasted-brussels-sprouts-with-pancetta-recipe.json)

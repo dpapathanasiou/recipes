@@ -15,3 +15,4 @@
  * [Strawberry Daiquiri](index/s/strawberry-daiquiri-358554.json)
  * [Strawberry Daiquiri Slush With Honeydew Melon](index/s/strawberry-daiquiri-slush-with-honeydew-melon-103697.json)
  * [Watermelon Daiquiri](index/w/watermelon-daiquiri-200772.json)
+ * [Strawberry Daiquiri Recipe2](index/s/strawberry-daiquiri-recipe2.json)

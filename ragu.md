@@ -30,3 +30,5 @@
  * [Ricotta Gnocchetti With Beef Ragu](index/r/ricotta-gnocchetti-with-beef-ragu.json)
  * [Short Rib Ragu With Fresh Pappardelle](index/s/short-rib-ragu-with-fresh-pappardelle.json)
  * [Short Rib Ragu](index/s/short-rib-ragu.json)
+ * [Penne With Meaty Ragu](index/p/penne-with-meaty-ragu.json)
+ * [Polenta Squares With Mushroom Ragu Recipe](index/p/polenta-squares-with-mushroom-ragu-recipe.json)

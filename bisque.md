@@ -22,3 +22,6 @@
  * [Spinach And Oyster Bisque](index/s/spinach-and-oyster-bisque-12745.json)
  * [Tomato Basil Crab Bisque](index/t/tomato-basil-crab-bisque-108435.json)
  * [Tomato Mushroom Bisque](index/t/tomato-mushroom-bisque-2850.json)
+ * [Lobster Bisque Recipe1](index/l/lobster-bisque-recipe1.json)
+ * [Tomato Bisque Recipe](index/t/tomato-bisque-recipe.json)
+ * [Vegetable Napoleon With Grilled Portobello Mushroom And Tomato Basil Bisque Recipe](index/v/vegetable-napoleon-with-grilled-portobello-mushroom-and-tomato-basil-bisque-recipe.json)

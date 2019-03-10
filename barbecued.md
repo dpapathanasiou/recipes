@@ -11,3 +11,4 @@
  * [Barbecued Beef Sandwiches](index/b/barbecued-beef-sandwiches.json)
  * [Korean Barbecued Beef](index/k/korean-barbecued-beef.json)
  * [Texas Style Barbecued Brisket](index/t/texas-style-barbecued-brisket.json)
+ * [Barbecued Chinese Chicken Lettuce Wraps Recipe](index/b/barbecued-chinese-chicken-lettuce-wraps-recipe.json)

@@ -99,3 +99,5 @@
  * [Indian Spiced Mixed Nuts](index/i/indian-spiced-mixed-nuts.json)
  * [Mixed Fruit Smoothie Bowl With Chia Seeds](index/m/mixed-fruit-smoothie-bowl-with-chia-seeds.json)
  * [Onion Tarts With Mixed Greens](index/o/onion-tarts-with-mixed-greens.json)
+ * [Chile Cinnamon Brittle With Mixed Nuts Recipe](index/c/chile-cinnamon-brittle-with-mixed-nuts-recipe.json)
+ * [Seared Ahi Tuna And Salad Of Mixed Greens With Wasabi Vinaigrette Recipe](index/s/seared-ahi-tuna-and-salad-of-mixed-greens-with-wasabi-vinaigrette-recipe.json)

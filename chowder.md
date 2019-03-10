@@ -67,3 +67,7 @@
  * [Triple Seafood Chowder With Dill](index/t/triple-seafood-chowder-with-dill-4968.json)
  * [Turkey Sage Chowder](index/t/turkey-sage-chowder-105780.json)
  * [Vegetable Barley And Chicken Chowder](index/v/vegetable-barley-and-chicken-chowder-2223.json)
+ * [Cheddar Corn Chowder Recipe](index/c/cheddar-corn-chowder-recipe.json)
+ * [Lobster Corn Chowder Recipe](index/l/lobster-corn-chowder-recipe.json)
+ * [New England Clam Chowder Recipe](index/n/new-england-clam-chowder-recipe.json)
+ * [Seafood Chowder Recipe](index/s/seafood-chowder-recipe.json)

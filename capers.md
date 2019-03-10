@@ -58,3 +58,7 @@
  * [Veal Scallops With Lemon And Capers](index/v/veal-scallops-with-lemon-and-capers-11910.json)
  * [Veal Scallops With Mint And Capers](index/v/veal-scallops-with-mint-and-capers-230643.json)
  * [Whole Roasted Cauliflower With Olive Oil And Capers](index/w/whole-roasted-cauliflower-with-olive-oil-and-capers-236377.json)
+ * [Pan Seared Branzino With Tomato And Capers](index/p/pan-seared-branzino-with-tomato-and-capers.json)
+ * [Salmon With Lemon Capers And Rosemary Recipe](index/s/salmon-with-lemon-capers-and-rosemary-recipe.json)
+ * [Salmon With Lemon Capers And Rosemary](index/s/salmon-with-lemon-capers-and-rosemary.json)
+ * [Swordfish With Tomatoes And Capers Recipe](index/s/swordfish-with-tomatoes-and-capers-recipe.json)

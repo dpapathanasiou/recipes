@@ -6,3 +6,5 @@
  * [Lime And Honey Glazed Salmon With Basmati And Broccolini](index/l/lime-and-honey-glazed-salmon-with-basmati-and-broccolini-355189.json)
  * [Spiced Rice Basmati](index/s/spiced-rice-basmati-107024.json)
  * [Coconut Curry Chicken With Basmati Pilaf](index/c/coconut-curry-chicken-with-basmati-pilaf.json)
+ * [Basmati Rice Pilaf With Peas Recipe](index/b/basmati-rice-pilaf-with-peas-recipe.json)
+ * [Simple Basmati Rice Recipe](index/s/simple-basmati-rice-recipe.json)

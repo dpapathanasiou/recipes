@@ -9,3 +9,7 @@
  * [Original Martini](index/o/original-martini-237573.json)
  * [Pear Martini With Lemon And Rosemary](index/p/pear-martini-with-lemon-and-rosemary-201247.json)
  * [The Modern Martini](index/t/the-modern-martini-51169450.json)
+ * [Dirty Martini Recipe](index/d/dirty-martini-recipe.json)
+ * [Lychee Martini Recipe](index/l/lychee-martini-recipe.json)
+ * [Martini Recipe0](index/m/martini-recipe0.json)
+ * [Pumpkin Pie Martini Recipe](index/p/pumpkin-pie-martini-recipe.json)

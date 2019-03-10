@@ -35,3 +35,6 @@
  * [Tomato And Bacon Clam Chowder](index/t/tomato-and-bacon-clam-chowder-10121.json)
  * [Tomato Ginger Gelee Clam Shooters](index/t/tomato-ginger-gelee-clam-shooters-108160.json)
  * [Potato Clam Pizza Calabrian](index/p/potato-clam-pizza-calabrian.json)
+ * [Linguine With White Clam Sauce Recipe](index/l/linguine-with-white-clam-sauce-recipe.json)
+ * [Linguini With White Clam Sauce Recipe](index/l/linguini-with-white-clam-sauce-recipe.json)
+ * [New England Clam Chowder Recipe](index/n/new-england-clam-chowder-recipe.json)

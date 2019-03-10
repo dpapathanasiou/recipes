@@ -55,3 +55,7 @@
  * [Verlets Apricot Tart](index/v/verlets-apricot-tart-101800.json)
  * [Walnut Apricot Cake In Honey Syrup](index/w/walnut-apricot-cake-in-honey-syrup-106498.json)
  * [White Chocolate Layer Cake With Apricot Filling And White Chocolate Buttercream](index/w/white-chocolate-layer-cake-with-apricot-filling-and-white-chocolate-buttercream-108258.json)
+ * [Apricot Clafouti](index/a/apricot-clafouti.json)
+ * [Baked Apricot Rosemary Chicken](index/b/baked-apricot-rosemary-chicken.json)
+ * [Chicken Apricot Panini](index/c/chicken-apricot-panini.json)
+ * [White Chocolate Apricot Oatmeal Cookies](index/w/white-chocolate-apricot-oatmeal-cookies.json)

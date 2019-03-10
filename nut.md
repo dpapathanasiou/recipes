@@ -106,3 +106,6 @@
  * [Winter Dried Fruit And Nut Chocolate Bark](index/w/winter-dried-fruit-and-nut-chocolate-bark-240687.json)
  * [Winter Fruit And Nut Stuffing](index/w/winter-fruit-and-nut-stuffing-107294.json)
  * [Yum Yum Nut Sweets](index/y/yum-yum-nut-sweets-369549.json)
+ * [Any Nut Brittle Recipe](index/a/any-nut-brittle-recipe.json)
+ * [Banana Nut Muffins Recipe](index/b/banana-nut-muffins-recipe.json)
+ * [Macadamia Nut Brittle Recipe0](index/m/macadamia-nut-brittle-recipe0.json)

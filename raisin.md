@@ -68,3 +68,6 @@
  * [Walnut Golden Raisin And Fennel Seed Scones](index/w/walnut-golden-raisin-and-fennel-seed-scones-109368.json)
  * [Walnut Raisin Cookies](index/w/walnut-raisin-cookies-4000.json)
  * [Zucchini Raisin Bran Muffins](index/z/zucchini-raisin-bran-muffins-12526.json)
+ * [Peanut Raisin Granola Bars Recipe](index/p/peanut-raisin-granola-bars-recipe.json)
+ * [Raisin Pecan Oatmeal Cookies Recipe](index/r/raisin-pecan-oatmeal-cookies-recipe.json)
+ * [Rum Raisin Bread Pudding Recipe](index/r/rum-raisin-bread-pudding-recipe.json)

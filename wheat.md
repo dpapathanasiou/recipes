@@ -41,3 +41,5 @@
  * [Whole Wheat Walnut Popovers](index/w/whole-wheat-walnut-popovers-11445.json)
  * [Whole Wheat Pizza With Broccoli Rabe And Turkey Sausage](index/w/whole-wheat-pizza-with-broccoli-rabe-and-turkey-sausage.json)
  * [Whole Wheat Spaghetti Squash](index/w/whole-wheat-spaghetti-squash.json)
+ * [Mini Whole Wheat Chicken Pot Pies](index/m/mini-whole-wheat-chicken-pot-pies.json)
+ * [Wheat Berry Salad Recipe2](index/w/wheat-berry-salad-recipe2.json)

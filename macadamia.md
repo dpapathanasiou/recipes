@@ -27,3 +27,5 @@
  * [Toasted Coconut Macadamia Pound Cake](index/t/toasted-coconut-macadamia-pound-cake-10879.json)
  * [Tropical Fruit Splits With Rum Sauce And Chile Macadamia Brittle](index/t/tropical-fruit-splits-with-rum-sauce-and-chile-macadamia-brittle-103580.json)
  * [White Chocolate Cranberry And Macadamia Nut Cookies](index/w/white-chocolate-cranberry-and-macadamia-nut-cookies-236823.json)
+ * [Macadamia Coconut Cookie Recipe](index/m/macadamia-coconut-cookie-recipe.json)
+ * [Macadamia Nut Brittle Recipe0](index/m/macadamia-nut-brittle-recipe0.json)

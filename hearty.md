@@ -13,3 +13,5 @@
  * [Hearty Beef And Vegetable Soup](index/h/hearty-beef-and-vegetable-soup.json)
  * [Hearty Beef Stew Cf](index/h/hearty-beef-stew-cf.json)
  * [Hearty Beef Stew](index/h/hearty-beef-stew.json)
+ * [Hearty Italian Chicken And Vegetable Soup Recipe](index/h/hearty-italian-chicken-and-vegetable-soup-recipe.json)
+ * [Hearty Sirloin Chili Recipe](index/h/hearty-sirloin-chili-recipe.json)

@@ -8,3 +8,5 @@
  * [Steak Burritos With Monterey Jack Cheese](index/s/steak-burritos-with-monterey-jack-cheese-4352.json)
  * [Turkey Burritos With Salsa And Cilantro](index/t/turkey-burritos-with-salsa-and-cilantro-233150.json)
  * [Yam And Black Bean Burritos With Amaranth](index/y/yam-and-black-bean-burritos-with-amaranth-51195810.json)
+ * [Beef And Bean Burritos Recipe](index/b/beef-and-bean-burritos-recipe.json)
+ * [Easy Chicken Burritos With Mojo Recipe](index/e/easy-chicken-burritos-with-mojo-recipe.json)

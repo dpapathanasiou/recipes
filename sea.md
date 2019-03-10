@@ -87,3 +87,7 @@
  * [Turkish Sauteed Sea Bass With Almond Tarator](index/t/turkish-sauteed-sea-bass-with-almond-tarator-342.json)
  * [Flatbread With Olive Oil And Sea Salt](index/f/flatbread-with-olive-oil-and-sea-salt.json)
  * [Kale Chips With Sea Salt And Smoked Paprika](index/k/kale-chips-with-sea-salt-and-smoked-paprika.json)
+ * [Pan Fried Sea Bass Recipe](index/p/pan-fried-sea-bass-recipe.json)
+ * [Sea Bass Alla Fiorentina Recipe](index/s/sea-bass-alla-fiorentina-recipe.json)
+ * [Sea Bass Crudo Recipe](index/s/sea-bass-crudo-recipe.json)
+ * [Seared Sea Scallops Recipe](index/s/seared-sea-scallops-recipe.json)

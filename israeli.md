@@ -14,3 +14,6 @@
  * [Penguin Buffets Classic Israeli Schnitzel](index/p/penguin-buffets-classic-israeli-schnitzel-231757.json)
  * [Toasted Israeli Couscous With Pine Nuts And Parsley](index/t/toasted-israeli-couscous-with-pine-nuts-and-parsley-231300.json)
  * [Israeli Couscous With Porcini And Arugula](index/i/israeli-couscous-with-porcini-and-arugula.json)
+ * [Israeli Couscous Salad With Smoked Paprika Recipe](index/i/israeli-couscous-salad-with-smoked-paprika-recipe.json)
+ * [Israeli Tomato Salad Recipe](index/i/israeli-tomato-salad-recipe.json)
+ * [Toasted Israeli Couscous Salad With Grilled Summer Vegetables Recipe2](index/t/toasted-israeli-couscous-salad-with-grilled-summer-vegetables-recipe2.json)

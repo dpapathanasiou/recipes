@@ -73,3 +73,6 @@
  * [Wilted Chard With Shallots And Vinegar](index/w/wilted-chard-with-shallots-and-vinegar.json)
  * [Wilted Red Cabbage With Balsamic Vinegar](index/w/wilted-red-cabbage-with-balsamic-vinegar-15526.json)
  * [Zucchini With Vinegar And Mint](index/z/zucchini-with-vinegar-and-mint-241988.json)
+ * [Oil And Vinegar Slaw Recipe](index/o/oil-and-vinegar-slaw-recipe.json)
+ * [Pulled Pork With Black Pepper Vinegar Recipe2](index/p/pulled-pork-with-black-pepper-vinegar-recipe2.json)
+ * [Vinegar Pie Recipe](index/v/vinegar-pie-recipe.json)

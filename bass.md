@@ -76,3 +76,7 @@
  * [Teriyaki Glazed Sea Bass](index/t/teriyaki-glazed-sea-bass-15262.json)
  * [Turkish Sauteed Sea Bass With Almond Tarator](index/t/turkish-sauteed-sea-bass-with-almond-tarator-342.json)
  * [Wild Striped Bass With Charred Leeks And Squid Vinaigrette](index/w/wild-striped-bass-with-charred-leeks-and-squid-vinaigrette-107561.json)
+ * [Pan Fried Sea Bass Recipe](index/p/pan-fried-sea-bass-recipe.json)
+ * [Roasted Striped Bass Recipe](index/r/roasted-striped-bass-recipe.json)
+ * [Sea Bass Alla Fiorentina Recipe](index/s/sea-bass-alla-fiorentina-recipe.json)
+ * [Sea Bass Crudo Recipe](index/s/sea-bass-crudo-recipe.json)

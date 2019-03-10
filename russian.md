@@ -10,3 +10,4 @@
  * [Russian Walnut Cherry Latkes With Cherry Apple Sauce](index/r/russian-walnut-cherry-latkes-with-cherry-apple-sauce-105978.json)
  * [White Russian](index/w/white-russian-200069.json)
  * [White Russian Sorbet](index/w/white-russian-sorbet-2468.json)
+ * [Kahlua White Russian Recipe](index/k/kahlua-white-russian-recipe.json)

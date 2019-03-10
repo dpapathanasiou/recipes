@@ -43,3 +43,6 @@
  * [White Chocolate Easter Cake With Strawberries](index/w/white-chocolate-easter-cake-with-strawberries-449.json)
  * [White Chocolate Tartlets With Strawberries And Bananas](index/w/white-chocolate-tartlets-with-strawberries-and-bananas-103302.json)
  * [Baby Spinach Salad With Roasted Strawberries](index/b/baby-spinach-salad-with-roasted-strawberries.json)
+ * [Chocolate Covered Strawberries Recipe](index/c/chocolate-covered-strawberries-recipe.json)
+ * [Chocolate Dipped Strawberries Recipe10](index/c/chocolate-dipped-strawberries-recipe10.json)
+ * [Chocolate Dipped Strawberries Recipe6](index/c/chocolate-dipped-strawberries-recipe6.json)

@@ -37,3 +37,4 @@
  * [Veal Cutlets With Spinach And Paprika Sauce](index/v/veal-cutlets-with-spinach-and-paprika-sauce-91.json)
  * [Kale Chips With Sea Salt And Smoked Paprika](index/k/kale-chips-with-sea-salt-and-smoked-paprika.json)
  * [Paprika Chicken](index/p/paprika-chicken.json)
+ * [Israeli Couscous Salad With Smoked Paprika Recipe](index/i/israeli-couscous-salad-with-smoked-paprika-recipe.json)

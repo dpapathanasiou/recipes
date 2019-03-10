@@ -42,3 +42,5 @@
  * [Walnut Toasts With Fig Jam And Manchego Cheese](index/w/walnut-toasts-with-fig-jam-and-manchego-cheese-236525.json)
  * [Whipped Cream Pastries With Jam And Coffee Glaze](index/w/whipped-cream-pastries-with-jam-and-coffee-glaze-1969.json)
  * [Strawberry Rhubarb Jam](index/s/strawberry-rhubarb-jam.json)
+ * [Easy Strawberry Jam Recipe](index/e/easy-strawberry-jam-recipe.json)
+ * [Jam Thumbprint Cookies Recipe](index/j/jam-thumbprint-cookies-recipe.json)

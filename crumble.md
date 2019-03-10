@@ -21,3 +21,6 @@
  * [Strawberry Rhubarb Crumble Smoothie](index/s/strawberry-rhubarb-crumble-smoothie-51258030.json)
  * [Wild Blueberry Pie With Almond Crumble Topping](index/w/wild-blueberry-pie-with-almond-crumble-topping-238822.json)
  * [Rhubarb Ginger Crumble](index/r/rhubarb-ginger-crumble.json)
+ * [Apple Crumble Recipe](index/a/apple-crumble-recipe.json)
+ * [Rhubarb Crumble Recipe](index/r/rhubarb-crumble-recipe.json)
+ * [Snappy Pear And Cranberry Crumble](index/s/snappy-pear-and-cranberry-crumble.json)

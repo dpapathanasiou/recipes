@@ -16,3 +16,4 @@
  * [Zaatar Sweet Potatoes And Garlicky Kale](index/z/zaatar-sweet-potatoes-and-garlicky-kale.json)
  * [Garlicky Spinach Frittata](index/g/garlicky-spinach-frittata.json)
  * [Spaghetti With Garlicky Greens](index/s/spaghetti-with-garlicky-greens.json)
+ * [Garlicky Holy Guacamole Recipe](index/g/garlicky-holy-guacamole-recipe.json)

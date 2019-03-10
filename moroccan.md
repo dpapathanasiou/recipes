@@ -66,3 +66,5 @@
  * [Sea Bass With Moroccan Salsa](index/s/sea-bass-with-moroccan-salsa-104331.json)
  * [Spiced Moroccan Chicken With Onions And Prunes](index/s/spiced-moroccan-chicken-with-onions-and-prunes-4503.json)
  * [Moroccan Spiced Roasted Vegetables And Quinoa](index/m/moroccan-spiced-roasted-vegetables-and-quinoa.json)
+ * [Moroccan Chicken Tajine Recipe](index/m/moroccan-chicken-tajine-recipe.json)
+ * [Moroccan Harissa Chicken Wings](index/m/moroccan-harissa-chicken-wings.json)

@@ -10,3 +10,4 @@
  * [Traditional Boiled Beef With Spinach Puree Apple Horseradish Sauce And Baby Vegetables](index/t/traditional-boiled-beef-with-spinach-puree-apple-horseradish-sauce-and-baby-vegetables-231040.json)
  * [Vegetables And Hard Boiled Eggs With Anchovy Cream](index/v/vegetables-and-hard-boiled-eggs-with-anchovy-cream-105916.json)
  * [Warm Escarole Salad With Goat Cheese Hard Boiled Eggs And Bacon](index/w/warm-escarole-salad-with-goat-cheese-hard-boiled-eggs-and-bacon-354830.json)
+ * [Soft Hard Boiled Eggs Recipe](index/s/soft-hard-boiled-eggs-recipe.json)

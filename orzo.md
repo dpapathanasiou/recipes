@@ -47,3 +47,6 @@
  * [Warm Orzo Salad With Grilled Shrimp And Feta Downer Hazell](index/w/warm-orzo-salad-with-grilled-shrimp-and-feta-downer-hazell-15273.json)
  * [Yucatan Style Chicken Lime And Orzo Soup](index/y/yucatan-style-chicken-lime-and-orzo-soup-109251.json)
  * [Orzo Squash And Chicken Soup](index/o/orzo-squash-and-chicken-soup.json)
+ * [Lemon Herb Orzo](index/l/lemon-herb-orzo.json)
+ * [Orzo Salad Recipe](index/o/orzo-salad-recipe.json)
+ * [Roasted Shrimp And Orzo Recipe](index/r/roasted-shrimp-and-orzo-recipe.json)

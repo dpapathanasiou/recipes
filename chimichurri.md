@@ -14,3 +14,4 @@
  * [Steak With Chimichurri Sauce](index/s/steak-with-chimichurri-sauce-4402.json)
  * [Summer Chefs Salad With Grilled Pork Chicken And Chimichurri Ranch Dressing](index/s/summer-chefs-salad-with-grilled-pork-chicken-and-chimichurri-ranch-dressing-56389620.json)
  * [Tri Tip With Chimichurri](index/t/tri-tip-with-chimichurri.json)
+ * [Pork Tenderloin With Chimichurri Recipe](index/p/pork-tenderloin-with-chimichurri-recipe.json)

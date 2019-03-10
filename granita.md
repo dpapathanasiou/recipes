@@ -31,3 +31,4 @@
  * [Tropical Fruit Champagne Granita](index/t/tropical-fruit-champagne-granita-12202.json)
  * [Tropical Fruit Granita](index/t/tropical-fruit-granita-1704.json)
  * [Watermelon Berry Granita](index/w/watermelon-berry-granita-103805.json)
+ * [Bloody Mary Granita Recipe](index/b/bloody-mary-granita-recipe.json)

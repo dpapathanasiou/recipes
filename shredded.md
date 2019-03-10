@@ -18,3 +18,4 @@
  * [Shredded Sweet Potato And Carrot Fritters Ukoy](index/s/shredded-sweet-potato-and-carrot-fritters-ukoy.json)
  * [Tagliatelle With Shredded Beets Sour Cream And Parsley](index/t/tagliatelle-with-shredded-beets-sour-cream-and-parsley-109365.json)
  * [Shredded Brisket   Chutney Sandwiches](index/s/shredded-brisket---chutney-sandwiches.json)
+ * [Sauteed Shredded Brussels Sprouts](index/s/sauteed-shredded-brussels-sprouts.json)

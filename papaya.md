@@ -29,3 +29,4 @@
  * [Thai Green Papaya Salad](index/t/thai-green-papaya-salad-358495.json)
  * [Thai Style Crab Salad In Papaya](index/t/thai-style-crab-salad-in-papaya-108176.json)
  * [Tomato Papaya Salsa](index/t/tomato-papaya-salsa-240805.json)
+ * [Bacon Wrapped Scallops With Jalapeno Papaya Sauce Recipe](index/b/bacon-wrapped-scallops-with-jalapeno-papaya-sauce-recipe.json)

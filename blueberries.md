@@ -9,3 +9,5 @@
  * [Pear Cobbler With Dried Blueberries And Stone Ground Corn Biscuits](index/p/pear-cobbler-with-dried-blueberries-and-stone-ground-corn-biscuits-350430.json)
  * [Peppercorn Crusted Muscovy Duck With Blueberries](index/p/peppercorn-crusted-muscovy-duck-with-blueberries-4621.json)
  * [Red Velvet Cake With Raspberries And Blueberries](index/r/red-velvet-cake-with-raspberries-and-blueberries-108256.json)
+ * [Baked French Toast With Blueberries Recipe](index/b/baked-french-toast-with-blueberries-recipe.json)
+ * [Biscuit Waffles With Lemon Cream Lemon Syrup And Blueberries](index/b/biscuit-waffles-with-lemon-cream-lemon-syrup-and-blueberries.json)

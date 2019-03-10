@@ -9,3 +9,4 @@
  * [Pear And Frangipane Crostata With Raspberry Vinegar Glaze](index/p/pear-and-frangipane-crostata-with-raspberry-vinegar-glaze-231327.json)
  * [Pear And Hazelnut Frangipane Tart](index/p/pear-and-hazelnut-frangipane-tart-105747.json)
  * [Prune Cherry And Apricot Frangipane Tart](index/p/prune-cherry-and-apricot-frangipane-tart-350630.json)
+ * [Raspberry Frangipane Tart](index/r/raspberry-frangipane-tart.json)

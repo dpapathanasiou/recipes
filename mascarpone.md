@@ -40,3 +40,5 @@
  * [Smoked Salmon And Chive Mascarpone Mousse With Pink Pickled Onions](index/s/smoked-salmon-and-chive-mascarpone-mousse-with-pink-pickled-onions-13083.json)
  * [Sour Cream Mascarpone](index/s/sour-cream-mascarpone-15338.json)
  * [Strawberry Mascarpone And Marsala Budini](index/s/strawberry-mascarpone-and-marsala-budini-107890.json)
+ * [Chocolate Raspberry Mascarpone Bars Recipe](index/c/chocolate-raspberry-mascarpone-bars-recipe.json)
+ * [Mascarpone Chocolate Toffee Bars Recipe](index/m/mascarpone-chocolate-toffee-bars-recipe.json)

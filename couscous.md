@@ -79,3 +79,5 @@
  * [Vegetable Couscous With Black Olives](index/v/vegetable-couscous-with-black-olives-14294.json)
  * [Vegetable Stew With Couscous](index/v/vegetable-stew-with-couscous-10097.json)
  * [Israeli Couscous With Porcini And Arugula](index/i/israeli-couscous-with-porcini-and-arugula.json)
+ * [Israeli Couscous Salad With Smoked Paprika Recipe](index/i/israeli-couscous-salad-with-smoked-paprika-recipe.json)
+ * [Toasted Israeli Couscous Salad With Grilled Summer Vegetables Recipe2](index/t/toasted-israeli-couscous-salad-with-grilled-summer-vegetables-recipe2.json)

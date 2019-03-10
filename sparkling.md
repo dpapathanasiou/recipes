@@ -7,3 +7,4 @@
  * [Sparkling Tarragon Gin Lemonade](index/s/sparkling-tarragon-gin-lemonade-51170270.json)
  * [Sparkling Wine Ice](index/s/sparkling-wine-ice-109506.json)
  * [Tropical Sparkling Sangria](index/t/tropical-sparkling-sangria-200648.json)
+ * [Sparkling Apple Cider Punch](index/s/sparkling-apple-cider-punch.json)

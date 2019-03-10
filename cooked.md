@@ -25,3 +25,6 @@
  * [Turnip Greens Cooked In Rich Pork Stock](index/t/turnip-greens-cooked-in-rich-pork-stock-241638.json)
  * [Twice Cooked Five Spice Lamb With Red Chiles](index/t/twice-cooked-five-spice-lamb-with-red-chiles-237099.json)
  * [Slow Cooked Chicken Herb Biscuit](index/s/slow-cooked-chicken-herb-biscuit.json)
+ * [Slow Cooked Jalapeno Corn](index/s/slow-cooked-jalapeno-corn.json)
+ * [Slow Cooked Winter Bread Pudding With Dried Pears Recipe](index/s/slow-cooked-winter-bread-pudding-with-dried-pears-recipe.json)
+ * [Southeast Asian Slow Cooked Winter Vegetables Recipe2](index/s/southeast-asian-slow-cooked-winter-vegetables-recipe2.json)

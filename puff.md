@@ -13,3 +13,5 @@
  * [Rhubarb And Ricotta Cheese Puff Pastry Tartlets](index/r/rhubarb-and-ricotta-cheese-puff-pastry-tartlets-105090.json)
  * [Spinach Puff Pastry Quiche](index/s/spinach-puff-pastry-quiche-2551.json)
  * [Turkey Cream Puff Pie](index/t/turkey-cream-puff-pie-232982.json)
+ * [Chicken And Bean Puff Pastry Empanadas Recipe](index/c/chicken-and-bean-puff-pastry-empanadas-recipe.json)
+ * [Soppressata And Cheese In Puff Pastry Recipe](index/s/soppressata-and-cheese-in-puff-pastry-recipe.json)

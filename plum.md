@@ -70,3 +70,4 @@
  * [Spiced Plum Pie](index/s/spiced-plum-pie-232397.json)
  * [Spiced Plum Shortcakes](index/s/spiced-plum-shortcakes-108467.json)
  * [Superb English Plum Pudding](index/s/superb-english-plum-pudding-20010.json)
+ * [Plum Tart Recipe2](index/p/plum-tart-recipe2.json)

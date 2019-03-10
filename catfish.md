@@ -12,3 +12,4 @@
  * [Spicy Blackened Catfish](index/s/spicy-blackened-catfish-12271.json)
  * [Spicy Catfish Tenders With Cajun Tartar Sauce](index/s/spicy-catfish-tenders-with-cajun-tartar-sauce-107732.json)
  * [Spicy Catfish With Bell Peppers And Onions](index/s/spicy-catfish-with-bell-peppers-and-onions-4605.json)
+ * [Southern Fried Catfish Recipe](index/s/southern-fried-catfish-recipe.json)

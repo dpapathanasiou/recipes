@@ -1,3 +1,4 @@
 # nantucket
 
  * [Nantucket Scallop Chowder](index/n/nantucket-scallop-chowder-994.json)
+ * [Nantucket Bay Scallops In Tequila Citrus And Chile Dressing Recipe2](index/n/nantucket-bay-scallops-in-tequila-citrus-and-chile-dressing-recipe2.json)

@@ -40,3 +40,5 @@
  * [Wendes Blue Ribbon Apple Pie With Candied Ginger](index/w/wendes-blue-ribbon-apple-pie-with-candied-ginger-106670.json)
  * [White Chocolate Cupcakes With Candied Kumquats](index/w/white-chocolate-cupcakes-with-candied-kumquats-233944.json)
  * [Candied Grapefruit Peel](index/c/candied-grapefruit-peel.json)
+ * [Candied Bacon Recipe](index/c/candied-bacon-recipe.json)
+ * [Candied Ginger Recipe](index/c/candied-ginger-recipe.json)

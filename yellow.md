@@ -49,3 +49,5 @@
  * [Yellow Watermelon Mint Pops](index/y/yellow-watermelon-mint-pops-51201630.json)
  * [Zucchini And Yellow Squash Julienne](index/z/zucchini-and-yellow-squash-julienne-10193.json)
  * [Zucchini And Yellow Squash With Pesto](index/z/zucchini-and-yellow-squash-with-pesto-100765.json)
+ * [Spicy Black Beans And Yellow Rice Recipe](index/s/spicy-black-beans-and-yellow-rice-recipe.json)
+ * [Yellow Chile Spring Rolls And Tropical Fruit Salad Recipe](index/y/yellow-chile-spring-rolls-and-tropical-fruit-salad-recipe.json)

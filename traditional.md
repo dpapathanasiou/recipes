@@ -8,3 +8,5 @@
  * [Traditional Napa Cabbage Kimchi](index/t/traditional-napa-cabbage-kimchi-233839.json)
  * [Traditional Provencal Christmas Cake](index/t/traditional-provencal-christmas-cake-15780.json)
  * [Willem De Koonings Traditional Dutch Breakfast](index/w/willem-de-koonings-traditional-dutch-breakfast-108326.json)
+ * [Traditional Apple Pie Recipe0](index/t/traditional-apple-pie-recipe0.json)
+ * [Traditional Poached Salmon](index/t/traditional-poached-salmon.json)

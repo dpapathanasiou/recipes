@@ -96,3 +96,5 @@
  * [Tomato Pickled Onion And Coriander Sandwiches](index/t/tomato-pickled-onion-and-coriander-sandwiches-12493.json)
  * [Umeboshi And Rice Salad With Pickled Ginger And Sugar Snap Peas](index/u/umeboshi-and-rice-salad-with-pickled-ginger-and-sugar-snap-peas-15264.json)
  * [Ancho Short Rib Tacos With Pickled Red Onions](index/a/ancho-short-rib-tacos-with-pickled-red-onions.json)
+ * [Arugula Salad With Pickled Red Onions And Champagne Vinaigrette](index/a/arugula-salad-with-pickled-red-onions-and-champagne-vinaigrette.json)
+ * [Pickled Ginger Recipe](index/p/pickled-ginger-recipe.json)

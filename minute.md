@@ -11,3 +11,4 @@
  * [Potato Salad With Minute Eggs And Mustard Vinaigrette](index/p/potato-salad-with-7-minute-eggs-and-mustard-vinaigrette-56389652.json)
  * [20 Minute Beef Stew](index/2/20-minute-beef-stew.json)
  * [30 Minute Pizza](index/3/30-minute-pizza.json)
+ * [30 Minute Shepherds Pie Recipe](index/3/30-minute-shepherds-pie-recipe.json)

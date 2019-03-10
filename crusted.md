@@ -95,3 +95,7 @@
  * [Herb Crusted Beef Tenderloin](index/h/herb-crusted-beef-tenderloin.json)
  * [Peppercorn Crusted Rib Eye](index/p/peppercorn-crusted-rib-eye.json)
  * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)
+ * [Oven Roasted Cod Crusted With Herbs Recipe](index/o/oven-roasted-cod-crusted-with-herbs-recipe.json)
+ * [Parmesan Crusted Pork Chops Recipe](index/p/parmesan-crusted-pork-chops-recipe.json)
+ * [Popcorn Crusted Popcorn Shrimp](index/p/popcorn-crusted-popcorn-shrimp.json)
+ * [Pretzel Crusted Fried Cheese With Spicy Ranch](index/p/pretzel-crusted-fried-cheese-with-spicy-ranch.json)

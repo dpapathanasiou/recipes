@@ -36,3 +36,4 @@
  * [Spicy Sweet Potato Spread](index/s/spicy-sweet-potato-spread-358369.json)
  * [Tomato Eggplant Spread And Parmesan Toasts](index/t/tomato-eggplant-spread-and-parmesan-toasts-13011.json)
  * [Turkish Style Tomato And Red Pepper Spread](index/t/turkish-style-tomato-and-red-pepper-spread-358037.json)
+ * [Homemade Chocolate Hazelnut Spread Recipe](index/h/homemade-chocolate-hazelnut-spread-recipe.json)

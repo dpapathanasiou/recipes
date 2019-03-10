@@ -12,3 +12,5 @@
  * [Tex Mex Veggie Burgers](index/t/tex-mex-veggie-burgers-4221.json)
  * [Veggie Burgers With Zucchini And Corn](index/v/veggie-burgers-with-zucchini-and-corn.json)
  * [Very Veggie](index/v/very-veggie-51216610.json)
+ * [Quick Veggie Stir Fry Recipe](index/q/quick-veggie-stir-fry-recipe.json)
+ * [Spicy Veggie Stir Fry](index/s/spicy-veggie-stir-fry.json)

@@ -14,3 +14,4 @@
  * [Triple Seafood Chowder With Dill](index/t/triple-seafood-chowder-with-dill-4968.json)
  * [Triple Whammy Saffroned Tomato Fennel Soup](index/t/triple-whammy-saffroned-tomato-fennel-soup-232421.json)
  * [Wine And Citrus Poached Pears With Triple Creme Cheese](index/w/wine-and-citrus-poached-pears-with-triple-creme-cheese-106129.json)
+ * [Triple B Burgers Recipe](index/t/triple-b-burgers-recipe.json)

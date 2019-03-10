@@ -28,3 +28,6 @@
  * [Sweet Potato And Poblano Salad With Honey And Rosemary](index/s/sweet-potato-and-poblano-salad-with-honey-and-rosemary-353851.json)
  * [Tamales De Mole Poblano](index/t/tamales-de-mole-poblano-51110610.json)
  * [To Roast And Peel Bell Peppers Or Poblano Chiles](index/t/to-roast-and-peel-bell-peppers-or-poblano-chiles-15157.json)
+ * [Poblano Stuffed With Chorizo Shrimp And Rice Recipe](index/p/poblano-stuffed-with-chorizo-shrimp-and-rice-recipe.json)
+ * [Queso Fundido With Roasted Poblano Vinaigrette Recipe](index/q/queso-fundido-with-roasted-poblano-vinaigrette-recipe.json)
+ * [Roasted Poblano Quesadillas Recipe](index/r/roasted-poblano-quesadillas-recipe.json)

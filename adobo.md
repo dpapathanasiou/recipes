@@ -10,3 +10,4 @@
  * [Tortillas With Grilled Adobo Pork And Pineapple](index/t/tortillas-with-grilled-adobo-pork-and-pineapple-236064.json)
  * [Turkey Enchiladas Adobo](index/t/turkey-enchiladas-adobo-109175.json)
  * [Yellow Chicken Adobo](index/y/yellow-chicken-adobo.json)
+ * [Filipino Adobo Chicken Wings](index/f/filipino-adobo-chicken-wings.json)

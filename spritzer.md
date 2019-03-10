@@ -10,3 +10,5 @@
  * [Spiked Strawberry Lemon Spritzer](index/s/spiked-strawberry-lemon-spritzer-51170800.json)
  * [Vodka Gimlet Spritzer](index/v/vodka-gimlet-spritzer-200856.json)
  * [Wild Turkey Spritzer](index/w/wild-turkey-spritzer-200852.json)
+ * [Campari Orange Spritzer Recipe](index/c/campari-orange-spritzer-recipe.json)
+ * [Campari Spritzer Recipe](index/c/campari-spritzer-recipe.json)

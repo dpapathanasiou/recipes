@@ -210,3 +210,7 @@
  * [Zucchini Sun Dried Tomato And Mozarella Tart](index/z/zucchini-sun-dried-tomato-and-mozarella-tart-109567.json)
  * [Zucchini With Garlic And Dried Crushed Red Pepper](index/z/zucchini-with-garlic-and-dried-crushed-red-pepper-108462.json)
  * [Pork Roast With Dried Fruit Compote](index/p/pork-roast-with-dried-fruit-compote.json)
+ * [Chocolate Dried Cherry Bread Pudding](index/c/chocolate-dried-cherry-bread-pudding.json)
+ * [Penne With Sun Dried Tomato Pesto Recipe](index/p/penne-with-sun-dried-tomato-pesto-recipe.json)
+ * [Slow Cooked Winter Bread Pudding With Dried Pears Recipe](index/s/slow-cooked-winter-bread-pudding-with-dried-pears-recipe.json)
+ * [Walnut And Dried Cherry Bars Recipe](index/w/walnut-and-dried-cherry-bars-recipe.json)

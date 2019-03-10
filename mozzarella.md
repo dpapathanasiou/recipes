@@ -64,3 +64,5 @@
  * [Yellow Squash And Mozzarella Quiche With Fresh Thyme](index/y/yellow-squash-and-mozzarella-quiche-with-fresh-thyme-230610.json)
  * [Broccoli Rabe  Garlic And Smoked Mozzarella Pizza](index/b/broccoli-rabe--garlic-and-smoked-mozzarella-pizza.json)
  * [Pizza With Fresh Mozzarella Roasted Peppers And Parsley](index/p/pizza-with-fresh-mozzarella-roasted-peppers-and-parsley.json)
+ * [Kids Can Make Hash Brown Tomato And Mozzarella Quiche](index/k/kids-can-make-hash-brown-tomato-and-mozzarella-quiche.json)
+ * [Tomato Mozzarella And Basil Bruschetta Recipe](index/t/tomato-mozzarella-and-basil-bruschetta-recipe.json)

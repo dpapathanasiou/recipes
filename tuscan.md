@@ -19,3 +19,7 @@
  * [Tuscan Turkey Sauce And Pasta](index/t/tuscan-turkey-sauce-and-pasta-20139.json)
  * [Tuscan Turkey Soupy Noodles](index/t/tuscan-turkey-soupy-noodles-358113.json)
  * [Tuscan Vegetable Soup With White Beans And Parmesan](index/t/tuscan-vegetable-soup-with-white-beans-and-parmesan-108610.json)
+ * [Tuscan Bean Soup](index/t/tuscan-bean-soup.json)
+ * [Tuscan Lemon Chicken Recipe](index/t/tuscan-lemon-chicken-recipe.json)
+ * [Tuscan Style Grilled Tuna Steaks Recipe](index/t/tuscan-style-grilled-tuna-steaks-recipe.json)
+ * [Tuscan Tomato And Bread Soup Pappa Al Pomodoro Recipe](index/t/tuscan-tomato-and-bread-soup-pappa-al-pomodoro-recipe.json)

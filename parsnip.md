@@ -38,3 +38,7 @@
  * [Wild Mushroom And Parsnip Ragout With Cheesy Polenta](index/w/wild-mushroom-and-parsnip-ragout-with-cheesy-polenta.json)
  * [Wild Mushroom And Parsnip Ragu With Cheesy Polenta](index/w/wild-mushroom-and-parsnip-ragu-with-cheesy-polenta.json)
  * [Zinfandel Braised Beef Short Ribs With Rosemary Parsnip Mashed Potatoes](index/z/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635.json)
+ * [Parsnip Potato Puree Recipe](index/p/parsnip-potato-puree-recipe.json)
+ * [Parsnip Puree Recipe](index/p/parsnip-puree-recipe.json)
+ * [Parsnip Puree Recipe2](index/p/parsnip-puree-recipe2.json)
+ * [Sunnys Holiday Parsnip Puree Recipe](index/s/sunnys-holiday-parsnip-puree-recipe.json)

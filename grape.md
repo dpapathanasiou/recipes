@@ -34,3 +34,4 @@
  * [Shrimp With Zucchini Fritters And Grape Leaf Spread](index/s/shrimp-with-zucchini-fritters-and-grape-leaf-spread-235145.json)
  * [Spicy Grape Ricotta Crostini](index/s/spicy-grape-ricotta-crostini-56389974.json)
  * [Wild Rice Stuffed Grape Leaves](index/w/wild-rice-stuffed-grape-leaves-2333.json)
+ * [Green Grape And Avocado Quinoa Salad](index/g/green-grape-and-avocado-quinoa-salad.json)

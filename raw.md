@@ -10,3 +10,5 @@
  * [Roasted And Raw Carrot Salad With Avocado And Toasted Cumin Vinaigrette](index/r/roasted-and-raw-carrot-salad-with-avocado-and-toasted-cumin-vinaigrette-51112700.json)
  * [Roasted And Raw Carrot Salad With Hazelnuts And Arugula](index/r/roasted-and-raw-carrot-salad-with-hazelnuts-and-arugula-51258040.json)
  * [Shaved Raw Brussels Sprouts With Castelrosso](index/s/shaved-raw-brussels-sprouts-with-castelrosso-360129.json)
+ * [Halibut With Raw Puttanesca Salsa Recipe](index/h/halibut-with-raw-puttanesca-salsa-recipe.json)
+ * [Raw Veggies With Chipotle Ranch Dressing](index/r/raw-veggies-with-chipotle-ranch-dressing.json)

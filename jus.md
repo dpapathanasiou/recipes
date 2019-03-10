@@ -14,3 +14,6 @@
  * [Spice Rubbed Cornish Hens With Haroseth Stuffing And Sherry Jus](index/s/spice-rubbed-cornish-hens-with-haroseth-stuffing-and-sherry-jus-352282.json)
  * [Tea Smoked Duck Breast With Pears And Blueberry Jus](index/t/tea-smoked-duck-breast-with-pears-and-blueberry-jus-240799.json)
  * [Tuscan Porterhouse Steak With Red Wine Peppercorn Jus](index/t/tuscan-porterhouse-steak-with-red-wine-peppercorn-jus-388552.json)
+ * [Homemade Roast Beef Sandwich Au Jus Recipe](index/h/homemade-roast-beef-sandwich-au-jus-recipe.json)
+ * [Prime Rib Au Jus Recipe](index/p/prime-rib-au-jus-recipe.json)
+ * [Roast Prime Rib With Thyme Au Jus Recipe](index/r/roast-prime-rib-with-thyme-au-jus-recipe.json)

@@ -43,3 +43,5 @@
  * [Bourbon And Black Pepper Braised Short Ribs](index/b/bourbon-and-black-pepper-braised-short-ribs.json)
  * [Braised Maple Bourbon Pork With Beans](index/b/braised-maple-bourbon-pork-with-beans.json)
  * [Kentucky Bourbon Skirt Steak](index/k/kentucky-bourbon-skirt-steak.json)
+ * [Southern Buttermilk Bourbon Praline Doughnuts Recipe](index/s/southern-buttermilk-bourbon-praline-doughnuts-recipe.json)
+ * [Vanilla Bourbon Pumpkin Pie](index/v/vanilla-bourbon-pumpkin-pie.json)

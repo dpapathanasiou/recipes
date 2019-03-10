@@ -11,3 +11,5 @@
  * [Vegetarian Spring Rolls](index/v/vegetarian-spring-rolls-56389478.json)
  * [Vegetarian Style Congee Em Xi Fan Em](index/v/vegetarian-style-congee-em-xi-fan-em-237647.json)
  * [Vegetarian Tagine](index/v/vegetarian-tagine-56389876.json)
+ * [Spicy Vegetarian Red Beans And Rice Recipe](index/s/spicy-vegetarian-red-beans-and-rice-recipe.json)
+ * [Vegetarian Chili Recipe](index/v/vegetarian-chili-recipe.json)

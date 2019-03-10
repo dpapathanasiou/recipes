@@ -6,3 +6,5 @@
  * [Lime In The Coconut Macaroons](index/l/lime-in-the-coconut-macaroons-51147500.json)
  * [Pine Nut Almond Macaroons](index/p/pine-nut-almond-macaroons-2830.json)
  * [Sesame Almond Macaroons](index/s/sesame-almond-macaroons-452.json)
+ * [Coconut Macaroons Recipe3](index/c/coconut-macaroons-recipe3.json)
+ * [French Macaroons Recipe](index/f/french-macaroons-recipe.json)

@@ -34,3 +34,5 @@
  * [Tecate Skirt Steak Tacos](index/t/tecate-skirt-steak-tacos-56389643.json)
  * [Vietnamese Style Spaghetti Squash Noodle Bowls With Skirt Steak](index/v/vietnamese-style-spaghetti-squash-noodle-bowls-with-skirt-steak.json)
  * [Kentucky Bourbon Skirt Steak](index/k/kentucky-bourbon-skirt-steak.json)
+ * [Asian Marinated Skirt Steak Recipe](index/a/asian-marinated-skirt-steak-recipe.json)
+ * [Skirt Steak Tacos With Roasted Tomato Salsa Recipe](index/s/skirt-steak-tacos-with-roasted-tomato-salsa-recipe.json)

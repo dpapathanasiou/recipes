@@ -6,3 +6,8 @@
  * [Pina Colada Pie](index/p/pina-colada-pie-2401.json)
  * [Pina Piquante](index/p/pina-piquante-51216810.json)
  * [Pina Pisco Sours](index/p/pina-pisco-sours-352839.json)
+ * [Ginger Lemongrass Pina Colada Recipe](index/g/ginger-lemongrass-pina-colada-recipe.json)
+ * [Pina Colada Pie Recipe](index/p/pina-colada-pie-recipe.json)
+ * [Pina Colada Recipe0](index/p/pina-colada-recipe0.json)
+ * [Pina Colada Smoothie Recipe](index/p/pina-colada-smoothie-recipe.json)
+ * [Pina Colada Tres Leches Cakes](index/p/pina-colada-tres-leches-cakes.json)

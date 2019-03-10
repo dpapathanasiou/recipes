@@ -115,3 +115,4 @@
  * [Spicy Curried Mussels](index/s/spicy-curried-mussels-105118.json)
  * [Tropical Glazed Ham With Curried Pineapple Chutney](index/t/tropical-glazed-ham-with-curried-pineapple-chutney-104955.json)
  * [Curried Chicken Apple Pitas](index/c/curried-chicken-apple-pitas.json)
+ * [Curried Butternut Squash Soup Recipe](index/c/curried-butternut-squash-soup-recipe.json)

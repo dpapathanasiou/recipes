@@ -12,3 +12,4 @@
  * [Roasted Sausages Apples And Cabbage With Caraway](index/r/roasted-sausages-apples-and-cabbage-with-caraway-232875.json)
  * [Smoked Salmon With Cognac Caraway Mayonnaise And Toasted French Bread](index/s/smoked-salmon-with-cognac-caraway-mayonnaise-and-toasted-french-bread-13492.json)
  * [Toasted Caraway Salt Rub](index/t/toasted-caraway-salt-rub-51104330.json)
+ * [Classic Coleslaw With Caraway Recipe](index/c/classic-coleslaw-with-caraway-recipe.json)

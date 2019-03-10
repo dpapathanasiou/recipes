@@ -7,3 +7,5 @@
  * [Truffled Red Wine Risotto With Parmesan Broth](index/t/truffled-red-wine-risotto-with-parmesan-broth-235854.json)
  * [Truffled Toast With Radicchio And Egg](index/t/truffled-toast-with-radicchio-and-egg-236003.json)
  * [Truffled Mushroom Pizza](index/t/truffled-mushroom-pizza.json)
+ * [Truffled Egg Salad Tea Sandwiches](index/t/truffled-egg-salad-tea-sandwiches.json)
+ * [Truffled Fillet Of Beef Sandwiches Recipe](index/t/truffled-fillet-of-beef-sandwiches-recipe.json)

@@ -15,3 +15,5 @@
  * [Pretty Easter Pasta Pie Crostata Di Tagliolini](index/p/pretty-easter-pasta-pie-crostata-di-tagliolini-51234010.json)
  * [Rhubarb And Raspberry Crostata](index/r/rhubarb-and-raspberry-crostata-365159.json)
  * [Rustic Nectarine And Blackberry Crostata With Cornmeal Crust](index/r/rustic-nectarine-and-blackberry-crostata-with-cornmeal-crust-106869.json)
+ * [Apple Crostata Recipe](index/a/apple-crostata-recipe.json)
+ * [Grilled Peach And Caramel Crostata](index/g/grilled-peach-and-caramel-crostata.json)

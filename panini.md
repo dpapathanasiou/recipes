@@ -9,3 +9,6 @@
  * [Mini Roast Beef And Horseradish Panini Triangles](index/m/mini-roast-beef-and-horseradish-panini-triangles.json)
  * [Pizza Panini](index/p/pizza-panini.json)
  * [Roast Beef And Caramelized Onion Panini](index/r/roast-beef-and-caramelized-onion-panini.json)
+ * [Chicken Apricot Panini](index/c/chicken-apricot-panini.json)
+ * [Chicken Salad Avocado And Cheddar Panini](index/c/chicken-salad-avocado-and-cheddar-panini.json)
+ * [Rib Eye Steak Panini Recipe](index/r/rib-eye-steak-panini-recipe.json)

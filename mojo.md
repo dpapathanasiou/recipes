@@ -17,3 +17,5 @@
  * [Slow Roasted Pork With Lime Mojo](index/s/slow-roasted-pork-with-lime-mojo-102862.json)
  * [Sour Orange Mojo](index/s/sour-orange-mojo-107671.json)
  * [Sour Orange Red Onion And Parsley Mojo](index/s/sour-orange-red-onion-and-parsley-mojo-107571.json)
+ * [Easy Chicken Burritos With Mojo Recipe](index/e/easy-chicken-burritos-with-mojo-recipe.json)
+ * [Grilled Shrimp With Orange Habanero Mojo Recipe2](index/g/grilled-shrimp-with-orange-habanero-mojo-recipe2.json)

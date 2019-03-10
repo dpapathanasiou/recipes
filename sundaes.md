@@ -34,3 +34,4 @@
  * [Tropical Fruit Sundaes With Pineapple Rum Sauce](index/t/tropical-fruit-sundaes-with-pineapple-rum-sauce-560.json)
  * [Tropical Sundaes](index/t/tropical-sundaes-2363.json)
  * [Tropical Sundaes](index/t/tropical-sundaes-582.json)
+ * [Spanish Coffee And Fudge Sundaes Recipe](index/s/spanish-coffee-and-fudge-sundaes-recipe.json)

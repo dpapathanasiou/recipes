@@ -22,3 +22,5 @@
  * [Smoky Beef Chili With Tortilla Chip Crust](index/s/smoky-beef-chili-with-tortilla-chip-crust.json)
  * [Smoky Eggplant Dip With Cumin Crusted Pita Chips](index/s/smoky-eggplant-dip-with-cumin-crusted-pita-chips.json)
  * [Smoky Spicy Brisket](index/s/smoky-spicy-brisket.json)
+ * [Chorizo And Shrimp Quesadillas With Smoky Guacamole Recipe](index/c/chorizo-and-shrimp-quesadillas-with-smoky-guacamole-recipe.json)
+ * [Smoky Arugula And Apple Salad](index/s/smoky-arugula-and-apple-salad.json)

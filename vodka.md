@@ -28,3 +28,5 @@
  * [Vodka Spiked Cherry Tomatoes With Pepper Salt](index/v/vodka-spiked-cherry-tomatoes-with-pepper-salt-105108.json)
  * [Vodka Spiked Cherry Tomatoes With Pepper Salt](index/v/vodka-spiked-cherry-tomatoes-with-pepper-salt-354490.json)
  * [Watermelon Vodka Cooler](index/w/watermelon-vodka-cooler-200670.json)
+ * [Penne With Vodka Sauce Recipe](index/p/penne-with-vodka-sauce-recipe.json)
+ * [Penne With Vodka Sauce Recipe2](index/p/penne-with-vodka-sauce-recipe2.json)

@@ -5,3 +5,5 @@
  * [Manchego Cheese And Garlic Dogs](index/m/manchego-cheese-and-garlic-dogs-353786.json)
  * [Mini Corn Dogs](index/m/mini-corn-dogs-51146000.json)
  * [Sonoran Hot Dogs With Bacon Pico De Gallo And Avocado](index/s/sonoran-hot-dogs-with-bacon-pico-de-gallo-and-avocado-56389617.json)
+ * [Best Hot Dogs Recipe](index/b/best-hot-dogs-recipe.json)
+ * [Corn Dogs Recipe](index/c/corn-dogs-recipe.json)

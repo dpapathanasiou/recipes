@@ -33,3 +33,6 @@
  * [White Chocolate Truffle And Chocolate Fudge Layer Cake](index/w/white-chocolate-truffle-and-chocolate-fudge-layer-cake-107459.json)
  * [Yellow Layer Cake With Chocolate Sour Cream Frosting](index/y/yellow-layer-cake-with-chocolate-sour-cream-frosting-51118090.json)
  * [Three Layer Carrot Cake With Cream Cheese Frosting](index/t/three-layer-carrot-cake-with-cream-cheese-frosting.json)
+ * [Ice Cream Layer Cake](index/i/ice-cream-layer-cake.json)
+ * [Lucky 7 Layer Dip Recipe](index/l/lucky-7-layer-dip-recipe.json)
+ * [Three Layer Carrot Cake Recipe](index/t/three-layer-carrot-cake-recipe.json)

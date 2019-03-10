@@ -8,3 +8,4 @@
  * [Roasted Pork Tenderloin With Butternut Squash Mash And Tarragon Gravy](index/r/roasted-pork-tenderloin-with-butternut-squash-mash-and-tarragon-gravy-364770.json)
  * [Winter Squash Mash](index/w/winter-squash-mash-230946.json)
  * [Zucchini Potato Lemon Thyme Mash](index/z/zucchini-potato-lemon-thyme-mash-102029.json)
+ * [Bangers And Mash Recipe](index/b/bangers-and-mash-recipe.json)

@@ -8,3 +8,4 @@
  * [Slow Cooker Amaretto Poached Peaches](index/s/slow-cooker-amaretto-poached-peaches.json)
  * [Spiced Poached Pears With Creme Fraiche And Amaretto Cookies](index/s/spiced-poached-pears-with-creme-fraiche-and-amaretto-cookies-51255330.json)
  * [Sticky Date And Almond Bread Pudding With Amaretto Zabaglione](index/s/sticky-date-and-almond-bread-pudding-with-amaretto-zabaglione-234166.json)
+ * [Panettone Bread Pudding With Amaretto Sauce Recipe](index/p/panettone-bread-pudding-with-amaretto-sauce-recipe.json)

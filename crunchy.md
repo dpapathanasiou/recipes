@@ -18,3 +18,7 @@
  * [Marinated Lentils With Crunchy Vegetables](index/m/marinated-lentils-with-crunchy-vegetables.json)
  * [Poached Chicken Crunchy Vegetables And Herb Dressing](index/p/poached-chicken-crunchy-vegetables-and-herb-dressing.json)
  * [Turkey Shawarma With Crunchy Vegetables](index/t/turkey-shawarma-with-crunchy-vegetables.json)
+ * [Crunchy Avocado Salad Recipe](index/c/crunchy-avocado-salad-recipe.json)
+ * [Crunchy Noodle Salad Recipe](index/c/crunchy-noodle-salad-recipe.json)
+ * [Crunchy Oven Baked Chicken Toes Recipe](index/c/crunchy-oven-baked-chicken-toes-recipe.json)
+ * [Sunnys Crunchy Peanut Butter Smore Bites Recipe](index/s/sunnys-crunchy-peanut-butter-smore-bites-recipe.json)

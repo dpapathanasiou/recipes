@@ -47,3 +47,5 @@
  * [Whole Roasted Snapper With Artichokes And Aioli](index/w/whole-roasted-snapper-with-artichokes-and-aioli-235571.json)
  * [Whole Snapper](index/w/whole-snapper-51126880.json)
  * [Zucchini Wrapped Red Snapper With Tomato Cumin And Orange Sauce](index/z/zucchini-wrapped-red-snapper-with-tomato-cumin-and-orange-sauce-10045.json)
+ * [Creole Marinated Grilled Red Snapper Recipe](index/c/creole-marinated-grilled-red-snapper-recipe.json)
+ * [Stuffed Snapper Veracruz Recipe](index/s/stuffed-snapper-veracruz-recipe.json)

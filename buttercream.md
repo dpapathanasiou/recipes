@@ -8,3 +8,8 @@
  * [Walnut Blackberry Torte With Mocha Buttercream](index/w/walnut-blackberry-torte-with-mocha-buttercream-104579.json)
  * [White Chocolate Layer Cake With Apricot Filling And White Chocolate Buttercream](index/w/white-chocolate-layer-cake-with-apricot-filling-and-white-chocolate-buttercream-108258.json)
  * [Whole Egg Lemon Buttercream](index/w/whole-egg-lemon-buttercream-56389523.json)
+ * [Chocolate Buttercream Frosting Recipe](index/c/chocolate-buttercream-frosting-recipe.json)
+ * [Chocolate Fudge Cake With Vanilla Buttercream Frosting And Chocolate Ganache Glaze Recipe](index/c/chocolate-fudge-cake-with-vanilla-buttercream-frosting-and-chocolate-ganache-glaze-recipe.json)
+ * [Classic Vanilla Buttercream Recipe](index/c/classic-vanilla-buttercream-recipe.json)
+ * [Quick Vanilla Buttercream Frosting Recipe](index/q/quick-vanilla-buttercream-frosting-recipe.json)
+ * [Vegan Lemon Cupcakes With Fresh Berry Filling And Lemon Buttercream Recipe](index/v/vegan-lemon-cupcakes-with-fresh-berry-filling-and-lemon-buttercream-recipe.json)

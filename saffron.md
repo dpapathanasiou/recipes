@@ -88,3 +88,4 @@
  * [Zucchini And Saffron Vichyssoise With Scallops](index/z/zucchini-and-saffron-vichyssoise-with-scallops-107004.json)
  * [Zucchini Onion And Tomato Salad With Saffron And Cinnamon](index/z/zucchini-onion-and-tomato-salad-with-saffron-and-cinnamon-5418.json)
  * [Mussels With Fennel And Saffron](index/m/mussels-with-fennel-and-saffron.json)
+ * [Saffron Risotto With Butternut Squash Recipe](index/s/saffron-risotto-with-butternut-squash-recipe.json)

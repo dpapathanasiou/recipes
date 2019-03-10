@@ -25,3 +25,7 @@
  * [Spanish Trail Mix](index/s/spanish-trail-mix-363089.json)
  * [Spanish Pizza Chorizo Manchego](index/s/spanish-pizza-chorizo-manchego.json)
  * [Spanish Steak](index/s/spanish-steak.json)
+ * [Pan Seared Spanish Steaks](index/p/pan-seared-spanish-steaks.json)
+ * [Spanish Coffee And Fudge Sundaes Recipe](index/s/spanish-coffee-and-fudge-sundaes-recipe.json)
+ * [Spanish Stuffed Bell Peppers Recipe](index/s/spanish-stuffed-bell-peppers-recipe.json)
+ * [Spanish Style Noodles With Chicken And Sausage Recipe](index/s/spanish-style-noodles-with-chicken-and-sausage-recipe.json)

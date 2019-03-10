@@ -27,3 +27,5 @@
  * [Sweet Salty And Sour Marinade](index/s/sweet-salty-and-sour-marinade-366390.json)
  * [Tequila Mockingbird Marinade](index/t/tequila-mockingbird-marinade-676.json)
  * [Tuna Kebabs With Ginger Chile Marinade](index/t/tuna-kebabs-with-ginger-chile-marinade-239072.json)
+ * [6 Hour Tri Tip Marinade Recipe](index/6/6-hour-tri-tip-marinade-recipe.json)
+ * [Chicken Skewers With Peanut Ginger Marinade Recipe](index/c/chicken-skewers-with-peanut-ginger-marinade-recipe.json)

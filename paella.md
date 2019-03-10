@@ -19,3 +19,8 @@
  * [Seafood Sausage And Bell Pepper Paella](index/s/seafood-sausage-and-bell-pepper-paella-2027.json)
  * [Shellfish Paella Risotto](index/s/shellfish-paella-risotto-1512.json)
  * [Spicy Turkey Paella](index/s/spicy-turkey-paella-108861.json)
+ * [Paella On The Grill Recipe](index/p/paella-on-the-grill-recipe.json)
+ * [Paella Recipe0](index/p/paella-recipe0.json)
+ * [Paella Recipe1](index/p/paella-recipe1.json)
+ * [The Ultimate Paella Recipe](index/t/the-ultimate-paella-recipe.json)
+ * [Vegetable Paella](index/v/vegetable-paella.json)

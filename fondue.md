@@ -6,3 +6,8 @@
  * [Three Cheese Fondue With Tomato Onion Chutney](index/t/three-cheese-fondue-with-tomato-onion-chutney-10318.json)
  * [Fondue Bourguignonne](index/f/fondue-bourguignonne.json)
  * [Stuffed Barbecue Burgers With Beer Cheddar Fondue](index/s/stuffed-barbecue-burgers-with-beer-cheddar-fondue.json)
+ * [Cheese Fondue Recipe](index/c/cheese-fondue-recipe.json)
+ * [Chocolate Fondue Recipe1](index/c/chocolate-fondue-recipe1.json)
+ * [Chocolate Fondue Recipe6](index/c/chocolate-fondue-recipe6.json)
+ * [Chocolate Fondue](index/c/chocolate-fondue.json)
+ * [Sunnys Peanut Butter Chocolate Fondue](index/s/sunnys-peanut-butter-chocolate-fondue.json)

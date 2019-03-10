@@ -67,3 +67,4 @@
  * [Wheat Berry Salad With Grilled Tofu](index/w/wheat-berry-salad-with-grilled-tofu-238674.json)
  * [Cauliflower Tofu Curry](index/c/cauliflower-tofu-curry.json)
  * [Steamed Tofu With Greens And Peanut Sauce](index/s/steamed-tofu-with-greens-and-peanut-sauce.json)
+ * [Sesame Tofu Salad](index/s/sesame-tofu-salad.json)

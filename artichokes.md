@@ -51,3 +51,5 @@
  * [Veal Scallops With Lemon And Artichokes](index/v/veal-scallops-with-lemon-and-artichokes-12741.json)
  * [Whole Roasted Snapper With Artichokes And Aioli](index/w/whole-roasted-snapper-with-artichokes-and-aioli-235571.json)
  * [Whole Stuffed Artichokes Braised In White Wine](index/w/whole-stuffed-artichokes-braised-in-white-wine-106245.json)
+ * [Artichokes Provencal Recipe](index/a/artichokes-provencal-recipe.json)
+ * [Spring Green Risotto With Artichokes Recipe](index/s/spring-green-risotto-with-artichokes-recipe.json)

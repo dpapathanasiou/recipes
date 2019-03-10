@@ -13,3 +13,6 @@
  * [Teriyaki Style Chicken](index/t/teriyaki-style-chicken-10417.json)
  * [Tuna Teriyaki With Wasabi Butter](index/t/tuna-teriyaki-with-wasabi-butter-106953.json)
  * [Warm Teriyaki Beef Salad](index/w/warm-teriyaki-beef-salad-13113.json)
+ * [Grilled Honey Teriyaki Chicken Recipe](index/g/grilled-honey-teriyaki-chicken-recipe.json)
+ * [Teriyaki Beef Recipe](index/t/teriyaki-beef-recipe.json)
+ * [Teriyaki Chicken Thighs Recipe](index/t/teriyaki-chicken-thighs-recipe.json)

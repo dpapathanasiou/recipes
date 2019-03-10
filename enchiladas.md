@@ -18,3 +18,8 @@
  * [West Texas Stacked Enchiladas](index/w/west-texas-stacked-enchiladas-367410.json)
  * [Wild Mushroom Enchiladas With Ancho Chili Cream Sauce](index/w/wild-mushroom-enchiladas-with-ancho-chili-cream-sauce-4097.json)
  * [Winter Squash And Short Rib Enchiladas](index/w/winter-squash-and-short-rib-enchiladas.json)
+ * [Chicken Enchiladas Recipe](index/c/chicken-enchiladas-recipe.json)
+ * [Chicken Enchiladas With Roasted Tomatillo Chile Salsa Recipe](index/c/chicken-enchiladas-with-roasted-tomatillo-chile-salsa-recipe.json)
+ * [Easy Green Chile Enchiladas Recipe](index/e/easy-green-chile-enchiladas-recipe.json)
+ * [Holla Beef Enchiladas Recipe](index/h/holla-beef-enchiladas-recipe.json)
+ * [Simple Perfect Enchiladas Recipe0](index/s/simple-perfect-enchiladas-recipe0.json)

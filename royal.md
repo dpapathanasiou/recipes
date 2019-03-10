@@ -9,3 +9,6 @@
  * [Royal Fizz](index/r/royal-fizz-200508.json)
  * [Royal Icing](index/r/royal-icing-240751.json)
  * [Royal Rickey](index/r/royal-rickey-200752.json)
+ * [Gingerbread Cookies With Royal Icing Recipe](index/g/gingerbread-cookies-with-royal-icing-recipe.json)
+ * [Royal Icing Recipe1](index/r/royal-icing-recipe1.json)
+ * [Sugar Cookies With Royal Icing](index/s/sugar-cookies-with-royal-icing.json)

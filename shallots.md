@@ -48,3 +48,4 @@
  * [Wilted Chard With Shallots And Vinegar](index/w/wilted-chard-with-shallots-and-vinegar.json)
  * [Wine Braised Ham With Shallots And Carrots](index/w/wine-braised-ham-with-shallots-and-carrots-109392.json)
  * [Grilled Beef Filets With Caramelized Shallots](index/g/grilled-beef-filets-with-caramelized-shallots.json)
+ * [Halibut With Lemon Butter And Crispy Shallots Recipe](index/h/halibut-with-lemon-butter-and-crispy-shallots-recipe.json)

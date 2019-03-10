@@ -26,3 +26,6 @@
  * [Vegetable Platter With Cannellini Hummus](index/v/vegetable-platter-with-cannellini-hummus-2340.json)
  * [Vegetables On Rosemary Skewers With White Bean Hummus](index/v/vegetables-on-rosemary-skewers-with-white-bean-hummus-230189.json)
  * [Grilled Pizza With Hummus](index/g/grilled-pizza-with-hummus.json)
+ * [Hummus And Grilled Vegetable Wrap Recipe](index/h/hummus-and-grilled-vegetable-wrap-recipe.json)
+ * [Hummus Recipe](index/h/hummus-recipe.json)
+ * [Kale And Hummus Salad](index/k/kale-and-hummus-salad.json)

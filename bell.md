@@ -166,3 +166,5 @@
  * [Zesty Bell Pepper Slaw](index/z/zesty-bell-pepper-slaw-102046.json)
  * [Zucchini And Bell Pepper Confetti](index/z/zucchini-and-bell-pepper-confetti-14400.json)
  * [Stir Fried Beef With Bell Peppers And Basil](index/s/stir-fried-beef-with-bell-peppers-and-basil.json)
+ * [Spanish Stuffed Bell Peppers Recipe](index/s/spanish-stuffed-bell-peppers-recipe.json)
+ * [Stuffed Bell Peppers](index/s/stuffed-bell-peppers.json)

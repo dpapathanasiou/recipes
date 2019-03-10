@@ -26,3 +26,5 @@
  * [Vietnamese Shrimp And Pork Crepes](index/v/vietnamese-shrimp-and-pork-crepes-238439.json)
  * [Walnut Crepes With Raspberries And Dried Figs](index/w/walnut-crepes-with-raspberries-and-dried-figs-101608.json)
  * [Warm Crepes With Hazelnut Brown Butter](index/w/warm-crepes-with-hazelnut-brown-butter-109180.json)
+ * [Crepes Recipe](index/c/crepes-recipe.json)
+ * [Mushroom Crepes](index/m/mushroom-crepes.json)

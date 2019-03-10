@@ -18,3 +18,4 @@
  * [Wild Rice Farro And Tangerine Salad](index/w/wild-rice-farro-and-tangerine-salad-51198520.json)
  * [Farro Salad With Turkey And Roasted Squash](index/f/farro-salad-with-turkey-and-roasted-squash.json)
  * [Turkey Meatball Soup With Spinach And Farro](index/t/turkey-meatball-soup-with-spinach-and-farro.json)
+ * [Baked Farro And Butternut Squash](index/b/baked-farro-and-butternut-squash.json)

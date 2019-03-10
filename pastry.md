@@ -27,3 +27,5 @@
  * [Sour Cream Pastry Dough](index/s/sour-cream-pastry-dough-14548.json)
  * [Spinach Puff Pastry Quiche](index/s/spinach-puff-pastry-quiche-2551.json)
  * [Strawberry And Banana Tartlets In Coconut Pastry Shells](index/s/strawberry-and-banana-tartlets-in-coconut-pastry-shells-10276.json)
+ * [Chicken And Bean Puff Pastry Empanadas Recipe](index/c/chicken-and-bean-puff-pastry-empanadas-recipe.json)
+ * [Soppressata And Cheese In Puff Pastry Recipe](index/s/soppressata-and-cheese-in-puff-pastry-recipe.json)

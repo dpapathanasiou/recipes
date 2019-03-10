@@ -10,3 +10,6 @@
  * [Super Slaw](index/s/super-slaw-5606.json)
  * [Super Spinach Salad](index/s/super-spinach-salad-1126.json)
  * [Super Succotash](index/s/super-succotash-107555.json)
+ * [Super Bowl Recipe](index/s/super-bowl-recipe.json)
+ * [Super Nachos Recipe](index/s/super-nachos-recipe.json)
+ * [Super Sloppy Joes Recipe4](index/s/super-sloppy-joes-recipe4.json)

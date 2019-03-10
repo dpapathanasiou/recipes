@@ -60,3 +60,4 @@
  * [Wild Mushrooms Shallot And Gruyere Omelets](index/w/wild-mushrooms-shallot-and-gruyere-omelets-1848.json)
  * [Beef Tenderloin Shallot Syrah](index/b/beef-tenderloin-shallot-syrah.json)
  * [Beef Tenderloin With Shallot And Red Wine Reduction](index/b/beef-tenderloin-with-shallot-and-red-wine-reduction.json)
+ * [Char Grilled Rib Eye With Roasted Shallot And Herb Butter Recipe](index/c/char-grilled-rib-eye-with-roasted-shallot-and-herb-butter-recipe.json)

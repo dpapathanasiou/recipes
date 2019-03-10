@@ -5,3 +5,5 @@
  * [Tiramisu Wedding Cake With Mixed Berries](index/t/tiramisu-wedding-cake-with-mixed-berries-289.json)
  * [Vanillabuttermilk Wedding Cake With Raspberries And Orangecream Cheese Frosting](index/v/vanillabuttermilk-wedding-cake-with-raspberries-and-orangecream-cheese-frosting.json)
  * [White Chocolate And Lemon Wedding Cake](index/w/white-chocolate-and-lemon-wedding-cake-108257.json)
+ * [Italian Wedding Soup Recipe](index/i/italian-wedding-soup-recipe.json)
+ * [Italian Wedding Soup](index/i/italian-wedding-soup.json)

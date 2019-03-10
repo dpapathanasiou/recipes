@@ -6,3 +6,4 @@
  * [Noodle Kugel](index/n/noodle-kugel-108757.json)
  * [Orange Currant Noodle Kugel](index/o/orange-currant-noodle-kugel-11632.json)
  * [Potato Carrot And Zucchini Kugel](index/p/potato-carrot-and-zucchini-kugel-241904.json)
+ * [Noodle Kugel Recipe](index/n/noodle-kugel-recipe.json)

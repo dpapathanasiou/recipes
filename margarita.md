@@ -28,3 +28,5 @@
  * [Watermelon And Strawberry Margarita](index/w/watermelon-and-strawberry-margarita-200840.json)
  * [Watermelon Cucumber Margarita](index/w/watermelon-cucumber-margarita-238771.json)
  * [Yucatan Margarita With Tropical Fruit](index/y/yucatan-margarita-with-tropical-fruit-200593.json)
+ * [Margarita Recipe](index/m/margarita-recipe.json)
+ * [Pomegranate Margarita Recipe](index/p/pomegranate-margarita-recipe.json)

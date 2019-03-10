@@ -29,3 +29,6 @@
  * [Veal Cutlets With Thyme Butter Sauce](index/v/veal-cutlets-with-thyme-butter-sauce-234142.json)
  * [Veal Cutlets With Tomato And Basil Sauce](index/v/veal-cutlets-with-tomato-and-basil-sauce-103441.json)
  * [Whole Wheat Crusted Chicken Breast Cutlets](index/w/whole-wheat-crusted-chicken-breast-cutlets-239147.json)
+ * [Chicken Cutlets With Spicy Arugula](index/c/chicken-cutlets-with-spicy-arugula.json)
+ * [Lemon Sage Chicken Cutlets Recipe](index/l/lemon-sage-chicken-cutlets-recipe.json)
+ * [Turkey Cutlets With Fried Ravioli Recipe](index/t/turkey-cutlets-with-fried-ravioli-recipe.json)

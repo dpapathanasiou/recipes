@@ -11,3 +11,4 @@
  * [Saffron Risotto Primavera](index/s/saffron-risotto-primavera-424.json)
  * [Shrimp And Penne Primavera](index/s/shrimp-and-penne-primavera-230163.json)
  * [Springtime Pasta Primavera](index/s/springtime-pasta-primavera-353091.json)
+ * [Pasta Primavera Recipe](index/p/pasta-primavera-recipe.json)

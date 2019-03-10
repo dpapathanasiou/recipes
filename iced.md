@@ -28,3 +28,5 @@
  * [Tarragon Spiked Lady Grey Iced Tea](index/t/tarragon-spiked-lady-grey-iced-tea-239285.json)
  * [Thai Style Iced Tea](index/t/thai-style-iced-tea-51169480.json)
  * [Ultimate Hydrating Iced Tea](index/u/ultimate-hydrating-iced-tea.json)
+ * [Long Island Iced Tea Lit Recipe](index/l/long-island-iced-tea-lit-recipe.json)
+ * [Long Island Iced Tea Recipe](index/l/long-island-iced-tea-recipe.json)

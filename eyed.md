@@ -9,3 +9,5 @@
  * [Skillet Sausages With Black Eyed Peas Romano Beans And Tomatoes](index/s/skillet-sausages-with-black-eyed-peas-romano-beans-and-tomatoes-354295.json)
  * [Tomato Black Eyed Pea And Bell Pepper Stew](index/t/tomato-black-eyed-pea-and-bell-pepper-stew-106635.json)
  * [Tuna Black Eyed Pea And Radish Salad](index/t/tuna-black-eyed-pea-and-radish-salad-2106.json)
+ * [Black Eyed Pea Fritters](index/b/black-eyed-pea-fritters.json)
+ * [Black Eyed Pea Salad Recipe](index/b/black-eyed-pea-salad-recipe.json)

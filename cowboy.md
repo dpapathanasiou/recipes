@@ -6,3 +6,4 @@
  * [Cowboy Frittata](index/c/cowboy-frittata-358056.json)
  * [Cowboy Steaks In A Skillet](index/c/cowboy-steaks-in-a-skillet-1113.json)
  * [Instant Pot Cowboy Chili](index/i/instant-pot-cowboy-chili.json)
+ * [Cowboy Lasagna](index/c/cowboy-lasagna.json)

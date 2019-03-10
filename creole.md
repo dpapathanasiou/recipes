@@ -15,3 +15,5 @@
  * [Shrimp Creole And Smoked Mozzarella Pizzas](index/s/shrimp-creole-and-smoked-mozzarella-pizzas-11352.json)
  * [Two Potato Salad With Creole Mustard Bacon And Arugula](index/t/two-potato-salad-with-creole-mustard-bacon-and-arugula-353289.json)
  * [Veal Chops With Creole Mustard Crust](index/v/veal-chops-with-creole-mustard-crust-231735.json)
+ * [Creole Marinated Grilled Red Snapper Recipe](index/c/creole-marinated-grilled-red-snapper-recipe.json)
+ * [Shrimp Creole Recipe](index/s/shrimp-creole-recipe.json)

@@ -51,3 +51,5 @@
  * [Turkey Roulade With Cider Sauce](index/t/turkey-roulade-with-cider-sauce-236408.json)
  * [Watercress Endive And Apple Salad With Cider Dressing](index/w/watercress-endive-and-apple-salad-with-cider-dressing-10316.json)
  * [Wilted Spinach Salad With Warm Apple Cider And Bacon Dressing](index/w/wilted-spinach-salad-with-warm-apple-cider-and-bacon-dressing-10731.json)
+ * [Roasted Butternut Squash Salad With Warm Cider Vinaigrette Recipe](index/r/roasted-butternut-squash-salad-with-warm-cider-vinaigrette-recipe.json)
+ * [Sparkling Apple Cider Punch](index/s/sparkling-apple-cider-punch.json)

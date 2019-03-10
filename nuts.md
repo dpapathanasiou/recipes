@@ -83,3 +83,7 @@
  * [Zucchini Salad With Ajo Blanco Dressing Spiced Nuts](index/z/zucchini-salad-with-ajo-blanco-dressing-spiced-nuts-56389847.json)
  * [Zucchini With Raisins And Pine Nuts](index/z/zucchini-with-raisins-and-pine-nuts-101855.json)
  * [Indian Spiced Mixed Nuts](index/i/indian-spiced-mixed-nuts.json)
+ * [Chile Cinnamon Brittle With Mixed Nuts Recipe](index/c/chile-cinnamon-brittle-with-mixed-nuts-recipe.json)
+ * [Eddie Jacksons Housemade Bbq Nuts](index/e/eddie-jacksons-housemade-bbq-nuts.json)
+ * [Penne With Brown Butter Arugula And Pine Nuts Recipe](index/p/penne-with-brown-butter-arugula-and-pine-nuts-recipe.json)
+ * [Slow Cooker Spiced Nuts](index/s/slow-cooker-spiced-nuts.json)

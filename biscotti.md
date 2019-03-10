@@ -14,3 +14,5 @@
  * [Neapolitan Biscotti](index/n/neapolitan-biscotti-389.json)
  * [Pistachio Raspberry And White Chocolate Biscotti](index/p/pistachio-raspberry-and-white-chocolate-biscotti-233428.json)
  * [Wendys Biscotti](index/w/wendys-biscotti-10075.json)
+ * [Chocolate Hazelnut Biscotti Recipe](index/c/chocolate-hazelnut-biscotti-recipe.json)
+ * [Limoncello And Ice Cream With Biscotti](index/l/limoncello-and-ice-cream-with-biscotti.json)

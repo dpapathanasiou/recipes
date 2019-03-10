@@ -6,3 +6,4 @@
  * [Smashed Fingerlings With Jalapenos](index/s/smashed-fingerlings-with-jalapenos-51239670.json)
  * [Soy Pickled Jalapenos](index/s/soy-pickled-jalapenos-351893.json)
  * [Thai Shrimp Soup With Lemon And Jalapenos](index/t/thai-shrimp-soup-with-lemon-and-jalapenos-1182.json)
+ * [Italian Stuffed Jalapenos Recipe](index/i/italian-stuffed-jalapenos-recipe.json)

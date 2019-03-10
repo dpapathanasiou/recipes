@@ -8,3 +8,5 @@
  * [Tomato And Cannellini Bean Soup](index/t/tomato-and-cannellini-bean-soup.json)
  * [Vegetable Platter With Cannellini Hummus](index/v/vegetable-platter-with-cannellini-hummus-2340.json)
  * [Zuppa Di Cavolo Nero Cannellini E Salsicce Kale White Bean And Sausage Soup](index/z/zuppa-di-cavolo-nero-cannellini-e-salsicce-kale-white-bean-and-sausage-soup-363386.json)
+ * [Beef And Cannellini Bean Minestrone Recipe](index/b/beef-and-cannellini-bean-minestrone-recipe.json)
+ * [Cannellini Bean Red Onion And Arugula Salad Recipe](index/c/cannellini-bean-red-onion-and-arugula-salad-recipe.json)

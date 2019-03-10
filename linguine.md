@@ -84,3 +84,6 @@
  * [Spicy Spinach Linguine With Olive Oil And Garlic](index/s/spicy-spinach-linguine-with-olive-oil-and-garlic-237103.json)
  * [Spinach Linguine With Goat Cheese](index/s/spinach-linguine-with-goat-cheese-1135.json)
  * [Whole Wheat Linguine With Cauliflower Pancetta And Parmesan](index/w/whole-wheat-linguine-with-cauliflower-pancetta-and-parmesan-233256.json)
+ * [Linguine With Shrimp Scampi Recipe3](index/l/linguine-with-shrimp-scampi-recipe3.json)
+ * [Linguine With White Clam Sauce Recipe](index/l/linguine-with-white-clam-sauce-recipe.json)
+ * [Shrimp And Scallop Scampi With Linguine Recipe](index/s/shrimp-and-scallop-scampi-with-linguine-recipe.json)

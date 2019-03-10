@@ -42,3 +42,4 @@
  * [White Bean And Escarole Soup With Spicy Polenta](index/w/white-bean-and-escarole-soup-with-spicy-polenta-235834.json)
  * [White Bean Wheat Berry And Escarole Soup](index/w/white-bean-wheat-berry-and-escarole-soup-11529.json)
  * [Winter Salad With Black Radish Apple And Escarole](index/w/winter-salad-with-black-radish-apple-and-escarole-231230.json)
+ * [Escarole And Bean Soup Recipe](index/e/escarole-and-bean-soup-recipe.json)

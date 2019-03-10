@@ -63,3 +63,6 @@
  * [Turkey Meatballs With Almonds](index/t/turkey-meatballs-with-almonds-1888.json)
  * [Wild Rice With Roasted Peppers And Toasted Almonds](index/w/wild-rice-with-roasted-peppers-and-toasted-almonds-236380.json)
  * [Shaved Rhubarb Salad With Almonds And Cheese](index/s/shaved-rhubarb-salad-with-almonds-and-cheese.json)
+ * [Arugula Salad With White Truffle Oil Marcona Almonds And Shaved Parmesan](index/a/arugula-salad-with-white-truffle-oil-marcona-almonds-and-shaved-parmesan.json)
+ * [Green Beans With Toasted Almonds Recipe](index/g/green-beans-with-toasted-almonds-recipe.json)
+ * [Toasted Cecchi Almonds And Pistachios Recipe](index/t/toasted-cecchi-almonds-and-pistachios-recipe.json)

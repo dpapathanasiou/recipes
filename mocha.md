@@ -24,3 +24,5 @@
  * [Pecan Mocha Meringues](index/p/pecan-mocha-meringues-364652.json)
  * [Toasted Almond Mocha Ice Cream Tart](index/t/toasted-almond-mocha-ice-cream-tart-12550.json)
  * [Walnut Blackberry Torte With Mocha Buttercream](index/w/walnut-blackberry-torte-with-mocha-buttercream-104579.json)
+ * [Mocha Chocolate Icebox Cake](index/m/mocha-chocolate-icebox-cake.json)
+ * [Mocha Pot De Creme Recipe](index/m/mocha-pot-de-creme-recipe.json)

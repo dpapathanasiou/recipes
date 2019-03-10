@@ -76,3 +76,6 @@
  * [Raspberry Frozen Yogurt Cake With Raspberry Amaretto Sauce](index/r/raspberry-frozen-yogurt-cake-with-raspberry-amaretto-sauce-13135.json)
  * [Rhubarb Frozen Yogurt Torte](index/r/rhubarb-frozen-yogurt-torte-109353.json)
  * [Tangy Frozen Greek Yogurt](index/t/tangy-frozen-greek-yogurt-354476.json)
+ * [Frozen Fruit Smoothies Recipe](index/f/frozen-fruit-smoothies-recipe.json)
+ * [Frozen Lemon Cream Pie](index/f/frozen-lemon-cream-pie.json)
+ * [Frozen Peanut Butter Bites Recipe](index/f/frozen-peanut-butter-bites-recipe.json)

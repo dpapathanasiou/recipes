@@ -21,3 +21,7 @@
  * [Provencal Vegetable Soup Em Soupe Au Pistou Em](index/p/provencal-vegetable-soup-em-soupe-au-pistou-em-352831.json)
  * [Traditional Provencal Christmas Cake](index/t/traditional-provencal-christmas-cake-15780.json)
  * [Slow Cooker Provencal Chicken](index/s/slow-cooker-provencal-chicken.json)
+ * [Artichokes Provencal Recipe](index/a/artichokes-provencal-recipe.json)
+ * [Provencal Tomatoes Recipe](index/p/provencal-tomatoes-recipe.json)
+ * [Scallops Provencal Recipe](index/s/scallops-provencal-recipe.json)
+ * [Swordfish Provencal](index/s/swordfish-provencal.json)
