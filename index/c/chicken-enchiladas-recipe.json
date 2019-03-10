@@ -1,0 +1,53 @@
+{
+    "directions": [
+        "Preheat the oven to 275 degrees F.",
+        "Wrap corn tortillas in foil and warm in the oven. Bring broth to a boil in a saute pan. Set chicken into broth with bay and oregano and onion. Return to a boil, cover and reduce heat to simmer. Poach chicken in broth 10 minutes. Remove chicken breasts to a bowl and shred with 2 forks. Add 1/2 cup of cooking liquid and tomato paste, spices and salt and work through the chicken using the forks.",
+        "Combine all sauce ingredients and heat through, keeping warm until needed.",
+        "Remove tortillas from oven and switch broiler on high.",
+        "Pile chicken mixture into warm corn tortillas and roll. Line casserole or baking dish with enchiladas, seam side down. Pour hot tomato sauce over the chicken enchiladas and top with cheese. Place in enchiladas in hot oven 6 inches from broiler and broil 5 minutes to melt cheese and set enchiladas. Serve.",
+        "var axel = Math.random()+\"\"",
+        "var a = axel * 10000000000000",
+        "document.write('')"
+    ],
+    "ingredients": [
+        "8 soft corn tortillas",
+        "3 cups chicken broth",
+        "4 pieces boneless skinless chicken breast, 6 to 8 ounces",
+        "1 bay leaf, fresh or dried",
+        "2 sprigs fresh oregano",
+        "1 small onion, quartered",
+        "2 tablespoons tomato paste",
+        "1 teaspoon chili powder, 1/3 palm full",
+        "1 teaspoon ground cumin",
+        "Salt",
+        "2 cups tomato sauce",
+        "2 teaspoons hot cayenne pepper sauce, several drops",
+        "1/4 teaspoon ground cinnamon, 2 pinches",
+        "1 teaspoon chili powder",
+        "2 1/2 cups Monterey Jack shredded cheese, available on dairy aisle"
+    ],
+    "language": "en-US",
+    "source": "www.foodnetwork.com",
+    "tags": [
+        "Easy Chicken Recipes",
+        "Chicken",
+        "Easy Recipes",
+        "Poultry Recipes",
+        "Easy Appetizer",
+        "Appetizer",
+        "Easy Main Dish Recipes",
+        "Main Dish Recipes",
+        "Easy Lunch Recipes",
+        "Lunch",
+        "Mexican Chicken",
+        "Enchilada",
+        "Cheese",
+        "Monterey Jack Recipes",
+        "Tomato",
+        "Vegetable",
+        "Poaching Recipes",
+        "Broiling"
+    ],
+    "title": "Chicken Enchiladas",
+    "url": "http://www.foodnetwork.com/recipes/rachael-ray/chicken-enchiladas-recipe"
+}
