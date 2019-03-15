@@ -10,3 +10,4 @@
  * [Quaker Pumpkin Pie Oatmeal](../../index/q/quaker-pumpkin-pie-oatmeal.json)
  * [Quaker Savoury Herb Oatmeal](../../index/q/quaker-savoury-herb-oatmeal.json)
  * [Quaker Yogurt Oat Pops](../../index/q/quaker-yogurt-oat-pops.json)
+ * [Quaker Vanishing Oatmeal Raisin Cookies](../../index/q/quaker-vanishing-oatmeal-raisin-cookies.json)

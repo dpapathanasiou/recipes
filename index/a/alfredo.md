@@ -142,3 +142,8 @@
  * [Zucchini Alfredo](../../index/z/zucchini-alfredo.json)
  * [Zucchini Linguine Alfredo](../../index/z/zucchini-linguine-alfredo.json)
  * [Zucchini Noodle Alfredo](../../index/z/zucchini-noodle-alfredo.json)
+ * [Chicken Alfredo With Zucchini Ribbons 51182610](../../index/c/chicken-alfredo-with-zucchini-ribbons-51182610.json)
+ * [Chicken And Broccoli Alfredo 533](../../index/c/chicken-and-broccoli-alfredo-533.json)
+ * [Faux Fettuccine Alfredo 14657](../../index/f/faux-fettuccine-alfredo-14657.json)
+ * [Pasta With Alfredo Pesto Sauce 4499](../../index/p/pasta-with-alfredo-pesto-sauce-4499.json)
+ * [Vegan Pasta Alfredo With Stroganoff](../../index/v/vegan-pasta-alfredo-with-stroganoff.json)

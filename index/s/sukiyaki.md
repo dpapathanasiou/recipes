@@ -7,3 +7,4 @@
  * [Sukiyaki Beef](../../index/s/sukiyaki-beef.json)
  * [Sukiyaki](../../index/s/sukiyaki.json)
  * [Traditional Beef Sukiyaki](../../index/t/traditional-beef-sukiyaki.json)
+ * [Sukiyaki With Red Snapper 108561](../../index/s/sukiyaki-with-red-snapper-108561.json)

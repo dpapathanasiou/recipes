@@ -22,3 +22,5 @@
  * [Lumpia   Filipino Shrimp And Pork Egg](../../index/l/lumpia---filipino-shrimp-and-pork-egg.json)
  * [Pan De Sal   Filipino Bread Rolls](../../index/p/pan-de-sal---filipino-bread-rolls.json)
  * [Siopao Filipino Steamed Dumplings](../../index/s/siopao-filipino-steamed-dumplings.json)
+ * [Filipino Adobo Style Chicken 12160](../../index/f/filipino-adobo-style-chicken-12160.json)
+ * [Filipino Adobo Style Cornish Hens Lapid 10170](../../index/f/filipino-adobo-style-cornish-hens-lapid-10170.json)

@@ -56,3 +56,4 @@
  * [Sweet Potatoes Supreme With Corn Brea](../../index/s/sweet-potatoes-supreme-with-corn-brea.json)
  * [The Supreme Shepherds Pie](../../index/t/the-supreme-shepherds-pie.json)
  * [Yam Supreme](../../index/y/yam-supreme.json)
+ * [Republic Of The Rio Grande Grilled Tuna And Grapefruit Supreme Salad 363418](../../index/r/republic-of-the-rio-grande-grilled-tuna-and-grapefruit-supreme-salad-363418.json)

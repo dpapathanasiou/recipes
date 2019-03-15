@@ -25,3 +25,4 @@
  * [Grilled Potato Salad With Crazy Steve](../../index/g/grilled-potato-salad-with-crazy-steve.json)
  * [Jamaican Me Crazy Chili](../../index/j/jamaican-me-crazy-chili.json)
  * [Snacks Crazy Sweet Corn Pudding](../../index/s/snacks-crazy-sweet-corn-pudding.json)
+ * [Crazy Cantina Chili 101652](../../index/c/crazy-cantina-chili-101652.json)

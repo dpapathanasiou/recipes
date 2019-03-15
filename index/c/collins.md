@@ -12,3 +12,7 @@
  * [Tom Collins Cocktail](../../index/t/tom-collins-cocktail.json)
  * [Tom Collins](../../index/t/tom-collins.json)
  * [Vodka Collins](../../index/v/vodka-collins.json)
+ * [Rhubarb Collins 394704](../../index/r/rhubarb-collins-394704.json)
+ * [Tom Collins 200639](../../index/t/tom-collins-200639.json)
+ * [Tom Collins Bar 56389723](../../index/t/tom-collins-bar-56389723.json)
+ * [Whiskey Collins 51175620](../../index/w/whiskey-collins-51175620.json)

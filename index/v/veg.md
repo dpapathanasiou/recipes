@@ -8,3 +8,4 @@
  * [Spicy Tahini Sauce With Kale Sea Veg](../../index/s/spicy-tahini-sauce-with-kale-sea-veg.json)
  * [Stout Slow Cooker Corned Beef And Veg](../../index/s/stout-slow-cooker-corned-beef-and-veg.json)
  * [Veg Biryani](../../index/v/veg-biryani.json)
+ * [Crunchy Veg Bowl With Warm Peanut Sauce](../../index/c/crunchy-veg-bowl-with-warm-peanut-sauce.json)

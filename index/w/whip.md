@@ -13,3 +13,5 @@
  * [Strawberry Whip](../../index/s/strawberry-whip.json)
  * [Vegetable Whip](../../index/v/vegetable-whip.json)
  * [Whip Up German Chocolate Cookies](../../index/w/whip-up-german-chocolate-cookies.json)
+ * [Apricot Whip With Berries 224](../../index/a/apricot-whip-with-berries-224.json)
+ * [Milk Chocolate Souffles With Nougat Whip 357238](../../index/m/milk-chocolate-souffles-with-nougat-whip-357238.json)

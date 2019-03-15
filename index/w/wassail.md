@@ -15,3 +15,6 @@
  * [Wassail Punch I](../../index/w/wassail-punch-i.json)
  * [Wassail Punch Ii](../../index/w/wassail-punch-ii.json)
  * [Wassail Punch](../../index/w/wassail-punch.json)
+ * [Wassail 102329](../../index/w/wassail-102329.json)
+ * [Wassail 200066](../../index/w/wassail-200066.json)
+ * [Wassail 230570](../../index/w/wassail-230570.json)

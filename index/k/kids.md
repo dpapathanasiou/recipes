@@ -25,3 +25,5 @@
  * [My Kids Favorite Zucchini Bread](../../index/m/my-kids-favorite-zucchini-bread.json)
  * [Not Your Kids Root Beer Float](../../index/n/not-your-kids-root-beer-float.json)
  * [Purple Power Punch Smoothie My Kids](../../index/p/purple-power-punch-smoothie-my-kids.json)
+ * [Kids Matzoh Pizza 104860](../../index/k/kids-matzoh-pizza-104860.json)
+ * [My Kids Favorite Banana Pancakes 108109](../../index/m/my-kids-favorite-banana-pancakes-108109.json)

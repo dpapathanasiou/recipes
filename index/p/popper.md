@@ -19,3 +19,4 @@
  * [Mollys Wannabe Jalapeno Popper Par](../../index/m/mollys-wannabe-jalapeno-popper-par.json)
  * [Ryans Reverse Popper Dip](../../index/r/ryans-reverse-popper-dip.json)
  * [Slow Cooker Jalapeno Popper Taquitos](../../index/s/slow-cooker-jalapeno-popper-taquitos.json)
+ * [Jalapeno Popper Fritters With Tomato Salsa 350806](../../index/j/jalapeno-popper-fritters-with-tomato-salsa-350806.json)

@@ -29,3 +29,8 @@
  * [Spaghetti Squash Hash Browns](../../index/s/spaghetti-squash-hash-browns.json)
  * [Sweet And Sassy Hash Browns](../../index/s/sweet-and-sassy-hash-browns.json)
  * [Sweet Potato Hash Browns](../../index/s/sweet-potato-hash-browns.json)
+ * [Chorizo Hash Browns 358095](../../index/c/chorizo-hash-browns-358095.json)
+ * [Green Chili Hash Browns 2240](../../index/g/green-chili-hash-browns-2240.json)
+ * [Hot Browns 10310](../../index/h/hot-browns-10310.json)
+ * [Hot Browns 15730](../../index/h/hot-browns-15730.json)
+ * [Skillet Hash Browns 51160910](../../index/s/skillet-hash-browns-51160910.json)

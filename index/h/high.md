@@ -38,3 +38,5 @@
  * [Ultimate High Altitude Chocolate Chip](../../index/u/ultimate-high-altitude-chocolate-chip.json)
  * [Vegan Chocolate Hemp High Fiber Smoot](../../index/v/vegan-chocolate-hemp-high-fiber-smoot.json)
  * [Venice High School Cherry Butter Cook](../../index/v/venice-high-school-cherry-butter-cook.json)
+ * [High Honey Sriracha Popcorn](../../index/h/high-honey-sriracha-popcorn.json)
+ * [Yemenite High Holy Day Soup 40002](../../index/y/yemenite-high-holy-day-soup-40002.json)

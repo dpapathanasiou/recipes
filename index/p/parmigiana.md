@@ -9,3 +9,4 @@
  * [Homemade Chicken Parmigiana](../../index/h/homemade-chicken-parmigiana.json)
  * [Tofu Parmigiana](../../index/t/tofu-parmigiana.json)
  * [Zucchini Parmigiana](../../index/z/zucchini-parmigiana.json)
+ * [Grilled Eggplant Parmigiana 238668](../../index/g/grilled-eggplant-parmigiana-238668.json)

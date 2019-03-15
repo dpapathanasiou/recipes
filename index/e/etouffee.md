@@ -16,3 +16,6 @@
  * [Heathers Crawfish Etouffee](../../index/h/heathers-crawfish-etouffee.json)
  * [Louisiana Crawfish Etouffee](../../index/l/louisiana-crawfish-etouffee.json)
  * [Shrimp Etouffee Ii](../../index/s/shrimp-etouffee-ii.json)
+ * [Crawfish Tomato Etouffee In Puff Pastry Shells 11373](../../index/c/crawfish-tomato-etouffee-in-puff-pastry-shells-11373.json)
+ * [Instant Pot Kidney Bean Etouffee](../../index/i/instant-pot-kidney-bean-etouffee.json)
+ * [Rabbit Etouffee With Baked Cheese Grits 232697](../../index/r/rabbit-etouffee-with-baked-cheese-grits-232697.json)

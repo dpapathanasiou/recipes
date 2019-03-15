@@ -16,3 +16,6 @@
  * [Seitan Philly Cheese Steak Sandwiches](../../index/s/seitan-philly-cheese-steak-sandwiches.json)
  * [Sweet And Sour Seitan](../../index/s/sweet-and-sour-seitan.json)
  * [Tasty Breaded Seitan](../../index/t/tasty-breaded-seitan.json)
+ * [Pot Roast Of Seitan Aunt Gloria Style 231052](../../index/-/-pot-roast-of-seitan-aunt-gloria-style-231052.json)
+ * [Seitan And Polenta Skillet With Fresh Greens 368469](../../index/s/seitan-and-polenta-skillet-with-fresh-greens-368469.json)
+ * [Seitan Skewers With Chimichurri Citrus Herb Sauce 368472](../../index/s/seitan-skewers-with-chimichurri-citrus-herb-sauce-368472.json)

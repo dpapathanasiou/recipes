@@ -127,3 +127,4 @@
  * [Spiced Paleo Cranberry Sauce](../../index/s/spiced-paleo-cranberry-sauce.json)
  * [Sunbutter Banana Pancakes   Paleo](../../index/s/sunbutter-banana-pancakes---paleo.json)
  * [Vals Paleo Ketchup](../../index/v/vals-paleo-ketchup.json)
+ * [Paleo Granola With Coconut And Almonds](../../index/p/paleo-granola-with-coconut-and-almonds.json)

@@ -13,3 +13,4 @@
  * [Potato Dumpling Casserole](../../index/p/potato-dumpling-casserole.json)
  * [Slow Cooker Turkey Soup With Dumpling](../../index/s/slow-cooker-turkey-soup-with-dumpling.json)
  * [Uszka Z Miesem Chicken Dumpling Parc](../../index/u/uszka-z-miesem-chicken-dumpling-parc.json)
+ * [Chicken Vegetable And Dumpling Soup 361259](../../index/c/chicken-vegetable-and-dumpling-soup-361259.json)

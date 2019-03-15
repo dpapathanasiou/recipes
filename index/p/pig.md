@@ -11,3 +11,5 @@
  * [Pig Picking Cake Ii](../../index/p/pig-picking-cake-ii.json)
  * [Pig Picking Cake Iii](../../index/p/pig-picking-cake-iii.json)
  * [Southern Style Pig Tails](../../index/s/southern-style-pig-tails.json)
+ * [Cuban Style Roast Suckling Pig 107566](../../index/c/cuban-style-roast-suckling-pig-107566.json)
+ * [Pig In A Haystack 2533](../../index/p/pig-in-a-haystack-2533.json)

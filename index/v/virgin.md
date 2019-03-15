@@ -10,3 +10,6 @@
  * [Virgin Pina Colada](../../index/v/virgin-pina-colada.json)
  * [Virgin Strawberry Daiquiri](../../index/v/virgin-strawberry-daiquiri.json)
  * [Virgin Sunset](../../index/v/virgin-sunset.json)
+ * [Virgin Mary Aspic 15233](../../index/-/-virgin-mary-aspic-15233.json)
+ * [Crostini With Lump Crab Salad And Extra Virgin Olive Oil 241046](../../index/c/crostini-with-lump-crab-salad-and-extra-virgin-olive-oil-241046.json)
+ * [Yellow Gazpacho Virgin Bloody Mary 234077](../../index/y/yellow-gazpacho-virgin-bloody-mary-234077.json)

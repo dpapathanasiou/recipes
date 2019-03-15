@@ -9,3 +9,5 @@
  * [Griddle Style Philly Steak Sandwiches](../../index/g/griddle-style-philly-steak-sandwiches.json)
  * [Raised Griddle Cakes](../../index/r/raised-griddle-cakes.json)
  * [Veggie Griddle Cakes](../../index/v/veggie-griddle-cakes.json)
+ * [Ham And Cheese Griddle Cakes 850](../../index/h/ham-and-cheese-griddle-cakes-850.json)
+ * [Walnut Griddle Cakes With Orange Butter 260](../../index/w/walnut-griddle-cakes-with-orange-butter-260.json)

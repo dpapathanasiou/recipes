@@ -9,3 +9,6 @@
  * [Salsa Simmered Chicken](../../index/s/salsa-simmered-chicken.json)
  * [Simmered Italian Rice](../../index/s/simmered-italian-rice.json)
  * [Sweet Simmered Pork Chops](../../index/s/sweet-simmered-pork-chops.json)
+ * [Beer Simmered Grilled Sausages 105455](../../index/b/beer-simmered-grilled-sausages-105455.json)
+ * [Cherries Simmered In Red Wine 103467](../../index/c/cherries-simmered-in-red-wine-103467.json)
+ * [Simmered Greens With Cornmeal Dumplings 241202](../../index/s/simmered-greens-with-cornmeal-dumplings-241202.json)

@@ -147,3 +147,5 @@
  * [Watermelon Rind Candy](../../index/w/watermelon-rind-candy.json)
  * [White Chocolate Jingle Candy](../../index/w/white-chocolate-jingle-candy.json)
  * [White Christmas Candy](../../index/w/white-christmas-candy.json)
+ * [Coconut And Almond Candy 356890](../../index/c/coconut-and-almond-candy-356890.json)
+ * [Giant Chocolate Candy Bar With Peanuts And Nougat](../../index/g/giant-chocolate-candy-bar-with-peanuts-and-nougat.json)

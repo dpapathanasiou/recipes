@@ -6,3 +6,4 @@
  * [French Onion Soup Xi](../../index/f/french-onion-soup-xi.json)
  * [Potato Soup Xi](../../index/p/potato-soup-xi.json)
  * [Sugar Cookies Xi](../../index/s/sugar-cookies-xi.json)
+ * [Vegetarian Style Congee Em Xi Fan Em 237647](../../index/v/vegetarian-style-congee-em-xi-fan-em-237647.json)

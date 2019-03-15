@@ -33,3 +33,4 @@
  * [Jennies Heavenly Slow Cooker Chicken](../../index/j/jennies-heavenly-slow-cooker-chicken.json)
  * [Jens Heavenly Egg Salad](../../index/j/jens-heavenly-egg-salad.json)
  * [Sweet Heavenly Rice Dessert](../../index/s/sweet-heavenly-rice-dessert.json)
+ * [Heavenly Hot Chocolate 201189](../../index/h/heavenly-hot-chocolate-201189.json)

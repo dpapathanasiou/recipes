@@ -39,3 +39,4 @@
  * [Virgils Top Secret Pork Chop Marin](../../index/v/virgils-top-secret-pork-chop-marin.json)
  * [Wasabi Secret Salad](../../index/w/wasabi-secret-salad.json)
  * [Whole Wheat Pizza Dough Secret Family](../../index/w/whole-wheat-pizza-dough-secret-family.json)
+ * [Michael Romanos Secret Ingredient Soup 51156400](../../index/m/michael-romanos-secret-ingredient-soup-51156400.json)

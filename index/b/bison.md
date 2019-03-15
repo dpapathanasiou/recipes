@@ -34,3 +34,7 @@
  * [Smoky Bison Burger](../../index/s/smoky-bison-burger.json)
  * [Spicy Orange Bison Balls](../../index/s/spicy-orange-bison-balls.json)
  * [Stuffed Bison Burgers With Caramelize](../../index/s/stuffed-bison-burgers-with-caramelize.json)
+ * [Bison And Red Wine Shepherds Pie 357257](../../index/b/bison-and-red-wine-shepherds-pie-357257.json)
+ * [Coffee Marinated Bison Short Ribs 241342](../../index/c/coffee-marinated-bison-short-ribs-241342.json)
+ * [Mediterranean Bison Sliders 51219210](../../index/m/mediterranean-bison-sliders-51219210.json)
+ * [Middle Eastern Bison Meatballs With Cilantro Yogurt Sauce 241339](../../index/m/middle-eastern-bison-meatballs-with-cilantro-yogurt-sauce-241339.json)

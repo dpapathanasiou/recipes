@@ -42,3 +42,5 @@
  * [Secret Midnight Moon Better Than Choc](../../index/s/secret-midnight-moon-better-than-choc.json)
  * [Spinach Alfredo Sauce Better Than Ol](../../index/s/spinach-alfredo-sauce-better-than-ol.json)
  * [Vanilla Wafer Cookies That Are Better](../../index/v/vanilla-wafer-cookies-that-are-better.json)
+ * [Belly Acres Better Burger](../../index/b/belly-acres-better-burger.json)
+ * [Selfs Better Body Chili 230173](../../index/s/selfs-better-body-chili-230173.json)

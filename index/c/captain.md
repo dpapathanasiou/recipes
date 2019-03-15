@@ -7,3 +7,5 @@
  * [Captain Duartes Salt Cod Cakes](../../index/c/captain-duartes-salt-cod-cakes.json)
  * [Captain Jacks Peach Pie](../../index/c/captain-jacks-peach-pie.json)
  * [Country Captain Chicken With Rice](../../index/c/country-captain-chicken-with-rice.json)
+ * [Country Captain Chicken 147](../../index/c/country-captain-chicken-147.json)
+ * [Country Captain With Cauliflower And Peas 357529](../../index/c/country-captain-with-cauliflower-and-peas-357529.json)

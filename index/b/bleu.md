@@ -50,3 +50,4 @@
  * [Slow Cooker Chicken Cordon Bleu](../../index/s/slow-cooker-chicken-cordon-bleu.json)
  * [Teriyaki Chicken Cordon Bleu](../../index/t/teriyaki-chicken-cordon-bleu.json)
  * [Weeknight Chicken Cordon Bleu](../../index/w/weeknight-chicken-cordon-bleu.json)
+ * [Open Face Chicken Cordon Bleu 238398](../../index/o/open-face-chicken-cordon-bleu-238398.json)

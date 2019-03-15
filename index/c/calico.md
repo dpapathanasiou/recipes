@@ -12,3 +12,4 @@
  * [Potato Cheese Calico Soup](../../index/p/potato-cheese-calico-soup.json)
  * [Slow Cooker Calico Bean Soup](../../index/s/slow-cooker-calico-bean-soup.json)
  * [Southwestern Calico Corn](../../index/s/southwestern-calico-corn.json)
+ * [Slow Cooker Calico Beans](../../index/s/slow-cooker-calico-beans.json)

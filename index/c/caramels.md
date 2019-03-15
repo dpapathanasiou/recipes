@@ -12,3 +12,7 @@
  * [Grandmas Canadian Cashew Caramels](../../index/g/grandmas-canadian-cashew-caramels.json)
  * [Homemade Caramels With Dark Chocolate](../../index/h/homemade-caramels-with-dark-chocolate.json)
  * [Licorice Caramels](../../index/l/licorice-caramels.json)
+ * [Butter Rum Caramels 15795](../../index/b/butter-rum-caramels-15795.json)
+ * [Butter Rum Caramels 232817](../../index/b/butter-rum-caramels-232817.json)
+ * [Caramel Custards With Ginger Cremes Caramels Au Gingembre 104768](../../index/c/caramel-custards-with-ginger-cremes-caramels-au-gingembre-104768.json)
+ * [Orange Creme Caramels 106086](../../index/o/orange-creme-caramels-106086.json)

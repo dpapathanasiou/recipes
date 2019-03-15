@@ -8,3 +8,4 @@
  * [Shooters Steak Sandwich](../../index/s/shooters-steak-sandwich.json)
  * [Spiced Pumpkin Puree Shooters](../../index/s/spiced-pumpkin-puree-shooters.json)
  * [Strawberry Shooters](../../index/s/strawberry-shooters.json)
+ * [Tomato Ginger Gelee Clam Shooters 108160](../../index/t/tomato-ginger-gelee-clam-shooters-108160.json)

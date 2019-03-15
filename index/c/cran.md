@@ -9,3 +9,4 @@
  * [Cran Orange Oatmeal Muffins](../../index/c/cran-orange-oatmeal-muffins.json)
  * [Cran Raspberry Gelatin Mold](../../index/c/cran-raspberry-gelatin-mold.json)
  * [Cran Raspberry Jellies](../../index/c/cran-raspberry-jellies.json)
+ * [Cran Royale](../../index/c/cran-royale.json)

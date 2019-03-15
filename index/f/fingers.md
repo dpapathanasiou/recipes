@@ -25,3 +25,5 @@
  * [Venison Fingers](../../index/v/venison-fingers.json)
  * [Wonderful Almond Fingers](../../index/w/wonderful-almond-fingers.json)
  * [Zaxbys Chicken Fingers Dipping Sauce](../../index/z/zaxbys-chicken-fingers-dipping-sauce.json)
+ * [French Toast Fingers With Chocolate Hazelnut Spread And Blueberries](../../index/f/french-toast-fingers-with-chocolate-hazelnut-spread-and-blueberries.json)
+ * [Welsh Rarebit Fingers 4552](../../index/w/welsh-rarebit-fingers-4552.json)

@@ -10,3 +10,4 @@
  * [New Quiche Lorraine](../../index/n/new-quiche-lorraine.json)
  * [Quiche Lorraine I](../../index/q/quiche-lorraine-i.json)
  * [Quiche Lorraine Ii](../../index/q/quiche-lorraine-ii.json)
+ * [Potee Lorraine 2523](../../index/p/potee-lorraine-2523.json)

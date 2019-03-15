@@ -31,3 +31,7 @@
  * [Trail Mix White Fudge](../../index/t/trail-mix-white-fudge.json)
  * [Warm Trail Mix](../../index/w/warm-trail-mix.json)
  * [West Coast Trail Cookies](../../index/w/west-coast-trail-cookies.json)
+ * [Oatmeal Trail Mix Cookies 13182](../../index/o/oatmeal-trail-mix-cookies-13182.json)
+ * [Spanish Trail Mix 363089](../../index/s/spanish-trail-mix-363089.json)
+ * [Trail Mix 11585](../../index/t/trail-mix-11585.json)
+ * [Trail Mix Porridge 51221010](../../index/t/trail-mix-porridge-51221010.json)

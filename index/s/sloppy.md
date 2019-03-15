@@ -86,3 +86,6 @@
  * [White Sloppy Joes](../../index/w/white-sloppy-joes.json)
  * [Womens Club Sloppy Joes](../../index/w/womens-club-sloppy-joes.json)
  * [Zippy Sloppy Joes](../../index/z/zippy-sloppy-joes.json)
+ * [Sloppy Tacos 51187030](../../index/s/sloppy-tacos-51187030.json)
+ * [Summer Squash Sloppy Joes 239165](../../index/s/summer-squash-sloppy-joes-239165.json)
+ * [Turkey Sloppy Joes On Cheddar Buttermilk Biscuits 230464](../../index/t/turkey-sloppy-joes-on-cheddar-buttermilk-biscuits-230464.json)

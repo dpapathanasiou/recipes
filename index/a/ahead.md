@@ -35,3 +35,6 @@
  * [Make Ahead Unstuffed Shells](../../index/m/make-ahead-unstuffed-shells.json)
  * [Make Ahead Vegetarian Moroccan Stew](../../index/m/make-ahead-vegetarian-moroccan-stew.json)
  * [Rich Make Ahead Turkey Gravy](../../index/r/rich-make-ahead-turkey-gravy.json)
+ * [Do Ahead Sheboygan Brats 12644](../../index/d/do-ahead-sheboygan-brats-12644.json)
+ * [Do Ahead Turkey Stock 368369](../../index/d/do-ahead-turkey-stock-368369.json)
+ * [Make Ahead Party Shrimp And Veggie Penne 106808](../../index/m/make-ahead-party-shrimp-and-veggie-penne-106808.json)

@@ -50,3 +50,8 @@
  * [Tortellini Southwest](../../index/t/tortellini-southwest.json)
  * [Vegan Creamy Southwest Dressing](../../index/v/vegan-creamy-southwest-dressing.json)
  * [Vegetarian Southwest One Pot Dinner](../../index/v/vegetarian-southwest-one-pot-dinner.json)
+ * [Southwest Chicken Salad With Rice Corn And Chilies 105160](../../index/s/southwest-chicken-salad-with-rice-corn-and-chilies-105160.json)
+ * [Southwest Corn Bread Stuffing With Corn And Green Chilies 105807](../../index/s/southwest-corn-bread-stuffing-with-corn-and-green-chilies-105807.json)
+ * [Southwest Fusilli With Tomatoes Garlic And Chilies 100961](../../index/s/southwest-fusilli-with-tomatoes-garlic-and-chilies-100961.json)
+ * [Southwest Panzanella 369129](../../index/s/southwest-panzanella-369129.json)
+ * [Southwest Veggie Nachos 51144440](../../index/s/southwest-veggie-nachos-51144440.json)

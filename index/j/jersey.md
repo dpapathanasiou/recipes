@@ -8,3 +8,4 @@
  * [Jersey Shore Ice Cream Sandwiches](../../index/j/jersey-shore-ice-cream-sandwiches.json)
  * [Jersey Summer Salsa](../../index/j/jersey-summer-salsa.json)
  * [South Jersey Oyster Pie](../../index/s/south-jersey-oyster-pie.json)
+ * [Jersey Cakes](../../index/j/jersey-cakes.json)

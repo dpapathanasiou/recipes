@@ -70,3 +70,5 @@
  * [Tomato Jell O Surprise](../../index/t/tomato-jell-o-surprise.json)
  * [Tortilla Surprise](../../index/t/tortilla-surprise.json)
  * [Unsweetened Surprise](../../index/u/unsweetened-surprise.json)
+ * [Sour Cream Strawberry Surprise 230194](../../index/s/sour-cream-strawberry-surprise-230194.json)
+ * [Surprise Salad 20067](../../index/s/surprise-salad-20067.json)

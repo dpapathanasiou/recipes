@@ -11,3 +11,6 @@
  * [Filets Mignons With Bourguignonne Sauce](../../index/f/filets-mignons-with-bourguignonne-sauce.json)
  * [Fondue Bourguignonne](../../index/f/fondue-bourguignonne.json)
  * [Tofu A La Bourguignonne](../../index/t/tofu-a-la-bourguignonne.json)
+ * [Beef Liver Bourguignonne 101469](../../index/b/beef-liver-bourguignonne-101469.json)
+ * [Classic Escargots A La Bourguignonne 104750](../../index/c/classic-escargots-a-la-bourguignonne-104750.json)
+ * [Scallops Bourguignonne 101478](../../index/s/scallops-bourguignonne-101478.json)

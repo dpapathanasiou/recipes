@@ -6,3 +6,5 @@
  * [Peruvian Aji Amarillo Cheese Sauce](../../index/p/peruvian-aji-amarillo-cheese-sauce.json)
  * [Peruvian Aji Sauce](../../index/p/peruvian-aji-sauce.json)
  * [Peruvian Aji Style Sauce](../../index/p/peruvian-aji-style-sauce.json)
+ * [Aji Amarillo Pineapple Salsa 108586](../../index/a/aji-amarillo-pineapple-salsa-108586.json)
+ * [Aji Sauce 353812](../../index/a/aji-sauce-353812.json)

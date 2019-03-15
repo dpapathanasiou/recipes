@@ -11,3 +11,7 @@
  * [Easy Beer Bratwurst](../../index/e/easy-beer-bratwurst.json)
  * [No Beer Available Bratwurst](../../index/n/no-beer-available-bratwurst.json)
  * [Wisconsin Bratwurst](../../index/w/wisconsin-bratwurst.json)
+ * [Bratwurst And Red Cabbage 51263820](../../index/b/bratwurst-and-red-cabbage-51263820.json)
+ * [Bratwurst With Creamy Apple Compote 240278](../../index/b/bratwurst-with-creamy-apple-compote-240278.json)
+ * [Grilled Bratwurst And Onion Open Face Sandwiches 4211](../../index/g/grilled-bratwurst-and-onion-open-face-sandwiches-4211.json)
+ * [Homemade Bratwurst Bites With Beer And Horseradish Mustard 355235](../../index/h/homemade-bratwurst-bites-with-beer-and-horseradish-mustard-355235.json)

@@ -11,3 +11,7 @@
  * [Lamb Shoulder Vindaloo](../../index/l/lamb-shoulder-vindaloo.json)
  * [Pork Vindaloo](../../index/p/pork-vindaloo.json)
  * [Tofu Vindaloo](../../index/t/tofu-vindaloo.json)
+ * [Chicken Vindaloo 107088](../../index/c/chicken-vindaloo-107088.json)
+ * [Chicken Vindaloo 201](../../index/c/chicken-vindaloo-201.json)
+ * [Chicken Vindaloo 3172](../../index/c/chicken-vindaloo-3172.json)
+ * [Pork Or Lamb Vindaloo](../../index/p/pork-or-lamb-vindaloo.json)

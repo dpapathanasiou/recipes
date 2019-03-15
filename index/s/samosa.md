@@ -6,3 +6,4 @@
  * [Mals Samosa Quesadillas With Curried](../../index/m/mals-samosa-quesadillas-with-curried.json)
  * [Samosa Pot Pie](../../index/s/samosa-pot-pie.json)
  * [Super Easy Samosa Pie](../../index/s/super-easy-samosa-pie.json)
+ * [Potato Samosa Tartlets 14517](../../index/p/potato-samosa-tartlets-14517.json)

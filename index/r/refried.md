@@ -28,3 +28,8 @@
  * [Spicy Cheesy Refried Beans](../../index/s/spicy-cheesy-refried-beans.json)
  * [Vegan Refried Beans](../../index/v/vegan-refried-beans.json)
  * [Vegetarian Refried Beans](../../index/v/vegetarian-refried-beans.json)
+ * [Coriander Chicken Tostadas With Refried Beans And Grilled Fennel 362970](../../index/c/coriander-chicken-tostadas-with-refried-beans-and-grilled-fennel-362970.json)
+ * [Frijoles Refritos Refried Beans 51110240](../../index/f/frijoles-refritos-refried-beans-51110240.json)
+ * [Light Refried Black Beans 103826](../../index/l/light-refried-black-beans-103826.json)
+ * [Nextover Chicken Tacos With Quick Refried Beans](../../index/n/nextover-chicken-tacos-with-quick-refried-beans.json)
+ * [Schmaltz Refried Pinto Beans](../../index/s/schmaltz-refried-pinto-beans.json)

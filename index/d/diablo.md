@@ -7,3 +7,5 @@
  * [Shrimp A La Diablo](../../index/s/shrimp-a-la-diablo.json)
  * [Shrimp Fra Diablo](../../index/s/shrimp-fra-diablo.json)
  * [Spaghetti Diablo With Shrimp](../../index/s/spaghetti-diablo-with-shrimp.json)
+ * [Baked Fish Sticks Diablo 107697](../../index/b/baked-fish-sticks-diablo-107697.json)
+ * [Diablo Tequila N Tonic 200539](../../index/d/diablo-tequila-n-tonic-200539.json)

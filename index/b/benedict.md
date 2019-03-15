@@ -18,3 +18,6 @@
  * [Smoked Salmon Dill Eggs Benedict](../../index/s/smoked-salmon-dill-eggs-benedict.json)
  * [Tex Mex Eggs Benedict With Grilled Po](../../index/t/tex-mex-eggs-benedict-with-grilled-po.json)
  * [The Pork Sirloin Benedict](../../index/t/the-pork-sirloin-benedict.json)
+ * [Eggs Benedict Bread Pudding 14575](../../index/e/eggs-benedict-bread-pudding-14575.json)
+ * [Eggs Benedict Salad 351052](../../index/e/eggs-benedict-salad-351052.json)
+ * [Eggs Benedict With Mock Hollandaise 108441](../../index/e/eggs-benedict-with-mock-hollandaise-108441.json)

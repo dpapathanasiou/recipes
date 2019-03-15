@@ -16,3 +16,8 @@
  * [Sunset Rum Punch](../../index/s/sunset-rum-punch.json)
  * [Sunset Sangria](../../index/s/sunset-sangria.json)
  * [Virgin Sunset](../../index/v/virgin-sunset.json)
+ * [Crimson Sunset 200291](../../index/c/crimson-sunset-200291.json)
+ * [Golden Sunset 56390028](../../index/g/golden-sunset-56390028.json)
+ * [Silver Sunset 200297](../../index/s/silver-sunset-200297.json)
+ * [Sunset Sorbet Sundaes 2381](../../index/s/sunset-sorbet-sundaes-2381.json)
+ * [The Mezcal Sunset](../../index/t/the-mezcal-sunset.json)

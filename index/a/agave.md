@@ -11,3 +11,6 @@
  * [Roasted Brussels Sprouts With Agave A](../../index/r/roasted-brussels-sprouts-with-agave-a.json)
  * [Strawberry Rhubarb Jam With Agave](../../index/s/strawberry-rhubarb-jam-with-agave.json)
  * [Vegan Agave Cornbread Muffins](../../index/v/vegan-agave-cornbread-muffins.json)
+ * [Agave Margarita 395470](../../index/a/agave-margarita-395470.json)
+ * [Agave Sweetened Orange Orange Pekoe Tea 352390](../../index/a/agave-sweetened-orange-orange-pekoe-tea-352390.json)
+ * [Pineapple Jalapeno Infused Agave Lime 51242420](../../index/p/pineapple-jalapeno-infused-agave-lime-51242420.json)

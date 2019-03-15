@@ -24,3 +24,5 @@
  * [Weeknight Skillet Lasagna](../../index/w/weeknight-skillet-lasagna.json)
  * [Weeknight Slow Cooker Chuck Roast](../../index/w/weeknight-slow-cooker-chuck-roast.json)
  * [Weeknight Wonton Soup](../../index/w/weeknight-wonton-soup.json)
+ * [Weeknight Mapo Tofu With Ground Pork](../../index/w/weeknight-mapo-tofu-with-ground-pork.json)
+ * [Weeknight Red Curry](../../index/w/weeknight-red-curry.json)

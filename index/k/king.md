@@ -44,3 +44,7 @@
  * [Thai Ginger Chicken Gai Pad King](../../index/t/thai-ginger-chicken-gai-pad-king.json)
  * [Turkey A La King Deluxe](../../index/t/turkey-a-la-king-deluxe.json)
  * [Turkey A La King](../../index/t/turkey-a-la-king.json)
+ * [Alaska King Crab Nachos 103545](../../index/a/alaska-king-crab-nachos-103545.json)
+ * [Hummus Crusted Alaskan Wild King Salmon Over A Bed Of French Beans Red Onion And Cucumber Salad With Lemon Oil 51201240](../../index/h/hummus-crusted-alaskan-wild-king-salmon-over-a-bed-of-french-beans-red-onion-and-cucumber-salad-with-lemon-oil-51201240.json)
+ * [King Of Snake Cocktail 351543](../../index/k/king-of-snake-cocktail-351543.json)
+ * [Silver King 201034](../../index/s/silver-king-201034.json)

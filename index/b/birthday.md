@@ -17,3 +17,7 @@
  * [Jims Birthday Pasta Salad](../../index/j/jims-birthday-pasta-salad.json)
  * [Large White Birthday Cake](../../index/l/large-white-birthday-cake.json)
  * [Sylvias Birthday Cake](../../index/s/sylvias-birthday-cake.json)
+ * [Anne Whitemans Birthday Kugel 350156](../../index/a/anne-whitemans-birthday-kugel-350156.json)
+ * [Birthday Party Paella 101008](../../index/b/birthday-party-paella-101008.json)
+ * [Double Decker Chocolate And Cherry Raspberry Birthday Pie](../../index/d/double-decker-chocolate-and-cherry-raspberry-birthday-pie.json)
+ * [Fudgy Chocolate Birthday Cake 103028](../../index/f/fudgy-chocolate-birthday-cake-103028.json)

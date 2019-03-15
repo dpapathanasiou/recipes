@@ -14,3 +14,4 @@
  * [Colorado Pug](../../index/c/colorado-pug.json)
  * [Lobster Colorado](../../index/l/lobster-colorado.json)
  * [New Colorado Omelet](../../index/n/new-colorado-omelet.json)
+ * [Red Chile Sauce Chile Colorado 104411](../../index/r/red-chile-sauce-chile-colorado-104411.json)

@@ -18,3 +18,7 @@
  * [Chef Johns Bananas Foster](../../index/c/chef-johns-bananas-foster.json)
  * [Chicken Foster](../../index/c/chicken-foster.json)
  * [Slow Cooker Bananas Foster](../../index/s/slow-cooker-bananas-foster.json)
+ * [Bananas Foster Coffee Parfaits 1064](../../index/b/bananas-foster-coffee-parfaits-1064.json)
+ * [Pineapple Foster 82](../../index/p/pineapple-foster-82.json)
+ * [Tropical Bananas Foster 103653](../../index/t/tropical-bananas-foster-103653.json)
+ * [Tropical Fruit Foster Split 236221](../../index/t/tropical-fruit-foster-split-236221.json)

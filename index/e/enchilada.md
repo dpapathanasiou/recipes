@@ -52,3 +52,5 @@
  * [Texas Enchilada Sauce](../../index/t/texas-enchilada-sauce.json)
  * [The Best Red Enchilada Sauce](../../index/t/the-best-red-enchilada-sauce.json)
  * [White Chicken Enchilada Slow Cooker C](../../index/w/white-chicken-enchilada-slow-cooker-c.json)
+ * [Cheesy Shrimp Enchilada Bake 355389](../../index/c/cheesy-shrimp-enchilada-bake-355389.json)
+ * [Chicken And Swiss Chard Enchilada Casserole 13593](../../index/c/chicken-and-swiss-chard-enchilada-casserole-13593.json)

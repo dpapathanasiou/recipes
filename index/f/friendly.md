@@ -24,3 +24,5 @@
  * [Vegan Friendly Caramel Buttercream](../../index/v/vegan-friendly-caramel-buttercream.json)
  * [Vegan Friendly Falafel](../../index/v/vegan-friendly-falafel.json)
  * [Waistline Friendly Turkey Chili](../../index/w/waistline-friendly-turkey-chili.json)
+ * [Kid Friendly Puttanesca 56389887](../../index/k/kid-friendly-puttanesca-56389887.json)
+ * [Kid Friendly Turkey Burgers 104169](../../index/k/kid-friendly-turkey-burgers-104169.json)

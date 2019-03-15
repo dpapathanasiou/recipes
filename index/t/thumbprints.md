@@ -9,3 +9,5 @@
  * [Eggnog Thumbprints](../../index/e/eggnog-thumbprints.json)
  * [Jam Thumbprints](../../index/j/jam-thumbprints.json)
  * [Tylers Raspberry Thumbprints With Wh](../../index/t/tylers-raspberry-thumbprints-with-wh.json)
+ * [Oatmeal Raspberry Thumbprints 107742](../../index/o/oatmeal-raspberry-thumbprints-107742.json)
+ * [Roasted Almond Thumbprints 51205400](../../index/r/roasted-almond-thumbprints-51205400.json)

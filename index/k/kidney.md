@@ -24,3 +24,5 @@
  * [Steak And Kidney Pie With Bacon And M](../../index/s/steak-and-kidney-pie-with-bacon-and-m.json)
  * [Summer Kidney Bean Salad](../../index/s/summer-kidney-bean-salad.json)
  * [Vinnys Red Kidney Bean Salad](../../index/v/vinnys-red-kidney-bean-salad.json)
+ * [Instant Pot Kidney Bean Etouffee](../../index/i/instant-pot-kidney-bean-etouffee.json)
+ * [Kidney Bean Salad With Walnuts And Cilantro 108281](../../index/k/kidney-bean-salad-with-walnuts-and-cilantro-108281.json)

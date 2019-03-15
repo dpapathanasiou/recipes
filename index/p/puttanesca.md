@@ -21,3 +21,8 @@
  * [Puttanesca I](../../index/p/puttanesca-i.json)
  * [Puttanesca Or Kalamata Kwik Sauce](../../index/p/puttanesca-or-kalamata-kwik-sauce.json)
  * [Rigatoni Alla Puttanesca E Arrabbiata](../../index/r/rigatoni-alla-puttanesca-e-arrabbiata.json)
+ * [Fusilli With Porcini Puttanesca Sauce 3178](../../index/f/fusilli-with-porcini-puttanesca-sauce-3178.json)
+ * [Kid Friendly Puttanesca 56389887](../../index/k/kid-friendly-puttanesca-56389887.json)
+ * [Penne Puttanesca With Chicken 233403](../../index/p/penne-puttanesca-with-chicken-233403.json)
+ * [Spaghetti Alla Puttanesca 241131](../../index/s/spaghetti-alla-puttanesca-241131.json)
+ * [White Beans Puttanesca 350219](../../index/w/white-beans-puttanesca-350219.json)

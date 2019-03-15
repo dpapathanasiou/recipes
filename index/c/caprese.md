@@ -44,3 +44,6 @@
  * [Tamis Tri Color Caprese Salad](../../index/t/tamis-tri-color-caprese-salad.json)
  * [Toasted Caprese Sandwich](../../index/t/toasted-caprese-sandwich.json)
  * [Zucchini Caprese](../../index/z/zucchini-caprese.json)
+ * [Chocolate Almond Torte Torta Caprese 14985](../../index/c/chocolate-almond-torte-torta-caprese-14985.json)
+ * [Deconstructed Caprese 51188630](../../index/d/deconstructed-caprese-51188630.json)
+ * [Eggplant Caprese With Grilled Tomato And Basil Vinaigrette 238764](../../index/e/eggplant-caprese-with-grilled-tomato-and-basil-vinaigrette-238764.json)

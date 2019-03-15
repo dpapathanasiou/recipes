@@ -8,3 +8,4 @@
  * [Jos Mountain Mush](../../index/j/jos-mountain-mush.json)
  * [Jos Punch](../../index/j/jos-punch.json)
  * [Jos Rosemary Bread](../../index/j/jos-rosemary-bread.json)
+ * [Jos Cheese Wafers 15808](../../index/j/jos-cheese-wafers-15808.json)

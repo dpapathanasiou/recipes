@@ -16,3 +16,7 @@
  * [Pancetta Wrapped Haddock With Lemon A](../../index/p/pancetta-wrapped-haddock-with-lemon-a.json)
  * [Simple Broiled Haddock](../../index/s/simple-broiled-haddock.json)
  * [Smoked Haddock Chowder](../../index/s/smoked-haddock-chowder.json)
+ * [Haddock In Charmoula Sauce 104887](../../index/h/haddock-in-charmoula-sauce-104887.json)
+ * [Herbed Haddock Soup 1920](../../index/h/herbed-haddock-soup-1920.json)
+ * [Italian Style Baked Haddock 2576](../../index/i/italian-style-baked-haddock-2576.json)
+ * [Potato And Celery Root Gratin With Smoked Haddock 107594](../../index/p/potato-and-celery-root-gratin-with-smoked-haddock-107594.json)

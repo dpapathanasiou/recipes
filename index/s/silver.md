@@ -10,3 +10,8 @@
  * [Silver Colored Punch](../../index/s/silver-colored-punch.json)
  * [Silver Fish](../../index/s/silver-fish.json)
  * [Silver White Cake](../../index/s/silver-white-cake.json)
+ * [Silver 200958](../../index/s/silver-200958.json)
+ * [Silver King 201034](../../index/s/silver-king-201034.json)
+ * [Silver Palate Sour Cream Apple Pie 106665](../../index/s/silver-palate-sour-cream-apple-pie-106665.json)
+ * [Silver Streak 201039](../../index/s/silver-streak-201039.json)
+ * [Silver Sunset 200297](../../index/s/silver-sunset-200297.json)

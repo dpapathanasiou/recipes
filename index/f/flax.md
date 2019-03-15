@@ -25,3 +25,5 @@
  * [Ultimate Flax Pizza Crust](../../index/u/ultimate-flax-pizza-crust.json)
  * [Wheat Bread With Flax Seed](../../index/w/wheat-bread-with-flax-seed.json)
  * [Whole Grain Spelt And Flax Seed Panca](../../index/w/whole-grain-spelt-and-flax-seed-panca.json)
+ * [Fudgy Chocolate Banana Flax Muffins](../../index/f/fudgy-chocolate-banana-flax-muffins.json)
+ * [Multi Grain Bread With Sesame Flax And Poppy Seeds 523](../../index/m/multi-grain-bread-with-sesame-flax-and-poppy-seeds-523.json)

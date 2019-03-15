@@ -11,3 +11,4 @@
  * [Western Style Beef Jerky](../../index/w/western-style-beef-jerky.json)
  * [Western Style Chili](../../index/w/western-style-chili.json)
  * [Western Style Flat Iron Steaks](../../index/w/western-style-flat-iron-steaks.json)
+ * [Diner Style Western Omelet](../../index/d/diner-style-western-omelet.json)

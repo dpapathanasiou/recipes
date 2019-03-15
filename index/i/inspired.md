@@ -32,3 +32,5 @@
  * [Thai Inspired Sunomono With Jalapeno](../../index/t/thai-inspired-sunomono-with-jalapeno.json)
  * [Thai Inspired Vegetable Soup](../../index/t/thai-inspired-vegetable-soup.json)
  * [Vegetarian Mexican Inspired Stuffed P](../../index/v/vegetarian-mexican-inspired-stuffed-p.json)
+ * [Allison Glocks Inspired Salsa 230244](../../index/a/allison-glocks-inspired-salsa-230244.json)
+ * [Thai Inspired Shrimp Stir Fry 14487](../../index/t/thai-inspired-shrimp-stir-fry-14487.json)

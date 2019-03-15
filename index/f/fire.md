@@ -30,3 +30,4 @@
  * [Spaghetti Squash With Fire Roasted To](../../index/s/spaghetti-squash-with-fire-roasted-to.json)
  * [Sweet Fire Rib Rub](../../index/s/sweet-fire-rib-rub.json)
  * [Watermelon Fire And Ice Salsa](../../index/w/watermelon-fire-and-ice-salsa.json)
+ * [Red And Green Fire Salsa 1727](../../index/r/red-and-green-fire-salsa-1727.json)

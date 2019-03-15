@@ -16,3 +16,4 @@
  * [Smokey Tomato And Bacon Spread](../../index/s/smokey-tomato-and-bacon-spread.json)
  * [Smokey Vegetarian Cuban Black Bean So](../../index/s/smokey-vegetarian-cuban-black-bean-so.json)
  * [Susans Smokey Salmon Ball](../../index/s/susans-smokey-salmon-ball.json)
+ * [Smokey Clam Chowder 2988](../../index/s/smokey-clam-chowder-2988.json)

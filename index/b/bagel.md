@@ -21,3 +21,6 @@
  * [Speedy Bagel Tuna Melt](../../index/s/speedy-bagel-tuna-melt.json)
  * [Spicy Bagel Bites](../../index/s/spicy-bagel-bites.json)
  * [Spring Veggie Bagel Sandwich](../../index/s/spring-veggie-bagel-sandwich.json)
+ * [Bagel Chips With Smoked Salmon Capers And Lemon 233861](../../index/b/bagel-chips-with-smoked-salmon-capers-and-lemon-233861.json)
+ * [Garlic Rosemary Bagel Crisps 10746](../../index/g/garlic-rosemary-bagel-crisps-10746.json)
+ * [Lamb Chops With Everything Bagel Yogurt And Chickpeas 51248810](../../index/l/lamb-chops-with-everything-bagel-yogurt-and-chickpeas-51248810.json)

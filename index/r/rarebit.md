@@ -12,3 +12,6 @@
  * [Welsh Rabbit Rarebit](../../index/w/welsh-rabbit-rarebit.json)
  * [Welsh Rarebit I](../../index/w/welsh-rarebit-i.json)
  * [Welsh Rarebit Ii](../../index/w/welsh-rarebit-ii.json)
+ * [Gruyere Rarebit With Ham 240586](../../index/g/gruyere-rarebit-with-ham-240586.json)
+ * [Stout And Cheddar Rarebit With Fried Eggs 350220](../../index/s/stout-and-cheddar-rarebit-with-fried-eggs-350220.json)
+ * [Welsh Rarebit Fingers 4552](../../index/w/welsh-rarebit-fingers-4552.json)

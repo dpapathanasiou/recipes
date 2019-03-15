@@ -20,3 +20,4 @@
  * [Stovetop Pork Chops And Potatoes](../../index/s/stovetop-pork-chops-and-potatoes.json)
  * [Stovetop Yankee Pot Roast](../../index/s/stovetop-yankee-pot-roast.json)
  * [Vegetable Stovetop Frittata](../../index/v/vegetable-stovetop-frittata.json)
+ * [Stovetop Butterscotch Apples And Cranberries](../../index/s/stovetop-butterscotch-apples-and-cranberries.json)

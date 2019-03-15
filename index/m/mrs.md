@@ -29,3 +29,4 @@
  * [Mrs Walkers Fruit Cake](../../index/m/mrs-walkers-fruit-cake.json)
  * [Mrs Welchs Butter Tarts](../../index/m/mrs-welchs-butter-tarts.json)
  * [Mrs Wheelbarrows Pickled Green Onio](../../index/m/mrs-wheelbarrows-pickled-green-onio.json)
+ * [Mrs Schreiners Split Pea Soup 10096](../../index/m/mrs-schreiners-split-pea-soup-10096.json)

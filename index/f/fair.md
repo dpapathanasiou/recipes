@@ -10,3 +10,5 @@
  * [State Fair Butter Cookies](../../index/s/state-fair-butter-cookies.json)
  * [State Fair Crepes](../../index/s/state-fair-crepes.json)
  * [State Fair Kettle Corn](../../index/s/state-fair-kettle-corn.json)
+ * [Scarborough Fair Shortbread 232644](../../index/s/scarborough-fair-shortbread-232644.json)
+ * [Scarborough Fair Tofu Burger 366471](../../index/s/scarborough-fair-tofu-burger-366471.json)

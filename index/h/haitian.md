@@ -10,3 +10,6 @@
  * [Haitian Style Fried Chicken](../../index/h/haitian-style-fried-chicken.json)
  * [Haitian Wheat Bread](../../index/h/haitian-wheat-bread.json)
  * [Rice Beans Haitian Style](../../index/r/rice-beans-haitian-style.json)
+ * [Epis Haitian Seasoning Base](../../index/e/epis-haitian-seasoning-base.json)
+ * [Haitian Beef And Pumpkin Soup Soup Joumou](../../index/h/haitian-beef-and-pumpkin-soup-soup-joumou.json)
+ * [Pikliz Haitian Pickled Vegetable Relish](../../index/p/pikliz-haitian-pickled-vegetable-relish.json)

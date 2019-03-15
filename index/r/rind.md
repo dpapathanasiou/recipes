@@ -7,3 +7,5 @@
  * [Watermelon Rind Candy](../../index/w/watermelon-rind-candy.json)
  * [Watermelon Rind Preserves](../../index/w/watermelon-rind-preserves.json)
  * [Watermelon Rind Stir Fry](../../index/w/watermelon-rind-stir-fry.json)
+ * [Marinated Shrimp With Pickled Watermelon Rind 12668](../../index/m/marinated-shrimp-with-pickled-watermelon-rind-12668.json)
+ * [Orange Jicama Radish And Pork Rind Salad 232480](../../index/o/orange-jicama-radish-and-pork-rind-salad-232480.json)

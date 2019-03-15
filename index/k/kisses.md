@@ -20,3 +20,7 @@
  * [Surprise Meringue Kisses](../../index/s/surprise-meringue-kisses.json)
  * [Sweet As Kisses Pie](../../index/s/sweet-as-kisses-pie.json)
  * [Thumbprint Kisses](../../index/t/thumbprint-kisses.json)
+ * [Coffee Chocolate Truffle Kisses 15796](../../index/c/coffee-chocolate-truffle-kisses-15796.json)
+ * [Grand Marnier Brownie Kisses 103157](../../index/g/grand-marnier-brownie-kisses-103157.json)
+ * [Hazelnut Meringue Kisses 14284](../../index/h/hazelnut-meringue-kisses-14284.json)
+ * [Meringue Kisses With Passion Fruit Fool 105137](../../index/m/meringue-kisses-with-passion-fruit-fool-105137.json)

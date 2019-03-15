@@ -49,3 +49,5 @@
  * [Tomato Basil Mozzarella Melt](../../index/t/tomato-basil-mozzarella-melt.json)
  * [Tuna Panini Melt](../../index/t/tuna-panini-melt.json)
  * [Tuna Pita Melt](../../index/t/tuna-pita-melt.json)
+ * [Diner Style Patty Melt](../../index/d/diner-style-patty-melt.json)
+ * [The Ba Patty Melt 51252650](../../index/t/the-ba-patty-melt-51252650.json)

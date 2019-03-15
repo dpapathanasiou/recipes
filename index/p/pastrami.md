@@ -10,3 +10,5 @@
  * [Ritz Pastrami And Corned Beef Mini Sa](../../index/r/ritz-pastrami-and-corned-beef-mini-sa.json)
  * [Sweet Potato And Pastrami Hash](../../index/s/sweet-potato-and-pastrami-hash.json)
  * [Venison Pastrami](../../index/v/venison-pastrami.json)
+ * [Pastrami And Potato Hash With Fried Eggs](../../index/p/pastrami-and-potato-hash-with-fried-eggs.json)
+ * [Pastrami Style Grilled Turkey Breast](../../index/p/pastrami-style-grilled-turkey-breast.json)

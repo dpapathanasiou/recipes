@@ -11,3 +11,5 @@
  * [Rhubarb Betty](../../index/r/rhubarb-betty.json)
  * [Slow Cooked Apple Brown Betty](../../index/s/slow-cooked-apple-brown-betty.json)
  * [Vegan Apple Brown Betty](../../index/v/vegan-apple-brown-betty.json)
+ * [Apple Prune Brown Betty 109129](../../index/a/apple-prune-brown-betty-109129.json)
+ * [Pear Almond And Dried Cherry Brown Betty 356912](../../index/p/pear-almond-and-dried-cherry-brown-betty-356912.json)

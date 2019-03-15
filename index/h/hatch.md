@@ -9,3 +9,4 @@
  * [Hatch Chile Salsa](../../index/h/hatch-chile-salsa.json)
  * [Pulled Pork Hatch Chile Stew](../../index/p/pulled-pork-hatch-chile-stew.json)
  * [Santa Fe Hatch Chile Green Sauce](../../index/s/santa-fe-hatch-chile-green-sauce.json)
+ * [Hatch Chile Con Queso Dip 51253410](../../index/h/hatch-chile-con-queso-dip-51253410.json)

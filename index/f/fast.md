@@ -47,3 +47,4 @@
  * [Quick And Fast Vegetarian Vegetable S](../../index/q/quick-and-fast-vegetarian-vegetable-s.json)
  * [Really Fast Zucchini Soup](../../index/r/really-fast-zucchini-soup.json)
  * [Super Fast And Easy Chicken A La King](../../index/s/super-fast-and-easy-chicken-a-la-king.json)
+ * [Fast White Bean Stew 236946](../../index/f/fast-white-bean-stew-236946.json)

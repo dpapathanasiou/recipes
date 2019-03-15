@@ -15,3 +15,7 @@
  * [Jollyrogers Chilaquiles](../../index/j/jollyrogers-chilaquiles.json)
  * [Sunday Morning Chilaquiles](../../index/s/sunday-morning-chilaquiles.json)
  * [Traditional Chilaquiles](../../index/t/traditional-chilaquiles.json)
+ * [Chilaquiles 13594](../../index/c/chilaquiles-13594.json)
+ * [Chilaquiles In Chipotle Sauce 108037](../../index/c/chilaquiles-in-chipotle-sauce-108037.json)
+ * [Chilaquiles With Turkey And Roasted Tomatillo Salsa 102563](../../index/c/chilaquiles-with-turkey-and-roasted-tomatillo-salsa-102563.json)
+ * [Sweet Potato Chilaquiles With Griddled Salsa Roja 104138](../../index/s/sweet-potato-chilaquiles-with-griddled-salsa-roja-104138.json)

@@ -26,3 +26,6 @@
  * [Mama Silvas Mesquite Chicken](../../index/m/mama-silvas-mesquite-chicken.json)
  * [Mama Yevs Bread Dip](../../index/m/mama-yevs-bread-dip.json)
  * [The Burger Your Mama Warned You About](../../index/t/the-burger-your-mama-warned-you-about.json)
+ * [Mama Lucias Chicken Cacciatore 491](../../index/m/mama-lucias-chicken-cacciatore-491.json)
+ * [Mama Teresas Vegetable Soup 233968](../../index/m/mama-teresas-vegetable-soup-233968.json)
+ * [Mama Voulas Spanakopita 354989](../../index/m/mama-voulas-spanakopita-354989.json)

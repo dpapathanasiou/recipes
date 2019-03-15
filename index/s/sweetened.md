@@ -14,3 +14,5 @@
  * [Sweetened Popcorn](../../index/s/sweetened-popcorn.json)
  * [Sweetened Spaghetti Squash](../../index/s/sweetened-spaghetti-squash.json)
  * [Vegan Sweetened Condensed Milk](../../index/v/vegan-sweetened-condensed-milk.json)
+ * [Agave Sweetened Orange Orange Pekoe Tea 352390](../../index/a/agave-sweetened-orange-orange-pekoe-tea-352390.json)
+ * [Sweetened Whipped Cream 107556](../../index/s/sweetened-whipped-cream-107556.json)

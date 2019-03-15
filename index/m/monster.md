@@ -27,3 +27,5 @@
  * [Monster Sour Cream Enchiladas](../../index/m/monster-sour-cream-enchiladas.json)
  * [Raw Mango Monster Smoothie](../../index/r/raw-mango-monster-smoothie.json)
  * [Thin Mint Green Monster](../../index/t/thin-mint-green-monster.json)
+ * [Cumin Crusted Monster Pork Chop With Peach Chipotle Salsa 238564](../../index/c/cumin-crusted-monster-pork-chop-with-peach-chipotle-salsa-238564.json)
+ * [Grilled Monster Pork Chops With Tomatillo And Green Apple Sauce 109529](../../index/g/grilled-monster-pork-chops-with-tomatillo-and-green-apple-sauce-109529.json)

@@ -11,3 +11,7 @@
  * [Linzer Torte Cookies](../../index/l/linzer-torte-cookies.json)
  * [Raspberry Linzer Cookies](../../index/r/raspberry-linzer-cookies.json)
  * [Sugar Free Sour Cream Linzer Cookies](../../index/s/sugar-free-sour-cream-linzer-cookies.json)
+ * [Chocolate Truffle Linzer Heart 1159](../../index/c/chocolate-truffle-linzer-heart-1159.json)
+ * [Hazelnut Linzer Cookies With Blackberry Jam 236806](../../index/h/hazelnut-linzer-cookies-with-blackberry-jam-236806.json)
+ * [Raspberry Almond Linzer Cookies 387489](../../index/r/raspberry-almond-linzer-cookies-387489.json)
+ * [Raspberry Linzer Tart 929](../../index/r/raspberry-linzer-tart-929.json)

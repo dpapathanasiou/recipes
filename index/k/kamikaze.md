@@ -8,3 +8,4 @@
  * [Kamikaze Shots For A Crowd](../../index/k/kamikaze-shots-for-a-crowd.json)
  * [Kamikaze](../../index/k/kamikaze.json)
  * [Lemon Kamikaze](../../index/l/lemon-kamikaze.json)
+ * [Kamikaze Vodka Cocktail](../../index/k/kamikaze-vodka-cocktail.json)

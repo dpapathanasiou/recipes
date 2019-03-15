@@ -27,3 +27,7 @@
  * [Pineapple Coconut Chess Pie](../../index/p/pineapple-coconut-chess-pie.json)
  * [Southern Chess Squares](../../index/s/southern-chess-squares.json)
  * [Yellow Chess Cake](../../index/y/yellow-chess-cake.json)
+ * [Blueberry Buttermilk Chess Pie](../../index/b/blueberry-buttermilk-chess-pie.json)
+ * [Buttermilk Lemon Chess Pie 368269](../../index/b/buttermilk-lemon-chess-pie-368269.json)
+ * [Lemon Buttermilk Chess Tartlets 13354](../../index/l/lemon-buttermilk-chess-tartlets-13354.json)
+ * [Lemon Molasses Chess Pie 100577](../../index/l/lemon-molasses-chess-pie-100577.json)

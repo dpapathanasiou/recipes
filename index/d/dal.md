@@ -14,3 +14,7 @@
  * [Red Split Lentils Masoor Dal](../../index/r/red-split-lentils-masoor-dal.json)
  * [Spinach And Tomato Dal Indian Lentil](../../index/s/spinach-and-tomato-dal-indian-lentil.json)
  * [Yellow Tarka Dal](../../index/y/yellow-tarka-dal.json)
+ * [Everyday Yellow Dal](../../index/e/everyday-yellow-dal.json)
+ * [Papadums With Whipped Dal](../../index/p/papadums-with-whipped-dal.json)
+ * [Red Lentil Dal 101019](../../index/r/red-lentil-dal-101019.json)
+ * [Tomato Dal Soup 102933](../../index/t/tomato-dal-soup-102933.json)

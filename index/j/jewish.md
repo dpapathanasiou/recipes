@@ -19,3 +19,6 @@
  * [Real Ny Jewish Rye Bread](../../index/r/real-ny-jewish-rye-bread.json)
  * [The Best Ever Classic Jewish Noodle K](../../index/t/the-best-ever-classic-jewish-noodle-k.json)
  * [Vals Hungarian Jewish Chopped Liver](../../index/v/vals-hungarian-jewish-chopped-liver.json)
+ * [Jewish Onion Bread 109217](../../index/j/jewish-onion-bread-109217.json)
+ * [Newish Jewish Southwestern Tsimmes Stuffed In Chilies 40016](../../index/n/newish-jewish-southwestern-tsimmes-stuffed-in-chilies-40016.json)
+ * [Spinach Jewish Style 350152](../../index/s/spinach-jewish-style-350152.json)

@@ -39,3 +39,4 @@
  * [The Perfect Buffalo Wing Sauce](../../index/t/the-perfect-buffalo-wing-sauce.json)
  * [Warm Chicken Wing Dip](../../index/w/warm-chicken-wing-dip.json)
  * [Watsons Savory Garlic Parmesan Wing](../../index/w/watsons-savory-garlic-parmesan-wing.json)
+ * [Spicy Fried Chicken Wing Drumsticks 11548](../../index/s/spicy-fried-chicken-wing-drumsticks-11548.json)

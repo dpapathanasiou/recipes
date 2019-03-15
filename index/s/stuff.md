@@ -15,3 +15,4 @@
  * [Squash Stuff](../../index/s/squash-stuff.json)
  * [The Mushroom Steak Stuff](../../index/t/the-mushroom-steak-stuff.json)
  * [Tom Szallers Great Pan Or Bird Stuff](../../index/t/tom-szallers-great-pan-or-bird-stuff.json)
+ * [Hot Stuff Chili 240789](../../index/h/hot-stuff-chili-240789.json)

@@ -31,3 +31,5 @@
  * [Super Deluxe Steak Nachos](../../index/s/super-deluxe-steak-nachos.json)
  * [Trudys Super Deluxe Crab Dip](../../index/t/trudys-super-deluxe-crab-dip.json)
  * [Turkey A La King Deluxe](../../index/t/turkey-a-la-king-deluxe.json)
+ * [Chinese Fried Rice Deluxe 20091](../../index/c/chinese-fried-rice-deluxe-20091.json)
+ * [Creamed Spinach Deluxe 234150](../../index/c/creamed-spinach-deluxe-234150.json)

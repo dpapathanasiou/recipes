@@ -15,3 +15,7 @@
  * [Mothers Moon Cookies](../../index/m/mothers-moon-cookies.json)
  * [Secret Midnight Moon Better Than Choc](../../index/s/secret-midnight-moon-better-than-choc.json)
  * [Southern Moon Pies](../../index/s/southern-moon-pies.json)
+ * [Dark Moon 51193710](../../index/d/dark-moon-51193710.json)
+ * [Havana Moon Chili 100551](../../index/h/havana-moon-chili-100551.json)
+ * [Poppy Cheddar Moon Crackers 13043](../../index/p/poppy-cheddar-moon-crackers-13043.json)
+ * [Poppy Cheddar Moon Crackers 356190](../../index/p/poppy-cheddar-moon-crackers-356190.json)

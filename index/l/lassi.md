@@ -13,3 +13,5 @@
  * [Salty Cumin Lassi](../../index/s/salty-cumin-lassi.json)
  * [Savory Lassi](../../index/s/savory-lassi.json)
  * [Strawberry Lassi](../../index/s/strawberry-lassi.json)
+ * [Spiced Mango Lassi 230688](../../index/s/spiced-mango-lassi-230688.json)
+ * [Spiced Peach Lassi 51240640](../../index/s/spiced-peach-lassi-51240640.json)

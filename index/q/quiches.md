@@ -7,3 +7,4 @@
  * [Mini Quiches Crustless](../../index/m/mini-quiches-crustless.json)
  * [Potato And Chorizo Mini Quiches](../../index/p/potato-and-chorizo-mini-quiches.json)
  * [Quick Mini Quiches](../../index/q/quick-mini-quiches.json)
+ * [Crustless Mini Quiches 366969](../../index/c/crustless-mini-quiches-366969.json)

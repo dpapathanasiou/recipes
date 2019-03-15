@@ -10,3 +10,4 @@
  * [Hooleys Devil Stuffed Shrimp](../../index/h/hooleys-devil-stuffed-shrimp.json)
  * [Lobster Salad With Red Devil Dressing](../../index/l/lobster-salad-with-red-devil-dressing.json)
  * [Sell Your Soul To The Devil Eggs](../../index/s/sell-your-soul-to-the-devil-eggs.json)
+ * [Little Devil 200980](../../index/l/little-devil-200980.json)

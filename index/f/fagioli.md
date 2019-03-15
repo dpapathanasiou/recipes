@@ -18,3 +18,5 @@
  * [Pasta Fazool Pasta E Fagioli](../../index/p/pasta-fazool-pasta-e-fagioli.json)
  * [Poor Mans Pasta Fagioli](../../index/p/poor-mans-pasta-fagioli.json)
  * [Zuppa Di Orzo E Fagioli Bean And Bar](../../index/z/zuppa-di-orzo-e-fagioli-bean-and-bar.json)
+ * [Pasta E Fagioli Con Salsicce Pasta And Beans With Sausage 351989](../../index/p/pasta-e-fagioli-con-salsicce-pasta-and-beans-with-sausage-351989.json)
+ * [Pasta E Fagioli With Escarole](../../index/p/pasta-e-fagioli-with-escarole.json)

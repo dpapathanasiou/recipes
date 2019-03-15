@@ -47,3 +47,7 @@
  * [Stacies Awesome Fruity Grilled Veggi](../../index/s/stacies-awesome-fruity-grilled-veggi.json)
  * [Unique Fruity Green Salad](../../index/u/unique-fruity-green-salad.json)
  * [Very Fruity Rum Punch](../../index/v/very-fruity-rum-punch.json)
+ * [Fruity Berry Tarts With Vanilla Cashew Cream](../../index/f/fruity-berry-tarts-with-vanilla-cashew-cream.json)
+ * [Fruity Iced Tea 201249](../../index/f/fruity-iced-tea-201249.json)
+ * [Fruity Lemonade Ice Pops 51262480](../../index/f/fruity-lemonade-ice-pops-51262480.json)
+ * [Fruity Rum Bundt Cake](../../index/f/fruity-rum-bundt-cake.json)

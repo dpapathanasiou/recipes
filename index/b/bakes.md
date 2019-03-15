@@ -8,3 +8,4 @@
  * [No Bakes](../../index/n/no-bakes.json)
  * [Pb Chocolate Trail Mix No Bakes](../../index/p/pb-chocolate-trail-mix-no-bakes.json)
  * [Peanut Butter No Bakes](../../index/p/peanut-butter-no-bakes.json)
+ * [Quinoa And Sweet Potato Bakes](../../index/q/quinoa-and-sweet-potato-bakes.json)

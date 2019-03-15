@@ -106,3 +106,5 @@
  * [Vanilla Popcorn](../../index/v/vanilla-popcorn.json)
  * [White Chocolate Cranberry Popcorn Bar](../../index/w/white-chocolate-cranberry-popcorn-bar.json)
  * [White Chocolate Popcorn](../../index/w/white-chocolate-popcorn.json)
+ * [High Honey Sriracha Popcorn](../../index/h/high-honey-sriracha-popcorn.json)
+ * [Maple Pecan Popcorn 356189](../../index/m/maple-pecan-popcorn-356189.json)

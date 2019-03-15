@@ -85,3 +85,8 @@
  * [Valeries Special Sauce](../../index/v/valeries-special-sauce.json)
  * [Very Special Spaghetti Sauce](../../index/v/very-special-spaghetti-sauce.json)
  * [Very Special Tomato Spice Cake](../../index/v/very-special-tomato-spice-cake.json)
+ * [Babbies Special 200336](../../index/b/babbies-special-200336.json)
+ * [Bacardi Special 200377](../../index/b/bacardi-special-200377.json)
+ * [Blue Plate Special Meat Loaf 729](../../index/b/blue-plate-special-meat-loaf-729.json)
+ * [Cuban Special 200166](../../index/c/cuban-special-200166.json)
+ * [Special Sunday Roast Chicken 351257](../../index/s/special-sunday-roast-chicken-351257.json)

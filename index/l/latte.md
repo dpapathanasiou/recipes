@@ -39,3 +39,6 @@
  * [Vanilla Latte Frosting](../../index/v/vanilla-latte-frosting.json)
  * [Vanilla Latte](../../index/v/vanilla-latte.json)
  * [Vegan Matcha Latte With Coconut Cream](../../index/v/vegan-matcha-latte-with-coconut-cream.json)
+ * [Iced Almond Latte 201159](../../index/i/iced-almond-latte-201159.json)
+ * [Iced Horchata Latte](../../index/i/iced-horchata-latte.json)
+ * [Pork Roast Braised With Milk And Fresh Herbs Em Maiale Al Latte Em 242034](../../index/p/pork-roast-braised-with-milk-and-fresh-herbs-em-maiale-al-latte-em-242034.json)

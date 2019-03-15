@@ -10,3 +10,5 @@
  * [Maine Wild Blueberry Salsa](../../index/m/maine-wild-blueberry-salsa.json)
  * [Shirleys Maine Clam Chowder](../../index/s/shirleys-maine-clam-chowder.json)
  * [Worlds Best Maine Whoopie Pies   Ayu](../../index/w/worlds-best-maine-whoopie-pies---ayu.json)
+ * [Maine Lobster Bake 232598](../../index/m/maine-lobster-bake-232598.json)
+ * [Maine Lobster With Wild Mushrooms And Rosemary Vapor 108559](../../index/m/maine-lobster-with-wild-mushrooms-and-rosemary-vapor-108559.json)

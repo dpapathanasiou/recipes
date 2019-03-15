@@ -18,3 +18,4 @@
  * [Philly Bavarian Apple Torte](../../index/p/philly-bavarian-apple-torte.json)
  * [Pumpkin Bavarian Cream Tart](../../index/p/pumpkin-bavarian-cream-tart.json)
  * [Vanilla Bavarian Cream Pie](../../index/v/vanilla-bavarian-cream-pie.json)
+ * [Strawberry Lemon Bavarian Cake 11505](../../index/s/strawberry-lemon-bavarian-cake-11505.json)

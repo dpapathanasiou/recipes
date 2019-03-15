@@ -19,3 +19,8 @@
  * [Spicy Spanish Sausage Supper](../../index/s/spicy-spanish-sausage-supper.json)
  * [Sylvias Shrimp Supper](../../index/s/sylvias-shrimp-supper.json)
  * [Upside Down Supper](../../index/u/upside-down-supper.json)
+ * [Beef And Potato Supper Pot 108198](../../index/b/beef-and-potato-supper-pot-108198.json)
+ * [Mediterranean Supper Omelet With Fennel Olives And Dill 233713](../../index/m/mediterranean-supper-omelet-with-fennel-olives-and-dill-233713.json)
+ * [Sausage And Pepper Pasta Supper 1413](../../index/s/sausage-and-pepper-pasta-supper-1413.json)
+ * [Sunday Supper Macaroni And Cheese 2660](../../index/s/sunday-supper-macaroni-and-cheese-2660.json)
+ * [Supper Clam Chowder 1535](../../index/s/supper-clam-chowder-1535.json)

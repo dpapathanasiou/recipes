@@ -8,3 +8,4 @@
  * [Raspberry Chocolate Tassies](../../index/r/raspberry-chocolate-tassies.json)
  * [Tea Tassies](../../index/t/tea-tassies.json)
  * [Walnut Tassies](../../index/w/walnut-tassies.json)
+ * [Pine Nut Tassies 108922](../../index/p/pine-nut-tassies-108922.json)

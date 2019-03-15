@@ -12,3 +12,5 @@
  * [Midnight Snack Avocado Sandwich](../../index/m/midnight-snack-avocado-sandwich.json)
  * [Midnight Special](../../index/m/midnight-special.json)
  * [Secret Midnight Moon Better Than Choc](../../index/s/secret-midnight-moon-better-than-choc.json)
+ * [Medianoche Midnight Sandwich](../../index/m/medianoche-midnight-sandwich.json)
+ * [Midnight Sparkler Cocktail](../../index/m/midnight-sparkler-cocktail.json)

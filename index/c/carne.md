@@ -31,3 +31,8 @@
  * [Queso Con Carne](../../index/q/queso-con-carne.json)
  * [South Texas Carne Guisada](../../index/s/south-texas-carne-guisada.json)
  * [Taqueria Style Tacos   Carne Asada](../../index/t/taqueria-style-tacos---carne-asada.json)
+ * [Ancho And Cocoa Carne Asada 351852](../../index/a/ancho-and-cocoa-carne-asada-351852.json)
+ * [Carne Asada Fries](../../index/c/carne-asada-fries.json)
+ * [Chili Con Carne With Chili Cheddar Shortcakes 10299](../../index/c/chili-con-carne-with-chili-cheddar-shortcakes-10299.json)
+ * [Pulled Flank Steak In Red Wine Sauce Ropa Vieja O Carne Ripiada](../../index/p/pulled-flank-steak-in-red-wine-sauce-ropa-vieja-o-carne-ripiada.json)
+ * [Shredded Beef In Guajillo Sauce Em Carne Deshebrada En Salsa Roja Em 242595](../../index/s/shredded-beef-in-guajillo-sauce-em-carne-deshebrada-en-salsa-roja-em-242595.json)

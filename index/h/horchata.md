@@ -12,3 +12,5 @@
  * [Rachels Coconut Horchata](../../index/r/rachels-coconut-horchata.json)
  * [Rum Spiked Horchata](../../index/r/rum-spiked-horchata.json)
  * [Vanessas Horchata](../../index/v/vanessas-horchata.json)
+ * [Almond Horchata 200778](../../index/a/almond-horchata-200778.json)
+ * [Iced Horchata Latte](../../index/i/iced-horchata-latte.json)

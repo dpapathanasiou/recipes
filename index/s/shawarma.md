@@ -9,3 +9,7 @@
  * [Jackfruit Shawarma](../../index/j/jackfruit-shawarma.json)
  * [Lamb Shawarma](../../index/l/lamb-shawarma.json)
  * [Toronto Chicken Shawarma](../../index/t/toronto-chicken-shawarma.json)
+ * [Shawarma Spiced Braised Leg Of Lamb](../../index/s/shawarma-spiced-braised-leg-of-lamb.json)
+ * [Shawarma Spiced Chicken Pita With Tahini Yogurt Sauce](../../index/s/shawarma-spiced-chicken-pita-with-tahini-yogurt-sauce.json)
+ * [Turkey Shawarma With Crunchy Vegetables](../../index/t/turkey-shawarma-with-crunchy-vegetables.json)
+ * [Turkey Shawarma With Tomato Relish And Tahini Sauce 353778](../../index/t/turkey-shawarma-with-tomato-relish-and-tahini-sauce-353778.json)

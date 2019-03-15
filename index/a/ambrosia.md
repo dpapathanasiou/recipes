@@ -22,3 +22,7 @@
  * [Strawberry Ambrosia](../../index/s/strawberry-ambrosia.json)
  * [Tropical Ambrosia Trifle Bowl](../../index/t/tropical-ambrosia-trifle-bowl.json)
  * [Unflaky Ambrosia](../../index/u/unflaky-ambrosia.json)
+ * [Ambrosia 230250](../../index/a/ambrosia-230250.json)
+ * [Cardamom Ambrosia Salad With Blue Cheese Dressing 56389769](../../index/c/cardamom-ambrosia-salad-with-blue-cheese-dressing-56389769.json)
+ * [Florida Ambrosia Salad 51126830](../../index/f/florida-ambrosia-salad-51126830.json)
+ * [Old South Ambrosia 6002](../../index/o/old-south-ambrosia-6002.json)

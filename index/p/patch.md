@@ -8,3 +8,4 @@
  * [Fish In A Vegetable Patch](../../index/f/fish-in-a-vegetable-patch.json)
  * [Ginger Cabbage Patch Smoothie](../../index/g/ginger-cabbage-patch-smoothie.json)
  * [Pumpkin Patch Dirt Cake](../../index/p/pumpkin-patch-dirt-cake.json)
+ * [Vegetable Patch Pasta Salad 608](../../index/v/vegetable-patch-pasta-salad-608.json)

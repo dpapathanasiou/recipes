@@ -54,3 +54,4 @@
  * [Vanilla Milkshake V](../../index/v/vanilla-milkshake-v.json)
  * [Watermelon Milkshake](../../index/w/watermelon-milkshake.json)
  * [Yummy Mango Banana Milkshake](../../index/y/yummy-mango-banana-milkshake.json)
+ * [Strawberry Cheesecake Milkshake 51112440](../../index/s/strawberry-cheesecake-milkshake-51112440.json)

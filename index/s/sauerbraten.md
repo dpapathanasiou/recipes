@@ -17,3 +17,5 @@
  * [Stew Beef Sauerbraten](../../index/s/stew-beef-sauerbraten.json)
  * [Traditional German Sauerbraten](../../index/t/traditional-german-sauerbraten.json)
  * [Traditional Sauerbraten](../../index/t/traditional-sauerbraten.json)
+ * [Sauerbraten 20093](../../index/s/sauerbraten-20093.json)
+ * [Skillet Sauerbraten 2569](../../index/s/skillet-sauerbraten-2569.json)

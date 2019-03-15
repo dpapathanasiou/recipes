@@ -18,3 +18,5 @@
  * [Pineapple Orange Fruit Mold](../../index/p/pineapple-orange-fruit-mold.json)
  * [Shrimp Mold](../../index/s/shrimp-mold.json)
  * [Thanksgiving Cranberry Mold](../../index/t/thanksgiving-cranberry-mold.json)
+ * [Orange Fluff Mold 6003](../../index/o/orange-fluff-mold-6003.json)
+ * [Seafood Mold 108136](../../index/s/seafood-mold-108136.json)

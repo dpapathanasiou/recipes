@@ -122,3 +122,8 @@
  * [Two Minute Party Punch](../../index/t/two-minute-party-punch.json)
  * [Whiskey Crab Soup For A Big Party](../../index/w/whiskey-crab-soup-for-a-big-party.json)
  * [White Chocolate Party Mix](../../index/w/white-chocolate-party-mix.json)
+ * [Birthday Party Paella 101008](../../index/b/birthday-party-paella-101008.json)
+ * [Make Ahead Party Shrimp And Veggie Penne 106808](../../index/m/make-ahead-party-shrimp-and-veggie-penne-106808.json)
+ * [Party Squash Salad 106725](../../index/p/party-squash-salad-106725.json)
+ * [Party Time Crab Salad 106273](../../index/p/party-time-crab-salad-106273.json)
+ * [Sweet Potato Pumpkin Seed And Chickpea Party Mix 104629](../../index/s/sweet-potato-pumpkin-seed-and-chickpea-party-mix-104629.json)

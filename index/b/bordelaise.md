@@ -7,3 +7,5 @@
  * [Bordelaise Sauce With Mushrooms](../../index/b/bordelaise-sauce-with-mushrooms.json)
  * [How To Make Bordelaise Sauce](../../index/h/how-to-make-bordelaise-sauce.json)
  * [Jeffs Bordelaise Sauce](../../index/j/jeffs-bordelaise-sauce.json)
+ * [Pears Bordelaise 101479](../../index/p/pears-bordelaise-101479.json)
+ * [White Bordelaise Sauce 105630](../../index/w/white-bordelaise-sauce-105630.json)

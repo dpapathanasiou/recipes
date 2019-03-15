@@ -14,3 +14,5 @@
  * [Quick Spinach Ricotta Calzones](../../index/q/quick-spinach-ricotta-calzones.json)
  * [Real Italian Calzones](../../index/r/real-italian-calzones.json)
  * [Unbelievable Spinach Calzones](../../index/u/unbelievable-spinach-calzones.json)
+ * [Calzones With Cheese Sausage And Roasted Red Pepper 100967](../../index/c/calzones-with-cheese-sausage-and-roasted-red-pepper-100967.json)
+ * [Calzones With Chorizo And Kale](../../index/c/calzones-with-chorizo-and-kale.json)

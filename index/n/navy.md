@@ -13,3 +13,4 @@
  * [Roasted Turkey Navy Style](../../index/r/roasted-turkey-navy-style.json)
  * [Sauteed Navy Beans And Artichokes](../../index/s/sauteed-navy-beans-and-artichokes.json)
  * [Us Navy Minced Beef On Toast](../../index/u/us-navy-minced-beef-on-toast.json)
+ * [Navy Bean Escarole Stew With Feta And Olives](../../index/n/navy-bean-escarole-stew-with-feta-and-olives.json)

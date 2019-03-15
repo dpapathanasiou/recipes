@@ -32,3 +32,6 @@
  * [Spicy Blue Cheese Hamburgers](../../index/s/spicy-blue-cheese-hamburgers.json)
  * [The Juiciest Hamburgers Ever](../../index/t/the-juiciest-hamburgers-ever.json)
  * [Whiskey Hamburgers](../../index/w/whiskey-hamburgers.json)
+ * [Cheese Hamburgers 101726](../../index/c/cheese-hamburgers-101726.json)
+ * [Herbed Hamburgers With Arugula 12471](../../index/h/herbed-hamburgers-with-arugula-12471.json)
+ * [Savory Hamburgers 101727](../../index/s/savory-hamburgers-101727.json)

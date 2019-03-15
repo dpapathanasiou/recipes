@@ -26,3 +26,7 @@
  * [West Texas Style Buffalo Chili](../../index/w/west-texas-style-buffalo-chili.json)
  * [West Virginia Pepperoni Roll Dip](../../index/w/west-virginia-pepperoni-roll-dip.json)
  * [Wild West Coast Seafood Shrimp Cockta](../../index/w/wild-west-coast-seafood-shrimp-cockta.json)
+ * [East West Barbecued Chicken 2187](../../index/e/east-west-barbecued-chicken-2187.json)
+ * [The West Coast 200813](../../index/t/the-west-coast-200813.json)
+ * [West Indian Rice And Beans 3184](../../index/w/west-indian-rice-and-beans-3184.json)
+ * [West Texas Stacked Enchiladas 367410](../../index/w/west-texas-stacked-enchiladas-367410.json)

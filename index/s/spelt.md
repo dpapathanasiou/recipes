@@ -23,3 +23,7 @@
  * [Spicy Chicken And Spelt Salad](../../index/s/spicy-chicken-and-spelt-salad.json)
  * [Very Simple Spelt Bread](../../index/v/very-simple-spelt-bread.json)
  * [Whole Grain Spelt And Flax Seed Panca](../../index/w/whole-grain-spelt-and-flax-seed-panca.json)
+ * [Chicken And Spelt Soup With Greens 56390070](../../index/c/chicken-and-spelt-soup-with-greens-56390070.json)
+ * [Chocolate Espresso Spelt Cake 232816](../../index/c/chocolate-espresso-spelt-cake-232816.json)
+ * [Smoky Pumpkin Spelt Pomegranate And Feta Salad](../../index/s/smoky-pumpkin-spelt-pomegranate-and-feta-salad.json)
+ * [Spelt Spaghetti Vine Tomatoes And Baked Ricotta](../../index/s/spelt-spaghetti-vine-tomatoes-and-baked-ricotta.json)

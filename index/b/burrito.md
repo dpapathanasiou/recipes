@@ -32,3 +32,7 @@
  * [Vegetarian Jamaican Jerk Burrito](../../index/v/vegetarian-jamaican-jerk-burrito.json)
  * [Very Berry Delicious Burrito](../../index/v/very-berry-delicious-burrito.json)
  * [Wet Burrito](../../index/w/wet-burrito.json)
+ * [Bean Burrito Casserole 13572](../../index/b/bean-burrito-casserole-13572.json)
+ * [Big Breakfast Burrito 51182600](../../index/b/big-breakfast-burrito-51182600.json)
+ * [Cheesy Chicken Burrito With Chips And Salsa 240527](../../index/c/cheesy-chicken-burrito-with-chips-and-salsa-240527.json)
+ * [Quick Sweet Potato Mushroom And Black Bean Burrito](../../index/q/quick-sweet-potato-mushroom-and-black-bean-burrito.json)

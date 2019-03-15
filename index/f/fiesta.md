@@ -49,3 +49,8 @@
  * [Nayzas Mushroom Fiesta Cups](../../index/n/nayzas-mushroom-fiesta-cups.json)
  * [Nola Cajun Fiesta Dip](../../index/n/nola-cajun-fiesta-dip.json)
  * [Southwest Fiesta Dressing](../../index/s/southwest-fiesta-dressing.json)
+ * [Fiesta Chopped Salad 106722](../../index/f/fiesta-chopped-salad-106722.json)
+ * [Fiesta Golden Rice 240806](../../index/f/fiesta-golden-rice-240806.json)
+ * [Fiesta Tortilla Salad 5720](../../index/f/fiesta-tortilla-salad-5720.json)
+ * [Fiesta Zucchini 2498](../../index/f/fiesta-zucchini-2498.json)
+ * [Mexican Fiesta Casserole 51186420](../../index/m/mexican-fiesta-casserole-51186420.json)

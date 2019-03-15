@@ -25,3 +25,7 @@
  * [Simple Carnitas](../../index/s/simple-carnitas.json)
  * [Slow Cooker Carnitas From Old El Paso](../../index/s/slow-cooker-carnitas-from-old-el-paso.json)
  * [Slow Cooker Carnitas](../../index/s/slow-cooker-carnitas.json)
+ * [Avocado And Smoked Pork Carnitas 2000](../../index/a/avocado-and-smoked-pork-carnitas-2000.json)
+ * [Beer Braised Carnitas 51143080](../../index/b/beer-braised-carnitas-51143080.json)
+ * [Instant Pot Carnitas](../../index/i/instant-pot-carnitas.json)
+ * [Tacos Of Carnitas Roasted With Orange Milk And Pepper 358749](../../index/t/tacos-of-carnitas-roasted-with-orange-milk-and-pepper-358749.json)

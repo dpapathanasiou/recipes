@@ -13,3 +13,4 @@
  * [Nancys Fruit Salad](../../index/n/nancys-fruit-salad.json)
  * [Nancys Pumpkin Butter](../../index/n/nancys-pumpkin-butter.json)
  * [Nancys Spaghetti Salad](../../index/n/nancys-spaghetti-salad.json)
+ * [Nancys Falafel Pistachios](../../index/n/nancys-falafel-pistachios.json)

@@ -13,3 +13,6 @@
  * [Simple Hush Puppies](../../index/s/simple-hush-puppies.json)
  * [Squash Puppies](../../index/s/squash-puppies.json)
  * [Vickis Hush Puppies](../../index/v/vickis-hush-puppies.json)
+ * [Arctic Char With Cucumber Feta Relish And Jalapeno Goat Cheese Hush Puppies 360750](../../index/a/arctic-char-with-cucumber-feta-relish-and-jalapeno-goat-cheese-hush-puppies-360750.json)
+ * [Crab Hush Puppies With Tartar Sauce 356057](../../index/c/crab-hush-puppies-with-tartar-sauce-356057.json)
+ * [Jalapeno Goat Cheese Hush Puppies 360769](../../index/j/jalapeno-goat-cheese-hush-puppies-360769.json)

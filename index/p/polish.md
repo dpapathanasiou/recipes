@@ -52,3 +52,4 @@
  * [Sweet Polish Cherry Cake](../../index/s/sweet-polish-cherry-cake.json)
  * [Sweet Polish Sausage](../../index/s/sweet-polish-sausage.json)
  * [Turkey Polish Sausage And Peppers](../../index/t/turkey-polish-sausage-and-peppers.json)
+ * [Polish Style Pizza With Mushrooms And Chives Zapiekanka](../../index/p/polish-style-pizza-with-mushrooms-and-chives-zapiekanka.json)

@@ -11,3 +11,6 @@
  * [Tropical Refresher](../../index/t/tropical-refresher.json)
  * [Watermelon Refresher](../../index/w/watermelon-refresher.json)
  * [Winter Refresher Green Smoothie](../../index/w/winter-refresher-green-smoothie.json)
+ * [Orange Pineapple Refresher 200818](../../index/o/orange-pineapple-refresher-200818.json)
+ * [Raita Refresher 106686](../../index/r/raita-refresher-106686.json)
+ * [Rum Refresher 200771](../../index/r/rum-refresher-200771.json)

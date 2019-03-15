@@ -18,3 +18,8 @@
  * [Vanilla Wafers I](../../index/v/vanilla-wafers-i.json)
  * [Vanilla Wafers Ii](../../index/v/vanilla-wafers-ii.json)
  * [Vanilla Wafers Iii](../../index/v/vanilla-wafers-iii.json)
+ * [Chicken And Corn Stew With Corn Wafers 12315](../../index/c/chicken-and-corn-stew-with-corn-wafers-12315.json)
+ * [Ginger Almond Wafers 1774](../../index/g/ginger-almond-wafers-1774.json)
+ * [Jos Cheese Wafers 15808](../../index/j/jos-cheese-wafers-15808.json)
+ * [Roasted Quinoa And Tomato Soup With Parmesan Wafers And Crispy Basil](../../index/r/roasted-quinoa-and-tomato-soup-with-parmesan-wafers-and-crispy-basil.json)
+ * [Wildflower Honey Semifreddo With Honey Sesame Wafers 232643](../../index/w/wildflower-honey-semifreddo-with-honey-sesame-wafers-232643.json)

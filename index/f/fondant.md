@@ -14,3 +14,4 @@
  * [Rolled Buttercream Fondant](../../index/r/rolled-buttercream-fondant.json)
  * [Rolled Fondant](../../index/r/rolled-fondant.json)
  * [Rolling Fondant](../../index/r/rolling-fondant.json)
+ * [Molten Peanut Butter And Chocolate Fondant Cakes 56390085](../../index/m/molten-peanut-butter-and-chocolate-fondant-cakes-56390085.json)

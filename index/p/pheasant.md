@@ -20,3 +20,7 @@
  * [Roast Pheasant](../../index/r/roast-pheasant.json)
  * [Slow Cooker Pheasant With Mushrooms A](../../index/s/slow-cooker-pheasant-with-mushrooms-a.json)
  * [Smothered Pheasant](../../index/s/smothered-pheasant.json)
+ * [Braised Pheasant With Red Cabbage Wild Rice 10085](../../index/b/braised-pheasant-with-red-cabbage-wild-rice-10085.json)
+ * [Cider Braised Pheasant With Pearl Onions And Apples 236322](../../index/c/cider-braised-pheasant-with-pearl-onions-and-apples-236322.json)
+ * [Pheasant Stock 13432](../../index/p/pheasant-stock-13432.json)
+ * [Roasted Pheasant 106695](../../index/r/roasted-pheasant-106695.json)

@@ -14,3 +14,4 @@
  * [Rice Cooker Crawfish Tails](../../index/r/rice-cooker-crawfish-tails.json)
  * [Southern Style Pig Tails](../../index/s/southern-style-pig-tails.json)
  * [Steamed Lobster Tails](../../index/s/steamed-lobster-tails.json)
+ * [Poached Lobster Tails And Fried Oyster With Mango And Avocado Puree 51191010](../../index/p/poached-lobster-tails-and-fried-oyster-with-mango-and-avocado-puree-51191010.json)

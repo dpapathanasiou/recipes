@@ -20,3 +20,5 @@
  * [Finnish Turnips](../../index/f/finnish-turnips.json)
  * [Kropsua Finnish Pancake](../../index/k/kropsua-finnish-pancake.json)
  * [Marja Leenas Finnish Cheesecake](../../index/m/marja-leenas-finnish-cheesecake.json)
+ * [Finnish Barley Pudding 20117](../../index/f/finnish-barley-pudding-20117.json)
+ * [Finnish Sweet Cardamom Raisin Bread 239293](../../index/f/finnish-sweet-cardamom-raisin-bread-239293.json)

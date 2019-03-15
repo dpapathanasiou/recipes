@@ -12,3 +12,5 @@
  * [South Of The Border Slaw From Dole](../../index/s/south-of-the-border-slaw-from-dole.json)
  * [South Of The Border Stuffed Peppers](../../index/s/south-of-the-border-stuffed-peppers.json)
  * [Spicy South Of The Border Spinach Che](../../index/s/spicy-south-of-the-border-spinach-che.json)
+ * [South Of The Border Coleslaw With Cilantro And Jalapeno 106833](../../index/s/south-of-the-border-coleslaw-with-cilantro-and-jalapeno-106833.json)
+ * [South Of The Border Sundaes 553](../../index/s/south-of-the-border-sundaes-553.json)

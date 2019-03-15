@@ -20,3 +20,4 @@
  * [Ukrainian Snow Cap Cookies](../../index/u/ukrainian-snow-cap-cookies.json)
  * [Ukrainian Sour Cream Poppy Seed Cake](../../index/u/ukrainian-sour-cream-poppy-seed-cake.json)
  * [Ukrainian Sweet And Sour Cabbage Soup](../../index/u/ukrainian-sweet-and-sour-cabbage-soup.json)
+ * [Meaty Ukrainian Borscht 6008](../../index/m/meaty-ukrainian-borscht-6008.json)

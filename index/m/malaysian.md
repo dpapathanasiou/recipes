@@ -15,3 +15,5 @@
  * [Malaysian Tangy Noodle Salad](../../index/m/malaysian-tangy-noodle-salad.json)
  * [Malaysian Watermelon Salad](../../index/m/malaysian-watermelon-salad.json)
  * [Simple Malaysian Fried Chicken](../../index/s/simple-malaysian-fried-chicken.json)
+ * [Malaysian Roast Chicken 14085](../../index/m/malaysian-roast-chicken-14085.json)
+ * [Malaysian Style Chicken Curry 10509](../../index/m/malaysian-style-chicken-curry-10509.json)

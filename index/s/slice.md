@@ -17,3 +17,6 @@
  * [Valentines Slice And Bake Cinnamon H](../../index/v/valentines-slice-and-bake-cinnamon-h.json)
  * [Vanilla Slice](../../index/v/vanilla-slice.json)
  * [Zucchini Slice](../../index/z/zucchini-slice.json)
+ * [Berry And Ricotta Slice 56389417](../../index/b/berry-and-ricotta-slice-56389417.json)
+ * [Cherry Pistachio Slice And Bake Cookies 51208020](../../index/c/cherry-pistachio-slice-and-bake-cookies-51208020.json)
+ * [Slice And Bake Oatmeal Raisin Cookies 51155400](../../index/s/slice-and-bake-oatmeal-raisin-cookies-51155400.json)

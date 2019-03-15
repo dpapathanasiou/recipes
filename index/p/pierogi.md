@@ -20,3 +20,5 @@
  * [Sauerkraut Filling For Pierogi](../../index/s/sauerkraut-filling-for-pierogi.json)
  * [Sauerkraut Pierogi Filling](../../index/s/sauerkraut-pierogi-filling.json)
  * [Sour Cream Dough For Pierogi](../../index/s/sour-cream-dough-for-pierogi.json)
+ * [Pierogi Potato And Mushroom Sauerkraut 354032](../../index/p/pierogi-potato-and-mushroom-sauerkraut-354032.json)
+ * [Potato Pierogi With Cabbage And Bacon 102939](../../index/p/potato-pierogi-with-cabbage-and-bacon-102939.json)

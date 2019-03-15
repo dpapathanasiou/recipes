@@ -21,3 +21,6 @@
  * [Stuffed Scalloped Patty Pan Squash](../../index/s/stuffed-scalloped-patty-pan-squash.json)
  * [Tex Mex Patty Melts](../../index/t/tex-mex-patty-melts.json)
  * [Zucchini Patty Pancakes](../../index/z/zucchini-patty-pancakes.json)
+ * [Diner Style Patty Melt](../../index/d/diner-style-patty-melt.json)
+ * [Peach Patty Cakes With Cream 2379](../../index/p/peach-patty-cakes-with-cream-2379.json)
+ * [The Ba Patty Melt 51252650](../../index/t/the-ba-patty-melt-51252650.json)

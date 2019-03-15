@@ -46,3 +46,5 @@
  * [Syrup Sponge Pudding](../../index/s/syrup-sponge-pudding.json)
  * [Two Layer Victoria Sponge Cake](../../index/t/two-layer-victoria-sponge-cake.json)
  * [Victoria Sponge Cake](../../index/v/victoria-sponge-cake.json)
+ * [Citrus Sponge Cake With Strawberries 104864](../../index/c/citrus-sponge-cake-with-strawberries-104864.json)
+ * [Rhubarb Sponge Pudding 238265](../../index/r/rhubarb-sponge-pudding-238265.json)

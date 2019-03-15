@@ -22,3 +22,7 @@
  * [Spicy Ahi Poke Salad](../../index/s/spicy-ahi-poke-salad.json)
  * [Super Easy Seared Ahi Tuna](../../index/s/super-easy-seared-ahi-tuna.json)
  * [Wasabi Ahi Tuna Tartare](../../index/w/wasabi-ahi-tuna-tartare.json)
+ * [Ahi Tuna Carpaccio With Basil Pesto Fettuccine And Heirloom Tomatoes 235524](../../index/a/ahi-tuna-carpaccio-with-basil-pesto-fettuccine-and-heirloom-tomatoes-235524.json)
+ * [Fennel Crusted Ahi Tuna With Lemon Aioli Over Couscous 232551](../../index/f/fennel-crusted-ahi-tuna-with-lemon-aioli-over-couscous-232551.json)
+ * [Seared Ahi Tuna Salad 4266](../../index/s/seared-ahi-tuna-salad-4266.json)
+ * [Seared Ahi With Brown Rice And Pineapple Ginger Broth 107635](../../index/s/seared-ahi-with-brown-rice-and-pineapple-ginger-broth-107635.json)

@@ -17,3 +17,5 @@
  * [Easy Cannoli Dip](../../index/e/easy-cannoli-dip.json)
  * [Mashed Potato Stuffed Cannoli](../../index/m/mashed-potato-stuffed-cannoli.json)
  * [Pumpkin Cannoli](../../index/p/pumpkin-cannoli.json)
+ * [Dried Cherry And Ginger Cannoli 231310](../../index/d/dried-cherry-and-ginger-cannoli-231310.json)
+ * [Key Lime Mascarpone Cannoli With Mango Sauce 11512](../../index/k/key-lime-mascarpone-cannoli-with-mango-sauce-11512.json)

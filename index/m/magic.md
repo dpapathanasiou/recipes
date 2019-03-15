@@ -32,3 +32,5 @@
  * [Seven Layer Magic Cookie Bars](../../index/s/seven-layer-magic-cookie-bars.json)
  * [Shelbys Magic Potion](../../index/s/shelbys-magic-potion.json)
  * [Slow Cooker Magic Chicken](../../index/s/slow-cooker-magic-chicken.json)
+ * [Kale Tomato And Lemon Magic One Pot Spaghetti](../../index/k/kale-tomato-and-lemon-magic-one-pot-spaghetti.json)
+ * [Smoky Grilled Pork Steaks With Magic Dust 235347](../../index/s/smoky-grilled-pork-steaks-with-magic-dust-235347.json)

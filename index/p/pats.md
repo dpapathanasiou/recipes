@@ -16,3 +16,4 @@
  * [Pats Mushroom Saute](../../index/p/pats-mushroom-saute.json)
  * [Pats Rose Apple Pie](../../index/p/pats-rose-apple-pie.json)
  * [Pats Simple Penne](../../index/p/pats-simple-penne.json)
+ * [Pats Chicken With Peaches And Jalapenos 13002](../../index/p/pats-chicken-with-peaches-and-jalapenos-13002.json)

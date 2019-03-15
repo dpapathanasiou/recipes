@@ -10,3 +10,4 @@
  * [Vermicelli Pudding](../../index/v/vermicelli-pudding.json)
  * [Vermicelli Salad](../../index/v/vermicelli-salad.json)
  * [Vermicelli Soup](../../index/v/vermicelli-soup.json)
+ * [Fish Vermicelli With Fresh Dill And Pineapple Sauce 239756](../../index/f/fish-vermicelli-with-fresh-dill-and-pineapple-sauce-239756.json)

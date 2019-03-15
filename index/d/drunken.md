@@ -31,3 +31,7 @@
  * [Mikes Drunken Mussels](../../index/m/mikes-drunken-mussels.json)
  * [Spicy Drunken Shrimp](../../index/s/spicy-drunken-shrimp.json)
  * [Wendys Drunken Snow Cone](../../index/w/wendys-drunken-snow-cone.json)
+ * [Drunken Pork Chops 427](../../index/-/-drunken-pork-chops-427.json)
+ * [Drunken Beans 12674](../../index/d/drunken-beans-12674.json)
+ * [Drunken Noodles 232698](../../index/d/drunken-noodles-232698.json)
+ * [Drunken Raspberries 235170](../../index/d/drunken-raspberries-235170.json)

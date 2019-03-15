@@ -22,3 +22,7 @@
  * [Scandinavian Style Rice Porridge](../../index/s/scandinavian-style-rice-porridge.json)
  * [Spiced Quinoa Porridge](../../index/s/spiced-quinoa-porridge.json)
  * [Whole Grain Barley And Apple Porridge](../../index/w/whole-grain-barley-and-apple-porridge.json)
+ * [5 Grain Porridge With Bee Pollen Apples And Coconut 51260260](../../index/5/5-grain-porridge-with-bee-pollen-apples-and-coconut-51260260.json)
+ * [Almond Barley Porridge With Fruit 51259500](../../index/a/almond-barley-porridge-with-fruit-51259500.json)
+ * [Chia Seed Porridge With Orange Yogurt 51180210](../../index/c/chia-seed-porridge-with-orange-yogurt-51180210.json)
+ * [Trail Mix Porridge 51221010](../../index/t/trail-mix-porridge-51221010.json)

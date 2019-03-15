@@ -24,3 +24,4 @@
  * [Cheesy Campfire Potatoes](../../index/c/cheesy-campfire-potatoes.json)
  * [Papa Funks Campfire Chili](../../index/p/papa-funks-campfire-chili.json)
  * [Toasty Campfire Cookies](../../index/t/toasty-campfire-cookies.json)
+ * [The Boy Scouts Campfire Quesadilla 56389770](../../index/t/the-boy-scouts-campfire-quesadilla-56389770.json)

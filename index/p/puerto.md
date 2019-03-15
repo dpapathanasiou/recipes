@@ -28,3 +28,8 @@
  * [Puerto Rican Tostones Fried Plantain](../../index/p/puerto-rican-tostones-fried-plantain.json)
  * [Slow Cooker Puerto Rican Shredded Por](../../index/s/slow-cooker-puerto-rican-shredded-por.json)
  * [Tembleque Puerto Rican Coconut Puddin](../../index/t/tembleque-puerto-rican-coconut-puddin.json)
+ * [Puerto Nuevo Style Lobster Tacos 107852](../../index/p/puerto-nuevo-style-lobster-tacos-107852.json)
+ * [Puerto Rican Beef Stew 1305](../../index/p/puerto-rican-beef-stew-1305.json)
+ * [Puerto Rican Coconut Eggnog Em Coquito Em 51203620](../../index/p/puerto-rican-coconut-eggnog-em-coquito-em-51203620.json)
+ * [Puerto Rican Crab 234781](../../index/p/puerto-rican-crab-234781.json)
+ * [Puerto Rican Pineapple Rum Cake 51126900](../../index/p/puerto-rican-pineapple-rum-cake-51126900.json)

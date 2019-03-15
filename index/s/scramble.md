@@ -21,3 +21,6 @@
  * [Sweet Herb Scramble](../../index/s/sweet-herb-scramble.json)
  * [Swiss Cheese Scramble](../../index/s/swiss-cheese-scramble.json)
  * [Tortilla Chorizo Scramble](../../index/t/tortilla-chorizo-scramble.json)
+ * [Smoked Salmon And Leek Scramble With Meyer Lemon Creme Fraiche 233392](../../index/s/smoked-salmon-and-leek-scramble-with-meyer-lemon-creme-fraiche-233392.json)
+ * [Southwestern Breakfast Scramble 104327](../../index/s/southwestern-breakfast-scramble-104327.json)
+ * [Tofu Scramble With Yukon Gold And Sweet Potato Home Fries 369009](../../index/t/tofu-scramble-with-yukon-gold-and-sweet-potato-home-fries-369009.json)

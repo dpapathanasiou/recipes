@@ -19,3 +19,5 @@
  * [Softest Soft Bread With Air Pockets U](../../index/s/softest-soft-bread-with-air-pockets-u.json)
  * [Sour Cream Pockets](../../index/s/sour-cream-pockets.json)
  * [Tuna Pockets](../../index/t/tuna-pockets.json)
+ * [Crisp Fried Clams With Spinach Tartar Sauce In Pita Pockets 10475](../../index/c/crisp-fried-clams-with-spinach-tartar-sauce-in-pita-pockets-10475.json)
+ * [Stuffed Masa Pockets With Green Chiles And Cheese 108027](../../index/s/stuffed-masa-pockets-with-green-chiles-and-cheese-108027.json)

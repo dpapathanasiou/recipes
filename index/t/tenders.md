@@ -19,3 +19,6 @@
  * [Potato Crunchy Tenders](../../index/p/potato-crunchy-tenders.json)
  * [Sweet And Sour Chicken Tenders](../../index/s/sweet-and-sour-chicken-tenders.json)
  * [Thai Chicken Tenders](../../index/t/thai-chicken-tenders.json)
+ * [Cheddar Chicken Tenders With Wilted Spinach 236019](../../index/c/cheddar-chicken-tenders-with-wilted-spinach-236019.json)
+ * [Spicy Catfish Tenders With Cajun Tartar Sauce 107732](../../index/s/spicy-catfish-tenders-with-cajun-tartar-sauce-107732.json)
+ * [Turkey Tenders With Tomato Orange Caper Compote 204](../../index/t/turkey-tenders-with-tomato-orange-caper-compote-204.json)

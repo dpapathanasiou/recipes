@@ -9,3 +9,4 @@
  * [Rockin Robins Classic Potato Salad](../../index/r/rockin-robins-classic-potato-salad.json)
  * [Rockin Salsa](../../index/r/rockin-salsa.json)
  * [Rockin Tacos](../../index/r/rockin-tacos.json)
+ * [Rockin Moroccan Stew 395830](../../index/r/rockin-moroccan-stew-395830.json)

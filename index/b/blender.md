@@ -22,3 +22,6 @@
  * [Homemade Blender Butter](../../index/h/homemade-blender-butter.json)
  * [Icy Blender Lemonade](../../index/i/icy-blender-lemonade.json)
  * [Mels Blender Pie](../../index/m/mels-blender-pie.json)
+ * [Blender Chermoula Sauce](../../index/b/blender-chermoula-sauce.json)
+ * [Blender Mayonnaise 51183000](../../index/b/blender-mayonnaise-51183000.json)
+ * [Garlicky Blender Aioli](../../index/g/garlicky-blender-aioli.json)

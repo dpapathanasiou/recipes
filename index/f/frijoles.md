@@ -12,3 +12,6 @@
  * [Frijoles Iii](../../index/f/frijoles-iii.json)
  * [Frijoles Refritos Refried Beans](../../index/f/frijoles-refritos-refried-beans.json)
  * [Mini Molletes De Frijoles Mexican Br](../../index/m/mini-molletes-de-frijoles-mexican-br.json)
+ * [Frijoles De La Olla 51123600](../../index/f/frijoles-de-la-olla-51123600.json)
+ * [Frijoles De La Olla Clay Pot Beans 51110280](../../index/f/frijoles-de-la-olla-clay-pot-beans-51110280.json)
+ * [Frijoles Refritos Refried Beans 51110240](../../index/f/frijoles-refritos-refried-beans-51110240.json)

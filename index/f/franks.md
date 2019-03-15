@@ -13,3 +13,4 @@
  * [Honey Mustard Easy Franks](../../index/h/honey-mustard-easy-franks.json)
  * [Party Franks](../../index/p/party-franks.json)
  * [Rudechacks Franks And Noodles](../../index/r/rudechacks-franks-and-noodles.json)
+ * [Franks And Beans 51147430](../../index/f/franks-and-beans-51147430.json)

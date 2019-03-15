@@ -8,3 +8,8 @@
  * [Onion Skin Colored Eggs](../../index/o/onion-skin-colored-eggs.json)
  * [Ranch Red Skin Potato Salad](../../index/r/ranch-red-skin-potato-salad.json)
  * [Skin On Savory Mashed Potatoes](../../index/s/skin-on-savory-mashed-potatoes.json)
+ * [Chicken Skin With Peanuts Chiles And Lime 56390109](../../index/c/chicken-skin-with-peanuts-chiles-and-lime-56390109.json)
+ * [Crispy Skin Fish Fillets With Wilted Escarole 241115](../../index/c/crispy-skin-fish-fillets-with-wilted-escarole-241115.json)
+ * [Frisee With Crisped Salmon Skin And Warm Sherry Vinaigrette 358320](../../index/f/frisee-with-crisped-salmon-skin-and-warm-sherry-vinaigrette-358320.json)
+ * [Shredded Kale Salad With Turkey Skin Cracklings 369376](../../index/s/shredded-kale-salad-with-turkey-skin-cracklings-369376.json)
+ * [Spit Roasted Chicken With Herbs Under The Skin Garden Vegetables Toasted Country Bread And Roasti 105878](../../index/s/spit-roasted-chicken-with-herbs-under-the-skin-garden-vegetables-toasted-country-bread-and-roasti-105878.json)

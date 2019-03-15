@@ -11,3 +11,6 @@
  * [Moms Homemade Sofrito](../../index/m/moms-homemade-sofrito.json)
  * [Sofrito Greek Lamb Recipe](../../index/s/sofrito-greek-lamb-recipe.json)
  * [Sofrito](../../index/s/sofrito.json)
+ * [Sofrito 368030](../../index/s/sofrito-368030.json)
+ * [Sofrito Grilled Bread 12200](../../index/s/sofrito-grilled-bread-12200.json)
+ * [Steamed Mussels With Sofrito 15251](../../index/s/steamed-mussels-with-sofrito-15251.json)

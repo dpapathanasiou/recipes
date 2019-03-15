@@ -16,3 +16,7 @@
  * [Panettone Loaves](../../index/p/panettone-loaves.json)
  * [Roasted Pecan Banana Bread Loaves](../../index/r/roasted-pecan-banana-bread-loaves.json)
  * [White Yeast Loaves](../../index/w/white-yeast-loaves.json)
+ * [Adobo Glazed Mini Turkey Loaves 355369](../../index/a/adobo-glazed-mini-turkey-loaves-355369.json)
+ * [Cornmeal Harvest Loaves 10181](../../index/c/cornmeal-harvest-loaves-10181.json)
+ * [Spiced Pumpkin Loaves With Whipped Cream 4436](../../index/s/spiced-pumpkin-loaves-with-whipped-cream-4436.json)
+ * [Walnut Mini Loaves 10333](../../index/w/walnut-mini-loaves-10333.json)

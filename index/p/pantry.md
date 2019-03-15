@@ -9,3 +9,4 @@
  * [Raid The Pantry Sloppy Joe Casserole](../../index/r/raid-the-pantry-sloppy-joe-casserole.json)
  * [Slow Cooker Pantry Chicken Stew](../../index/s/slow-cooker-pantry-chicken-stew.json)
  * [Zesty Pantry Potato Stew](../../index/z/zesty-pantry-potato-stew.json)
+ * [Pantry Pasta](../../index/p/pantry-pasta.json)

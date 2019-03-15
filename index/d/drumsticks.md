@@ -12,3 +12,7 @@
  * [Slow Cooked Chicken Drumsticks](../../index/s/slow-cooked-chicken-drumsticks.json)
  * [Turkey Drumsticks Paprika](../../index/t/turkey-drumsticks-paprika.json)
  * [Turkey Drumsticks Perfecto](../../index/t/turkey-drumsticks-perfecto.json)
+ * [Bourbon Molasses Chicken Drumsticks 109673](../../index/b/bourbon-molasses-chicken-drumsticks-109673.json)
+ * [Deviled Drumsticks 104824](../../index/d/deviled-drumsticks-104824.json)
+ * [Grilled Lemon Oregano Chicken Drumsticks 354311](../../index/g/grilled-lemon-oregano-chicken-drumsticks-354311.json)
+ * [Spicy Fried Chicken Wing Drumsticks 11548](../../index/s/spicy-fried-chicken-wing-drumsticks-11548.json)

@@ -39,3 +39,4 @@
  * [Ore Ida Slow Cooker Loaded Potato Sou](../../index/o/ore-ida-slow-cooker-loaded-potato-sou.json)
  * [Super Loaded Chili Potato Skins](../../index/s/super-loaded-chili-potato-skins.json)
  * [Vegetable Loaded Potato Stew](../../index/v/vegetable-loaded-potato-stew.json)
+ * [Slow Cooker Veggie Loaded Marinara](../../index/s/slow-cooker-veggie-loaded-marinara.json)

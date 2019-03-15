@@ -14,3 +14,4 @@
  * [Crab Rangoon](../../index/c/crab-rangoon.json)
  * [No Fry Crab Rangoon](../../index/n/no-fry-crab-rangoon.json)
  * [Quick And Easy Crab Rangoon Dip](../../index/q/quick-and-easy-crab-rangoon-dip.json)
+ * [Cranberry Crab Rangoon 236606](../../index/c/cranberry-crab-rangoon-236606.json)

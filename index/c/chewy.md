@@ -73,3 +73,7 @@
  * [Soft And Chewy Peanut Butter Cookies](../../index/s/soft-and-chewy-peanut-butter-cookies.json)
  * [Thick And Chewy Chocolate Chip Cookie](../../index/t/thick-and-chewy-chocolate-chip-cookie.json)
  * [Worlds Greatest Chewy Chocolate Chip](../../index/w/worlds-greatest-chewy-chocolate-chip.json)
+ * [Chewy Almond Raspberry Sandwich Cookies 362571](../../index/c/chewy-almond-raspberry-sandwich-cookies-362571.json)
+ * [Chewy Caramel Pecan Bars 102953](../../index/c/chewy-caramel-pecan-bars-102953.json)
+ * [Chewy Coconut Chocolate Chip Cookies](../../index/c/chewy-coconut-chocolate-chip-cookies.json)
+ * [Chewy Nut And Cereal Bars 358119](../../index/c/chewy-nut-and-cereal-bars-358119.json)

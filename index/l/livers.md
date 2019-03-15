@@ -15,3 +15,4 @@
  * [Ritzy Chicken Livers](../../index/r/ritzy-chicken-livers.json)
  * [Savory Chicken Livers With Sweet Pepp](../../index/s/savory-chicken-livers-with-sweet-pepp.json)
  * [Southern Fried Chicken Livers](../../index/s/southern-fried-chicken-livers.json)
+ * [Potato Gnocchi With Chicken Livers And Pancetta 108573](../../index/p/potato-gnocchi-with-chicken-livers-and-pancetta-108573.json)

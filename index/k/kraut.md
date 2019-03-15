@@ -14,3 +14,4 @@
  * [Spareribs And Kraut](../../index/s/spareribs-and-kraut.json)
  * [Spiced Apple Kraut Pork](../../index/s/spiced-apple-kraut-pork.json)
  * [Try It Youll Like It Kraut Casserole](../../index/t/try-it-youll-like-it-kraut-casserole.json)
+ * [Sweet Potato Turnovers With Sweet Kraut 51199410](../../index/s/sweet-potato-turnovers-with-sweet-kraut-51199410.json)

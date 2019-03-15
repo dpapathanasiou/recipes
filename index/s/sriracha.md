@@ -47,3 +47,8 @@
  * [Sweet And Spicy Sriracha Popcorn Mix](../../index/s/sweet-and-spicy-sriracha-popcorn-mix.json)
  * [Sweet Sriracha Chicken](../../index/s/sweet-sriracha-chicken.json)
  * [The Sriracha Chicken Marinade](../../index/t/the-sriracha-chicken-marinade.json)
+ * [Grilled Butterflied Prawns With Sriracha Lemongrass Butter 51239010](../../index/g/grilled-butterflied-prawns-with-sriracha-lemongrass-butter-51239010.json)
+ * [High Honey Sriracha Popcorn](../../index/h/high-honey-sriracha-popcorn.json)
+ * [Peanut Butter Sriracha Toast 51214450](../../index/p/peanut-butter-sriracha-toast-51214450.json)
+ * [Sriracha Mayonnaise](../../index/s/sriracha-mayonnaise.json)
+ * [Sriracha Salt](../../index/s/sriracha-salt.json)

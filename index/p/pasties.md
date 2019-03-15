@@ -10,3 +10,6 @@
  * [Vegetable Cornish Pasties](../../index/v/vegetable-cornish-pasties.json)
  * [Vegetable Pasties](../../index/v/vegetable-pasties.json)
  * [Vegetarian Pasties](../../index/v/vegetarian-pasties.json)
+ * [Beef And Potato Pasties](../../index/b/beef-and-potato-pasties.json)
+ * [Beef Pasties With Caramelized Onions And Stilton Cheese 351530](../../index/b/beef-pasties-with-caramelized-onions-and-stilton-cheese-351530.json)
+ * [Frenchys Pasties 4409](../../index/f/frenchys-pasties-4409.json)

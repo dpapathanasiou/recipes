@@ -10,3 +10,4 @@
  * [Tater Tots Casserole](../../index/t/tater-tots-casserole.json)
  * [Tater Tots Nachos](../../index/t/tater-tots-nachos.json)
  * [Zucchini Tots](../../index/z/zucchini-tots.json)
+ * [Cauliflower Carrot Cheesy Tots](../../index/c/cauliflower-carrot-cheesy-tots.json)

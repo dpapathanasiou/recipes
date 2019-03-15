@@ -8,3 +8,4 @@
  * [Fat Boy Nacho Cheese Dip](../../index/f/fat-boy-nacho-cheese-dip.json)
  * [Poor Boy Spread](../../index/p/poor-boy-spread.json)
  * [Poor Boy Tootsie Roll Martini](../../index/p/poor-boy-tootsie-roll-martini.json)
+ * [The Boy Scouts Campfire Quesadilla 56389770](../../index/t/the-boy-scouts-campfire-quesadilla-56389770.json)

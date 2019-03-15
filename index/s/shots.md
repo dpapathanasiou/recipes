@@ -30,3 +30,6 @@
  * [Tart Lemon Drop Jelly Shots](../../index/t/tart-lemon-drop-jelly-shots.json)
  * [Wennys White Cake Shots](../../index/w/wennys-white-cake-shots.json)
  * [White Chocolate Pudding Shots](../../index/w/white-chocolate-pudding-shots.json)
+ * [Blood Orange Jell O Shots](../../index/b/blood-orange-jell-o-shots.json)
+ * [Bloody Mary Soup Shots With Shrimp And Pickled Vegetables 240667](../../index/b/bloody-mary-soup-shots-with-shrimp-and-pickled-vegetables-240667.json)
+ * [Watermelon Jell O Shots](../../index/w/watermelon-jell-o-shots.json)

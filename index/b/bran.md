@@ -53,3 +53,8 @@
  * [Six Week Bran Muffins](../../index/s/six-week-bran-muffins.json)
  * [Vs Apple Bran Muffins](../../index/v/vs-apple-bran-muffins.json)
  * [Yummy Bran Muffins](../../index/y/yummy-bran-muffins.json)
+ * [Quick Oat Bran And Banana Muffins 1132](../../index/q/quick-oat-bran-and-banana-muffins-1132.json)
+ * [Sour Cream Bran Muffins 13186](../../index/s/sour-cream-bran-muffins-13186.json)
+ * [Whole Wheat Bran Bread Risney Manning 10334](../../index/w/whole-wheat-bran-bread-risney-manning-10334.json)
+ * [Whole Wheat Bran Muffins With Figs And Pecans 231587](../../index/w/whole-wheat-bran-muffins-with-figs-and-pecans-231587.json)
+ * [Zucchini Raisin Bran Muffins 12526](../../index/z/zucchini-raisin-bran-muffins-12526.json)

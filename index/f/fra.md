@@ -8,3 +8,5 @@
  * [Shrimp Fra Diablo](../../index/s/shrimp-fra-diablo.json)
  * [Shrimp Fra Diavolo](../../index/s/shrimp-fra-diavolo.json)
  * [Zuppa Di Pesce Fra Di Avolo](../../index/z/zuppa-di-pesce-fra-di-avolo.json)
+ * [Lobster Fra Diavolo 351009](../../index/l/lobster-fra-diavolo-351009.json)
+ * [Lobster Fra Diavolo](../../index/l/lobster-fra-diavolo.json)

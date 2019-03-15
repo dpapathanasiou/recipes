@@ -19,3 +19,5 @@
  * [Shrimp And Asparagus With A Louisiana](../../index/s/shrimp-and-asparagus-with-a-louisiana.json)
  * [Shrimp And Grits Louisiana Style](../../index/s/shrimp-and-grits-louisiana-style.json)
  * [Tanyas Louisiana Southern Fried Chic](../../index/t/tanyas-louisiana-southern-fried-chic.json)
+ * [Louisiana Deviled Crab Cakes 104883](../../index/l/louisiana-deviled-crab-cakes-104883.json)
+ * [Louisiana Mussel Sauce Piquante With Garlic Bread 14964](../../index/l/louisiana-mussel-sauce-piquante-with-garlic-bread-14964.json)

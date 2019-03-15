@@ -16,3 +16,7 @@
  * [Vegan Pumpkin Pie Blondies](../../index/v/vegan-pumpkin-pie-blondies.json)
  * [White Chocolate Blondies](../../index/w/white-chocolate-blondies.json)
  * [White Chocolate Lime Blondies](../../index/w/white-chocolate-lime-blondies.json)
+ * [Blondies](../../index/b/blondies.json)
+ * [Coconut Blondies 11609](../../index/c/coconut-blondies-11609.json)
+ * [Salted Peanut Butter And Jelly Blondies 51214430](../../index/s/salted-peanut-butter-and-jelly-blondies-51214430.json)
+ * [White Chocolate And Lime Blondies 543](../../index/w/white-chocolate-and-lime-blondies-543.json)

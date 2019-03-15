@@ -15,3 +15,7 @@
  * [Mai Tai](../../index/m/mai-tai.json)
  * [The Perfect Mai Tai](../../index/t/the-perfect-mai-tai.json)
  * [Trader Vic Mai Tai Cocktail](../../index/t/trader-vic-mai-tai-cocktail.json)
+ * [Mai Tai 230577](../../index/m/mai-tai-230577.json)
+ * [Mai Tai Ii 200732](../../index/m/mai-tai-ii-200732.json)
+ * [Mai Tai Sorbet 2470](../../index/m/mai-tai-sorbet-2470.json)
+ * [Minted Mai Tai 201166](../../index/m/minted-mai-tai-201166.json)

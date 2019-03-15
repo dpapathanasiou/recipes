@@ -9,3 +9,5 @@
  * [Nutella Popsicles](../../index/n/nutella-popsicles.json)
  * [Smores Popsicles](../../index/s/smores-popsicles.json)
  * [Strawberry Cheesecake Popsicles](../../index/s/strawberry-cheesecake-popsicles.json)
+ * [Homemade Popsicles 235649](../../index/h/homemade-popsicles-235649.json)
+ * [Strawberry And Cranberry Popsicles 56389511](../../index/s/strawberry-and-cranberry-popsicles-56389511.json)

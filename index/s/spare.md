@@ -11,3 +11,4 @@
  * [Steamed Pork Spare Ribs](../../index/s/steamed-pork-spare-ribs.json)
  * [Sunday Afternoon Slow Cooked Spare Ri](../../index/s/sunday-afternoon-slow-cooked-spare-ri.json)
  * [Tender Pork Spare Ribs](../../index/t/tender-pork-spare-ribs.json)
+ * [Crispy Lamb Spare Ribs With Honey Creme Fraiche And Chopped Pea Salad 241226](../../index/c/crispy-lamb-spare-ribs-with-honey-creme-fraiche-and-chopped-pea-salad-241226.json)

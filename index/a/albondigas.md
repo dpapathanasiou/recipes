@@ -15,3 +15,5 @@
  * [Spanish Style Albondigas In A Sunny M](../../index/s/spanish-style-albondigas-in-a-sunny-m.json)
  * [Spicy Albondigas](../../index/s/spicy-albondigas.json)
  * [Turkey And Rice Meatballs Albondigas](../../index/t/turkey-and-rice-meatballs-albondigas.json)
+ * [Albondigas Soup 25](../../index/a/albondigas-soup-25.json)
+ * [Turkey Albondigas Soup 782](../../index/t/turkey-albondigas-soup-782.json)

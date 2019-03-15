@@ -34,3 +34,8 @@
  * [Spinach Feta Pinwheels](../../index/s/spinach-feta-pinwheels.json)
  * [Spinach Pinwheels](../../index/s/spinach-pinwheels.json)
  * [Tortilla Pinwheels](../../index/t/tortilla-pinwheels.json)
+ * [Beef Pinwheels With Arugula Salad 232303](../../index/b/beef-pinwheels-with-arugula-salad-232303.json)
+ * [Cinnamon Sugar Pinwheels 104274](../../index/c/cinnamon-sugar-pinwheels-104274.json)
+ * [Parsley Walnut Pinwheels 13535](../../index/p/parsley-walnut-pinwheels-13535.json)
+ * [Pecan Crusted Pork Tenderloin Pinwheels With Carolina Mustard Sauce 352954](../../index/p/pecan-crusted-pork-tenderloin-pinwheels-with-carolina-mustard-sauce-352954.json)
+ * [Turkey Pinwheels 243128](../../index/t/turkey-pinwheels-243128.json)

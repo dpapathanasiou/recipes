@@ -14,3 +14,4 @@
  * [Meaty Stuffed Pepper Casserole](../../index/m/meaty-stuffed-pepper-casserole.json)
  * [Meaty Thick Man Chili](../../index/m/meaty-thick-man-chili.json)
  * [Nanas Slow Cooked Meaty Tomato Sauce](../../index/n/nanas-slow-cooked-meaty-tomato-sauce.json)
+ * [Meaty Ukrainian Borscht 6008](../../index/m/meaty-ukrainian-borscht-6008.json)

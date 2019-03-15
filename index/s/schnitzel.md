@@ -10,3 +10,6 @@
  * [Venison Schnitzel](../../index/v/venison-schnitzel.json)
  * [Vienna Schnitzel](../../index/v/vienna-schnitzel.json)
  * [Wiener Schnitzel](../../index/w/wiener-schnitzel.json)
+ * [Chicken Schnitzel With Anchovy Chive Butter Sauce 109264](../../index/c/chicken-schnitzel-with-anchovy-chive-butter-sauce-109264.json)
+ * [Chicken Schnitzel With Chile Cherry Tomatoes And Mozzarella 56390069](../../index/c/chicken-schnitzel-with-chile-cherry-tomatoes-and-mozzarella-56390069.json)
+ * [Penguin Buffets Classic Israeli Schnitzel 231757](../../index/p/penguin-buffets-classic-israeli-schnitzel-231757.json)

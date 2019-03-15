@@ -8,3 +8,5 @@
  * [Ham Breakfast Braid](../../index/h/ham-breakfast-braid.json)
  * [Ham Broccoli Braid](../../index/h/ham-broccoli-braid.json)
  * [Squash Braid](../../index/s/squash-braid.json)
+ * [Danish Pastry Braid](../../index/d/danish-pastry-braid.json)
+ * [Oat And Walnut Buttermilk Braid 524](../../index/o/oat-and-walnut-buttermilk-braid-524.json)

@@ -22,3 +22,5 @@
  * [Simple Crustless Spinach And Mushroom](../../index/s/simple-crustless-spinach-and-mushroom.json)
  * [Summer Garden Crustless Quiche](../../index/s/summer-garden-crustless-quiche.json)
  * [Zucchini Crustless Quiche](../../index/z/zucchini-crustless-quiche.json)
+ * [Crustless Mini Quiches 366969](../../index/c/crustless-mini-quiches-366969.json)
+ * [Crustless Quiche 241749](../../index/c/crustless-quiche-241749.json)

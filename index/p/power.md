@@ -32,3 +32,6 @@
  * [Raw Power Energy Orbs](../../index/r/raw-power-energy-orbs.json)
  * [Spinach And Banana Power Smoothie](../../index/s/spinach-and-banana-power-smoothie.json)
  * [Spinach Power Pesto Macaroni And Chee](../../index/s/spinach-power-pesto-macaroni-and-chee.json)
+ * [Coconut Date Power Breakfast Bars](../../index/c/coconut-date-power-breakfast-bars.json)
+ * [Power Boosting Beets 51215210](../../index/p/power-boosting-beets-51215210.json)
+ * [Power Waffles With Yogurt Bananas And Almonds 101034](../../index/p/power-waffles-with-yogurt-bananas-and-almonds-101034.json)

@@ -9,3 +9,7 @@
  * [Raspberry Lime Rickey](../../index/r/raspberry-lime-rickey.json)
  * [Rum Rickey Cocktail](../../index/r/rum-rickey-cocktail.json)
  * [The Rum Rickey Cocktail](../../index/t/the-rum-rickey-cocktail.json)
+ * [Coconut Water And Lime Rickey 56389512](../../index/c/coconut-water-and-lime-rickey-56389512.json)
+ * [Orange Rum Rickey 200702](../../index/o/orange-rum-rickey-200702.json)
+ * [Raspberry Rose Gin Rickey 359793](../../index/r/raspberry-rose-gin-rickey-359793.json)
+ * [Royal Rickey 200752](../../index/r/royal-rickey-200752.json)

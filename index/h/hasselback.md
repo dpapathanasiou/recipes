@@ -9,3 +9,4 @@
  * [Hasselback Pear Tart](../../index/h/hasselback-pear-tart.json)
  * [Hasselback Potatoes](../../index/h/hasselback-potatoes.json)
  * [Loaded Hasselback Potatoes](../../index/l/loaded-hasselback-potatoes.json)
+ * [Hasselback Butternut Squash With Bay Leaves](../../index/h/hasselback-butternut-squash-with-bay-leaves.json)

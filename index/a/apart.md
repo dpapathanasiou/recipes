@@ -13,3 +13,4 @@
  * [Pull Apart Pretzel Crisps Pizza](../../index/p/pull-apart-pretzel-crisps-pizza.json)
  * [Pull Apart Spider Web Cupcakes](../../index/p/pull-apart-spider-web-cupcakes.json)
  * [Rosemary Pull Apart Dinner Rolls](../../index/r/rosemary-pull-apart-dinner-rolls.json)
+ * [Pull Apart Bread With Pumpkin And Spinach](../../index/p/pull-apart-bread-with-pumpkin-and-spinach.json)

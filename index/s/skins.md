@@ -13,3 +13,6 @@
  * [Super Loaded Chili Potato Skins](../../index/s/super-loaded-chili-potato-skins.json)
  * [Suzys Potato Skins](../../index/s/suzys-potato-skins.json)
  * [Zucchini Skins](../../index/z/zucchini-skins.json)
+ * [Apple Crisp With Apple Skins 51173610](../../index/a/apple-crisp-with-apple-skins-51173610.json)
+ * [Garlic Roasted Potato Skins 107579](../../index/g/garlic-roasted-potato-skins-107579.json)
+ * [Potato Skins With Bacon And Cheese 103866](../../index/p/potato-skins-with-bacon-and-cheese-103866.json)

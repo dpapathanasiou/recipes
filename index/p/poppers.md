@@ -32,3 +32,5 @@
  * [Sausage Stuffed Cherry Pepper Poppers](../../index/s/sausage-stuffed-cherry-pepper-poppers.json)
  * [Spicy Sweet Pepper Poppers](../../index/s/spicy-sweet-pepper-poppers.json)
  * [Twice Baked Potato Poppers](../../index/t/twice-baked-potato-poppers.json)
+ * [Herb And Cheese Poppers 355805](../../index/h/herb-and-cheese-poppers-355805.json)
+ * [Smoked Stuffed Chile Poppers 354409](../../index/s/smoked-stuffed-chile-poppers-354409.json)

@@ -12,3 +12,4 @@
  * [Spaetzle I](../../index/s/spaetzle-i.json)
  * [Spaetzle Ii](../../index/s/spaetzle-ii.json)
  * [Spaetzle Sauerkraut And Sausage Cass](../../index/s/spaetzle-sauerkraut-and-sausage-cass.json)
+ * [Pumpkin Seed Spaetzle 356794](../../index/p/pumpkin-seed-spaetzle-356794.json)

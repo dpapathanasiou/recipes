@@ -17,3 +17,4 @@
  * [Lovers Beef Burgundy Filet](../../index/l/lovers-beef-burgundy-filet.json)
  * [Oven Stew With Burgundy Wine](../../index/o/oven-stew-with-burgundy-wine.json)
  * [Stuffed Cornish Hens Burgundy](../../index/s/stuffed-cornish-hens-burgundy.json)
+ * [Quick Beef Burgundy 4603](../../index/q/quick-beef-burgundy-4603.json)

@@ -15,3 +15,4 @@
  * [Valentines Pie](../../index/v/valentines-pie.json)
  * [Valentines Salmon](../../index/v/valentines-salmon.json)
  * [Valentines Slice And Bake Cinnamon H](../../index/v/valentines-slice-and-bake-cinnamon-h.json)
+ * [Strawberry Shortbread Valentines Cookies](../../index/s/strawberry-shortbread-valentines-cookies.json)

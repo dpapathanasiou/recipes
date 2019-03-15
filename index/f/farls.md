@@ -6,3 +6,4 @@
  * [Irish Potato Farls](../../index/i/irish-potato-farls.json)
  * [Irish Soda Farls](../../index/i/irish-soda-farls.json)
  * [Soda Bread Farls](../../index/s/soda-bread-farls.json)
+ * [Treacle Farls 1927](../../index/t/treacle-farls-1927.json)

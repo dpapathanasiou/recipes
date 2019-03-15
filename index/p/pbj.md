@@ -12,3 +12,4 @@
  * [Pbj Smoothie](../../index/p/pbj-smoothie.json)
  * [Spicy Pbj Wings](../../index/s/spicy-pbj-wings.json)
  * [Sugar Free Pbj Smoothies](../../index/s/sugar-free-pbj-smoothies.json)
+ * [Pbj Crepes 56389879](../../index/p/pbj-crepes-56389879.json)

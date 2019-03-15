@@ -12,3 +12,6 @@
  * [Caramel Nougat Cake](../../index/c/caramel-nougat-cake.json)
  * [German Christmas Nougatkugeln Nougat](../../index/g/german-christmas-nougatkugeln-nougat.json)
  * [Nougat Cookies](../../index/n/nougat-cookies.json)
+ * [Frozen Nougat Terrine With Bittersweet Chocolate Sauce And Raspberry Fig Sauce 3001](../../index/f/frozen-nougat-terrine-with-bittersweet-chocolate-sauce-and-raspberry-fig-sauce-3001.json)
+ * [Giant Chocolate Candy Bar With Peanuts And Nougat](../../index/g/giant-chocolate-candy-bar-with-peanuts-and-nougat.json)
+ * [Milk Chocolate Souffles With Nougat Whip 357238](../../index/m/milk-chocolate-souffles-with-nougat-whip-357238.json)

@@ -9,3 +9,8 @@
  * [Pickled Herring And Cucumber Salad](../../index/p/pickled-herring-and-cucumber-salad.json)
  * [Russian Beet Salad With Herring](../../index/r/russian-beet-salad-with-herring.json)
  * [Sledzie W Jogurcie Herring In Yogurt](../../index/s/sledzie-w-jogurcie-herring-in-yogurt.json)
+ * [Curried Herring 103389](../../index/c/curried-herring-103389.json)
+ * [Curried Herring On Rye Toasts 109099](../../index/c/curried-herring-on-rye-toasts-109099.json)
+ * [Herring In Mustard Sour Cream On Rye Bread 51259490](../../index/h/herring-in-mustard-sour-cream-on-rye-bread-51259490.json)
+ * [Layered Pickled Herring Salad With Tart Apples And Red Onion 3004](../../index/l/layered-pickled-herring-salad-with-tart-apples-and-red-onion-3004.json)
+ * [Pickled Herring Canapes 10384](../../index/p/pickled-herring-canapes-10384.json)

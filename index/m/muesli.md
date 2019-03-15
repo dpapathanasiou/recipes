@@ -13,3 +13,4 @@
  * [Muesli](../../index/m/muesli.json)
  * [Overnight Muesli](../../index/o/overnight-muesli.json)
  * [Sunshine Morning Muesli](../../index/s/sunshine-morning-muesli.json)
+ * [Fruit And Oat Muesli 356950](../../index/f/fruit-and-oat-muesli-356950.json)

@@ -21,3 +21,6 @@
  * [Simple And Easy Coq Au Vin](../../index/s/simple-and-easy-coq-au-vin.json)
  * [Simple Coq Au Vin](../../index/s/simple-coq-au-vin.json)
  * [White Coq Au Vin](../../index/w/white-coq-au-vin.json)
+ * [Coq Au Vin Nouveau 41](../../index/c/coq-au-vin-nouveau-41.json)
+ * [Coq Au Vin With Cocoa Powder](../../index/c/coq-au-vin-with-cocoa-powder.json)
+ * [Quick Coq Au Vin 361231](../../index/q/quick-coq-au-vin-361231.json)

@@ -19,3 +19,6 @@
  * [Shirley Temple Ice Cream Float](../../index/s/shirley-temple-ice-cream-float.json)
  * [Vanilla Root Beer Float](../../index/v/vanilla-root-beer-float.json)
  * [Vermont Maple Float](../../index/v/vermont-maple-float.json)
+ * [Green Tea And Ginger Beer Float 56389660](../../index/g/green-tea-and-ginger-beer-float-56389660.json)
+ * [Raspberry Beer Float With Raspberry Granita 359531](../../index/r/raspberry-beer-float-with-raspberry-granita-359531.json)
+ * [Vanilla Float With Bitters And Cherries 56389658](../../index/v/vanilla-float-with-bitters-and-cherries-56389658.json)

@@ -12,3 +12,5 @@
  * [Skillet Chocolate Chip Cookie Sundae](../../index/s/skillet-chocolate-chip-cookie-sundae.json)
  * [Tin Roof Sundae Pie](../../index/t/tin-roof-sundae-pie.json)
  * [Vegan Smore Sundae](../../index/v/vegan-smore-sundae.json)
+ * [Blueberry Almond Praline Sundae 106600](../../index/b/blueberry-almond-praline-sundae-106600.json)
+ * [Watermelon Sundae 1222206](../../index/w/watermelon-sundae-1222206.json)

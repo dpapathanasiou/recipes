@@ -41,3 +41,8 @@
  * [Strawberry Shortcake With Cheesecake](../../index/s/strawberry-shortcake-with-cheesecake.json)
  * [Strawberry Shortcake](../../index/s/strawberry-shortcake.json)
  * [Super Easy Strawberry Shortcake](../../index/s/super-easy-strawberry-shortcake.json)
+ * [An American Place Strawberry Shortcake 106681](../../index/a/an-american-place-strawberry-shortcake-106681.json)
+ * [Chocolate Strawberry Shortcake 2256](../../index/c/chocolate-strawberry-shortcake-2256.json)
+ * [Peaches With Shortcake Topping 104839](../../index/p/peaches-with-shortcake-topping-104839.json)
+ * [Strawberry Shortcake Cupcakes](../../index/s/strawberry-shortcake-cupcakes.json)
+ * [Strawberry Shortcake With Grand Marnier Strawberry Compote And Chantilly Cream 235525](../../index/s/strawberry-shortcake-with-grand-marnier-strawberry-compote-and-chantilly-cream-235525.json)

@@ -6,3 +6,4 @@
  * [Montreal Smoked Meat Flat Wrap](../../index/m/montreal-smoked-meat-flat-wrap.json)
  * [Montreal Steak Seasoned Mashed Potato](../../index/m/montreal-steak-seasoned-mashed-potato.json)
  * [Pollock Montreal](../../index/p/pollock-montreal.json)
+ * [Homemade Montreal Steak Seasoning](../../index/h/homemade-montreal-steak-seasoning.json)

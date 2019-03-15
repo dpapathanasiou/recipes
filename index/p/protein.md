@@ -61,3 +61,4 @@
  * [Sweet Potato Protein Loaf](../../index/s/sweet-potato-protein-loaf.json)
  * [Twisted Colada Protein Smoothie](../../index/t/twisted-colada-protein-smoothie.json)
  * [Vanilla Almond Protein Shake](../../index/v/vanilla-almond-protein-shake.json)
+ * [Protein Bars 51262650](../../index/p/protein-bars-51262650.json)

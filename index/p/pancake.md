@@ -63,3 +63,7 @@
  * [Vegetable Pancake](../../index/v/vegetable-pancake.json)
  * [Whole Wheat Pancake Mix](../../index/w/whole-wheat-pancake-mix.json)
  * [Zucchini And Onion Pancake](../../index/z/zucchini-and-onion-pancake.json)
+ * [Big Apple Pancake 230981](../../index/b/big-apple-pancake-230981.json)
+ * [Gouda Bacon And Leek Pancake 2543](../../index/g/gouda-bacon-and-leek-pancake-2543.json)
+ * [Pear And Vanilla Upside Down Pancake 14405](../../index/p/pear-and-vanilla-upside-down-pancake-14405.json)
+ * [Souffle Pancake 108680](../../index/s/souffle-pancake-108680.json)

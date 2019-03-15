@@ -9,3 +9,4 @@
  * [Grilled Gyro Burgers](../../index/g/grilled-gyro-burgers.json)
  * [R B Millers Gyro Meat](../../index/r/r-b-millers-gyro-meat.json)
  * [Traditional Gyro Meat](../../index/t/traditional-gyro-meat.json)
+ * [Tuna Souvlaki Gyro With Beet Tahini And Parsley Salad 238189](../../index/t/tuna-souvlaki-gyro-with-beet-tahini-and-parsley-salad-238189.json)

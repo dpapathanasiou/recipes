@@ -19,3 +19,6 @@
  * [Smoked Andouille Quesadilla](../../index/s/smoked-andouille-quesadilla.json)
  * [Spicy Quesadilla Sauce](../../index/s/spicy-quesadilla-sauce.json)
  * [Thanksgiving Quesadilla](../../index/t/thanksgiving-quesadilla.json)
+ * [Chicken And Vegetable Quesadilla 352889](../../index/c/chicken-and-vegetable-quesadilla-352889.json)
+ * [Stacked Veggie Quesadilla 363653](../../index/s/stacked-veggie-quesadilla-363653.json)
+ * [The Boy Scouts Campfire Quesadilla 56389770](../../index/t/the-boy-scouts-campfire-quesadilla-56389770.json)

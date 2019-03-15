@@ -58,3 +58,8 @@
  * [Slow Cooker Chicken Pepperoni](../../index/s/slow-cooker-chicken-pepperoni.json)
  * [Slow Cooker Pepperoni Pizza](../../index/s/slow-cooker-pepperoni-pizza.json)
  * [West Virginia Pepperoni Roll Dip](../../index/w/west-virginia-pepperoni-roll-dip.json)
+ * [Individual Cheese And Pepperoni Pizzas 11584](../../index/i/individual-cheese-and-pepperoni-pizzas-11584.json)
+ * [Pepperoni Cheddar Straws 13534](../../index/p/pepperoni-cheddar-straws-13534.json)
+ * [Pepperoni Focaccia 13555](../../index/p/pepperoni-focaccia-13555.json)
+ * [Pepperoni Spaghetti Cakes 11560](../../index/p/pepperoni-spaghetti-cakes-11560.json)
+ * [Spaghetti With Pepperoni Peas And Browned Onions 11518](../../index/s/spaghetti-with-pepperoni-peas-and-browned-onions-11518.json)

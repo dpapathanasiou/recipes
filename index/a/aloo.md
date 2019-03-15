@@ -17,3 +17,6 @@
  * [Poori Aloo Koora](../../index/p/poori-aloo-koora.json)
  * [Spicy Sesame Potatoes Til Aloo](../../index/s/spicy-sesame-potatoes-til-aloo.json)
  * [Trinidad Style Curried Potatoes Aloo](../../index/t/trinidad-style-curried-potatoes-aloo.json)
+ * [Aloo Gobhi Stuffing 231000](../../index/a/aloo-gobhi-stuffing-231000.json)
+ * [Cumin Scented Potatoes With Tomatoes Ghurma Aloo](../../index/c/cumin-scented-potatoes-with-tomatoes-ghurma-aloo.json)
+ * [Tofu Aloo Gobi Cauliflower And Potato Curry 368471](../../index/t/tofu-aloo-gobi-cauliflower-and-potato-curry-368471.json)

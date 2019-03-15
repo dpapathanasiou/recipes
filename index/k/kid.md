@@ -15,3 +15,5 @@
  * [Kid Pleasing Sloppy Joes](../../index/k/kid-pleasing-sloppy-joes.json)
  * [My Best Kid Friendly Chili](../../index/m/my-best-kid-friendly-chili.json)
  * [Spinach Quiche With Kid Appeal](../../index/s/spinach-quiche-with-kid-appeal.json)
+ * [Kid Friendly Puttanesca 56389887](../../index/k/kid-friendly-puttanesca-56389887.json)
+ * [Kid Friendly Turkey Burgers 104169](../../index/k/kid-friendly-turkey-burgers-104169.json)

@@ -17,3 +17,6 @@
  * [Minty Peach Chicken Salad](../../index/m/minty-peach-chicken-salad.json)
  * [Minty Potatoes](../../index/m/minty-potatoes.json)
  * [No Bake Minty Chocolate Freeze](../../index/n/no-bake-minty-chocolate-freeze.json)
+ * [Baked Minty Rice With Feta And Pomegranate Relish](../../index/b/baked-minty-rice-with-feta-and-pomegranate-relish.json)
+ * [Minty Blueberry Shake](../../index/m/minty-blueberry-shake.json)
+ * [Minty Boozy Chicken](../../index/m/minty-boozy-chicken.json)

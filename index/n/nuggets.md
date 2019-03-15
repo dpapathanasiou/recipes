@@ -24,3 +24,4 @@
  * [Tunisian Style Catfish Nuggets](../../index/t/tunisian-style-catfish-nuggets.json)
  * [Turkey Nuggets Or Chicken](../../index/t/turkey-nuggets-or-chicken.json)
  * [Vegetable Nuggets](../../index/v/vegetable-nuggets.json)
+ * [Chicken Nuggets With Mango And Avocado Salsa 56389602](../../index/c/chicken-nuggets-with-mango-and-avocado-salsa-56389602.json)

@@ -41,3 +41,8 @@
  * [Smothered Tilapia](../../index/s/smothered-tilapia.json)
  * [Soul Smothered Chicken](../../index/s/soul-smothered-chicken.json)
  * [Sweet Smothered Pork Chops](../../index/s/sweet-smothered-pork-chops.json)
+ * [Pork Cutlets With Smothered Parmesan Green Beans 351850](../../index/p/pork-cutlets-with-smothered-parmesan-green-beans-351850.json)
+ * [Roast Chicken With Smothered Cabbage Bacon And Potatoes](../../index/r/roast-chicken-with-smothered-cabbage-bacon-and-potatoes.json)
+ * [Smothered Chicken With Creamy Mushroom Gravy 104721](../../index/s/smothered-chicken-with-creamy-mushroom-gravy-104721.json)
+ * [Smothered Grilled Pork Chops 108305](../../index/s/smothered-grilled-pork-chops-108305.json)
+ * [Turkey Smothered In Wild Mushrooms 107497](../../index/t/turkey-smothered-in-wild-mushrooms-107497.json)

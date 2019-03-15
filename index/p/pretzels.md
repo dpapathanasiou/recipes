@@ -35,3 +35,5 @@
  * [Spicy Party Pretzels](../../index/s/spicy-party-pretzels.json)
  * [Spicy Pretzels](../../index/s/spicy-pretzels.json)
  * [White Chocolate Covered Pretzels](../../index/w/white-chocolate-covered-pretzels.json)
+ * [Espresso Pretzels 14534](../../index/e/espresso-pretzels-14534.json)
+ * [Hot Soft Pretzels 51171480](../../index/h/hot-soft-pretzels-51171480.json)

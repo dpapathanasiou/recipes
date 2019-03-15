@@ -11,3 +11,4 @@
  * [Twinkie Wiener Sandwich](../../index/t/twinkie-wiener-sandwich.json)
  * [Wiener Dog Challah](../../index/w/wiener-dog-challah.json)
  * [Wiener Schnitzel](../../index/w/wiener-schnitzel.json)
+ * [Wiener Eiskaffee 200828](../../index/w/wiener-eiskaffee-200828.json)

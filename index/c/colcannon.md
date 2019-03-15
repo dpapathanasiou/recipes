@@ -15,3 +15,5 @@
  * [Modern Colcannon](../../index/m/modern-colcannon.json)
  * [My Colcannon](../../index/m/my-colcannon.json)
  * [St Patricks Colcannon](../../index/s/st-patricks-colcannon.json)
+ * [Colcannon 11710](../../index/c/colcannon-11710.json)
+ * [Golden Colcannon Pie 388793](../../index/g/golden-colcannon-pie-388793.json)

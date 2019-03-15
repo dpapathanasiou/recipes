@@ -23,3 +23,4 @@
  * [Strawberry Fluff](../../index/s/strawberry-fluff.json)
  * [Summer Pineapple Fluff](../../index/s/summer-pineapple-fluff.json)
  * [Sweet Potato Fluff](../../index/s/sweet-potato-fluff.json)
+ * [Orange Fluff Mold 6003](../../index/o/orange-fluff-mold-6003.json)

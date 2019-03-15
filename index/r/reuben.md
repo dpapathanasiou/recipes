@@ -43,3 +43,5 @@
  * [Traditional Reuben Casserole](../../index/t/traditional-reuben-casserole.json)
  * [Turkey Reuben Burgers](../../index/t/turkey-reuben-burgers.json)
  * [Warm Reuben Spread](../../index/w/warm-reuben-spread.json)
+ * [Reuben Bread Pudding 14571](../../index/r/reuben-bread-pudding-14571.json)
+ * [Reuben Salad 51118600](../../index/r/reuben-salad-51118600.json)

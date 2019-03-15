@@ -10,3 +10,4 @@
  * [Puffed Millet Squares](../../index/p/puffed-millet-squares.json)
  * [Puffed Up Zucchini](../../index/p/puffed-up-zucchini.json)
  * [Puffed Wheat Squares](../../index/p/puffed-wheat-squares.json)
+ * [Puffed Rice And Coconut Crunchies](../../index/p/puffed-rice-and-coconut-crunchies.json)

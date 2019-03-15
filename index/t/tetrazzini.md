@@ -37,3 +37,5 @@
  * [Turkey Tetrazzini I](../../index/t/turkey-tetrazzini-i.json)
  * [Turkey Tetrazzini Ii](../../index/t/turkey-tetrazzini-ii.json)
  * [Turkey Tetrazzini](../../index/t/turkey-tetrazzini.json)
+ * [Chicken Tetrazzini 108730](../../index/c/chicken-tetrazzini-108730.json)
+ * [Turkey Tetrazzini 13377](../../index/t/turkey-tetrazzini-13377.json)

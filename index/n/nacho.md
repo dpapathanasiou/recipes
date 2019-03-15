@@ -35,3 +35,5 @@
  * [Spicy Beef Nacho Bake](../../index/s/spicy-beef-nacho-bake.json)
  * [Turkey Nacho Bake](../../index/t/turkey-nacho-bake.json)
  * [White Nacho Cheese Sauce](../../index/w/white-nacho-cheese-sauce.json)
+ * [Layered Nacho Salad 3109](../../index/l/layered-nacho-salad-3109.json)
+ * [Nacho Vidal 51214870](../../index/n/nacho-vidal-51214870.json)

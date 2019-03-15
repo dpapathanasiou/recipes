@@ -11,3 +11,6 @@
  * [Orange Creamsicle Frosting](../../index/o/orange-creamsicle-frosting.json)
  * [Pineapple Creamsicle Smoothie](../../index/p/pineapple-creamsicle-smoothie.json)
  * [Strawberry Orange Creamsicle Jam](../../index/s/strawberry-orange-creamsicle-jam.json)
+ * [Creamsicle Crush 235556](../../index/c/creamsicle-crush-235556.json)
+ * [Frozen Creamsicle Cake 106603](../../index/f/frozen-creamsicle-cake-106603.json)
+ * [Grapefruit Creamsicle 380630](../../index/g/grapefruit-creamsicle-380630.json)

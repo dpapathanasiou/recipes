@@ -14,3 +14,5 @@
  * [Welsh Rarebit I](../../index/w/welsh-rarebit-i.json)
  * [Welsh Rarebit Ii](../../index/w/welsh-rarebit-ii.json)
  * [Welsh Tea Cakes](../../index/w/welsh-tea-cakes.json)
+ * [Welsh Rabbit 108892](../../index/w/welsh-rabbit-108892.json)
+ * [Welsh Rarebit Fingers 4552](../../index/w/welsh-rarebit-fingers-4552.json)

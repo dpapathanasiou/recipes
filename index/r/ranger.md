@@ -7,3 +7,4 @@
  * [Ranger Cookies Ii](../../index/r/ranger-cookies-ii.json)
  * [Ranger Cookies Iii](../../index/r/ranger-cookies-iii.json)
  * [Ranger Joe Cookies](../../index/r/ranger-joe-cookies.json)
+ * [Ranger Cookies 106064](../../index/r/ranger-cookies-106064.json)

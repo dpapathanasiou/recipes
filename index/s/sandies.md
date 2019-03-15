@@ -8,3 +8,4 @@
  * [Pecan Sandies](../../index/p/pecan-sandies.json)
  * [Sandies Seven Layer Bean Dip](../../index/s/sandies-seven-layer-bean-dip.json)
  * [Sandies](../../index/s/sandies.json)
+ * [Thyme Walnut Sandies](../../index/t/thyme-walnut-sandies.json)

@@ -20,3 +20,5 @@
  * [Sunshine Smore Cupcakes](../../index/s/sunshine-smore-cupcakes.json)
  * [Sunshine Toast](../../index/s/sunshine-toast.json)
  * [Tropical Sunshine Smoothie](../../index/t/tropical-sunshine-smoothie.json)
+ * [Pink California Sunshine 200105](../../index/p/pink-california-sunshine-200105.json)
+ * [Sunshine 200469](../../index/s/sunshine-200469.json)

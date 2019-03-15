@@ -8,3 +8,4 @@
  * [Extreme Crepes](../../index/e/extreme-crepes.json)
  * [Extreme Veggie Scrambled Eggs](../../index/e/extreme-veggie-scrambled-eggs.json)
  * [The Extreme Cherry Cake](../../index/t/the-extreme-cherry-cake.json)
+ * [Extreme Granola 243134](../../index/e/extreme-granola-243134.json)
