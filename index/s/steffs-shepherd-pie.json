@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Cook and stir ground beef in a skillet over medium-high heat until beef is browned, about 10 minutes. Drain fat. Mix in green beans, cream of mushroom soup, and onion.",
+        "Pour beef mixture into a 2 quart casserole dish and top with Cheddar cheese. Spread mashed potato on top.",
+        "Bake in the preheated oven until the pie is hot, and the mashed potatoes are golden brown, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2489&h=1303&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F352286.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 (14.5 ounce) can green beans, drained",
+        "1 (10.5 ounce) can cream of mushroom soup",
+        "\u00bd  onion, diced",
+        "1 cup shredded Cheddar cheese",
+        "2 cups mashed potatoes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Steff's Shepherd Pie",
     "url": "http://allrecipes.com/recipe/84745/steffs-shepherd-pie/"
 }

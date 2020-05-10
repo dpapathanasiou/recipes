@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Butter one 2 quart casserole dish. Preheat oven to 350 degrees F (175 degrees C).",
+        "In a mixing bowl, combine the sweet potatoes, sugar, vanilla extract, eggs and cream. Blend well, and spread evenly in casserole dish.",
+        "Prepare the topping by combining the butter, brown sugar, flour and pecans. Mix until crumbly, and sprinkle over sweet potato mixture.",
+        "Bake for 30 minutes in the preheated oven."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1331&h=697&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1072257.jpg",
+    "ingredients": [
+        "4 cups mashed sweet potatoes",
+        "\u00bd cup white sugar",
+        "2 tablespoons vanilla extract",
+        "4  eggs, beaten",
+        "\u00bd pint heavy cream",
+        "\u00bc pound butter",
+        "1 cup packed brown sugar",
+        "\u00bd cup all-purpose flour",
+        "1\u2009\u00bc cups chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Praline Sweet Potatoes",
     "url": "http://allrecipes.com/recipe/13681/praline-sweet-potatoes/"
 }

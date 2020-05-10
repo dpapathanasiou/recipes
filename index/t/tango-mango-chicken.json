@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat vegetable oil in a skillet over medium heat. Cook and stir onion, red bell pepper, and yellow bell pepper until softened, about 4 minutes. Add chile pepper and garlic; cook until fragrant, about 2 minutes.",
+        "Cook and stir chicken and mangos with juice in the skillet with vegetable mixture until chicken is cooked and no longer pink in the center, turning the chicken to cook evenly, about 10 minutes. Add plum sauce and continue cooking until sauce thickens, 5 to 10 minutes. Serve over rice."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2268596.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1  onion, cut into long slices",
+        "1  red bell pepper, cut lengthwise into strips",
+        "1  yellow bell pepper, cut lengthwise into strips",
+        "1  chile pepper, minced",
+        "3 cloves garlic, chopped",
+        "4  boneless skinless chicken breasts, cut into strips",
+        "1 (15.25 ounce) can mango slices, with juice",
+        "1\u2009\u00bd cups plum sauce",
+        "4 cups cooked white rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tango Mango Chicken",
     "url": "http://allrecipes.com/recipe/222674/tango-mango-chicken/"
 }

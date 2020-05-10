@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Place sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble and set aside.",
+        "Place thawed broccoli in a small saucepan, cover and cook over medium-low heat until tender, about 5 minutes.",
+        "In a large bowl, mix together sausage, broccoli, sour cream and cheese.",
+        "Place 1 package of crescent rolls flattened on a 9x13 inch baking dish. Cover with broccoli mixture. Place remaining crescent rolls on top of mixture and pinch seams to seal. Brush top with egg white.",
+        "Bake in preheated oven until golden brown, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3968&h=2077&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F860928.jpg",
+    "ingredients": [
+        "1 pound ground sausage",
+        "1 (10 ounce) package chopped frozen broccoli, thawed",
+        "\u00bd cup sour cream",
+        "1 cup shredded Cheddar cheese",
+        "2 (8 ounce) cans refrigerated crescent roll dough",
+        "1  egg white"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breakfast Wellington",
     "url": "http://allrecipes.com/recipe/23897/breakfast-wellington/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "At the beach dig a hole in the sand with the approximate proportions: width = 2 feet, length = 4 feet, depth = 1-1/2 feet.  Line the hole with stones from the beach.  Build a fire inside of the hole and cover with rocks from the beach. Heat the stones for 2 to 3 hours.",
+        "Remove coals and/or embers from the hole. Arrange hot stones evenly across the bottom of the hole. Place fresh 1/2 bushel seaweed (wet) on top of the hot stones.",
+        "Working quickly layer the food on top of the seaweed, the food should be layered evenly on top of each other in the following order: clams, mussels, fish, sausage,  hotdogs (wrapped in cheesecloth), onions, potatoes (white and sweet), corn, and finally lobsters.",
+        "Cover food with a clean, wet cloth.  Place remaining seaweed on top of cloth.",
+        "Cover entire hole of food with a wet tarpaulin, sealing the steam created by the hot stones and seaweed in. Allow a very small amount of steam to escape to relieve pressure. Let bake cook for 1 or more hours.  The bake is completed when the potatoes are soft. Serve bake with melted butter to dip the seafood in and lobster crackers. Don't forget napkins -- you'll need 'em!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/364801.jpg",
+    "ingredients": [
+        "20 small (1 pound) lobsters",
+        "20 pounds clams in shell, scrubbed",
+        "10 pounds mussels, cleaned and debearded",
+        "10 pounds cod",
+        "20 white potatoes",
+        "20 sweet potatoes",
+        "20 ears fresh corn",
+        "5 pounds bratwurst",
+        "5 pounds hot dogs",
+        "5 pounds pork sausage",
+        "3 pounds sweet onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Firehouse Clam Bake New England Style",
     "url": "http://allrecipes.com/recipe/12821/firehouse-clam-bake-new-england-style/"
 }

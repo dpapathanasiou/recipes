@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Grease muffin cups or line with paper muffin liners.",
+        "In a large bowl, mix together oats, buttermilk, brown sugar, applesauce, molasses and eggs. In a separate bowl, stir together flour, baking soda and baking powder. Stir flour mixture into eggs mixture, just until moistened. Fold in peaches. Spoon batter into prepared muffin cups.",
+        "Bake in preheated oven for 15 minutes. While muffins are baking, combine 2 tablespoons sugar and 1/2 teaspoon cinnamon. After 15 minutes of baking, remove muffins from oven and sprinkle with cinnamon sugar. Return to oven and continue baking for 3 minutes, until a toothpick inserted into center of a muffin comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1379&h=722&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F468535.jpg",
+    "ingredients": [
+        "1 cup quick cooking oats",
+        "1 cup buttermilk",
+        "\u2153 cup brown sugar",
+        "\u2153 cup applesauce",
+        "\u00bc cup molasses",
+        "2  eggs",
+        "1\u2009\u2153 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon baking powder",
+        "1\u2009\u00bd cups pitted and diced fresh peaches",
+        "2 tablespoons white sugar",
+        "\u00bd teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Peach Oatmeal Muffins",
     "url": "http://allrecipes.com/recipe/23907/spiced-peach-oatmeal-muffins/"
 }

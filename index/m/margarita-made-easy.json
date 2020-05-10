@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender full of ice, combine limeade concentrate, tequila and citrus soda. Blend until smooth. Pour into glasses and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2255005.jpg",
+    "ingredients": [
+        "1 (6 ounce) can frozen limeade concentrate",
+        "4 (1.5 fluid ounce) jiggers tequila",
+        "6 fluid ounces caffeinated citrus-flavored soda"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Margarita Made Easy",
     "url": "http://allrecipes.com/recipe/20631/margarita-made-easy/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the water, sugar, salt, mustard, paprika, vinegar, lemon juice, and powdered milk in a blender. Puree until smooth. With the blender running, drizzle in the oil in a slow, steady stream. If you add it too fast, the mixture will not thicken. Use more or less oil to make it the thickness you like. Store in the refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4023898.jpg",
+    "ingredients": [
+        "3/4 cup water",
+        "1 1/2 tablespoons white sugar",
+        "1 1/2 teaspoons salt",
+        "1/4 teaspoon ground mustard",
+        "1/8 teaspoon paprika",
+        "2 tablespoons distilled white vinegar",
+        "2 tablespoons fresh lemon juice",
+        "1 cup powdered milk",
+        "1 cup canola oil, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggless Mayonnaise",
     "url": "http://allrecipes.com/recipe/214928/eggless-mayonnaise/"
 }

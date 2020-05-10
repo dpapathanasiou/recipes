@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Rub chicken pieces with garlic powder, salt and pepper. In a small bowl, beat egg yolk with honey and butter or margarine, then brush this mixture over chicken pieces. Place chicken pieces, skin side down, in a lightly greased 9x13 inch baking dish.",
+        "Bake at 325 degrees F (165 degrees C) for 45 to 60 minutes or until chicken is cooked through and juices run clear, basting with remaining butter or margarine. Just before serving, turn chicken over and bake for another 10 to 15 minutes to cook the skin on the other side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1152&h=603&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5076605.jpg",
+    "ingredients": [
+        "1 (2 to 3 pound) whole chicken, cut into pieces",
+        "\u00bd teaspoon garlic powder",
+        "2 teaspoons salt",
+        "\u00bc teaspoon ground black pepper",
+        "1  egg yolk",
+        "1\u2009\u00bd tablespoons honey",
+        "4 tablespoons margarine, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Baked Chicken I",
     "url": "http://allrecipes.com/recipe/15406/honey-baked-chicken-i/"
 }

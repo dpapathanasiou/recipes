@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large kettle, combine soup bones, water, and peppercorns. Cover and simmer for 1 1/2 hours or until the meat comes easily off the bones.",
+        "Remove bones. Strain broth; chill.",
+        "Skim off fat. Remove meat from bones; dice and return to broth along with carrots, turnips, celery, onion, and barley. Bring to a boil. Reduce heat; cover and simmer about 1 hour or until vegetables and barley are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1176216.jpg",
+    "ingredients": [
+        "2 pounds meaty beef soup bones",
+        "2 quarts water",
+        "6  whole black peppercorns",
+        "1 cup chopped carrots",
+        "1 cup turnips, chopped",
+        "1 cup chopped celery",
+        "\u00bd cup chopped onion",
+        "\u00bc cup pearl barley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Scotch Broth I",
     "url": "http://allrecipes.com/recipe/13088/scotch-broth-i/"
 }

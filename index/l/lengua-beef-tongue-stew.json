@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the beef tongue into a tight-fitting pot and cover with water by 1 inch. Add the salt and bring to a boil. Reduce heat to medium-low, cover, and simmer until the meat is tender, about 2 hours. Strain and reserve the cooking liquid. Remove and discard the skin from the tongue. Shred the meat using two forks; set aside.",
+        "Heat the vegetable oil in a large pot over medium-high heat. Stir in the onion, leek, celery, and carrots. Cook and stir until the vegetables soften, about 5 minutes. Stir in the tomato paste until no lumps remain and cook for 1 minute more. Add the shredded meat to the pot along with the reserved broth and taco seasoning. Bring to a boil; reduce heat to medium-low and simmer until the vegetables are tender, 20 to 30 minutes. Season to taste with salt and pepper before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2988&h=1564&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5814104.jpg",
+    "ingredients": [
+        "1 (2 pound) beef tongue",
+        "1 teaspoon salt",
+        "2 tablespoons vegetable oil",
+        "1 large onion, thinly sliced",
+        "1 small leek, thinly sliced",
+        "2 stalks celery, thinly sliced",
+        "2 large carrots, shredded",
+        "1 (6 ounce) can tomato paste",
+        "2 (1 ounce) packets taco seasoning mix (such as Goya\u00ae)",
+        "salt and black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lengua (Beef Tongue) Stew",
     "url": "http://allrecipes.com/recipe/172445/lengua-beef-tongue-stew/"
 }

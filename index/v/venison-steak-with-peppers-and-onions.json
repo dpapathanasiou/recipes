@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, stir together the beef broth, sherry, soy sauce, salt and pepper. Season the meat with curing salt and steak seasoning, then place it in the bowl with the marinade. Cover and refrigerate for 2 to 3 hours.",
+        "Heat one tablespoon of oil in a large skillet over medium-high heat. Use tongs or a slotted spoon to transfer the venison to the skillet, reserving the marinade. Cook and stir until browned and cooked through, 3 to 5 minutes, depending on the size of your pieces. Remove to a clean bowl.",
+        "Heat the remaining tablespoon of oil in the same skillet over medium-high heat. Add the onion and bell pepper strips; cook and stir until starting to become tender, 2 to 3 minutes. Remove them from the pan and place them in the bowl with the meat.",
+        "Dissolve the cornstarch in 2 tablespoons of the reserved marinade. Pour the rest of the marinade into the skillet. Bring to a boil, then simmer over medium heat for a minute. Stir in the cornstarch slurry and continue to cook, stirring slowly until thickened, about 1 minute. Return the meat and vegetables to the skillet and stir until coated with the sauce. Transfer to a serving dish."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5845408.jpg",
+    "ingredients": [
+        "2 1/2 tablespoons beef broth",
+        "2 1/2 tablespoons dry sherry",
+        "4 teaspoons soy sauce",
+        "1 teaspoon salt",
+        "1/4 teaspoon ground white pepper",
+        "1 pound lean venison, cut into thin strips",
+        "1 teaspoon sugar-based curing mixture (such as Morton\u00ae Tender Quick\u00ae)",
+        "2 teaspoons steak seasoning",
+        "1 onion, halved and sliced",
+        "3 bell peppers, sliced into thin strips",
+        "2 tablespoons vegetable oil",
+        "1 tablespoon cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Venison Steak with Peppers and Onions",
     "url": "http://allrecipes.com/recipe/152364/venison-steak-with-peppers-and-onions/"
 }

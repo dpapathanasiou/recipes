@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine the oats, flour, brown sugar and butter. Stir until the mixture resembles coarse crumbs. Spread the cranberries into the bottom of one 9x13 inch baking pan. Sprinkle crumb mixture over top.",
+        "Bake at 350 degrees F (175 degrees C) for 25 minutes. Cool and cut into squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6030835.jpg",
+    "ingredients": [
+        "1 (16 ounce) can jellied cranberry sauce",
+        "2\u2009\u2153 cups rolled oats",
+        "\u00be cup all-purpose flour",
+        "1\u2009\u215d cups packed brown sugar",
+        "1 cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Crunch Squares",
     "url": "http://allrecipes.com/recipe/11059/cranberry-crunch-squares/"
 }

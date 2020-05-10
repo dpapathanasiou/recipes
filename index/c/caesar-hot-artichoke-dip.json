@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium mixing bowl, combine Caesar dressing, mayonnaise, sour cream and Parmesan cheese; blend well. Stir in Swiss cheese, artichoke hearts, tomatoes and hot pepper sauce. Pour mixture into an 8x8 inch baking dish.",
+        "Bake 40 to 45 minutes in the preheated oven. Serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F351565.jpg",
+    "ingredients": [
+        "\u2154 cup Caesar-style salad dressing",
+        "\u2153 cup mayonnaise",
+        "\u2153 cup sour cream",
+        "\u2153 cup grated Parmesan cheese",
+        "\u2154 cup shredded Swiss cheese",
+        "1 (14 ounce) can artichoke hearts, drained and chopped",
+        "1 cup chopped tomatoes",
+        "\u00bc teaspoon hot pepper sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caesar Hot Artichoke Dip",
     "url": "http://allrecipes.com/recipe/14853/caesar-hot-artichoke-dip/"
 }

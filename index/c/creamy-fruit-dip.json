@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a mixing bowl or food processor, combine the cream cheese and marshmallow creme . Blend until smooth. Add the vanilla. Continue blending until the mixture is thick and creamy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1292&h=676&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F557084.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (7 ounce) jar marshmallow creme",
+        "3 drops vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Fruit Dip",
     "url": "http://allrecipes.com/recipe/20722/creamy-fruit-dip/"
 }

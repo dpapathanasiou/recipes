@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat a waffle iron according to manufacturer's instructions; spray with cooking spray.",
+        "Mix hash browns, eggs, milk, flour, onion, sriracha sauce, garlic, baking powder, salt, and pepper together in a bowl to make batter.",
+        "Pour 1/4 of the mixture onto the preheated waffle iron; spread to the edges with a spatula. Cook until golden and warmed through, 5 to 7 minutes. Repeat with remaining batter."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3921212.jpg",
+    "ingredients": [
+        "cooking spray",
+        "2 cups frozen shredded hash browns, thawed",
+        "2 eggs, beaten",
+        "1/4 cup milk",
+        "1/4 cup all-purpose flour",
+        "2 tablespoons diced onion, or more to taste",
+        "1 tablespoon sriracha sauce, or to taste",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon baking powder",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kitchen Sink Hash Brown and Egg Waffle",
     "url": "http://allrecipes.com/recipe/255096/kitchen-sink-hash-brown-and-egg-waffl/"
 }

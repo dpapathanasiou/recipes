@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Grease bottom only of 9-inch springform pan. Prepare brownie mix as package directs for chewy brownies. Spread evenly in prepared pan. Bake 35 minutes or until set.",
+        "In large mixing bowl, beat cream cheese until fluffy. Gradually beat in sweetened condensed milk. Add eggs and vanilla; mix well. Stir in chocolate chips. Pour into prepared pan.",
+        "Reduce oven temperature to 300 degrees F. Bake 50 minutes or until set. Cool. Chill thoroughly.  Remove side of springform pan. Garnish as desired. Store leftovers covered in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/988276.jpg",
+    "ingredients": [
+        "1 (19.5 ounce) package Pillsbury\u00ae Classic Traditional Fudge Brownies",
+        "3 (8 ounce) packages cream cheese, softened",
+        "1 (14 ounce) can EAGLE BRAND\u00ae Sweetened Condensed Milk",
+        "3 large eggs",
+        "2 teaspoons vanilla extract",
+        "1/2 cup mini chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brownie Chocolate Chip Cheesecake",
     "url": "http://allrecipes.com/recipe/94068/brownie-chocolate-chip-cheesecake/"
 }

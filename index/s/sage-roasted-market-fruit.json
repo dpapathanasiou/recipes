@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F. Cut 8 (18x18-inch) squares of Reynolds Wrap(R) Aluminum Foil. Divide fruits evenly onto 4 of the squares and add one tablespoon of butter, 1 tablespoon of honey and 3 sage leaves to each. Center fruit on a sheet of foil.",
+        "Place remaining 4 foil squares on top of and around each collection of fruit to form a \"pouch.\" Double fold top and ends to seal packet, leaving room for heat circulation inside. Bake in oven for 20-25 minutes, until fruit is tender. Open packets carefully by cutting fold with a sharp knife, allowing steam to escape; then open foil packet.",
+        "Set oven to broil. Once ready, return fruit, uncovered, to oven and broil for five minutes, until edges of fruit are beginning to caramelize. Remove from oven and allow to cool before serving.",
+        "Serve warm with a dollop of cold creme fraiche, a sprinkle of sea salt, and additional honey to taste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2579540.jpg",
+    "ingredients": [
+        "4 plums, halved and pitted",
+        "4 pears, halved lengthwise and cored (stems removed)",
+        "4 apples, halved lengthwise and cored (stems removed)",
+        "12 fresh sage leaves",
+        "4 tablespoons honey plus additional for drizzling, divided",
+        "4 tablespoons butter, divided",
+        "Sea salt to taste",
+        "Creme fraiche for topping",
+        "Reynolds Wrap\u00ae Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sage-Roasted Market Fruit",
     "url": "http://allrecipes.com/recipe/244906/sage-roasted-market-fruit/"
 }

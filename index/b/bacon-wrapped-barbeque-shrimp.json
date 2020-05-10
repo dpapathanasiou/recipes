@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wrap shrimp with 1/2 slice of bacon, securing with a toothpick. Be sure and use the large shrimp--the cooking time for the shrimp and the bacon is similar. If you use medium-sized shrimp, you might want to precook the bacon a little--over cooked shrimp are tough and rubbery--and a real shame.",
+        "Preheat the oven to 450 degrees F (230 degrees C).",
+        "Line a jelly roll pan with extra heavy duty foil, and place baking rack in the pan. Place the shrimp on the rack, and sprinkle heavily with the barbecue seasoning. Turn and sprinkle second side. Set aside for 15 minutes. The bacon will turn from creamy white to a little opaque, and the seasonings will soak in.",
+        "Bake in the preheated oven until bacon is crisp and shrimp are tender, 10 to 15 minutes. The rack keeps the shrimp from sitting in the draining bacon fat. With a little luck, you won't tear the foil--you can throw that away and only have to scrub the rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1550&h=812&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1344901.jpg",
+    "ingredients": [
+        "16 large shrimp, peeled and deveined",
+        "8 slices bacon",
+        "barbeque seasoning, to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon Wrapped Barbeque Shrimp",
     "url": "http://allrecipes.com/recipe/16647/bacon-wrapped-barbeque-shrimp/"
 }

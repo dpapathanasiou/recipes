@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Lightly oil a 9x13-inch baking pan.",
+        "Combine cake mix, sour cream, eggs, and oil in a bowl. Beat with an electric mixer for 3 minutes. Pour half of the batter into the prepared baking pan.",
+        "Mix brown sugar and cinnamon together in a small bowl. Sprinkle over batter in the pan. Carefully pour the remainder of the batter over the cinnamon-sugar layer.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 45 to 50 minutes.",
+        "Mix confectioners' sugar, milk, and vanilla together in a bowl. Poke holes in the hot cake with a fork and pour sugar mixture over the top of the cake. Let cake cool completely before serving, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2250&h=1178&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4475869.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package yellow cake mix",
+        "1 cup sour cream",
+        "4  eggs",
+        "\u2154 cup vegetable oil",
+        "1 cup brown sugar",
+        "3\u2009\u00bd teaspoons ground cinnamon",
+        "3 cups confectioners' sugar",
+        "\u00be cup milk",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma's Honey Bun Cake",
     "url": "http://allrecipes.com/recipe/257023/grandmas-honey-bun-cake/"
 }

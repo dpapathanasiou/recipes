@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rub bottom and sides of slow cooker with 1/2 of the butter. Toss onions and salt with remaining butter in a bowl.",
+        "Cook onions on Low until browned and sweet, about 10 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6433568.jpg",
+    "ingredients": [
+        "1/4 cup melted butter, divided",
+        "8 onions, thinly sliced",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Caramelized Onions",
     "url": "http://allrecipes.com/recipe/246511/slow-cooker-caramelized-onions/"
 }

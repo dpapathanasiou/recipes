@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Mix salad dressing, brown sugar, and thyme together in a small bowl.",
+        "Mix Brussels sprouts, parsnips, and red onion together in a 13x9-inch baking dish. Drizzle dressing mixture over the vegetables and toss to coat.",
+        "Bake in preheated oven until vegetables are tender, about 40 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2159239.jpg",
+    "ingredients": [
+        "\u2153 cup balsamic vinaigrette salad dressing (such as Kraft\u00ae)",
+        "1 tablespoon brown sugar",
+        "1 tablespoon chopped fresh thyme",
+        "1 pound Brussels sprouts, halved",
+        "1 pound parsnips, peeled",
+        "1 large red onion, thickly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Brussels Sprouts and Parsnips",
     "url": "http://allrecipes.com/recipe/240025/roasted-brussels-sprouts-and-parsnips/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a Collins glass with 1 cup ice and set aside in the freezer.",
+        "Combine gin, cherry-flavored brandy, triple sec, Benedictine, pineapple juice, lime juice, and grenadine in a cocktail shaker. Add 1 cup ice, cover and shake until chilled. Strain into the prepared Collins glass.",
+        "Garnish with slice of pineapple and a cherry."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2034502.jpg",
+    "ingredients": [
+        "1 cup ice",
+        "1 1/2 fluid ounces gin",
+        "1/2 fluid ounce cherry-flavored brandy",
+        "1/4 fluid ounce triple sec",
+        "1/4 fluid ounce Benedictine\u00ae liqueur",
+        "4 fluid ounces pineapple juice",
+        "1/2 fluid ounce lime juice",
+        "1/2 fluid ounce grenadine syrup",
+        "1 cup ice",
+        "1 slice fresh pineapple",
+        "1 maraschino cherry"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Singapore Sling Cocktail",
     "url": "http://allrecipes.com/recipe/221894/singapore-sling-cocktail/"
 }

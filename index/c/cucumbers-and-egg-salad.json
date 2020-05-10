@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in a saucepan and cover completely with cold water. Bring water to a boil. Cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, and cool.",
+        "Peel eggs. Chop into eighths, and transfer to a medium salad bowl.",
+        "Cube cucumbers and pickled cucumbers, and add to eggs. Mix in mayonnaise.  Refrigerate until thoroughly chilled."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/312806.jpg",
+    "ingredients": [
+        "4 eggs",
+        "4 small seedless cucumbers",
+        "4 small dill pickles",
+        "3 tablespoons mayonnaise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumbers And Egg Salad",
     "url": "http://allrecipes.com/recipe/14206/cucumbers-and-egg-salad/"
 }

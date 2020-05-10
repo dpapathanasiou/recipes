@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium high heat. Saute onion until soft, about 2 minutes. Add beef and brown slightly; drain excess fat. Stir in tomato, garlic powder, coriander, oregano, cayenne pepper, salt and pepper and cook until meat is evenly browned, 10 to 15 minutes. Remove from heat and set aside.",
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Remove one pie crust from pan and roll out on a lightly floured surface. Cut pastry into four 6 inch circles; place circles on lined cookie sheet and lightly brush with egg beat. Place 1/4 cup of feta cheese onto each circle and top with some beef mixture, leaving enough room to seal dough 'pockets'.",
+        "Remove second pie crust from pan and roll out on lightly floured surface. Cut pastry into four 6 inch circles, as with first pie crust. Brush one side of each circle with egg beat and place, egg-side-down, on top of prepared pie circles. Pinch crusts together to seal around the edges. Use dough scraps to fill any holes or tears in the pie  'pockets'. Brush tops with egg beat and make a small slit in the top of each pie (to allow steam to escape).",
+        "Bake in the preheated oven for 15 to 25 minutes, or until cooked through and golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F330362.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 small onion, sliced",
+        "1 pound lean ground beef",
+        "1 small tomato, diced",
+        "1 teaspoon garlic powder",
+        "\u00bd teaspoon ground coriander",
+        "1 teaspoon dried oregano",
+        "\u00bc teaspoon cayenne pepper",
+        "salt and pepper to taste",
+        "1  egg, beaten",
+        "1 cup feta cheese",
+        "2 (9 inch) frozen pie crusts, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Feta Pies",
     "url": "http://allrecipes.com/recipe/23884/savory-feta-pies/"
 }

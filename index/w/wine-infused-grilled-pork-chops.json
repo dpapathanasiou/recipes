@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "To make our brine flavor infusion, pour about 2/3 cup cooking wine into a glass. Stir in rosemary and garlic. Microwave on high 1 minute. Cool to room temperature--at least 30 minutes, stirring once or twice. (Or place glass in an ice water bath to chill faster; stir occasionally.)",
+        "Meanwhile, pour remaining Holland House cooking wine into a non-metallic container or bowl that is wide and deep enough to hold the 4 chops. Add sugar, salt and pepper; stir until sugar and salt are dissolved. Stir in the cooled flavor infusion.",
+        "Place pork chops in brine so they are completely submerged. Cover and refrigerate 18 to 24 hours, turning chops at least once.",
+        "Preheat grill to medium-low heat, 325-350 degrees F. Arrange coals to grill chops over indirect heat. Drain chops and discard brine. If desired, rub both sides of chops with ancho chile powder. Grill 10 minutes; turn and grill 4-6 minutes more or until internal temperature is 140 degrees F. Remove, cover with foil and let rest 5 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/997964.jpg",
+    "ingredients": [
+        "2 (16 ounce) bottles Holland House\u00ae Red Cooking Wine",
+        "1 tablespoon chopped fresh rosemary",
+        "3 cloves garlic, minced",
+        "1/3 cup packed brown sugar",
+        "1 1/2 teaspoons table salt*",
+        "1 teaspoon fresh-ground pepper",
+        "4 (8 ounce) center cut pork chops, 3/4 inch thick",
+        "ancho chile powder** (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wine Infused Grilled Pork Chops",
     "url": "http://allrecipes.com/recipe/231917/wine-infused-grilled-pork-chops/"
 }

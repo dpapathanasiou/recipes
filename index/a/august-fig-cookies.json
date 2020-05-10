@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease two baking sheets.",
+        "Mix butter, white sugar, and brown sugar by hand in a bowl. Add egg and vanilla extract; stir to combine. Combine flour, baking powder, cinnamon, and salt together in a separate bowl; stir into sugar mixture.",
+        "Scoop the meat out of figs and reserve 2 tablespoons. Chop figs and scooped middles. Fold chopped figs and walnuts into the cookie dough.",
+        "Drop spoonfuls of batter on the prepared baking sheet. Top each mound with small amounts of reserved fig pulp.",
+        "Bake in the preheated oven until the cookie edges are lightly browned, 12 to 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1530907.jpg",
+    "ingredients": [
+        "\u00bd cup butter, softened",
+        "\u00bd cup white sugar",
+        "\u00bc cup golden brown sugar",
+        "1  egg",
+        "1 teaspoon vanilla extract",
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd teaspoon baking powder",
+        "\u00bc teaspoon ground cinnamon",
+        "\u215b teaspoon salt",
+        "\u00bd cup fresh figs, halved",
+        "\u00bd cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "August Fig Cookies",
     "url": "http://allrecipes.com/recipe/228557/august-fig-cookies/"
 }

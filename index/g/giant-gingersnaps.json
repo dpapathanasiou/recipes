@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Arrange racks in upper and lower thirds of oven. Line 2 baking sheets with parchment paper.",
+        "Whisk together flour, ginger, baking soda, allspice, mustard powder, salt, and pepper in a bowl. Beat together butter, date sugar, and 1/2 cup raw sugar in a separate bowl with an electric mixer at medium speed until light and fluffy, about 3 minutes. Beat in syrup and egg. Reduce mixer speed to low and gradually beat in flour mixture until a soft dough forms. Turn out dough and wrap in plastic wrap; refrigerate 1 hour.",
+        "Cut dough into 14 pieces and roll each into a ball between your hands until smooth. Transfer to prepared baking sheets, spacing at least 3 inches apart. Flatten into 2 1/2-inch rounds (about 1/2 inch thick). Sprinkle with remaining tablespoon raw sugar.",
+        "Bake, switching positions of sheets halfway through baking, until set, 12 to 15 minutes. Let cool 1 minute on baking sheets, then transfer to a wire rack to cool completely, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3962235.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "4 teaspoons ground ginger",
+        "2 teaspoons baking soda",
+        "\u00bd teaspoon ground allspice",
+        "\u00bc teaspoon mustard powder",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon black pepper",
+        "2 sticks butter, at room temperature",
+        "\u00bd cup date, coconut, or brown sugar",
+        "\u00bd cup raw cane sugar",
+        "\u2153 cup date syrup",
+        "1  large egg",
+        "1 tablespoon raw cane sugar, for sprinkling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Giant Gingersnaps",
     "url": "http://allrecipes.com/recipe/255360/giant-gingersnaps/"
 }

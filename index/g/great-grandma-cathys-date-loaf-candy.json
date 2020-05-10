@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir sugar, milk, and butter together in a saucepan; bring to a boil without stirring once the boiling begins. Heat until a small amount of syrup dropped into cold water forms a rigid ball or until the mixture reaches 250 degrees F (120 degrees C), about 20 minutes. Immediately remove saucepan from heat and stir dates, pecans, and vanilla into the milk mixture.",
+        "Thoroughly wet a piece of cheesecloth and lay out onto a flat work surface. Pour the candy mixture into the middle of the cloth and roll the cloth around it to shape into a log.",
+        "Refrigerate until hard, 8 hours to overnight. Remove log from cloth and slice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4515448.jpg",
+    "ingredients": [
+        "2 cups white sugar",
+        "1 cup milk",
+        "1/4 cup butter",
+        "1 cup chopped dates",
+        "1 cup chopped pecans",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Great-Grandma Cathy's Date Loaf Candy",
     "url": "http://allrecipes.com/recipe/238901/great-grandma-cathys-date-loaf-candy/"
 }

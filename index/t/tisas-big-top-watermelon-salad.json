@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine watermelon, feta cheese, red onion, arugula, pine nuts, parsley, and mint in a large mixing bowl.",
+        "Whisk olive oil, lemon juice, salt, and pepper together in a small bowl; drizzle over salad and toss to coat."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2252339.jpg",
+    "ingredients": [
+        "7 cups cubed seeded watermelon",
+        "1 cup crumbled feta cheese",
+        "\u00bd  red onion, thinly sliced",
+        "\u00bd cup arugula",
+        "\u2153 cup pine nuts, toasted",
+        "\u2153 cup chopped fresh parsley",
+        "\u00bc cup chopped fresh mint",
+        "\u00bc cup olive oil",
+        "2 tablespoons fresh lemon juice",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon freshly ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tisa's Big Top Watermelon Salad",
     "url": "http://allrecipes.com/recipe/228228/tisas-big-top-watermelon-salad/"
 }

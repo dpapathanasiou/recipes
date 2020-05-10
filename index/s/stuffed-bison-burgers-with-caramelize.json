@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring pomegranate juice just to boiling over medium-high heat in a small saucepan. Add figs. Remove pan from heat and let stand for 15 minutes. Drain figs; set aside.",
+        "For filling, melt butter over medium-high heat in a large skillet. Cook shallots in hot butter for 3 to 5 minutes or until shallots are tender. Stir in drained figs and honey. Reduce heat to low. Cook, stirring occasionally, for 6 to 8 more minutes or until shallots are golden brown. Stir in thyme. Cool slightly.",
+        "Combine egg, ground bison, bread crumbs, Worcestershire sauce, milk, garlic, salt, and pepper in a large bowl. Shape mixture into 8 patties. Spoon filling evenly onto half of bison patties to 1/2-inch of edges. Top with remaining bison patties; pinch edges to seal.",
+        "For charcoal grill, arrange preheated coals around a drip pan. Test for medium heat above pan. Place bison patties over drip pan on grill rack. Cover and grill for 16 to 22 minutes or until done (160 degrees F), turning once halfway through. (For gas grill, preheat grill. Reduce heat to medium. Adjust for indirect grilling. Grill as above.) Top with cheese. Cover; cook 1 to 2 minutes more or until cheese melts. Serve bison patties open face on French bread slices."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037654.jpg",
+    "ingredients": [
+        "1 cup pomegranate juice or cranberry juice",
+        "1/2 cup chopped dried figs, stems removed",
+        "2 tablespoons butter",
+        "1/2 cup thinly sliced shallots",
+        "1 teaspoon honey",
+        "1 tablespoon chopped fresh thyme",
+        "1 egg, lightly beaten",
+        "2 pounds ground bison",
+        "1/4 cup soft bread crumbs",
+        "2 tablespoons Worcestershire sauce",
+        "2 tablespoons milk",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "4 slices Gruyere cheese",
+        "4 slices toasted French bread"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Bison Burgers with Caramelized Figs and Shallots",
     "url": "http://allrecipes.com/recipe/233874/stuffed-bison-burgers-with-caramelize/"
 }

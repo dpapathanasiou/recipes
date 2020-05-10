@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  In a large saucepan stir together brown sugar, water and 4 tablespoons margarine; bring to a boil over medium heat.",
+        "Meanwhile, cream together white sugar and 1/2 cup margarine in a large bowl, using an electric mixer. In a separate bowl combine flour, baking powder and cinnamon. Blend flour mixture into butter mixture alternately with milk until smooth.",
+        "Pour boiling brown sugar mixture into 9x13 inch baking dish and drop flour mixture by spoonfuls into the liquid mixture.",
+        "Bake 20 to 25 minutes, or until set."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/648162.jpg",
+    "ingredients": [
+        "2 cups brown sugar",
+        "4 cups water",
+        "4 tablespoons margarine",
+        "1 cup white sugar",
+        "1/2 cup margarine",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "2 teaspoons ground cinnamon",
+        "1/2 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Grippin's Brown Pudding",
     "url": "http://allrecipes.com/recipe/19798/grandma-grippins-brown-pudding/"
 }

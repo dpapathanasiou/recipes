@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine milk, peanut butter cup and ice cream. Blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/682862.jpg",
+    "ingredients": [
+        "1/2 cup milk",
+        "1 chocolate covered peanut butter cup, crumbled",
+        "3/4 cup chocolate ice cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Georgia Shake",
     "url": "http://allrecipes.com/recipe/32479/georgia-shake/"
 }

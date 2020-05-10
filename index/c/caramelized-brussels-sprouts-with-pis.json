@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place Brussels sprouts in a steamer basket over boiling water. Cover saucepan and steam 8-10 minutes or until Brussels sprouts are tender yet crisp.",
+        "Melt the butter in a deep skillet, add the onions and 3 tablespoons vinegar; cook until onions brown.",
+        "Add the Brussels sprouts, sugar and remaining vinegar. Saute over medium heat until the Brussels sprouts are lightly caramelized.",
+        "Season with salt and pepper to taste and garnish with pistachios."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/388922.jpg",
+    "ingredients": [
+        "4 pounds Brussels sprouts",
+        "1/2 cup unsalted butter",
+        "4 small red onions, cut into strips",
+        "1/4 cup red wine vinegar",
+        "2 tablespoons white sugar",
+        "salt and pepper to taste",
+        "1/2 cup coarsely chopped pistachios"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caramelized Brussels Sprouts with Pistachios",
     "url": "http://allrecipes.com/recipe/16015/caramelized-brussels-sprouts-with-pis/"
 }

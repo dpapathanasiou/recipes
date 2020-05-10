@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat sesame oil in a saucepan over medium heat. Cook and stir green onions, sesame seeds, garlic, and red pepper flakes in hot oil until fragrant and onions start to soften, 2 to 3 minutes. Stir chicken broth, tamari sauce, vinegar, sugar, and curry powder into onion mixture; bring to a simmer. Whisk in almond butter and stir until thickened, about 5 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 tablespoons sesame oil",
+        "\u00bd cup sliced green onion",
+        "3 tablespoons sesame seeds",
+        "2 cloves garlic, crushed",
+        "\u00bd teaspoon red pepper flakes",
+        "1 cup chicken broth",
+        "\u00bc cup tamari sauce",
+        "3 tablespoons rice wine vinegar",
+        "2 tablespoons white sugar",
+        "1 tablespoon curry powder",
+        "\u00bd cup salted almond butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Faux Peanut Sauce",
     "url": "http://allrecipes.com/recipe/242057/faux-peanut-sauce/"
 }

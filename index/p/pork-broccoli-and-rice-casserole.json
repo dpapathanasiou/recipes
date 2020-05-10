@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Place rice and water in a saucepan over medium-high heat and bring to a boil. Once the water is boiling, reduce heat to low, cover, and simmer for 20 minutes, or until rice is tender.",
+        "In a large bowl, mix together the cubed pork, rice and broccoli. Stir in the cream of celery soup and mayonnaise, then season with pepper and curry powder. Transfer to a 9x13 inch baking dish, and cover with aluminum foil.",
+        "Bake for 45 to 50 minutes in the preheated oven, until evenly heated through. Remove the aluminum foil for the last 5 minutes in the oven."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7893441.jpg",
+    "ingredients": [
+        "2 cups water",
+        "1 cup uncooked white rice",
+        "1\u2009\u00bd pounds leftover roast pork, cubed",
+        "2 (10.75 ounce) cans  condensed cream of celery soup",
+        "\u00bd cup mayonnaise",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon curry powder",
+        "1 (10 ounce) package frozen broccoli, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork, Broccoli and Rice Casserole",
     "url": "http://allrecipes.com/recipe/75475/pork-broccoli-and-rice-casserole/"
 }

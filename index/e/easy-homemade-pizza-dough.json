@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir whole wheat flour, all-purpose flour, yeast, salt, sugar, olive oil, and warm water with a spatula until formed into a sticky ball of dough that pulls away from sides of a large bowl, about 3-4 minutes.",
+        "Cover the bowl with a light cloth or plastic wrap and let rise in a warm place (80 to 95 degrees F (27 to 35 degrees C)) for 18 hours, until doubled in size.",
+        "Preheat the oven to 550 degrees F (280 degrees C). Sprinkle a baking sheet with cornmeal.",
+        "Turn the dough onto a lightly floured surface and sprinkle with more flour. Form the dough into a rectangle, and cut it into four equal parts. Shape each piece into a ball, stretching and tucking the dough to create a smooth surface, adding more flour if needed. Cover the dough balls with a towel and let rest for 15 minutes.",
+        "To shape the dough, sprinkle the surface with flour and lightly pat flat. Use a rolling pin to form a thin disk about 9 inches in diameter.",
+        "Transfer the formed crust to the prepared baking sheet and top as desired. Bake on the bottom rack for 4 minutes, move to the middle rack and bake for 5-6 minutes more minutes, until the bottom is crispy and the top is lightly browned. Move to cooling rack to cool slightly before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3124026.jpg",
+    "ingredients": [
+        "1/4 cup whole wheat flour",
+        "3 cups all-purpose flour",
+        "1/4 teaspoon active dry yeast",
+        "1 1/4 teaspoons salt",
+        "1/4 teaspoon white sugar",
+        "2 tablespoons olive oil",
+        "1 1/2 cups warm water (100 degrees F or 38 degrees C)",
+        "all-purpose flour, for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Homemade Pizza Dough",
     "url": "http://allrecipes.com/recipe/220183/easy-homemade-pizza-dough/"
 }

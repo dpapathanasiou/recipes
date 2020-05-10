@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pull the leaf portions of the collard, mustard, and turnip greens away from the tough stems, and discard the stems. Gently wash the greens in warm water to remove all soil and sand. Partially fill a clean sink with warm water, and stir in 3 tablespoons of salt and 2 cups of chicken broth; allow greens to soak in the mixture for 10 minutes. Scoop up the greens and allow to drain in a colander; discard used chicken broth. Do not rinse the greens.",
+        "Pour the remaining 2 cups of chicken broth into a large pot, and mix in the greens. Stir in vegetable oil, garlic, bacon bits, and sugar, and season with salt and black pepper. Bring to a boil, reduce heat to a simmer, and cook until the greens are tender, stirring occasionally, 45 minutes to 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1125263.jpg",
+    "ingredients": [
+        "2 bunches collard greens",
+        "2 bunches mustard greens",
+        "2 bunches turnip greens",
+        "3 tablespoons salt",
+        "4 cups chicken broth, divided",
+        "\u00bd cup vegetable oil",
+        "4 cloves garlic, sliced",
+        "\u00bd cup cooked real bacon bits",
+        "\u00bd cup white sugar",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Perfect Mixed Greens",
     "url": "http://allrecipes.com/recipe/218507/perfect-mixed-greens/"
 }

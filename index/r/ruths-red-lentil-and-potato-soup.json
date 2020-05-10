@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a large saucepan over medium heat. Stir in the onion and celery. Cook until tender. Mix in the potatoes, carrot, and garlic. Continue to cook and stir about 5 minutes, until the potatoes are well coated with butter. Season the mixture with allspice, cumin, cayenne pepper, cloves, and pepper.",
+        "Pour in the vegetable broth, and mix in the lentils. Add water, increasing the amount as necessary to cover all ingredients. Bring to a boil, reduce heat, and stir in the kale. Cook, stirring occasionally, 35 to 45 minutes, until the lentils are tender. Mix in the cilantro and file powder. Continue cooking about 5 minutes, or to desired thickness."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/968155.jpg",
+    "ingredients": [
+        "2 tablespoons unsalted butter",
+        "1 large sweet onion, chopped",
+        "4 stalks celery, chopped",
+        "4 medium red potatoes, chopped",
+        "1 carrot, chopped",
+        "3 cloves garlic",
+        "1/4 teaspoon ground allspice",
+        "1/4 teaspoon cumin seeds",
+        "1/4 teaspoon cayenne pepper",
+        "1/8 teaspoon ground cloves",
+        "1 dash pepper",
+        "1 quart vegetable broth",
+        "1 1/2 cups dry red lentils",
+        "2 cups water",
+        "1 cup roughly chopped kale",
+        "1/4 cup chopped fresh cilantro",
+        "1 teaspoon file powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ruth's Red Lentil and Potato Soup",
     "url": "http://allrecipes.com/recipe/58444/ruths-red-lentil-and-potato-soup/"
 }

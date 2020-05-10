@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in skillet over medium heat. Add eggs to skillet. Cook, pulling cooked portion to the center.  Add bacon and continue cooking until eggs are firm. Remove from heat.",
+        "To assemble burritos, evenly portion heated beans down center of each tortilla. Top beans with egg mixture, cheese, avocado and cilantro. Fold in opposite sides of each tortilla, and then roll up, burrito-style. Cut diagonally in half and serve with salsa and sour cream"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1029527.jpg",
+    "ingredients": [
+        "3 tablespoons vegetable oil",
+        "1 (14 ounce) package Butterball\u00ae Turkey bacon, cooked and crumbled",
+        "16 large eggs",
+        "8 (10 inch) flour tortillas, warmed",
+        "1 (16 ounce) can seasoned chili beans, warmed",
+        "1 cup shredded Cheddar cheese",
+        "1 large avocado, halved, pitted, peeled, diced",
+        "1 cup chopped cilantro",
+        "2 cups salsa or pica de gallo",
+        "1 cup sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Bacon Breakfast Burrito",
     "url": "http://allrecipes.com/recipe/233486/turkey-bacon-breakfast-burrito/"
 }

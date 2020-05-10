@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Pour the chicken broth into a small roasting pan, and set aside.",
+        "Loosen the skin from the breasts and thighs of the chicken. Stuff the butter pieces evenly underneath the skin of the chicken, and place into the roasting pan. Squeeze the orange halves over the chicken, and stuff the orange halves into the chicken cavity. Tie the legs together with kitchen twine. Sprinkle the chicken with salt and pepper to taste, then rub in the minced garlic. Drizzle the melted butter all over the chicken, then lay the herb sprigs onto the breast and around the legs.",
+        "Cover the dish with aluminum foil, and bake in the preheated oven for 20 minutes. Uncover and baste the chicken with the pan juices. Continue cooking until the chicken is no longer pink, or until a meat thermometer inserted into the thickest part of the thigh reads 165 degrees F (74 degrees C), 1 to 2 hours. Baste the chicken every 10 to 15 minutes after you uncover it. Once cooked, allow the chicken to rest out of the oven for 10 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup chicken broth",
+        "1 (4 pound) whole chicken, rinsed and patted dry",
+        "\u00bd cup butter, cut into 1 tablespoon sized pieces",
+        "2  navel oranges, halved",
+        "salt and pepper to taste",
+        "2 cloves garlic, minced",
+        "\u00bd cup butter, melted",
+        "2 sprigs fresh rosemary",
+        "2 sprigs fresh thyme",
+        "2 sprigs fresh sage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Herb Roasted Chicken",
     "url": "http://allrecipes.com/recipe/167419/orange-herb-roasted-chicken/"
 }

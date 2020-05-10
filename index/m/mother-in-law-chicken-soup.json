@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse chicken and place into a large stockpot. Add broth and water to cover. Put in the onion, celery stalk and carrot. bring to a boil, reduce heat and simmer until the chicken is falling off the bones, about 45 minutes.",
+        "Remove chicken from the broth and set aside to cool. Discard onion, celery and carrot. Add rice and continue to simmer for 20 minutes, until rice is tender. Separate the chicken meat from the bones and skin. Shred and return to the pot. Serve hot with corn bread and salad."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F208378.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken",
+        "2 (14.5 ounce) cans chicken broth",
+        "1  onion, quartered",
+        "1 stalk celery",
+        "1  carrot",
+        "1\u2009\u00bd cups uncooked long-grain rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mother-in-law Chicken Soup",
     "url": "http://allrecipes.com/recipe/23035/mother-in-law-chicken-soup/"
 }

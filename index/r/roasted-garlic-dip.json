@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 300 degrees F (150 degrees C).",
+        "Cut off the top of the head of garlic to expose the cloves, trimming about 1/4 inch off of the top of each clove. You may need to trim individual cloves along the sides of the head. Brush the cut cloves with a small amount of olive oil, then nestle the head into a piece of aluminum foil.",
+        "Bake in the preheated oven until the cloves are tender and nicely browned, about 1 hour. Remove, and allow to cool to room temperature.",
+        "Once cool, squeeze the garlic cloves out of their skins and into a mixing bowl. Mash well with a wire whisk, then add the sour cream, mayonnaise, green onions, vinegar, salt, and pepper. Whisk until evenly blended, then refrigerate 2 to 4 hours to allow the flavors to blend."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7747999.jpg",
+    "ingredients": [
+        "3 heads garlic, unpeeled",
+        "1 tablespoon olive oil",
+        "\u00bd cup sour cream",
+        "\u00bc cup mayonnaise",
+        "1  green onions, chopped",
+        "1 tablespoon red wine vinegar",
+        "\u00bd teaspoon salt",
+        "\u00be tablespoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Garlic Dip",
     "url": "http://allrecipes.com/recipe/173638/roasted-garlic-dip/"
 }

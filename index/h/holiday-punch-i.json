@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large punch bowl, combine cranberry juice cocktail, lemonade, and orange juice. Stir in the maraschino cherries. Refrigerate for 2 hours or more.",
+        "When ready to serve, pour in the ginger ale. Garnish each glass with an orange slice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/548346.jpg",
+    "ingredients": [
+        "4 cups cranberry juice cocktail",
+        "8 cups prepared lemonade",
+        "2 cups orange juice",
+        "1 (4 ounce) jar maraschino cherries",
+        "1 (2 liter) bottle ginger ale",
+        "1 orange, sliced in rounds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Holiday Punch I",
     "url": "http://allrecipes.com/recipe/21234/holiday-punch-i/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small glass, stir together the rum and grenadine syrup. Top with carbonated cola."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2616323.jpg",
+    "ingredients": [
+        "1 (1.5 fluid ounce) jigger light rum",
+        "2 tablespoons grenadine syrup",
+        "3/4 cup cola-flavored carbonated beverage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Midnight Rum",
     "url": "http://allrecipes.com/recipe/149722/midnight-rum/"
 }

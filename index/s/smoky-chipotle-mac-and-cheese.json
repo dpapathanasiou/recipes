@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish.",
+        "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes. Drain.",
+        "Stir soup, evaporated milk, Colby cheese, and chipotle chile into the cooked pasta until well combined. Spoon mixture into the prepared casserole dish.",
+        "Stir together panko bread crumbs and olive oil in a small bowl. Sprinkle bread crumb mixture over the top of casserole.",
+        "Bake in the preheated oven until the top is browned and the casserole is bubbling, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (16 ounce) package elbow macaroni",
+        "1 (11 ounce) can condensed Cheddar cheese soup",
+        "1 (12 ounce) can evaporated milk",
+        "1 pound shredded Colby cheese",
+        "1  chipotle chile in adobo sauce, finely chopped",
+        "\u00bd cup panko bread crumbs",
+        "1 tablespoon olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Smoky Chipotle Mac and Cheese",
     "url": "http://allrecipes.com/recipe/228431/smoky-chipotle-mac-and-cheese/"
 }

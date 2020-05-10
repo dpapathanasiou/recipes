@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line a baking sheet with plastic wrap. Whisk together sour cream and creme de cacao in a small bowl until smooth. Dip the figs into the sour cream mixture, set them on the baking sheet, and dust with cocoa powder. Refrigerate overnight before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 cup sour cream",
+        "2 tablespoons creme de cacao",
+        "12 fresh figs, rinsed and patted dry",
+        "1/2 teaspoon unsweetened cocoa powder, for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Figs Dipped in Creme De Cacao",
     "url": "http://allrecipes.com/recipe/146916/figs-dipped-in-creme-de-cacao/"
 }

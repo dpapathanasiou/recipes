@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F (190 degrees C).",
+        "Spray inside of green, red, and yellow bell pepper halves with cooking spray; place on a baking sheet.",
+        "Bake peppers in the preheated oven until slightly tender, about 10 minutes.",
+        "Heat 1 tablespoon butter and 2 tablespoons oil in a skillet over medium heat; cook and stir 3 green onions and garlic until fragrant, 2 to 3 minutes. Add chicken, black pepper, and cumin; cook until chicken is no longer pink in the center and juices run clear, 4 to 5 minutes. Add orzo and chicken broth; simmer until orzo is cooked through but firm to the bite and broth is absorbed, about 11 minutes. Spoon chicken-orzo mixture into the bell peppers; sprinkle with Parmesan cheese.",
+        "Bake in the preheated oven until cheese is melted, about 7 minutes.",
+        "Heat 1 teaspoon oil and 1 teaspoon butter in skillet; Cook and stir portobello mushrooms and remaining green onion until tender, about 5 minutes. Season with salt and black pepper. Spoon about 2 tablespoons mushroom mixture onto each stuffed bell pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "cooking spray",
+        "1  green bell pepper - halved, seeded, and stem removed",
+        "1  red bell pepper - halved, seeded, and stem removed",
+        "1  yellow bell pepper - halved, seeded, and stem removed",
+        "1 tablespoon butter",
+        "2 tablespoons olive oil",
+        "3  green onions, sliced",
+        "4 cloves garlic, minced",
+        "2  skinless, boneless chicken breast halves, cut into 1/2-inch cubes",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon ground cumin",
+        "1 cup orzo",
+        "1 (16 ounce) can chicken broth",
+        "3 tablespoons Parmesan cheese",
+        "1 teaspoon olive oil",
+        "1 teaspoon butter",
+        "2  portobello mushrooms, thinly sliced",
+        "1  green onion, thinly sliced",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orzo and Chicken Stuffed Peppers",
     "url": "http://allrecipes.com/recipe/223203/orzo-and-chicken-stuffed-peppers/"
 }

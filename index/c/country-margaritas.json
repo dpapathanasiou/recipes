@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large jug or pitcher, mix together the lemonade concentrate, vodka and beer. Stir, and serve over ice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1060810.jpg",
+    "ingredients": [
+        "2 (12 fluid ounce) cans frozen lemonade concentrate",
+        "1 1/2 cups vodka",
+        "2 (12 fluid ounce) cans beer",
+        "ice cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Country Margaritas",
     "url": "http://allrecipes.com/recipe/60672/country-margaritas/"
 }

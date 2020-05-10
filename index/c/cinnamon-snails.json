@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets.",
+        "In a large bowl, cream together the butter or margarine and brown sugar until smooth. Mix in 1 teaspoon of cinnamon, baking powder, egg, and vanilla. Stir in flour by hand using a wooden spoon, as the dough will be stiff.",
+        "Roll out tablespoon sized pieces of dough into 6 inch long ropes. Curl up one end slightly to make the head, then curl the rest of the rope towards the head in a spiral shape to make the snail shell. Place cookies 2 inches apart on the prepared cookie sheets. Brush cookies with egg white. Mix together the remaining cinnamon and superfine sugar in a small cup. Sprinkle this over the snails. Use chocolate chips to make eyes on the heads.",
+        "Bake cookies for 8 minutes in the preheated oven, or until the bottoms are lightly browned. Let cool on the baking sheet for about 5 minutes before removing to wire racks to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F67373.jpg",
+    "ingredients": [
+        "\u00bd cup butter or margarine, softened",
+        "\u00be cup packed brown sugar",
+        "1 teaspoon ground cinnamon",
+        "\u00bc teaspoon baking powder",
+        "1  egg",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 tablespoon superfine sugar",
+        "\u00bd teaspoon cinnamon",
+        "1  egg white, beaten",
+        "3 tablespoons mini chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Snails",
     "url": "http://allrecipes.com/recipe/72099/cinnamon-snails/"
 }

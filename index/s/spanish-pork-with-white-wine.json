@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Chop up the garlic and rub it into the pork; rub in some salt to taste. Heat oil in a large skillet and brown the pork. Add the pepper to taste, wine and stock and bring all to a boil.",
+        "Reduce heat to low, cover skillet and let simmer for 50 to 55 minutes or until internal temperature of pork has reached 145 degrees F (63 degrees C). Cut pork into bite size pieces and serve it in the cooking liquids."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1441&h=754&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F805861.jpg",
+    "ingredients": [
+        "2 cloves crushed garlic",
+        "1\u2009\u00bc pounds boneless loin pork roast",
+        "salt and pepper to taste",
+        "1 tablespoon olive oil",
+        "1\u2009\u00bc cups white wine",
+        "1\u2009\u00bc cups chicken stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spanish Pork with White Wine",
     "url": "http://allrecipes.com/recipe/14790/spanish-pork-with-white-wine/"
 }

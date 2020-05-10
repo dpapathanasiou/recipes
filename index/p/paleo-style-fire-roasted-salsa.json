@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a small bowl with water and submerge chipotle chile pepper in the water until softened and rehydrated, 10 to 15 minutes. Remove chipotle pepper and set aside.",
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a baking sheet with aluminum foil.",
+        "Place tomatoes on the prepared baking sheet, and broil until the skins are charred, 13 to 15 minutes. Flip and char the other side for an additional 5 minutes.",
+        "Combine charred tomatoes, garlic, cilantro, white onion, jalapeno pepper, chipotle pepper, and lime juice in a food processor; puree until evenly blended."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5258696.jpg",
+    "ingredients": [
+        "1  dried chipotle chili pepper",
+        "6  roma tomatoes, halved lengthwise",
+        "1 clove garlic",
+        "\u00bc cup chopped fresh cilantro",
+        "1 small white onion, quartered",
+        "1  jalapeno pepper, seeded and coarsely chopped",
+        "1  lime, juiced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paleo-Style Fire Roasted Salsa",
     "url": "http://allrecipes.com/recipe/228081/paleo-style-fire-roasted-salsa/"
 }

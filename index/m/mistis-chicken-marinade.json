@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the oil, vinegar, molasses, soy sauce, lemon-pepper seasoning, garlic powder, and onion powder in a bowl.",
+        "To use, marinate chicken for at least 8 hours before cooking as desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1569467.jpg",
+    "ingredients": [
+        "2 cups vegetable oil",
+        "3/4 cup distilled white vinegar",
+        "1/4 cup molasses",
+        "2 tablespoons soy sauce",
+        "2 tablespoons lemon-pepper seasoning",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon onion powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Misti's Chicken Marinade",
     "url": "http://allrecipes.com/recipe/141876/mistis-chicken-marinade/"
 }

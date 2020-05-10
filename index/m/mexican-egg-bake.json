@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking pan. Layer tortillas in bottom of pan so that edges overlap.",
+        "In a large bowl, beat together eggs and milk. Stir in cheeses, red pepper and green chiles. Pour egg mixture over tortillas.",
+        "Bake in preheated oven until eggs are set, about 25 to 35 minutes. Meanwhile, heat oil in a skillet or frying pan over medium heat. Add mushrooms and green pepper; saute until tender. Stir in enchilada sauce and heat until  warmed through. Spoon enchilada sauce over baked eggs and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4000&h=2094&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F885483.jpg",
+    "ingredients": [
+        "6 (6 inch) corn tortillas",
+        "12  eggs",
+        "\u00bd cup milk",
+        "1 cup Cheddar cheese",
+        "1 cup Monterey Jack cheese",
+        "\u00bc cup chopped red bell pepper",
+        "1 (4 ounce) can diced green chilies, drained",
+        "1 tablespoon vegetable oil",
+        "1\u2009\u00bc cups sliced fresh mushrooms",
+        "\u00bd  green bell pepper, cut into 1 inch long strips",
+        "1 (10 ounce) can enchilada sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Egg Bake",
     "url": "http://allrecipes.com/recipe/21358/mexican-egg-bake/"
 }

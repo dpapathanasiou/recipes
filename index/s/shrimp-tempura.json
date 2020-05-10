@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, mix rice wine and salt. Place shrimp into the mixture. Cover and marinate in the refrigerator at least 20 minutes.",
+        "Heat oil in deep-fryer or large wok to 375 degrees F (190 degrees C).",
+        "In a medium bowl, mix together all-purpose flour, ice water, cornstarch, egg yolk, salt, white sugar, shortening and baking powder.",
+        "One at a time, dip shrimp into the flour mixture to coat. Carefully place a few shrimp at a time in the hot oil. Deep fry until golden brown on all sides, about 1 1/2 minutes. Use a slotted spoon to remove from oil. Drain on paper towels. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1033510.jpg",
+    "ingredients": [
+        "\u00bd cup rice wine",
+        "\u00bc teaspoon salt",
+        "\u00bd pound fresh shrimp, peeled and deveined",
+        "2 quarts oil for deep frying",
+        "\u00bc cup all-purpose flour",
+        "\u2153 cup ice water",
+        "\u00bc cup cornstarch",
+        "1  egg yolk",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon white sugar",
+        "1 teaspoon shortening",
+        "\u00bd teaspoon baking powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp Tempura",
     "url": "http://allrecipes.com/recipe/26962/shrimp-tempura/"
 }

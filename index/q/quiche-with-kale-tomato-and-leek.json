@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease an 8-inch pie dish.",
+        "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add kale, cover, and steam until tender, 3 to 5 minutes. Remove from heat and place in prepared pie dish; add sliced leek and cherry tomatoes.",
+        "Beat eggs in a bowl; stir in milk and shredded Italian cheese blend, followed by rosemary, sea salt, and ground black pepper.",
+        "Pour the egg mixture into the pie dish. Stir gently until egg mixture and kale mixture are evenly combined.",
+        "Bake quiche in preheated oven until the center has set, about 30 minutes. Remove from oven and top with grated Parmesan. Continue baking until quiche is lightly browned on top, about 20 more minutes. Remove from oven and enjoy!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1120993.jpg",
+    "ingredients": [
+        "1 cup chopped kale",
+        "1 small leek, white and light green parts only, sliced",
+        "4 ounces halved cherry tomatoes",
+        "4 eggs",
+        "1 cup milk",
+        "4 ounces shredded Italian cheese blend",
+        "1 sprig fresh rosemary, finely chopped",
+        "1 pinch sea salt",
+        "1/8 teaspoon ground black pepper",
+        "1 tablespoon grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quiche with Kale, Tomato, and Leek",
     "url": "http://allrecipes.com/recipe/230791/quiche-with-kale-tomato-and-leek/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for high heat and lightly oil grate.",
+        "In a small bowl, mix sage, lemon pepper, dried rosemary, garlic powder and dried thyme. Rub the mixture into pork spareribs.",
+        "Place ribs on the prepared grill. Turning often, slowly cook approximately 2 hours, or to desired doneness."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F211868.jpg",
+    "ingredients": [
+        "1 tablespoon ground sage",
+        "1 tablespoon lemon pepper",
+        "2 teaspoons dried rosemary",
+        "1 teaspoon garlic powder",
+        "1 teaspoon dried thyme",
+        "4 pounds pork spareribs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spareribs with Savory Sage Rub",
     "url": "http://allrecipes.com/recipe/25476/spareribs-with-savory-sage-rub/"
 }

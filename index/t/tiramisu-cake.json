@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut the cake in half lengthwise to make two layers. Combine the coffee and brandy. Sprinkle enough of the coffee mixture over the bottom cake layer to moisten it well, but not soak it.",
+        "Beat together the mascarpone and the confectioners' sugar until fluffy. Spread half the cheese mixture over the  bottom cake layer. Top with remaining cake layer and spread remaining cheese on top. Dust liberally with sifted cocoa. Refrigerate 2 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1497&h=784&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3603714.jpg",
+    "ingredients": [
+        "1 (9 inch) sponge cake",
+        "\u215c cup strong brewed coffee, room temperature",
+        "\u215c cup brandy",
+        "1\u2009\u00bd pounds mascarpone cheese, room temperature",
+        "1\u2009\u00bd cups confectioners' sugar",
+        "3 tablespoons unsweetened cocoa powder, for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tiramisu Cake",
     "url": "http://allrecipes.com/recipe/20337/tiramisu-cake/"
 }

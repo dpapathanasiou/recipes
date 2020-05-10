@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large skillet over medium heat. Add the garlic, and cook until golden brown, about 4 minutes.  Remove garlic with a slotted spoon and transfer to a large saucepan.",
+        "Fry bread slices in the oil until golden on both sides. Remove and set aside. Add tomatoes and chile to the skillet and cook over high heat for several minutes until they begin to soften.",
+        "Pour chicken stock, tomatoes and chiles into the large saucepan with the browned garlic. Bring to a boil over high heat, then reduce heat to medium-low and simmer for 20 minutes. Season to taste with salt.",
+        "To serve, place 2 or 3 toasted baguette slices in each bowl, then ladle the soup over them."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1083798.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "30 cloves garlic, minced",
+        "4 cups chicken broth",
+        "1/2 baguette, cut into 1/4 inch slices",
+        "2 tomatoes, seeded and finely chopped",
+        "1 fresh poblano chile pepper, seeded and minced",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sopa de Ajo Mexicana (Mexican Garlic Soup)",
     "url": "http://allrecipes.com/recipe/139494/sopa-de-ajo-mexicana-mexican-garlic/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add linguine pasta and cook for 8 minutes, or until tender. Drain.",
+        "Meanwhile, in a shallow dish, mix together 1/4 cup flour, black pepper and cayenne pepper. Coat the chicken in the flour mixture, shaking off the excess. Heat the oil in a large skillet over medium heat. Add chicken pieces and cook until browned on the outside and no longer pink inside. Remove to a plate and keep warm.",
+        "Add the bell pepper, onion, garlic and jalapeno pepper to the skillet; cook and stir over medium heat for about 5 minutes. Stir in the chicken broth, Worcestershire sauce and milk. Bring to a simmer. Stir in 1 tablespoon of flour and simmer over medium-low heat until the sauce starts to thicken.",
+        "Remove from the heat and stir in sour cream and Monterey Jack cheese until melted. Return chicken to the pan and stir to coat with sauce. Serve chicken and sauce over pasta."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F56187.jpg",
+    "ingredients": [
+        "\u00bc cup all-purpose flour",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon cayenne pepper",
+        "3  skinless, boneless chicken breast halves - cut into 1 inch pieces",
+        "2 tablespoons olive oil",
+        "1  red bell pepper, seeded and chopped",
+        "1  onion, chopped",
+        "1 clove garlic, minced",
+        "\u00bd  jalapeno pepper, seeded and minced",
+        "\u00be cup chicken broth",
+        "2 teaspoons Worcestershire sauce",
+        "\u00bd cup milk",
+        "1 tablespoon all-purpose flour",
+        "\u00bd cup sour cream",
+        "1 cup shredded Monterey Jack cheese",
+        "1 (12 ounce) package uncooked linguini pasta"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken with Pepper Cheese Sauce",
     "url": "http://allrecipes.com/recipe/95558/chicken-with-pepper-cheese-sauce/"
 }

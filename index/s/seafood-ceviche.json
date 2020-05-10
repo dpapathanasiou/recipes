@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a baking sheet with aluminum foil.",
+        "Put whole tomatoes, whole jalapeno peppers, and onion in a large bowl; drizzle olive oil over the vegetables and stir to coat. Spread vegetables onto the prepared baking sheet.",
+        "Cook under the preheated broiler until the skin of the peppers and tomatoes has blackened and blistered, 5 to 8 minutes. Transfer peppers and tomatoes to a bowl and tightly seal bowl with plastic wrap. Steam peppers as they cool, about 20 minutes. Remove and discard skins and seeds.",
+        "Make an ice bath in a large bowl set in the sink.",
+        "Bring a pot of water to a boil. Lightly blanche shrimp, halibut, and scallops in boiling water for 1 minute; drain and immediately plunge into the ice bath until chilled completely. Drain seafood mixture well and transfer to a large glass bowl.",
+        "Blend roasted tomatoes, roasted jalapeno peppers, roasted onion, lime juice, tomato juice, orange juice, and lemon juice in a blender until smooth; pour over the seafood mixture, cover bowl with plastic wrap, and marinate in refrigerator at least 24 hours.",
+        "Mix green onions, chopped jalapeno peppers, avocados, and diced tomato together in a small bowl; stir into the seafood mixture. Season with salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6595721.jpg",
+    "ingredients": [
+        "3 large tomatoes",
+        "4 jalapeno peppers",
+        "1/2 onion",
+        "2 tablespoons olive oil, or as needed",
+        "1 pound shrimp - peeled, deveined, and chopped",
+        "1 pound halibut, diced",
+        "1/2 pound small bay scallops",
+        "1 cup lime juice",
+        "1 cup tomato juice",
+        "3/4 cup fresh squeezed orange juice (orange halves reserved)",
+        "1/4 cup lemon juice",
+        "Pico de Gallo:",
+        "6 green onions, finely chopped",
+        "3 large fresh jalapeno peppers, seeded and finely chopped",
+        "2 avocados, diced",
+        "1 tomato, diced",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seafood Ceviche",
     "url": "http://allrecipes.com/recipe/237635/seafood-ceviche/"
 }

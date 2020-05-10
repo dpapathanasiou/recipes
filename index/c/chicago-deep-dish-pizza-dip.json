@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F. Prepare sauce as directed on package. Cool slightly.",
+        "Mix ricotta cheese, egg, 1 cup of the mozzarella cheese and Parmesan cheese in large bowl. Spread in 9-inch round cake pan sprayed with no stick cooking spray. Top with prepared Spaghetti Sauce. Sprinkle with remaining 1 cup mozzarella cheese and pepperoni.",
+        "Bake 20 minutes or until heated through. Serve with sliced garlic bread, breadsticks or toasted baguette slices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5404&h=2829&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462834.jpg",
+    "ingredients": [
+        "1 (1.37 ounce) package McCormick\u00ae Thick & Zesty Spaghetti Sauce Mix",
+        "1 cup part-skim ricotta cheese",
+        "1  egg",
+        "2 cups shredded mozzarella cheese, divided",
+        "\u00bd cup grated Parmesan cheese",
+        "\u00bc cup mini pepperoni slices or chopped pepperoni"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicago Deep Dish Pizza Dip",
     "url": "http://allrecipes.com/recipe/256777/chicago-deep-dish-pizza-dip/"
 }

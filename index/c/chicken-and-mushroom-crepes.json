@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon butter and oil in a large skillet over medium heat. Cook and stir chicken until no longer pink in the center, about 5 minutes. Transfer to a plate.",
+        "Melt remaining 1/4 cup butter in the same skillet over medium heat. Add mushrooms and onion; cook and stir until softened, about 5 minutes. Stir in 1/4 cup flour and cook for 2 minutes. Reduce heat to low. Add 2 cups milk, chicken bouillon cubes, salt, and pepper; cook and stir until thickened into a sauce, about 5 minutes. Stir in sour cream and sherry.",
+        "Scoop 1 cup sauce into a bowl; keep warm. Stir chicken and 1 teaspoon parsley into remaining sauce in the skillet. Simmer until chicken is heated through, about 5 minutes.",
+        "Beat 1 cup milk, 3/4 cup flour, egg, 1 tablespoon melted butter, sugar, vanilla extract, and baking powder together in a bowl to make crepe batter.",
+        "Grease a 7-inch skillet lightly; heat over medium heat. Pour 2 tablespoons batter into the skillet, swirling to spread evenly. Cook crepe until golden brown, about 30 seconds per side. Transfer crepe to a plate. Repeat with remaining batter, separating crepes with waxed paper and covering to keep warm.",
+        "Scoop 1/4 cup chicken mixture onto each crepe and roll up. Spoon reserved 1 cup sauce over filled crepes. Garnish with remaining 1 teaspoon parsley."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4502230.jpg",
+    "ingredients": [
+        "5 tablespoons butter, divided",
+        "2 tablespoons canola oil",
+        "3  boneless, skinless chicken breasts, cut into chunks",
+        "1 (8 ounce) package sliced fresh mushrooms",
+        "\u2153 cup finely chopped onion",
+        "\u00bc cup all-purpose flour",
+        "2 cups milk",
+        "2 cubes chicken bouillon",
+        "\u00bc teaspoon salt",
+        "\u215b teaspoon ground black pepper",
+        "\u00bd cup sour cream",
+        "3 tablespoons dry sherry",
+        "2 teaspoons dried parsley, divided",
+        "1 cup milk",
+        "\u00be cup all-purpose flour",
+        "1  egg",
+        "1 tablespoon butter, melted",
+        "1\u2009\u00bd teaspoons white sugar",
+        "\u00bc teaspoon vanilla extract",
+        "\u00bc teaspoon baking powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken and Mushroom Crepes",
     "url": "http://allrecipes.com/recipe/257096/chicken-and-mushroom-crepes/"
 }

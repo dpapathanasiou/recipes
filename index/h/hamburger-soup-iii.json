@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large stock pot brown ground beef and chopped onion.  Drain grease from pot.",
+        "Fill a medium sauce pan with water and bring to a boil.  Add pasta, cook until tender, and drain.",
+        "Add beef broth, tomatoes, frozen peas and carrots, pepper, garlic salt and cooked pasta.  Cook over medium heat for 15 minutes or until peas and carrots are cooked.  Simmer until ready to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F21537.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1  onion, chopped",
+        "3 (14 ounce) cans beef broth",
+        "2 (14.5 ounce) cans stewed tomatoes",
+        "1 (16 ounce) package frozen peas and carrots",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon garlic salt",
+        "1 cup uncooked elbow macaroni"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hamburger Soup III",
     "url": "http://allrecipes.com/recipe/13337/hamburger-soup-iii/"
 }

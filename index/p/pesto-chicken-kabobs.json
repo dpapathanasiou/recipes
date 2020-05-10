@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chicken pieces, pesto, and lemon juice in a gallon-size resealable plastic bag; seal bag and toss to coat evenly. Marinate in the refrigerator for 24 hours.",
+        "Thread chicken, tomatoes, and onion alternately onto skewers. Season with salt and pepper.",
+        "Preheat Panasonic Countertop Induction Oven to Medium-High on the \"Grill\" setting.",
+        "Place the skewers into the grill pan and set the timer for 3 minutes.",
+        "Turn skewers and cook another 3 to 4 minutes or until chicken is cooked through. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Allow to rest for about 5 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3628&h=1899&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4457422.jpg",
+    "ingredients": [
+        "1 pound skinless, boneless chicken breasts, cut into 1-inch pieces",
+        "1 cup pesto",
+        "2 tablespoons fresh lemon juice",
+        "12  cherry tomatoes",
+        "12  red onion chunks",
+        "6  wooden skewers, soaked in water for 20 minutes",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pesto Chicken Kabobs",
     "url": "http://allrecipes.com/recipe/256629/pesto-chicken-kabobs/"
 }

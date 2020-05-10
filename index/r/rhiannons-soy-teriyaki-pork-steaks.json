@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together soy sauce, teriyaki sauce, aji mirin, garlic, and ginger in a large resealable plastic bag. Place pork steaks into marinade, knead several times to coat meat, and squeeze out air. Seal bag and refrigerate for at least 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Remove pork steaks from marinade and discard used marinade. Place pork steaks into a large baking dish and cover dish with aluminum foil.",
+        "Bake in the preheated oven for 30 minutes; uncover dish and bake until juices run clear and an instant-read meat thermometer inserted into the thickest steak reads at least 145 degrees F (65 degrees C), about 10 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1550&h=812&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1579997.jpg",
+    "ingredients": [
+        "1 cup soy sauce",
+        "\u2153 cup teriyaki sauce",
+        "\u00bc cup aji mirin sweet rice cooking wine",
+        "4 cloves garlic, minced",
+        "1 teaspoon ground ginger",
+        "2\u2009\u00bd pounds boneless pork steaks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rhiannon's Soy Teriyaki Pork Steaks",
     "url": "http://allrecipes.com/recipe/229689/rhiannons-soy-teriyaki-pork-steaks/"
 }

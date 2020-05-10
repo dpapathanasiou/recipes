@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour water into a pitcher.",
+        "Mix lemon slices, lime slices, mint leaves, and cucumber together in a bowl; add to water and stir.",
+        "Refrigerate water mixture, stirring 1 time per day, until flavors have infused, 2 to 3 days."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2318370.jpg",
+    "ingredients": [
+        "2 quarts water",
+        "1 lemon sliced, or as desired",
+        "2 limes, sliced, or as desired",
+        "1/2 cup mint leaves",
+        "1/2 cup sliced cucumber, or as desired (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mint Citrus Water",
     "url": "http://allrecipes.com/recipe/242135/mint-citrus-water/"
 }

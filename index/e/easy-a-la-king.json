@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium heat, combine the chicken, milk, soup, water, spinach or broccoli, mushrooms, hot pepper sauce and salt and pepper to taste. Cook, stirring, for about 10 to 15 minutes or until heated through. Serve over cooked egg noodles, if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2997&h=1569&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2311860.jpg",
+    "ingredients": [
+        "3 cups cooked, diced chicken meat",
+        "1 (12 fluid ounce) can evaporated milk",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "\u2154 cup water",
+        "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "2 (4.5 ounce) cans mushrooms, drained",
+        "1 dash hot pepper sauce",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy a la King",
     "url": "http://allrecipes.com/recipe/15175/easy-a-la-king/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend fruit, soy milk, goji berries, and honey together in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3089195.jpg",
+    "ingredients": [
+        "1 cup frozen mixed fruit",
+        "1 cup vanilla soy milk",
+        "2 tablespoons dried goji berries",
+        "1 teaspoon honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mixed Fruit Smoothie with Goji Berries",
     "url": "http://allrecipes.com/recipe/244967/mixed-fruit-smoothie-with-goji-berrie/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook and gently stir cranberries, sugar, and water in a large skillet over medium heat until the mixture begins to bubble. Reduce heat to low and cook until cranberries begin to soften and break down, about 5 minutes. Remove from heat and cool to room temperature.",
+        "Combine pineapple, mango, cilantro, mandarin oranges, onion, and jalapeno together in a bowl; drizzle with orange juice. Stir cooled cranberries and pineapple mixture together. Refrigerate until chilled, at least 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (12 ounce) bag fresh cranberries",
+        "1 cup white sugar",
+        "1/2 cup water",
+        "1 fresh pineapple - peeled, cored, and cut into small chunks",
+        "1 mango - peeled, seeded, and diced",
+        "1 bunch cilantro, chopped",
+        "3 Satsuma mandarin oranges, peeled and segmented",
+        "1 sweet onion, diced",
+        "1 jalapeno pepper, diced",
+        "1/4 cup orange juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kosher Pineapple Cranberry Salsa (Pareve)",
     "url": "http://allrecipes.com/recipe/235547/kosher-pineapple-cranberry-salsa-par/"
 }

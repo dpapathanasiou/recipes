@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes in a large bowl, cover with cold  water, and refrigerate for 30 minutes or so. Drain, pat dry, and season with salt.",
+        "Melt butter in a large skillet over medium heat. Saute bell pepper, poblano pepper, and onion in  butter until soft. Remove from pan, and set aside. Melt remaining 2 tablespoons butter and bacon fat  in pan, and fry the potatoes until crisp and medium brown. Transfer to a plate lined with paper towels.",
+        "Preheat oven to 225 degrees F (110 degrees C).",
+        "Arrange the potatoes in a lightly-buttered, non-stick pan, preferably a deep, slope-sided skillet.  Arrange the onions and peppers over the potatoes, and then spread cheese over the top. In a mixing bowl, beat eggs with water, parsley, and salt and pepper; pour the mixture over the potatoes. Put the skillet in a larger pan with a half inch of water in it.",
+        "Bake in preheated oven until eggs set, about 30 to 40 minutes. Remove the tortilla, let cool, and loosen edges from the pan. Put a serving plate over the skillet, and flip the tortilla over onto the plate. Cut into small pie-shape wedges. Refrigerate until ready to serve; reheat if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3552&h=1860&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1110405.jpg",
+    "ingredients": [
+        "3 tablespoons butter",
+        "1 large red bell pepper, sliced into rings",
+        "1  fresh poblano chile pepper, sliced into rings",
+        "1 large onion, sliced",
+        "2 tablespoons bacon drippings",
+        "6 medium potatoes, peeled and sliced",
+        "8  eggs, lightly beaten",
+        "3 tablespoons water",
+        "2 tablespoons finely chopped fresh parsley",
+        "salt and pepper to taste",
+        "1\u2009\u00bd cups shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tortilla de Patata (Spanish Tortilla)",
     "url": "http://allrecipes.com/recipe/53029/tortilla-de-patata-spanish-tortilla/"
 }

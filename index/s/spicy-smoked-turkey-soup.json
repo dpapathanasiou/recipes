@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a heavy pot over high heat. Add the onion and bell pepper; cook 2 to 3 minutes without stirring until browned. Immediately pour in the chicken stock, and stir to release vegetables from the bottom of the pot. Reduce heat to low. Stir in the garlic, turkey, salsa, vegetable juice, hot pepper sauce, and lime juice. Simmer over medium heat until heated through, about 15 minutes. Season to taste with salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7687860.jpg",
+    "ingredients": [
+        "1 large onion, cut into 1/2-inch-thick slices",
+        "1 green bell pepper, cut into 1/4-inch cubes",
+        "2 cups chicken stock",
+        "1 clove garlic, minced",
+        "2 1/2 cups chopped smoked turkey",
+        "1 cup chunky-style red or green salsa",
+        "3 cups vegetable juice (e.g. V-8)",
+        "1 drop hot pepper sauce, or to taste",
+        "1 tablespoon fresh lime juice",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Smoked Turkey Soup",
     "url": "http://allrecipes.com/recipe/151187/spicy-smoked-turkey-soup/"
 }

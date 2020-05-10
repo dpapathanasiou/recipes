@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 250 degrees F (120 degrees C).",
+        "Cook the popcorn according to manufacturer's directions, pour into a very large bowl, and set aside. Melt butter in a saucepan over medium heat. Stir in the brown sugar, salt, and corn syrup. Bring mixture to a boil, then reduce heat and simmer for 5 minutes, stirring constantly. Take the saucepan off of the heat, and carefully stir in the vanilla extract and baking soda.",
+        "Pour the caramel over the popcorn and stir well. Add the chocolate chips and almonds, then stir until thoroughly mixed. Pour this mixture into two large, deep baking pans and sprinkle with the shredded coconut.",
+        "Bake in preheated oven for 1 hour, stirring every 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/971588.jpg",
+    "ingredients": [
+        "2 (3.5 ounce) packages microwave popcorn",
+        "1/2 cup butter",
+        "1 cup brown sugar",
+        "1 teaspoon salt",
+        "1/4 cup corn syrup",
+        "1 teaspoon vanilla extract",
+        "1/2 teaspoon baking soda",
+        "1 cup chocolate chips",
+        "1 cup sliced almonds",
+        "1/2 cup shredded coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolaty Caramel-Nut Popcorn",
     "url": "http://allrecipes.com/recipe/147094/chocolaty-caramel-nut-popcorn/"
 }

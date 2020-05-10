@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown ground beef in a medium sized pot until it is crumbled and no longer pink. Remove browned beef with a slotted spoon; set aside. Pour off the fat.",
+        "In the same skillet, prepare Knorr\u00ae Fiesta SidesTM- Mexican Rice according to the package directions. Add  browned ground beef and diced red bell pepper. Mix well.",
+        "Divide the mixture among 12 tostada shells. Stack them 2 high making 6 double-decker tostadas. Top with shredded lettuce, tomato, queso fresco, and sour cream."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3531023.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 (5.4 ounce) package Knorr\u00ae Fiesta Sides\u2122 - Mexican Rice",
+        "\u00bd cup red bell pepper, diced",
+        "12  corn tostada shells",
+        "\u00bd head iceberg lettuce, shredded",
+        "2  tomatoes, diced",
+        "1 cup grated queso fresco cheese",
+        "\u00bd cup sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fiesta Tostadas",
     "url": "http://allrecipes.com/recipe/247046/fiesta-tostadas/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Toss the bread cubes with the olive oil to evenly coat.  Sprinkle with salt, and toss again.  Spread the cubed bread evenly over a baking sheet, and bake in the preheated oven until golden brown, about 12 minutes.  Remove from oven and allow to cool completely.",
+        "Toss together the garbanzo beans, tomatoes, peppers, onion, and kalamata olives in a large bowl.  In a separate bowl, whisk together the pesto, balsamic vinegar, rosemary, and pepper.  Toss the tomatoes with the pesto mixture, and let stand at room temperature for 30 minutes to 1 hour.",
+        "To serve, toss the toasted bread cubes and goat cheese with the tomato mixture.  Line a serving platter with a few lettuce leaves.  Shred the remaining lettuce, and mound in the center of the platter.  Spoon the bread mixture over the lettuce, and sprinkle with toasted pine nuts."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/414771.jpg",
+    "ingredients": [
+        "8 ounces country style white bread, cut into 1 inch cubes",
+        "3 tablespoons garlic flavored olive oil",
+        "1/2 teaspoon coarse salt",
+        "1 (15 ounce) can garbanzo beans, rinsed and drained",
+        "2 cups red or yellow teardrop tomatoes, halved",
+        "1/3 cup chopped green bell pepper",
+        "1/3 cup chopped red bell pepper",
+        "1 small red onion, cut into 3/4 inch slices",
+        "10 kalamata olives, pitted and halved",
+        "1/3 cup basil pesto",
+        "1/4 cup balsamic vinegar",
+        "1 tablespoon minced fresh rosemary",
+        "1/4 teaspoon black pepper",
+        "4 ounces crumbled goat cheese",
+        "1 head green or red leaf lettuce",
+        "1/4 cup toasted pine nuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Panzanella Bread Salad",
     "url": "http://allrecipes.com/recipe/109840/italian-panzanella-bread-salad/"
 }

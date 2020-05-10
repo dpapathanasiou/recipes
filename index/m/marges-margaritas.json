@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend lemonade, tequila, ice cubes, triple sec, and lemon juice together in a blender until desired consistency is reached."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1125756.jpg",
+    "ingredients": [
+        "1 (12 ounce) can frozen lemonade concentrate",
+        "12 fluid ounces tequila",
+        "1 cup ice cubes, or as needed",
+        "6 fluid ounces triple sec",
+        "2 teaspoons lemon juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marge's Margaritas",
     "url": "http://allrecipes.com/recipe/237438/marges-margaritas/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk pineapple juice, orange juice, sugar, steak sauce, Worcestershire sauce, and ginger together in a bowl until evenly combined."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4497313.jpg",
+    "ingredients": [
+        "4 cups pineapple juice",
+        "1 cup orange juice",
+        "1/4 cup white sugar",
+        "1/4 cup steak sauce (such as A.1.\u00ae)",
+        "2 tablespoons Worcestershire sauce",
+        "1/2 teaspoon ground ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Citrus Steak Marinade",
     "url": "http://allrecipes.com/recipe/237772/citrus-steak-marinade/"
 }

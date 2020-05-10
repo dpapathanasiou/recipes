@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine cottage cheese, 2 eggs and ground black pepper to taste. Cover and blend until smooth, or beat with an electric mixer until smooth;  Set aside.",
+        "In a large bowl, stir together flour, milk powder, baking powder and 1/2 teaspoon salt.  In a small bowl, beat together 2 eggs, water and oil; combine with flour mixture.",
+        "On a floured surface, knead dough about 10 times or until smooth.  Divide dough in half and roll out each portion to a 1/8 inch thickness. Using a 4 inch round cutter, cut out rounds of dough.",
+        "Place 1 tablespoon of filling in the center of each circle. Moisten the edge and fold over to form a half moon shape; pinch to seal.",
+        "Bring a large pot of  water to a boil. Add half of the dumplings and cook for 8 to 10 minutes or until tender; remove with a slotted spoon and drain. Repeat with remaining dumplings.",
+        "While the dumplings are cooking, prepare the gravy. In a medium saucepan, melt the butter over medium-low heat.  Stir in ham, and cook until ham is light brown.  Add 3 tablespoons flour, 1/2 teaspoon salt, and 1/8 teaspoon ground black pepper. Stir.  Pour in milk all at once, stirring constantly; cook and stir until thick and bubbly.  Serve over the dumplings."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F316913.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups dry cottage cheese",
+        "2  eggs",
+        "\u00bc teaspoon ground black pepper to taste",
+        "3\u2009\u00be cups all-purpose flour",
+        "\u2153 cup nonfat dry milk powder",
+        "\u00be teaspoon baking powder",
+        "\u00bd teaspoon salt",
+        "2  eggs",
+        "\u00be cup water",
+        "4 teaspoons vegetable oil",
+        "3 tablespoons butter",
+        "1 cup cubed ham",
+        "3 tablespoons all-purpose flour",
+        "\u00bd teaspoon salt",
+        "\u215b teaspoon black pepper",
+        "2\u2009\u00bd cups warm milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Verenika",
     "url": "http://allrecipes.com/recipe/17569/verenika/"
 }

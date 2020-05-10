@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cream cheese and peanut butter together thoroughly in a bowl. Stir confectioners' sugar into cream cheese mixture. Fold whipped topping into mixture with a spoon; mix thoroughly, scraping bottom and sides of bowl to incorporate completely. Add chocolate chips, gently stir into the mixture.",
+        "Spoon the filling into the pie crust, heaping more in the center of the pie.",
+        "Refrigerate until firm, 1 to 2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5007374.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "1 cup creamy peanut butter (such as Reese's\u00ae)",
+        "1 cup confectioners' sugar",
+        "1 (8 ounce) container frozen whipped topping (Cool Whip\u00ae), thawed",
+        "\u00be cup miniature semisweet chocolate chips",
+        "1 (9 inch) prepared graham cracker crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Peanut Butter Refrigerator Pie",
     "url": "http://allrecipes.com/recipe/228502/creamy-peanut-butter-refrigerator-pie/"
 }

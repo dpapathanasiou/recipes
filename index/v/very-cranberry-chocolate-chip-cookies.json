@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, mix together the brown sugar, honey, butter and peanut butter until smooth. Stir in the banana and vanilla. Combine the whole wheat flour, oat bran, oats, baking soda, salt and pumpkin pie spice in a separate bowl. Stir the dry ingredients into the wet ingredients until it forms a smooth dough. Mix in the cranberries, chocolate chips and sunflower seeds. Drop by spoonfuls onto an ungreased baking sheet.",
+        "Bake for 10 to 12 minutes in the preheated oven, until cookies are lightly browned at the edges."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F261003.jpg",
+    "ingredients": [
+        "\u00bc cup brown sugar",
+        "\u215b cup honey",
+        "\u215b cup butter",
+        "\u215b cup natural peanut butter",
+        "\u00bd  banana, mashed",
+        "1 teaspoon vanilla extract",
+        "\u215d cup whole wheat flour",
+        "\u215b cup oat bran",
+        "\u00bd cup rolled oats",
+        "\u00bc teaspoon baking soda",
+        "\u215b teaspoon salt",
+        "1 pinch pumpkin pie spice",
+        "\u00bd cup dried cranberries",
+        "\u00bd cup semisweet chocolate chips",
+        "2 tablespoons sunflower seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Very Cranberry Chocolate Chip Cookies",
     "url": "http://allrecipes.com/recipe/93291/very-cranberry-chocolate-chip-cookies/"
 }

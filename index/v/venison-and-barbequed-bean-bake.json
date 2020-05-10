@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place venison roast, ginger ale, chicken broth, 1 teaspoon cumin, pepper, and 1/8 teaspoon red pepper flakes into a slow cooker. Cover and cook on Low until the venison is tender enough to be pulled apart with a fork, about 10 hours. Drain meat, and shred.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place shredded pork into a large mixing bowl and mix with pork and beans, black beans, kidney beans, baked beans, tomatoes, green pepper, and onion. Pour in barbeque sauce, brown sugar, and molasses. Season with 1 teaspoon cumin, 1/8 teaspoon red pepper flakes, chili powder, hot pepper sauce, salt and pepper. Mix until well combined, then pour into a deep 9x13-inch glass baking dish. Place bacon strips in a single layer over top.",
+        "Bake in preheated oven for 30 to 40 minutes until bacon has cooked and begins to crisp."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/576938.jpg",
+    "ingredients": [
+        "1 (2 pound) boneless venison roast",
+        "1 liter ginger ale",
+        "1 (32 ounce) carton chicken broth",
+        "1 teaspoon ground cumin",
+        "1/4 teaspoon black pepper",
+        "1/8 teaspoon crushed red pepper flakes",
+        "1 (15 ounce) can pork and beans",
+        "1 (14 ounce) can black beans, drained and rinsed",
+        "1 (15.5 ounce) can red kidney beans, drained and rinsed",
+        "1 (14 ounce) can baked beans",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 large green bell pepper, coarsely chopped",
+        "1 large Vidalia or other sweet onion, coarsely chopped",
+        "1 (18 ounce) bottle barbeque sauce",
+        "1/3 cup brown sugar",
+        "1/4 cup molasses",
+        "1 teaspoon ground cumin",
+        "1/8 teaspoon crushed red pepper flakes, or to taste",
+        "2 tablespoons chili powder",
+        "Hot pepper sauce, to taste",
+        "Salt and pepper to taste",
+        "5 bacon slices"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Venison and Barbequed Bean Bake",
     "url": "http://allrecipes.com/recipe/129433/venison-and-barbequed-bean-bake/"
 }

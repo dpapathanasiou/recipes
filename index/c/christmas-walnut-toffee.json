@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Butter a 9 inch square baking dish, and set aside. Melt butter in a large saucepan over medium heat. Stir in the sugar and corn syrup until smooth; add the water and stir. Heat to 290 degrees F (145 degrees C) using a candy thermometer.",
+        "When the temperature has been reached, stir in 1 cup of the walnuts, and cook for 3 more minutes, stirring constantly. Pour into the prepared pan, and allow to cool. When the toffee is cooled, remove from the pan, and place onto waxed paper. Melt chocolate chips in a metal bowl over a pan of simmering water, or in the microwave, stirring frequently until smooth.",
+        "Spread half of the melted chocolate onto one side of the toffee slab, and sprinkle with half of the remaining nuts. Allow to cool until set, then repeat with the other side. Break into bite size pieces when set."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4884136.jpg",
+    "ingredients": [
+        "1 cup butter",
+        "1 cup white sugar",
+        "1 tablespoon corn syrup",
+        "3 tablespoons water",
+        "1 1/2 cups chopped walnuts, divided",
+        "1 (6 ounce) package chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Walnut Toffee",
     "url": "http://allrecipes.com/recipe/44730/christmas-walnut-toffee/"
 }

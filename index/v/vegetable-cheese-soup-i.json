@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a slow cooker, combine corn, potatoes, carrots, onion, celery seeds and pepper.  Add broth and cover, cook on low 8 to 10 hours.",
+        "Stir in cheese and cook 30 to 60 minutes or until cheese is melted and blended with vegetables."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7435564.jpg",
+    "ingredients": [
+        "1 (15 ounce) can creamed corn",
+        "1 cup peeled and cubed potatoes",
+        "1 cup chopped carrots",
+        "1/2 onion, chopped",
+        "1 teaspoon celery seed",
+        "1/2 teaspoon ground black pepper",
+        "2 (14.5 ounce) cans vegetable broth",
+        "1 (16 ounce) jar processed cheese sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetable Cheese Soup I",
     "url": "http://allrecipes.com/recipe/13266/vegetable-cheese-soup-i/"
 }

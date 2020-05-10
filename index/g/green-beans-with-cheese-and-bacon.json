@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Lightly grease a 2 1/2-quart baking dish with a lid.",
+        "Place the green beans in a large pan with water to cover; bring to a boil and cook only until the beans are hot and bright green, about 1 minute. Drain. Transfer to a large bowl.",
+        "Cook the bacon in a large, deep skillet over medium-high heat, stirring occasionally, until evenly browned and crisp, about 10 minutes. Pour off all but 1 tablespoon of the drippings. Return to the heat and add the green onions; cook until the onions have softened, about 2 minutes.",
+        "Add the bacon mixture, Cheddar cheese, sour cream, mayonnaise, salt, and pepper to the green beans; stir. Spread the mixture into the prepared baking dish; cover with the lid.",
+        "Bake in the preheated oven until the casserole is bubbling and the beans are tender, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5980621.jpg",
+    "ingredients": [
+        "3 cups trimmed green beans, snapped in half",
+        "3 slices bacon, diced",
+        "6  green onions, chopped",
+        "\u00bd cup shredded sharp Cheddar cheese",
+        "\u00bc cup sour cream",
+        "\u00bc cup mayonnaise",
+        "1 pinch salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Beans with Cheese and Bacon",
     "url": "http://allrecipes.com/recipe/75586/green-beans-with-cheese-and-bacon/"
 }

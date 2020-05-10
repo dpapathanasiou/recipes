@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Slice pork chops into strips, and season with pepper, garlic powder and seasoning salt. Squeeze lime juice over pieces.",
+        "Heat a skillet over medium heat.  Add fat, and cook, stirring until pan is coated.  Remove fat, and put the seasoned meat in the pan. Fry until browned, about 5 minutes.",
+        "At the same time, make the green sauce. Combine the tomatillos, tomato, jalapenos, and dried chilies in a saucepan. Bring to a boil, and cook until soft. Drain excess liquid, and transfer to a blender or food processor along with the garlic and salt. Blend until smooth.",
+        "Pour sauce over the meat in the pan, and simmer for 15 minutes to blend all of the flavors. Taste, and adjust salt and pepper if necessary."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F480834.jpg",
+    "ingredients": [
+        "4  large boneless pork chops, fat trimmed and reserved",
+        "\u00bc teaspoon ground black pepper, or to taste",
+        "\u00bd teaspoon garlic powder, or to taste",
+        "\u00bd teaspoon seasoning salt, or to taste",
+        "1  lime, cut into 4 wedges",
+        "10  tomatillos, husked and cut in half",
+        "1  tomato, quartered",
+        "2  jalapeno peppers, seeded and halved",
+        "3  dried red chile peppers, chopped",
+        "1 clove garlic",
+        "\u00bd teaspoon salt, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carne Con Chilies",
     "url": "http://allrecipes.com/recipe/58427/carne-con-chilies/"
 }

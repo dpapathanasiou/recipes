@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet.",
+        "Combine the powdered hot chocolate, sugar, baking powder, oats, and flour. Mix in the butter or margarine.",
+        "Beat the eggs with the milk. Stir the beaten eggs into the flour mixture and mix until combined.",
+        "Drop tablespoons of dough onto the prepared baking sheet. Let sit for 5 minutes then bake at 350 degrees F (175 degrees C) for 10 to 15 minutes. Let cookies cool on baking sheet for 5 minutes before removing or eating."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F375677.jpg",
+    "ingredients": [
+        "\u2153 cup instant hot cocoa mix",
+        "\u2153 cup white sugar",
+        "2  eggs",
+        "1\u2009\u00bd teaspoons baking powder",
+        "1 cup rolled oats",
+        "1 cup all-purpose flour",
+        "\u2153 cup milk",
+        "2 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Biscuits",
     "url": "http://allrecipes.com/recipe/11255/chocolate-biscuits/"
 }

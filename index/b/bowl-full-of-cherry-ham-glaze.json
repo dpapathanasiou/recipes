@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir cherry preserves, red wine, brown sugar, and allspice together in a saucepan.",
+        "Place over medium heat and bring to a simmer. Reduce heat to low, stirring often, until glaze thickens, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1071810.jpg",
+    "ingredients": [
+        "2 cups cherry preserves",
+        "1/2 cup red wine",
+        "2 tablespoons brown sugar",
+        "2 teaspoons ground allspice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "\"Bowl Full of Cherry\" Ham Glaze",
     "url": "http://allrecipes.com/recipe/220952/bowl-full-of-cherry-ham-glaze/"
 }

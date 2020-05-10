@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine 1 cup sugar, 2 eggs and 1 cup milk.  Add baking powder, 3 1/2 cups flour, and salt.  Then add warmed, melted shortening and almond flavoring.",
+        "Flour a cookie sheet (no grease) and drop cookie batter from a teaspoon onto sheet. Bake for 10-15 minutes.  Cookies will be cake-like.  Be sure to bake them on center rack.",
+        "To Make Frosting:  Mix together confectioners' sugar, 1 tablespoon almond flavoring, water and 2 tablespoons of melted butter.  Stir and frost cooled cookies."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 cup white sugar",
+        "2  eggs",
+        "1 cup milk",
+        "4 tablespoons baking powder",
+        "1 tablespoon almond extract",
+        "1 pinch salt",
+        "\u00bd cup melted shortening",
+        "3\u2009\u00bd cups all-purpose flour",
+        "2 cups confectioners' sugar",
+        "1 tablespoon almond extract",
+        "8 teaspoons water",
+        "2 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Wedding Cakes",
     "url": "http://allrecipes.com/recipe/10430/italian-wedding-cakes/"
 }

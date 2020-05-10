@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sunflower seeds in a bowl and add enough water to cover; soak for 8 hours. Drain.",
+        "Blend sunflower seeds, celery, olive oil, lemon zest, lemon juice, thyme, garlic, black pepper, and sea salt in a food processor or blender until pate is smooth. Spread pate onto collard green leaf."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2189528.jpg",
+    "ingredients": [
+        "2/3 cup raw sunflower seeds",
+        "water to cover",
+        "1 large celery rib",
+        "1/4 cup extra-virgin olive oil",
+        "1 large lemon, zested and juiced",
+        "2 teaspoons dried thyme",
+        "1 large clove garlic, peeled",
+        "1/2 teaspoon ground black pepper",
+        "1/4 teaspoon sea salt",
+        "1 collard green leaf, rib removed, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sunflower Seed Pate in Collard Wrap",
     "url": "http://allrecipes.com/recipe/241788/sunflower-seed-pate-in-collard-wrap/"
 }

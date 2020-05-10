@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, mix the turkey, pineapple, celery, onion, peanuts, and grapes. In a separate bowl, mix the mayonnaise, chutney, lime juice, curry powder, and salt. Gently toss the mayonnaise mixture with the turkey mixture to coat. Refrigerate 20 minutes or until chilled, and serve on plates lined with lettuce."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 cups diced cooked turkey",
+        "1 cup pineapple chunks, drained",
+        "1 cup diced celery",
+        "1/2 cup sliced green onion",
+        "1/4 cup dry-roasted peanuts",
+        "1 cup seedless grapes, halved",
+        "2/3 cup mayonnaise",
+        "2 tablespoons finely chopped chutney",
+        "1 tablespoon lime juice",
+        "1/2 teaspoon curry powder",
+        "1/4 teaspoon salt",
+        "lettuce leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Post Holiday Salad",
     "url": "http://allrecipes.com/recipe/77073/post-holiday-salad/"
 }

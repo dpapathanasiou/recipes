@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet.",
+        "Cream the sugar and margarine together in a mixing bowl. Stir in the eggs, one at a time, beating thoroughly after each. Stir in the vanilla and flour, and mix well. Spread the batter over the prepared baking sheet to form a rectangle. Use a knife to mark off 12 squares. Use a spoon to make a small well in each square. Place  1 tablespoon pie filling in each well.",
+        "Bake in preheated oven until top is light brown, about 25 minutes. Cool on pan, and cut into 12 squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F849567.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups white sugar",
+        "1 cup margarine",
+        "4  eggs",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 (16 ounce) can blueberry pie filling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blubaugh's Blueberry Buckle Shortcake",
     "url": "http://allrecipes.com/recipe/145694/blubaughs-blueberry-buckle-shortcake/"
 }

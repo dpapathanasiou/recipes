@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium skillet combine the vinegar and sugar and bring to a boil, stirring frequently. Add pineapple juice concentrate, monosodium glutamate, ketchup, soy sauce, seasoning salt and garlic powder and bring to a boil. Stir until well blended. Add red food coloring.",
+        "Meanwhile, in a cup mix together water and cornstarch until fully dissolved. While sauce is boiling, add cornstarch mixture slowly, stirring continuously until the mixture thickens slightly. Do not add mixture all at once as the sauce could get too thick. Use only enough cornstarch to thicken to your desired consistency. When desired consistency is reached, voila! The sauce is ready!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/713576.jpg",
+    "ingredients": [
+        "1 cup distilled white vinegar",
+        "1 cup white sugar",
+        "1/2 cup frozen pineapple juice concentrate",
+        "2 teaspoons monosodium glutamate (MSG)",
+        "1/2 cup ketchup",
+        "4 teaspoons soy sauce",
+        "1 teaspoon seasoning salt",
+        "1 teaspoon garlic powder",
+        "3 drops red food coloring",
+        "1/4 cup water",
+        "2 1/2 teaspoons cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Uncle Bill's Sweet and Sour Sauce",
     "url": "http://allrecipes.com/recipe/8984/uncle-bills-sweet-and-sour-sauce/"
 }

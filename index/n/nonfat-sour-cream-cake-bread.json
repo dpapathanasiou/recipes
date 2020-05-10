@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine sour cream, sugar, egg whites, milk, vanilla, salt, and yeast in medium bowl. Mix until smooth.",
+        "Pile the flour in a large flat pan and make a well in the center. Pour the sour cream mixture into the center and draw in the flour until a soft dough is formed. Gradually work in a little flour until the dough is pliant and soft but not sticky. Knead until smooth but add a minimum of flour to keep the dough from sticking.",
+        "Place in a pan and leave to rise until doubled in bulk. Beat down, knead briefly, then place in a lightly sprayed 9 inch bundt cake pan. Leave to rise until doubled in bulk.",
+        "Bake bread in a preheated 425 degrees F (220 degrees C) oven for 25 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C) and bake until golden brown on top. If necessary, cover with foil to keep from darkening. Immediately remove from cake pan and place on rack to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F488860.jpg",
+    "ingredients": [
+        "\u00be cup fat free sour cream",
+        "\u00bd teaspoon salt",
+        "3 tablespoons light brown sugar",
+        "2  egg whites",
+        "\u00bd cup skim milk",
+        "1 tablespoon vanilla extract",
+        "3\u2009\u00bc cups unbleached all-purpose flour",
+        "2\u2009\u00bc teaspoons active dry yeast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nonfat Sour Cream Cake Bread",
     "url": "http://allrecipes.com/recipe/6746/nonfat-sour-cream-cake-bread/"
 }

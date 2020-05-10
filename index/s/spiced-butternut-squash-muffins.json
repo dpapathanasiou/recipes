@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a 12 cup muffin pan.",
+        "In a medium saucepan with enough water to cover, boil squash 20 minutes, or until tender. Remove from heat, drain, and puree in a food processor.",
+        "In a large bowl, whisk together flour, baking powder, white sugar, salt and pumpkin pie spice.",
+        "In a medium bowl, thoroughly mix together milk, egg and butter. Stir in squash. Fold the squash mixture into the flour mixture just until moistened.",
+        "Spoon the batter into the prepared muffin pan, filling cups about 1/2 full. Bake 20 minutes in the preheated oven, or until a toothpick inserted in the center of a muffin comes out clean. Remove from muffin pan and cool on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6389168.jpg",
+    "ingredients": [
+        "\u00bd pound peeled, seeded and cubed butternut squash",
+        "1\u2009\u00bd cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "\u00bd cup white sugar",
+        "\u00bc teaspoon salt",
+        "2 teaspoons pumpkin pie spice",
+        "\u00be cup milk",
+        "1  egg, beaten",
+        "1 tablespoon butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Butternut Squash Muffins",
     "url": "http://allrecipes.com/recipe/33093/spiced-butternut-squash-muffins/"
 }

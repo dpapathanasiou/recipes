@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 200 degrees F (95 degrees C). Line a baking sheet with parchment paper.",
+        "Beat egg whites in a bowl until they form soft peaks; beat cream of tartar and vanilla extract into egg whites. Gradually beat white sugar into mixture until meringue forms stiff peaks. Transfer 1/4 of the meringue mixture into a separate bowl. Beat red food coloring into remaining 3/4 of meringue.",
+        "Transfer colored meringue into a piping bag fitted with a round tip. Pipe 20 Santa hat shaped triangles, about 1 1/2 inch tall and bending over at the tips, onto the parchment paper-lined baking sheet. Sprinkle the hats with red sugar.",
+        "Transfer remaining 1/4 uncolored meringue into a clean piping bag fitted with a round tip. Pipe little white pom-poms onto each hat tip and a small edging of fluffy white trim onto the bottom of each hat.",
+        "Bake meringue cookies in the preheated oven until hard but not browned, about 1 hour and 20 minutes. Turn off oven and let cookies cool inside oven until crisp, 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F932976.jpg",
+    "ingredients": [
+        "2  egg whites at room temperature",
+        "\u00bd teaspoon cream of tartar",
+        "\u00bc teaspoon vanilla extract",
+        "\u00bd cup white sugar",
+        "1 drop red food coloring, or desired amount",
+        "3 tablespoons red colored sugar, or as desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Santa Hats",
     "url": "http://allrecipes.com/recipe/230408/santa-hats/"
 }

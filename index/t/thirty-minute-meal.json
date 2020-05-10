@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot over medium high heat, combine ground beef and onion. Saute for 10 minutes, until beef is browned and onion is tender.",
+        "Add the cabbage, soup, water and salt and pepper to taste. Mix together well and reduce heat to low. Cover and simmer for 20 minutes, until cabbage is at desired tenderness."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F423163.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1  onion, chopped",
+        "1 medium head cabbage, shredded",
+        "1 (10.75 ounce) can condensed tomato soup",
+        "1\u2009\u00be cups water",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Thirty Minute Meal",
     "url": "http://allrecipes.com/recipe/17072/thirty-minute-meal/"
 }

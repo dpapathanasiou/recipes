@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, cream together the butter and sugar. Stir in the corn syrup and egg yolk. Gradually stir in the flour until fully incorporated. Cover and chill for at least 1/2 hour.",
+        "Preheat oven to 325 degrees F (165 degrees C). Lightly grease baking sheets.",
+        "Roll dough into 1 inch balls, dip them in the egg white, then roll them in the nuts. Place cookies on the prepared cookie sheet 2 inches apart. Using your finger, make an indention in the center of each cookie.",
+        "Bake for 20 to 25 minutes in the preheated oven, or until golden. Fill each indention with a small amount of jam while cookies are still warm. Allow cookies to cool on the baking sheets."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4801413.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "\u2153 cup white sugar",
+        "\u2153 cup dark corn syrup",
+        "1  egg, separated",
+        "1\u2009\u00bc cups all-purpose flour",
+        "1 cup finely chopped walnuts",
+        "1 cup any flavor fruit jam"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Jam Cookies",
     "url": "http://allrecipes.com/recipe/15039/swedish-jam-cookies/"
 }

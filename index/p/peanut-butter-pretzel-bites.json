@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line a baking sheet with wax paper. Arrange 24 pretzel crisps face down on the sheet.",
+        "Scoop 1 teaspoon peanut butter on each pretzel crisp. Top with the remaining pretzel crisps face up pressing down lightly to flatten into a \"sandwich.\"",
+        "Melt chips or melts in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each melting, 1 to 3 minutes.",
+        "Use small tongs to dip each \"sandwich\" into the melted candy (or use a fork or spoon to drizzle the coating over it.) Let excess coating drip into the bowl; place dipped sandwiches onto the baking sheet.",
+        "Let stand until the candy sets. You can speed up the process by placing them in the refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3682857.jpg",
+    "ingredients": [
+        "48  Original Snack Factory\u00ae Pretzel Crisps\u00ae",
+        "\u00bd cup peanut butter",
+        "1 (10 ounce) package vanilla candy melts or chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Pretzel Bites",
     "url": "http://allrecipes.com/recipe/247415/peanut-butter-pretzel-bites/"
 }

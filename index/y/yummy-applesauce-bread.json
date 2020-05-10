@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease a 9x5-inch loaf pan.",
+        "Spread pecans in a single layer on a baking sheet.",
+        "Bake pecans in the preheated oven until golden, 5 to 7 minutes. Remove pecans from oven and reduce oven temperature to 350 degrees F (175 degrees C).",
+        "Mix flour, brown sugar, cinnamon, baking soda, baking powder, nutmeg, and salt together in a large bowl. Stir applesauce, water, vegetable oil, and vinegar together in a separate bowl. Stir applesauce mixture into flour mixture until just combined; fold in pecans. Pour batter into the prepared loaf pan.",
+        "Bake in the preheated oven until a toothpick inserted in the center of the bread comes out clean, 50 to 60 minutes. Cool bread in the pan for 10 minutes before transferring to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1945&h=1018&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F964121.jpg",
+    "ingredients": [
+        "\u2154 cup pecans",
+        "2 cups all-purpose flour",
+        "1\u2009\u2153 cups packed brown sugar",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon baking powder",
+        "\u00bd teaspoon nutmeg",
+        "\u00bd teaspoon salt",
+        "1 cup applesauce",
+        "\u00bc cup water",
+        "\u00bc cup vegetable oil",
+        "1\u2009\u00bd tablespoons cider vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yummy Applesauce Bread",
     "url": "http://allrecipes.com/recipe/229773/yummy-applesauce-bread/"
 }

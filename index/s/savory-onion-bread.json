@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (205 degrees C). Grease one 8 inch round or one 8x8 inch square pan.",
+        "Combine flour, baking powder and salt, cut in 2 tablespoons of the butter until mixture is crumbly. Stir in 1/2 cup of the grated cheese. Make a well in the center of the mixture.",
+        "Fry the onion in 1 tablespoon of the butter or margarine until clear and golden. Set aside.",
+        "In a small bowl beat the egg and stir in the milk and the cooked onion. Pour egg mixture into the well in the flour mixture. Stir until just moistened. You will have a soft dough. Pat dough into the prepared pan. Sprinkle remaining 1/2 cup grated cheese over top.",
+        "Bake at 400 degrees F (205 degrees C) for 25 minutes. Serve hot. Makes about 6 servings."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5028.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "1 teaspoon salt",
+        "2 tablespoons margarine",
+        "\u00bd cup shredded sharp Cheddar cheese",
+        "\u00bd cup finely diced onion",
+        "1 tablespoon margarine",
+        "1  egg",
+        "\u00bd cup milk",
+        "\u00bd cup shredded sharp Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Onion Bread",
     "url": "http://allrecipes.com/recipe/6888/savory-onion-bread/"
 }

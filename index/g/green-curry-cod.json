@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "In a saucepan over medium-low heat, mix the coconut cream, curry sauce, dill, salt, and pepper. Cook until heated through.",
+        "Heat the olive oil in a skillet over medium-high heat, and cook the pepper, onion, leek, and garlic about 5 minutes.",
+        "Place the cod in a baking dish. Cover with the vegetables, and top with the coconut cream mixture.",
+        "Bake 30 minutes in the preheated oven, stirring sauce and vegetables occasionally, until fish is easily flaked with a fork."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3839556.jpg",
+    "ingredients": [
+        "1 cup unsweetened coconut cream",
+        "1 (12 ounce) can green curry sauce",
+        "1 teaspoon dried dill weed",
+        "salt and pepper to taste",
+        "1 tablespoon olive oil",
+        "1 medium green bell pepper, thinly sliced",
+        "1 medium red onion, thinly sliced",
+        "1/2 leek, thinly sliced",
+        "3 cloves garlic, diced",
+        "1 pound cod"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Curry Cod",
     "url": "http://allrecipes.com/recipe/72326/green-curry-cod/"
 }

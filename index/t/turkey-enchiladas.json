@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+        "In a small bowl, combine the cheese, onion, and black olives.",
+        "In a small skillet, heat enough oil to lightly coat one tortilla, and cook until soft. Remove and dip in enchilada sauce to coat.",
+        "Add turkey and cheese mixture to center of tortilla, roll and place in the prepared dish. Repeat until bottom layer of pan is covered with enchiladas. Spread enough sauce over bottom layer to cover.",
+        "Repeat process with a second layer; spread remaining sauce on top and sprinkle with remaining cheese mixture. Bake 20 minutes in the preheated oven, or until cheese is melted."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=692&h=362&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F27965.jpg",
+    "ingredients": [
+        "2 cups shredded Cheddar and Monterey cheese blend",
+        "1  onion, chopped",
+        "1 (2 ounce) can sliced black olives",
+        "24 (6 inch) corn tortillas",
+        "1 (19 ounce) can red enchilada sauce",
+        "4 cups cooked turkey, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Enchiladas",
     "url": "http://allrecipes.com/recipe/13837/turkey-enchiladas/"
 }

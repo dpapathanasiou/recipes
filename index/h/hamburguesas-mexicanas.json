@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix ground beef, half the onions, bread crumbs, pepperjack cheese, and eggs in a bowl; form into 12 patties.",
+        "Combine tomatoes, half the remaining onion, cilantro, half the serrano chile pepper, and half the lime juice; mix well to make pico de gallo. Cover and chill in refrigerator.",
+        "Mash avocados, remaining onions, remaining serrano chile pepper, and remaining lime juice together in a bowl to make guacamole. Season with salt and pepper.",
+        "Heat a skillet over medium-high heat; pan-fry burger patties to desired doneness, 3 to 5 minutes per side. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C).",
+        "Assemble each sandwich by placing a burger in each bun; top burger with guacamole, shredded lettuce, and pico de gallo."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1300&h=681&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1018612.jpg",
+    "ingredients": [
+        "3 pounds ground beef",
+        "3  onions, minced, divided",
+        "1\u2009\u00bd cups bread crumbs",
+        "1 pound shredded pepperjack cheese",
+        "4  eggs",
+        "2  tomatoes, chopped and juices strained",
+        "2 bunches cilantro, chopped",
+        "1  serrano chile pepper, minced, divided",
+        "3  limes, juiced, divided",
+        "5  avocados, peeled and pitted",
+        "salt and ground black pepper to taste",
+        "12  hamburger buns",
+        "1 head iceberg lettuce, cored and shredded"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hamburguesas Mexicanas",
     "url": "http://allrecipes.com/recipe/222278/hamburguesas-mexicanas/"
 }

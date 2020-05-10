@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend spinach, soy milk, banana, peanut butter, and cinnamon together in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1365455.jpg",
+    "ingredients": [
+        "3 cups packed fresh spinach",
+        "1 cup chocolate soy milk",
+        "1/2 banana",
+        "1 1/2 tablespoons peanut butter",
+        "1/2 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Spinach Milkshake",
     "url": "http://allrecipes.com/recipe/238956/chocolate-spinach-milkshake/"
 }

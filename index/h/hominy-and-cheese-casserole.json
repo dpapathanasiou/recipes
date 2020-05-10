@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Coat the bottom of a medium skillet with cooking spray and place over medium heat. Add the diced onion and garlic; cook and stir until the onions are soft and translucent. Reduce the heat to medium-low and mix in the green chiles; cook for 1 minute. Stir in the cream cheese until fully melted. Remove the skillet from the heat.",
+        "Place  the Cheddar, hominy, and cream cheese mixture in a 2 quart casserole; stir until well combined.",
+        "Bake in preheated oven for 35 minutes. Cool for 5 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F590332.jpg",
+    "ingredients": [
+        "\u00bd cup diced onion",
+        "2 cloves garlic, minced",
+        "1 (7 ounce) can chopped green chilies",
+        "1 (8 ounce) container fat free cream cheese",
+        "\u00bd cup shredded reduced fat sharp Cheddar cheese",
+        "2 (15.5 ounce) cans white hominy, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hominy and Cheese Casserole",
     "url": "http://allrecipes.com/recipe/142655/hominy-and-cheese-casserole/"
 }

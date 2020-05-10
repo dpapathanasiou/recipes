@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place onions, green bell peppers, and carrots in the pressure cooker; add chicken. Whisk 1 cup orange juice, whiskey, brown sugar, vinegar, red pepper flakes, ginger, and sesame oil together in a bowl; pour over chicken mixture. Stir to combine. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 15 minutes. Allow 10 to 15 minutes for pressure to build. COUNT BOTH IN COOK TIME",
+        "While chicken is cooking, combine water and rice in a microwave-safe casserole dish. Cook on high in microwave until water is absorbed and rice is tender, 15 to 20 minutes. Stir butter into rice; toss well.",
+        "Release pressure from the pressure cooker using the natural-release method according to manufacturer's instructions, 10 to 40 minutes.",
+        "Whisk 1/2 cup orange juice and cornstarch together in a bowl; stir into hot chicken mixture until whiskey sauce is thickened. Serve chicken over the hot buttered rice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1093109.jpg",
+    "ingredients": [
+        "2 onions, chopped",
+        "2 green bell peppers, chopped",
+        "4 carrots, cut into match-stick size pieces",
+        "1 pound skinless, boneless chicken breasts, cut into cubes",
+        "1 cup orange juice",
+        "1 cup whiskey",
+        "1 cup brown sugar",
+        "3/4 cup vinegar",
+        "1 teaspoon red pepper flakes, or more to taste",
+        "2 teaspoons ground ginger",
+        "1 teaspoon Asian (toasted) sesame oil",
+        "2 1/2 cups water",
+        "1 1/4 cups white rice",
+        "1 tablespoon butter, or to taste",
+        "1/2 cup orange juice",
+        "1 tablespoon cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Delirious and Buttered Rice (for Pressure Cooker)",
     "url": "http://allrecipes.com/recipe/228384/chicken-delirious-and-buttered-rice/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat soybean oil in large skillet over medium high heat.",
+        "Add garlic and cook for 2 minutes, stirring occasionally.",
+        "Add shrimp, lemon juice and red pepper flakes.  Cook for 2 to 3 minutes, stirring frequently, until shrimp is pink and cooked through.",
+        "Add carrots, edamame, bell peppers and tomatoes. Cook, stirring frequently, until the carrots are tender.",
+        "Add pasta, salt, pepper, cheese, parsley and lemon zest. Cook, tossing gently, until thoroughly heated.",
+        "Top with Parmesan cheese, if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1114762.jpg",
+    "ingredients": [
+        "3 tablespoons soybean oil (often labeled \"vegetable oil\")",
+        "3 cloves garlic, chopped",
+        "1 pound shrimp (30 to 35 per lb.), peeled and deveined",
+        "1/2 teaspoon red pepper flakes",
+        "1 lemon, juiced and zested",
+        "1 (8 ounce) package farfalle or bow-tie pasta, cooked according to package directions",
+        "1 cup cherry tomatoes, halved",
+        "3/4 cup shelled edamame, thawed",
+        "1 carrot, cut into matchstick-size pieces",
+        "1 red bell pepper, cut into 1-inch squares",
+        "1/4 teaspoon sea salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1 tablespoon Italian parsley, chopped",
+        "2 tablespoons shredded Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Shrimp and Veggie Pasta Fresca",
     "url": "http://allrecipes.com/recipe/237082/easy-shrimp-and-veggie-pasta-fresca/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut roasted red peppers into 16 large pieces. Starting at the edge of a serving platter, place a slice of tomato, a basil leaf, a slice of mozzarella cheese, a piece of roasted pepper, and another basil leaf. Continue in that pattern, forming a spiral from the outside in, until all the ingredients have been arranged; salad should end in the center of the platter. Drizzle the salad with olive oil and sprinkle with black pepper and black olives."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F870628.jpg",
+    "ingredients": [
+        "1 (12 ounce) jar roasted red peppers, drained",
+        "16 slices fresh mozzarella cheese",
+        "16 thick slices ripe slicing tomato",
+        "32 leaves fresh basil",
+        "olive oil",
+        "1 pinch ground black pepper to taste",
+        "1 (4 ounce) can sliced black olives, drained (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simple Caprese Salad",
     "url": "http://allrecipes.com/recipe/228124/simple-caprese-salad/"
 }

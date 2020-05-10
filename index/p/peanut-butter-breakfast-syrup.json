@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir milk, sugar, and peanut butter together in a saucepan over medium heat; bring to a boil while whisking constantly. Cook at a boil for 3 minutes, remove from heat, and stir vanilla extract into the syrup."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1059152.jpg",
+    "ingredients": [
+        "1 cup skim milk",
+        "1 cup white sugar",
+        "1/2 cup natural peanut butter",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Breakfast Syrup",
     "url": "http://allrecipes.com/recipe/232866/peanut-butter-breakfast-syrup/"
 }

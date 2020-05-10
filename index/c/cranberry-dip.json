@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Combine cranberries with sugar in a 2 quart baking dish with a lid, stirring well to coat all the berries. Bake in the preheated oven, covered, for about 30 minutes, until the cranberries pop and release their liquid.",
+        "Remove from oven and stir in the apricot jam and pecans. Refrigerate overnight to blend the flavors. To serve, allow the cream cheese to come to room temperature, and pour dip over the block of cream cheese on a serving dish. Serve with buttery round crackers or small pretzels."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (12 ounce) package fresh cranberries",
+        "1 cup white sugar",
+        "1 cup apricot jam",
+        "1 cup chopped pecans",
+        "1 (8 ounce) package cream cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Dip",
     "url": "http://allrecipes.com/recipe/96279/cranberry-dip/"
 }

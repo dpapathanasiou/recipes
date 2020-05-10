@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large Dutch oven or stew pot over medium-high heat; cook and stir pork cubes with onion until pork is no longer pink inside, about 10 minutes. Drain excess grease.",
+        "Stir cabbage into pork mixture and cover the pot; cook until cabbage is wilted, about 5 minutes. Mix in beans, ketchup, Worcestershire sauce, celery seed, and allspice. Cover pot and simmer until pork and cabbage are tender and the soup has thickened, about 45 minutes. Season to taste with salt and black pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5044388.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "5  boneless quarter-loin pork chops, fat trimmed and chops cut into 1-inch cubes",
+        "1  onion, sliced",
+        "\u00bd head cabbage, coarsely chopped",
+        "1 (15.5 ounce) can Great Northern beans, drained",
+        "\u00bd cup ketchup, or more to taste",
+        "1 tablespoon Worcestershire sauce",
+        "\u00bd teaspoon celery seed",
+        "\u215b teaspoon ground allspice",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork Chop and Cabbage Soup",
     "url": "http://allrecipes.com/recipe/223298/pork-chop-and-cabbage-soup/"
 }

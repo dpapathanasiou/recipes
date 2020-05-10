@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place all ingredients (except cranberries) in the pan of the bread machine in the order recommended by the manufacturer. Select Sweet Bread cycle; press Start.",
+        "If your machine has a Fruit setting, add the cranberries at the signal, or about 5 minutes before the kneading cycle has finished."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F166352.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups water",
+        "\u2153 cup honey",
+        "2 tablespoons butter, softened",
+        "2 cups bread flour",
+        "1\u2009\u00bc cups whole wheat flour",
+        "1\u2009\u00bd teaspoons salt",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bc teaspoon ground cloves",
+        "2 teaspoons active dry yeast",
+        "1 cup sweetened dried cranberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Wheat Bread",
     "url": "http://allrecipes.com/recipe/17718/cranberry-wheat-bread/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool and peel.",
+        "Slice eggs in half, and remove the yolks. Place the yolks into a medium bowl, and mix with the mustard, Italian dressing, mayonnaise, and pepper. Arrange the egg white halves on a plate, and sprinkle with salt. Spoon the yolk mixture into the egg halves, or use a pastry bag and pipe the filling in for a more professional look. Sprinkle with paprika, and refrigerate until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F58974.jpg",
+    "ingredients": [
+        "6  eggs",
+        "1 tablespoon spicy brown mustard",
+        "1 tablespoon Italian salad dressing",
+        "\u00bc cup mayonnaise",
+        "\u00bd teaspoon ground black pepper, or to taste",
+        "\u00bd teaspoon salt, or to taste",
+        "1 pinch paprika, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Italian Deviled Eggs",
     "url": "http://allrecipes.com/recipe/74079/spicy-italian-deviled-eggs/"
 }

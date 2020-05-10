@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 300 degrees F (150 degrees C).",
+        "In a small bowl, mix butter, garlic salt, rosemary, basil, thyme, garlic powder and Parmesan cheese.",
+        "Spread each half of the French bread with equal portions of the butter mixture. Sprinkle with additional Parmesan cheese, if desired.",
+        "Place bread halves, crusts down, on a medium baking sheet. Bake in the preheated oven 10 to 12 minutes, or until the edges are very lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3008&h=1575&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F336276.jpg",
+    "ingredients": [
+        "\u00bd cup butter, melted",
+        "1 teaspoon garlic salt",
+        "\u00bc teaspoon dried rosemary",
+        "\u215b teaspoon dried basil",
+        "\u215b teaspoon dried thyme",
+        "\u215b teaspoon garlic powder",
+        "1 tablespoon grated Parmesan cheese",
+        "1 (1 pound) loaf French bread, halved lengthwise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Parmesan Garlic Bread",
     "url": "http://allrecipes.com/recipe/25529/parmesan-garlic-bread/"
 }

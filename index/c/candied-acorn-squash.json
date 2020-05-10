@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place both halves of the squash cut side up on a microwave-safe plate or dish. Put 2 tablespoons of butter, and 2 tablespoons of brown sugar into the cavity of each half.",
+        "Cook for 8 to 10 minutes in the microwave on full power. Rotate the squash a couple of times to ensure even cooking. When the flesh is soft, scoop out soft flesh with the sugar and butter, and place it in a bowl. Mash it a little to blend the ingredients. Serve in a bowl, or your could even serve it in the shells."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F500646.jpg",
+    "ingredients": [
+        "1  acorn squash, halved and seeded",
+        "\u00bc cup butter, divided",
+        "\u00bc cup packed brown sugar, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Candied Acorn Squash",
     "url": "http://allrecipes.com/recipe/56178/candied-acorn-squash/"
 }

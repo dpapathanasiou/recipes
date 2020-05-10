@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the apples, peaches, and tea to a light boil in a large wok-style pan. Reduce heat to medium-high heat; cook and stir until fruit is soft, about 30 minutes. Drain any excess liquid from the pan. Let fruit mixture cool slightly.",
+        "Stir marjoram, ground ginger, ground allspice into the fruit mixture. Fold currants into the mixture."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "12 small apples - peeled, cored, and sliced",
+        "5 small fresh peaches - peeled, pitted, and sliced",
+        "\u00bd cup brewed hibiscus herbal tea",
+        "1 tablespoon dried marjoram",
+        "\u00bd teaspoon ground ginger",
+        "\u00bd teaspoon ground allspice",
+        "4 cups fresh red currants"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Red Currant and Peach Applesauce",
     "url": "http://allrecipes.com/recipe/229459/red-currant-and-peach-applesauce/"
 }

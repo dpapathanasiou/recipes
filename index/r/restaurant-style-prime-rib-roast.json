@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Remove prime rib from refrigerator and allow the meat to come to room temperature, about 3 hours depending on the size of the roast.",
+        "Preheat oven to 425 degrees F (220 degrees C). Line a roasting pan with aluminum foil.",
+        "Unwrap the roast and place onto roasting pan; blot with paper towels. Sift together flour, pepper, salt, paprika, onion powder, garlic powder, and celery seed into a small bowl. Coat the roast all over with the flour mixture.",
+        "Roast in preheated oven until cooked to your desired degree of doneness; about 4 1/2 hours (20 minutes a pound) for medium-rare. Roast to an internal temperature of 120 degrees F (49 degrees C)  for medium-rare; 130 degrees F (54 degrees C) for medium; or 140 degrees F (60 degrees C) for well done.",
+        "When the roast has finished cooking, take it out of the oven, and cover with aluminum foil. Allow to rest in a warm spot for 30  minutes to 1 hour before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (14 pound) roast-ready prime rib roast (ribs cut off and tied to roast)",
+        "\u00be cup all-purpose flour",
+        "2 teaspoons freshly ground black pepper",
+        "2 teaspoons salt",
+        "2 teaspoons paprika",
+        "1 teaspoon onion powder",
+        "\u00bd teaspoon garlic powder",
+        "\u00bc teaspoon celery seed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Restaurant-Style Prime Rib Roast",
     "url": "http://allrecipes.com/recipe/139890/restaurant-style-prime-rib-roast/"
 }

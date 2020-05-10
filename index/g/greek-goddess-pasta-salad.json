@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the pasta, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 10 minutes. Drain well in a colander set in the sink, rinse with cool water and place in a large bowl.",
+        "Place a steamer insert into a saucepan, and fill with water to just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the broccoli , recover, and steam until just tender, 2 to 6 minutes depending on thickness.  Rinse the broccoli with cold water, finely chop, and add to pasta.",
+        "Stir in the garlic, red onion, artichoke hearts, kalamata olives, roasted red peppers, Roma tomatoes, sun-dried tomatoes, zucchini, cucumber, and yellow pepper and combine well.",
+        "Cut the avocados in half, remove the pit, and remove from the skin with a large spoon.  Cut the avocados into large pieces, place in a small bowl and mash well with a fork.  Slowly whisk in the Greek dressing until well combined.  Pour the Greek-avocado dressing into the pasta salad and gently toss.  Refrigerate for at least one hour before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/429572.jpg",
+    "ingredients": [
+        "1 (12 ounce) package tri-colored rotini pasta",
+        "1 small head broccoli, broken into small florets",
+        "1/2 teaspoon minced garlic",
+        "1 small red onion, diced",
+        "1 (12 ounce) jar marinated artichoke hearts, drained and chopped",
+        "1 (12 ounce) jar pitted kalamata olives, sliced",
+        "1 (8 ounce) jar roasted red bell peppers, drained, cut into strips",
+        "4 Roma tomatoes, diced",
+        "1 (12 ounce) jar oil-packed sun-dried tomatoes, drained, cut into strips",
+        "1 small zucchini, chopped",
+        "1 small cucumber, chopped",
+        "1 small yellow bell pepper, chopped",
+        "2 ripe avocados",
+        "1 (16 ounce) bottle Greek vinaigrette salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Greek Goddess Pasta Salad",
     "url": "http://allrecipes.com/recipe/185158/greek-goddess-pasta-salad/"
 }

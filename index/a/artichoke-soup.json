@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in large saucepan over medium heat. Stir in carrots, celery, onion, and mushrooms. Cook and stir until soft, about 5 minutes. Add flour; cook for 10 minutes, stirring occasionally. Stir in chicken broth, artichoke hearts, bay leaf, salt, pepper, thyme leaves, oregano leaves, sage, and paprika. Reduce heat and simmer for 30 minutes.",
+        "Beat whipping cream in a bowl on medium-high speed until frothy; fold into soup and continue to cook until soup is heated through (do not boil).",
+        "Remove and discard the bay leaf, then pour the soup into a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to puree. Puree in batches until smooth and pour into a clean pot. Alternately, you can use a stick blender and puree the soup right in the cooking pot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1505713.jpg",
+    "ingredients": [
+        "1/4 cup butter",
+        "1/2 cup chopped carrots",
+        "1/2 cup chopped celery",
+        "1/2 cup chopped onion",
+        "1/2 cup sliced fresh mushrooms",
+        "1/4 cup all-purpose flour",
+        "2 cups chicken broth",
+        "3 (14 ounce) cans artichoke hearts, drained and cut into fourths",
+        "1 bay leaf",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "1/4 teaspoon dried thyme leaves",
+        "1/4 teaspoon dried oregano",
+        "1/4 teaspoon dried sage",
+        "1 dash paprika",
+        "1 cup whipping cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Artichoke Soup",
     "url": "http://allrecipes.com/recipe/216938/artichoke-soup/"
 }

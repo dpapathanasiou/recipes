@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chocolate wafer crumbs and melted butter. Press the mixture into the bottom and partially up the sides of a 9-inch springform pan.",
+        "To Make Caramel Sauce: In a saucepan, combine 1/2 cup sugar and 3 tablespoons water. Cook over low heat, stirring constantly, until sugar is completely dissolved. Increase the heat to medium and bring the sugar syrup to a boil; stop stirring at this point. While the syrup is boiling, brush down the sides of the pan from time to time to prevent sugar crystals from forming--use a clean pastry brush dipped in a mug of cold water.",
+        "Continue boiling without stirring until the syrup turns a light amber color. Remove the pan from the heat, and stir in the hot cream. Continue stirring, over low heat if necessary, until all for the caramel is dissolved into the cream.  Stir in 4 tablespoons butter or margarine, and set aside to cool slightly. Pour warm caramel sauce over the crust.  Freeze until firm, about 30 minutes.",
+        "To Make Espresso Fudge Sauce: Combine chocolate, cocoa, 4 tablespoons butter, and espresso in a saucepan.  Stir over low heat until smooth. Add 3/4 cup sugar and corn syrup; increase heat to medium, and stir until the sugar dissolves. Increase heat until the sauce reaches a low boil. Cook without stirring until the mixture thickens, 12 to 15 minutes.  Remove espresso fudge sauce from the heat, and cool to room temperature.  Pour 1 cup of the sauce over the frozen caramel layer, and return the crust to the freezer. Keep remaining sauce just warm enough so that it remains pourable.",
+        "Spread the softened ice cream over the caramel layer. Return pie to the freezer until firm, about 1 hour.  Pour the remaining fudge sauce over the ice cream layer; freeze until firm, about 2 to 3 hours. Wrap a hot wet towel around the springform pan for about 2 minutes, then remove the sides of the pan."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5925165.jpg",
+    "ingredients": [
+        "2 cups chocolate cookie crumbs",
+        "4 tablespoons butter, melted and cooled",
+        "1/2 cup white sugar",
+        "3 tablespoons water",
+        "1/2 cup heavy cream, scalded",
+        "4 tablespoons butter",
+        "4 (1 ounce) squares semisweet chocolate",
+        "1/4 cup unsweetened cocoa powder",
+        "4 tablespoons butter",
+        "3/4 cup brewed espresso",
+        "3/4 cup white sugar",
+        "1/4 cup light corn syrup",
+        "4 cups vanilla ice cream, softened"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mud Pie II",
     "url": "http://allrecipes.com/recipe/12290/mud-pie-ii/"
 }

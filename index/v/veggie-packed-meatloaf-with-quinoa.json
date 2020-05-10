@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 425 degrees F and line a small baking sheet with parchment paper.",
+        "Place onion and garlic in a food processor and pulse until finely chopped. Transfer to a large skillet. Add carrot and celery to the food processor, and pulse until chopped. Add spinach and pulse a few times more. Add to the skillet. Place the skillet over medium heat and cook, stirring until vegetables release liquid. Continue cooking until liquid evaporates and vegetables begin to brown, about 8 minutes; add water a tablespoon at a time, if necessary, to keep vegetables from sticking. Transfer to a large bowl.",
+        "Add egg, ground meat, quinoa, soy sauce and black pepper to the bowl, and mix gently with your hands. Scrape mixture onto the baking sheet and form into a loaf approximately 4 inches wide and 10 inches long; wet your hands if the mixture is very sticky. Spread top of loaf with ketchup or barbecue sauce. Bake until cooked through and browned, about 40 minutes. Cool 5 minutes before slicing."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4222133.jpg",
+    "ingredients": [
+        "1 onion, quartered",
+        "4 cloves garlic, peeled",
+        "1 large carrot, quartered",
+        "1 celery stalk, quartered",
+        "2 1/2 cups baby spinach",
+        "1 egg, lightly beaten",
+        "1 1/2 pounds lean ground meat (turkey or chicken)",
+        "1 1/4 cups quinoa, cooked then cooled",
+        "3 tablespoons low-sodium soy sauce",
+        "1/2 teaspoon ground black pepper",
+        "1/4 cup ketchup or barbecue sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Veggie-Packed Meatloaf with Quinoa",
     "url": "http://allrecipes.com/recipe/256254/veggie-packed-meatloaf-with-quinoa/"
 }

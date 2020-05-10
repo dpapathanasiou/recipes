@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the broiler.",
+        "Slice the French baguettes diagonally into 3/4 inch slices.",
+        "In a medium skillet over medium heat, melt the butter. Combine the onions and garlic in the skillet. Cook and stir until tender. Set aside to cool.",
+        "In a mixing bowl, combine the mozzarella cheese, Parmesan cheese and mayonnaise.",
+        "On a cookie sheet, arrange the French bread slices in a single layer. Spread the onion and garlic mixture on the bread slices. Spread the cheese and mayonnaise mixture over the onion and garlic mixture on the bread slices. Broil about 5 minutes, until the cheese is bubbly and slightly browned. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F12213.jpg",
+    "ingredients": [
+        "2  French baguettes, cut into 3/4 inch diagonal slices",
+        "1 large minced onion",
+        "8 cloves minced garlic",
+        "\u00bc cup butter",
+        "2 cups shredded mozzarella cheese",
+        "\u00bd cup grated Parmesan cheese",
+        "1 cup mayonnaise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheese Onion Garlic Bread",
     "url": "http://allrecipes.com/recipe/20605/cheese-onion-garlic-bread/"
 }

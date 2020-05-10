@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 300 degrees F (150 degrees C). Cover cookies sheet with aluminum foil, shiny side exposed. Lightly grease foil with vegetable oil spray.",
+        "Place 3 pecan halves in a Y shape on the foil. Place 1 caramel candy in the center of each Y. Bake just until caramel is melted, about 9 to 10 minutes.",
+        "Heat shortening and chocolate chips over low heat just until chocolate is melted. Spread over candies and refrigerate for 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/760056.jpg",
+    "ingredients": [
+        "4 ounces pecan halves",
+        "24 individually wrapped caramels, unwrapped",
+        "1 teaspoon shortening",
+        "1 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Turtles\u00ae Candies",
     "url": "http://allrecipes.com/recipe/14996/christmas-turtles-candies/"
 }

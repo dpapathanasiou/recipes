@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chicken, cream of mushroom soup, onion, butter, rosemary, and black pepper in a slow cooker; add enough vegetable broth to cover the ingredients completely.",
+        "Cook on High for 4 1/2 to 5 1/2 hours.",
+        "Arrange torn biscuit dough on top of chicken mixture; continue cooking until dough is cooked through, about 30 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1590982.jpg",
+    "ingredients": [
+        "4 skinless, boneless chicken breast halves",
+        "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "1 onion, minced",
+        "2 tablespoons butter",
+        "2 tablespoons rosemary",
+        "ground black pepper to taste",
+        "1 cup vegetable broth, or as needed",
+        "2 (10 ounce) packages refrigerated biscuit dough, torn into pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Creamy Chicken and Dumplings",
     "url": "http://allrecipes.com/recipe/239305/slow-cooker-creamy-chicken-and-dumpli/"
 }

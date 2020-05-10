@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix eggs, corn syrup, and sugar. Add milk, melted margarine, coconut, and oatmeal. Pour into two 9-inch pie shells.",
+        "Bake in preheated oven until filling is browned and set, about 40 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F876502.jpg",
+    "ingredients": [
+        "4  eggs",
+        "1 cup flaked coconut",
+        "1\u2009\u00bd cups dark corn syrup",
+        "1\u2009\u00bd cups white sugar",
+        "\u00bd cup margarine, melted",
+        "1\u2009\u00be cups rolled oats",
+        "1\u2009\u00be cups evaporated milk",
+        "2  9-inch pie crusts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oatmeal Pie III",
     "url": "http://allrecipes.com/recipe/12453/oatmeal-pie-iii/"
 }

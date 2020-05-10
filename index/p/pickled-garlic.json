@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place garlic cloves in a medium bowl, first cutting the large cloves in half. Mix in the red bell pepper.",
+        "In a large saucepan over medium high heat, place the distilled white vinegar and white sugar. Wrap ground dry mustard and celery seed in a spice bag, and place in the liquid mixture. Bring to a boil. Boil 5 minutes. Stir in garlic and pepper. Continue boiling 5 minutes. Remove from heat and discard spice bag.",
+        "Place garlic and peppers in sterile containers to within 1 inch of the top. Fill with remaining liquid to within 1/4 inch from the top. Seal and store in the refrigerator approximately three weeks before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2571.jpg",
+    "ingredients": [
+        "1/2 pound garlic, peeled",
+        "1 large red bell pepper, chopped",
+        "2 cups distilled white vinegar",
+        "2/3 cup white sugar",
+        "1/2 teaspoon ground dry mustard",
+        "1/2 teaspoon celery seed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pickled Garlic",
     "url": "http://allrecipes.com/recipe/25544/pickled-garlic/"
 }

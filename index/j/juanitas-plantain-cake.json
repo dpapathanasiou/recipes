@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat about 1/2 inch of oil in a large, heavy skillet over medium-high heat; fry plantains until beginning to brown on both sides, 5 to 7 minutes. Transfer to a paper towel-lined plate to cool completely, at least 10 minutes.",
+        "Preheat oven to 300 degrees F (150 degrees C). Heavily grease a 9x13-inch cake pan.",
+        "Beat egg whites in a bowl using an electric mixer until stiff peaks form. Slowly add 1 cup plus 1 tablespoon white sugar; beat on high until completely smooth and thickened. Add vanilla extract and mix well. Add egg yolks, 1 at a time, and beat until completely smooth again.",
+        "Sift flour, baking powder, and salt together in a bowl. Gradually mix flour mixture into egg mixture until batter is just mixed.",
+        "Spread 1/2 of the batter into the bottom of prepared cake pan. Place cooled plantains in an even layer on top of batter; top with enough queso fresco to lightly coat. Add 1 more layer plantain and cover with remaining batter, carefully working out any air bubbles with a spatula.",
+        "Place pan on the middle rack of preheated oven and bake until the center starts to firm up, 40 to 50 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 cup oil for frying, or as needed",
+        "3  ripe plantains - peeled, halved, and each half cut into 3 to 4 pieces",
+        "6  eggs, separated",
+        "1 cup white sugar",
+        "1 tablespoon white sugar",
+        "1 splash vanilla extract, or to taste",
+        "1 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "1 pinch salt",
+        "6 ounces queso fresco, crumbled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Juanita's Plantain Cake",
     "url": "http://allrecipes.com/recipe/256833/juanitas-plantain-cake/"
 }

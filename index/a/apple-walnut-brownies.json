@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch square cake pan.",
+        "Melt butter and chocolate in the top of a double boiler over simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching.",
+        "Beat eggs in a bowl until light and lemon-colored; gradually beat in sugar. Stir chocolate mixture into egg mixture and beat rapidly for 1 minute.",
+        "Whisk flour, baking powder, and salt together in a bowl; add to chocolate mixture and stir to combine. Stir walnuts, apples, and vanilla extract into chocolate mixture until batter is combined. Spoon batter into prepared cake pan.",
+        "Bake brownies in the preheated oven until set, about 40 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2183&h=1143&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3208571.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "2 (1 ounce) squares unsweetened chocolate",
+        "2  eggs, beaten",
+        "1 cup white sugar",
+        "1 cup sifted cake flour",
+        "\u00bc teaspoon baking powder",
+        "\u00bc teaspoon salt",
+        "1 cup chopped walnuts",
+        "1 cup finely chopped apples",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Walnut Brownies",
     "url": "http://allrecipes.com/recipe/238833/apple-walnut-brownies/"
 }

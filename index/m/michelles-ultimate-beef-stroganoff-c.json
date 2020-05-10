@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook egg noodles in boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and transfer to a large dish.",
+        "Season ground beef with salt, pepper, and garlic powder.",
+        "Heat a large skillet over medium heat. Add seasoned beef; cook and stir until browned, 6 to 8 minutes. Add cream of mushroom soup, cream cheese, and milk; cook and stir until cream cheese melts and mixture is saucy, about 6 minutes.",
+        "Pour mixture over noodles. Add carrots; stir until evenly combined."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3778634.jpg",
+    "ingredients": [
+        "1 (16 ounce) package egg noodles",
+        "1 pound ground beef",
+        "1 pinch salt and ground black pepper to taste",
+        "1 pinch garlic powder (optional)",
+        "2 (10.75 ounce) cans cream of mushroom soup",
+        "1 (8 ounce) package cream cheese",
+        "1/2 cup milk, plus more to taste",
+        "1 (11 ounce) can diced carrots"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Michelle's Ultimate Beef Stroganoff Casserole",
     "url": "http://allrecipes.com/recipe/254332/michelles-ultimate-beef-stroganoff-c/"
 }

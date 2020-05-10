@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the carrots in a saucepan with enough water to cover and cook over medium heat until nearly boiling, 7 to 10 minutes. Immediately drain the carrots and set aside to cool.",
+        "Divide the cooled carrots into two 1-quart glass jars. Alternate layers of onion and jalapeno peppers atop the carrots until the jars are full.",
+        "Mix the liquid from the jalapeno peppers and the vinegar in a saucepan; bring the mixture to a rolling boil. Remove from heat and pour the liquid into the jars until full. Seal the jars with lids. Place the jars in the refrigerator until cold, at least 8 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1080&h=565&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3770375.jpg",
+    "ingredients": [
+        "6  carrots, peeled and sliced",
+        "1 (16 ounce) jar sliced jalapeno peppers, with liquid",
+        "2  onions, thinly sliced",
+        "1 cup vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Hot Carrots",
     "url": "http://allrecipes.com/recipe/200765/mexican-hot-carrots/"
 }

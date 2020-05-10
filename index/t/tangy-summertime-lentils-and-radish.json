@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, lentils, and salt in a saucepan. Cover and bring to a boil. Reduce heat; stir in balsamic vinegar and sugar. Cover and continue cooking, stirring occasionally, until lentils are tender, about 20 minutes.",
+        "Transfer lentils to a bowl. Add radishes; toss to combine."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups water",
+        "1 cup dry lentils",
+        "1 pinch salt, or to taste",
+        "1 tablespoon balsamic vinegar",
+        "2 teaspoons white sugar",
+        "\u00bd cup finely chopped radishes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy Summertime Lentils and Radish",
     "url": "http://allrecipes.com/recipe/246634/tangy-summertime-lentils-and-radish/"
 }

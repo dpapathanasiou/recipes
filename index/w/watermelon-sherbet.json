@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the watermelon, sugar, lemon juice, and salt in a large mixing bowl; stir to coat evenly. Cover the bowl with plastic wrap and refrigerator for 30 minutes.",
+        "Blend the mixture in a blender until smooth; return to the bowl.",
+        "Pour the cold water into a saucepan. Sprinkle the gelatin over the cold water; let stand 1 minutes. Place the saucepan over low heat; cook for 2 minutes. Stir the gelatin mixture into the blended watermelon mixture. Add the heavy cream; beat with an electric hand mixer at medium speed until the mixture is fluffy.",
+        "Transfer the mixture into an ice cream maker and freeze according to manufacturer's directions until it reaches \"soft-serve\" consistency. Transfer ice cream to a one- or two-quart lidded plastic container; cover surface with plastic wrap and seal. For best results, ice cream should ripen in the freezer for at least 2 hours or overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1112242.jpg",
+    "ingredients": [
+        "4 cups diced seedless watermelon",
+        "1 cup white sugar",
+        "3 tablespoons lemon juice",
+        "1 dash salt",
+        "1/4 cup cold water",
+        "1 (.25 ounce) envelope unflavored gelatin",
+        "1 cup chilled heavy cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Watermelon Sherbet",
     "url": "http://allrecipes.com/recipe/215568/watermelon-sherbet/"
 }

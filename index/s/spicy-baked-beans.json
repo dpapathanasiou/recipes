@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Cook and stir bacon in a large skillet over medium-high heat to render some fat, 2 to 3 minutes. Stir onion into the rendered fat and cook until the bacon is crisp and the onion is tender, 7 to 10 minutes.",
+        "Stir baked beans, ketchup, brown sugar, Worcestershire sauce, prepared mustard, minced jalapeno pepper, chili powder, and mustard powder together in a large bowl; add bacon mixture and stir. Pour the mixture into a 13x9-inch baking dish.",
+        "Bake in the preheated oven until the liquid has thickened, 45 to 55 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1590485.jpg",
+    "ingredients": [
+        "4 slices bacon, or more to taste, cut into bite-size pieces",
+        "1 small onion, chopped",
+        "2 (28 ounce) cans baked beans",
+        "\u00bd cup ketchup",
+        "\u00bd cup brown sugar",
+        "2 tablespoons Worcestershire sauce",
+        "2 tablespoons prepared yellow mustard",
+        "2 tablespoons minced jalapeno pepper",
+        "1 tablespoon chili powder",
+        "1 tablespoon mustard powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Baked Beans",
     "url": "http://allrecipes.com/recipe/239623/spicy-baked-beans/"
 }

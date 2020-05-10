@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Place chicken in a 9x13 inch baking dish; sprinkle with onion, garlic, seasoning, soy sauce and sweetener.",
+        "Place foil over pan and bake for one hour at 425 degrees F (220 degrees C). It's ready to serve!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3432&h=1797&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2255941.jpg",
+    "ingredients": [
+        "4 (4 ounce) skinless, boneless chicken breast halves",
+        "1\u2009\u00bd tablespoons minced onion",
+        "2 tablespoons crushed garlic",
+        "1\u2009\u00bd teaspoons poultry seasoning",
+        "\u00bc cup soy sauce",
+        "2 teaspoons artificial sweetener"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Low-Cal Chicken",
     "url": "http://allrecipes.com/recipe/8607/low-cal-chicken/"
 }

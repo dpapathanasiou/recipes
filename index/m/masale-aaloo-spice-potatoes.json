@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and cool to room temperature.",
+        "Once the potatoes have cooled, peel and cut into bite-sized cubes. Place into a mixing bowl, and sprinkle with ground cumin, coriander, amchoor, red pepper flakes, and salt. Toss gently to evenly coat the potatoes with the spices.",
+        "Heat the vegetable oil in a large skillet over medium heat. Stir in the whole cumin seeds, and cook until they begin to pop, about 30 seconds. Add the potatoes; cook, stirring occasionally until the potatoes have heated through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F486863.jpg",
+    "ingredients": [
+        "6  whole russet potatoes",
+        "1\u2009\u00bd teaspoons ground cumin",
+        "1\u2009\u00bd teaspoons ground coriander",
+        "1 teaspoon amchoor (dried mango powder)",
+        "\u00bd teaspoon crushed red pepper flakes, or to taste",
+        "1\u2009\u00bc teaspoons salt",
+        "3 tablespoons vegetable oil",
+        "1\u2009\u00bd teaspoons whole cumin seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Masale Aaloo (Spice Potatoes)",
     "url": "http://allrecipes.com/recipe/169587/masale-aaloo-spice-potatoes/"
 }

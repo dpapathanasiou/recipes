@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken into a large pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until chicken is no longer pink in the center, about 30 minutes. Transfer chicken to a work surface to cool; shred.",
+        "Heat canola oil in a large pot over medium heat; cook and stir onion, Anaheim pepper, jalapeno pepper, and garlic until slightly softened and fragrant, about 8 minutes. Add shredded chicken, chicken stock, tomatoes, tomato sauce, mango, lime juice, lime zest, cilantro, chili powder, cumin, sea salt, black pepper, sugar, and cinnamon; bring to a boil. Reduce heat to low and simmer until chicken filling is reduced, at least 45 minutes.",
+        "Fill corn tortillas with chicken filling."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2466396.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "2 teaspoons canola oil",
+        "1 large white onion, chopped",
+        "1 large Anaheim pepper, diced",
+        "1  jalapeno pepper, diced",
+        "2 tablespoons minced garlic",
+        "1 cup chicken stock",
+        "1 (8 ounce) can peeled whole plum tomatoes",
+        "1 (5 ounce) can tomato sauce",
+        "\u00bc cup diced mango",
+        "1 large lime, zested and juiced",
+        "2 tablespoons chopped fresh cilantro",
+        "1 tablespoon Pasilla chili powder",
+        "1 tablespoon ground cumin",
+        "2 teaspoons sea salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon white sugar",
+        "\u00bd teaspoon ground cinnamon",
+        "16  corn tortillas"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango-Lime Shredded Chicken Tacos",
     "url": "http://allrecipes.com/recipe/244276/mango-lime-shredded-chicken-tacos/"
 }

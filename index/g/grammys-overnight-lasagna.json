@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook the ground beef in a large saucepan over medium-high heat until browned and no longer pink, about 5 minutes; drain fat.  Stir in the marinara sauce, water, and salt. Bring to a boil.  Remove sauce from heat.",
+        "Arrange 6 noodles in a 9x13-inch baking dish, breaking if necessary to fit.  Spoon 1/2 of the sauce over noodles.  Top with 1/2 of the cottage cheese and 1/2 of the mozzarella cheese.  Repeat layers with remaining noodles, sauce, cottage cheese, and mozzarella cheese. Top with Parmesan cheese. Cover tightly with foil; refrigerate overnight.",
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Bake lasagna, covered, until noodles are soft, cheese is melted, and sauce is bubbly, about 1 hour.  Allow to sit for 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1624784.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground beef",
+        "1 (30 ounce) jar marinara sauce",
+        "\u00be cup water",
+        "1 teaspoon salt",
+        "12  lasagna noodles",
+        "1 (16 ounce) package cottage cheese",
+        "12 ounces grated mozzarella cheese",
+        "\u00bd cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grammy's Overnight Lasagna",
     "url": "http://allrecipes.com/recipe/214369/grammys-overnight-lasagna/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Transfer beef to slow cooker.",
+        "Stir kidney beans, diced tomatoes, stewed tomatoes, green bell pepper, green chile peppers, chili powder, garlic, sea salt, and black pepper into the ground beef.",
+        "Cook on Low 5 1/2 to 7 1/2 hours. Stir corn into the chili and continue cooking 30 minutes more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1920&h=1005&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1092856.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 (15 ounce) can kidney beans, rinsed and drained",
+        "1 (14.5 ounce) can diced tomatoes",
+        "2 (14.5 ounce) cans Mexican-style stewed tomatoes",
+        "1  green bell pepper, chopped",
+        "1 (4 ounce) can diced green chile peppers",
+        "2 tablespoons chili powder",
+        "2 cloves garlic, minced",
+        "1 teaspoon sea salt",
+        "ground black pepper to taste",
+        "1 (8 ounce) can whole kernel corn (no salt added), drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Busy Day Slow Cooker Chili",
     "url": "http://allrecipes.com/recipe/233048/busy-day-slow-cooker-chili/"
 }

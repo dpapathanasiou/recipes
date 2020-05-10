@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In bowl, stir together baking mix, milk, sugar, egg and 2 tablespoons melted butter. Pour 2/3 of the batter into an 8x8-inch baking dish coated with non-stick cooking spray. Cover with MUSSELMAN'S Apple Butter. Drop remaining batter by spoonfuls on cake.",
+        "Combine last four ingredients and sprinkle on top. Bake at 350 degrees F for 1 hour until cake tester inserted in center of cake comes out clean."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/988996.jpg",
+    "ingredients": [
+        "2 cups MUSSELMAN'S\u00ae Apple Butter",
+        "2 1/4 cups baking mix (like Bisquick\u00ae)",
+        "3/4 cup milk",
+        "1/2 cup sugar",
+        "1 large egg",
+        "2 tablespoons butter, melted",
+        "1/3 cup sweetened flaked coconut",
+        "1/3 cup pecans, chopped",
+        "1/3 cup sugar",
+        "2 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Awesome Apple Butter Breakfast Cake",
     "url": "http://allrecipes.com/recipe/219284/awesome-apple-butter-breakfast-cake/"
 }

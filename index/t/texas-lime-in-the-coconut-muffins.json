@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease 10 Texas-size muffin cups or line with paper muffin liners.",
+        "Whisk sugar, coconut oil, and grapeseed oil together in a bowl. Add eggs and lime zest; whisk until smooth.",
+        "Whisk whole wheat flour, all-purpose flour, flaked coconut, flaxseed, baking powder, and salt together in a bowl. Stir milk and lime juice together in another bowl.",
+        "Whisk milk mixture into sugar mixture. Gently fold flour mixture into sugar mixture until batter is just combined. Spoon batter into prepared muffin cups.",
+        "Bake in the preheated oven until lightly browned and a toothpick inserted in the center comes out clean, about 40 minutes. Transfer muffins to wire racks to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2992&h=1566&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1226918.jpg",
+    "ingredients": [
+        "1\u2009\u2153 cups raw sugar",
+        "\u00be cup virgin coconut oil",
+        "\u00bc cup grapeseed oil",
+        "4  eggs",
+        "4  limes, zested",
+        "1\u2009\u00bd cups whole wheat flour",
+        "1\u2009\u2153 cups all-purpose flour",
+        "\u00be cup flaked coconut",
+        "2 tablespoons ground flaxseed",
+        "1 tablespoon baking powder",
+        "\u00bd teaspoon salt",
+        "1 cup milk",
+        "\u00bc cup fresh lime juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Texas Lime in the Coconut Muffins",
     "url": "http://allrecipes.com/recipe/235286/texas-lime-in-the-coconut-muffins/"
 }

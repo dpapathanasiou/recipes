@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place half of the bratwurst in the bottom of a 5 quart slow cooker. Arrange half of the green pepper, red pepper, and onion over them. Layer the remaining bratwurst over the top, and top with the remaining red and green bell peppers and onion. Throw in the garlic and bay leaves. In a separate bowl, mix together HALF of the  honey mustard sauce, liquid smoke and beer. Pour into the slow cooker. Add more beer if necessary to cover everything in the pot. Cover, and cook on Low for 4 to 5 hours.",
+        "Preheat an outdoor grill for high heat, and lightly oil grate. Remove bratwurst from the slow cooker, but leave onions and peppers inside. Place bratwurst on the grill and baste with some of the remaining honey mustard sauce. Turn occasionally until slightly charred.",
+        "Place bratwurst on rolls, and use tongs to pull out a few of the onions and peppers from the slow cooker and drape them over the sausage. The onions and peppers are very tasty so don't forget this part!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/803514.jpg",
+    "ingredients": [
+        "10 fresh bratwurst sausages",
+        "1 green bell pepper, sliced into long strips",
+        "1 red bell pepper, sliced into long strips",
+        "1 large sweet onion, sliced into rings and separated",
+        "2 cloves garlic, sliced",
+        "2 bay leaves",
+        "1 teaspoon liquid smoke flavoring",
+        "2 cups honey mustard barbecue sauce",
+        "1 (12 fluid ounce) can beer, or as needed",
+        "10 hoagie rolls, split lengthwise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Mustard Beer Brats",
     "url": "http://allrecipes.com/recipe/64538/honey-mustard-beer-brats/"
 }

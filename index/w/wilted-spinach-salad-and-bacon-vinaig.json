@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels, reserving about 1 tablespoon bacon drippings in the skillet. Crumble bacon.",
+        "Heat reserved bacon drippings over medium heat; cook and stir onion in hot bacon drippings until slightly tender, 5 to 10 minutes.",
+        "Combine vegetable oil, sugar, vinegar, ketchup, Worcestershire sauce, and salt together in a saucepan; bring to a boil. Reduce heat and simmer until sugar and salt are dissolved, about 5 minutes. Add bacon and onion and simmer over low heat until dressing is blended, 3 minutes.",
+        "Mix spinach, mushrooms, and eggs together in a large bowl. Pour dressing over spinach mixture; toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1112073.jpg",
+    "ingredients": [
+        "1 (12 ounce) package bacon",
+        "1 onion, diced",
+        "1 cup vegetable oil",
+        "1 cup white sugar",
+        "1/2 cup white vinegar",
+        "1/2 cup ketchup",
+        "1 tablespoon Worcestershire sauce",
+        "2 teaspoons salt",
+        "1 pound fresh spinach",
+        "1 (12 ounce) package sliced fresh mushrooms",
+        "3 hard-boiled eggs, peeled and diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wilted Spinach Salad and Bacon Vinaigrette",
     "url": "http://allrecipes.com/recipe/236818/wilted-spinach-salad-and-bacon-vinaig/"
 }

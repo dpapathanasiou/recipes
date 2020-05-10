@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the broth and water to a boil in a large pot, and mix in chicken, onion, and carrots. Season with lemon pepper, oregano, and garlic salt. Reduce heat to low, and simmer 25 minutes, or until chicken juices run clear.",
+        "Stir the broccoli into the pot, and cook 10 minutes. Stir in the tortellini, and continue cooking 10 minutes, or until tortellini is al dente. Mix in the Paremsan cheese just before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F507187.jpg",
+    "ingredients": [
+        "1 (48 fluid ounce) can chicken broth",
+        "3 cups water",
+        "2  frozen skinless, boneless chicken breast halves - diced",
+        "1 small onion, diced",
+        "1 cup thinly sliced carrots",
+        "1 teaspoon lemon pepper",
+        "1 teaspoon dried oregano",
+        "1 dash garlic salt",
+        "2 cups fresh broccoli florets",
+        "1 (9 ounce) package frozen cheese tortellini",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "California Chicken Soup",
     "url": "http://allrecipes.com/recipe/87216/california-chicken-soup/"
 }

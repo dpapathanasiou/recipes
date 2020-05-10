@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, olive oil, honey, and salt in a bread machine. Mix the oat flour, all-purpose flour, gluten flour, and ground macadamia nuts in a large bowl until well blended. Sprinkle the flour mixture on top of the water mixture in the bread machine, making sure to cover the water. Make two indentations in the flour mixture, and spoon 1 tablespoon of yeast into each indentation.",
+        "Select the Express Bake setting on the bread machine for a 2-pound loaf of bread; press start."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1396&h=731&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970207.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups warm water (115 degrees F/46 degrees C)",
+        "2 tablespoons olive oil",
+        "2\u2009\u00bd tablespoons honey",
+        "1 teaspoon salt",
+        "1\u2009\u00bd cups oat flour",
+        "3 cups all-purpose flour",
+        "4 teaspoons vital wheat gluten flour",
+        "4 ounces macadamia nuts, ground",
+        "2 tablespoons fast-rising yeast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Macadamia Oat Bread",
     "url": "http://allrecipes.com/recipe/216944/honey-macadamia-oat-bread/"
 }

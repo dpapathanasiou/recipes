@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 475 degrees F (245 degrees C).",
+        "Place eggs in mixing bowl. Add milk, grated Parmigiano-Reggiano cheese, flour, lemon zest, salt, black pepper, and cayenne pepper. Whisk together until completely combined.",
+        "Heat 2 teaspoons olive oil in cast-iron skillet over medium heat. Add bacon and cook until fat is rendered out and bacon begins to crisp up. Add asparagus and raise heat to high. Cook and stir about 1 minute.",
+        "Pour batter into pan in a circular motion.",
+        "Bake in preheated oven until browned and puffed, 12 to 13 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3699605.jpg",
+    "ingredients": [
+        "3 large eggs",
+        "2/3 cup milk",
+        "1/2 cup finely grated Parmigiano-Reggiano cheese (not packed)",
+        "1/2 cup packed all-purpose flour",
+        "1 teaspoon lemon zest",
+        "3/4 teaspoon kosher salt",
+        "Freshly ground black pepper to taste",
+        "1 pinch cayenne pepper",
+        "1 tablespoon olive oil",
+        "6 strips bacon, cut into 1/2-inch pieces",
+        "1 cup trimmed fresh asparagus, cut into 1/4-inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Bacon and Asparagus Dutch Baby",
     "url": "http://allrecipes.com/recipe/254281/chef-johns-bacon-and-asparagus-dutch/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir mangoes, pineapple, tomatoes, onion, cilantro, red bell pepper, jalapeno peppers, and lime juice together in a bowl. Season with hot sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5215464.jpg",
+    "ingredients": [
+        "3  mangoes - peeled, seeded, and diced",
+        "\u00bd  fresh pineapple, diced",
+        "3  roma (plum) tomatoes, diced",
+        "1  sweet onion (such as Vidalia\u00ae), diced",
+        "1 bunch fresh cilantro, chopped",
+        "\u00bd  red bell pepper, diced",
+        "2  jalapeno peppers, seeded and diced",
+        "1  lime, juiced",
+        "1 dash green hot sauce, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Angie's Mango Pineapple Salsa",
     "url": "http://allrecipes.com/recipe/238151/angies-mango-pineapple-salsa/"
 }

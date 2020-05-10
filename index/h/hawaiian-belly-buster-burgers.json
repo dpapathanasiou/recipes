@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together the ground beef, garlic, onions, Monterey Jack cheese, and the barbecue sauce. Form ground beef mixture into 8 patties.",
+        "Wrap a slice of uncooked bacon around each patty, covering as much of the patty as possible. Place patties on a large platter, cover with plastic wrap, and refrigerate for 45 minutes.",
+        "Preheat an outdoor grill for medium heat and lightly oil grate.",
+        "Grill burgers on one side for 5 to 7 minutes, turn, and top each with a slice of Cheddar cheese. Butter the kaiser rolls, if desired. During the final few minutes of cooking, place the kaiser rolls split side down on the grill along with the pineapple slices.",
+        "To assemble your burger, place some French-fried onions on the bottom half of the roll, then a slice of pineapple and a burger; top with the other half of the roll."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1366&h=715&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F96451.jpg",
+    "ingredients": [
+        "3 pounds ground beef",
+        "2 cloves garlic, minced",
+        "1  yellow onion, minced",
+        "\u00bd cup shredded Monterey Jack cheese",
+        "1\u2009\u00bc cups barbeque sauce",
+        "8 slices bacon",
+        "1 pound Cheddar cheese, sliced",
+        "\u00bc cup butter",
+        "8  Kaiser rolls, split",
+        "8  pineapple slices",
+        "1 (6 ounce) can French-fried onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hawaiian Belly Buster Burgers",
     "url": "http://allrecipes.com/recipe/142489/hawaiian-belly-buster-burgers/"
 }

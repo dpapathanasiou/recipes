@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat, and lightly oil grate.",
+        "Place the lamb, egg, ginger, garlic, garam masala, and cilantro into a mixing bowl; mix well. Form the mixture into 4 patties. Cook on the preheated grill to your desired degree of doneness, about 3 minutes per side for medium-well. Serve on toasted hamburger buns."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/204442.jpg",
+    "ingredients": [
+        "1 pound ground lamb",
+        "1 tablespoon egg",
+        "1/2 teaspoon ginger paste",
+        "1/2 teaspoon garlic paste",
+        "2 teaspoons garam masala",
+        "1 teaspoon dried cilantro",
+        "4 hamburger buns, split and toasted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Burgers Ever",
     "url": "http://allrecipes.com/recipe/79028/best-burgers-ever/"
 }

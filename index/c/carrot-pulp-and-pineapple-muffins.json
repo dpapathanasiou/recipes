@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line muffin tins with paper liners.",
+        "Mix sugar, all-purpose flour, white whole wheat flour, cinnamon, baking soda, baking powder, and cloves in a very large bowl. Stir in carrot pulp, dates, shredded coconut, and walnuts.",
+        "Whisk crushed pineapple, eggs, coconut oil, grapeseed oil, and milk together in a separate bowl. Fold into the sugar mixture until batter is well blended.",
+        "Divide batter evenly among muffin tins, filling each cup almost to the top.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes. Transfer to a wire rack and let cool completely, about 20 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups raw sugar",
+        "2 cups all-purpose flour",
+        "2 cups white whole wheat flour",
+        "1 tablespoon ground cinnamon",
+        "2 teaspoons baking soda",
+        "2 teaspoons baking powder (such as Rumford\u00ae)",
+        "1 teaspoon ground cloves",
+        "4 cups carrot pulp from juiced carrots",
+        "1 cup chopped dates",
+        "1 cup shredded coconut",
+        "\u00be cup chopped walnuts",
+        "1 (20 ounce) can crushed pineapple",
+        "6  eggs",
+        "1 cup extra-virgin coconut oil, melted",
+        "1 cup grapeseed oil",
+        "\u00bd cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carrot Pulp and Pineapple Muffins",
     "url": "http://allrecipes.com/recipe/257161/carrot-pulp-and-pineapple-muffins/"
 }

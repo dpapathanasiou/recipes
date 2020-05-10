@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large pot over medium heat. Cook the onion and kale in the hot oil until the kale is soft, about 10 minutes. Add the garlic, carrot, and garbanzo beans and cook together for about 5 minutes. Pour the chicken broth into the pot. Season with the red pepper, salt, and black pepper. Simmer until the carrot and garbanzo beans are tender, about 20 minutes.",
+        "As the soup simmers, crumble the sausage into a skillet over medium heat. Cook until entirely browned, breaking the sausage into small pieces with a wooden spoon as it cooks. Stir the cooked sausage into the soup just before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1110082.jpg",
+    "ingredients": [
+        "2 teaspoons cooking oil",
+        "1  onion, diced",
+        "2 bunches kale, stems and center ribs discarded and leaves coarsely chopped",
+        "2 cloves garlic, minced, or more to taste",
+        "1 large carrot, chopped",
+        "1 (15 ounce) can garbanzo beans, drained",
+        "6 cups chicken broth",
+        "2 tablespoons crushed red pepper flakes",
+        "salt and ground black pepper to taste",
+        "\u00bd pound spicy bulk pork sausage (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lisa's Co-op Kale Soup",
     "url": "http://allrecipes.com/recipe/208849/lisas-co-op-kale-soup/"
 }

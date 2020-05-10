@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the ground chuck into a skillet over medium-high heat. Cook, stirring to crumble, until no longer pink. Drain the grease from the skillet and reduce the heat to medium-low. Add the onion and butter and season with garlic pepper. Cook, stirring frequently, until the onion is tender. Lay the slices of cheese on top of the meat. As the cheese starts to melt, fold the meat from the edges onto the cheese, keeping some of the meat under the cheese. Keep folding the meat until the cheese has completely melted and everything is well blended. Spoon onto hamburger buns to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1541&h=807&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F973740.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground chuck",
+        "\u00bd teaspoon garlic pepper, or to taste",
+        "\u00bc cup diced onion",
+        "2 tablespoons butter",
+        "4 slices American cheese",
+        "4  hamburger buns, split"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Messy Burgers",
     "url": "http://allrecipes.com/recipe/162124/messy-burgers/"
 }

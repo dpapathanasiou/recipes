@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add the macaroni, and cook until tender, about 8 minutes. Drain and rinse under cold running water.",
+        "In a large bowl, stir together the macaroni, tuna, celery, onion and peas. Mix in the mayonnaise, relish, salt and pepper. Garnish with egg wedges and a sprinkle of paprika. Cover and chill for at least 1 hour before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3591151.jpg",
+    "ingredients": [
+        "1 (12 ounce) package elbow macaroni",
+        "1 (5 ounce) can tuna, drained",
+        "2 stalks celery, chopped",
+        "2 tablespoons chopped sweet onion",
+        "1 (10 ounce) can baby peas, drained",
+        "1 cup mayonnaise",
+        "2 tablespoons sweet pickle relish",
+        "salt and pepper to taste",
+        "3 hard-cooked eggs, quartered",
+        "1 pinch paprika, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amelia's Tuna Macaroni Salad",
     "url": "http://allrecipes.com/recipe/70208/amelias-tuna-macaroni-salad/"
 }

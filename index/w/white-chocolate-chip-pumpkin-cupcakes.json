@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease or line 24 muffin cups with paper liners.",
+        "Beat cake mix, water, oil, and egg whites together in a bowl using an electric mixer on low for 30 seconds. Increase speed to medium and beat until batter is smooth, about 2 more minutes. Stir pumpkin puree and pumpkin pie spice into batter; fold in white chocolate chips. Spoon batter into prepared muffin cups, leaving about 1/2-inch space at the top. These cupcakes rise quite a bit.",
+        "Bake in the preheated oven until a toothpick inserted in the center of a cupcake comes out clean, 20 to 25 minutes. Transfer cupcakes to a wire rack to cool completely. Frost cupcakes with cream cheese frosting."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1552895.jpg",
+    "ingredients": [
+        "1 (16.25 ounce) package moist white cake mix (such as Betty Crocker\u00ae SuperMoist\u00ae)",
+        "1\u2009\u00bc cups water",
+        "\u2153 cup vegetable oil",
+        "3  egg whites",
+        "1 (15 ounce) can pumpkin puree",
+        "1 teaspoon pumpkin pie spice",
+        "1 (8 ounce) package miniature white chocolate chips (such as Nestle\u00ae Toll House\u00ae)",
+        "1 (16 ounce) container cream cheese frosting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Chocolate Chip Pumpkin Cupcakes",
     "url": "http://allrecipes.com/recipe/235669/white-chocolate-chip-pumpkin-cupcakes/"
 }

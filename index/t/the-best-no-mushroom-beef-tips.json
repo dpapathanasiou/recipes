@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a Dutch oven over high heat. Add beef, green bell pepper, onion, steak seasoning, salt, and black pepper; cook and stir until beef is browned and almost cooked through, 15 to 20 minutes. Do not drain beef.",
+        "Reduce heat to medium. Add beef broth, garlic, Worcestershire sauce, and bay leaf to beef mixture; continue cooking until liquid thickens and beef is cooked through, about 15 minutes.",
+        "Reduce heat to low. Stir in gravy mix. Cook, covered, until gravy is thick and beef is tender, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3740457.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "2 pounds beef tenderloin, trimmed and cut into chunks",
+        "1  green bell pepper, thinly sliced",
+        "1 small onion, thinly sliced",
+        "1 teaspoon steak seasoning",
+        "salt and ground black pepper to taste",
+        "8 fluid ounces beef broth",
+        "2 cloves garlic, minced, or more to taste",
+        "5 dashes Worcestershire sauce",
+        "1  bay leaf",
+        "1 (.75 ounce) packet dry brown gravy mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Best No-Mushroom Beef Tips",
     "url": "http://allrecipes.com/recipe/246241/the-best-no-mushroom-beef-tips/"
 }

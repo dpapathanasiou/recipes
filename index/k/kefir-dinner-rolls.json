@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour 1 cup plus 2 tablespoons warm kefir into the pan of your bread machine; add bread flour, sugar, salt, and yeast, respectively. Program the machine for the dough cycle; press Start.",
+        "Punch down dough and remove from the pan. Knead lightly on a floured work surface. Divide dough into 12 pieces; roll each into a small ball.",
+        "Grease a muffin tin. Place 1 ball of dough in each muffin cup. Cover loosely with plastic wrap. Let rise until dough is puffy, about 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Bake rolls in the preheated oven until golden brown, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5403533.jpg",
+    "ingredients": [
+        "1 cup warm homemade kefir",
+        "2 tablespoons warm homemade kefir",
+        "3 cups bread flour",
+        "2 tablespoons white sugar",
+        "1 teaspoon salt",
+        "2\u2009\u00bd teaspoons instant yeast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kefir Dinner Rolls",
     "url": "http://allrecipes.com/recipe/245987/kefir-dinner-rolls/"
 }

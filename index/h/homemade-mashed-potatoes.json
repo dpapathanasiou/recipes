@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C).",
+        "Place the potatoes into a saucepan, and fill with enough water to cover. Bring to a boil. Cook for 5 to 10 minutes, just until soft. Drain water, and mash potatoes. Beat in the butter, and about half of the milk using an electric mixer. Add more milk if needed to achieve the desired consistency of mashed potato. Season with salt and pepper.",
+        "Spread potatoes evenly in a 9x13 inch baking dish, or desired casserole dish. Sprinkle the bread crumbs and cheese over the top.",
+        "Bake for about 10 minutes in the preheated oven, until the cheese is melted and the top is browned. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1360188.jpg",
+    "ingredients": [
+        "5 medium baking potatoes, peeled and sliced",
+        "1 cup shredded Monterey Jack cheese",
+        "\u00bd cup garlic seasoned bread crumbs",
+        "\u00bd cup milk",
+        "1 tablespoon butter",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Homemade Mashed Potatoes",
     "url": "http://allrecipes.com/recipe/75173/homemade-mashed-potatoes/"
 }

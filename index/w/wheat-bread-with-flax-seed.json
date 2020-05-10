@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select cycle; press Start."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4000&h=2094&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F704082.jpg",
+    "ingredients": [
+        "1 (.25 ounce) package active dry yeast",
+        "1\u2009\u00bc cups whole wheat flour",
+        "\u00be cup ground flax seed",
+        "1 cup bread flour",
+        "1 tablespoon vital wheat gluten",
+        "2 tablespoons dry milk powder",
+        "1 teaspoon salt",
+        "1\u2009\u00bd tablespoons vegetable oil",
+        "\u00bc cup honey",
+        "1\u2009\u00bd cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wheat Bread with Flax Seed",
     "url": "http://allrecipes.com/recipe/16923/wheat-bread-with-flax-seed/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut rounded edges from tortilla to form a square. Spread peanut butter on one half of the tortilla; spread cream cheese on remaining half.",
+        "Place kiwi slices in a single layer over cream cheese. Starting with the cream cheese end, gently roll up the tortilla to form a log shape. Serve as a wrap or sliced into thick rounds."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1129963.jpg",
+    "ingredients": [
+        "1 whole wheat tortilla",
+        "1 tablespoon peanut butter",
+        "1 tablespoon cream cheese",
+        "1/2 kiwi, peeled and thinly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kiwi Wraps or Rolls",
     "url": "http://allrecipes.com/recipe/233895/kiwi-wraps-or-rolls/"
 }

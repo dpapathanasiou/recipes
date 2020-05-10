@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie plate.",
+        "Heat a large skillet over medium-high heat and stir in sausage. Cook and stir until sausage is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease.",
+        "Place four tortillas in prepared pie plate, overlapping and extending 1/2-inch beyond rim; place remaining tortilla in center. Layer sausage, Monterey Jack cheese, Cheddar cheese, and green chilies over tortillas. Combine eggs, heavy whipping cream, ricotta cheese, and chili powder in a bowl; slowly pour egg mixture into pie plate.",
+        "Bake in preheated oven until center is set and puffed, about 45 minutes. Sprinkle with cilantro and cut into wedges."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F877203.jpg",
+    "ingredients": [
+        "\u00be pound bulk pork sausage",
+        "5 (6 inch) corn tortillas",
+        "1 cup shredded Monterey Jack cheese",
+        "1 cup shredded Cheddar cheese",
+        "\u00bc cup canned chopped green chiles",
+        "6  eggs, beaten",
+        "\u00bd cup heavy whipping cream",
+        "\u00bd cup ricotta cheese",
+        "\u00bd teaspoon chili powder",
+        "\u00bc cup minced fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn Tortilla Quiche",
     "url": "http://allrecipes.com/recipe/222606/corn-tortilla-quiche/"
 }

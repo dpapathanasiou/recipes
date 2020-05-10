@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the orange juice, soy sauce, olive oil, rosemary, and green onions in a large plastic zipper bag; place the chops into the bag, squeeze out the air, and seal the bag. Refrigerate to marinate 8 hours or overnight.",
+        "The next day, preheat an outdoor grill for medium heat, and lightly oil the grate.",
+        "Remove the chops from the marinade, and discard the used marinade. Shake excess marinade from the chops, and grill until pork is browned, no longer pink inside, and shows good grill marks, about 15 minutes per side. An instant-read meat thermometer inserted into the thickest part of a chop should read at least 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F655496.jpg",
+    "ingredients": [
+        "1 cup orange juice",
+        "\u2153 cup reduced-sodium soy sauce",
+        "\u00bc cup olive oil",
+        "2 teaspoons minced fresh rosemary",
+        "2  green onions, sliced",
+        "4  thick-cut boneless center cut pork chops"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Andrew's Favorite Grilled Pork Chops",
     "url": "http://allrecipes.com/recipe/218076/andrews-favorite-grilled-pork-chops/"
 }

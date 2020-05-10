@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of water to a boil.  Add chicken and cook until thoroughly cooked and no longer pink inside, approximately 20 minutes.  Drain, cool and chop.",
+        "Meanwhile, place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and slice.",
+        "In a large bowl, mix together the chicken, sliced eggs, apple, onions, relish, mayonnaise, celery, pineapple (with just a little juice for flavor), cilantro, pecans and fajita seasoning to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5382964.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "4  eggs",
+        "1  red apple, diced",
+        "3  green onions, chopped",
+        "\u00bd cup sweet pickle relish",
+        "\u00bd cup mayonnaise",
+        "3 stalks celery, thinly sliced",
+        "1 (8 ounce) can pineapple chunks, juice reserved",
+        "\u00bc cup chopped fresh cilantro",
+        "1 cup chopped pecans",
+        "fajita seasoning to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Salad II",
     "url": "http://allrecipes.com/recipe/25170/chicken-salad-ii/"
 }

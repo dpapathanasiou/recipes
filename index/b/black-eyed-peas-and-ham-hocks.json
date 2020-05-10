@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse dried peas thoroughly, sorting any tiny pebbles or other debris.",
+        "In a large stockpot, bring 3 cups of water to a boil with black-eyed peas, ham hocks, salt, pepper, and bay leaf. Reduce to a simmer and cook, uncovered, 1 1/2 hours, or until peas and ham hocks are tender. If ham hocks require further cooking, simmer in water in a separate pot until meat is easily pulled from the bone.",
+        "Cool ham hocks and remove all meat from the bone. Stir ham into the peas, adjust seasoning with salt and pepper as needed, and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4953103.jpg",
+    "ingredients": [
+        "3 cups water",
+        "1 pound dry black-eyed peas",
+        "2  smoked ham hocks",
+        "salt to taste",
+        "\u00bd teaspoon black pepper",
+        "1  bay leaf"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Black-eyed Peas and Ham Hocks",
     "url": "http://allrecipes.com/recipe/69600/black-eyed-peas-and-ham-hocks/"
 }

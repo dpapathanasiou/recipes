@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter In a large stockpot over medium-high heat. Add the beef stew meat, and fry for 2 to 3 minutes, or until evenly browned on the outside.",
+        "Pour the chicken broth, water, and vermouth into the stock pot. Add the potatoes, carrots, and garlic. Season with tarragon, bay leaf, Worcestershire sauce, sugar,  honey, salt and pepper. Bring to a boil, reduce heat, and cover. Cook 2 1/2 hours to blend the flavors.",
+        "Remove cover and continue cooking 20 minutes, or long enough to evaporate enough liquid to reach your desired thickness."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F55210.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "1 pound beef stew meat",
+        "6 cups chicken broth",
+        "4 cups water",
+        "1\u2009\u00bd cups sweet vermouth",
+        "2 cups new potatoes",
+        "2 large carrots, quartered",
+        "4 cloves garlic",
+        "2 teaspoons chopped fresh tarragon",
+        "1  bay leaf",
+        "\u00bd cup Worcestershire sauce",
+        "1 tablespoon white sugar",
+        "1 tablespoon honey",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tarragon Beef Stew with Vermouth",
     "url": "http://allrecipes.com/recipe/47720/tarragon-beef-stew-with-vermouth/"
 }

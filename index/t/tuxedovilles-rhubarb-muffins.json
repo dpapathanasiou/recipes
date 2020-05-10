@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease 12 muffin cups or line with paper muffin liners.",
+        "Whisk flour, baking soda, baking powder, salt, cinnamon, and nutmeg together in a bowl; stir rhubarb and raisins into flour mixture.",
+        "Whisk buttermilk, brown sugar, melted butter, and egg together in a large bowl; stir flour mixture into buttermilk mixture just until all ingredients are moistened. Divide batter evenly into the prepared muffin cups.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 25 minutes. Cool in the pans for a few minutes before removing from pan. Serve warm or at room temperature."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1827&h=957&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1128769.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon baking powder",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground cinnamon",
+        "1 pinch ground nutmeg (optional)",
+        "1\u2009\u00bc cups diced rhubarb",
+        "\u2153 cup raisins",
+        "1 cup buttermilk",
+        "1 cup lightly packed brown sugar",
+        "\u00bc cup butter, melted",
+        "1  large egg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tuxedoville's Rhubarb Muffins",
     "url": "http://allrecipes.com/recipe/237479/tuxedovilles-rhubarb-muffins/"
 }

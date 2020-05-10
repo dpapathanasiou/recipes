@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small sauce pan combine juice and Multi-Grain Medley.  Bring to a boil.  Reduce heat and simmer 10 minutes, or until all liquid is absorbed.  Remove from heat and cool.  Stir in berries, cinnamon and yogurt."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1043573.jpg",
+    "ingredients": [
+        "1 bag Minute\u00ae Multi-Grain Medley",
+        "1 cup apple or orange juice",
+        "1 cup fresh berries",
+        "1/4 teaspoon cinnamon",
+        "1 cup Greek-style honey-flavored yogurt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "4-Grain Berries and Yogurt",
     "url": "http://allrecipes.com/recipe/233833/4-grain-berries-and-yogurt/"
 }

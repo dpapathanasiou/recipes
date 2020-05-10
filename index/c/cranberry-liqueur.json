@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cranberries, sugar, gin, and vanilla extract in a large sterilized jar with a tight-fitting lid. Let stand at room temperature for 6 weeks, shaking at least once a week. Pour mixture through a sieve and discard solids. Store in an airtight container for up to 2 months."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3251451.jpg",
+    "ingredients": [
+        "4 cups cranberries, coarsely chopped",
+        "3 cups white sugar",
+        "2 cups gin",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Liqueur",
     "url": "http://allrecipes.com/recipe/230311/cranberry-liqueur/"
 }

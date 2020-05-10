@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Measure the vodka, rum, and cranberry-raspberry juice into a cocktail shaker. Add a generous scoop of ice, cover and shake until frosty, about 30 seconds. Strain into a martini glass to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/877059.jpg",
+    "ingredients": [
+        "1 fluid ounce vodka",
+        "1 fluid ounce coconut rum",
+        "2 fluid ounces cranberry-raspberry juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Prom Night",
     "url": "http://allrecipes.com/recipe/125978/prom-night/"
 }

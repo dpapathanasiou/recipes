@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the grill for high heat. Lightly grease 4 large sheets of heavy duty aluminum foil.",
+        "Stuff each mushroom with equal amounts of green onions and pine nuts. Place 6 mushrooms on each piece of aluminum foil. Drizzle with olive oil, and season with salt and pepper. Seal the foil around the mushrooms, forming 4 packets.",
+        "Place the foil packets on the preheated grill, and cook 20 minutes, until mushrooms are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F855646.jpg",
+    "ingredients": [
+        "24  fresh crimini mushrooms, stems removed",
+        "4  green onions, chopped",
+        "2 tablespoons pine nuts",
+        "\u00bc cup olive oil",
+        "salt and freshly ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Foil-Pack Mushrooms",
     "url": "http://allrecipes.com/recipe/72892/foil-pack-mushrooms/"
 }

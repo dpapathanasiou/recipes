@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend the tangerine juice, ice, tequila, and agave nectar in a blender until the ice is thoroughly crushed. Dispense into 2 margarita glasses to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/383480.jpg",
+    "ingredients": [
+        "1 cup fresh tangerine juice",
+        "1 cup ice",
+        "2 (1.5 fluid ounce) jiggers premium tequila blanco",
+        "1 tablespoon agave nectar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mandarin Margaritas",
     "url": "http://allrecipes.com/recipe/213704/mandarin-margaritas/"
 }

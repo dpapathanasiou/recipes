@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in the pressure cooker over medium heat; cook and stir red onion, green chilies, bay leaves, turmeric, asafoetida powder, and salt until onions are translucent, about 10 minutes. Add tomatoes, coriander, garam masala, and chile powder; mix well.",
+        "Place lid on pressure cooker; cook until onions are tender and spices are fragrant, 8 to 10 minutes. Remove the lid; add water. Return lid and bring mixture to a boil. Remove the lid; add peas and tofu; stir to combine. Lock the lid onto the pressure cooker; bring up to 'one whistle' pressure over medium heat. Reduce heat to low to maintain pressure, and cook until tofu is cooked through and onions are tender, about 20 minutes. Remove from heat, release pressure, and let stand for 30 minutes to allow flavors to blend."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1124765.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil, or as needed",
+        "1 large red onion, minced",
+        "2  Indian green chilies, halved",
+        "4  bay leaves",
+        "1 teaspoon ground turmeric",
+        "1 pinch asafoetida powder",
+        "salt to taste",
+        "1 (15 ounce) can diced tomatoes",
+        "2 tablespoons ground coriander",
+        "1 tablespoon garam masala",
+        "1 teaspoon red chile powder",
+        "2 cups water",
+        "2 cups green peas",
+        "1 (16 ounce) package medium-firm tofu, cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aarsi's Tofu Curry",
     "url": "http://allrecipes.com/recipe/228011/aarsis-tofu-curry/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the pizza shell on a pizza pan or platter and top with the greens.",
+        "Place the chicken over the greens and drizzle with dressing. Slice and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F671079.jpg",
+    "ingredients": [
+        "1  ready made pizza crust",
+        "4 ounces mixed salad greens",
+        "10 ounces cooked, boneless chicken breast halves, diced",
+        "\u00bc cup Caesar salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salad Pizza",
     "url": "http://allrecipes.com/recipe/16575/salad-pizza/"
 }

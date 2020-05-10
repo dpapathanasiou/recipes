@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook and stir green bell pepper and yellow onion in a skillet over medium heat with olive oil and chicken broth until onion is translucent, about 5 minutes.",
+        "Cut up ground beef into small pieces; place into a separate skillet over medium heat. Cook and stir ground beef with taco seasoning until beef is browned and crumbly, 5 to 8 minutes. Drain excess grease.",
+        "Sprinkle roma tomatoes with salt in a bowl. Place Cheddar cheese into a separate bowl.",
+        "Fill each lettuce leaf with about 2 tablespoons beef filling; top with 1 to 2 teaspoons green pepper mixture, roma tomato, about about 1 1/2 tablespoons Cheddar cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1  green bell pepper, chopped",
+        "1  yellow onion, chopped",
+        "2 tablespoons olive oil",
+        "2 tablespoons chicken stock (optional)",
+        "1 pound ground beef",
+        "3 tablespoons taco seasoning",
+        "2 large roma (plum) tomatoes, chopped",
+        "\u00bd teaspoon salt",
+        "1 (8 ounce) package shredded Cheddar cheese",
+        "12  large romaine lettuce leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lettuce Leaf Tacos",
     "url": "http://allrecipes.com/recipe/232454/lettuce-leaf-tacos/"
 }

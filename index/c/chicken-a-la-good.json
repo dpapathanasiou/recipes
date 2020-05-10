@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Sprinkle each  flattened breast with garlic salt and pepper to taste on both sides. Lay a slice of ham onto each breast, then a slice of Swiss cheese. Roll each breast up like a cinnamon  roll. Secure with a toothpick if necessary. Wrap a piece of bacon loosely around each roll. Place the rolled breasts in a 2 quart glass baking dish and pour in chicken broth.",
+        "Bake for 30 to 35 minutes in the preheated oven, or until the juices run clear.  Broil for a few minutes before serving to crisp up the bacon."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F213731.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves - pounded to 1/4 inch thickness",
+        "garlic salt to taste",
+        "ground black pepper to taste",
+        "\u00bd pound thinly sliced ham",
+        "4 slices Swiss cheese",
+        "8 slices bacon",
+        "1 (14.5 ounce) can chicken broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken a la Good",
     "url": "http://allrecipes.com/recipe/28005/chicken-a-la-good/"
 }

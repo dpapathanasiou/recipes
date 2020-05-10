@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat 6 tablespoons butter in a large skillet over medium heat; cook and stir onion in the melted butter until lightly browned, 10 to 15 minutes.",
+        "Remove and set aside several large leaves of cabbage. Core cabbage and cut into very fine shreds. Mix cooked onion, chopped cabbage, eggs, and milk together in bowl; transfer mixture to a 9x13-inch casserole dish. Cover mixture with reserved whole cabbage leaves.",
+        "Bake in the preheated oven until cabbage mixture is cooked through and set, about 50 minutes.",
+        "Heat 2 tablespoons butter in a skillet over medium heat; cook and stir cracker crumbs in the melted butter until lightly browned, about 5 minutes.",
+        "Remove cabbage leaves from top of casserole dish and sprinkle cabbage-egg mixture with buttered cracker crumbs.",
+        "Bake in the preheated oven until topping is browned, about 10 more minutes. Season with salt and black pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1762&h=923&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2893429.jpg",
+    "ingredients": [
+        "6 tablespoons butter",
+        "1 large onion, chopped",
+        "1 large head cabbage",
+        "4  eggs, beaten",
+        "1 cup warm milk",
+        "2 tablespoons butter",
+        "15  saltine crackers, crumbled",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Edna's Christmas Cabbage",
     "url": "http://allrecipes.com/recipe/230514/grandma-ednas-christmas-cabbage/"
 }

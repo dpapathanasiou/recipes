@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a serving bowl, stir together the red wine vinegar, mirin, brown sugar, ginger and lime juice. Add the cucumber and onion, and toss gently to coat. Chill for 30 minutes to blend flavors before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/391642.jpg",
+    "ingredients": [
+        "1/8 cup red wine vinegar",
+        "1/4 cup mirin (Japanese sweet wine)",
+        "1/8 cup packed brown sugar",
+        "3 teaspoons grated fresh ginger",
+        "1/8 cup fresh lime juice",
+        "1 large cucumber, thinly sliced",
+        "1/4 cup thinly sliced onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ginger-Spiced Cucumbers",
     "url": "http://allrecipes.com/recipe/72960/ginger-spiced-cucumbers/"
 }

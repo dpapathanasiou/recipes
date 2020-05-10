@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a deep-fryer or heavy skillet to 365 degrees F (185 degrees C).",
+        "Place the onion rings in a bag or bowl. Mix together the seasoned salt and flour, and pour in with the onion. Fry in the hot oil until lightly golden brown. You may need to gently stir the rings as the fry to brown them evenly. Drain on paper towels, and season with salt to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3135418.jpg",
+    "ingredients": [
+        "2 cups oil for frying, or as needed",
+        "1 large red onion, sliced and separated into rings",
+        "\u00bc cup seasoned salt",
+        "1\u2009\u00bd cups all-purpose flour",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amy's Best Ever Onion Rings",
     "url": "http://allrecipes.com/recipe/88022/amys-best-ever-onion-rings/"
 }

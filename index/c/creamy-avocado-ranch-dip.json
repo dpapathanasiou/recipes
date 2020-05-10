@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a food processor, mix the sour cream, Neufchatel cheese, ranch dressing mix, hot sauce, garlic salt, and celery salt.",
+        "In a bowl, mash the avocados, and mix in the sour cream mixture until well blended. Cover, and chill until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F782611.jpg",
+    "ingredients": [
+        "1 (16 ounce) container sour cream",
+        "1 (8 ounce) package Neufchatel cheese",
+        "1 (1 ounce) package ranch dressing mix",
+        "\u00be teaspoon hot sauce",
+        "\u00bc teaspoon garlic salt",
+        "\u00bc teaspoon celery salt",
+        "2  avocados, peeled and pitted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Avocado-Ranch Dip",
     "url": "http://allrecipes.com/recipe/74727/creamy-avocado-ranch-dip/"
 }

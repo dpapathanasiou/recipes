@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a 3-quart microwave-safe casserole dish, combine potatoes, onions, margarine, garlic, salt, oregano, pepper and paprika.",
+        "Heat in microwave on high until margarine melts, about 1 minute; stir.  Cook 10 minutes more, stirring occasionally."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3249&h=1701&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1090110.jpg",
+    "ingredients": [
+        "3 large potatoes, peeled and cubed",
+        "2 small onions, sliced",
+        "2 tablespoons margarine",
+        "2 cloves garlic, minced",
+        "\u00bd teaspoon salt",
+        "\u215b teaspoon dried oregano",
+        "\u215b teaspoon black pepper",
+        "\u215b teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Microwaved Potatoes Lyonnaise",
     "url": "http://allrecipes.com/recipe/24753/microwaved-potatoes-lyonnaise/"
 }

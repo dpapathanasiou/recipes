@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil; add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain and return pasta to the pot.",
+        "Heat oil in a large, deep skillet over medium-high heat. Saute onion in hot oil until slightly softened, 3 to 5 minutes. Stir red bell pepper and garlic into onion; saute until fragrant and softened, another 3 to 5 minutes.",
+        "Stir chicken, green enchilada sauce, red enchilada sauce, diced green chiles, chili powder, cumin, and salt into onion mixture; bring to a simmer, reduce heat to low, and simmer until flavors blend, 8 to 10 minutes. Add Colby-Jack cheese and stir until melted and heated through, 1 to 3 minutes.",
+        "Reduce heat to low and stir sour cream into enchilada mixture; cook and stir until heated through. Pour enchilada mixture over penne pasta and toss to coat completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2220119.jpg",
+    "ingredients": [
+        "1 (16 ounce) package penne pasta, or to taste",
+        "2 tablespoons olive oil",
+        "1  onion, diced",
+        "1  red bell pepper, diced",
+        "2 cloves garlic, minced",
+        "2  cooked chicken breasts, shredded, or more to taste",
+        "2 (10 ounce) cans green enchilada sauce",
+        "\u2154 cup red enchilada sauce",
+        "1 (4 ounce) can diced green chiles",
+        "2 teaspoons chili powder",
+        "1 teaspoon ground cumin",
+        "\u00bd teaspoon salt",
+        "2 cups shredded Colby-Monterey Jack cheese",
+        "1 cup sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Enchilada Pasta",
     "url": "http://allrecipes.com/recipe/242046/chicken-enchilada-pasta/"
 }

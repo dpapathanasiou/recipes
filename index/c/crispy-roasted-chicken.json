@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "In a spice grinder or mortar, combine kosher salt, caraway seeds, sage, fennel, coriander, and rosemary. Grind to a coarse powder. Transfer spice mixture to a bowl and stir in paprika, garlic powder, flour, and onion powder; mix in vegetable oil to make a smooth paste.",
+        "Pat chicken halves dry with paper towels and tuck wing tips up behind the back. Brush spice paste onto chicken halves, coating both sides, taking care to season under wings and legs. Place chicken halves in baking dish or roasting pan with skin sides up, leaving space around chicken so halves aren't touching.",
+        "Roast in preheated oven until a thermometer inserted in a thigh reads 165 degrees F (74 degrees C), about 1 hour. Remove from oven and let rest for 10 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1384&h=725&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1000798.jpg",
+    "ingredients": [
+        "1 teaspoon kosher salt",
+        "\u00bd teaspoon caraway seeds",
+        "\u00bd teaspoon dried sage",
+        "\u00bc teaspoon fennel seeds",
+        "\u00bc teaspoon coriander seeds",
+        "\u00bc teaspoon dried rosemary",
+        "2 tablespoons paprika",
+        "2 teaspoons garlic powder",
+        "2 teaspoons all-purpose flour",
+        "1 teaspoon onion powder",
+        "5 tablespoons vegetable oil",
+        "1 (4 pound) broiler-fryer chicken, cut in half lengthwise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crispy Roasted Chicken",
     "url": "http://allrecipes.com/recipe/228363/crispy-roasted-chicken/"
 }

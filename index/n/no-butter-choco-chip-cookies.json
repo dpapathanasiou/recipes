@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+        "In a large bowl, mix together the applesauce, white sugar and brown sugar until well blended. Beat in the eggs and vanilla. Gradually stir in the flour and oats, then fold in the chocolate chips and butterscotch chips. Drop by heaping spoonfuls onto the prepared baking sheets.",
+        "Bake for 12 to 15 minutes in the preheated oven, until the bottoms are golden. Cool on wire racks.  Tip: when you take them out, put them on a spread out paper bag. It'll absorb even more grease and it's easy clean-up."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3140440.jpg",
+    "ingredients": [
+        "1 cup applesauce",
+        "\u00bd cup white sugar",
+        "\u00bd cup packed brown sugar",
+        "2  eggs",
+        "1 teaspoon vanilla extract",
+        "1\u2009\u00bc cups all-purpose flour",
+        "2\u2009\u00bc cups quick-cooking oats",
+        "1 cup semisweet chocolate chips",
+        "\u00bc cup butterscotch-flavored chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No Butter Choco-Chip Cookies",
     "url": "http://allrecipes.com/recipe/25081/no-butter-choco-chip-cookies/"
 }

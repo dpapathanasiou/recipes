@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place 1 cup of cream in a small saucepan. Heat to just below the boiling point. Place peanut butter chips, peanut butter, and vanilla extract in food processor. With processor running, slowly drizzle hot cream down pouring chute. Process until mixture is completely smooth. Set aside to cool.",
+        "In a large bowl, whip cream until soft mounds form. Slowly add sugar while continuing to beat, until cream forms stiff peaks. Gently fold in cooled peanut butter mixture. Do not incorporate completely; leave some white streaks in mixture.",
+        "Pour mixture into graham cracker crust and chill at least 6 hours. Drizzle each plate with chocolate syrup before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (9 inch) prepared graham cracker crust",
+        "1 cup heavy whipping cream",
+        "1 (10 ounce) package peanut butter chips",
+        "2 ounces smooth peanut butter",
+        "2 teaspoons vanilla extract",
+        "2 cups heavy whipping cream",
+        "\u00bc cup white sugar",
+        "\u00bd cup chocolate syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Pie XV",
     "url": "http://allrecipes.com/recipe/15803/peanut-butter-pie-xv/"
 }

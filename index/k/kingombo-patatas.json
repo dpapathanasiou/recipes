@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cornmeal, salt, and pepper together in a large resealable plastic bag; add potatoes, okra, and onion. Seal bag and shake until vegetables are coated with cornmeal mixture.",
+        "Heat cooking oil in a large skillet over medium heat until shimmering but not smoking. Place vegetables in the hot oil and cook until potatoes are tender and okra and onion are browned, 10 to 12 minutes. Transfer cooked vegetables to a paper towel-lined plate using a slotted spoon."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5817059.jpg",
+    "ingredients": [
+        "\u00bd cup cornmeal",
+        "salt and ground black pepper to taste",
+        "2 large potatoes, cut into 1/2-inch cubes",
+        "1 pound fresh okra, trimmed and cut into 1/2-inch pieces",
+        "1  white onion, finely chopped",
+        "\u00bd cup cooking oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kingombo Patatas",
     "url": "http://allrecipes.com/recipe/256675/kingombo-patatas/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large pot over medium-high heat. Saute celery, onion, and garlic in hot oil until tender, 5 to 7 minutes.",
+        "Stir ground beef and chorizo with the vegetable mixture, breaking meat into increasingly smaller chunks as you cook and stir until the meat is completely browned, 7 to 10 minutes.",
+        "Stir tomato sauce, stewed tomatoes, tomato paste, and diced tomatoes with green chile peppers into the beef mixture, respectively; season with chili seasoning mix. Bring the mixture to a boil, reduce heat to low, and cook chili at a simmer until thickened, about 1 hour and 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1949236.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "3 stalks celery, chopped",
+        "1  onion, chopped",
+        "3 cloves garlic, chopped",
+        "1 pound ground beef",
+        "\u00bd pound spicy chorizo, casings removed and discarded",
+        "2 (28 ounce) cans tomato sauce",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "1 (6 ounce) can tomato paste",
+        "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL\u00ae)",
+        "1 (1.25 ounce) package chili seasoning mix, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef and Chorizo Chili",
     "url": "http://allrecipes.com/recipe/240626/beef-and-chorizo-chili/"
 }

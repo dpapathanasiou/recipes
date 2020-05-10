@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, mix together the butter, 3/4 cup honey, and lemon juice until well blended. Combine the flour, oats, and wheat germ; mix into the honey mixture. Spread evenly into the bottom of an ungreased 9x13 inch baking pan. Set aside.",
+        "In another bowl, beat eggs while gradually pouring in 1/4 cup honey. Stir in almonds, chocolate chips, dates, apricots, coconut, and sesame seeds until they are evenly distributed and well coated. Spread over the crust in the pan.",
+        "Bake for 30 to 35 minutes in the preheated oven, or until center is set, and the top is lightly browned. Cool completely before cutting into bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F856391.jpg",
+    "ingredients": [
+        "1 cup unsalted butter",
+        "\u00be cup honey",
+        "1 teaspoon lemon juice",
+        "2 cups whole wheat flour",
+        "1 cup quick-cooking oats",
+        "\u00bd cup wheat germ",
+        "2  eggs",
+        "\u00bc cup honey",
+        "1 cup chopped almonds",
+        "1 cup jumbo semisweet chocolate chips",
+        "\u00bd cup chopped dates",
+        "\u00bd cup chopped dried apricots",
+        "\u00bd cup unsweetened flaked coconut",
+        "2 tablespoons sesame seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Trail Bars",
     "url": "http://allrecipes.com/recipe/49051/trail-bars/"
 }

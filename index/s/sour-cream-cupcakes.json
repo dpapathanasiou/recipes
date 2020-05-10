@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C). Grease muffin pans or line with paper liners.",
+        "Whisk the flour, baking powder, and baking soda together in a bowl; set aside.",
+        "Beat the shortening and sugar together in a bowl until creamy. Beat in the eggs one at a time, followed by the sour cream and vanilla extract. Stir in the flour mixture until no dry lumps remain. Pour into the prepared muffin pans.",
+        "Bake in the preheated oven until golden and a toothpick inserted into the center comes out clean, 15 to 20 minutes. Cool completely on a wire rack before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1260&h=660&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F737472.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "\u00bc teaspoon baking soda",
+        "\u2153 cup vegetable shortening (such as Crisco\u00ae)",
+        "\u00be cup white sugar",
+        "2  eggs",
+        "\u2153 cup sour cream",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sour Cream Cupcakes",
     "url": "http://allrecipes.com/recipe/138932/sour-cream-cupcakes/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss the zucchini and salt together and place into a colander set in the sink. Allow to drain for 1 hour, then squeeze the liquid out of the zucchini, and set aside.",
+        "Preheat oven to 350 degrees F (175 degrees C). Prepare a 1 1/2 quart casserole dish with the melted butter.",
+        "Whisk the eggs in a mixing bowl with the pepper, garlic powder, and parsley. Stir in the zucchini, Monterey Jack cheese, and baking mix until combined. Pour into the prepared casserole dish.",
+        "Bake, uncovered, in the preheated oven until set and golden brown on top, 45 minutes to 1 hour. The souffle is done when a knife inserted into the center comes out clean."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2324785.jpg",
+    "ingredients": [
+        "4 cups shredded zucchini",
+        "1 1/4 teaspoons salt",
+        "1 tablespoon melted butter",
+        "4 eggs",
+        "1/8 teaspoon ground black pepper",
+        "1/8 teaspoon garlic powder",
+        "1/4 teaspoon dried parsley",
+        "1 cup shredded Monterey Jack cheese",
+        "1/4 cup all-purpose biscuit baking mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zucchini Souffle with Monterey Jack Cheese",
     "url": "http://allrecipes.com/recipe/173694/zucchini-souffle-with-monterey-jack-c/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Trim excess fat from pork butt; cut pork into 2-inch cubes and transfer to a bowl.",
+        "Combine salt, oregano, cumin, black pepper, chile powder, and paprika together in a bowl. Rub pork cubes with spice mixture. Coat seasoned pork cubes lightly in olive oil; place in pressure cooker. Cover pork cubes with orange juice, onion, and garlic.",
+        "Place lid on pressure cooker and lock; bring to full pressure over medium heat until pork is no longer pink in the center, about 60 minutes. Let pressure come down naturally, about 15 minutes.",
+        "Remove pork from pressure cooker and shred meat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3367894.jpg",
+    "ingredients": [
+        "1 (6 pound) pork butt roast",
+        "1 1/2 tablespoons salt",
+        "1 tablespoon dried oregano",
+        "2 teaspoons ground cumin",
+        "1 teaspoon ground black pepper",
+        "1/2 teaspoon chile powder",
+        "1/2 teaspoon paprika",
+        "2 tablespoons olive oil, or more to taste",
+        "1 cup orange juice",
+        "1 onion, coarsely chopped",
+        "4 cloves garlic, diced, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carnitas - Pressure Cooker",
     "url": "http://allrecipes.com/recipe/246332/carnitas---pressure-cooker/"
 }

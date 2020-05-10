@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place chicken in a pot with enough water to cover. Bring to a boil and cook 25 minutes, until chicken juices run clear. Drain liquid from pot and shred chicken. Mix wing sauce and butter into pot. Bring to a boil, reduce heat to low and simmer 10 minutes.",
+        "Spread cream cheese over the bottom of an 8x8 inch baking dish. Pour chicken mixture over cream cheese. Top with dressing.",
+        "Bake 15 minutes in the preheated oven, until hot and bubbly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F361580.jpg",
+    "ingredients": [
+        "2  skinless, boneless chicken breast halves",
+        "1 (12 fluid ounce) can or bottle hot chicken wing sauce",
+        "6 tablespoons butter",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (16 ounce) bottle blue cheese dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Cheese Chicken Wing Dip",
     "url": "http://allrecipes.com/recipe/78521/blue-cheese-chicken-wing-dip/"
 }

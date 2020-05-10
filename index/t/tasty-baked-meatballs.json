@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Line two baking sheets with aluminum foil and lightly grease.",
+        "Mix together the ground beef, bread crumbs, cream of mushroom soup, eggs, Parmesan cheese, and onion soup mix. Shape the mixture into balls about the size of a golf ball. Arrange on the prepared baking sheets.",
+        "Bake in the preheated oven until no longer pink in the center, about 30 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F699176.jpg",
+    "ingredients": [
+        "3 pounds ground beef",
+        "1\u2009\u00bd cups Italian-seasoned dry bread crumbs",
+        "1 (10.5 ounce) can cream of mushroom soup",
+        "3  eggs, lightly beaten",
+        "\u00bc cup grated Parmesan cheese",
+        "1 (1 ounce) package dry onion soup mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tasty Baked Meatballs",
     "url": "http://allrecipes.com/recipe/151340/tasty-baked-meatballs/"
 }

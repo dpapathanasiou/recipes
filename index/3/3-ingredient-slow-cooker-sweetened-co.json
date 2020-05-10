@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Turn slow cooker on High. Mix milk and sugar together in the crock of the slow cooker.",
+        "Cook for 3 hours, stirring every 10 minutes in the last 30 minutes to prevent burning. Mix butter and vanilla extract into condensed milk and let cool."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2786260.jpg",
+    "ingredients": [
+        "2 cups milk",
+        "2/3 cup white sugar",
+        "3 tablespoons butter",
+        "2 teaspoons vanilla extract (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "3-Ingredient Slow Cooker Sweetened Condensed Milk",
     "url": "http://allrecipes.com/recipe/244778/3-ingredient-slow-cooker-sweetened-co/"
 }

@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook ramen noodles according to package directions, without adding the flavor packets. Drain noodles and cool. Cut noodles into large bite size pieces.",
+        "In a large bowl combine the torn spinach leaves, cooked turkey or chicken, halved grapes, red pepper, cashews, Gorgonzola or blue cheese, and ramen noodles.",
+        "In a small bowl mix flavor packets, garlic, and lemon juice and let stand at least 15 minutes. Add oil and mayonnaise and whisk until smooth.",
+        "Pour dressing over salad and toss until thoroughly mixed. Garnish with red pepper rings and small grape clusters, if desired. Serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F71510.jpg",
+    "ingredients": [
+        "2 (3 ounce) packages chicken flavored ramen noodles",
+        "8 cups torn spinach leaves",
+        "2 cups cooked and cubed chicken",
+        "1 cup seedless red grapes, halved",
+        "1 cup sliced red bell peppers",
+        "\u00bd cup chopped cashews",
+        "\u00bd cup Gorgonzola cheese, crumbled",
+        "4 cloves garlic, minced",
+        "1  lemon, juiced",
+        "\u2153 cup olive oil",
+        "\u00bc cup light mayonnaise",
+        "1  red bell pepper, sliced",
+        "20  grape clusters, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ramen Spinach Pasta Salad Supreme",
     "url": "http://allrecipes.com/recipe/11910/ramen-spinach-pasta-salad-supreme/"
 }

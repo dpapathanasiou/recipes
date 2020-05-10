@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the rhubarb, sugar, and grated lemon peel into a large saucepan and bring to a boil. Reduce heat to medium-low and simmer until the sugar has dissolved and the rhubarb releases its juice and starts to break up, about 10 minutes. Remove from heat and stir in the lemon juice.",
+        "Pour the rhubarb mixture through a fine sieve, pressing out as much liquid as possible."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1014986.jpg",
+    "ingredients": [
+        "8 cups chopped rhubarb",
+        "3 cups white sugar",
+        "3 tablespoons grated lemon peel",
+        "1 1/2 cups lemon juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rhubarb Lemonade",
     "url": "http://allrecipes.com/recipe/214111/rhubarb-lemonade/"
 }

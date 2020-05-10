@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, pour the beef broth, soy sauce, olive oil, lemon juice, and Worcestershire sauce; add garlic, garlic powder, basil, parsley, and black pepper. Cover blender, and pulse a few times, then blend thoroughly, about 20 seconds.",
+        "In a large skillet over medium-high heat, heat the vegetable oil until tiny wisps of smoke rise, then brown the roast on all sides, 2 to 3 minutes per side. Place the roast into a slow cooker. Pour the beef broth mixture from the blender over the roast, set the cooker to Medium, and cover.",
+        "Cook until very tender, 5 to 6 hours; add the carrots, recover the cooker, and cook for 10 more minutes; then mix in the macaroni. Cover the cooker, and simmer until macaroni and carrots are tender, about 20 more minutes. Slice beef, and serve with macaroni, carrots, and sauce."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/809636.jpg",
+    "ingredients": [
+        "1 (14 ounce) can beef broth",
+        "1/2 cup soy sauce",
+        "1/2 cup olive oil",
+        "1/3 cup lemon juice",
+        "5 tablespoons Worcestershire sauce",
+        "2 teaspoons minced garlic",
+        "2 tablespoons garlic powder, preferably roasted",
+        "2 tablespoons dried basil",
+        "2 tablespoons dried parsley",
+        "1 tablespoon ground black pepper",
+        "1 tablespoon vegetable oil",
+        "1 (5 pound) beef chuck roast, patted dry with paper towels",
+        "1 cup baby carrots",
+        "1 cup uncooked elbow macaroni"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dad's Home With the Kids Slow-Cooker Roast",
     "url": "http://allrecipes.com/recipe/218230/dads-home-with-the-kids-slow-cooker/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill to 400 degrees F (200 degrees C). Line a baking dish with aluminum foil. Place dish in the grill, away from direct heat.",
+        "Drop coconut oil onto the foil and close grill long enough to melt oil. Place fish in the oil and turn until it is coated in oil on both sides; season with salt and pepper. Close grill.",
+        "Cook on the grill until fish flakes easily with a fork, about 20 minutes. Carefully transfer fish and foil onto a plate and slide fish off the foil. Squeeze lime juice over fish."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/4 cup coconut oil",
+        "1 (1 pound) whole pompano fish, gutted and cleaned",
+        "salt and ground black pepper to taste",
+        "1 lime, juiced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Lime Pompano",
     "url": "http://allrecipes.com/recipe/245133/grilled-lime-pompano/"
 }

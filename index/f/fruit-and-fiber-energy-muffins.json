@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a muffin tin with cooking spray.",
+        "Mix oats, milk, apples, raisins, walnuts, flaxseed meal, eggs, cinnamon, baking powder, and salt together in a large bowl. Spoon mixture into the prepared muffin tin.",
+        "Bake in the preheated oven until edges are crisp and center is moist, 50 to 60 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7163714.jpg",
+    "ingredients": [
+        "cooking spray",
+        "3 cups rolled oats",
+        "2 cups milk",
+        "2 cups chopped apples",
+        "1\u2009\u00bc cups raisins",
+        "1 cup chopped walnuts",
+        "\u00be cup flaxseed meal",
+        "2  eggs",
+        "1 tablespoon ground cinnamon (optional)",
+        "2 teaspoons baking powder",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruit and Fiber Energy Muffins",
     "url": "http://allrecipes.com/recipe/255872/fruit-and-fiber-energy-muffins/"
 }

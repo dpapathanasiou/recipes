@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x9-inch baking dish with cooking spray.",
+        "Arrange pizza squares in the prepared baking dish. Mix eggs, milk, mozzarella cheese, onion, butter, garlic, oregano, and salt together in a large bowl; pour over pizza pieces. Top with Parmesan cheese and red pepper flakes. Cover dish with aluminum foil.",
+        "Bake in the preheated oven for 45 minutes. Remove foil and continue baking until eggs are set and Parmesan cheese is melted, about 20 more minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3641190.jpg",
+    "ingredients": [
+        "cooking spray",
+        "3 slices leftover pizza, cut into 3/4-inch squares",
+        "4 eggs, beaten",
+        "1 cup milk",
+        "1 (8 ounce) package shredded mozzarella cheese",
+        "1/3 cup chopped onion",
+        "3 tablespoons butter, melted",
+        "1 clove garlic, minced",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon salt",
+        "1/4 cup grated Parmesan cheese, or to taste",
+        "1/4 teaspoon red pepper flakes, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Leftover Pizza Breakfast Casserole",
     "url": "http://allrecipes.com/recipe/229489/leftover-pizza-breakfast-casserole/"
 }

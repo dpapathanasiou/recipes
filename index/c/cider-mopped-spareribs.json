@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "About one hour before smoking, make the dry rub.  Combine chili powder, salt, garlic powder and pepper in small bowl. Set aside 2 tablespoons of dry rub.  Pat ribs dry with paper towels; sprinkle both sides of each rack with the remaining rub. Set aside at room temperature for 1 hour.",
+        "For the mop, whisk together vinegar, water and reserved 2 tablespoons chili rub in a bowl. Set aside.",
+        "Heat charcoal or gas grill for indirect cooking at 250 to 300 degrees F. Add drained wood chips, if using.",
+        "Place the ribs, meaty side down, over a drip pan and cook for 1 hour.  Add about 12 coals to a charcoal grill every 45 minutes or so to maintain the heat.",
+        "Continue cooking 4 1/2 to 5 1/2 hours more over indirect heat, until very tender.  Brush both sides of ribs with mop mixture every 45 minutes.  Add more coals as needed to maintain temperature for a charcoal grill.",
+        "Brush ribs with barbecue sauce.  Continue cooking for about 5 minutes, until the sauce is set. Turn ribs and repeat with more sauce.",
+        "Cut the racks into 3- or 4-rib sections and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2254299.jpg",
+    "ingredients": [
+        "3 tablespoons chili powder",
+        "2 tablespoons kosher salt",
+        "5 teaspoons granulated garlic powder",
+        "5 teaspoons black pepper",
+        "2 racks Smithfield\u00ae Pork Spareribs, membrane removed",
+        "1/2 cup apple cider vinegar",
+        "1/2 cup water",
+        "Handful hickory or apple wood chips for smoking, soaked in water and drained (optional)",
+        "3/4 cup barbecue sauce (use your favorite)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cider-Mopped Spareribs",
     "url": "http://allrecipes.com/recipe/242371/cider-mopped-spareribs/"
 }

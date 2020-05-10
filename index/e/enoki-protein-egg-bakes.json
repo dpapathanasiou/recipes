@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 300 degrees F (150 degrees C).",
+        "Toss enoki mushrooms with garlic salt on a large plate.",
+        "Heat oil in a large skillet or wok. Add enoki mushrooms; cook and stir until firm and lightly browned on the bottom, 2 to 3 minutes. Return to the plate. Add shallot and garlic to the skillet; cook and stir until fragrant, 1 to 2 minutes. Add to mushrooms.",
+        "Stir turkey into the skillet. Cook, stirring to break up clumps, until browned, about 5 minutes.",
+        "Combine turkey with mushroom mixture; chop finely. Stir in yellow bell peppers.",
+        "Beat eggs, Italian seasoning, salt, and pepper together in a large bowl. Stir in turkey mixture and pour into two 1/3-cup muffin tins.",
+        "Bake in the preheated oven until edges are browned and a toothpick inserted into the center comes out clean, about 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 bunch enoki mushrooms, cut from stalk and separated",
+        "2 tablespoons garlic salt",
+        "2 tablespoons safflower oil",
+        "1/2 large shallot, chopped",
+        "2 cloves garlic, minced",
+        "1 pound extra-lean ground turkey breast",
+        "2 yellow bell peppers, finely chopped",
+        "12 eggs",
+        "2 tablespoons Italian seasoning",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Enoki Protein Egg Bakes",
     "url": "http://allrecipes.com/recipe/247427/enoki-protein-egg-bakes/"
 }

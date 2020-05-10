@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook ground bison and onion over medium heat in a large skillet until ground bison is brown and onion is tender. Drain off fat. Stir in cumin, salt, coriander, cayenne pepper, and water. Cook and stir for 2 minutes.",
+        "Whisk eggs and milk in a medium bowl. Add to ground bison mixture in skillet. As the mixture sets, run a spatula around the edge of the skillet, lifting egg mixture so uncooked portion flows underneath. Continue cooking and lifting for 2 minutes or until egg mixture is almost set.",
+        "Evenly divide ground bison mixture between taco shells. Sprinkle with cheese. Serve with Pineapple Salsa.",
+        "Pineapple Salsa: Stir together pineapple, bell pepper, onion, cilantro, lime juice, jalapeno pepper (if using), and salt in a medium bowl. Refrigerate for up to 24 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037646.jpg",
+    "ingredients": [
+        "1 pound ground bison",
+        "1/2 cup chopped onion",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon ground coriander",
+        "1/8 teaspoon cayenne pepper, or more to taste",
+        "2 tablespoons water",
+        "6 eggs",
+        "1/4 cup milk",
+        "12 corn taco shells or 6-inch corn tortillas, heated according to package directions",
+        "3/4 cup shredded Cheddar cheese",
+        "Pineapple Salsa:",
+        "1 cup diced fresh pineapple",
+        "1/3 cup diced red bell pepper",
+        "1/4 cup chopped red onion",
+        "2 tablespoons chopped fresh cilantro",
+        "2 tablespoons lime juice",
+        "1 fresh jalapeno chile pepper, seeded and finely chopped (optional)",
+        "1/4 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ground Bison Breakfast Tacos with Pineapple Salsa",
     "url": "http://allrecipes.com/recipe/233865/ground-bison-breakfast-tacos-with-pin/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place butternut squash halves, cut-side up, in a baking dish; fill dish with 1/4 inch of water.",
+        "Bake in the preheated oven until softened, 50 to 60 minutes. Cool squash.",
+        "Scoop squash flesh into a bowl and mash with a fork or potato masher until smooth. Stir coconut milk and cinnamon into squash; top with walnuts."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3456629.jpg",
+    "ingredients": [
+        "1  butternut squash, halved and seeded",
+        "water as needed",
+        "\u00bc cup coconut milk, or to taste",
+        "\u00bd teaspoon ground cinnamon",
+        "1 tablespoon chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butternut Squash Paleo 'Porridge'",
     "url": "http://allrecipes.com/recipe/236026/butternut-squash-paleo-porridge/"
 }

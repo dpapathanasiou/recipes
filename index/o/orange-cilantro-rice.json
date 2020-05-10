@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a saucepan over medium-high heat. Stir in onion, and cook until tender. Mix in rice, and season with cumin, garlic powder, onion powder, pepper, cayenne pepper, and salt. Cook and stir until rice is golden brown. Pour in orange juice and broth, and bring to a boil. Reduce heat to low, cover and simmer 20 minutes.",
+        "Remove cooked rice from heat, and gently mix in cilantro to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3120&h=1634&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7298171.jpg",
+    "ingredients": [
+        "2 teaspoons butter",
+        "\u00bd cup diced onion",
+        "1 cup uncooked long grain white rice",
+        "2 teaspoons ground cumin",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon onion powder",
+        "\u00bc teaspoon ground black pepper",
+        "\u215b teaspoon cayenne pepper (optional)",
+        "salt to taste",
+        "1\u2009\u00bd cups orange juice",
+        "\u00bd cup chicken broth",
+        "\u00bd cup chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Cilantro Rice",
     "url": "http://allrecipes.com/recipe/85856/orange-cilantro-rice/"
 }

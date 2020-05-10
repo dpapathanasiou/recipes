@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the sweet potatoes into a large saucepan with enough water to cover. Bring to a boil, and cook over medium heat until tender, about 25 minutes. Drain water, and place potatoes in a large casserole dish.",
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, stir together the butter, brown sugar, red hot candies, and water. Pour over the sweet potatoes in the dish.",
+        "Bake for 1 hour in the preheated oven, until sweet potatoes are soft, and the candies are melted. After this, you may top with marshmallows, and return the dish to the oven for 10 minutes to toast them."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6030651.jpg",
+    "ingredients": [
+        "3 1/2 pounds sweet potatoes, peeled and cubed",
+        "1/4 cup butter or margarine, melted",
+        "1/2 cup packed brown sugar",
+        "1 1/4 cups cinnamon red hot candies",
+        "3/4 cup water",
+        "1 (10 ounce) package miniature marshmallows (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma's Red Hot Southern Sweet Potatoes",
     "url": "http://allrecipes.com/recipe/77886/grandmas-red-hot-southern-sweet-pota/"
 }

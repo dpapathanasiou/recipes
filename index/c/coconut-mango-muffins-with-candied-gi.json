@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Mix all-purpose flour, whole wheat flour, brown sugar, 1/2 cup flaked coconut, baking powder, and salt in a bowl.",
+        "Beat the eggs in another large bowl until creamy. Add applesauce, coconut milk yogurt, skim milk, vegetable oil, and honey to eggs. Blend well.",
+        "Stir flour mixture, dried mango, candied ginger, and honey into egg mixture just until blended. Spoon batter into muffin cups, filling about 3/4 of each cup. Sprinkle 2 tablespoons flaked coconut on top.",
+        "Bake in the preheated oven until a toothpick inserted into the middle of a muffin comes out clean, about 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/975029.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1/2 cup whole wheat flour",
+        "1/4 cup brown sugar",
+        "1/2 cup flaked coconut",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "2 eggs",
+        "1/4 cup applesauce",
+        "1 (6 ounce) container plain coconut milk yogurt",
+        "2 tablespoons skim milk",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon honey, or more to taste",
+        "1/2 cup chopped dried mango",
+        "8 (1 inch) pieces crystallized ginger, finely chopped",
+        "2 tablespoons flaked coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coconut Mango Muffins with Candied Ginger",
     "url": "http://allrecipes.com/recipe/231600/coconut-mango-muffins-with-candied-gi/"
 }

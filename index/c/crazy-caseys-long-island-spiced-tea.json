@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together the sugar, water, lime juice, lemon juice, rum, tequila, vodka, gin, and triple sec in a glass until the sugar has dissolved. Add the ice, and pour in the cola; garnish with the lemon wedge to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/670771.jpg",
+    "ingredients": [
+        "4 teaspoons white sugar",
+        "4 tablespoons water",
+        "4 teaspoons fresh lime juice",
+        "4 teaspoons fresh lemon juice",
+        "1 fluid ounce spiced rum",
+        "1 fluid ounce tequila",
+        "1 fluid ounce vodka",
+        "1 fluid ounce gin",
+        "1 fluid ounce triple sec (orange-flavored liqueur)",
+        "1 cup ice cubes",
+        "2 fluid ounces cola-flavored carbonated beverage",
+        "1 lemon wedge"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crazy Casey's Long Island Spiced Tea",
     "url": "http://allrecipes.com/recipe/131520/crazy-caseys-long-island-spiced-tea/"
 }

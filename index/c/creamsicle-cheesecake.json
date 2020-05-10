@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Beat cream cheese and sugar together in a large bowl with an electric mixer until light and fluffy; add eggs and beat well. Beat sour cream and vanilla extract into cream cheese mixture until batter is smooth.",
+        "Transfer one cup of the cream cheese mixture to a small bowl and stir in orange extract, yellow food coloring, and red food coloring until batter is smooth and orange.",
+        "Pour uncolored batter into prepared graham cracker crust. Drop spoonfuls of orange batter over the top of the uncolored batter and run a knife through the orange batter to create a marbled effect.",
+        "Bake in the preheated oven until the edges are firm and center is slightly loose, 30 to 35 minutes. Cool at room temperature for 1 hour. Cover cheesecake with plastic wrap and chill in the refrigerator, 8 hours to overnight."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1197835.jpg",
+    "ingredients": [
+        "2 (8 ounce) packages cream cheese, softened",
+        "\u00bd cup white sugar",
+        "2  eggs",
+        "\u00be cup sour cream",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon orange extract",
+        "2 drops yellow food coloring",
+        "1 drop red food coloring",
+        "1 (9 inch) prepared graham cracker crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamsicle&reg; Cheesecake",
     "url": "http://allrecipes.com/recipe/237147/creamsicle-cheesecake/"
 }

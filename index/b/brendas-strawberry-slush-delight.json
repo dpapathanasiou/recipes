@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan, dissolve the sugar in the water by bringing it to a boil over medium-high heat. Turn off the heat and allow it to cool.",
+        "Combine the sugar water with the pineapple juice, lemonade, orange juice and pureed strawberries in a 6-quart container. Mix in the rum to taste. Put the entire mixture into a large plastic ice cream pail and freeze overnight.",
+        "To make the drinks to order, scoop 1/2 cup of the frozen mixture into an 8 oz glass. Fill the glass with lemon-lime soda and serve with a straw. Keeps well in freezer for up to one month."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/38576.jpg",
+    "ingredients": [
+        "3 cups sugar",
+        "6 cups water",
+        "1 (46 fluid ounce) can pineapple juice",
+        "1 (12 fluid ounce) can frozen lemonade concentrate",
+        "2 (12 fluid ounce) cans frozen orange juice concentrate",
+        "1 quart strawberries (fresh or frozen) pureed in a blender",
+        "2 cups rum, or to taste",
+        "2 (2 liter) bottles chilled lemon-lime soda"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brenda's Strawberry Slush Delight",
     "url": "http://allrecipes.com/recipe/141255/brendas-strawberry-slush-delight/"
 }

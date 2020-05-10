@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F.",
+        "Brown ground beef and onion in large skillet and drain. Stir in ketchup, pickle and mustard and bring to a boil over medium-high heat.",
+        "Reduce heat to low and simmer 5 minutes. Stir in 1 cup cheese and tomato.",
+        "Turn mixture into 1-1/2 quart baking dish and sprinkle with remaining cheese. Evenly arrange Green Giant\u00ae  Broccoli & Cheese Veggie Tots\u2122 over mixture.",
+        "Bake 20 minutes or until bubbling.  Garnish, if desired, with shredded lettuce and chopped tomato."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4148698.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground beef",
+        "1 small onion, chopped",
+        "\u00bd cup ketchup",
+        "\u2153 cup chopped dill pickle or dill pickle relish",
+        "1 tablespoon mustard",
+        "2 cups shredded Cheddar cheese, divided",
+        "1 cup chopped tomato",
+        "1 (16 ounce) package Green Giant\u2122 Broccoli & Cheese Veggie Tots"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Veggie Tot & Cheeseburger Bake",
     "url": "http://allrecipes.com/recipe/256222/veggie-tot-cheeseburger-bake/"
 }

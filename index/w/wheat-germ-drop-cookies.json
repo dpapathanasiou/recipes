@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease baking sheet.",
+        "Add the oil to the sugar gradually and mix well. Beat in the milk and the eggs. Stir in the whole wheat flour, baking powder, wheat germ and nutmeg and mix well.",
+        "Drop teaspoonfuls of dough on the prepared baking sheets. Bake at 350 degrees F (175 degrees C) for 5 minutes. Lower temperature to 325 degrees F (165 degrees C) and bake for an additional 7 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F344135.jpg",
+    "ingredients": [
+        "\u00bd cup vegetable oil",
+        "\u00bd cup milk",
+        "2\u2009\u00bc cups whole wheat flour",
+        "2 teaspoons baking powder",
+        "1 cup packed brown sugar",
+        "2  eggs",
+        "\u00bd cup wheat germ",
+        "2 teaspoons ground nutmeg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wheat Germ Drop Cookies",
     "url": "http://allrecipes.com/recipe/11338/wheat-germ-drop-cookies/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a microwave-safe plate with cooking spray. Arrange jicama pieces on plate.",
+        "Cook in the microwave on high until small brown stripes begin to form on the fries, 9 to 11 minutes. Check on the fries every few minutes to avoid burning. Remove plate from microwave with an oven mitt because plate will be hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2988&h=1564&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2139956.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 cup French fry-sized pieces of jicama"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jicama Zebra Fries",
     "url": "http://allrecipes.com/recipe/229061/jicama-zebra-fries/"
 }

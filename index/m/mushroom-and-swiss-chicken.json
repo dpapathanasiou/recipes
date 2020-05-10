@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine oil and garlic in a 9x13 inch baking dish. Add chicken breasts and coat well with the oil and garlic. Sprinkle with the vinegar and Cajun seasoning.",
+        "Bake at 350 degrees F (175 degrees C) for 30 minutes.",
+        "Remove chicken from oven and cover with green onion and mushrooms; then add a few more sprinkles of oil and vinegar and return dish to oven for 15 to 20 minutes more. Remove from oven and immediately place 1 slice of cheese on top of each chicken breast; cheese will melt. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4238&h=2219&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F604217.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breasts",
+        "2 cloves crushed garlic",
+        "3 tablespoons olive oil",
+        "3 tablespoons red wine vinegar",
+        "1 tablespoon Cajun-style seasoning",
+        "1 cup chopped green onion",
+        "1 (8 ounce) package sliced fresh mushrooms",
+        "4 slices Swiss cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom and Swiss Chicken",
     "url": "http://allrecipes.com/recipe/17016/mushroom-and-swiss-chicken/"
 }

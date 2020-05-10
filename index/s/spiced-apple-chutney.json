@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk vinegar and sugar together in a large saucepan; add apples, apricots, raisins, shallots, ginger, Aleppo pepper flakes, and star anise. Bring to a simmer, reduce heat to medium-low; stir in garlic, salt, and mustard.",
+        "Simmer mixture, stirring occasionally, until fruit is soft and liquid is reduced, 40 to 45 minutes. Remove from heat and cool to room temperature. Remove ginger pieces and star anise, transfer mixture to a bowl, and refrigerate until chilled. Season with salt and pepper flakes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1570949.jpg",
+    "ingredients": [
+        "1 1/2 cups white vinegar",
+        "1 1/2 cups white sugar",
+        "4 tart apples - peeled, cored, and cut into 1/2-inch cubes",
+        "1/4 cup diced dried apricots",
+        "1/4 cup golden raisins",
+        "1/4 cup diced shallots",
+        "5 thick slices fresh ginger",
+        "1/4 teaspoon Aleppo pepper flakes, or to taste",
+        "1 whole star anise",
+        "2 cloves garlic, minced",
+        "1 teaspoon kosher salt, or to taste",
+        "1/2 teaspoon yellow mustard seed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Apple Chutney",
     "url": "http://allrecipes.com/recipe/239868/spiced-apple-chutney/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a large pot, and cook the leeks over medium heat until soft and translucent, about 5 minutes. Stir in salt, pepper, and coriander. Reserve about 1/4 cup of small broccoli florets, and cook the rest of the broccoli with the leeks until the broccoli is bright green, about 5 more minutes. Pour in the chicken stock, bring the soup to a boil, cover, then simmer until the broccoli is very tender, 10 to 15 minutes.",
+        "Pour the soup into a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to puree. Puree in batches until smooth and pour into a clean pot. Alternately, you can use a stick blender and puree the soup right in the cooking pot.",
+        "Return the blended soup to the pot, stir in the reserved broccoli florets, and bring to a simmer over medium-low heat, stirring often. Simmer until the broccoli florets are tender, 5 to 7 minutes. Remove from heat, and mix in the condensed milk. Serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/470164.jpg",
+    "ingredients": [
+        "1 tablespoon butter",
+        "4 leeks, chopped",
+        "1/4 teaspoon salt",
+        "1/2 teaspoon fresh ground black pepper",
+        "1/4 teaspoon ground coriander",
+        "2 heads fresh broccoli, chopped",
+        "1 (32 ounce) carton low-sodium chicken broth",
+        "1 (12 fluid ounce) can fat-free evaporated milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Low Fat Full Flavor Cream of Broccoli Soup",
     "url": "http://allrecipes.com/recipe/214764/low-fat-full-flavor-cream-of-broccoli/"
 }

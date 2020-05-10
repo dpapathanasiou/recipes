@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat large skillet over medium-high heat. Add almonds, cook 2-3 minutes or until browned, stirring frequently, being careful not to burn. Add 2 Tbsp. of the butter, Worcestershire, lemon juice, and cumin. Cook until butter has melted, stirring constantly.  Set aside on separate plate.",
+        "Melt remaining butter over medium-high heat. Add beans, cook 2 minutes, stirring occasionally. Remove from heat, sprinkle almond mixture over all. Salt and pepper to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1440&h=754&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4530350.jpg",
+    "ingredients": [
+        "3 ounces slivered almonds",
+        "3 tablespoons butter, divided",
+        "1 tablespoon Worcestershire sauce",
+        "1\u2009\u00bd teaspoons lemon juice",
+        "\u00bc teaspoon ground cumin",
+        "2 (14.5 ounce) cans DEL MONTE\u00ae Cut Green Beans, drained",
+        "\u215b teaspoon salt (or to taste)",
+        "Black pepper (to taste)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Toasted Almond Green Beans",
     "url": "http://allrecipes.com/recipe/230007/toasted-almond-green-beans/"
 }

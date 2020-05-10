@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine flour, salt, pepper, and thyme in a bowl. Toss beef cubes in the flour mixture.",
+        "Heat olive oil in a Dutch oven or large pot over medium-high heat. Working in batches, brown beef cubes on all sides. Combine browned meat, apple cider, water, and cider vinegar in the pot and bring it to a boil. Add bay leaf; reduce heat to low. Simmer, partially covered, for 1 hour.",
+        "Stir in carrots, potatoes, onions, celery, and apple and simmer until the vegetables are tender, about 1 hour more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 tablespoons all-purpose flour",
+        "2 teaspoons salt",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon dried thyme",
+        "2 pounds cubed beef stew meat",
+        "3 tablespoons olive oil",
+        "2\u2009\u00bd cups apple cider",
+        "\u00be cup water",
+        "\u00bc cup apple cider vinegar",
+        "1 large bay leaf",
+        "4  carrots, sliced",
+        "3  potatoes, cubed",
+        "2  onions, diced",
+        "2  celery stalks, chopped",
+        "1 large McIntosh apple, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Cider Beef Stew",
     "url": "http://allrecipes.com/recipe/64014/apple-cider-beef-stew/"
 }

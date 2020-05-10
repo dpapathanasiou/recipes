@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan.",
+        "Mix buckwheat flour, teff flour, cinnamon, baking soda, salt, baking powder, and lemon zest in a bowl. Beat eggs, applesauce, maple syrup, coconut oil, and vanilla extract together in a large bowl with an electric mixer until well blended. Gradually add flour mixture to wet ingredients, beating on low speed until batter is just blended. Gently fold zucchini, raisins, and almonds into batter until evenly distributed; pour into prepared loaf pan.",
+        "Bake in preheated oven until a toothpick inserted into the center comes out clean, about 1 hour. Cool in the pans for 10 minutes before removing to cool completely on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1246708.jpg",
+    "ingredients": [
+        "1 cup buckwheat flour",
+        "1 cup teff flour",
+        "1 tablespoon ground cinnamon",
+        "2 teaspoons baking soda",
+        "1 teaspoon salt",
+        "\u00bc teaspoon baking powder",
+        "1  lemon, zested",
+        "3  eggs",
+        "1 cup applesauce",
+        "\u00bd cup maple syrup",
+        "1 tablespoon coconut oil, melted",
+        "2 teaspoons vanilla extract",
+        "2 cups grated zucchini",
+        "1 cup raisins",
+        "1 cup slivered almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zucchini Bread Gluten Free",
     "url": "http://allrecipes.com/recipe/222562/zucchini-bread-gluten-free/"
 }

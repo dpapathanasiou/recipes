@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a large skillet over medium heat. Stir in the cabbage, and cook until just wilted, about 5 minutes. Pour in the chicken broth, and bring to a simmer. Cook until slightly reduced, about 10 minutes more. Stir in the cream, and season with salt and pepper. Keep the cabbage hot over low heat while preparing the ground beef.",
+        "Heat a Dutch oven or large skillet over medium-high heat and stir in the ground beef. Cook and stir until the beef is crumbly and no longer pink. Add the onion, and cook until tender, about 5 minutes. Stir in the smoked paprika and mustard. Stir in the cabbage mixture and egg noodles; season to taste with salt and pepper. Cover, and cook over low heat until the noodles are tender, about 10 minutes. Pour in water as needed so the noodles do not become dry."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3083741.jpg",
+    "ingredients": [
+        "1 tablespoon butter",
+        "\u00bd head cabbage, chopped",
+        "1 cup chicken broth",
+        "\u00be cup heavy whipping cream",
+        "1 teaspoon salt, or to taste",
+        "1 teaspoon ground black pepper, or to taste",
+        "1 pound ground beef",
+        "1  onion, chopped",
+        "2 tablespoons smoked paprika",
+        "1 teaspoon dry mustard powder",
+        "2 cups uncooked egg noodles"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mark's Cabbage and Hamburger Delight",
     "url": "http://allrecipes.com/recipe/216537/marks-cabbage-and-hamburger-delight/"
 }

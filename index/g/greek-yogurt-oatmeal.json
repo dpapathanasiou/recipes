@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine oats, banana, cinnamon, and salt in a microwave-safe bowl; add water and stir. Cook in microwave until water is absorbed, 2 to 3 minutes. Stir to evenly distribute cinnamon; let stand until slightly cooled, about 3 minutes.",
+        "Spoon Greek yogurt, strawberry jam, and peanut butter over oatmeal; stir."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2395076.jpg",
+    "ingredients": [
+        "\u00bd cup rolled oats",
+        "\u00bd  banana, sliced",
+        "\u00bd teaspoon ground cinnamon (optional)",
+        "1 pinch salt",
+        "1 cup water",
+        "\u00bc cup Greek yogurt",
+        "2 tablespoons strawberry jam",
+        "1 tablespoon peanut butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Greek Yogurt Oatmeal",
     "url": "http://allrecipes.com/recipe/244287/greek-yogurt-oatmeal/"
 }

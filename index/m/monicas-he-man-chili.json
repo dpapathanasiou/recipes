@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a skillet over medium-high heat, cook the bacon until evenly brown and crisp. Reserve juices in skillet, and set bacon aside. Brown the sausage in the bacon juices. Set aside. Cook the ground beef in the skillet until evenly brown. Set aside. Saute the onion and green pepper in the skillet juices until tender.",
+        "In a large pot over medium heat, mix the bacon, sausage, beef, onion, green pepper, and jalapeno pepper. Pour in the wine and tomatoes, and season with chili powder. Cook 20 minutes, stirring often. Mix in the beans, and continue to cook and stir 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F94425.jpg",
+    "ingredients": [
+        "\u00bd pound bacon",
+        "1 pound kielbasa sausage, cut into 1 inch pieces",
+        "1 pound ground beef",
+        "1 large onion, chopped",
+        "1  green bell pepper, chopped",
+        "1 tablespoon chopped jalapeno pepper",
+        "1 cup Merlot wine",
+        "2 (28 ounce) cans whole peeled tomatoes, mashed, liquid reserved",
+        "2 tablespoons chili powder, or to taste",
+        "2 (15.5 ounce) cans pinto beans, drained (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Monica's He-Man Chili",
     "url": "http://allrecipes.com/recipe/72193/monicas-he-man-chili/"
 }

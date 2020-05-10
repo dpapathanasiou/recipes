@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large mixing bowl place figs and sprinkle with baking soda.  Pour the boiling water over the figs and soak for 1 hour.",
+        "Drain figs and rinse thoroughly with cold water.  In a large Dutch oven combine the sugar and the 4 cups of water; bring to a boil and cook for 10 minutes.",
+        "Add the figs and lemon slices to the syrup in the Dutch oven and cook for 1 hour, stirring occasionally.",
+        "Spoon figs into hot, sterilized jars and spoon syrup over figs, leaving 1/2 inch of head space.  Top jars with lids and screw bands on tightly.  Process for 10 minutes in a hot water bath."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1281274.jpg",
+    "ingredients": [
+        "16 cups fresh figs",
+        "1 tablespoon baking soda",
+        "12 cups boiling water",
+        "8 cups white sugar",
+        "4 cups water",
+        "1 lemon, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fig Preserves",
     "url": "http://allrecipes.com/recipe/20854/fig-preserves/"
 }

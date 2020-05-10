@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Slice cake and spread pieces with jelly or jam.  Sandwich pieces of cake together and arrange pieces in bottom of glass trifle bowl or other glass serving bowl.  Prepare the gelatin according to package directions and pour over cake.  Refrigerate until set, 2 hours.",
+        "Pour prepared pudding or custard over the set gelatin.  In a medium bowl, whip cream until stiff peaks form.  Spread over pudding.  Sprinkle with chocolate and chill in refrigerator until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2161987.jpg",
+    "ingredients": [
+        "1 (9 inch) sponge cake",
+        "1 cup strawberry jelly",
+        "2 (3 ounce) packages strawberry flavored Jell-O\u00ae",
+        "15 ounces prepared vanilla pudding",
+        "1/2 pint heavy cream",
+        "2 ounces finely chopped bittersweet chocolate"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Trifle",
     "url": "http://allrecipes.com/recipe/20345/trifle/"
 }

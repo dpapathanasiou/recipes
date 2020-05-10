@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend marionberries, hemp milk, kale, banana, ice, cashew butter, chia seeds, honey, and orange blossom water together in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6826926.jpg",
+    "ingredients": [
+        "3/4 cup frozen marionberries",
+        "1/2 cup hemp milk, or more to taste",
+        "1/4 cup chopped kale, or to taste",
+        "1/2 frozen banana, sliced (optional)",
+        "2 cubes ice, or as needed",
+        "1 tablespoon cashew butter, or more to taste",
+        "1 tablespoon chia seeds (optional)",
+        "1 teaspoon honey, or more to taste",
+        "1 splash orange blossom water (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mal's Killer Vegan PB-and-J Smoothie",
     "url": "http://allrecipes.com/recipe/237765/mals-killer-vegan-pb-and-j-smoothie/"
 }

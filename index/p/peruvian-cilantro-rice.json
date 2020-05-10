@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken into a large saucepan and fill with enough water to cover, about 3 cups. Bring to a boil and cook for about fifteen minutes, or until chicken is done.  Dice chicken, and reserve cooking liquid.",
+        "In a food processor or blender, puree cilantro with 1/2 cup water.",
+        "Heat oil in a saucepan and cook garlic until lightly browned.  Pour in 2 cups of the cooking liquid and stir in the cilantro puree, diced chicken, carrots, peas, cumin and rice.  Season with salt and pepper to taste.  Bring to a simmer, then cover; cook on low heat until rice is tender and liquid has been absorbed, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F375803.jpg",
+    "ingredients": [
+        "2 (4 ounce) skinless, boneless chicken breast halves",
+        "1 bunch fresh cilantro, stems removed",
+        "\u00bd cup water",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon minced garlic",
+        "\u00bc cup frozen, chopped carrots",
+        "\u00bc cup frozen peas (optional)",
+        "1 tablespoon cumin",
+        "salt and freshly ground black pepper to taste",
+        "1 cup uncooked white rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peruvian Cilantro Rice",
     "url": "http://allrecipes.com/recipe/73832/peruvian-cilantro-rice/"
 }

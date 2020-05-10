@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cooled coffee and Marsala wine together in a bowl.",
+        "Beat egg yolks with half of the sugar in a bowl until you have a clear cream with no lumps. Stir the mascarpone with a wooden spoon or whisk in a separate bowl until creamy; stir into the egg yolks.",
+        "Beat the egg whites with the remaining sugar in a separate bowl using an electric mixer until they form peaks; fold gently into mascarpone mixture.",
+        "Dip half of the savoiardi biscuits into coffee-Marsala mixture. Arrange dipped biscuits carefully in a glass dish. Cover dipped biscuits with half of the mascarpone mixture. Smooth out mascarpone until evenly distributed; top with half of the cocoa powder. Repeat layering with dipped savoiardi biscuits, mascarpone mixture, and cocoa powder; top with chocolate shavings.",
+        "Refrigerate tiramisu until flavors blend, at least 3 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2604&h=1363&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5053488.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups brewed espresso coffee, cooled",
+        "1\u2009\u00bc cups Marsala wine",
+        "4 medium eggs, separated",
+        "\u00bd cup white sugar, divided",
+        "14 ounces mascarpone cheese",
+        "40  Savoiardi biscuits (ladyfingers)",
+        "3 tablespoons cocoa powder, or more to taste",
+        "1 tablespoon chocolate shavings, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tiramisu al Marsala",
     "url": "http://allrecipes.com/recipe/246812/tiramisu-al-marsala/"
 }

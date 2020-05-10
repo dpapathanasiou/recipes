@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a cocktail shaker with ice; pour the vodka, cranberry juice, and pineapple juice over the ice; shake vigorously; strain into a chilled martini glass."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/198971.jpg",
+    "ingredients": [
+        "ice",
+        "1 1/2 fluid ounces cherry vodka",
+        "1 1/2 fluid ounces cranberry juice",
+        "1 1/2 fluid ounces pineapple juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cherry Breeze Martini",
     "url": "http://allrecipes.com/recipe/180194/cherry-breeze-martini/"
 }

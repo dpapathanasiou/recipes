@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan over medium-high heat, combine the white wine, onions, basil and peppercorns. Bring to a boil and cook until reduced by half, about 20 minutes.",
+        "Meanwhile, heat the fish stock in a large skillet over medium-low heat. Add the salmon, and poach for 10 to 15 minutes, until salmon is cooked through, always keeping the stock at just below the boiling point. Remove the salmon to a plate, and cover with aluminum foil to keep warm.",
+        "Remove about 3/4 cup of the fish stock, and stir it into the white wine reduction. Transfer the white wine sauce to a blender, and puree until smooth. Strain through a sieve back into the saucepan, and stir in the cream. Bring to a boil, and reduce by half again. Whisk in cold butter, and season with salt and pepper.",
+        "Meanwhile, bring a pot of lightly salted water to a boil. Add the pasta and cook until tender, about 8 minutes. Serve pasta with salmon fillets and spoon sauce over the top. Garnish with a piece of dill."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7252573.jpg",
+    "ingredients": [
+        "1 (750 milliliter) bottle dry white wine",
+        "2 medium onions, chopped",
+        "20 fresh basil leaves, chopped",
+        "20 whole green peppercorns",
+        "1 quart fish stock",
+        "4 (8 ounce) salmon fillets",
+        "1 1/4 cups heavy cream",
+        "1 tablespoon cold butter",
+        "1 (16 ounce) package dry fettuccini pasta",
+        "salt to taste",
+        "4 sprigs fresh dill weed, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salmon with White Wine Sauce and Fettuccini",
     "url": "http://allrecipes.com/recipe/89611/salmon-with-white-wine-sauce-and-fett/"
 }

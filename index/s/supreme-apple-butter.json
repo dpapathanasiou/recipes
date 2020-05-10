@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan, bring apple juice concentrate, apple cider, and Macintosh apples to a boil. Reduce heat to low. Stirring occasionally, simmer uncovered about 1 hour, until apples are easily mashed.",
+        "Mix dark brown sugar, apple brandy, cinnamon, ginger, and cloves into the apple mixture. Bring to a boil, reduce heat, and simmer uncovered 2 hours, stirring occasionally, until thickened. Transfer to sealed sterile containers, and cool at least 1 hour before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/50105.jpg",
+    "ingredients": [
+        "1 (12 fluid ounce) can frozen apple juice concentrate, thawed",
+        "1/2 cup apple cider",
+        "4 pounds Macintosh apples - peeled, cored and chopped",
+        "3/4 cup dark brown sugar",
+        "1 cup apple brandy",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground ginger",
+        "1/4 teaspoon ground cloves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Supreme Apple Butter",
     "url": "http://allrecipes.com/recipe/42164/supreme-apple-butter/"
 }

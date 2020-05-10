@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place roast in a slow cooker. Form a pocket in the top of roast and place butter, pepperoncini peppers, ranch dressing mix, and au jus mix in the pocket.",
+        "Cook on Low for 8 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3665529.jpg",
+    "ingredients": [
+        "1 (4 pound) beef chuck roast",
+        "1/4 cup butter",
+        "5 pepperoncini peppers",
+        "1 (1 ounce) packet ranch dressing mix",
+        "1 (1 ounce) packet dry au jus mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mississippi Roast - Slow Cooker Pepperoncini Pot Roast",
     "url": "http://allrecipes.com/recipe/246721/mississippi-roast---slow-cooker-peppe/"
 }

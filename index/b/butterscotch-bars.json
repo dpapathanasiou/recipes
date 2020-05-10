@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F. Grease 15 1/2 x 10 1/2 x 1-inch jelly-roll pan.",
+        "Combine cake mix, eggs, melted butter, brown sugar and vanilla extract in large bowl. Beat at low speed with electric mixer until smooth and creamy. Stir in butterscotch chips and pecans. Spread in pan.",
+        "Bake at 375 degrees F for 20 to 25 minutes or until golden brown. Cool completely. Cut into bars."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3433914.jpg",
+    "ingredients": [
+        "1 package Duncan Hines\u00ae Moist Deluxe\u00ae French Vanilla Cake Mix",
+        "2 large eggs",
+        "1 cup butter or margarine, melted",
+        "3/4 cup firmly packed light brown sugar",
+        "1 teaspoon vanilla extract",
+        "1 (12 ounce) package butterscotch chips",
+        "1 1/2 cups chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butterscotch Bars",
     "url": "http://allrecipes.com/recipe/246732/butterscotch-bars/"
 }

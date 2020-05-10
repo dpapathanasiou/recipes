@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together the tomatoes, garlic, red pepper, and basil. Drizzle with olive oil, and season with salt and pepper. Mix well, and let stand for at least one hour at room temperature to blend the flavors.",
+        "Bring a large pot of lightly salted water to a boil. Add pasta, and cook until al dente, about 8 minutes. Drain, and serve topped with sauce."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/873913.jpg",
+    "ingredients": [
+        "12 plum tomatoes, finely chopped",
+        "3 cloves garlic, minced",
+        "1 medium red bell pepper, seeded and chopped",
+        "20 fresh basil leaves, torn",
+        "1/2 cup olive oil",
+        "1 teaspoon salt",
+        "black pepper to taste",
+        "1 (16 ounce) package dry pasta of your choice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No-Cook Spaghetti Sauce",
     "url": "http://allrecipes.com/recipe/59457/no-cook-spaghetti-sauce/"
 }

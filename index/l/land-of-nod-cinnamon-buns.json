@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lightly grease a 10 inch Bundt cake pan. Place frozen rolls into pan and sprinkle with brown sugar, pudding mix, ground cinnamon and raisins. Pour melted butter over rolls. Cover with a clean, damp cloth and leave overnight at room temperature.",
+        "In the morning, preheat oven to 350 degrees F (175 degrees C). Bake rolls for 25 minutes, until golden brown. Turn rolls out onto a serving plate and serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2668&h=1397&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4055677.jpg",
+    "ingredients": [
+        "20  unbaked frozen dinner rolls",
+        "1 cup brown sugar",
+        "\u00bc cup instant vanilla pudding mix",
+        "2 teaspoons ground cinnamon",
+        "\u00be cup raisins",
+        "\u2153 cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Land of Nod Cinnamon Buns",
     "url": "http://allrecipes.com/recipe/23177/land-of-nod-cinnamon-buns/"
 }

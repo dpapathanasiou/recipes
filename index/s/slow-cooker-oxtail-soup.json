@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat butter in a large skillet over medium heat. Add oxtail and onion; cook until oxtail is until browned, 5 to 7 minutes per side. Transfer oxtail and onion to a slow cooker.",
+        "Pour wine into the skillet and bring to a boil while scraping the browned bits of food off the bottom of the skillet with a wooden spoon. Pour wine mixture into slow cooker; add water to cover.",
+        "Set slow cooker to Low; cook soup for 8 hours. Add potatoes, carrots, celery, and green beans; cook soup for 4 hours more.",
+        "Cool soup slightly; refrigerate until fat has risen to top and solidified, about 1 hour. Scoop off fat; stir in tomatoes. Reheat soup on stove before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4813473.jpg",
+    "ingredients": [
+        "2 tablespoons butter, or as needed",
+        "1 pound beef oxtail, cut into pieces",
+        "1  onion, chopped",
+        "\u00bd (750 milliliter) bottle red wine, or to taste",
+        "water to cover",
+        "1 pound potatoes, peeled and cubed",
+        "2  carrots, chopped",
+        "2 ribs celery, chopped",
+        "1 cup green beans",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Oxtail Soup",
     "url": "http://allrecipes.com/recipe/246143/slow-cooker-oxtail-soup/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Butter an 8-inch square baking dish.",
+        "Mix 1 cup flour, milk, melted butter, 1/2 cup brown sugar, vanilla extract, 1 teaspoon cinnamon, and baking powder together in a bowl until batter is combined.",
+        "Combine 1/4 cup brown sugar, 4 teaspoons flour, 1 1/2 teaspoons cinnamon, and allspice together in a bowl; add water and mix. Stir peaches into brown sugar filling. Spoon filling into the prepared baking dish. Spread batter over the filling; top with white sugar.",
+        "Bake in the preheated oven until filling is bubbling and top is golden brown, 45 to 60 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3686193.jpg",
+    "ingredients": [
+        "Topping:",
+        "1 cup all-purpose flour",
+        "1/2 cup milk",
+        "1/2 cup butter, melted",
+        "1/2 cup packed brown sugar",
+        "1 tablespoon vanilla extract",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon baking powder",
+        "Filling:",
+        "1/4 cup packed brown sugar",
+        "4 teaspoons all-purpose flour",
+        "1 1/2 teaspoons ground cinnamon",
+        "1 pinch ground allspice",
+        "3 tablespoons water",
+        "4 cups peeled and sliced fresh peaches",
+        "1 pinch white sugar, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peach Summer Cobbler",
     "url": "http://allrecipes.com/recipe/242027/peach-summer-cobbler/"
 }

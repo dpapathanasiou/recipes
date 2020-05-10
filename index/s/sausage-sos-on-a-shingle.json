@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown sausage in a large skillet; drain fat. Pour flour directly on sausage to coat (this will prevent lumps). Add milk, to desired consistency. Stir in the poultry seasoning, salt, pepper, onion and Worcestershire sauce and heat through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1002153.jpg",
+    "ingredients": [
+        "1 pound ground pork sausage",
+        "\u00bc cup all-purpose flour",
+        "\u00bd cup milk",
+        "1 teaspoon poultry seasoning",
+        "salt and pepper to taste",
+        "3 tablespoons chopped onion",
+        "1 dash Worcestershire sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage SOS ($#@% On a Shingle)",
     "url": "http://allrecipes.com/recipe/24804/sausage-sos-on-a-shingle/"
 }

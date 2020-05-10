@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place black beans into a large container and cover with several inches of cool water; let stand 8 hours to overnight. Drain beans and rinse with fresh water.",
+        "Heat oil in a large Dutch oven or stockpot over medium heat; cook and stir yellow onion, paprika, and cumin seeds until fragrant, about 3 minutes. Add red bell pepper, green bell pepper, garlic, oregano, and bay leaves; cook and stir until onion is translucent and bell peppers are tender, 6 to 8 minutes.",
+        "Mix vegetable stock, black beans, tempeh, rum, and jalapeno pepper into onion mixture. Increase heat to medium-high, bring to a simmer, reduce heat to medium-low, and cook until beans are tender, about 45 minutes.",
+        "Pour water into bean mixture; season with 1 1/2 teaspoons salt. Cook, stirring occasionally, until beans begin to fall apart and soup thickens, 30 to 40 minutes; season with salt and pepper. Remove and discard bay leaves from soup.",
+        "Ladle soup into bowls and garnish with hard-boiled eggs and red onion."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3887871.jpg",
+    "ingredients": [
+        "1 pound dried black beans",
+        "1/4 cup vegetable oil",
+        "1 large yellow onion, finely chopped",
+        "1 tablespoon smoked paprika",
+        "2 teaspoons cumin seeds",
+        "1 red bell pepper, diced",
+        "1 green bell pepper, diced",
+        "8 cloves garlic, minced",
+        "2 teaspoons dried Mexican oregano, crushed between your fingers",
+        "2 bay leaves",
+        "6 cups vegetable stock",
+        "1 cup diced smoked tempeh bacon (such as Lightlife\u00ae Organic Smoky Tempeh Strips\u00ae)",
+        "2 tablespoons dark rum (optional)",
+        "1 jalape\u00f1o pepper, seeded and chopped",
+        "2 cups water",
+        "1 1/2 teaspoons salt",
+        "salt and freshly ground black pepper to taste",
+        "1/2 cup sliced hard-boiled eggs (optional)",
+        "1/2 cup finely chopped red onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Smokey Vegetarian Cuban Black Bean Soup",
     "url": "http://allrecipes.com/recipe/237345/smokey-vegetarian-cuban-black-bean-so/"
 }

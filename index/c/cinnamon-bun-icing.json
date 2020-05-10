@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine cream cheese, margarine, vanilla extract, confectioners' sugar and milk. Beat until creamy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F35956.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bd cup margarine, softened",
+        "1 teaspoon vanilla extract",
+        "3 cups confectioners' sugar",
+        "1 tablespoon milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Bun Icing",
     "url": "http://allrecipes.com/recipe/22944/cinnamon-bun-icing/"
 }

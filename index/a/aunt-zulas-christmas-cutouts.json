@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (180 degrees C).",
+        "Cream sugar and shortening together.  Add eggs and dry ingredients.  Add the milk last.",
+        "No need to chill this dough, simply roll out to 1/4 inch thickness, cut out and bake 10-12 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F535539.jpg",
+    "ingredients": [
+        "1 cup shortening",
+        "1 cup confectioners' sugar",
+        "\u00bd teaspoon salt",
+        "2  eggs",
+        "2\u2009\u00be cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "2 tablespoons milk",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aunt Zula's Christmas Cutouts",
     "url": "http://allrecipes.com/recipe/10062/aunt-zulas-christmas-cutouts/"
 }

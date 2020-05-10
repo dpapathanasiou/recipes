@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "To Make Meat Mixture: Heat 2 tablespoons oil in a large skillet over medium high heat. Saute onions until golden brown, then remove from skillet and set aside. Add remaining 2 tablespoons oil to skillet and heat for 1 minute over medium high heat. Add beef and cook until browned, mashing with a fork to break into small pieces. Drain fat.",
+        "Place beef, sauteed onions, salt and pepper in a blender and blend on high for 5 to 7 seconds; set aside.",
+        "To Make Dough: In a medium bowl, combine flour, salt and egg and mix well. Stir in water, a little bit at a time, until dough is stiff. Knead dough for 2 to 4 minutes on a lightly floured surface. Roll out dough to 1/8 inch thickness with a rolling pin. With a glass or cookie cutter, cut out rounds about 3 inches in diameter.",
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Place 1 tablespoon filling on 1/2 of each dough circle. Moisten edges of dough with a little water; fold dough over filling and press edges together, first with your fingers, then with a fork.",
+        "Place piroshki on a lightly greased cookie sheet and bake for 30 minutes, or until golden brown. Brush with melted butter and serve at room temperature."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5312&h=2781&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4520390.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "3  onions, chopped",
+        "2 tablespoons vegetable oil",
+        "1\u2009\u00bd pounds lean ground beef",
+        "1 teaspoon salt",
+        "\u215b teaspoon ground black pepper",
+        "2 cups all-purpose flour",
+        "\u215b teaspoon salt",
+        "1  egg, beaten",
+        "\u00bd cup cold water, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Romanov Piroshki",
     "url": "http://allrecipes.com/recipe/21591/romanov-piroshki/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil over medium heat in a large skillet.  Sprinkle the cinnamon into the oil and stir until fragrant.  Stir the onion into the cinnamon oil and cook for 5 minutes, until softened and golden in color.  Stir in the garlic, ginger, and turmeric, and continue to cook for 3 additional minutes.  Pour in 1/4 water and cook for 2 minutes, adding a bit more water if mixture is too thick.",
+        "Stir the green chilies, turkey, chili powder, garam masala, and the rest of the water into the sauce.  Cover and cook for 10 minutes until mixture has thickened to sauce consistency, adding additional water if mixture looks dry. Taste the curry and add salt if needed."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6539605.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1/2 teaspoon ground cinnamon",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tablespoon minced fresh ginger root",
+        "1/2 teaspoon ground tumeric",
+        "3/4 cup water",
+        "2 green chile peppers, halved lengthwise",
+        "1 pound cubed cooked turkey",
+        "1 teaspoon spicy red chili powder",
+        "1/2 tablespoon garam masala",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Curry",
     "url": "http://allrecipes.com/recipe/154554/turkey-curry/"
 }

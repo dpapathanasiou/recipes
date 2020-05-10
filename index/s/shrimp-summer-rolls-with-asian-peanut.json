@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill or grill pan for medium-high heat.",
+        "Place the shrimp in a bowl and toss with olive oil and salt and black pepper.",
+        "Grill the shrimp on the preheated grill until opaque, 2 minutes per side. Remove from the grill and set aside.",
+        "Combine the cabbage, carrot, garlic, 1 tablespoon ginger, teriyaki sauce, and lime juice in a bowl, stir well.",
+        "Working with one at a time, wet rice paper with water and lay out on a clean surface. Place a quarter of the cabbage mixture in the center of the paper, top with a quarter of the shrimp. Shape the filling into a log shape and roll the rice paper around the filling, tucking the ends in as you go. Repeat with the remaining rice papers.",
+        "Whisk together the peanut butter, teriyaki sauce, sesame oil, hot sauce, garlic, 1 tablespoon ginger, salt and pepper. Slice the rolls in half on an angle, and serve with the peanut sauce on the side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/662710.jpg",
+    "ingredients": [
+        "1/4 pound medium shrimp - peeled and deveined",
+        "2 tablespoons olive oil",
+        "salt and ground black pepper to taste",
+        "1/4 cup shredded napa cabbage",
+        "2 tablespoons shredded carrot",
+        "3 cloves garlic, minced",
+        "1 tablespoon grated fresh ginger",
+        "2 tablespoons teriyaki sauce",
+        "2 tablespoons fresh lime juice",
+        "4 (8 inch) round sheets rice paper",
+        "1/2 cup chunky peanut butter",
+        "2 tablespoons teriyaki sauce",
+        "2 tablespoons sesame oil",
+        "2 tablespoons hot sauce",
+        "3 cloves garlic, minced",
+        "salt and ground black pepper to taste",
+        "1 tablespoon grated fresh ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp Summer Rolls with Asian Peanut Sauce",
     "url": "http://allrecipes.com/recipe/143462/shrimp-summer-rolls-with-asian-peanut/"
 }

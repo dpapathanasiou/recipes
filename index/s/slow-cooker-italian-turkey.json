@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dissolve the beef bouillon cubes in 1 quart water, and pour into a slow cooker. Place turkey in slow cooker, adding more water to cover if needed.",
+        "Cover, and cook 8 to 10 hours on Low. Two hours before end of cook time, mix the vinegar, onion, green bell pepper, garlic, oregano, and Worcestershire sauce into slow cooker.",
+        "Blend the brown gravy mix and water in a small bowl, and stir into the slow cooker, continue cooking 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6518251.jpg",
+    "ingredients": [
+        "4 beef bouillon cubes",
+        "1 quart water, or as needed",
+        "1 skinless, boneless turkey breast half",
+        "1/4 cup white vinegar",
+        "1 medium onion, chopped",
+        "1 green bell pepper, seeded and cut into strips",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "1 tablespoon Worcestershire sauce",
+        "1 (.75 ounce) packet brown gravy mix",
+        "1/2 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Italian Turkey",
     "url": "http://allrecipes.com/recipe/58442/slow-cooker-italian-turkey/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place oil, ketchup, sugar, vinegar, onion, lemon juice, paprika, and salt into a blender; cover and puree until smooth. Store in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1016871.jpg",
+    "ingredients": [
+        "1 1/2 cups vegetable oil",
+        "1 cup ketchup",
+        "3/4 cup white sugar",
+        "1/2 cup vinegar",
+        "1 small onion, chopped",
+        "1 teaspoon lemon juice",
+        "1 teaspoon paprika",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "French Salad Dressing",
     "url": "http://allrecipes.com/recipe/222662/french-salad-dressing/"
 }

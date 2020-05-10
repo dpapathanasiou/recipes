@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place garbanzo beans, tahini, olive oil, lemon juice, water, garlic, and cumin into a food processor and process until smooth, about 1 minute. Transfer to a bowl and sprinkle top of hummus with paprika and fresh parsley."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3875&h=2029&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3885541.jpg",
+    "ingredients": [
+        "1 (15 ounce) can garbanzo beans (chickpeas), drained",
+        "3 tablespoons tahini",
+        "2 tablespoons olive oil",
+        "1 tablespoon fresh lemon juice",
+        "\u00bc cup water",
+        "3 cloves garlic, crushed",
+        "\u00bd teaspoon ground cumin (optional)",
+        "1 pinch paprika",
+        "1 sprig fresh parsley, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Hummus",
     "url": "http://allrecipes.com/recipe/231081/best-hummus/"
 }

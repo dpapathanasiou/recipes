@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Brush both sides of each cabbage wedge with olive oil. Sprinkle garlic powder, red pepper flakes, salt, and pepper over each wedge. Arrange wedges on a baking sheet.",
+        "Roast in the preheated oven for 15 minutes; flip cabbage and continue roasting until browned and charred in some areas, about 15 minutes more. Squeeze lemon over each wedge."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 tablespoons extra-virgin olive oil",
+        "\u00bd head green cabbage, cut into 4 wedges",
+        "1 pinch garlic powder, or to taste",
+        "1 pinch red pepper flakes, or to taste",
+        "salt and ground black pepper to taste",
+        "2  lemons, halved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Cabbage",
     "url": "http://allrecipes.com/recipe/240800/roasted-cabbage/"
 }

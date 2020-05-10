@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix together spinach, bell pepper, garlic, artichokes, sour cream, and parmesan cheese. Season with salt and pepper. Mixture will be thick; add cream to thin to dip consistency. Spoon into a 1-quart baking dish.",
+        "Bake for 20 minutes, or until bubbly. Serve with crackers."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "\u00bd cup red bell pepper, diced",
+        "1 tablespoon minced garlic",
+        "1 (6.5 ounce) jar artichoke hearts, drained and mashed",
+        "\u00bd cup sour cream",
+        "\u00bd cup grated Parmesan cheese",
+        "salt and ground black pepper to taste",
+        "\u00bc cup heavy cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Holiday Hot Spinach Dip",
     "url": "http://allrecipes.com/recipe/9249/holiday-hot-spinach-dip/"
 }

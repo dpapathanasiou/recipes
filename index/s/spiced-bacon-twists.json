@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with aluminum foil and set a wire rack over the foil. Use a baking sheet that has sides to catch the grease.",
+        "In a small bowl, stir together the brown sugar, mustard powder, cinnamon, nutmeg, and cayenne pepper. Press each slice of bacon into the mixture until coated. Twist each strip a few times and place on the prepared baking rack.",
+        "Bake until bacon is browned and crisp enough to hold its shape, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1700&h=890&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1014844.jpg",
+    "ingredients": [
+        "1 cup packed light brown sugar",
+        "2 tablespoons dry mustard powder",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bd teaspoon ground nutmeg",
+        "\u00bc teaspoon cayenne pepper",
+        "1 pound sliced bacon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Bacon Twists",
     "url": "http://allrecipes.com/recipe/163777/spiced-bacon-twists/"
 }

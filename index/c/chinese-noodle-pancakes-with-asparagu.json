@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot of water boil noodles until al dente. Drain well. Rinse with cool water until the noodles are cool.",
+        "Break off the tough ends of the asparagus, and cut the rest of the spears into 2-inch lengths. In a large skillet, heat 1 tablespoon of the oil over medium heat. Add the garlic and ginger, saute for 1 minute, make sure not to brown the garlic. Add the asparagus and 1/2 cup water. Simmer for 2 minutes.",
+        "Put the cornstarch into a small mixing bowl, stir in the remaining 1/2 cup water and the rice wine or sherry. Stir well. Add this mixture, the soy sauce, and the fermented black beans, if you're using them, to the simmering vegetables. Let the sauce boil for a few seconds, add the spinach and stir until it wilts. Remove the skillet from the heat",
+        "Heat the remaining oil in a skillet over high heat. Divide the noodles into four mounds, and place the mounds of noodles in the hot frying pan. Flatten the mounds in the frying pan so that more surface area will brown, reduce the heat to medium-high, and fry the cakes for at least 5 minutes, until they develop a golden-brown crust on the bottom. Turn the cakes over, and fry them for 3 minutes",
+        "While the noodle cakes cook, reheat the vegetables and the sauce slightly. Add the sesame oil, salt and pepper to the vegetable mixture.  Place the noodle cakes on plates, spoon the sauce and vegetables over and around the cakes, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/86423.jpg",
+    "ingredients": [
+        "1 pound fresh Chinese wheat noodles",
+        "1/2 pound fresh asparagus",
+        "2 tablespoons canola oil",
+        "2 cloves garlic, minced",
+        "1 teaspoon minced fresh ginger root",
+        "1 cup water",
+        "1 tablespoon cornstarch",
+        "2 tablespoons Chinese rice wine",
+        "2 tablespoons soy sauce",
+        "1 tablespoon fermented black beans",
+        "8 ounces spinach with stems, rinsed",
+        "2 teaspoons dark sesame oil",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chinese Noodle Pancakes with Asparagus",
     "url": "http://allrecipes.com/recipe/14008/chinese-noodle-pancakes-with-asparagu/"
 }

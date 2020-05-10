@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Butter one 9x13 inch dish.",
+        "Place 1 1/2 cups  vanilla wafer crumbs in bottom of dish.",
+        "Mix together the whipped topping, marshmallows, pecans and peppermint candy.",
+        "Sprinkle remaining crumbs on top; garnish with any additional crushed candy. Refrigerate 24 hours before serving to allow the candy to dissolve."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 cups vanilla wafer crumbs",
+        "1 (16 ounce) container frozen whipped topping, thawed",
+        "2 cups miniature marshmallows",
+        "2/3 cup chopped pecans",
+        "1 cup coarsely chopped peppermint candy canes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peppermint Stick Dessert",
     "url": "http://allrecipes.com/recipe/9479/peppermint-stick-dessert/"
 }

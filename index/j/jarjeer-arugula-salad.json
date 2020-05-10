@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wash and dry arugula leaves.  Arrange leaves on a large plate and layer with onions, mushrooms and tomato.",
+        "Whisk together olive oil, lemon juice and sumac.  Season to taste with salt, and pour over the salad."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1787032.jpg",
+    "ingredients": [
+        "1 bunch arugula",
+        "2 onions, thinly sliced",
+        "1 cup chopped mushrooms",
+        "1 tomato, diced (optional)",
+        "1 teaspoon extra virgin olive oil",
+        "1/2 lemon, juiced",
+        "2 teaspoons sumac (see Note)",
+        "Salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jarjeer (Arugula) Salad",
     "url": "http://allrecipes.com/recipe/141069/jarjeer-arugula-salad/"
 }

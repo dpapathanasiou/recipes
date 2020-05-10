@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook and stir sausage in a large skillet over medium heat until browned. Drain; place sausage in a pot large enough to hold all ingredients. In same skillet, cook and stir onion with ground beef over medium heat until beef is browned and onions are tender; drain and add to the large pot.",
+        "In same skillet, cook and stir stew beef over medium heat until browned. Without draining, pour stew beef into the large pot.",
+        "Pour tomatoes, beer, and water into the pot with meats. Stir in chili powder, red pepper, white pepper, sugar, and cinnamon. Season to taste with salt and black pepper. Simmer until stew beef is very tender, at least 2 hours, stirring occasionally and adding more water as needed. If you prefer a thicker chili, thicken as needed with tomato paste. If using kidney beans, add them 10 minutes before serving, just in time to heat through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4500263.jpg",
+    "ingredients": [
+        "1 pound hot or sweet Italian sausage",
+        "1 pound ground beef",
+        "\u00bd  onion, chopped",
+        "1\u2009\u00bd pounds beef stew meat, cut into 1/2 inch pieces",
+        "1 (28 ounce) can diced tomatoes",
+        "1 (12 fluid ounce) bottle dark beer",
+        "2 cups water",
+        "\u00bc cup chili powder, or to taste",
+        "\u00bc teaspoon red pepper",
+        "\u00bc teaspoon white pepper",
+        "\u00bc cup white sugar",
+        "\u00bd teaspoon ground cinnamon",
+        "salt and black pepper to taste",
+        "3 tablespoons tomato paste (optional)",
+        "1 (15 ounce) can kidney beans, rinsed and drained (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jen's Hearty Three Meat Chili",
     "url": "http://allrecipes.com/recipe/154905/jens-hearty-three-meat-chili/"
 }

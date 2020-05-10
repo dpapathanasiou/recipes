@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x13 inch baking pan.",
+        "In a medium bowl, mix together the shortening and 1/2 cup of brown sugar until smooth. Stir in 1 cup of flour and salt until well blended. Press into the prepared pan.",
+        "Bake the crust for 15 minutes in the preheated oven, or until delicately browned. After removing the crust from the oven, increase the heat to 350 degrees F (175 degrees C).",
+        "Make the filling while the crust is baking. In a medium bowl, stir together 1 cup brown sugar, baking powder, and  2 tablespoons of flour until well blended. Mix in eggs and vanilla, beating until thick and foamy. Stir in the coconut and chopped nuts. Spread over the warm crust.",
+        "Bake for 25 minutes in the preheated oven, or until bars are lightly browned and puffy.  Cool completely, and cut into small bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2856&h=1495&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F425189.jpg",
+    "ingredients": [
+        "\u00bd cup shortening",
+        "\u00bd teaspoon salt",
+        "\u00bd cup packed dark brown sugar",
+        "1 cup all-purpose flour",
+        "1 cup packed dark brown sugar",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons all-purpose flour",
+        "\u00bd teaspoon baking powder",
+        "1\u2009\u00bd cups coconut",
+        "1 cup chopped walnuts",
+        "2  eggs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tom Thumb Bars  (Coconut Specialties)",
     "url": "http://allrecipes.com/recipe/60423/tom-thumb-bars-coconut-specialties/"
 }

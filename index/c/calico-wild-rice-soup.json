@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium sauce pan cook rice in 6 cups water until cooked through and tender.",
+        "In a large saucepan or stock pot combine broth, cooked rice, corn, green onions, red and green bell pepper, parsley and tarragon.  Mix well and cook over medium heat until mixture boils.  Reduce heat and simmer 5 minutes or until corn is tender.",
+        "In a small bowl, mix cornstarch and water.  Add to soup mixture and cook for 5 minutes.  Stir occasionally and serve once soup has thickened."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1483069.jpg",
+    "ingredients": [
+        "2 cups wild rice",
+        "6 cups water",
+        "4 cups chicken broth",
+        "1 cup frozen corn kernels",
+        "1/2 cup chopped green onions",
+        "2 tablespoons red bell pepper, chopped",
+        "2 tablespoons chopped green bell pepper",
+        "1 tablespoon chopped fresh parsley",
+        "1 teaspoon dried tarragon",
+        "2 tablespoons cornstarch",
+        "2 tablespoons water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Calico Wild Rice Soup",
     "url": "http://allrecipes.com/recipe/13383/calico-wild-rice-soup/"
 }

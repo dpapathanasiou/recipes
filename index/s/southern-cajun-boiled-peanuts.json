@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place peanuts, salt, pickles with brine, jalapenos, and crab boil in a large pot. Pour in water to cover the peanuts; stir to combine. Bring to a boil over medium-high heat, and cook until soft, at least 4 hours, adding water as needed to keep peanuts covered. Scoop peanuts out of the pot with a slotted spoon and serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1594&h=835&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F968756.jpg",
+    "ingredients": [
+        "5 pounds raw peanuts, in shells",
+        "\u00be cup salt",
+        "1\u2009\u00bc cups dill pickle slices, with brine",
+        "5 small jalapeno peppers, sliced",
+        "5 tablespoons dry crab boil (such as Zatarain's\u00ae Crab and Shrimp Boil)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Cajun Boiled Peanuts",
     "url": "http://allrecipes.com/recipe/171100/southern-cajun-boiled-peanuts/"
 }

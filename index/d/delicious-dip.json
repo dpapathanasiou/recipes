@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a mixing bowl, combine the cream cheese and sour cream. Mix until smooth. Spread in a 9x13 inch pan.",
+        "Sprinkle the pan's contents with garlic salt. Cover the mixture with a thin layer of picante sauce. Add another layer of tomatoes, onions and olives. Top with a layer of cheddar cheese. Chill for 30 minutes. Serve with tortilla chips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1594&h=835&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2441604.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese",
+        "1 (8 ounce) container sour cream, room temperature",
+        "1 cup picante sauce, divided",
+        "1 tablespoon garlic salt",
+        "2  tomatoes, diced",
+        "1 large chopped onion",
+        "\u00bd cup sliced black olives, drained",
+        "1 (16 ounce) package shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Delicious Dip",
     "url": "http://allrecipes.com/recipe/20570/delicious-dip/"
 }

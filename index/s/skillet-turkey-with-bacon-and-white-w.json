@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F. Mix the flour with salt, pepper and herbes de Provence and set aside.",
+        "Heat a large ovenproof Dutch oven or cast-iron skillet over medium-high heat. Fry bacon for 5-8 minutes, stirring occasionally. When fat has rendered, remove bacon to a bowl with a slotted spoon. Leave bacon grease in the pan.",
+        "Coat each piece of turkey in the flour mixture and transfer to the hot pan. Pan fry the turkey for a few minutes on each side, until crisped and golden brown on the outside (but not cooked through). Remove the turkey from the pan and set aside on a plate. Cover with Reynolds Wrap(R) Aluminum Foil.",
+        "Add the shallots to the pan with a tablespoon of olive oil and butter. Saute for 5-10 minutes, until soft, fragrant and golden brown. Add the wine slowly, stirring to get all the browned bits from the bottom of the pan. Add the chicken stock and let it simmer until it reduces, about 5-10 minutes.",
+        "Add the turkey and bacon back to the pan. Cut a tablespoon of butter into small pieces and place over the top of the turkey thighs.",
+        "Transfer the pan to the oven. Bake for 30-40 minutes, basting every 15 minutes with the pan sauce. If the turkey is browning too quickly, cover with foil while baking. Remove from oven when a meat thermometer reads 165 degrees F to indicate it is fully cooked. Remove from oven and let rest for 10-15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2821993.jpg",
+    "ingredients": [
+        "1/2 cup all-purpose flour",
+        "Salt and pepper to taste",
+        "2 teaspoons herbes de Provence",
+        "6 slices bacon, diced",
+        "3 pounds turkey thighs or legs with skin",
+        "2 shallots, thinly sliced",
+        "1 tablespoon olive oil, or more as needed",
+        "1 tablespoon butter, or more as needed",
+        "1/2 cup dry white wine",
+        "1 1/2 cups chicken stock",
+        "Chopped fresh parsley for garnish",
+        "Reynolds Wrap\u00ae Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Skillet Turkey with Bacon and White Wine",
     "url": "http://allrecipes.com/recipe/245470/skillet-turkey-with-bacon-and-white-w/"
 }

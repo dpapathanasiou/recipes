@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a large pot over medium-high heat; cook the onion in the melted butter until tender, about 5 minutes. Pour the oysters with their juices into the pot and bring to a boil; cook 3 minutes. Add the milk, Worcestershire sauce, and garlic powder; stir. Allow the soup to cook until heated completely through, 5 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 tablespoons butter",
+        "1 small onion, minced",
+        "2 (8 ounce) cans oysters, liquid reserved",
+        "4 cups milk",
+        "2 tablespoons Worcestershire sauce",
+        "1 dash garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Eve Oyster Stew",
     "url": "http://allrecipes.com/recipe/186287/christmas-eve-oyster-stew/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, beat cream cheese until fluffy. Mix in salad dressing and 2 tablespoons reserved pineapple juice.  Stir in the pineapple tidbits, chicken, almonds, and grapes until evenly coated. Chill until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F84424.jpg",
+    "ingredients": [
+        "2 (3 ounce) packages cream cheese, softened",
+        "\u2153 cup creamy salad dressing, e.g. Miracle Whip \u2122",
+        "1 (8 ounce) can pineapple tidbits, juice reserved",
+        "3 (5 ounce) cans chunk chicken, drained",
+        "1 cup blanched slivered almonds",
+        "1\u2009\u00bd cups seedless grapes, halved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hawaiian Chicken Salad",
     "url": "http://allrecipes.com/recipe/14162/hawaiian-chicken-salad/"
 }

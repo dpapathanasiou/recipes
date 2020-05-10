@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl combine zwieback crumbs, marshmallows, nuts and brown sugar.",
+        "In a saucepan over low heat cook the evaporated milk and butterscotch chips. Stir mixture constantly until the chips have melted and the mixture is smooth. Reserve 1/2 cup of the butterscotch mixture for glaze. Combine the remainder with the dry mixture and mix well.",
+        "Spread batter into one 8 inch square buttered baking pan. Drizzle reserved butterscotch mixture over the top. Refrigerate bars for several hours or overnight before cutting and serving. Store leftovers in a covered container in the refrigerator."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "3 cups zwieback cracker crumbs",
+        "2 cups miniature marshmallows",
+        "1 cup chopped pecans",
+        "\u2154 cup packed brown sugar",
+        "1 cup evaporated milk",
+        "2 cups butterscotch chips",
+        "\u00bd teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butterscotch Bars I",
     "url": "http://allrecipes.com/recipe/11089/butterscotch-bars-i/"
 }

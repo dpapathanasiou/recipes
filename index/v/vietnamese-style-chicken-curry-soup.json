@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large stock pot over medium heat.  Cook chicken and onions in oil until onions are soft and translucent; remove onions and chicken from pot and set aside.",
+        "Saute shallots in pot for about 1 minute, then stir in garlic, ginger, lemon grass and curry powder.  Continue to cook for about 5 minutes, then stir in bell pepper and carrots.  Return chicken and onion to pot and stir in chicken broth, water and fish sauce.  Season with lime leaves, bay leaf and red pepper flakes.",
+        "Bring to a boil and introduce potatoes.  Return to a boil and pour in coconut milk.  Reduce heat and simmer 40 to 60 minutes, until potatoes and chicken are tender. Garnish each dish with a sprig of fresh cilantro."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F182550.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1 (3 pound) whole chicken, skin removed and cut into pieces",
+        "1  onion, cut into chunks",
+        "2  shallots, thinly sliced",
+        "2 cloves garlic, chopped",
+        "\u215b cup thinly sliced fresh ginger root",
+        "1 stalk lemon grass, cut into 2 inch pieces",
+        "4 tablespoons curry powder",
+        "1  green bell pepper, cut into 1 inch pieces",
+        "2  carrots, sliced diagonally",
+        "1 quart chicken broth",
+        "1 quart water",
+        "2 tablespoons fish sauce",
+        "2  kaffir lime leaves",
+        "1  bay leaf",
+        "2 teaspoons red pepper flakes",
+        "8 small potatoes, quartered",
+        "1 (14 ounce) can coconut milk",
+        "1 bunch fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vietnamese-Style Chicken Curry Soup",
     "url": "http://allrecipes.com/recipe/27176/vietnamese-style-chicken-curry-soup/"
 }

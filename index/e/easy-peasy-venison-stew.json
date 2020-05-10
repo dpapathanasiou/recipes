@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season the venison with salt and pepper, and place into a bowl. Stir in the kiwi slices and red wine until evenly mixed. Cover, and marinate in the refrigerator overnight.",
+        "Drain the venison, reserving the red wine marinade. Pick out the pieces of kiwi from the venison, and place them with the red wine marinade. Squeeze as much marinade from the venison as you can.",
+        "Heat the olive oil in a large skillet or saucepan over medium-high heat. Place the floured venison cubes in the hot oil, and cook until browned on all sides, 5 to 10 minutes. Remove the venison cubes to a slow cooker. Stir the garlic, onion, rosemary, and thyme into the skillet, and cook until the edges of the onion begins to soften, about 3 minutes. Pour in the balsamic vinegar and the reserved red wine marinade. Bring to a boil and cook for 5 minutes. Pour the onion mixture into the slow cooker, and stir in the beef stock, potatoes, carrots, parsnips, and mushrooms until evenly mixed. Add water if needed to just cover the vegetables.",
+        "Cover the slow cooker, and set to LOW. Cook until the venison is easily pulled apart with a fork and the vegetables are tender, about 4 hours. Season to taste with salt and pepper before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/975506.jpg",
+    "ingredients": [
+        "2 pounds venison, cut into cubes",
+        "salt and pepper to taste",
+        "1 kiwi, peeled and sliced",
+        "1 1/2 cups red wine",
+        "1/4 cup all-purpose flour",
+        "extra-virgin olive oil",
+        "2 cloves garlic, minced",
+        "1 onion, cut into chunks",
+        "1 sprig rosemary leaves, minced",
+        "1 sprig thyme leaves, minced",
+        "balsamic vinegar",
+        "1/2 cup beef stock",
+        "5 potatoes, peeled and cubed",
+        "1 carrots, cut into 1/2 inch pieces",
+        "1 parsnips, cut into 1/2 inch pieces",
+        "1 (8 ounce) package sliced fresh mushrooms"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Peasy Venison Stew",
     "url": "http://allrecipes.com/recipe/169096/easy-peasy-venison-stew/"
 }

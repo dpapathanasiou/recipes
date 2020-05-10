@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium-size mixing bowl, combine braunsweiger, cream cheese, ketchup, onion, and steak sauce. Mix until blended. Shape mixture into a ball. Press olives into the ball. Chill before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F717836.jpg",
+    "ingredients": [
+        "1 pound braunschweiger liverwurst",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 drops ketchup",
+        "\u00bd  onion, chopped",
+        "2 teaspoons steak sauce",
+        "1 (5 ounce) jar pitted green olives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Braunschweiger Spread",
     "url": "http://allrecipes.com/recipe/16150/braunschweiger-spread/"
 }

@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring 1 cup water and oats to a boil in a saucepan; reduce heat and simmer until water is absorbed, 10 minutes. Bring 1 1/2 cups water and millet to a boil in a separate saucepan; reduce heat and simmer until water is absorbed and millet is tender, 20 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine oats, millet, onion, carrot, celery, potato, safflower oil, tamari, allspice, nutmeg, cloves, salt, and black pepper together in a large bowl; mix well.",
+        "Press 1 pie crust pastry into a 9-inch pie pan. Pour filling into pie crust. Top with second pie crust pastry; pinch edges together. Pierce a few areas of the top crust to allow pie to ventilate during baking. Brush top crust with beaten egg.",
+        "Bake pie in the preheated oven until crust is golden brown, about 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2910561.jpg",
+    "ingredients": [
+        "1 cup water",
+        "1 cup oats",
+        "1 1/2 cups water",
+        "1 cup millet",
+        "1/2 cup diced onion",
+        "1/2 cup diced carrot",
+        "1/2 cup diced celery",
+        "1/2 cup diced potato",
+        "1/4 cup safflower oil",
+        "1/4 cup tamari sauce",
+        "1 teaspoon ground allspice",
+        "1/4 teaspoon ground nutmeg",
+        "4 whole cloves",
+        "salt and ground black pepper to taste",
+        "1 recipe pastry for a 9-inch double crust pie",
+        "1 egg, beaten (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Millet Pie",
     "url": "http://allrecipes.com/recipe/228332/millet-pie/"
 }

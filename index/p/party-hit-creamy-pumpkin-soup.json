@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut the top off of the pumpkin and remove the seeds and strings. Carve out the flesh of the pumpkin until the shell is about 1/2 inch thick. Be careful not to make any holes in the skin - the pumpkin is the serving bowl. Steam the pumpkin flesh in a saucepan with an inch of water, over medium heat for 20 minutes. Remove from heat, drain and set aside to cool slightly.",
+        "In a saucepan over medium heat, cook the chicken broth until warm. Puree the pumpkin flesh and gradually stir into the pumpkin broth. Slowly bring the mixture to a boil. Mix in the cream then season with salt, pepper and nutmeg. Remove from heat. Pour soup into the pumpkin shell and garnish with croutons. Top with the pumpkin cap."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1176207.jpg",
+    "ingredients": [
+        "4 1/2 pounds sugar pumpkin",
+        "2 cups chicken broth",
+        "1 cup heavy cream",
+        "salt and pepper to taste",
+        "1 dash ground nutmeg",
+        "4 cups seasoned croutons"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Party Hit Creamy Pumpkin Soup",
     "url": "http://allrecipes.com/recipe/27022/party-hit-creamy-pumpkin-soup/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cauliflower and lemon juice in a saucepan; add enough water to cover. Cook until just tender, 15 to 20 minutes. Drain and let cool, about 10 minutes.",
+        "Pour flour onto a plate.",
+        "Beat eggs in a bowl until smooth.",
+        "Mix bread crumbs, salt, and pepper in a shallow bowl.",
+        "Dredge each cauliflower floret in flour, dip in eggs, and coat with bread crumbs.",
+        "Heat oil in a deep-fryer or large saucepan. Fry cauliflower until golden brown, 2 to 4 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1080&h=565&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4488953.jpg",
+    "ingredients": [
+        "1 head cauliflower, cored and cut into small florets",
+        "\u00bc cup lemon juice",
+        "1 cup all-purpose flour",
+        "2  eggs",
+        "1 cup bread crumbs",
+        "salt and ground black pepper to taste",
+        "oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breaded Fried Cauliflower",
     "url": "http://allrecipes.com/recipe/254975/breaded-fried-cauliflower/"
 }

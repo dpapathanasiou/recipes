@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C). Line a baking sheet with aluminum foil and spray with cooking spray.",
+        "Bring a pot of water to a boil. Cook hot dogs in boiling water until heated through, 5 to 10 minutes. Drain hot dogs and allow to cool for 5 minutes.",
+        "Meanwhile, melt 1 teaspoon butter in a skillet; saute mushrooms and onion in butter until softened, 5 to 10 minutes.",
+        "Spread a sheet of plastic wrap on a work surface. Divide ground beef into 6 equal portions. Spread one portion of beef over plastic wrap to about 1/4-inch thick rectangle patty; season with hamburger seasoning. Lay one hot dog across the center of the beef and spoon about 1/6 the mushroom mixture over hot dog.",
+        "Using the plastic wrap, roll ground beef around hot dog, pulling plastic wrap away from the meat as you wrap. Seal the ends of the beef completely around hot dog. Wrap 2 slices bacon around beef and arrange on the prepared baking sheet. Repeat with remaining beef, hot dogs, and bacon.",
+        "Bake in the preheated oven until bacon is crisp and beef is slightly pink in the center, about 15 minutes. Top each burger-dog with 2 slices American cheese and continue baking until cheese is melted, about 5 minutes more. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "cooking spray (such as Pam\u00ae)",
+        "6  all-beef hot dogs",
+        "1 teaspoon butter",
+        "1 (8 ounce) package sliced fresh mushrooms",
+        "1 small onion, diced",
+        "2\u2009\u00bd pounds ground beef",
+        "12 slices bacon",
+        "6  hero rolls",
+        "12 slices American cheese",
+        "2 teaspoons hamburger seasoning"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon Cheeseburger Dogs",
     "url": "http://allrecipes.com/recipe/236119/bacon-cheeseburger-dogs/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sprinkle the turkey thigh cubes with salt and black pepper, and place into a slow cooker. Pour the diced tomatoes over the turkey, and follow with the artichoke hearts in a layer. Place the parsnips, baby carrots, yellow squash, and green bell pepper into the cooker, and pour in the chicken broth to cover.  Place the bouillon cubes into the broth. Cover, and cook on Low for 8 to 10 hours. Pour in the garbanzo beans in the last hour. Garnish with fresh dill."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/775615.jpg",
+    "ingredients": [
+        "2 pounds skinless turkey thighs, cubed",
+        "salt and ground black pepper to taste",
+        "1 (14.5 ounce) can diced tomatoes with juice",
+        "1 (6.5 ounce) jar artichoke hearts, drained",
+        "3 parsnips, peeled and cubed",
+        "1/2 pound baby carrots",
+        "1 yellow squash, cubed",
+        "1 green bell pepper, cut into chunks",
+        "4 cups chicken broth, or as needed to cover",
+        "2 cubes chicken bouillon",
+        "1 (15 ounce) can garbanzo beans, drained",
+        "1 teaspoon chopped fresh dill, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Turkey and Vegetables",
     "url": "http://allrecipes.com/recipe/216115/slow-cooker-turkey-and-vegetables/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Mix cream cheese, sour cream, 1/2 cup of the Cheddar cheese and Seasoning Mix in medium bowl until well blended. Stir in chicken.",
+        "Spoon into lightly greased pie plate. Top with remaining 1/2 cup Cheddar cheese.",
+        "Bake 20 minutes or until heated through. Sprinkle with blue cheese, if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5906&h=3092&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462828.jpg",
+    "ingredients": [
+        "1 (1.6 oz) package McCormick\u00ae Buffalo Wings Seasoning Mix",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 cup sour cream",
+        "1 cup shredded Cheddar cheese, divided",
+        "1\u2009\u00bd cups shredded or chopped cooked chicken",
+        "\u00bd cup crumbled blue cheese (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buffalo Chicken Dip from McCormick&reg;",
     "url": "http://allrecipes.com/recipe/256775/buffalo-chicken-dip-from-mccormick/"
 }

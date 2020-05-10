@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9 inch pie pan.",
+        "In a medium mixing bowl, combine pumpkin, milk, sugar, baking mix, melted butter, eggs, allspice, cinnamon, cloves, and vanilla extract. Beat on medium speed 2 minutes, until mixture is smooth. Pour mixture into pan.",
+        "Bake in preheated oven for 50 to 55 minutes, until set in center. Allow to cool before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F56848.jpg",
+    "ingredients": [
+        "2 cups pumpkin puree",
+        "1\u2009\u00bd cups milk",
+        "\u00be cup white sugar",
+        "\u00bd cup biscuit baking mix",
+        "2 tablespoons butter, melted",
+        "2  eggs, beaten",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground cloves",
+        "1 teaspoon ground allspice",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Impossible Pumpkin Pie I",
     "url": "http://allrecipes.com/recipe/18025/impossible-pumpkin-pie-i/"
 }

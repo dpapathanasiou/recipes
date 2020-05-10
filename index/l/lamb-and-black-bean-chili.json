@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a stockpot over medium-high heat. Cook and stir ground lamb, onion, and garlic in the hot skillet until the lamb is completely browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Stir tomatoes, black beans, hot pepper sauce, and beef stock with the lamb mixture; bring to a boil, reduce heat to medium-low, and simmer up to 2 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 pound ground lamb",
+        "1 yellow onion, diced",
+        "2 garlic cloves, minced",
+        "1 (14.5 ounce) can diced tomatoes, undrained",
+        "1 (14.5 ounce) can black beans, rinsed and drained",
+        "2 teaspoons hot pepper sauce (such as Tabasco\u00ae), or to taste",
+        "2 cups beef stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lamb and Black Bean Chili",
     "url": "http://allrecipes.com/recipe/236680/lamb-and-black-bean-chili/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix basil, olive oil, garlic, Italian seasoning, and salt in a bowl. Add shrimp and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour.",
+        "Preheat grill for medium heat and lightly oil the grate. Remove shrimp from the marinade and shake off excess. Discard the remaining marinade.",
+        "Cook shrimp on preheated grill until they are bright pink on the outside and the meat is no longer transparent in the center, about 5 minutes.",
+        "Bring a large pot of lightly salted water to a boil. Cook angel hair in the boiling water, stirring occasionally, until cooked through but firm to the bite, 4 to 5 minutes. Drain.",
+        "Melt butter in a large, nonstick skillet over medium heat; stir in white wine and bring to a boil. Add heavy cream and Parmesan cheese; simmer until reduced, about 10 minutes. Stir in angel hair pasta, tomatoes, and mozzarella cheese. Top with shrimp to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F849082.jpg",
+    "ingredients": [
+        "20 leaves fresh basil, chopped",
+        "2 tablespoons extra virgin olive oil",
+        "1 tablespoon minced garlic",
+        "1 teaspoon Italian seasoning",
+        "salt to taste",
+        "1 pound shrimp, peeled and deveined",
+        "1 (16 ounce) package angel hair pasta",
+        "2 tablespoons butter",
+        "\u00bd cup white wine",
+        "1\u2009\u00bd cups heavy whipping cream",
+        "1 cup grated Parmesan cheese",
+        "1\u2009\u00bd pounds roma (plum) tomatoes, chopped",
+        "2 cups shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Shrimp Caprese",
     "url": "http://allrecipes.com/recipe/223194/grilled-shrimp-caprese/"
 }

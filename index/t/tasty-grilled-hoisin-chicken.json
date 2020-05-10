@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour hoisin sauce into a resealable plastic bag, and add the chicken breasts and thighs. Squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 4 hours, or overnight.",
+        "Prepare the grill for indirect heat, and lightly oil the grate.",
+        "Remove chicken from marinade.  Discard marinade.  Grill chicken over indirect heat, skin side down, for 20 minutes.  Turn; grill until chicken is no longer pink in the center, and juices run clear, about 10 additional minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2508&h=1313&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F225211.jpg",
+    "ingredients": [
+        "1 (7.5 ounce) jar hoisin sauce",
+        "4  bone-in chicken breast halves",
+        "4  chicken thighs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tasty Grilled Hoisin Chicken",
     "url": "http://allrecipes.com/recipe/188373/tasty-grilled-hoisin-chicken/"
 }

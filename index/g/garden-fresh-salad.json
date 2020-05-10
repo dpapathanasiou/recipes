@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes into a large pot with enough water to cover. Bring to a boil, and cook until potatoes are tender, about 10 minutes. Add the green beans and wax beans during the last 2 minutes to blanch them. Drain, and rinse under cold water to stop the cooking. Cool before adding to the dressing.",
+        "In a large bowl, mix together the mayonnaise, mustard, celery, dill, salt, and pepper. Add the cooled potatoes and beans, and stir to coat. Refrigerate until ready to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3027140.jpg",
+    "ingredients": [
+        "1 pound new red potatoes, scrubbed and halved",
+        "1 pound new white potatoes, scrubbed and halved",
+        "1/2 pound fresh green beans, trimmed and snapped",
+        "1/2 pound fresh wax beans, trimmed and snapped",
+        "1/2 cup mayonnaise",
+        "2 teaspoons Dijon mustard",
+        "2 stalks celery, chopped",
+        "1/3 cup chopped fresh dill",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garden Fresh Salad",
     "url": "http://allrecipes.com/recipe/86780/garden-fresh-salad/"
 }

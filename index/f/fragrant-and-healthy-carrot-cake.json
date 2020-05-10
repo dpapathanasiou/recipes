@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9 inch Bundt pan.",
+        "In a large bowl, stir together the whole wheat flour, cake flour, brown sugar, cinnamon, carob, baking powder, baking soda and salt. Make a well in the center and pour in the molasses, oil, eggs and orange juice. Mix until the dry ingredients are moistened, then stir in the orange zest, lemon zest, raisins, figs, poppy seeds, carrots and pecans until evenly distributed. Pour into the prepared pan.",
+        "Bake for 1 hour and 10 minutes in the preheated oven, or until a knife inserted into the center of the cake comes out clean. Cool for 30 minutes before removing from the pan."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F670427.jpg",
+    "ingredients": [
+        "\u00be cup whole wheat flour",
+        "\u00be cup cake flour",
+        "\u00bd cup packed brown sugar",
+        "1 tablespoon ground cinnamon",
+        "1 tablespoon carob powder (optional)",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1\u2009\u00bd tablespoons molasses",
+        "\u00bc cup vegetable oil",
+        "2  eggs",
+        "1  orange, juiced and zested",
+        "1\u2009\u00bd teaspoons grated lemon zest",
+        "\u00bd cup raisins",
+        "5  dried figs, chopped",
+        "2 tablespoons poppy seeds",
+        "2 cups grated carrots",
+        "\u00bc cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fragrant and Healthy Carrot Cake",
     "url": "http://allrecipes.com/recipe/139881/fragrant-and-healthy-carrot-cake/"
 }

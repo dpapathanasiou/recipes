@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Heat olive oil in a large skillet over medium heat; cook and stir onion, poblano chile pepper, jalapeno pepper, and garlic in the hot oil until onion and peppers are softened, 5 to 6 minutes. Stir rice into onion mixture; cook until rice is lightly browned, 3 to 4 minutes.",
+        "Stir vegetable broth, tomatoes with green chile peppers, and corn into the rice mixture; bring to a boil. Reduce heat and simmer until broth is absorbed, 7 to 10 minutes. Season rice mixture with salt and pepper; stir in 1/2 cup Monterey Jack cheese and cilantro. Remove from heat and cool slightly.",
+        "Place the tops back onto each green bell pepper; wrap each pepper loosely with aluminum foil.",
+        "Bake wrapped peppers in the preheated oven until softened, 15 to 20 minutes. Remove peppers from oven and lower oven's temperature to 350 degrees F (175 degrees C). Cool peppers completely, about 20 minutes.",
+        "Stand green bell peppers upright in an 8x8-inch baking dish. Use the aluminum foil from earlier to 'nest' the peppers if necessary. Fill each pepper with rice mixture and top with panko bread crumbs and remaining Monterey Jack cheese. Place tops back onto each green bell pepper.",
+        "Bake in the preheated oven until cheese is melted, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1074&h=562&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4521150.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1  onion, chopped",
+        "1  poblano chile pepper, chopped",
+        "1  jalapeno pepper, chopped",
+        "2 cloves garlic, chopped",
+        "2 (14 ounce) packages boil-in-bag rice",
+        "3 cups vegetable broth",
+        "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "\u00bd cup corn",
+        "salt and ground black pepper to taste",
+        "4 large green bell peppers - tops, seeds, and membranes removed (tops reserved)",
+        "1 cup shredded Monterey Jack cheese, divided",
+        "2 tablespoons chopped fresh cilantro",
+        "2 tablespoons panko bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Vegetarian Stuffed Peppers",
     "url": "http://allrecipes.com/recipe/233303/spicy-vegetarian-stuffed-peppers/"
 }

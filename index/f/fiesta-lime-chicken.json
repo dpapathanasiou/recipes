@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season chicken, if desired, with salt and pepper or Knorr\u00ae Chicken flavor Bouillon. Heat oil in large nonstick skillet over medium-high heat and cook chicken, stirring frequently, until chicken is thoroughly cooked, about 5 minutes. Stir in lime juice. Remove and set aside.",
+        "Prepare Knorr\u00ae Fiesta Sides\u2122 - Yellow Rice in same skillet according to package directions.",
+        "Stir in chicken, avocado and tomato until well blended. Top, if desired, with shredded Cheddar cheese, chopped red onion, and cilantro."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 pound boneless, skinless chicken breasts, sliced",
+        "1 tablespoon vegetable oil",
+        "2 tablespoons lime juice",
+        "1 (5.4 ounce) package Knorr\u00ae Fiesta Sides\u2122 - Yellow Rice",
+        "1  avocado, diced",
+        "1 large tomato, diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fiesta Lime Chicken",
     "url": "http://allrecipes.com/recipe/254363/fiesta-lime-chicken/"
 }

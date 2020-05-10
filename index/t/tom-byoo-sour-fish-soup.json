@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring fish stock to a boil in a pot; add ginger, galangal, Thai chile peppers, kaffir lime leaves, lemon grass, and shallots. Reduce heat and simmer stock for 20 minutes.",
+        "Mix trout, tomatoes, tamarind juice, and fish sauce into stock; simmer until trout is cooked through, about 5 minutes.",
+        "Gently place trout in a bowl and pour soup over the fish; top with cilantro."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5324952.jpg",
+    "ingredients": [
+        "3 cups fish stock",
+        "1 (1 inch) piece fresh ginger, peeled and sliced into disks, or more to taste",
+        "1 (1 inch) piece galangal, peeled and sliced into disks, or more to taste",
+        "5 Thai chile peppers, crushed",
+        "2 kaffir lime leaves, torn",
+        "2 stalks lemon grass, cut into 2-inch pieces and crushed",
+        "2 shallots, crushed",
+        "1 (10 ounce) trout, scales removed and fish cut into steaks",
+        "5 cherry tomatoes, halved",
+        "1/4 cup tamarind juice, or more to taste",
+        "2 tablespoons fish sauce, or more to taste",
+        "1/4 cup chopped fresh cilantro, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tom Byoo (Sour Fish Soup)",
     "url": "http://allrecipes.com/recipe/246806/tom-byoo-sour-fish-soup/"
 }

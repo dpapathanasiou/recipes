@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Grease a 9 x 13 inch pan.",
+        "In a medium saucepan over medium heat, combine sugar, cream and butter.  Heat to soft ball stage, 234 degrees F (112 degrees C).    Remove from heat and stir in marshmallow creme and white chocolate chips; mix well until the chips melt.  Reserve 1 cup of mixture and set aside.",
+        "To the remaining mixture add orange flavoring, yellow and red food coloring.  Stir well and pour into prepared pan.  Pour reserved cream mixture on top.  Using a knife, swirl layers for decorative effect.",
+        "Chill for 2 hours, or until firm, and cut into squares."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/593405.jpg",
+    "ingredients": [
+        "3 cups white sugar",
+        "2/3 cup heavy cream",
+        "3/4 cup butter",
+        "1 (7 ounce) jar marshmallow creme",
+        "1 (11 ounce) package white chocolate chips",
+        "3 teaspoons orange extract",
+        "12 drops yellow food coloring",
+        "9 drops red food coloring"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Cream Fudge",
     "url": "http://allrecipes.com/recipe/22860/orange-cream-fudge/"
 }

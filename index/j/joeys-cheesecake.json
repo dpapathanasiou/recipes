@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C.)",
+        "In a large bowl, beat the cream cheese, sugar and vanilla until smooth. Beat in eggs, one at a time. Stir in yogurt. Pour filling into crust.",
+        "Bake in the preheated oven for 30 to 40 minutes, or until filling is set. Refrigerate at least 4 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2616624.jpg",
+    "ingredients": [
+        "1 (9 inch) prepared graham cracker crust",
+        "2 (8 ounce) packages lowfat cream cheese, softened",
+        "\u00bd cup white sugar",
+        "\u00bd teaspoon vanilla extract",
+        "2  eggs",
+        "1 (8 ounce) container blueberry flavored yogurt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Joey's Cheesecake",
     "url": "http://allrecipes.com/recipe/26330/joeys-cheesecake/"
 }

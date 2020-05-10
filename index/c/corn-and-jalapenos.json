@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil over medium low heat. Cook and stir jalapeno pepper in hot oil until softened, about 5 minutes. Add onion; cook and stir until the onion is soft, about 2 minutes more. Add corn. Season mixture with salt and black pepper. Continue cooking and stirring until the corn is hot, about 5 minutes. Sprinkle cilantro over the mixture, stir, and simmer another 30 to 60 seconds."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2443&h=1279&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060349.jpg",
+    "ingredients": [
+        "2 teaspoons olive oil",
+        "1 large jalapeno pepper, minced",
+        "2 tablespoons diced onion",
+        "1\u2009\u00bd cups frozen corn, thawed",
+        "salt and ground black pepper to taste",
+        "1 tablespoon chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn and Jalapenos",
     "url": "http://allrecipes.com/recipe/232630/corn-and-jalapenos/"
 }

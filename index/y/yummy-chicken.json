@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pound the chicken breast halves flat and to about 1/2 inch thick. Cut the flattened chicken breasts into several large pieces.",
+        "Place the flour, salt, and pepper into a plastic bag, and drop the chicken pieces into the bag. Shake gently to coat the chicken thoroughly with flour mixture.",
+        "Preheat an oven to 325 degrees F (165 degrees C). Grease an 8x8 inch baking dish.",
+        "Heat the olive oil and butter in a large skillet over medium heat, and brown the coated chicken pieces on each side until golden brown, about 5 minutes per side. Place the chicken pieces into the prepared baking dish, leaving the oil and butter in the skillet. Cook and stir the mushrooms, green onions, and garlic in the hot skillet until the mushrooms give up their juice and start to brown, about 10 minutes. Spread the cooked vegetables over the chicken pieces.",
+        "Pour the apple juice, lemon juice, and sugar into the skillet, stir to dissolve the sugar, and bring the mixture to a boil. Pour the sauce over the chicken and vegetables, cover the baking dish with foil, and bake in the preheated oven until the sauce has reduced and the chicken has absorbed the sauce, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5312&h=2781&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4521041.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "\u00bc cup all-purpose flour",
+        "\u00bd teaspoon salt",
+        "ground black pepper to taste",
+        "1 tablespoon olive oil",
+        "1\u2009\u00bd teaspoons butter",
+        "\u00bd cup sliced fresh mushrooms",
+        "4  green onions, chopped",
+        "1 clove garlic, finely minced",
+        "\u2153 cup unsweetened apple juice",
+        "2 tablespoons lemon juice",
+        "1 teaspoon white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yummy Chicken",
     "url": "http://allrecipes.com/recipe/211537/yummy-chicken/"
 }

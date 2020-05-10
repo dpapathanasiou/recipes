@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat the butter and brown sugar with an electric mixer in a large bowl until smooth. Beat in the vanilla extract. Add flour, alternately with sweetened condensed milk, beating well after each addition.  Fold in the chocolate chips and toffee bits; mixing just enough to evenly combine.",
+        "Using a small cookie scoop, make 1-inch balls and place them on waxed paper lined baking sheets. Refrigerate until firm, about 1 hour.",
+        "Melt the chocolate coating in a microwave-safe glass or ceramic bowl in 30-second intervals, stirring after each melting, for 1 to 3 minutes (depending on your microwave).  Do not overheat or coating will scorch.  Dip the dough balls in the chocolate coating, allowing any excess to drip off. Place on waxed-paper lined baking sheets and sprinkle the truffles with additional toffee pieces. Refrigerate until firm, about 15 minutes. Store in the refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/806696.jpg",
+    "ingredients": [
+        "1/2 cup butter, softened",
+        "3/4 cup packed brown sugar",
+        "1 teaspoon vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 (14 ounce) can sweetened condensed milk",
+        "1/2 cup miniature semisweet chocolate chips",
+        "1/2 cup toffee baking bits",
+        "1 pound chocolate confectioners' coating"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Chocolate Chip Cookie Dough Truffles",
     "url": "http://allrecipes.com/recipe/217268/easy-chocolate-chip-cookie-dough-truf/"
 }

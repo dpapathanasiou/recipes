@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the chocolate over a double boiler. While it is melting, blend the remaining ingredients in a high-speed blender until very smooth. Make sure to stop a few times and scrape down the sides. Once the chocolate has melted, add it to the rest of the ingredients in the blender and blend until smooth, scraping down the sides as needed. The mixture will now be warm and the consistency of pudding.",
+        "You could serve the dessert now as a warm pudding. Or you can serve it as mousse by placing the pudding into a glass container and keeping it in the fridge for several hours to overnight to give it time to firm up.",
+        "Prior to piping, whip the mousse with a handheld mixer to whip air into it. Pipe the mousse into chocolate cups and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1927997.jpg",
+    "ingredients": [
+        "1 cup semisweet chocolate chips",
+        "1 (14 ounce) package extra firm tofu, drained",
+        "2 cups So Delicious\u00ae Dairy Free Coconut Milk (vanilla or chocolate)",
+        "6 tablespoons cacao powder",
+        "6 (1 gram) packets stevia",
+        "Chocolate cups for serving"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Mousse Cups",
     "url": "http://allrecipes.com/recipe/230728/chocolate-mousse-cups/"
 }

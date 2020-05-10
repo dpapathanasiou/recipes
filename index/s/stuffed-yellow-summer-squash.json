@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water and wild rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender, 30 to 45 minutes. Drain excess liquid, fluff rice with a fork, and cook uncovered for 5 minutes more.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Arrange yellow squash halves onto a baking sheet.",
+        "Bake yellow squash in preheated oven until tender, about 20 minutes.",
+        "Heat olive oil in a large skillet over medium-high heat. Saute summer squash, bell peppers, cucumbers, onion, and tomatoes in hot oil until tender, about 5 minutes.",
+        "Mound rice atop each of the squash halves. Top rice with a portion of the sauteed vegetable mixture.",
+        "Return squash to preheated oven and bake for 30 minutes more. Sprinkle Gouda cheese over the stuffed squash halves and bake until the cheese is melted, about 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (6 ounce) package wild rice (such as Uncle Ben's \u00ae)",
+        "3 cups water",
+        "6 yellow squash, halved lengthwise",
+        "1 splash olive oil, or to taste",
+        "2 small summer squash, diced",
+        "2 bell peppers, or more to taste, diced",
+        "2 cucumbers, diced",
+        "1 onion, diced",
+        "3 cherry or grape tomatoes, or more to taste",
+        "1 cup shredded Gouda cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Yellow Summer Squash",
     "url": "http://allrecipes.com/recipe/238425/stuffed-yellow-summer-squash/"
 }

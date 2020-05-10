@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the bitter melon and salt into a bowl; toss until melon is covered. Let sit until bitterness is extracted, about 40 minutes. Rinse melon under cold running water. Run the melon through a juicer to collect 1/2 to 1 fluid ounce of juice.",
+        "Combine the melon juice and lime-flavored gelatin mix in a glass bowl. Pour in hot water; stir until gelatin is dissolved. Allow to cool, 3 to 5 minutes. Refrigerate until firm, about 4 hours.",
+        "Combine 2 1/2 cups of water and pearl sago in a pot; bring to boil. Cook until sago becomes translucent, about 10 minutes. Strain the sago through a sieve. Place sago in a bowl; add condensed milk. Mix together until the milk coats the sago, stirring continuously so that they mixture does not clump. Top the chilled jelly with sago mixture."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "Bitter Melon Jelly:",
+        "1/4 piece bitter melon, halved and flesh and seeds removed",
+        "1 pinch salt",
+        "5 (3 ounce) packages lime-flavored gelatin mix",
+        "2 cups hot water",
+        "Optional Topping:",
+        "1/2 cup pearl sago",
+        "1/2 (14 ounce) can condensed milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bitter Melon Jelly with Sago",
     "url": "http://allrecipes.com/recipe/254529/bitter-melon-jelly-with-sago/"
 }

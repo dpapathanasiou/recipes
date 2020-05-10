@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a bag combine Parmesan cheese, flour, salt and pepper; mix well.  Place potatoes in bag and shake to coat.",
+        "Pour butter into a 9x13 inch baking dish.  Stir in potatoes.",
+        "Bake in preheated oven for 1 1/2 hours, stirring occasionally."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1125577.jpg",
+    "ingredients": [
+        "\u00bd cup grated Parmesan cheese",
+        "\u00bd cup all-purpose flour",
+        "salt and pepper to taste",
+        "10  potatoes, peeled and cubed",
+        "\u00bd cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Parmesan Potatoes",
     "url": "http://allrecipes.com/recipe/24748/parmesan-potatoes/"
 }

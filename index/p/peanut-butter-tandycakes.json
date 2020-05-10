@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 10x15 inch jelly roll pan.",
+        "In a large bowl, mix together eggs, vanilla, salt, sugar, flour, and baking powder.  Blend in melted butter or margarine and milk.",
+        "Bake for 15 to 20 minutes.  Spread with peanut butter while still hot.  Refrigerate until cool.",
+        "Melt chocolate bars, and spread on cooled cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6951174.jpg",
+    "ingredients": [
+        "1 cup milk",
+        "2 tablespoons butter, melted",
+        "4  eggs",
+        "1 teaspoon vanilla extract",
+        "salt to taste",
+        "2 cups white sugar",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "16 ounces milk chocolate candy",
+        "2 cups creamy peanut butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Tandycakes",
     "url": "http://allrecipes.com/recipe/8194/peanut-butter-tandycakes/"
 }

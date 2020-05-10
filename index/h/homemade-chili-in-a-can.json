@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ground beef into a soup pot over medium heat, and cook and stir until the meat is browned, breaking it up into crumbles as it cooks, about 10 minutes. Stir in onion and garlic, and cook until the onion is translucent, about 5 more minutes. Drain excess grease if necessary, and sprinkle the meat with taco seasoning mix; cook the meat with the seasoning for 1 or 2 more minutes.",
+        "Pour in the chili-flavored tomatoes, chili beans, tomato sauce, and diced green chilies, and stir to combine; simmer for 30 minutes to blend flavors."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2576&h=1349&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1070260.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1  onion, chopped",
+        "1 tablespoon minced garlic, or to taste",
+        "\u00bd teaspoon taco seasoning mix, or more to taste",
+        "2 (14.5 ounce) cans diced stewed tomatoes with chili seasonings",
+        "3 (16 ounce) cans chili beans, undrained",
+        "1 (15 ounce) can tomato sauce",
+        "1 (4 ounce) can diced green chilies"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Homemade Chili in a Can",
     "url": "http://allrecipes.com/recipe/218631/homemade-chili-in-a-can/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Rinse and trim the chicken breasts. Pat dry. Generously coat both sides of each breast with sour cream. Put crushed cornflake crumbs in a shallow plate or bowl and season to taste (I use onion salt and garlic salt). Dip the sour cream coated chicken in the seasoned cornflake crumbs.",
+        "Place coated chicken in a lightly greased 9x13 inch baking dish. Drizzle with melted butter/margarine and bake in the preheated oven for 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F881912.jpg",
+    "ingredients": [
+        "6  skinless, boneless chicken breasts",
+        "2 cups sour cream",
+        "2 cups crushed cornflakes cereal",
+        "1 teaspoon Italian-style seasoning",
+        "6 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Chicken Ever",
     "url": "http://allrecipes.com/recipe/8907/best-chicken-ever/"
 }

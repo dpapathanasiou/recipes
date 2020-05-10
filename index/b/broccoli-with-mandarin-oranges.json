@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, mix together 1/4 cup of the reserved juice, molasses, soy sauce, ginger and cornstarch. Set aside.",
+        "Heat oil in a wok over medium-high heat. Saute broccoli florets and one can of mandarin oranges until the broccoli is heated through. The oranges will almost dissolve. Stir in the molasses mixture, and continue to cook while tossing the broccoli to coat until the broccoli is tender, about 3 minutes.",
+        "Remove from heat, and toss broccoli with the remaining can of oranges. Transfer to a serving plate, and sprinkle with sesame seeds."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1197&h=627&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F964342.jpg",
+    "ingredients": [
+        "2 (11 ounce) cans mandarin oranges, drained and liquid reserved",
+        "2 tablespoons molasses",
+        "1 tablespoon soy sauce",
+        "\u00bd teaspoon ground ginger",
+        "1\u2009\u00bd teaspoons cornstarch",
+        "\u00bc cup peanut oil",
+        "2 heads fresh broccoli, cut into florets",
+        "2 tablespoons sesame seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Broccoli with Mandarin Oranges",
     "url": "http://allrecipes.com/recipe/46497/broccoli-with-mandarin-oranges/"
 }

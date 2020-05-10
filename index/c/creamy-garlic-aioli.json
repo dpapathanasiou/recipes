@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place egg yolks, garlic, 1 teaspoon vinegar, mustard powder, salt, and white pepper in the bowl of a food processor. Cover and turn processor on; pour in canola oil in very slowly at first, then more quickly as mixture thickens. Blend in remaining 1 teaspoon vinegar."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5746667.jpg",
+    "ingredients": [
+        "2 egg yolks",
+        "3 cloves garlic, crushed",
+        "2 teaspoons vinegar, divided",
+        "1/2 teaspoon mustard powder",
+        "1/2 teaspoon salt",
+        "1 pinch ground white pepper",
+        "1 cup canola oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Garlic Aioli",
     "url": "http://allrecipes.com/recipe/246408/creamy-garlic-aioli/"
 }

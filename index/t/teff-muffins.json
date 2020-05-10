@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Grease a muffin tin.",
+        "Mix teff flour, brown rice flour, arrowroot flour, baking powder, cinnamon, nutmeg, cloves, ginger, and salt together in a large bowl. Form a well in the center of the flour mixture. Add water, pecans, olive oil, and eggs to the well. Whisk the wet ingredients into the dry ingredients until batter is fully combined. Fold raisins, golden raisins, apricots, and cranberries into batter. Pour batter into the prepared muffin tin.",
+        "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, about 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4253555.jpg",
+    "ingredients": [
+        "\u00be cup teff flour",
+        "\u00be cup brown rice flour",
+        "\u00bd cup arrowroot flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bc teaspoon ground cloves",
+        "\u00bc teaspoon ground ginger",
+        "\u00bc teaspoon salt",
+        "\u2154 cup water",
+        "\u00bd cup chopped pecans",
+        "\u2153 cup olive oil",
+        "2  eggs, beaten",
+        "\u00bd cup raisins",
+        "\u00bd cup golden raisins",
+        "\u00bd cup dried apricots, chopped",
+        "\u00bd cup dried cranberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Teff Muffins",
     "url": "http://allrecipes.com/recipe/228329/teff-muffins/"
 }

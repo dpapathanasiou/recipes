@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lightly grease a serving bowl with butter.",
+        "Pour olive oil into a skillet; add white pepper, smoked paprika, and cayenne pepper. Place the skillet over medium heat and warm the spices until fragrant, 2 to 3 minutes.",
+        "Stir shallot into the warm oil and spices; cook and stir until the shallot begins to change color, 3 to 5 minutes.",
+        "Stir cannellini beans and tomato paste into the shallot and spice mixture. Cook and stir while mashing the beans thoroughly, about 5 minutes.",
+        "Stir sherry and soy sauce through the mashed bean mixture; cook until the liquid evaporates, 1 to 2 minutes.",
+        "Remove the skillet from heat. Stir melted butter through the bean mixture; season with salt. Pack the bean mixture into the prepared bowl.",
+        "Chill in refrigerator at least 1 hour; garnish with parsley and paprika to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1948&h=1020&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F824837.jpg",
+    "ingredients": [
+        "\u00bd teaspoon butter, or as needed",
+        "1 tablespoon olive oil",
+        "\u00bc teaspoon ground white pepper",
+        "\u00bd teaspoon smoked paprika",
+        "\u215b teaspoon cayenne pepper",
+        "1  shallot, minced",
+        "2 cups cannellini (white kidney) beans, rinsed and drained",
+        "\u00bc teaspoon tomato paste",
+        "2 tablespoons dry sherry",
+        "1 teaspoon soy sauce",
+        "1 tablespoon melted butter",
+        "salt to taste",
+        "2 tablespoons chopped fresh parsley, or as desired",
+        "1 pinch paprika, or as desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Bean Pate",
     "url": "http://allrecipes.com/recipe/221157/white-bean-pate/"
 }

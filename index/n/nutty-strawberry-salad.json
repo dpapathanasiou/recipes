@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, mix the vinegar, sugar, oil, paprika, and Worcestershire sauce. Cover, and refrigerate at least 6 hours.",
+        "Melt butter in a skillet over medium heat. Stir in the almonds, and cook until golden brown. Remove from heat, and cool.",
+        "In a bowl, toss the strawberries, romaine, and almonds. Mix with the dressing just before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F236474.jpg",
+    "ingredients": [
+        "\u00bc cup apple cider vinegar",
+        "\u00bc cup sugar",
+        "\u00bc cup vegetable oil",
+        "\u00bc teaspoon paprika",
+        "1 dash Worcestershire sauce",
+        "1 tablespoon butter",
+        "\u00bd cup slivered almonds",
+        "1 quart strawberries",
+        "2  romaine hearts, chopped into bite size pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nutty Strawberry Salad",
     "url": "http://allrecipes.com/recipe/50253/nutty-strawberry-salad/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the water to a boil in a large pot. Squeeze the juice from the lemon into the water, and throw in the halves. Add onion, garlic, salt and crab boil. Reduce heat to medium-low, cover, and simmer for 10 minutes.",
+        "Add the potatoes and sausage, and return to a boil. Simmer covered for 20 minutes. Break the ears of corn in half, and add them to the pot; cover, and cook for 10 more minutes. Remove from the heat, stir in the shrimp, and cover for 5 minutes. Drain off liquid before serving. It may be reserved for other uses such as soup stock.",
+        "Stir together the melted butter and hot sauce. Serve with the seafood and vegetables for dipping."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1359&h=712&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1129765.jpg",
+    "ingredients": [
+        "3 quarts water",
+        "1  lemon, halved",
+        "1 medium onion, halved",
+        "2 cloves garlic, crushed",
+        "1 pinch coarse salt",
+        "1 (3 ounce) package dry crab boil",
+        "1\u2009\u00bd pounds red potatoes, scrubbed",
+        "4 ears corn, husk and silk removed",
+        "1\u2009\u00bd pounds unpeeled, large fresh shrimp",
+        "1 pound smoked beef sausage, cut into chunks",
+        "\u00bd cup butter, melted",
+        "1 dash hot pepper sauce (e.g. Tabasco\u2122), or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "SC Frogmore Stew",
     "url": "http://allrecipes.com/recipe/82748/sc-frogmore-stew/"
 }

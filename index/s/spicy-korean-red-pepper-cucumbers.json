@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the vegetable oil in a small saucepan over medium heat. Stir in the sesame seeds, and cook until they turn golden brown and begin to pop, about 3 minutes. Remove from heat and place into a large bowl.",
+        "Whisk the kochujang, vinegar, sesame oil, and green onion into the toasted sesame seeds. Stir in the sliced cucumber until well coated with the dressing. Serve either chilled or at room temperature."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4542166.jpg",
+    "ingredients": [
+        "1 teaspoon vegetable oil",
+        "2 tablespoons sesame seeds",
+        "2 tablespoons kochujang (Korean hot sauce)",
+        "1/4 cup white vinegar",
+        "1 tablespoon sesame oil",
+        "1 green onion, chopped",
+        "1 cucumber, halved, seeded and thinly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Korean Red Pepper Cucumbers",
     "url": "http://allrecipes.com/recipe/158845/spicy-korean-red-pepper-cucumbers/"
 }

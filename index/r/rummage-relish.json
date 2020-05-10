@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine the green tomatoes, red tomatoes, cabbage, onion, cucumber, green pepper, and red pepper. Mix with the salt and let stand for 12 to 14 hours in a cool place, if not the refrigerator. Drain and rinse thoroughly.",
+        "Prepare 8 pint jars with lids and rings by sterilizing and keeping hot. Set aside.",
+        "In a large pot, combine the brown sugar, celery seed, cinnamon, mustard seed, ginger, garlic, cloves and vinegar. Bring to a boil, stirring to dissolve sugar. Simmer for 10 minutes. Add vegetables, and simmer for another 30 minutes.",
+        "Bring vegetables to a boil from a simmer and ladle into hot jars, leaving 1/4 inch headspace. Secure lids and rings. Process in a boiling water canner for 15 minutes. Cool to room temperature and refrigerate any jars that fail to seal properly."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/440178.jpg",
+    "ingredients": [
+        "8 cups cored and chopped green tomatoes",
+        "4 cups peeled, cored and chopped red tomatoes",
+        "4 cups chopped cabbage",
+        "3 cups chopped onion",
+        "2 cups chopped cucumber",
+        "1 cup chopped green bell pepper",
+        "1 cup chopped red bell pepper",
+        "1/2 cup salt",
+        "4 cups brown sugar",
+        "1 tablespoon celery seed",
+        "1 tablespoon ground cinnamon",
+        "1 tablespoon mustard seed",
+        "1 teaspoon ground ginger",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon ground cloves",
+        "2 quarts vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rummage Relish",
     "url": "http://allrecipes.com/recipe/66130/rummage-relish/"
 }

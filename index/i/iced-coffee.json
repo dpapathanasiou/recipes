@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, stir together the water and instant coffee. In a blender, combine ice cubes, coffee mixture, milk, sweetened condensed milk and chocolate syrup. Blend until smooth. Pour into glasses and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/422172.jpg",
+    "ingredients": [
+        "1/2 cup warm water",
+        "2 teaspoons instant coffee granules",
+        "1 tray ice cubes",
+        "1/2 (5 ounce) can sweetened condensed milk",
+        "1/2 cup milk",
+        "1 tablespoon chocolate syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Iced Coffee",
     "url": "http://allrecipes.com/recipe/32417/iced-coffee/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in saucepan and cover with water. Bring to boil. Cover, remove from heat, and let eggs sit in hot water for 10 to 12 minutes. Remove from hot water; cool, peel and chop.",
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease one 9x13 inch baking dish.",
+        "In a 2 quart pot, combine the chicken stock, butter, bell pepper, onion and celery. Bring to boil and simmer until vegetables are tender.",
+        "In a large bowl, combine the cornbread, eggs, olives, chestnuts, salt, pepper, sage and poultry seasoning. Pour broth over cornbread and mix thoroughly.",
+        "Place stuffing in baking dish; bake for 60 to 75 minutes or until edges begin to brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1006&h=527&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F964424.jpg",
+    "ingredients": [
+        "6  eggs",
+        "3 (14.5 ounce) cans chicken broth",
+        "\u00bd cup butter",
+        "\u00bd cup chopped green bell pepper",
+        "1  onion, chopped",
+        "3 stalks celery, chopped",
+        "6 cups crumbled cornbread",
+        "1 (6 ounce) can black olives",
+        "1 (8 ounce) can water chestnuts, drained and chopped",
+        "1\u2009\u00bd teaspoons salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon rubbed sage",
+        "1 tablespoon poultry seasoning"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jim's Cornbread Stuffing",
     "url": "http://allrecipes.com/recipe/13805/jims-cornbread-stuffing/"
 }

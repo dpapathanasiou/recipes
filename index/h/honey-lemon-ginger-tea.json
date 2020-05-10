@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir water, brown sugar, and grated ginger root together in a saucepan; bring to a boil, reduce heat to medium-low, and cook at a simmer for 20 minutes.",
+        "Remove saucepan from heat and add tea bags; steep tea to desired strength, 3 to 5 minutes. Remove and discard tea bags.",
+        "Stir lemon juice and honey into the tea; strain into a pitcher."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1565212.jpg",
+    "ingredients": [
+        "4 cups water",
+        "3/4 cup brown sugar",
+        "1/4 cup grated ginger root",
+        "3 tea bags",
+        "2 lemons, juiced",
+        "3 tablespoons honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey-Lemon Ginger Tea",
     "url": "http://allrecipes.com/recipe/239811/honey-lemon-ginger-tea/"
 }

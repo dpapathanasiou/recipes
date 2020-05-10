@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place chicken breasts between two sheets of wax paper or plastic wrapping, and pound with a meat mallet to flatten.",
+        "Cover each flattened breast with a slice or two of ham. Place 2 tablespoons cheese and a bit of carrot and a zucchini on the end of each chicken breast. Roll up each breast, and fasten with toothpicks.",
+        "In a large skillet, heat a small amount of oil over medium high heat. Cook chicken breasts in hot oil for 2 to 3 minutes to lightly brown. Place browned rolls in a lightly greased 9x13 inch baking dish.",
+        "Bake in the preheated oven for 20 to 25 minutes, or until chicken is cooked through and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=883&h=462&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F995604.jpg",
+    "ingredients": [
+        "6  skinless, boneless chicken breasts",
+        "12 slices smoked ham",
+        "\u00be cup shredded Gruyere cheese",
+        "\u00bc cup julienned carrots",
+        "\u00bc cup julienned zucchini",
+        "1 tablespoon vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken A La Impress Me",
     "url": "http://allrecipes.com/recipe/9040/chicken-a-la-impress-me/"
 }

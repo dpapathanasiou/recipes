@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cream the butter or margarine and sugar.",
+        "Grate and juice the lemon.  Add the lemon juice and rind to the creamed mixture.  Add flour and beaten egg.  Mix well.",
+        "Rest dough for one hour.",
+        "Put small spoonfuls on tray.  Cook for 15-20 minutes at 350 degrees F (175 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F33094.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd cup butter",
+        "\u215c cup white sugar",
+        "1  egg",
+        "1  lemon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Biqs",
     "url": "http://allrecipes.com/recipe/10700/lemon-biqs/"
 }

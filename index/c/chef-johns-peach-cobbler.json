@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine peaches, Chinese five-spice powder, and lemon zest in a bowl.",
+        "Stir sugar and water together in saucepan pan over medium heat until simmering, 2 to 3 minutes. Stir in peach mixture; cook and stir for 2 minutes. Remove from heat and set aside.",
+        "Combine sugar and self-rising flour in a large bowl. Pour in milk; whisk to form a smooth batter.",
+        "Pour melted butter into a Dutch oven. Pour batter over the melted butter.",
+        "Gently place peaches and syrup on top of batter. As the cobbler bakes, they will sink down into the batter.",
+        "Bake until syrup is bubbling and crust has risen and is golden brown, about 50 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/825004.jpg",
+    "ingredients": [
+        "5 cups fresh peaches - peeled, pitted, and sliced",
+        "1/8 teaspoon Chinese five-spice powder",
+        "1 teaspoon grated lemon zest",
+        "1 cup white sugar",
+        "1 cup water",
+        "1/2 cup butter, melted",
+        "1 cup white sugar",
+        "1 1/2 cups self-rising flour",
+        "1 1/2 cups milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Peach Cobbler",
     "url": "http://allrecipes.com/recipe/220995/chef-johns-peach-cobbler/"
 }

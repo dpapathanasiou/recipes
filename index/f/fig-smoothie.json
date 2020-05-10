@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the bananas, figs, milk, and orange juice into a blender. Cover, and puree until smooth. Pour into glasses to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6236092.jpg",
+    "ingredients": [
+        "2 frozen bananas, peeled and chopped",
+        "6 fresh figs, halved",
+        "3/4 cup milk",
+        "3/4 cup orange juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fig Smoothie",
     "url": "http://allrecipes.com/recipe/190893/fig-smoothie/"
 }

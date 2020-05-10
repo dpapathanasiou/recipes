@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium-size mixing bowl, beat yolks until thick. In a separate bowl, sift together flour, salt and sugar. Add the sugar mixture and milk into the egg yolks incrementally. Stir in the sour cream,",
+        "In a medium-size mixing bowl, beat egg whites until stiff but not dry. Fold the egg whiles into the batter.",
+        "Heat skillet or griddle to a high temperature. Place a small amount of oil on the skillet and pour about 1 tablespoon of batter onto the skillet, and spread the batter out evenly. Brown the pancake on one side. Flip pancake over when bubbles appear on surface. Brown on the other side. Repeat process with remaining batter."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7456.jpg",
+    "ingredients": [
+        "4 extra large eggs, separated",
+        "1 cup all-purpose flour",
+        "\u00bd teaspoon salt",
+        "2 tablespoons white sugar",
+        "1 cup milk",
+        "3 tablespoons sour cream",
+        "4  egg whites",
+        "3 tablespoons vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Pancakes",
     "url": "http://allrecipes.com/recipe/17176/swedish-pancakes/"
 }

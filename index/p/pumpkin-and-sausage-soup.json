@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook diced sausage in skillet with 2 tablespoons butter for 5 minutes.",
+        "Add onion and cook until soft. Add thyme and pumpkin OR sweet potatoes and cook 5 minutes.",
+        "Add liqueur, broth, and brown sugar. Cover and simmer over low heat for 45 minutes, or until pumpkin OR potatoes are tender.",
+        "In blender puree soup in batches. Return to pan and stir in cream and remaining 2 tablespoons butter. Warm but do not boil. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1944&h=1018&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1749091.jpg",
+    "ingredients": [
+        "\u00bd pound andouille sausage, diced",
+        "\u00bc cup butter",
+        "1\u2009\u00bc cups chopped onion",
+        "1 teaspoon dried thyme",
+        "1\u2009\u00bd pounds pumpkin puree",
+        "\u00bc cup praline liqueur",
+        "7 cups chicken stock",
+        "\u00bd cup packed brown sugar",
+        "\u215c cup heavy cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin and Sausage Soup",
     "url": "http://allrecipes.com/recipe/13160/pumpkin-and-sausage-soup/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).  Butter 15 muffin cups, or line with paper liner cups.",
+        "Mix together flours, soda, baking powder, salt, cinnamon, and nutmeg.   Stir pears lightly into dry ingredients.",
+        "In a large bowl, combine yogurt, oil, honey, and egg.  Mix in flour mixture until just combined. Spoon into muffin cups.",
+        "Bake for 20 to 25 minutes, or until done."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F14861.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 cup whole wheat flour",
+        "1\u2009\u00bd teaspoons baking soda",
+        "\u00bd teaspoon ground cinnamon",
+        "1\u2009\u00bd teaspoons baking powder",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bd teaspoon salt",
+        "1 cup plain yogurt",
+        "\u00bc cup vegetable oil",
+        "\u2153 cup honey",
+        "1  egg, beaten",
+        "1 cup canned pears, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pear-a-dise Muffins",
     "url": "http://allrecipes.com/recipe/7133/pear-a-dise-muffins/"
 }

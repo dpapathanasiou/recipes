@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch casserole dish with cooking spray.",
+        "Heat olive oil in a large skillet over medium heat. Add potato and onion; cook and stir until potatoes are golden brown and soft, about 10 minutes.",
+        "Place chorizo in a nonstick skillet over medium heat; cook and stir until browned and crumbly, about 5 minutes.",
+        "Whisk eggs with milk in a large bowl. Add red bell pepper, cooked potato and onion, and 1 cup Cheddar cheese to the egg mixture; pour into the casserole dish. Sprinkle 1/2 cup Cheddar cheese on top.",
+        "Bake in the preheated oven until firm and cheese is melted and starting to brown, about 30 minutes. Cool before serving, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2346&h=1228&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2827149.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 tablespoon olive oil",
+        "1 large potato, peeled and diced",
+        "\u00bd  yellow onion, diced",
+        "9 ounces chorizo sausage, crumbled",
+        "8  eggs",
+        "\u00bd cup milk (optional)",
+        "\u00bd  red bell pepper, diced",
+        "1\u2009\u00bd cups shredded Cheddar cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hangover Helper",
     "url": "http://allrecipes.com/recipe/245385/hangover-helper/"
 }

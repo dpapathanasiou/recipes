@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine sausage and red pepper flakes in a skillet over medium heat; cook and stir until sausage is brown and crumbled, 7 to 10 minutes. Drain excess fat; place in a bowl.",
+        "Cook onion, bacon, and garlic in the same skillet over medium-low heat until bacon is crisp and onions are soft, 10 to 15 minutes.",
+        "Combine water and chicken bouillon cubes in a large pot; bring to a boil. Stir in potatoes; cook and stir until soft, about 15 minutes. Pour in cream; simmer until heated through, about 2 minutes. Add sausage, onion mixture, and kale; cook and stir until flavors combine, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3015&h=1579&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4461109.jpg",
+    "ingredients": [
+        "1 pound ground Italian sausage",
+        "1\u2009\u00bd teaspoons red pepper flakes",
+        "1 large white onion, diced",
+        "4 strips bacon, diced",
+        "2 teaspoons garlic puree",
+        "10 cups water",
+        "5 cubes chicken bouillon",
+        "1 pound russet potatoes, diced",
+        "1 cup heavy whipping cream",
+        "\u00bc bunch kale, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "\"OG\" Zuppa Toscana Soup",
     "url": "http://allrecipes.com/recipe/255253/og-zuppa-toscana-soup/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large pot over medium-high heat. Cook the onion in the hot oil until translucent, about 5 minutes; stir in the garlic and cook another 30 seconds. Pour in the beef broth; add split peas, carrot, potatoes, soy sauce, basil, black pepper, parsley, red pepper flakes, sage, kosher salt, and bay leaves. Place the smoked turkey legs into the pot and pour in enough water to cover the peas by about 1 inch. Push the meaty ends of the turkey legs down into the liquid. Bring to a boil, cover, reduce heat to medium-low, and simmer until the peas have softened, about 45 minutes.",
+        "Remove the turkey legs from the soup and set aside to cool. When cool enough to handle, strip the meat from the bones and tendons, finely chop the turkey meat, and set aside. Using a stick blender, puree the soup to your desired degree of smoothness. Stir the turkey meat back into the soup. Ladle into bowls and top each with a dollop of sour cream."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1051911.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 yellow onion, diced",
+        "2 cloves garlic, chopped",
+        "6 cups low-sodium beef broth",
+        "2 pounds dried split peas",
+        "1 carrot, peeled and diced",
+        "2 small potatoes, peeled and diced",
+        "2 tablespoons soy sauce",
+        "1 tablespoon dried basil",
+        "1 tablespoon coarsely ground black pepper",
+        "1 tablespoon dried parsley",
+        "2 teaspoons crushed red pepper flakes",
+        "1 teaspoon ground sage",
+        "1 teaspoon kosher salt",
+        "2 bay leaves",
+        "2 1/2 pounds smoked turkey legs",
+        "2 cups water, or as needed",
+        "2 1/2 tablespoons sour cream, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Smoked Turkey Split Pea Soup",
     "url": "http://allrecipes.com/recipe/216104/smoked-turkey-split-pea-soup/"
 }

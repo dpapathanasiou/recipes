@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Place chicken thighs in a lightly greased 9x13 inch baking dish. Season with salt and pepper to taste and bake in the preheated oven for about 25 minutes.",
+        "Meanwhile, in a medium bowl combine the oyster sauce, garlic, sugar and water. Mix together and taste the sauce; if it is not sweet enough, add sugar to taste.",
+        "After chicken has baked for 25 minutes, pour sauce over it and bake for another 20 minutes, or until chicken is cooked through and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F793332.jpg",
+    "ingredients": [
+        "8  chicken thighs",
+        "salt and pepper to taste",
+        "1 (10 fluid ounce) bottle oyster sauce",
+        "2 teaspoons minced garlic",
+        "\u00be cup white sugar",
+        "\u00bc cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oyster Sauce Chicken",
     "url": "http://allrecipes.com/recipe/17803/oyster-sauce-chicken/"
 }

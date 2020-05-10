@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir mango, avocado, tomato, red onion, red pepper, parsley, canola oil, brown sugar, lime juice, cider vinegar, hot pepper sauce, salt, and ground black pepper together in a bowl. Refrigerate salsa for at least 1 hour.",
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Heat taco shells in preheated oven until crisp, about 5 minutes.",
+        "Season mahi mahi with 1 teaspoon ground black pepper, paprika, and 1/2 teaspoon salt.",
+        "Heat olive oil in a skillet over medium-high heat. Cook mahi mahi in olive oil until fish flakes easily, about 3 minutes per side.",
+        "Place mahi mahi slices in taco shells and top with mango salsa."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6831346.jpg",
+    "ingredients": [
+        "Mango Salsa:",
+        "1 mango - peeled, seeded, and chopped",
+        "2 avocados - peeled, pitted, and chopped",
+        "1 cup chopped tomato",
+        "1/2 cup diced red onion",
+        "1/2 cup diced red pepper",
+        "2 tablespoons chopped fresh flat-leaf parsley",
+        "2 tablespoons canola oil",
+        "2 tablespoons brown sugar",
+        "1 lime, juiced",
+        "1 teaspoon cider vinegar",
+        "1 dash hot pepper sauce, or to taste",
+        "salt and ground black pepper to taste",
+        "8 taco shells",
+        "4 (6 ounce) mahi mahi fillets, cut into 1-inch slices",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon paprika",
+        "1/2 teaspoon salt",
+        "2 tablespoons olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Healthy Fish Tacos with Mango Salsa",
     "url": "http://allrecipes.com/recipe/233899/healthy-fish-tacos-with-mango-salsa/"
 }

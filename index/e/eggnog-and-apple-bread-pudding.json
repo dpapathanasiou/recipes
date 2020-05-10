@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Generously grease a 9x12-inch baking dish with butter.",
+        "Spread bread into the bottom of the prepared baking dish. Sprinkle apple pieces evenly over the bread pieces.",
+        "Beat eggnog and eggs together in a bowl; pour over the bread and apples. Cover dish with aluminum foil.",
+        "Bake in preheated oven for 30 minutes, remove aluminum foil, and continue baking until browned and somewhat set in the middle, about 10 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7409760.jpg",
+    "ingredients": [
+        "2 tablespoons butter, softened",
+        "4 cups cubed day-old bread, or as needed to fill a 9x12-inch baking dish",
+        "2 apples - peeled, cored, and chopped into 1/2 inch pieces",
+        "3 cups eggnog",
+        "4 eggs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggnog and Apple Bread Pudding",
     "url": "http://allrecipes.com/recipe/235898/eggnog-and-apple-bread-pudding/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven's broiler and set the oven rack at about 6 inches from the heat source. Line a baking sheet with aluminum foil. Place the peppers onto the prepared baking sheet.",
+        "Cook under the preheated broiler, turning occasionally until the skin of the peppers has blackened and blistered, about 5 minutes. Place the blackened peppers into a bowl, and tightly seal with plastic wrap. Allow the peppers to steam as they cool, about 20 minutes. Once cool, remove and discard the skin, seeds, and stem. Chop the roasted chiles.",
+        "Pour the chicken broth into a large pot, and bring to a simmer over medium-high heat. Stir in the shrimp, mushrooms, and chopped roasted chiles. Return to a simmer, and cook until the shrimp are no longer translucent in the center, about 1 minute. Stir in the fish sauce, lime juice, and chile paste until the chile paste has dissolved. Ladle into bowls, and garnish each bowl with a lime leaf and a sprig of cilantro."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4039763.jpg",
+    "ingredients": [
+        "6 whole Thai chiles",
+        "2 quarts Thai chicken broth",
+        "1 cup peeled and deveined medium shrimp",
+        "1 (15 ounce) can whole straw mushrooms, drained",
+        "6 tablespoons fish sauce",
+        "6 tablespoons lime juice",
+        "3 tablespoons Thai garlic chile paste",
+        "6 kaffir lime leaves",
+        "6 sprigs fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jet Tila's Tom Yum Goong Soup",
     "url": "http://allrecipes.com/recipe/166696/jet-tilas-tom-yum-goong-soup/"
 }

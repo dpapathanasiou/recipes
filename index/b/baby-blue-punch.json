@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large punch bowl, stir together the drink mix, lemon-lime soda, and white cranberry juice. Taste, and stir in sugar to your liking. (I like to add the whole cup.) Float scoops of ice cream on the top. The ice cream melts somewhat and turns the punch a beautiful baby blue color with frothy white clouds floating on the top."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1513191.jpg",
+    "ingredients": [
+        "1 (0.13 ounce) package blue, berry flavored unsweetened drink mix",
+        "1 (2 liter) bottle lemon-lime flavored carbonated beverage",
+        "1 (64 fluid ounce) bottle white cranberry juice",
+        "8 scoops vanilla ice cream",
+        "1 cup white sugar, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baby Blue Punch",
     "url": "http://allrecipes.com/recipe/70551/baby-blue-punch/"
 }

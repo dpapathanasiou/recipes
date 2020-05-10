@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place tuna in a medium saucepan and pour water over it, then sprinkle with onion powder and garlic powder. Lay onion rings on top. Cover the pan and simmer about 5 minutes, or until cooked through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2722&h=1425&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1951202.jpg",
+    "ingredients": [
+        "1 (5 ounce) can tuna",
+        "\u2153 cup water",
+        "1 teaspoon onion powder",
+        "1 teaspoon garlic powder",
+        "1  onion, sliced into rings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy Tuna",
     "url": "http://allrecipes.com/recipe/20802/tangy-tuna/"
 }

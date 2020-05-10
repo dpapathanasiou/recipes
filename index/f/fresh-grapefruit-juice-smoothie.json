@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the grapefruit juice, strawberries, bananas, yogurt, honey, and ice into a blender. Cover, and blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/212140.jpg",
+    "ingredients": [
+        "1 1/3 cups fresh red grapefruit juice",
+        "8 large strawberries",
+        "2 medium bananas, sliced",
+        "1 (8 ounce) container strawberry-banana yogurt",
+        "2 tablespoons honey",
+        "1 cup crushed ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Grapefruit Juice Smoothie",
     "url": "http://allrecipes.com/recipe/143205/fresh-grapefruit-juice-smoothie/"
 }

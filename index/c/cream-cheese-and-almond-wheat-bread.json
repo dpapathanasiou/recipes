@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix warm water, brown sugar, and yeast in a large mixing bowl; stir well. Let stand until the yeast softens and begins to form a creamy foam, about 5 minutes. Grease a separate large bowl and set aside.",
+        "Stir whipped cream cheese, almonds, milk, vegetable oil, honey, and salt into the yeast mixture. Transfer to a blender; blend until creamy and smooth.",
+        "Slowly stir all-purpose flour and cream cheese mixture together in a large bowl; add whole-wheat flour. Stir to make a smooth dough.",
+        "Turn dough onto a floured surface; knead until smooth and springy, about 8 minutes. Place dough in the greased bowl, turning once to grease the top of the dough. Cover bowl with a towel and let sit until double in size, about 45 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 5x9-inch bread pan.",
+        "Punch dough down and knead again on a floured surface; form into a loaf. Place dough in the greased bread pan. Let rise in a warm place until double in size, 45 minutes.",
+        "Bake in the preheated oven until bread is done in the middle and top is browned, 50 to 60 minutes. Cover bread with aluminum foil if it gets too dark during the cooking process."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2160&h=1131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F870867.jpg",
+    "ingredients": [
+        "1 cup warm water",
+        "2 tablespoons brown sugar",
+        "1 (.25 ounce) package active dry yeast",
+        "1 cup whipped cream cheese",
+        "\u00bd cup chopped almonds",
+        "3 tablespoons milk",
+        "2 tablespoons vegetable oil",
+        "2 tablespoons honey",
+        "1 tablespoon salt",
+        "1\u2009\u00bd cups all-purpose flour",
+        "1\u2009\u00bd cups whole wheat flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cream Cheese and Almond Wheat Bread",
     "url": "http://allrecipes.com/recipe/222791/cream-cheese-and-almond-wheat-bread/"
 }

@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking pan or dish and line bottom with parchment paper. Grease parchment or spray with cooking spray.",
+        "Whisk together flour, baking powder, baking soda, cardamom, cinnamon, and salt in a bowl. Beat together butter and sugar with an electric mixer at medium speed in a large bowl until light and fluffy, about 3 minutes. Beat in syrup, then add eggs 1 at a time, beating well after each addition. Beat in wine and half of flour mixture, then beat in remaining flour mixture. Add nuts and raisins, beating just until combined. Pour batter into prepared pan.",
+        "Bake until a toothpick inserted into center comes out clean, about 45 minutes. Cool cake completely in pan on a wire rack, about 1 hour.",
+        "Sprinkle with some turbinado sugar and nuts for garnish."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 cups flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon ground cardamom",
+        "\u00be teaspoon ground cinnamon",
+        "\u00bc teaspoon salt",
+        "2 sticks butter, at room temperature",
+        "1\u2009\u2153 cups turbinado sugar, plus more for sprinkling",
+        "\u00be cup brown rice syrup",
+        "3  large eggs",
+        "1 cup dry white wine such as Chenin Blanc",
+        "\u00bd cup coarsely chopped pecans or walnuts, plus more for garnish",
+        "\u00bd cup golden raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Yum Cake",
     "url": "http://allrecipes.com/recipe/255359/cinnamon-yum-cake/"
 }

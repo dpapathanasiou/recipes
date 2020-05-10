@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place sausage, potatoes, celery, onion and butter in a large, deep skillet. Saute over medium high heat until sausage is crumbled and evenly cooked.",
+        "Combine the bread cubes, thyme, sage, salt and pepper. Toss together with the sausage and potato mixture. Add chicken or vegetable broth if needed.",
+        "Bake stuffing in a covered casserole dish for 40 to 50 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7537403.jpg",
+    "ingredients": [
+        "1 pound lean pork sausage",
+        "2  potatoes, peeled and diced",
+        "1\u2009\u00bd cups chopped celery",
+        "\u00be cup diced sweet onion",
+        "\u00be cup butter",
+        "9 cups soft bread cubes",
+        "\u00bd teaspoon dried thyme",
+        "\u00bd teaspoon ground sage",
+        "1 teaspoon salt",
+        "\u00bc teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato Sausage Stuffing",
     "url": "http://allrecipes.com/recipe/13860/potato-sausage-stuffing/"
 }

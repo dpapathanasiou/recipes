@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together the vanilla wafers, coconut, 3/4 cup confectioners' sugar, and frozen orange juice.",
+        "Mold into 1 inch balls and roll in confectioners' sugar.  Store, covered, in the refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2706&h=1417&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1066798.jpg",
+    "ingredients": [
+        "1\u2009\u215b cups vanilla wafers, crushed",
+        "\u00be cup flaked coconut",
+        "\u00be cup confectioners' sugar",
+        "\u00bd (6 ounce) can frozen orange juice concentrate, thawed",
+        "\u2153 cup confectioners' sugar for rolling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Balls I",
     "url": "http://allrecipes.com/recipe/10704/orange-balls-i/"
 }

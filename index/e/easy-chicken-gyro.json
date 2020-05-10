@@ -1,9 +1,40 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place Greek yogurt, cucumber, dill weed, 2 cloves garlic, white vinegar, 1 teaspoon lemon juice, 1 tablespoon olive oil, salt, and black pepper in a blender. Blend until smooth; set aside.",
+        "Whisk together 4 cloves minced garlic, juice of 1 lemon, red wine vinegar, 2 tablespoons olive oil, and oregano in a large glass or ceramic bowl. Season to taste with salt and black pepper.",
+        "Stir in chicken strips and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour.",
+        "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source.",
+        "Remove chicken from the marinade and shake off excess. Discard the remaining marinade. Place chicken on a large baking sheet.",
+        "Broil the chicken in the preheated oven until lightly browned and no longer pink in the center, 2 to 4 minutes per side.",
+        "Transfer cooked chicken to a plate and allow to rest for 5 minutes.",
+        "Heat 1 teaspoon olive oil in a large skillet over medium heat; place each pita bread into the skillet until warm and soft, about 2 minutes per pita.",
+        "Serve warmed pita bread topped with chicken strips, yogurt sauce, tomatoes, onion, and lettuce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (16 ounce) container Greek yogurt",
+        "1  cucumber, peeled and coarsely chopped",
+        "1\u2009\u00bd teaspoons dried dill weed",
+        "2 cloves garlic, minced",
+        "1 teaspoon distilled white vinegar",
+        "1 teaspoon lemon juice",
+        "1 tablespoon extra-virgin olive oil",
+        "salt and ground black pepper to taste",
+        "4 cloves garlic, minced",
+        "lemon, juiced",
+        "2 teaspoons red wine vinegar",
+        "2 tablespoons extra-virgin olive oil",
+        "1 tablespoon dried oregano",
+        "1\u2009\u00bc pounds skinless, boneless chicken breast halves - cut into strips",
+        "6 (6 inch) pita bread rounds",
+        "1 teaspoon olive oil",
+        "1  tomato, diced",
+        "1  red onion, thinly sliced",
+        "\u00bd head iceberg lettuce, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Chicken Gyro",
     "url": "http://allrecipes.com/recipe/220274/easy-chicken-gyro/"
 }

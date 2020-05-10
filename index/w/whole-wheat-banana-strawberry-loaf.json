@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Lightly grease and flour loaf pan.",
+        "In a large bowl combine flour, baking soda and cinnamon. Set aside.",
+        "In a medium bowl blend together with an electric mixer the oil, sugar, eggs and banana until well combined.",
+        "Add banana mix to the flour mix. Add the strawberries. Mix with a spoon until combined. Do not overmix.",
+        "Pour the mix into the loaf pan and bake at 350 degrees F (175 degrees C) for 1 hour and 15 minutes or until a toothpick inserted in the center comes out clean and the loaf is well browned.  Note: Blueberries or chocolate chips are great in place of the strawberries."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F36502.jpg",
+    "ingredients": [
+        "2 cups whole wheat flour",
+        "1 teaspoon baking soda",
+        "2  eggs",
+        "\u215d cup vegetable oil, divided",
+        "1\u2009\u00bd cups white sugar",
+        "3  bananas, mashed",
+        "1 cup chopped strawberries",
+        "1 pinch ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Whole Wheat Banana Strawberry Loaf",
     "url": "http://allrecipes.com/recipe/6830/whole-wheat-banana-strawberry-loaf/"
 }

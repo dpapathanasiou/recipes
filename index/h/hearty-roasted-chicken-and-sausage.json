@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken into a roasting pan. Add the onions, peppers, potatoes and sausage. Sprinkle with the Italian seasoning. Pour the broth over all.",
+        "Roast at 375 degrees F for 1 hour or until the chicken and sausage are cooked through, turning the chicken over once halfway through the roasting time and basting occasionally with the pan juices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4464809.jpg",
+    "ingredients": [
+        "4 pounds bone-in chicken thighs or chicken drumsticks",
+        "2 small onions, cut into wedges",
+        "2 large red peppers, cut into 2-inch-long strips",
+        "2 pounds medium red potatoes, cut in quarters",
+        "2 pounds sweet or hot Italian pork sausages, cut into 1-inch pieces",
+        "\u00bd teaspoon Italian seasoning, crushed",
+        "1 cup Swanson\u00ae Chicken Broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hearty Roasted Chicken and Sausage",
     "url": "http://allrecipes.com/recipe/219578/hearty-roasted-chicken-and-sausage/"
 }

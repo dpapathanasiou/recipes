@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare and bake chocolate cake as directed on package. Bake in 2 - 9 inch round pans. Allow cakes to cool. When cakes are cool, cut each one in half with a long serrated knife, making four layers.",
+        "In a large bowl, combine cream cheese, brown sugar and vanilla. Beat until soft.",
+        "In a separate bowl, whip cream to soft peaks, then fold into cream cheese mixture.",
+        "Place the bottom layer of cake on the serving plate. Spread 1/4 of the filling on cake layer, then continue to stack up layers with 1/4 of the filling on each layer. Finish top with the final 1/4 of filling and grate the chocolate on top. Refrigerate for 6 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F78413.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package dark chocolate cake mix",
+        "1 cup heavy whipping cream",
+        "1 (8 ounce) package cream cheese",
+        "\u2154 cup packed brown sugar",
+        "1 teaspoon vanilla extract",
+        "1 (1 ounce) square unsweetened chocolate"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Torte",
     "url": "http://allrecipes.com/recipe/8441/chocolate-torte/"
 }

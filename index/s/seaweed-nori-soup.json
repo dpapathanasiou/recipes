@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan over medium-high heat, cook the ground pork until browned. Drain off excess fat, and add water. Bring to a boil, then reduce heat to medium, and simmer uncovered for 15 minutes.",
+        "Stir in the bouillon cube to dissolve, and add water chestnuts and nori. Stir in the egg, and season with salt. Remove from heat, and mix in the green onions and sesame oil. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7774074.jpg",
+    "ingredients": [
+        "1 pound ground pork",
+        "2 quarts water",
+        "1 cube chicken bouillon",
+        "1 (8 ounce) can sliced water chestnuts",
+        "3 sheets nori (dry seaweed), broken into pieces.",
+        "1  egg, beaten",
+        "\u00bd teaspoon salt",
+        "4  green onions, chopped",
+        "\u00be teaspoon sesame oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seaweed (Nori) Soup",
     "url": "http://allrecipes.com/recipe/45518/seaweed-nori-soup/"
 }

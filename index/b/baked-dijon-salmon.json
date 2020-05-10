@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "In a small bowl, stir together butter, mustard, and honey. Set aside. In another bowl, mix together bread crumbs, pecans, and parsley.",
+        "Brush each salmon fillet lightly with honey mustard mixture, and sprinkle the tops of the fillets with the bread crumb mixture.",
+        "Bake salmon 12 to 15 minutes in the preheated oven, or until it flakes easily with a fork.  Season with salt and pepper, and garnish with a wedge of lemon."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/877476.jpg",
+    "ingredients": [
+        "1/4 cup butter, melted",
+        "3 tablespoons Dijon mustard",
+        "1 1/2 tablespoons honey",
+        "1/4 cup dry bread crumbs",
+        "1/4 cup finely chopped pecans",
+        "4 teaspoons chopped fresh parsley",
+        "4 (4 ounce) fillets salmon",
+        "salt and pepper to taste",
+        "1 lemon, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Dijon Salmon",
     "url": "http://allrecipes.com/recipe/21176/baked-dijon-salmon/"
 }

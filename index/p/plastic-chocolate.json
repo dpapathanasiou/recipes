@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt chocolate in a large metal bowl over a pan of simmering water. Stir occasionally until smooth. Remove from heat, and stir in the corn syrup. The mixture will become sticky, but keep stirring until very well blended.",
+        "Spoon onto a piece of plastic wrap, and wrap tightly. Let stand at room temperature until firm before using. Overnight is best. Use unsweetened cocoa powder on work surfaces to prevent sticking."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6487703.jpg",
+    "ingredients": [
+        "1 pound semisweet chocolate, chopped",
+        "3/4 cup light corn syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Plastic Chocolate",
     "url": "http://allrecipes.com/recipe/53014/plastic-chocolate/"
 }

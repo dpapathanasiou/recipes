@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak raisins in hot water for 30 minutes. Drain and dry.",
+        "In a mixing bowl, combine the raisins, pineapple and carrots.",
+        "Mix together the yogurt, sugar and salt. Add to carrot mixture; mix well, cover and refrigerate."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/70020.jpg",
+    "ingredients": [
+        "1/2 cup raisins",
+        "2 cups pineapple tidbits, drained",
+        "1 pound carrots, grated",
+        "1 cup pineapple yogurt",
+        "2 tablespoons white sugar",
+        "1/8 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pineapple Carrot Salad",
     "url": "http://allrecipes.com/recipe/13833/pineapple-carrot-salad/"
 }

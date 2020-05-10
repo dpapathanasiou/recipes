@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together the flour, milk, eggs and salt. Using an electric mixer, beat 5 minutes, until smooth. Cover and refrigerate 1 hour.",
+        "Preheat oven to 425 degrees F (220 degrees C). Coat a 9x13 inch baking pan with beef or bacon drippings. Preheat the pan 15 minutes so the drippings are hot and sizzling.",
+        "Remove the mixture from the refrigerator. Beat briefly, then scoop into the baking pan. Bake 20 minutes.",
+        "Lower oven temperature to 375 degrees F (190 degrees C). Without opening the oven, continue baking 15 minutes. The mixture should be puffed and golden brown. Remove from oven and serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F321885.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 cup whole milk",
+        "2  eggs",
+        "\u00bd teaspoon salt",
+        "3 tablespoons beef or bacon drippings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Classic Yorkshire Pudding",
     "url": "http://allrecipes.com/recipe/21389/classic-yorkshire-pudding/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together flour, baking powder, baking soda, cinnamon, and salt.",
+        "In a mixing bowl, combine corn and sugars.  Beat in eggs and oil till well blended.  Mix flour mixture into batter.  Stir in raisins and nuts.  Pour batter into greased 9 x 13 inch pan.",
+        "Bake at 350 degrees F (175 degrees C) for 30 to 35 minutes, or till cake tests done.  Cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F504252.jpg",
+    "ingredients": [
+        "1 (14.75 ounce) can cream-style corn",
+        "\u00bd cup packed brown sugar",
+        "\u00be cup white sugar",
+        "3  eggs",
+        "1 cup vegetable oil",
+        "1 tablespoon baking powder",
+        "2\u2009\u00bc cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "\u00bd cup raisins",
+        "\u00bd cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amazing Corn Cake",
     "url": "http://allrecipes.com/recipe/8080/amazing-corn-cake/"
 }

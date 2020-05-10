@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+        "Spread walnut pieces on a baking sheet lined with parchment paper.",
+        "Toast walnut pieces under the preheated broiler until fragrant, 2 to 3 minutes.",
+        "Arrange lettuce at the bottom of a large glass trifle bowl. Layer celery, grapes, and red apples on top. Cover with toasted walnuts and blue cheese crumbles.",
+        "Combine yogurt, mayonnaise, honey, lemon juice, and lemon zest in a jam jar; seal and shake well. Season dressing with salt and pepper. Serving dressing alongside salad."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup shelled walnut pieces",
+        "1 large head green leaf lettuce, sliced into bite-size chunks",
+        "3 cups chopped celery",
+        "1 pound red seedless grapes, halved",
+        "2 large red apples, cut into small chunks",
+        "\u2153 cup blue cheese crumbles",
+        "\u00be cup plain yogurt",
+        "3 tablespoons mayonnaise",
+        "1 teaspoon honey",
+        "1 teaspoon lemon juice",
+        "1 teaspoon lemon zest",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Layered Waldorf Salad",
     "url": "http://allrecipes.com/recipe/257232/layered-waldorf-salad/"
 }

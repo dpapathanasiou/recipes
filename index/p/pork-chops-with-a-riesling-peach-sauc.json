@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Cover a baking sheet with aluminum foil.",
+        "Heat the olive oil in a large skillet over medium-high heat. Season the pork chops with salt and pepper. Brown the pork chops in the hot oil until golden brown on both sides, about 3 minutes per side. Place the pork chops on the prepared baking sheet and bake in the preheated oven until the pork is no longer pink in the center, about 20 minutes. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C).",
+        "While the pork chops are baking, pour the Riesling wine into the skillet, and bring to a simmer, using a wooden spoon to scrape up all of the browned bits of pork. Simmer until the wine has reduced to half its original volume then add the peaches and sprinkle in the cinnamon, nutmeg, and brown sugar. Reduce the heat to medium, and cook until the peaches are tender but not mushy, about 15 minutes. Spoon the peach sauce over the pork chops to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7788055.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "salt and black pepper to taste",
+        "4 boneless pork chops",
+        "1 cup Riesling wine",
+        "3 under ripe peaches, pitted, and cut into 12 wedges each",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "1 tablespoon brown sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork Chops with a Riesling Peach Sauce",
     "url": "http://allrecipes.com/recipe/172626/pork-chops-with-a-riesling-peach-sauc/"
 }

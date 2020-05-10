@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees. Spray a 9 in x 13 in glass baking dish with non-stick cooking spray.",
+        "Cut each biscuit into 6 pieces and place in a large mixing bowl. Toss together biscuit pieces with Ragu\u00ae Classic Alfredo sauce, onions, garlic, bacon, mozzarella cheese, and black pepper.",
+        "Pour biscuit mixture evenly into the pan and top with Parmigiano-Reggiano cheese. Bake for 25 to 35 minutes or until biscuits are done. Make sure the biscuits in the middle are cooked through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7286408.jpg",
+    "ingredients": [
+        "2 (10 ounce) containers jumbo refrigerated biscuits",
+        "1 (16 ounce) jar Ragu\u00ae Cheesy! Classic Alfredo Sauce",
+        "\u00bc cup chopped onions",
+        "2 cloves garlic, minced",
+        "8 slices bacon, diced, cooked until crisp, drained",
+        "1 cup mozzarella cheese, shredded",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd cup grated Parmigiano-Reggiano cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Comforting Carbonara Bubble Up",
     "url": "http://allrecipes.com/recipe/236789/comforting-carbonara-bubble-up/"
 }

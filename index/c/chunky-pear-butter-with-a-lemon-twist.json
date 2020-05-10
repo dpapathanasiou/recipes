@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the pears and water into a pot or large saucepan. Cook over medium heat until pears are soft, about 30 minutes. Sterilize six half-pint jars and keep warm.",
+        "Transfer pears to a food processor and pulse until they reach your desired consistency. Return to the pan, and stir in the brown sugar, lemon zest, nutmeg, almond extract and limoncello. Cook over medium-low heat, stirring occasionally, until the mixture reaches a thick consistency like butter, about 1 hour.",
+        "Ladle the pear butter into the sterile jars, leaving 1/4 inch headspace. Seal with lids and rings. Process in a hot water bath for 10 minutes to ensure a seal."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5747190.jpg",
+    "ingredients": [
+        "5 pounds pears - peeled, cored and diced",
+        "1/2 cup water",
+        "2 cups packed brown sugar",
+        "2 teaspoons grated lemon zest",
+        "1/4 teaspoon ground nutmeg",
+        "1 teaspoon almond extract",
+        "2 tablespoons limoncello liqueur"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chunky Pear Butter with a Lemon Twist",
     "url": "http://allrecipes.com/recipe/149202/chunky-pear-butter-with-a-lemon-twist/"
 }

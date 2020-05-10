@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain. Transfer potatoes to a bowl; add butter, garlic powder, and parsley. Mash with a potato masher. Stir in Cheddar cheese and ham."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2958&h=1549&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1119000.jpg",
+    "ingredients": [
+        "5  baking potatoes, peeled and cut into 1/2-inch cubes",
+        "1 cup butter",
+        "1\u2009\u00bd tablespoons garlic powder",
+        "1 tablespoon dried parsley",
+        "1\u2009\u00bd cups shredded Cheddar cheese",
+        "1 pound cubed cooked ham"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Mashed Potatoes with Cubed Ham",
     "url": "http://allrecipes.com/recipe/230137/cheesy-mashed-potatoes-with-cubed-ham/"
 }

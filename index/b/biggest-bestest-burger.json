@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to broil.",
+        "In a large bowl, combine the ground beef, onion, salt, ground black pepper and basil; mix together well. Then add the bread crumbs, cheese and teriyaki sauce. Mix this together well and divide into 4 to 6 large, round balls.",
+        "Place the hamburger balls onto a broiler pan, evenly spaced. Press down on each ball, either with your palm or with a spatula, until a perfectly round patty is formed.",
+        "Broil for 8 minutes, turn each patty over, and broil for 8 minutes more. (Note: The outside of each patty should appear almost burnt.)",
+        "Turn off heat and place cheese slices on each patty. When cheese is melted, remove from oven and serve on onion rolls."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3178797.jpg",
+    "ingredients": [
+        "2 pounds ground beef",
+        "1  onion, chopped",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon dried basil",
+        "\u00bc cup Italian seasoned bread crumbs",
+        "1 tablespoon grated Parmesan cheese",
+        "\u2153 cup teriyaki sauce",
+        "6 slices American cheese",
+        "6  onion rolls"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Biggest Bestest Burger",
     "url": "http://allrecipes.com/recipe/16246/biggest-bestest-burger/"
 }

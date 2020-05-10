@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine flour, baking soda, and salt in a bowl. Beat shortening, butter, brown sugar, and white sugar in another bowl until smooth. Beat eggs into butter mixture one at a time, adding coconut extract and vanilla extract with the last egg. Stir flour mixture into butter mixture and fold in coconut, pecans, semisweet chocolate chips, and white chocolate chips.",
+        "Scoop up dough by spoonfuls and roll into 1-inch balls. Place balls 2 inches apart onto ungreased baking sheets. Flatten dough balls slightly.",
+        "Bake in preheated oven until golden brown, 10 to 12 minutes. Allow cookies to cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2456&h=1286&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1008735.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "\u00bd cup butter-flavored shortening",
+        "\u00bd cup butter, softened",
+        "\u00be cup brown sugar",
+        "\u00be cup white sugar",
+        "2  eggs",
+        "1 teaspoon coconut extract",
+        "1 teaspoon vanilla extract",
+        "1\u2009\u00bd cups sweetened flaked coconut",
+        "1 cup chopped pecans",
+        "\u00be cup semisweet chocolate chips",
+        "\u00be cup white chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pecan Coconut Chocolate Chip Cookies",
     "url": "http://allrecipes.com/recipe/232381/pecan-coconut-chocolate-chip-cookies/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan over medium high heat, saute the ground beef for 5 minutes, or until browned. Stir in the onion and green bell pepper and saute for 5 more minutes. Season with salt and pepper to taste.",
+        "Next, add the beans, mushrooms, brown sugar and chili powder to taste. Mix together well, reduce heat to low and let simmer for 20 minutes to 1 hour or more, depending on how much time you have and how thick you like your chili."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 pounds ground beef",
+        "\u00bd  onion, chopped",
+        "\u00bd  green bell pepper, chopped",
+        "salt and pepper to taste",
+        "1 (15 ounce) can baked beans",
+        "1 (4.5 ounce) can mushrooms, drained",
+        "1 tablespoon brown sugar",
+        "\u00bc teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma's Chili",
     "url": "http://allrecipes.com/recipe/17633/grandmas-chili/"
 }

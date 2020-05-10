@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray slow cooker with cooking spray. Place chicken breasts inside. In a medium bowl mix together soup and milk, and pour mixture over chicken. Season with salt and pepper to taste and garlic powder.",
+        "Cook on High for about 6 hours. Note: Do not lift lid while cooking!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1005708.jpg",
+    "ingredients": [
+        "6 skinless, boneless chicken breast halves",
+        "2 (11 ounce) cans condensed cream of Cheddar cheese soup",
+        "1/2 cup milk",
+        "salt and pepper to taste",
+        "1 teaspoon garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Dump and Go Cheesy Chicken",
     "url": "http://allrecipes.com/recipe/17024/slow-cooker-dump-and-go-cheesy-chicke/"
 }

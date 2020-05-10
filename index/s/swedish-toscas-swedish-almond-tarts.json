@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Cream the butter with the white sugar in a mixing bowl. Mix in 1 cup flour and stir to make a smooth dough. Divide the mixture by placing even amounts into the cups of a 12-cup muffin tin. Press the mixture into the bottom and up the sides of each cup.",
+        "To make the filling, mix the slivered almonds, brown sugar, and 2 tablespoons butter in a small pan. Stir in the cream, and 2 teaspoons flour. Cook and stir the mixture constantly over medium heat until it boils, about 10 minutes. Divide the mixture evenly between the prepared tart shells.",
+        "Bake in preheated oven until tops and crust edges are light brown, about 10 to 15 minutes. Remove from the oven, and cool 10 to 15 minutes before removing the tarts from the muffin pan. Cool completely on a rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F398716.jpg",
+    "ingredients": [
+        "6 tablespoons butter, room temperature",
+        "\u00bc cup white sugar",
+        "1 cup all-purpose flour",
+        "\u2153 cup slivered almonds",
+        "\u00bc cup brown sugar",
+        "2 tablespoons butter",
+        "1\u2009\u00bd tablespoons cream",
+        "2 teaspoons all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Toscas (Swedish Almond Tarts)",
     "url": "http://allrecipes.com/recipe/160364/swedish-toscas-swedish-almond-tarts/"
 }

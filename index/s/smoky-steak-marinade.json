@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together Worcestershire sauce, liquid smoke, salt, seasoned salt, garlic powder, and onion powder in a bowl until the salts have dissolved.",
+        "To use, pour the marinade over up to 2 pounds of meat in a resealable plastic bag. Seal the bag, and refrigerate overnight. The following morning, discard the marinade, and cook the meat as desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/290038.jpg",
+    "ingredients": [
+        "1/2 cup Worcestershire sauce",
+        "1/4 cup liquid smoke",
+        "1 1/2 tablespoons salt",
+        "3 tablespoons seasoned salt",
+        "2 tablespoons garlic powder",
+        "2 1/2 tablespoons onion powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Smoky Steak Marinade",
     "url": "http://allrecipes.com/recipe/148853/smoky-steak-marinade/"
 }

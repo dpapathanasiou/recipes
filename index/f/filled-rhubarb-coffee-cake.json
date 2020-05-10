@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch fluted tube cake pan.",
+        "Mix 1/4 teaspoon cinnamon with 2 teaspoons sugar in a small bowl. Pour mixture into greased cake pan and tilt the pan, tapping to coat inside of pan with cinnamon sugar. Pour out any loose cinnamon sugar.",
+        "Mix lemon juice into milk in a large measuring cup and let stand about 5 minutes to sour. Mix shortening and 1 1/2 cups sugar together in a large bowl until smooth; beat in egg and vanilla extract. Whisk flour, baking soda, and salt in a separate bowl. Gradually add dry ingredients to moist ingredients, alternating with sour milk, to make a smooth batter.",
+        "Stir rhubarb into batter. Pour half the batter into prepared cake pan. Stir brown sugar, 1/3 cup white sugar, 1 teaspoon cinnamon, and walnuts together in a bowl; sprinkle nut mixture over batter. Pour remaining batter over nut mixture.",
+        "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 45 minutes to 1 hour. Cool in pan for 10 minutes before removing to a serving platter. Stir 2 teaspoons white sugar with 1/4 teaspoon cinnamon and sprinkle sugar mixture on top of cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1359932.jpg",
+    "ingredients": [
+        "\u00bc teaspoon ground cinnamon",
+        "2 teaspoons white sugar",
+        "1 cup milk",
+        "1 tablespoon lemon juice",
+        "\u00bd cup shortening",
+        "1\u2009\u00bd cups white sugar",
+        "1  egg",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "2 cups chopped fresh rhubarb",
+        "\u2153 cup brown sugar",
+        "\u2153 cup white sugar",
+        "1 teaspoon ground cinnamon",
+        "1 cup chopped walnuts",
+        "2 teaspoons white sugar, or to taste",
+        "\u00bc teaspoon ground cinnamon, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Filled Rhubarb Coffee Cake",
     "url": "http://allrecipes.com/recipe/232349/filled-rhubarb-coffee-cake/"
 }

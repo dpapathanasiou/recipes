@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring quinoa and water to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the quinoa is tender and the water has been absorbed, about 15 to 20 minutes. Set aside to cool.",
+        "Combine garbanzo beans, black olives, corn, tuna, spinach, tomatoes, olive oil, and cilantro in a large bowl; stir to coat. Stir in quinoa. Refrigerate salad to allow flavors to blend, 2 hours to overnight. Serve chilled."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4776496.jpg",
+    "ingredients": [
+        "1/4 cup quinoa",
+        "1/2 cup water",
+        "1 (15 ounce) can garbanzo beans, drained and rinsed",
+        "1 (15 ounce) can black olives, drained and sliced",
+        "1 (14.5 ounce) can whole kernel corn, drained",
+        "2 (5 ounce) cans tuna, drained",
+        "1 cup chopped fresh spinach",
+        "1 cup diced fresh tomatoes",
+        "2 tablespoons olive oil, or more if needed",
+        "2 tablespoons chopped fresh cilantro, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quinoa Tuna Salad",
     "url": "http://allrecipes.com/recipe/228994/quinoa-tuna-salad/"
 }

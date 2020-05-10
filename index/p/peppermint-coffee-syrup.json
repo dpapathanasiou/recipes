@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water and sugar to a boil in a saucepan. Reduce heat to medium; stir 4 to 5 minutes. Add peppermint extract and remove from heat. Cool syrup for 5 minutes; pour into glass jar with tight-fitting lid."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4296373.jpg",
+    "ingredients": [
+        "1 cup water",
+        "1 cup white sugar",
+        "1 teaspoon peppermint extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peppermint Coffee Syrup",
     "url": "http://allrecipes.com/recipe/245644/peppermint-coffee-syrup/"
 }

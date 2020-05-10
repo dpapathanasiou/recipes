@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the ginger ale in a 2-cup microwave-safe measuring cup, and microwave on high until the soda is hot but not boiling, 1 to 2 minutes. Gently stir in the butter to melt, then stir in the brown sugar and cinnamon. Don't stir too vigorously to avoid the soda fizzing up. Pour the drink into mugs, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2502053.jpg",
+    "ingredients": [
+        "2 cups ginger ale",
+        "1 teaspoon butter",
+        "1 tablespoon brown sugar",
+        "1/4 teaspoon cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butterbeer",
     "url": "http://allrecipes.com/recipe/213135/butterbeer/"
 }

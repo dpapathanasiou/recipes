@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend peach halves in a blender until smooth; transfer to a large bowl.",
+        "Beat sugar, eggs, egg yolks, lemon juice, and rose water into peach puree until incorporated.",
+        "Melt butter in the top of a double boiler over simmering water; stir peach mixture into melted butter, stirring constantly, until curd is thickened, 5 to 10 minutes.",
+        "Sterilize jars and lids in boiling water for at least 5 minutes. Pack peach curd into the hot, sterilized jars, filling the jars to within 1/4 inch of the top. Run a knife or a thin spatula around the insides of the jars after they have been filled to remove any air bubbles. Wipe the rims of the jars with a moist paper towel to remove any food residue. Top with lids, and screw on rings.",
+        "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars into the boiling water using a holder. Leave a 2-inch space between the jars. Pour in more boiling water if necessary to bring the water level to at least 1 inch above the tops of the jars. Bring the water to a rolling boil, cover the pot, and process for 10 minutes.",
+        "Remove the jars from the stockpot and place onto a cloth-covered or wood surface, several inches apart, until cool. Once cool, press the top of each lid with a finger, ensuring that the seal is tight (lid does not move up or down at all). Store in a cool dark area."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1358253.jpg",
+    "ingredients": [
+        "3 fresh peaches, halved and pitted",
+        "4 cups white sugar",
+        "2 eggs",
+        "4 egg yolks",
+        "1 tablespoon lemon juice",
+        "1 teaspoon rose water (optional)",
+        "3/4 cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peach Curd",
     "url": "http://allrecipes.com/recipe/232954/peach-curd/"
 }

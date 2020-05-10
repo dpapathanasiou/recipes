@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a skillet over medium-high heat. Cook chops until browned, about 3 minutes per side. Reduce heat to low; stir in beer, soy sauce, honey, Dijon mustard, and garlic. Add apple slices; simmer until tender, about 10 minutes.",
+        "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer potatoes until tender, about 20 minutes. Drain and return potatoes to the pot.",
+        "Combine butter and milk in a saucepan over medium heat; heat until butter is melted, 3 to 5 minutes. Add kale and simmer until softened, 5 to 10 minutes. Pour over warm boiled potatoes; mash well. Season colcannon with salt and pepper.",
+        "Serve pork chops and apple slices over colcannon."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "4 boneless pork chops",
+        "1/4 cup beer",
+        "1 tablespoon soy sauce",
+        "1 teaspoon honey",
+        "1 teaspoon Dijon mustard",
+        "1 clove garlic, crushed",
+        "1 large apple, peeled and sliced",
+        "Colcannon:",
+        "4 potatoes, peeled",
+        "1/3 cup butter",
+        "1/3 cup milk",
+        "4 ounces chopped curly kale",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork Chops with Apple Mustard Sauce and Colcannon",
     "url": "http://allrecipes.com/recipe/256992/pork-chops-with-apple-mustard-sauce-a/"
 }

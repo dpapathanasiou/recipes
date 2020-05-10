@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Shred the cantaloupe into a large pitcher using a fork, making sure to catch all the juice and pulp. Stir in the sugar, mashing any large pieces of cantaloupe. Stir in the milk and water, adding enough to fill the pitcher. Serve cold."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/668797.jpg",
+    "ingredients": [
+        "1 cantaloupe, halved and seeded",
+        "1/2 cup white sugar, or more to taste",
+        "2 cups milk",
+        "6 cups cold water, or more as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cool and Refreshing Cantaloupe Drink",
     "url": "http://allrecipes.com/recipe/218329/cool-and-refreshing-cantaloupe-drink/"
 }

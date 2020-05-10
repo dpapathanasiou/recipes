@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large pot over medium heat. Cook and stir steak and ground black pepper in hot oil until browned on all sides, 5 to 10 minutes.",
+        "Stir onions into beef; saute until onions are translucent, 3 to 4 minutes. Add garlic and cook until fragrant, about 1 minute.",
+        "Stir green bell peppers, yellow bell pepper, and red bell pepper into beef mixture one pepper at a time. Cook and stir until fragrant, 3 to 5 minutes.",
+        "Pour diced tomatoes, kidney beans, black beans, corn, and tomato sauce into beef-pepper mixture. Bring to a simmer and cook, stirring occasionally, until flavors blend and meat is tender, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7660787.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "2 pounds beef top round steak, cut into 1/2-inch cubes",
+        "2 teaspoons ground black pepper",
+        "2  yellow onions, diced",
+        "2 tablespoons chopped garlic",
+        "2  green bell pepper, diced",
+        "1  yellow bell pepper, diced",
+        "1  red bell pepper, diced",
+        "3 (14.5 ounce) cans diced tomatoes",
+        "2 (15 ounce) cans kidney beans, drained and rinsed",
+        "2 (15 ounce) cans black beans, drained and rinsed",
+        "1 (15 ounce) can yellow corn, drained",
+        "1 (15 ounce) can tomato sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fiesta Steak Chili",
     "url": "http://allrecipes.com/recipe/236016/fiesta-steak-chili/"
 }

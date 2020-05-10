@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large pot over medium heat. Stir in onion, celery, garlic, ginger, and sugar. Cook 5 minutes, until onion is tender. Season with salt, turmeric, allspice, and nutmeg. Mix in potatoes and zucchini, and pour in the vegetable stock. Bring to a boil, reduce heat to low, and simmer 10 minutes, or until potatoes are tender.",
+        "Remove soup from heat, season with cayenne pepper, and stir in spinach. Using a hand blender, blend soup until smooth. Garnish with red bell pepper to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/441436.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 onion, chopped",
+        "2 stalks celery, chopped",
+        "4 cloves garlic, minced",
+        "2 tablespoons fresh ginger root, minced",
+        "1 tablespoon turbinado sugar",
+        "2 teaspoons sea salt",
+        "1/4 teaspoon ground turmeric",
+        "1/4 teaspoon ground allspice",
+        "1/4 teaspoon ground nutmeg",
+        "2 potatoes, peeled and diced",
+        "4 cups chopped zucchini",
+        "6 cups vegetable stock",
+        "1 pinch cayenne pepper",
+        "1 cup chopped fresh spinach",
+        "1/2 red bell pepper, minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jamaican Spinach Soup",
     "url": "http://allrecipes.com/recipe/87075/jamaican-spinach-soup/"
 }

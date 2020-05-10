@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse cashews and soak in a jar with enough water to cover for at least 6 hours.",
+        "Heat olive oil in a small skillet over medium-low heat. Add garlic; cook and stir until fragrant but not browned, about 1 minute.",
+        "Place soaked cashews, red bell pepper, lemon juice, sriracha hot sauce, 1 tablespoon water, nutritional yeast, and salt in a blender. Scrape cooked garlic and olive oil mixture into blender. Blend until smooth and creamy dressing forms, 1 to 2 minutes.",
+        "Toss kale together with dressing in a large bowl until evenly coated."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3296878.jpg",
+    "ingredients": [
+        "1 cup raw cashews",
+        "2 tablespoons extra-virgin olive oil",
+        "1 clove garlic, minced",
+        "1 red bell pepper, diced",
+        "2 tablespoons lemon juice",
+        "1 1/2 tablespoons sriracha hot sauce",
+        "1 tablespoon water",
+        "1 tablespoon nutritional yeast",
+        "1 1/2 teaspoons salt",
+        "8 ounces kale leaves, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cashew and Red Bell Pepper Dressing for Kale",
     "url": "http://allrecipes.com/recipe/246425/cashew-and-red-bell-pepper-dressing-f/"
 }

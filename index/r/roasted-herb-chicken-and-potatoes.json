@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut potatoes in half lengthwise; cut each piece crosswise into 1/2-inch thick slices. Place with onion in large, shallow foil-lined baking pan. Combine next 7 ingredients; drizzle 1 Tbsp. mixture over potato mixture and toss until evenly coated.",
+        "Discard giblets and neck from chicken. Rinse chicken under cold running water; drain and pat dry. Place chicken, breast side up, in center of pan, moving potatoes aside. Brush chicken, including cavity, thoroughly with soy sauce mixture.",
+        "Roast in 375 degrees F oven about 1 hour and 15 minutes, or until meat thermometer inserted into thickest part not touching bone registers 180 degrees F, brushing chicken with soy sauce mixture every 30 minutes and stirring vegetables. Remove from oven; let chicken stand 10 minutes before carving. Serve with potatoes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4288&h=2245&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1025577.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds baking potatoes",
+        "1 large onion, thinly sliced",
+        "\u2153 cup Kikkoman Soy Sauce",
+        "3 tablespoons olive oil",
+        "2 tablespoons red wine vinegar",
+        "2 cloves garlic, pressed",
+        "1 teaspoon dried oregano leaves, crumbled",
+        "1 teaspoon dried rosemary, crushed",
+        "\u00be teaspoon pepper",
+        "1 (4 pound) whole roasting chicken"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Herb Chicken and Potatoes",
     "url": "http://allrecipes.com/recipe/65734/roasted-herb-chicken-and-potatoes/"
 }

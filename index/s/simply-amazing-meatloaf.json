@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "In a mixing bowl, combine ground beef, Spanish rice and sauce mix, eggs, 1 tablespoon of ketchup, and mustard. Mix thoroughly.",
+        "Coat the inside of a 9x5 inch loaf pan with 2 tablespoons of the ketchup. Transfer the meat mixture to the loaf pan. Top with the remaining ketchup.",
+        "Bake in a preheated oven for 1 hour or until cooked through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4481733.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds lean ground beef",
+        "1 (4.4 ounce) package Spanish rice and sauce mix",
+        "2  eggs",
+        "1 tablespoon ketchup",
+        "1 tablespoon yellow mustard",
+        "2 tablespoons ketchup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simply Amazing Meatloaf",
     "url": "http://allrecipes.com/recipe/23566/simply-amazing-meatloaf/"
 }

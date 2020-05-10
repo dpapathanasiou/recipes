@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spread hazelnuts onto a baking sheet.",
+        "Toast hazelnuts in the preheated oven until golden brown and skins start to flake off, 10 to 15 minutes. Watch carefully as nuts go from toasted to burnt very quickly. Rub toasted nuts in a clean dishtowel until most of the skins slip off.",
+        "Chop hazelnuts in a food processor into coarse crumbs.",
+        "Melt butter in a large skillet over medium heat. Add mushrooms and onions; cook and stir until mushrooms are cooked through and onions are soft and translucent, about 10 minutes. Add thyme leaves and salt; cook, stirring, about 1 minute. Cool mushroom mixture briefly, about 10 minutes.",
+        "Pour mushroom mixture over hazelnuts in the food processor. Pulse until pate is fairly thick and brownish-gray in color, about 1 minute."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4529&h=2371&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6188945.jpg",
+    "ingredients": [
+        "1 cup hazelnuts",
+        "\u00bc cup butter, melted",
+        "1 pound chopped fresh mushrooms",
+        "2  onions, sliced",
+        "\u00bd teaspoon fresh thyme leaves",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom Hazelnut Pate",
     "url": "http://allrecipes.com/recipe/245613/mushroom-hazelnut-pate/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat sesame oil and olive oil in a large wok or frying pan over medium heat; cook and stir shrimp and onion in the hot oil until coated. Mix mushrooms, green bell pepper, and garlic into shrimp mixture, stirring constantly. Add ginger and stir.",
+        "Pour water and oyster sauce into shrimp mixture; simmer until shrimp are bright pink on the outside and the meat is no longer transparent in the center, 5 minutes. Stir well.",
+        "Mix noodles and bean sprouts into shrimp mixture; toss to combine. Cook until noodles are heated through, 2 minutes. Toss again."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1046904.jpg",
+    "ingredients": [
+        "1 tablespoon sesame oil",
+        "1 tablespoon olive oil",
+        "1 pound tiger shrimp, peeled and deveined",
+        "1 cup chopped onion",
+        "1 1/2 cups sliced king mushrooms",
+        "1/2 cup chopped green bell pepper",
+        "3 cloves garlic, finely chopped",
+        "1 teaspoon minced fresh ginger",
+        "1/2 cup water",
+        "1 teaspoon oyster sauce, or to taste",
+        "1 pound fresh Chinese wheat noodles",
+        "2 cups bean sprouts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp Stirfry",
     "url": "http://allrecipes.com/recipe/231376/shrimp-stirfry/"
 }

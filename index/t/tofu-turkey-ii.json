@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Drain and rinse tofu; in a food processor or blender,  process tofu until smooth.  Stir in salt, marjoram, savory and pepper.  Line a sieve with 2 sheets of paper towel and place over an empty bowl.  Place tofu in lined sieve and press against sides to form a deep well in the middle.  Place 2 more sheets of paper towel over tofu and refrigerate for 2 hours.",
+        "Meanwhile, in a medium saucepan over medium-high heat combine stuffing mix, 2/3 cup water and margarine.  Bring to a boil; reduce heat to low, cover and simmer for 5 minutes.  Remove from heat; let stand 5 minutes and fluff with a fork.  To the stuffing add bread cubes, sage and 2 tablespoons water.",
+        "After tofu has chilled for 2 hours,  preheat oven to 350 degrees F (175 degrees C).  With 2 tablespoons of the vegetable oil, grease a baking sheet.",
+        "Remove the top layer of paper towels from the tofu.  If necessary, again press tofu against the sides of the sieve to form a well.  Spoon the stuffing mixture into the well and smooth the surface with a spoon.   Invert the tofu mold onto prepared baking sheet.  Remove the remaining paper towel layer and shape the tofu with your hands if it has cracked or lost its shape.",
+        "Bake in preheated oven for 30 minutes.",
+        "Meanwhile, prepare the glaze by combining barbecue sauce, mustard, orange jam, orange juice, sesame seeds and remaining 3 tablespoons oil.  After tofu has baked for 30 minutes, brush or spoon the glaze over it.  Return to the oven and bake for 20 minutes more.",
+        "Broil for 3 to 5 minutes, or until tofu is browned and crispy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1632&h=854&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4015405.jpg",
+    "ingredients": [
+        "1 pound firm tofu",
+        "1 teaspoon salt",
+        "\u00bc teaspoon dried marjoram",
+        "\u00bc teaspoon dried savory",
+        "\u00bc teaspoon pepper",
+        "1 (12 ounce) package dry bread stuffing mix",
+        "\u2154 cup water",
+        "\u00bc cup soy margarine",
+        "1 slice bread, cubed",
+        "\u00bd teaspoon sage",
+        "2 tablespoons water",
+        "5 tablespoons vegetable oil, divided",
+        "1 teaspoon barbeque sauce",
+        "\u00bd teaspoon prepared mustard",
+        "1 tablespoon orange jam",
+        "1 teaspoon orange juice",
+        "1 tablespoon sesame seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Turkey II",
     "url": "http://allrecipes.com/recipe/22657/tofu-turkey-ii/"
 }

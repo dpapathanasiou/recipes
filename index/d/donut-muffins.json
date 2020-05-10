@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease 24 mini-muffin cups.",
+        "Mix 1/2 cup sugar, 1/4 cup margarine, and nutmeg in a large bowl. Stir in the milk, then mix in the baking powder and flour until just combined. Fill the prepared mini muffin cups about half full.",
+        "Bake in the preheated oven until the tops are lightly golden, 15 to 20 minutes.",
+        "While muffins are baking, place 1/4 cup of melted margarine in a bowl. In a separate bowl, mix together 1/2 cup of sugar with the cinnamon. Remove muffins from their cups, dip each muffin in the melted margarine, and roll in the sugar-cinnamon mixture. Let cool and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bd cup white sugar",
+        "\u00bc cup margarine, melted",
+        "\u00be teaspoon ground nutmeg",
+        "\u00bd cup milk",
+        "1 teaspoon baking powder",
+        "1 cup all-purpose flour",
+        "\u00bc cup margarine, melted",
+        "\u00bd cup white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Donut Muffins",
     "url": "http://allrecipes.com/recipe/214651/donut-muffins/"
 }

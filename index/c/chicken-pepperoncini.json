@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the eggs in a shallow dish. Stir the bread crumbs, Parmesan cheese, and pepper together in a second shallow dish. Dip the chicken cubes first into the eggs, then coat evenly with the bread crumbs.",
+        "Heat about half of the oil in a large skillet over medium heat. Stir in the chicken, and cook until browned on all sides, about 10 minutes. Remove the chicken and drain on a paper towel-covered plate. Add more oil to the skillet if needed. Stir in the mushrooms, onion, and wine. Cook and stir until the mushrooms are tender and have cooked down. This may take a good 15 minutes.",
+        "Return the chicken to the skillet and stir into the mushroom mixture. Use scissors to cut the pepperoncini into slices over the skillet to retain the pepper juices. Discard any stems. Simmer the chicken mixture, stirring occasionally, 5 to 10 minutes more before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F21070.jpg",
+    "ingredients": [
+        "2  eggs, beaten",
+        "1 cup Italian seasoned dry bread crumbs",
+        "\u00bd cup Parmesan cheese",
+        "ground black pepper to taste",
+        "1\u2009\u00bd pounds skinless, boneless chicken breast halves - cut into cubes",
+        "\u00bc cup olive oil",
+        "1 pound fresh mushrooms, sliced",
+        "1 large onion, chopped",
+        "\u00bd cup white wine",
+        "\u00bd cup pepperoncini, or amount desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Pepperoncini",
     "url": "http://allrecipes.com/recipe/92584/chicken-pepperoncini/"
 }

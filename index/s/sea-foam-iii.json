@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium pot, combine sugar, water, salt and cream of tarter. Cover mixture and let boil 5 minutes.",
+        "Uncover the pot after the 5 minutes of boiling have elapsed, wipe the sides of the pot with a damp cloth. Continue boiling until the mixture reaches the firm ball stage.",
+        "Pour the mixture over stiffly beaten egg whites, and stir in vanilla. Continue beating until the candy holds its shape when dropped from a spoon. Drop the mixture by spoonfuls onto wax paper, let cool."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 cups white sugar",
+        "1/2 cup water",
+        "1/8 teaspoon salt",
+        "1/8 teaspoon cream of tartar",
+        "2 egg whites",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sea Foam III",
     "url": "http://allrecipes.com/recipe/18396/sea-foam-iii/"
 }

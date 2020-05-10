@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the water in a large pot, and mix in the green beans, ham hock, onion, garlic, and vinegar. Season with salt and pepper. Bring to a boil, and cook 10 minutes.",
+        "Reduce heat to low, and simmer 4 hours. Remove the ham hock, and slice the meat into small pieces. Return meat to the beans, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/44918.jpg",
+    "ingredients": [
+        "2 quarts water",
+        "4 pounds fresh green beans, trimmed and snapped into 1 1/2 inch pieces",
+        "1 ham hock",
+        "1 onion, chopped",
+        "2 cloves garlic, finely chopped",
+        "1/4 cup distilled white vinegar",
+        "1 tablespoon salt",
+        "1/2 tablespoon black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Style Thanksgiving Green Beans",
     "url": "http://allrecipes.com/recipe/43523/southern-style-thanksgiving-green-bea/"
 }

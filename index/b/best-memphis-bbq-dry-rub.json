@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk brown sugar, black pepper, paprika, white pepper, red pepper flakes, salt, chili powder, and garlic powder together in a bowl. Store in an airtight container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1782680.jpg",
+    "ingredients": [
+        "2 tablespoons brown sugar",
+        "2 tablespoons ground black pepper",
+        "2 tablespoons paprika",
+        "1 1/2 tablespoons ground white pepper",
+        "1 1/2 tablespoons red pepper flakes",
+        "1 1/2 tablespoons salt",
+        "1 tablespoon chili powder",
+        "1 tablespoon garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Memphis BBQ Dry Rub",
     "url": "http://allrecipes.com/recipe/240176/best-memphis-bbq-dry-rub/"
 }

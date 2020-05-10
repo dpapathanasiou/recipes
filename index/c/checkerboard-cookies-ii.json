@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, stir together the flour, confectioners' sugar and baking powder. Cut in the butter until the mixture has a mealy texture. Stir in the egg yolks and vanilla until dough forms. Divide dough into halves. Knead the cocoa into one half.",
+        "Roll out each half of the dough into a rectangle, 8x10 inches. Slice each rectangle lengthwise into 8-1x10 inch strips. Place two strips of opposing colors next to each other. Place two more on top of those, placing opposing colors on top of each other. Repeat until the checkerboard is four strips high. Repeat with remaining strips. Wrap in plastic and refrigerate for at least an hour.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+        "Unwrap dough and slice into 1/4 inch slices. Place slices 1 inch apart onto the prepared cookie sheets.",
+        "Bake for 8 to 10 minutes in the preheated oven, until firm. Remove from baking sheets to cool on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F624122.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1\u2009\u00bc cups confectioners' sugar",
+        "1 teaspoon baking powder",
+        "\u00be cup butter",
+        "3  egg yolks",
+        "2 teaspoons vanilla extract",
+        "\u00bc cup unsweetened cocoa powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "CheckerBoard Cookies II",
     "url": "http://allrecipes.com/recipe/15154/checkerboard-cookies-ii/"
 }

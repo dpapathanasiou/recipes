@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch pan.",
+        "In a large bowl, combine cake mix, 2 eggs, melted shortening, milk and chopped pecans. Mix with fork or at low speed of electric mixer until cake mix is moistened. Turn into pan. Spread evenly.",
+        "In a large bowl, beat cream cheese until smooth. Beat in 2 eggs, confectioners' sugar and vanilla until smooth. Spread evenly over cake base.",
+        "Bake in the preheated oven for 35 minutes. Edges and top will be light golden brown and will have a slightly shiny  appearance. Cool completely, then cut into squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F81571.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package yellow cake mix",
+        "2  eggs",
+        "\u00bd cup butter flavored shortening",
+        "1 tablespoon milk",
+        "\u00bd cup chopped pecans",
+        "1 (8 ounce) package cream cheese, softened",
+        "2  eggs",
+        "3\u2009\u00bd cups confectioners' sugar",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rich and Creamy Cheesecake Squares",
     "url": "http://allrecipes.com/recipe/26064/rich-and-creamy-cheesecake-squares/"
 }

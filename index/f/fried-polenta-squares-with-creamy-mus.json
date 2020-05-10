@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring 4 cups of water to a boil. Whisk in the polenta. Once it begins to thicken, reduce heat to a simmer and cook for 45 minutes until creamy and thick, stirring occasionally to prevent sticking. Stir in the Parmesan and a 1/4 teaspoon of salt. Stir until melted and cheese is no longer visible. Remove from heat.",
+        "Line an 8x11 inch baking dish with Reynolds Wrap(R) Aluminum Foil and carefully pour the polenta into the baking dish, using a spatula to smooth it to an even thickness, about 3/4 inch. Cover and refrigerate for at least two hours and up to two days until firm.",
+        "While the polenta chills, make your ragu. In a large heavy skillet, heat the olive oil over medium heat until shimmering. Add the onion and garlic and saute until fragrant and translucent, about 5 minutes. Stir often  to prevent browning. Add mushrooms and thyme and cook over medium-high heat until the mushrooms start to release their liquid. Add 1/2 teaspoon of salt and continue to cook another 5 minutes until they begin to soften more.",
+        "Add flour, stirring, until it is no longer visible, about 1 minute. Add in the wine, cream and sugar, and bring the mixture to a simmer. Taste and adjust salt if desired. Simmer until thick and creamy and the mushrooms are nicely coated, about 15 minutes. Finish with a squeeze of fresh lemon juice and 1/2 cup minced parsley. Set aside and cover to keep warm.",
+        "Slice your polenta into squares -- whatever size you desire. Wipe down your skillet, coat it with nonstick cooking spray, and heat it over medium-high. Fry the squares in the pan until golden brown and warmed through. To serve, top the squares with warm mushroom ragu."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2579541.jpg",
+    "ingredients": [
+        "4 cups water",
+        "1 cup polenta",
+        "1/2 cup finely grated Parmesan cheese",
+        "3/4 teaspoon kosher salt, divided",
+        "2 tablespoons olive oil",
+        "1 small yellow onion, diced",
+        "3 cloves garlic, minced",
+        "1 pound mixed wild mushrooms (like shiitake, oyster, chanterelle, hen of the woods), cleaned and sliced",
+        "1 pound cremini mushrooms, cleaned and sliced",
+        "1 tablespoon minced fresh thyme",
+        "2 tablespoons all-purpose flour",
+        "1/2 cup dry white wine",
+        "1/4 cup heavy cream",
+        "1 teaspoon sugar",
+        "1 squeeze fresh lemon juice",
+        "1/2 cup chopped flat-leaf parsley",
+        "1 sheet Reynolds Wrap\u00ae Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Polenta Squares with Creamy Mushroom Ragu",
     "url": "http://allrecipes.com/recipe/244897/fried-polenta-squares-with-creamy-mus/"
 }

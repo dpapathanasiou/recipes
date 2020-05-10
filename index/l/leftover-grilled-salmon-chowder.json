@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain.",
+        "Heat olive oil in a large saucepan over medium-high heat; saute onion and celery in hot oil until tender, 5 to 7 minutes. Add flour, salt, and pepper to onion mixture and stir until well-combined.",
+        "Slowly whisk milk into onion mixture; bring to a boil, stirring constantly. Reduce heat to medium and simmer until thickened, about 10 minutes. Add potatoes, flaked salmon, peas, corn, and dill; cook until heated through, about 10 minutes. Stir Swiss cheese and Cheddar cheese into chowder until cheese is melted and heated through, about 5 minutes. Ladle chowder into bowls and garnish with green onion."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7300704.jpg",
+    "ingredients": [
+        "5 small red potatoes, cut into bite-size pieces",
+        "2 tablespoons olive oil",
+        "1  onion, diced",
+        "2 stalks celery, thinly sliced",
+        "2 tablespoons all-purpose flour, or as needed",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "4 cups 2% milk",
+        "1  cooked salmon fillet, flaked",
+        "1\u2009\u00bc cups frozen peas",
+        "1\u2009\u00bc cups frozen corn",
+        "1 teaspoon dried dill weed",
+        "\u00bd cup shredded reduced-fat Swiss cheese",
+        "\u00bd cup shredded reduced-fat Cheddar cheese",
+        "1  green onion, finely chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Leftover Grilled Salmon Chowder",
     "url": "http://allrecipes.com/recipe/236461/leftover-grilled-salmon-chowder/"
 }

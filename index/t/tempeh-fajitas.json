@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium heat.  Saute tempeh with soy sauce and lime juice until tempeh browns.  Stir in bell peppers, mushrooms, spinach, chile peppers, cilantro and dried onion.",
+        "Increase heat to medium-high and cook until fluids have reduced, stirring occasionally."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1099470.jpg",
+    "ingredients": [
+        "2 tablespoons corn oil",
+        "1 (8 ounce) package tempeh, broken into bite-sized pieces",
+        "2 tablespoons soy sauce",
+        "1 tablespoon lime juice",
+        "1 1/2 cups chopped green bell pepper",
+        "1 (4.5 ounce) can sliced mushrooms, drained",
+        "1/2 cup frozen chopped spinach, thawed and drained",
+        "1 tablespoon chopped green chile peppers",
+        "1 tablespoon chopped fresh cilantro",
+        "1 tablespoon dried minced onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tempeh Fajitas",
     "url": "http://allrecipes.com/recipe/25910/tempeh-fajitas/"
 }

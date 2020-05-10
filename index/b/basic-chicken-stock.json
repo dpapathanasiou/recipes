@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Quarter onion. Chop scrubbed celery and carrot into 1 inch chunks. Place chicken pieces, onion, celery, carrot, salt, and cloves in large soup pot or Dutch oven. Add 6 cups water. Bring to a boil.  Reduce heat, cover, and simmer for 1 hour.",
+        "Remove chicken and vegetables. Strain stock. Skim fat off the surface.",
+        "To clarify stock for clear soup, removing solid flecks that are too small to be strained out with cheesecloth, follow this method. Separate the egg white from the egg yolk, and reserve the shell. In a small bowl, combine 1/4 cup cold water, egg white, and crushed eggshell.  Add to strained stock, and bring to a boil.  Remove from heat, and let stand 5 minutes. Strain again through a sieve lined with cheesecloth."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F390636.jpg",
+    "ingredients": [
+        "1 pound chicken parts",
+        "1 large onion",
+        "3 stalks celery, including some leaves",
+        "1 large carrot",
+        "1\u2009\u00bd teaspoons salt",
+        "3  whole cloves",
+        "6 cups water",
+        "\u00bc cup cold water (optional)",
+        "1  egg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Chicken Stock",
     "url": "http://allrecipes.com/recipe/12983/basic-chicken-stock/"
 }

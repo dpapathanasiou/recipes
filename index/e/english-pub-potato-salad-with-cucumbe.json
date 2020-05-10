@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and cool. Chop potatoes and transfer into a large salad bowl.",
+        "Place the bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on paper towels. Crumble bacon when cool.",
+        "Stir mayonnaise, crumbled bacon, cucumber, red onion, 3 chopped eggs, celery, 1/2 cup parsley, and 1 tablespoon paprika into the potatoes until thoroughly combined. Season to taste with salt and black pepper. Garnish salad with slices of hard-cooked egg, 3 sprigs of fresh parsley, and a pinch of paprika."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1131166.jpg",
+    "ingredients": [
+        "8 red potatoes",
+        "6 slices bacon",
+        "1 cup mayonnaise",
+        "1 cucumber, chopped",
+        "1/2 cup chopped red onion",
+        "3 hard-cooked eggs, chopped",
+        "1 cup celery, chopped",
+        "1/2 cup chopped fresh parsley",
+        "1 tablespoon paprika",
+        "salt and pepper to taste",
+        "1 hard-cooked egg, sliced",
+        "3 sprigs fresh parsley, or as desired",
+        "1 pinch paprika, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "English Pub Potato Salad With Cucumber and Bacon",
     "url": "http://allrecipes.com/recipe/228107/english-pub-potato-salad-with-cucumbe/"
 }

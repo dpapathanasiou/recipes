@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large pot over medium heat. Cook and stir onion and garlic in the hot oil until onion is tender, about 10 minutes. Add vegetable stock, corn, sweet potatoes, diced tomatoes with green chile peppers, salsa, chili powder, cumin, salt, and pepper to onion mixture; bring to a boil for 5 minutes.",
+        "Stir shrimp into stock mixture and return to a boil; reduce heat to medium and simmer until shrimp are cooked through, about 10 minutes more. Stir green onion into soup; season with salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 red onion, chopped",
+        "1/2 teaspoon minced garlic",
+        "4 cups vegetable stock",
+        "4 cups corn",
+        "2 cups peeled and diced sweet potatoes",
+        "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL\u00ae)",
+        "1 cup salsa",
+        "2 teaspoons chili powder",
+        "1 teaspoon ground cumin",
+        "salt and ground black pepper to taste",
+        "1 1/2 pounds peeled medium shrimp",
+        "4 green onions, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Shrimp and Sweet Potato Soup",
     "url": "http://allrecipes.com/recipe/240670/spicy-shrimp-and-sweet-potato-soup/"
 }

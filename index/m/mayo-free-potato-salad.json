@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes into a large pot and cover with water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two. Chill the potatoes in cold water, and chop into cubes when cool enough to handle.",
+        "Transfer the potatoes into a large salad bowl, and toss lightly with dill pickles, green onions, celery, cilantro, dill pickle juice, dried dill,  1 teaspoon paprika, salt, and pepper. In a bowl, whisk together the olive oil, red wine vinegar, and Dijon mustard, and pour the dressing over the potato mixture. Toss again to coat all ingredients with dressing. Sprinkle with 1/4 teaspoon paprika."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/409240.jpg",
+    "ingredients": [
+        "9 large red potatoes",
+        "2 dill pickles, chopped",
+        "2 green onions, chopped",
+        "2 stalks celery, chopped",
+        "3 tablespoons chopped fresh cilantro",
+        "2 tablespoons dill pickle juice",
+        "2 teaspoons dried dill weed",
+        "1 teaspoon paprika",
+        "1/4 teaspoon kosher salt, or to taste",
+        "1/4 teaspoon ground black pepper",
+        "1/2 cup olive oil",
+        "1/4 cup red wine vinegar",
+        "1 tablespoon Dijon mustard",
+        "1/4 teaspoon paprika, for garnish (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mayo-Free Potato Salad",
     "url": "http://allrecipes.com/recipe/214708/mayo-free-potato-salad/"
 }

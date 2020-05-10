@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease two 9 inch round cake pans.",
+        "Measure flour, sugar, cocoa, oil, eggs, buttermilk, baking powder, soda, and salt into a mixing bowl.  Dissolve instant coffee in hot water, and add to mixing bowl.  Beat at medium speed for 2 minutes until smooth; batter will be thin.  Pour into prepared pans.",
+        "Bake for 30 to 35 minutes, or until an inserted wooden pick comes out clean.  Cool in pans for 10 minutes, and  then turn out onto racks to cool completely.",
+        "Frost cooled cake with Coffee Icing.  After frosting, melt some semisweet chocolate baking squares or chips in a double boiler.  Drizzle chocolate around top outside edges letting it run down sides, or over top of cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1225&h=641&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4572670.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "2 cups white sugar",
+        "\u2154 cup unsweetened cocoa powder",
+        "\u00bd cup vegetable oil",
+        "2  eggs",
+        "1 cup buttermilk",
+        "2 teaspoons baking soda",
+        "\u00bd teaspoon salt",
+        "1 teaspoon baking powder",
+        "1 tablespoon instant coffee powder",
+        "1 cup hot water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Mocha Cake I",
     "url": "http://allrecipes.com/recipe/7667/chocolate-mocha-cake-i/"
 }

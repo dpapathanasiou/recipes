@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes or until al dente. Drain, and set aside.",
+        "Simmer water, chicken, diced onions, celery, minced parsley, bay leaf, salt and pepper in Dutch oven until chicken is tender. Remove bay leaf; discard. Remove chicken; cool.",
+        "Add potatoes, green onions, bouillon cubes, seasoned salt and poultry seasoning to broth. Simmer 15 minutes. Add milk, cooked pasta, and chicken; return to simmer.",
+        "Melt butter or margarine over medium heat. Add flour, stirring constantly, until mixture begins to brown. Add to soup; blend well. Let soup stand 20 minutes to blend flavors. Season to taste. Garnish with nutmeg and chopped parsley."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3742759.jpg",
+    "ingredients": [
+        "2 cups medium seashell pasta",
+        "4 cups water",
+        "24 ounces boneless, skinless chicken meat",
+        "1 cup diced onion",
+        "1/4 cup chopped celery",
+        "1/4 cup minced fresh parsley",
+        "1 bay leaf",
+        "1 teaspoon salt",
+        "1/4 teaspoon ground white pepper",
+        "2 potatoes, diced",
+        "4 green onions, chopped",
+        "3 cubes chicken bouillon",
+        "1/2 teaspoon seasoning salt",
+        "1/2 teaspoon poultry seasoning",
+        "4 cups milk",
+        "1/4 cup margarine",
+        "1/4 cup all-purpose flour",
+        "1 pinch ground nutmeg",
+        "3 tablespoons chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Shell Soup",
     "url": "http://allrecipes.com/recipe/13196/creamy-shell-soup/"
 }

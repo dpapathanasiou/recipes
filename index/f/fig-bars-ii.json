@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour a 9x13 inch baking pan.",
+        "In a large bowl, beat eggs and sugar until thick and pale. Sift together the flour, baking powder, salt, cloves, cinnamon and allspice; blend into the egg mixture along with the vanilla. Finally fold in the chopped figs and walnuts. Pour the batter into the prepared pan and spread evenly.",
+        "Bake for 20 to 25 minutes in the preheated oven, until lightly toasted. When cool, cut into squares and roll the squares in confectioners' sugar."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1075970.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "3  eggs",
+        "\u215e cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "\u215b teaspoon salt",
+        "\u00bc teaspoon ground cloves",
+        "\u00bc teaspoon ground cinnamon",
+        "\u00bd teaspoon ground allspice",
+        "1 teaspoon vanilla extract",
+        "2 cups chopped dried figs",
+        "1 cup chopped walnuts",
+        "1 cup confectioners' sugar for rolling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fig Bars II",
     "url": "http://allrecipes.com/recipe/25058/fig-bars-ii/"
 }

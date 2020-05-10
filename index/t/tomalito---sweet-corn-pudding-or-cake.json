@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Beat butter in a medium bowl with an electric mixer until creamy. Beat masa harina and water into creamed butter until smooth.",
+        "Place 1 cup corn in a blender; blend until smooth. Stir blended corn, remaining 1 cup corn, and cornmeal into masa harina mixture.",
+        "Mix sugar, cream, baking powder, and salt together in a separate bowl. Pour sugar mixture into corn mixture; stir to combine. Spoon corn batter into an ungreased 8-inch square baking dish. Smooth the top of the batter with a spatula. Cover dish with aluminum foil.",
+        "Fill a 9x13-inch casserole dish 1/3 full of hot water. Place the covered 8-inch square dish into the water.",
+        "Bake in the preheated oven until a toothpick inserted in the center of the cake comes out clean, 50 to 60 minutes. Remove 8x8-inch dish from water bath and let cool for 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1010264.jpg",
+    "ingredients": [
+        "1/2 cup butter, softened",
+        "1/3 cup masa harina",
+        "1/4 cup water",
+        "2 cups frozen corn, thawed, divided",
+        "1/4 cup cornmeal",
+        "1/3 cup white sugar",
+        "2 tablespoons heavy whipping cream",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomalito - Sweet Corn Pudding or Cake",
     "url": "http://allrecipes.com/recipe/230546/tomalito---sweet-corn-pudding-or-cake/"
 }

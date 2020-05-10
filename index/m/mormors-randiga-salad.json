@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in a saucepan, and cover completely with cold water. Bring water to a boil. Cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, and cool. Peel and chop.",
+        "Combine the lettuce, bell peppers, beets, egg, cucumber and carrots in a large bowl, or in individual bowls. Toss, and serve the dressing on the side."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 eggs",
+        "1/2 head iceberg lettuce, julienned",
+        "1/2 yellow bell pepper, thinly sliced",
+        "1/2 green bell pepper, thinly sliced",
+        "1 red bell pepper, thinly sliced",
+        "1 (15 ounce) can sliced pickled beet, julienned",
+        "1 small cucumber, shredded",
+        "2 large carrots, shredded",
+        "8 tablespoons thousand island dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mormor's Randiga Salad",
     "url": "http://allrecipes.com/recipe/14446/mormors-randiga-salad/"
 }

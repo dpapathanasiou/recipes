@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir black-eyed peas, corn, and diced tomatoes with green chile peppers together in a saucepan over medium heat; cook until warm, about 5 minutes. Stir sugar, cumin, and curry powder into the peas mixture; continue cooking until until some of the liquid evaporates, about 5 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (15 ounce) can jalapeno black-eyed peas, drained",
+        "1 (14 ounce) can whole kernel corn, drained",
+        "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL\u00ae)",
+        "2 tablespoons light brown sugar",
+        "1 1/2 teaspoons ground cumin",
+        "1 1/2 teaspoons curry powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Super Easy and Spicy Black Eyed Pea and Corn Salsa",
     "url": "http://allrecipes.com/recipe/233412/super-easy-and-spicy-black-eyed-pea-a/"
 }

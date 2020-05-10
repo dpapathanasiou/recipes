@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x9-inch baking dish.",
+        "Whisk 1/2 cup sugar together with the flour and baking powder in a mixing bowl. Stir in the milk and margarine until a batter forms. Scrape into the prepared baking dish. Add the blackberries, and sprinkle with 1/2 cup sugar. Pour in the water.",
+        "Bake in the preheated oven until the batter has risen and the top is brown, 45 minutes to 1 hour. Cool before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4554676.jpg",
+    "ingredients": [
+        "1/2 cup white sugar",
+        "1 cup all-purpose flour",
+        "2 teaspoons baking powder",
+        "1/2 cup milk",
+        "1/4 cup melted margarine",
+        "2 cups fresh blackberries",
+        "1/2 cup white sugar",
+        "1 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best in Show Blackberry Cobbler",
     "url": "http://allrecipes.com/recipe/218021/best-in-show-blackberry-cobbler/"
 }

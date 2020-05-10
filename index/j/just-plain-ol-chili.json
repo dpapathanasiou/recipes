@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium heat and add ground beef; cook and stir until meat is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease.",
+        "Heat olive oil in a soup pot over medium-high heat. Cook and stir green pepper in the hot oil until it starts to soften, 5 to 7 minutes. Reduce heat to low, stir in garlic, cumin, and chili powder, and season with salt and black pepper to taste.",
+        "Mix cooked ground beef and tomatoes into green bell pepper mixture, breaking up tomatoes with a spatula. Add 4 cups of water or enough to cover the ingredients, reduce heat to low, and simmer at least 2 hours to blend flavors."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F879334.jpg",
+    "ingredients": [
+        "2 pounds lean ground beef",
+        "2 tablespoons olive oil",
+        "1  green bell pepper, diced",
+        "6 cloves garlic, minced",
+        "3 tablespoons ground cumin",
+        "1 tablespoon chili powder, or more to taste",
+        "salt and ground black pepper to taste",
+        "1 (28 ounce) can diced tomatoes",
+        "4 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Just Plain Ol' Chili",
     "url": "http://allrecipes.com/recipe/228079/just-plain-ol-chili/"
 }

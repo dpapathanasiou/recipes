@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak peas overnight in ample water.  Drain before using in the recipe.",
+        "Pour peas and beef broth into a large saucepan.  Bring to a boil over high heat, then reduce heat to medium-low, cover,  and simmer until peas begin to soften, about 30 to 45 minutes.  Stir in roasted garlic, carrot, onion, curry powder, clove, and hoisin sauce.  Simmer covered, stirring occasionally for an additional 30 to 45 minutes, adding water as needed while it cooks.  Season to taste with salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 pound green split peas",
+        "2 (14.5 ounce) cans beef broth",
+        "1 head roasted garlic, mashed into a paste",
+        "1 cup grated carrot",
+        "1 large onion, grated",
+        "1 1/2 tablespoons curry powder",
+        "1/2 teaspoon ground cloves",
+        "2 tablespoons hoisin sauce",
+        "1/2 teaspoon salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Split Pea Soup",
     "url": "http://allrecipes.com/recipe/29717/sweet-split-pea-soup/"
 }

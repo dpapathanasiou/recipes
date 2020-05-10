@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add pumpkin, cover, and steam until fully cooked, 35 to 45 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan with olive oil.",
+        "Place chia seeds in a blender; add hot water and let sit for 5 minutes.",
+        "Scoop flesh out of pumpkin halves and add to blender. Add crystallized sugar cane juice and agave nectar to blender; blend until pumpkin mixture is very smooth.",
+        "Mix spelt flour, brown rice flour, baking powder, cinnamon, salt, nutmeg, allspice, and cloves together in a bowl. Fold pumpkin mixture and walnuts into flour mixture until batter is just mixed; spoon into the prepared loaf pan.",
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 1 to 1 1/2 hours."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd  sugar pumpkin, halved and seeded",
+        "1 teaspoon olive oil, or as needed",
+        "\u00bc cup chia seeds",
+        "1 cup hot water",
+        "\u2153 cup crystallized sugar cane juice (such as Sucanat\u00ae)",
+        "\u00bc cup agave nectar",
+        "1\u2009\u00bd cups spelt flour",
+        "1 cup brown rice flour",
+        "2 teaspoons baking powder",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon salt",
+        "1 teaspoon ground nutmeg (optional)",
+        "\u00bd teaspoon ground allspice",
+        "\u00bd teaspoon ground cloves",
+        "\u00bd cup walnuts (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Healthy Vegan Pumpkin Bread",
     "url": "http://allrecipes.com/recipe/255626/healthy-vegan-pumpkin-bread/"
 }

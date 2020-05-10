@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk tomato sauce, sour cream, mayonnaise, green salsa, and lime juice together in a bowl until combined. Refrigerate the dressing while making salad.",
+        "Heat olive oil in a skillet over medium heat and cook onion in hot oil until translucent, about 5 minutes; stir often. Mix garlic into onion and remove from heat; stir cooked chicken in skillet and allow chicken to warm.",
+        "Transfer chicken mixture to a large salad bowl and sprinkle with Monterey jack cheese; cheese will warm and soften. Top chicken and cheese with cold lettuce and pour dressing over salad. Sprinkle in black olives. Toss salad thoroughly with dressing and sprinkle with crushed tortilla chips to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/856357.jpg",
+    "ingredients": [
+        "1 (7.75 ounce) can Mexican-style hot tomato sauce",
+        "1/2 cup sour cream",
+        "1/2 cup mayonnaise",
+        "1/4 cup green salsa",
+        "1 lime, juiced",
+        "1 tablespoon olive oil",
+        "1/2 cup diced onion",
+        "2 cloves garlic, crushed, or to taste",
+        "1 1/2 cups diced rotisserie chicken meat",
+        "1 cup finely shredded Monterey jack cheese",
+        "1 (10 ounce) bag shredded lettuce, chilled",
+        "1 (4 ounce) can sliced black olives",
+        "1/2 cup crushed tortilla chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Layered and Tossed Spicy Chicken Taco Salad",
     "url": "http://allrecipes.com/recipe/221918/layered-and-tossed-spicy-chicken-taco/"
 }

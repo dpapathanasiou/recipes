@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together flour, baking powder, salt, and sugar.  Add milk, and mix well.  Divide dough into balls.  Pat out on a flat, floured surface to 1/2 inch thick.",
+        "Fry in 1/2 inch hot oil, browning both sides. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F234808.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "\u00bd teaspoon salt",
+        "2 tablespoons white sugar",
+        "\u00be cup milk",
+        "1 quart vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Portuguese Fried Bread",
     "url": "http://allrecipes.com/recipe/6918/portuguese-fried-bread/"
 }

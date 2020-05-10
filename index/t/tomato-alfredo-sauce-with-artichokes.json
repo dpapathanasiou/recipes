@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Chop artichoke hearts and place in large skillet with juice. Thicken with flour and milk to desired consistency.",
+        "Add onion, mushrooms, tomatoes, and basil. Cook for a short time, leaving vegetables firm and tasty and pretty.",
+        "Cook up a batch of your favorite spaghetti noodles (e.g., angel hair or spaghettini). Rinse. Toss artichoke sauce on top of cooked pasta."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/940742.jpg",
+    "ingredients": [
+        "1 (14 ounce) can artichoke hearts in water",
+        "2 tomatoes, chopped",
+        "1 onion, chopped",
+        "1 cup fresh sliced mushrooms",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup whole milk",
+        "2 tablespoons all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato Alfredo Sauce with Artichokes",
     "url": "http://allrecipes.com/recipe/11842/tomato-alfredo-sauce-with-artichokes/"
 }

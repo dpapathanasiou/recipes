@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F ( 175 degrees C).",
+        "In a large bowl, cream together shortening and butter. Gradually add sugar and almond extract.  Mix on high speed for 10 minutes.",
+        "In a small bowl, dissolve the baker's ammonia with the boiling water, adding the water a little at a time. Add this to the butter mixture.",
+        "Stir  in the flour and coconut . Mix well.",
+        "Drop cookies from a teaspoon onto a well greased cookie sheet. Bake cookies in preheated oven for 9 to 11 minutes. Cookies should be set but not brown. Let cookies cool on the cookie sheet for a few minutes before removing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F800030.jpg",
+    "ingredients": [
+        "1 cup butter",
+        "1 cup shortening",
+        "2 cups white sugar",
+        "1 teaspoon bakers' ammonia",
+        "1 tablespoon boiling water",
+        "1\u2009\u00bd teaspoons almond extract",
+        "3 cups sifted all-purpose flour",
+        "1 cup flaked coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Dream Cookies",
     "url": "http://allrecipes.com/recipe/11486/swedish-dream-cookies/"
 }

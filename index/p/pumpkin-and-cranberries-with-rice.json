@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat sunflower oil in a large pot over medium-high heat. Saute onions in hot oil until golden, 5 to 10 minutes. Add rice to onions and cook until fragrant, about 1 minute.",
+        "Stir water, pumpkin, beans, cranberries, and vegetable bouillon into rice mixture. Bring mixture to a boil, reduce heat to low, and simmer for 5 minutes, stirring occasionally. Pour rice mixture into a large baking dish and cover with aluminum foil.",
+        "Bake in the preheated oven until water is absorbed and rice is tender, about 45 minutes. Stir chives into rice mixture and season with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1093624.jpg",
+    "ingredients": [
+        "2 tablespoons sunflower oil",
+        "2  red onions, chopped",
+        "1\u2009\u00bd cups uncooked brown rice",
+        "3 cups water",
+        "1 small pumpkin - peeled, seeded, and cut into small cubes",
+        "1 (14 ounce) can chili beans, drained",
+        "7 ounces dried cranberries",
+        "1\u2009\u00bd cubes vegetable bouillon",
+        "2 tablespoons chopped fresh chives, or to taste",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin and Cranberries with Rice",
     "url": "http://allrecipes.com/recipe/235962/pumpkin-and-cranberries-with-rice/"
 }

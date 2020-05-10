@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees (175 degrees C). Lightly grease one 8 x 8-inch pan.",
+        "Cream together the sugar and butter. Add the flour, milk, salt, and baking powder. Mix well and pour into prepared pan. Spread fruit evenly over the top of the batter and pour juice from canned peaches over top.",
+        "Bake in at 350 degrees F (175 degrees C) for 50 minutes or until fully browned on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3361&h=1760&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5095639.jpg",
+    "ingredients": [
+        "\u2154 cup butter",
+        "1 cup white sugar",
+        "\u00be cup milk",
+        "1 cup all-purpose flour",
+        "\u00bc teaspoon salt",
+        "2 teaspoons baking powder",
+        "1 (15 ounce) can sliced peaches"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peach Cake I",
     "url": "http://allrecipes.com/recipe/7411/peach-cake-i/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, stir together the sour cream, buttermilk, horseradish, hot pepper sauce, and pepper. Transfer to a jar, cover, and store in the refrigerator until needed."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/633251.jpg",
+    "ingredients": [
+        "1/2 cup sour cream",
+        "1/4 cup buttermilk",
+        "1 tablespoon prepared horseradish",
+        "1/2 teaspoon hot pepper sauce (e.g. Tabasco\u2122)",
+        "1/4 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Ranch Dressing II",
     "url": "http://allrecipes.com/recipe/78791/spicy-ranch-dressing-ii/"
 }

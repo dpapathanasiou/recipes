@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Place corn, onion, red bell pepper, and jalapeno pepper on a baking sheet. Drizzle vegetables with 2 tablespoons olive oil; season with salt and pepper. Rub to evenly coat.",
+        "Transfer vegetables to grill and cook, turning several times, until vegetables are tender and dark marks appear, 10 to 15 minutes. Set aside to cool.",
+        "Bring a pot of water to a boil; cook edamame in the boiling water until tender, 10 to 15 minutes. Drain and cool.",
+        "Whisk 1 tablespoon olive oil and vinegar together in a bowl.",
+        "Dice red bell pepper, jalapeno pepper, and onion. Cut corn off the cob. Combine vegetables in a serving dish; add edamame. Toss vegetables and edamame with oil-vinegar mixture. Season with salt, pepper, and basil."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1164407.jpg",
+    "ingredients": [
+        "5 ears corn, shucked",
+        "1/2 yellow onion, peeled",
+        "1 red bell pepper, stemmed and seeded",
+        "1 jalapeno pepper",
+        "3 tablespoons olive oil, divided",
+        "salt and ground black pepper to taste",
+        "1 cup frozen shelled edamame (green soybeans)",
+        "1 tablespoon white wine vinegar",
+        "2 tablespoons chopped fresh basil, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Corn and Edamame Succotash Salad",
     "url": "http://allrecipes.com/recipe/233941/grilled-corn-and-edamame-succotash-sa/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together olive oil, lemon juice, and thyme in a small bowl. Season with salt and pepper to taste. Place lamb chops in a shallow dish, and brush with the olive oil mixture. Marinate in the refrigerator for 1 hour.",
+        "Preheat grill for high heat.",
+        "Lightly oil grill grate. Place lamb chops on grill, and discard marinade. Cook for 10 minutes, turning once, or to desired doneness."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1023585.jpg",
+    "ingredients": [
+        "1/2 cup olive oil",
+        "1/4 cup lemon juice",
+        "1 tablespoon chopped fresh thyme",
+        "salt and pepper to taste",
+        "12 lamb chops"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon and Thyme Lamb Chops",
     "url": "http://allrecipes.com/recipe/14553/lemon-and-thyme-lamb-chops/"
 }

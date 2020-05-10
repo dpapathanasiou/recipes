@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Into a medium saucepan drain the juice from the pineapple.  To the juice add egg, sugar and flour.  Cook over medium heat, stirring constantly, until thickened.  Let cool.",
+        "In a medium bowl combine pineapple chunks and cheese.",
+        "Pour the cooled juice mixture over the pineapple and cheese; mix well."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6026963.jpg",
+    "ingredients": [
+        "1 (15 ounce) can pineapple chunks",
+        "1 pound processed American cheese, cubed",
+        "1  egg",
+        "\u00be cup white sugar",
+        "2 tablespoons all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pineapple Cheese Salad",
     "url": "http://allrecipes.com/recipe/22507/pineapple-cheese-salad/"
 }

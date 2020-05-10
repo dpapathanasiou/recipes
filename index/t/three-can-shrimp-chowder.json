@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together the cream-style corn, cream of potato soup, half-and-half, bacon bits, green onion, and cayenne pepper in a saucepan. Bring to a simmer over medium-high heat, then stir in cream cheese until melted. Add the shrimp, and cook a minute or two to heat through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6949488.jpg",
+    "ingredients": [
+        "1 (14.75 ounce) can cream-style corn",
+        "1 (10.75 ounce) can condensed cream of potato soup",
+        "1\u2009\u00bd cups half-and-half cream",
+        "\u00bc cup bacon bits",
+        "2  green onion, chopped",
+        "\u00bc teaspoon cayenne pepper",
+        "1 (8 ounce) package cold cream cheese, cubed",
+        "1 (4 ounce) can small shrimp, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Three Can Shrimp Chowder",
     "url": "http://allrecipes.com/recipe/160209/three-can-shrimp-chowder/"
 }

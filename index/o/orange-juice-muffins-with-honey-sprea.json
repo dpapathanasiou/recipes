@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (205 degrees C).   Grease bottoms only of 12 medium muffin cups.",
+        "Mix baking mix, 2 tablespoons sugar, the egg, orange peel, and orange juice.   Beat vigorously for 30 seconds.",
+        "Fill muffin cups about 2/3 full. Mix 2 tablespoons sugar and cinnamon and sprinkle each muffin with about 1/2 teaspoon of sugar mixture. Bake 15 minutes. Serve with honey spread.",
+        "To Make Honey Spread:  Beat 1/2 cup margarine and 1/2 cup honey until fluffy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/599994.jpg",
+    "ingredients": [
+        "2 cups buttermilk baking mix",
+        "2 tablespoons white sugar",
+        "1 egg",
+        "1 teaspoon orange zest",
+        "2/3 cup orange juice",
+        "2 tablespoons white sugar",
+        "1 teaspoon ground cinnamon",
+        "1/2 cup margarine",
+        "1/2 cup honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Juice Muffins with Honey Spread",
     "url": "http://allrecipes.com/recipe/6834/orange-juice-muffins-with-honey-sprea/"
 }

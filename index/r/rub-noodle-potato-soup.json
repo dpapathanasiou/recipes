@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes, onion, water, celery salt, salt, and pepper in Dutch oven and bring to boil. Reduce heat and let simmer till potatoes are fork tender.",
+        "Meanwhile, mix rub noodles. Place flour in small bowl, break egg over flour, and mix with fingertips, rubbing mixture together until all flour is absorbed and small lumps form.",
+        "Drop the dough mixture slowly into boiling potatoes, stirring constantly, and reduce heat. Let simmer 20 minutes, stirring frequently. Add additional salt and pepper to taste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/955982.jpg",
+    "ingredients": [
+        "4 potatoes, peeled and diced",
+        "8 cups water to cover",
+        "1 onion, finely diced",
+        "1/4 teaspoon celery salt",
+        "1 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "1 cup all-purpose flour",
+        "1 egg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rub Noodle Potato Soup",
     "url": "http://allrecipes.com/recipe/13007/rub-noodle-potato-soup/"
 }

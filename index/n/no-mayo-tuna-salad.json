@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water and cool under cold running water. Peel.",
+        "Place the eggs and pickles into a food processor; pulse until roughly chopped. Transfer to a medium bowl and stir in tuna and celery. Season with salt and pepper, and stir in the pickle juice until thoroughly blended."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/210424.jpg",
+    "ingredients": [
+        "5 eggs",
+        "1 1/4 cups bread and butter pickles",
+        "2 (5 ounce) cans tuna, drained",
+        "3 stalks celery, chopped",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "1 tablespoon sweet pickle juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No-Mayo Tuna Salad",
     "url": "http://allrecipes.com/recipe/78530/no-mayo-tuna-salad/"
 }

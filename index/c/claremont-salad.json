@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the cabbage, cucumbers, carrots and onion in a large bowl.",
+        "In a small bowl, whisk together the vinegar, sugar, oil, water and salt.  Pour over the cabbage mixture, toss to coat and refrigerate for at least 12 hours.  Drain excess liquid before serving.  ENJOY!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3764453.jpg",
+    "ingredients": [
+        "1 medium head cabbage, shredded",
+        "2 cucumbers, thinly sliced",
+        "3 carrots, thinly sliced",
+        "1 Bermuda onion, thinly sliced",
+        "3/4 cup distilled white vinegar",
+        "3/4 cup white sugar",
+        "1/2 cup vegetable oil",
+        "4 tablespoons water",
+        "3 teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Claremont Salad",
     "url": "http://allrecipes.com/recipe/19935/claremont-salad/"
 }

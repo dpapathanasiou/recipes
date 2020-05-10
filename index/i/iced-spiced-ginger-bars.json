@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (180 degrees C).  Grease a 15 x 10 or 13 x 9 inch pan.",
+        "In a large bowl, combine flour, white sugar, baking soda, cinnamon, ginger, cloves, salt, coffee, 1 cup butter or margarine, molasses, and eggs.  Beat 2 minutes at medium speed.  Pour into prepared pan.",
+        "Bake for 25-30 minutes.  Let cool.",
+        "To Make Frosting:  In a small saucepan over low heat, cook 1/3 cup  butter or margarine until light golden brown, stirring constantly.  Add confectioner's sugar, vanilla and water.  Blend until smooth (may need to add more water).  Spread over cooled bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F308604.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup white sugar",
+        "1 teaspoon baking soda",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground ginger",
+        "1 teaspoon ground cloves",
+        "\u215b teaspoon salt",
+        "1 cup hot, brewed coffee",
+        "1 cup butter",
+        "\u00bd cup molasses",
+        "2  eggs",
+        "\u2153 cup butter",
+        "3 cups confectioners' sugar",
+        "\u00bd teaspoon vanilla extract",
+        "3 tablespoons water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Iced-Spiced Ginger Bars",
     "url": "http://allrecipes.com/recipe/10266/iced-spiced-ginger-bars/"
 }

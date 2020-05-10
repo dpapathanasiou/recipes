@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add plums, cover, and steam until tender, about 10 minutes.",
+        "Transfer plums to a food processor and blend, adding water from the saucepan as needed, until desired consistency is reached. Allow pureed plums to reach room temperature before serving or freezing."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4473902.jpg",
+    "ingredients": [
+        "4 plums - peeled, pitted, and cut into small chunks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baby Food: Plum",
     "url": "http://allrecipes.com/recipe/247144/baby-food-plum/"
 }

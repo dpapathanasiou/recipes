@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two, then mash.",
+        "Melt the butter in a skillet over medium heat; cook the celery and onion in the butter until the onion has turned translucent, 5 to 7 minutes. Fold into the mashed potatoes along with the savory, and allow to cool until just warm.",
+        "Place the cooled mashed potatoes into a large bowl, and stir in the beaten egg. Gently fold in cubed bread, then season to taste with salt and pepper. Refrigerate until ready to use.",
+        "Use as a stuffing for turkey, or bake in buttered loaf pans at 350 degrees F (175 degrees C) for 30 to 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4566054.jpg",
+    "ingredients": [
+        "3 potatoes, peeled and cubed",
+        "1/2 cup butter",
+        "2 celery stalks, finely chopped",
+        "1 large onion, minced",
+        "2 tablespoons dried summer savory",
+        "2 eggs, beaten",
+        "6 slices bread, cut into cubes",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Smith's New Brunswick-Style Turkey Stuffing",
     "url": "http://allrecipes.com/recipe/150607/grandma-smiths-new-brunswick-style-t/"
 }

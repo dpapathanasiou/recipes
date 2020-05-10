@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Break eggs into a blender; blend for 2 to 3 minutes.",
+        "Sift flour and salt together in a bowl; add flour mixture and 1/4 cup milk to blender. Blend until smooth, 1 minute. Scrape batter from sides of blender and pour in remaining 3/4 cup milk. Blend until smooth, 2 to 3 more minutes.",
+        "Refrigerate batter 1 to 2 hours before cooking.",
+        "Preheat an oven to 450 degrees F (230 degrees C). Pour 2 teaspoons of drippings into each of 6 muffin cups. Place muffin pan into oven and heat until drippings are very hot.",
+        "Pour batter into each of the prepared muffin cups.",
+        "Bake in the preheated oven until puddings puff up and are slightly browned, 20 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F938028.jpg",
+    "ingredients": [
+        "2  eggs",
+        "\u00be cup all-purpose flour",
+        "\u00bd teaspoon salt",
+        "1 cup milk, divided",
+        "\u00bc cup beef drippings, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blender Yorkshire Pudding",
     "url": "http://allrecipes.com/recipe/230167/blender-yorkshire-pudding/"
 }

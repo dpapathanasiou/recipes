@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Place spaghetti squash cut-side down on a baking sheet.",
+        "Bake squash in the preheated oven until soft and easily pierced with a knife, 45 minutes to 1 hour. Remove from oven and cool until easily handled, 5 to 10 minutes. Use a fork to scrape insides of squash into spaghetti strands; transfer to a bowl.",
+        "Heat olive oil in a large skillet over medium heat. Add onion and chard stems; cook and stir until translucent, about 5 minutes. Add garlic; cook and stir until soft, about 2 minutes. Stir in chard leaves; cook and stir until just wilted, about 3 minutes. Season with red pepper flakes, salt, and black pepper.",
+        "Stir squash, tomatoes, parsley, and thyme into the skillet. Cook and stir until flavors combine, about 5 minutes. Sprinkle Parmesan cheese on top before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4589542.jpg",
+    "ingredients": [
+        "1 spaghetti squash, halved and seeded",
+        "3 tablespoons olive oil, or more as needed",
+        "1 small onion, diced",
+        "3 leaves green chard, stems and leaves diced",
+        "2 cloves garlic, chopped, or more to taste",
+        "1 tablespoon red pepper flakes",
+        "salt and ground black pepper to taste",
+        "2 tomatoes, seeded and diced",
+        "1/4 cup chopped fresh parsley",
+        "3 sprigs fresh thyme, leaves stripped",
+        "1/4 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaghetti Squash and Chard",
     "url": "http://allrecipes.com/recipe/246364/spaghetti-squash-and-chard/"
 }

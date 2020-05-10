@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat olive oil in a large pot over medium-high heat. Saute onion and bell pepper in hot oil until softening, 2 to 3 minutes. Add garlic and continue to saute until fragrant, about 1 minute more.",
+        "Break ground beef into small chunks and add to the pot; cook, stirring frequently, until the beef is completely browned, 7 to 10 minutes. Drain grease from the pot and return to heat.",
+        "Stir pinto beans, tomato sauce, picante sauce, cumin, chili powder, cilantro, salt, red pepper flakes, and black pepper into the beef mixture; bring to a simmer, reduce heat to medium-low, and cook at a simmer until the flavors blend, about 15 minutes.",
+        "Spoon enough of the beef mixture into the bottom of a 13x9-inch baking dish to cover. Arrange 6 tortillas atop the beef mixture. Sprinkle 1 cup Monterey Jack cheese and 1/2 cup Cheddar cheese in a layer to cover the tortillas. Arrange remaining 6 tortillas atop the cheese layer; top with remaining meat mixture. Cover the dish tightly with aluminum foil.",
+        "Bake in preheated oven for 20 minutes. Remove the aluminum foil and sprinkle the remaining Monterey Jack cheese and Cheddar cheese over the top. Continue baking until the cheese is melted, 5 to 10 minutes. Let cool for 10 minutes before cutting; top with lettuce and tomato."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4509081.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1  onion, diced",
+        "1  green bell pepper, diced",
+        "2 cloves garlic, minced",
+        "1 pound ground beef",
+        "1 (16 ounce) can pinto beans, rinsed and drained",
+        "1 (15 ounce) can tomato sauce",
+        "1 cup picante sauce",
+        "1\u2009\u00bd teaspoons ground cumin",
+        "1 teaspoon chili powder",
+        "1 teaspoon dried cilantro",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon red pepper flakes",
+        "\u00bc teaspoon ground black pepper",
+        "12  corn tortillas, divided",
+        "2 cups shredded Monterey Jack cheese, divided",
+        "1 cup shredded Cheddar cheese, divided",
+        "2 cups shredded lettuce (optional)",
+        "1 large tomato, diced (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Chilada Casserole",
     "url": "http://allrecipes.com/recipe/240129/cheesy-chilada-casserole/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium heat. Add ham and red bell pepper; cook and stir until slightly softened, 3 to 5 minutes. Add eggs; cook, stirring gently, until scrambled and set, 3 to 5 minutes. Transfer to a bowl.",
+        "Wipe out skillet and place 1 flour tortilla on the bottom. Place 3 slices of mozzarella cheese on top. Top with egg mixture and remaining 3 slices mozzarella cheese. Cover with second tortilla. Cook until golden, about 1 minute. Flip and continue cooking until second side is golden, about 1 minute more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3554016.jpg",
+    "ingredients": [
+        "1 teaspoon vegetable oil",
+        "4 slices ham, diced small",
+        "\u00bc  red bell pepper, diced small",
+        "2  eggs, beaten",
+        "salt and ground black pepper to taste",
+        "2 (10 inch) flour tortillas",
+        "6 slices mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Breakfast Quesadilla",
     "url": "http://allrecipes.com/recipe/246958/cheesy-breakfast-quesadilla/"
 }

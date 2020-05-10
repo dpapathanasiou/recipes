@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch square baking dish.",
+        "Place bacon in a large skillet and cook over medium heat until just slightly cooked, about 5 minutes. Drain the bacon slices on paper towels and cut into pieces.",
+        "Mix 3/4 cup crushed crackers, corn, broccoli, onion, egg, and butter in a bowl; spoon mixture into the prepared baking dish. Sprinkle with 1/4 cup crushed crackers; top with bacon. Cover dish with aluminum foil.",
+        "Bake in the preheated oven for 30 minutes. Remove cover and continue baking until bacon is crisp and casserole is cooked through, about 30 more minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "3 slices bacon",
+        "\u00be cup crushed saltine crackers",
+        "1 (14 ounce) can cream-style corn",
+        "1 (10 ounce) package frozen chopped broccoli, thawed",
+        "1 small onion, chopped",
+        "1   egg, beaten",
+        "3 tablespoons butter, cut in small pieces",
+        "\u00bc cup crushed saltine crackers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn Broccoli Casserole",
     "url": "http://allrecipes.com/recipe/230143/corn-broccoli-casserole/"
 }

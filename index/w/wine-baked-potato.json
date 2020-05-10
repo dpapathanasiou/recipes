@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 450 degrees F (230 degrees C).",
+        "Make several cuts crosswise across the potato, about 1/2 inch apart and not quite all the way through. Place half of an onion slice, and a piece of butter into each cut. Place the potato onto a sheet of aluminum foil, and form a bowl. Pour the cooking wine over the potato, and fold the foil around to seal, turning the ends up like a boat to keep the wine from spilling out.",
+        "Place the potato onto a baking sheet, and bake for 50 to 60 minutes, depending on the size of the potato. When done, cut through foil, and top with your favorite potato toppings or just salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F160910.jpg",
+    "ingredients": [
+        "1 medium baking potato",
+        "\u00bd medium onion, sliced",
+        "\u00bc teaspoon butter",
+        "\u00bc cup cooking sherry"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wine Baked Potato",
     "url": "http://allrecipes.com/recipe/57551/wine-baked-potato/"
 }

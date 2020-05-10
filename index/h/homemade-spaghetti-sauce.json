@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In large saucepan over medium heat, saute onion and garlic in olive oil until soft.  Stir in tomatoes, tomato paste, water, Italian seasoning, basil, sugar, wine, and crushed red pepper.  Reduce heat to low and simmer 3 hours, stirring occasionally.  Serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4518604.jpg",
+    "ingredients": [
+        "1 chopped onion",
+        "5 cloves garlic, chopped",
+        "2 teaspoons olive oil",
+        "2 (28 ounce) cans peeled ground tomatoes in paste",
+        "1 (6 ounce) can Italian-style tomato paste",
+        "7 cups water",
+        "3 tablespoons Italian seasoning",
+        "2 tablespoons dried basil",
+        "1 teaspoon white sugar",
+        "1/2 cup red wine",
+        "1 pinch crushed red pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Homemade Spaghetti Sauce",
     "url": "http://allrecipes.com/recipe/19375/homemade-spaghetti-sauce/"
 }

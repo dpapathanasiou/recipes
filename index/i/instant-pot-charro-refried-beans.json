@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, pinto beans, onion, salsa, cilantro, jalapeno pepper, garlic, tomato bouillon, vegetable bouillon, chili powder, paprika, cumin, and black pepper in an electric pressure cooker (such as Instant Pot\u00ae). Close and lock the lid. Select Bean/Chili function; set timer for 45 minutes. Cooker will reach high pressure in 10 to 15 minutes.",
+        "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Unlock and remove lid."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2189&h=1146&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4283237.jpg",
+    "ingredients": [
+        "4 cups water",
+        "2 cups dry pinto beans, rinsed",
+        "1 large onion, chopped",
+        "\u00bd cup salsa (optional)",
+        "\u00bd cup roughly chopped cilantro, or to taste",
+        "1  jalapeno pepper, minced",
+        "4 cloves garlic, minced",
+        "2 teaspoons tomato-flavored bouillon",
+        "2 teaspoons vegetable bouillon",
+        "\u00bd teaspoon chili powder",
+        "\u00bd teaspoon ground paprika",
+        "\u00bd teaspoon ground cumin",
+        "\u00bd teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Instant Pot&reg; Charro (Refried Beans)",
     "url": "http://allrecipes.com/recipe/256347/instant-pot-charro-refried-beans/"
 }

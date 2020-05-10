@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Lightly grease a baking sheet.",
+        "Place potatoes on prepared baking sheet. Bake potatoes in the preheated oven until tender, about 30 minutes.",
+        "Heat olive oil in a large soup pot over medium heat. Stir celery, carrots, onion, and garlic into the hot olive oil; season with salt and pepper. Cook and stir until vegetables soften, about 10 minutes.",
+        "Stir chicken broth and milk into vegetable mixture; bring to a boil. Add cauliflower to vegetables and chicken broth mixture. Reduce heat to medium and cook until cauliflower is tender, about 10 minutes.",
+        "Stir potatoes, chicken, and Parmesan cheese into vegetables and broth; simmer until chicken is heated and cheese is melted, 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7587394.jpg",
+    "ingredients": [
+        "5 medium red potatoes, cubed",
+        "\u00bc cup olive oil",
+        "3 stalks celery, diced",
+        "3  carrots, peeled and diced",
+        "1  onion, diced",
+        "2  garlic cloves, minced",
+        "2 teaspoons salt",
+        "2 teaspoons ground black pepper",
+        "6 cups chicken broth",
+        "2 cups skim milk",
+        "1 head cauliflower, cut into small florets",
+        "2  cooked chicken breasts, shredded",
+        "1 cup grated, reduced fat Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nichole's Chicken Cauliflower Soup",
     "url": "http://allrecipes.com/recipe/221126/nicholes-chicken-cauliflower-soup/"
 }

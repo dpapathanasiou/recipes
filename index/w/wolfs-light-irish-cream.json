@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir sugar, 2 1/2 teaspoons water, cocoa powder, and salt in a small saucepan and bring to a boil, stirring to dissolve sugar and salt. Let cool and stir in 1/4 teaspoon vanilla extract.",
+        "Whisk confectioners' sugar, both amounts of dry milk powder, and 1/2 cup water in a small saucepan, bring to a boil, and reduce heat to low. Simmer mixture until smooth and thick, stirring often, 15 to 20 minutes. Set aside to cool and stir cream of coconut into milk mixture.",
+        "Combine chocolate syrup, milk mixture, Irish whiskey, half-and-half, instant coffee, 1 teaspoon vanilla extract, and almond extract in a blender; blend on high speed for 30 seconds. Bottle mixture and refrigerate. Liqueur will stay fresh in refrigerator at least 2 months. Shake bottle well before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1075063.jpg",
+    "ingredients": [
+        "Chocolate syrup:",
+        "2 1/2 teaspoons white sugar",
+        "2 1/2 teaspoons water",
+        "1 1/2 teaspoons unsweetened cocoa powder",
+        "1 tiny pinch salt",
+        "1/4 teaspoon vanilla extract",
+        "3/4 cup confectioners' sugar",
+        "1 cup nonfat dry milk powder",
+        "2 teaspoons nonfat dry milk powder",
+        "1/2 cup water",
+        "1 tablespoon cream of coconut (such as Coco Lopez\u00ae) (optional)",
+        "1 2/3 cups Irish whiskey (such as Jameson\u00ae)",
+        "1 cup half-and-half",
+        "1 teaspoon instant coffee (such as Folgers\u00ae)",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon almond extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wolf's Light Irish Cream",
     "url": "http://allrecipes.com/recipe/231779/wolfs-light-irish-cream/"
 }

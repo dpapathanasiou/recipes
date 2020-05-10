@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour 1/4 cup broth into a large pan with a lid; bring to a simmer. Add peppers and onions. Simmer until softened, about 3 minutes.  Add black beans and simmer for an additional 2 minutes. Add remaining broth to the pan. Stir in 1 packet Knorr\u00ae Fiesta Rice\u2122 - Mexican Rice, cover and simmer for 5 minutes. Stir often.",
+        "Add sliced chicken and gently stir to coat the chicken with the pan sauce.  Cook until rice is cooked through, another 2 to 5 minutes. Stir lightly to keep rice from sticking.",
+        "Sprinkle cheese on warm tortillas and top with slices of chicken and rice and pepper mixture. Top with more cheese, roll them up, and enjoy!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3531016.jpg",
+    "ingredients": [
+        "2 cups chicken stock, divided",
+        "3 cups chopped assorted bell peppers, such as yellow, green and red",
+        "1  onion, diced",
+        "1 (15 ounce) can reduced sodium black beans, drained",
+        "1 (5.4 ounce) package Knorr\u00ae Fiesta Sides\u2122 - Mexican Rice or Spanish Rice",
+        "2  cooked chicken breasts (skin and bones removed), sliced into strips",
+        "1 (8 ounce) package shredded Cheddar cheese (optional)",
+        "10  flour tortillas (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jan's 20-Minute One-Pot Fajitas",
     "url": "http://allrecipes.com/recipe/247045/jans-20-minute-one-pot-fajitas/"
 }

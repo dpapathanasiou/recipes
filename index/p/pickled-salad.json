@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss zucchini, cucumbers, onion, red bell pepper, green bell pepper, and jalapeno together in a very large bowl. Add salt and water to cover vegetable mixture; refrigerate for 8 hours to overnight. Strain vegetable mixture and rinse well.",
+        "Bring sugar, rice vinegar, white vinegar, turmeric, mustard seed, onion powder, garlic powder, and rosemary to a boil in a large stock pot. Add vegetable mixture; simmer for 20 minutes.",
+        "Sterilize the jars and lids in boiling water for at least 5 minutes. Pack vegetable mixture with vinegar mixture into hot, sterilized jars, filling to within 1/4 inch of the top. Run a clean knife or thin spatula around the insides of the jars after they have been filled to remove any air bubbles. Wipe the rims of the jars with a moist paper towel to remove any food residue. Top with lids and screw on rings.",
+        "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars into the boiling water using a holder. Leave a 2-inch space between the jars. Pour in more boiling water if necessary to bring the water level to at least 1 inch above the tops of the jars. Bring the water to a rolling boil, cover the pot, and process, 10 minutes for half-pints or 15 minutes for pints.",
+        "Remove the jars from the stockpot and place onto a cloth-covered or wood surface, several inches apart, until cool. Press the top of each lid with a finger, ensuring that the seal is tight (lid does not move up or down at all). Store in a cool, dark area."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "8 zucchini, diced",
+        "4 cucumbers, diced",
+        "1 sweet onion, diced",
+        "2 red bell pepper, diced",
+        "2 green bell pepper, diced",
+        "2 jalapeno pepper, minced",
+        "1 cup sea salt",
+        "water to cover",
+        "2 cups white sugar",
+        "2 cups rice vinegar",
+        "1/2 cup white vinegar",
+        "2 teaspoons ground turmeric",
+        "2 teaspoons yellow mustard seed",
+        "1 teaspoon onion powder",
+        "1 teaspoon garlic powder",
+        "1 teaspoon dried rosemary",
+        "12 1-pint canning jars with lids and rings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pickled Salad",
     "url": "http://allrecipes.com/recipe/246016/pickled-salad/"
 }

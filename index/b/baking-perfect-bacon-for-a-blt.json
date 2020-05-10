@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Cut a piece of heavy duty aluminum foil about twice as long as a rimmed baking sheet. Pinch and fold every inch or so of the foil to create ridges for the bacon to drain into while cooking.",
+        "Place bacon side by side on the ridged foil.",
+        "Bake in preheat oven to your desired level of doneness and a bit of foam forms on the surface, 25 to 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3904238.jpg",
+    "ingredients": [
+        "9 slices bacon",
+        "Heavy duty aluminum foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baking Perfect Bacon for a BLT",
     "url": "http://allrecipes.com/recipe/255277/baking-perfect-bacon-for-a-blt/"
 }

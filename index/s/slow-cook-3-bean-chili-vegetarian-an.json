@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir water, kidney beans, corn, crushed tomatoes, lentils, black beans, tomato paste, sugar, chili powder, cumin, and paprika together in a slow cooker.",
+        "Cook on High for 6 hours.",
+        "Heat olive oil in a large skillet over medium heat. Cook and stir onions and garlic in hot oil until the onion is translucent, about 5 minutes. Stir into the chili.",
+        "Continue cooking chili on Low until the beans are completely tender, 4 to 6 hours more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2202308.jpg",
+    "ingredients": [
+        "8 cups water",
+        "1 (16 ounce) package dry kidney beans",
+        "1 (15.25 ounce) can whole kernel corn, drained",
+        "1 (15 ounce) can crushed tomatoes",
+        "1 (8 ounce) package dry lentils",
+        "1 (8 ounce) package dry black beans",
+        "1 (6 ounce) can tomato paste",
+        "1/2 cup white sugar",
+        "2 tablespoons chili powder",
+        "1 tablespoon ground cumin",
+        "1 teaspoon paprika",
+        "2 tablespoons olive oil",
+        "3 onions, chopped",
+        "3 cloves garlic, minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cook 3-Bean Chili (Vegetarian and Gluten Free)",
     "url": "http://allrecipes.com/recipe/233128/slow-cook-3-bean-chili-vegetarian-an/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together the sugar and mayonnaise. Add the carrots and cabbage, and mix until well coated. Serve chilled."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/196481.jpg",
+    "ingredients": [
+        "1/2 cup white sugar",
+        "1/2 cup mayonnaise",
+        "3 medium carrots, shredded",
+        "1 medium head cabbage, cored and shredded"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma's Sweet Slaw",
     "url": "http://allrecipes.com/recipe/43989/grandmas-sweet-slaw/"
 }

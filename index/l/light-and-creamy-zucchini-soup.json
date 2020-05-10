@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a pot over medium heat. Cook and stir onion and carrots in hot oil until the onion is translucent, about 5 minutes. Add zucchini; continue cooking until the zucchini begins to soften, about 5 minutes more. Pour chicken broth over the zucchini mixture, place a cover on the pot, and bring to a boil and cook for 8 minutes. Stir spinach into the mixture; continue cooking until the zucchini is tender, about 2 minutes more.",
+        "Mash the zucchini mixture with a potato masher until a desired texture is achieved. Pour potato soup into the zucchini mixture; bring to a simmer and cook for 5 minutes. Stir half-and-half and Pecorino Romano cheese into the zucchini mixture; stir. Continue cooking until heated through completely, 2 to 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1038953.jpg",
+    "ingredients": [
+        "1/4 cup olive oil",
+        "1 1/2 onion, diced",
+        "2 carrots, diced",
+        "3 large zucchini, chopped small",
+        "1 (14.5 ounce) can fat-free chicken broth",
+        "1/2 (16 ounce) bag baby spinach leaves, chopped",
+        "1 (10.75 ounce) can cream of potato soup",
+        "1 quart fat free half-and-half",
+        "1/2 cup grated Pecorino Romano cheese",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Light and Creamy Zucchini Soup",
     "url": "http://allrecipes.com/recipe/234119/light-and-creamy-zucchini-soup/"
 }

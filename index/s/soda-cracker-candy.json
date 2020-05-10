@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).  Line a 10x15 inch cookie sheet with aluminum foil.",
+        "Place crackers in a singe layer over prepared cookie sheet.  Use more or fewer crackers as needed to cover the bottom of your pan.",
+        "In a small saucepan over low heat combine butter and brown sugar; bring to a boil.  Boil for 3 minutes; pour over crackers.",
+        "Bake in preheated oven for 5 minutes.  Sprinkle chocolate chips evenly over the top.  Sprinkle almonds over chocolate chips; using the back of a wooden spoon, press nuts into chocolate.",
+        "Chill in refrigerator for at least 3 hours, or until set.  Break into pieces and store, sealed, in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/540367.jpg",
+    "ingredients": [
+        "1 (10 ounce) package saltine crackers",
+        "1 1/2 cups butter",
+        "1 1/2 cups packed brown sugar",
+        "2 (12 ounce) packages semisweet chocolate chips",
+        "2 cups chopped almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Soda Cracker Candy",
     "url": "http://allrecipes.com/recipe/22787/soda-cracker-candy/"
 }

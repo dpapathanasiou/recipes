@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (205 degrees C).",
+        "Dissolve the baking soda in the warm water. Cream the shortening with the brown sugar until light. Stir in the eggs, baking soda mixture, coconut, oatmeal, dates or raisins, nuts and flour. Mix until combined. Drop by teaspoonfuls onto baking sheets.",
+        "Bake at 400 degrees F (205 degrees C) for 8 to 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F658654.jpg",
+    "ingredients": [
+        "1 cup shortening",
+        "2 cups packed brown sugar",
+        "1 teaspoon baking soda",
+        "2 tablespoons warm water",
+        "3  eggs",
+        "1 cup flaked coconut",
+        "1 cup rolled oats",
+        "1 cup chopped dates",
+        "\u00bd cup chopped walnuts",
+        "2\u2009\u00bd cups all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Minnesota Mail Carrier Cookies",
     "url": "http://allrecipes.com/recipe/11167/minnesota-mail-carrier-cookies/"
 }

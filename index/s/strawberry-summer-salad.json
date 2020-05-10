@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Make a dressing by whisking together the mayonnaise, sugar, and vinegar in a small bowl. Stir in the poppy seeds; set aside.",
+        "Toss together the lettuce, spinach, and onion in a large bowl. Drizzle the dressing over the salad and toss to coat. Add the strawberries and lightly toss again. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/426080.jpg",
+    "ingredients": [
+        "1 cup mayonnaise",
+        "1/4 cup white sugar",
+        "1 tablespoon white vinegar",
+        "1 tablespoon poppy seeds",
+        "1 head iceberg lettuce, torn into bite-size pieces",
+        "1 bunch fresh spinach, washed, stems removed",
+        "1/2 cup diced red onion",
+        "1 (16 ounce) package fresh strawberries, hulled and sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Summer Salad",
     "url": "http://allrecipes.com/recipe/152178/strawberry-summer-salad/"
 }

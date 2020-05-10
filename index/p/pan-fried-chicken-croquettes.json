@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a saucepan over medium heat. Whisk flour into melted butter; cook and stir until raw flour taste cooks off and a paste forms, about 1 minute. Slowly whisk milk and chicken broth into butter mixture, whisking constantly, until mixture is thick and smooth, 5 to 10 minutes. Remove sauce from heat and cool slightly, about 10 minutes.",
+        "Stir chicken, 1 cup bread crumbs, eggs, onion, parsley, garlic powder, celery seed, salt, and black pepper together in a bowl; add cooled sauce to chicken mixture and stir until well-combined. Cover the bowl with plastic wrap and refrigerate until chilled and firm, at least 2 hours.",
+        "Shape chilled chicken mixture into 6 patties. Pour remaining bread crumbs into a shallow bowl and roll each chicken patty in bread crumbs to coat completely.",
+        "Heat oil in a large skillet over medium-high heat. Cook patties in hot oil, turning once, until patties are cooked through and golden brown on each side, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2276&h=1192&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2614138.jpg",
+    "ingredients": [
+        "\u00bc cup butter",
+        "\u00bc cup flour",
+        "\u00bd cup milk",
+        "\u00bd cup chicken broth",
+        "3 cups finely chopped cooked chicken",
+        "1\u2009\u00bd cups seasoned bread crumbs, divided",
+        "2  eggs, beaten",
+        "\u00bc cup minced onion",
+        "1 tablespoon dried parsley",
+        "\u00bc teaspoon garlic powder",
+        "\u215b teaspoon celery seed",
+        "\u215b teaspoon cayenne pepper",
+        "salt and ground black pepper to taste",
+        "\u00bc cup oil, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pan Fried Chicken Croquettes",
     "url": "http://allrecipes.com/recipe/240766/pan-fried-chicken-croquettes/"
 }

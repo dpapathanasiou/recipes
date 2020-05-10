@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Run beets, carrots, oranges, spinach, blueberries, and ginger through a juicer according to manufacturer's instructions."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4484533.jpg",
+    "ingredients": [
+        "2 small beets, peeled",
+        "2 carrots",
+        "2 oranges, peeled",
+        "1 cup fresh spinach",
+        "1/4 cup fresh blueberries, or more to taste",
+        "1 (1 inch) piece fresh ginger, peeled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rainbow Juice",
     "url": "http://allrecipes.com/recipe/245065/rainbow-juice/"
 }

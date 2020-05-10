@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In blender, place ingredients. Cover; blend on high speed about 10 seconds or until smooth.",
+        "Pour into 2 glasses. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3811007.jpg",
+    "ingredients": [
+        "2 (5.3 ounce) containers Yoplait\u00ae Greek 100 Orange Creme yogurt",
+        "1 cup fresh strawberries, hulled",
+        "1/2 cup ice cubes (optional)",
+        "1/4 cup orange juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry-Orange Creme Smoothies",
     "url": "http://allrecipes.com/recipe/254464/strawberry-orange-creme-smoothies/"
 }

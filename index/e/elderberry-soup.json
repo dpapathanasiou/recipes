@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the elderberries in a pot with 2 cups water, and bring to a boil. Reduce heat to low, and simmer 10 minutes. Remove from heat, puree in a blender until smooth, and return to the pot. In a small bowl, mix the cornstarch with 1 tablespoon of the puree, and stir into the pot to thicken.",
+        "In a separate pot, bring the apples and remaining water to a boil. Place the lemon peel in the pot. Reduce heat to low, and simmer 10 minutes. Remove peel. Mix the elderberry puree into the apple mixture, and sweeten to taste with sugar."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "5 ounces elderberries",
+        "1 quart water, divided",
+        "1 1/2 teaspoons cornstarch",
+        "1/2 pound apples - peeled, cored and diced",
+        "1 lemon peel",
+        "white sugar to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Elderberry Soup",
     "url": "http://allrecipes.com/recipe/75737/elderberry-soup/"
 }

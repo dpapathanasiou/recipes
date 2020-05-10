@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cocoa powder and chocolate chips into a medium bowl. Heat the heavy cream in a small saucepan until simmering hot. Pour over the chocolate chips and let stand for a minute, then add vanilla and stir until smooth. Set aside.",
+        "In a separate bowl, stir together the confectioners' sugar and salt. Mix in vanilla and enough water to achieve a thin icing. Set aside.",
+        "Heat the oil in a heavy skillet or electric skillet to 375 degrees F (190 degrees C). Use a small biscuit cutter or knife to cut circles in the centers of the biscuits. Fry the donuts in the hot oil until browned on each side, about 4 minutes total. Drain quickly on paper towels, then transfer to a rack. Pour some of the vanilla glaze over the tops of the donuts, let it set up for about a minute, then turn them over and glaze the other side. Sprinkle the donuts with cinnamon sugar while the glaze is still wet.",
+        "To serve the Grillswith, place one donut in the center of a plate. Top with a scoop of ice cream. Drizzle with hot chocolate sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 tablespoons unsweetened cocoa powder",
+        "1 cup semisweet chocolate chips",
+        "\u00bd cup heavy cream",
+        "1 teaspoon vanilla extract",
+        "1 cup confectioners' sugar",
+        "1 pinch salt",
+        "1 tablespoon vanilla extract",
+        "\u00bc cup water, or as needed",
+        "1 quart vegetable oil for deep-frying",
+        "4  large refrigerated biscuits",
+        "\u00bd cup cinnamon sugar",
+        "4 scoops vanilla ice cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grillswith (Donut Happiness)",
     "url": "http://allrecipes.com/recipe/66655/grillswith-donut-happiness/"
 }

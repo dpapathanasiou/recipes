@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium heat. Saute the mushrooms, celery, and onions until softened.",
+        "Dampen the fresh bread cubes (not the stuffing mix), then squeeze out any excess water.",
+        "In a large bowl, combine the mushroom mixture, bread cubes, stuffing mix, eggs, and 1 can chicken broth. Season with sage, thyme, garlic powder, salt, and pepper, and mix well. The stuffing should have a rather paste-like consistency.  Mix in additional chicken broth as necessary.",
+        "Loosely pack stuffing inside turkey cavity before roasting."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F152053.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 pound sliced fresh mushrooms",
+        "3 stalks celery, diced",
+        "2  onions, chopped",
+        "1 (20 ounce) loaf French or Italian bread, cut into 1 inch cubes",
+        "1 (16 ounce) package herb-seasoned stuffing mix",
+        "4  eggs, beaten",
+        "2 (14 ounce) cans chicken broth",
+        "2 teaspoons rubbed sage",
+        "2 teaspoons dried thyme",
+        "2 tablespoons garlic powder",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Ruth's Stuffing",
     "url": "http://allrecipes.com/recipe/13814/grandma-ruths-stuffing/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1/2 cup margarine with cornflake crumbs, then press into the bottom of a 13x9 inch pan.  Chill in the refrigerator for 30 minutes.",
+        "Mix together eggs, vanilla extract, 1 cup margarine and confectioners' sugar until smooth.  Pour mixture over the chilled cornflake crust.  Slice bananas lengthwise and place over the egg mixture.  Spoon pineapple over the bananas, then spread whipped topping over the top to cover.  Sprinkle with chopped nuts.  Refrigerate overnight before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups cornflakes cereal crumbs",
+        "\u00bd cup margarine, softened",
+        "2  eggs",
+        "1 tablespoon vanilla extract",
+        "1 cup margarine",
+        "2 cups confectioners' sugar",
+        "6  banana",
+        "2 (15 ounce) cans crushed pineapple, drained",
+        "1 (16 ounce) container frozen whipped topping, thawed",
+        "chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana Split Cake VI",
     "url": "http://allrecipes.com/recipe/19070/banana-split-cake-vi/"
 }

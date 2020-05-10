@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Add 1/4 cup water to 4 quart saucepan over medium heat. Add first 10 ingredients to pot. Bring bean mixture to a boil. Reduce heat to medium-low and simmer until flavors come together, about 10 minutes. Discard bay leaf; season beans with Adobo.",
+        "Divide beans evenly among serving plates. Divide cooked rice evenly among plates alongside beans."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/984963.jpg",
+    "ingredients": [
+        "1 (15.5 ounce) can Goya Black Beans, undrained",
+        "1 tablespoon Goya Extra Virgin Olive Oil",
+        "1 tablespoon Goya Golden Cooking Wine",
+        "1 tablespoon Goya Recaito",
+        "1 Goya Bay Leaf",
+        "1 packet Sazon Goya without Annatto",
+        "1/2 teaspoon brown sugar",
+        "1/2 teaspoon Goya Oregano Leaf, or to taste",
+        "1/2 teaspoon Goya White Vinegar",
+        "1/4 teaspoon Goya Cumin, or to taste",
+        "Goya Adobo with Pepper, to taste",
+        "2 cups cooked Canilla Extra Long Grain Rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Black Beans and Rice",
     "url": "http://allrecipes.com/recipe/215237/black-beans-and-rice/"
 }

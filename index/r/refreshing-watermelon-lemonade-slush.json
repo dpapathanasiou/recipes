@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the watermelon pieces onto a plastic-wrapped baking sheet, and freeze until solid, about 45 minutes.",
+        "Place the frozen watermelon, water, and strawberry lemonade drink mix in a blender; blend until slushy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1027018.jpg",
+    "ingredients": [
+        "1 cup cubed seeded watermelon",
+        "1 1/4 cups water",
+        "3 tablespoons sweetened strawberry lemonade drink mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Refreshing Watermelon Lemonade Slush",
     "url": "http://allrecipes.com/recipe/218887/refreshing-watermelon-lemonade-slush/"
 }

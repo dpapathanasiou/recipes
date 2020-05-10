@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spread each slice of bread with mayonnaise.",
+        "Top with lettuce, turkey and cranberry sauce and remaining slice of bread."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1029524.jpg",
+    "ingredients": [
+        "2 slices wheat bread",
+        "2 tablespoons mayonnaise",
+        "1/4 cup shredded lettuce",
+        "4 ounces sliced Butterball\u00ae Maple Honey Turkey",
+        "2 tablespoons whole berry cranberry sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Thanksgiving Turkey Sandwich",
     "url": "http://allrecipes.com/recipe/233484/cranberry-thanksgiving-turkey-sandwic/"
 }

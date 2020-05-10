@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place mirlitons into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 45 minutes. Drain and cool slightly.",
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Slice the tops off the mirlitons and scoop the flesh out, discarding the seed. Reserve the mirliton shells.",
+        "Heat a large skillet over medium heat; cook and stir mirliton flesh with shrimp, onions, bell pepper, celery, and garlic until vegetables are very tender, 15 to 20 minutes. Stir in crabmeat, bread crumbs, and paprika. Season with salt and pepper.",
+        "Arrange mirliton shells on a large baking sheet. Spoon shrimp and crab mixture into each shell.",
+        "Bake in preheated oven until browned, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3493788.jpg",
+    "ingredients": [
+        "10 mirlitons (chayote)",
+        "1 pound small shrimp, peeled and deveined",
+        "3 onions, chopped",
+        "1 large green bell pepper, chopped",
+        "3 large stalks celery, chopped",
+        "2 cloves garlic, chopped",
+        "2 (6 ounce) cans crabmeat",
+        "1 cup bread crumbs",
+        "1 teaspoon paprika",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Mirlitons (Chayote Squash) Casserole",
     "url": "http://allrecipes.com/recipe/232753/stuffed-mirlitons-chayote-squash-ca/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease muffin cups or line with paper muffin liners.",
+        "In a medium mixing bowl, stir together flour, 1/2 cup sugar, baking powder, nutmeg and salt.  Make a well in the center of the mixture. Stir together egg, milk and 1/3 cup melted butter.  Add egg mixture to flour mixture; stir until just moistened (batter may be lumpy).  Spoon batter into prepared muffin cups.",
+        "Bake in preheated oven for 20 to 25 minutes. Meanwhile, combine 1/4 cup sugar, cinnamon When muffins are finished baking, dip tops of muffins in the melted butter, and then in the cinnamon sugar mixture. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5013714.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd cup white sugar",
+        "1\u2009\u00bd teaspoons baking powder",
+        "\u00bc teaspoon ground nutmeg",
+        "\u215b teaspoon salt",
+        "1  egg, lightly beaten",
+        "\u00bd cup milk",
+        "\u2153 cup butter, melted",
+        "\u00bc cup white sugar",
+        "\u00bd teaspoon ground cinnamon",
+        "\u2153 cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "French Breakfast Muffins",
     "url": "http://allrecipes.com/recipe/20919/french-breakfast-muffins/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat butter in a large skillet over medium heat until melted, 3 to 5 minutes. Stir in onion and green pepper; cook and stir until softened, about 5 minutes. Add shredded pork, water, and fajita seasoning; cook and stir until heated through, about 5 minutes.",
+        "Place tortillas in a skillet over low heat until warmed, 1 to 2 minutes. Remove tortillas from the skillet. Spoon shredded pork mixture into tortillas; top with lettuce, tomato, Cheddar cheese, salsa, and sour cream."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5099465.jpg",
+    "ingredients": [
+        "\u00bc cup butter",
+        "1  onion, chopped",
+        "1  green bell pepper, chopped",
+        "1 (16 ounce) package shredded pork",
+        "\u00bc cup water",
+        "1 (1 ounce) package fajita seasoning",
+        "6 (6 inch) corn tortillas",
+        "1 cup shredded lettuce",
+        "1 cup tomatoes, chopped",
+        "1 cup Shredded Cheddar cheese",
+        "1 (8 ounce) jar salsa (optional)",
+        "1 (8 ounce) carton sour cream (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shredded Pork Fajita Tacos",
     "url": "http://allrecipes.com/recipe/254813/shredded-pork-fajita-tacos/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk yogurt, lemon juice, lemon zest, chile paste, garlic, rosemary, oregano, salt, black pepper, and cinnamon together in a small bowl. Transfer into a resealable plastic bag. Add the lamb chops, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 4 hours.",
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Remove lamb chops from from marinade and scrape off excess. Discard used marinade. Season chops with salt and black pepper. Place on the preheated grill and cook until browned and medium rare on the inside, 3 to 4 minutes. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4540633.jpg",
+    "ingredients": [
+        "1/2 cup plain yogurt",
+        "1 large lemon, juiced and rind grated",
+        "1 tablespoon chile paste",
+        "4 cloves garlic, crushed",
+        "2 tablespoons minced fresh rosemary",
+        "1 teaspoon dried oregano",
+        "1 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "1/4 teaspoon ground cinnamon",
+        "8 lamb loin chops"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Lemon and Rosemary Lamb Chops",
     "url": "http://allrecipes.com/recipe/228642/grilled-lemon-and-rosemary-lamb-chops/"
 }

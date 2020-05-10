@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select dough cycle; press Start.",
+        "After the dough has doubled in size turn it out onto a lightly floured surface, cover and let rest for 10 minutes. In a small bowl, combine brown sugar and cinnamon.",
+        "Roll dough into a 16x21-inch rectangle. Spread dough with 1/3 cup butter and sprinkle evenly with sugar/cinnamon mixture. Roll up dough and cut into 12 rolls. Place rolls in a lightly greased 9x13 inch baking pan. Cover and let rise until nearly doubled, about 30 minutes. Meanwhile, preheat oven to 400 degrees F (200 degrees C).",
+        "Bake rolls in preheated oven until golden brown, about 15 minutes. While rolls are baking, beat together cream cheese, 1/4 cup butter, confectioners' sugar, vanilla extract and salt. Spread frosting on warm rolls before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup warm milk (110 degrees F/45 degrees C)",
+        "2  eggs, room temperature",
+        "\u2153 cup margarine, melted",
+        "4\u2009\u00bd cups bread flour",
+        "1 teaspoon salt",
+        "\u00bd cup white sugar",
+        "2\u2009\u00bd teaspoons bread machine yeast",
+        "1 cup brown sugar, packed",
+        "2\u2009\u00bd tablespoons ground cinnamon",
+        "\u2153 cup butter, softened",
+        "1 (3 ounce) package cream cheese, softened",
+        "\u00bc cup butter, softened",
+        "1\u2009\u00bd cups confectioners' sugar",
+        "\u00bd teaspoon vanilla extract",
+        "\u215b teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Clone of a Cinnabon",
     "url": "http://allrecipes.com/recipe/20156/clone-of-a-cinnabon/"
 }

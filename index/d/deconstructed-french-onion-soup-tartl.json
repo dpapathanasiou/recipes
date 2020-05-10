@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Heat olive oil and butter together in a skillet over medium-high heat until the butter is melted, 2 to 3 minutes. Saute onion and garlic in the hot oil mixture until the onion begins to caramelize, 15 to 20 minutes.",
+        "Pour white wine over the onion mixture; bring to a simmer and cook until fragrant, about 2 minutes. Add beef broth and thyme; cook until the liquid reduces in volume by half. Season the mixture with kosher salt and black pepper.",
+        "Trim puff pastry and fit into a tart pan. Score a rim along the edge of the pastry. Puncture the center of the pastry with a fork. Spread the onion mixture over the pastry; top with Parmesan cheese and mozzarella cheese.",
+        "Bake in preheated oven until the crust is golden brown, 15 to 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "2 tablespoons butter",
+        "1 large white onion, sliced",
+        "1 clove garlic, minced",
+        "1/4 cup white wine",
+        "1/2 cup beef broth",
+        "1 teaspoon dried thyme",
+        "1/2 teaspoon kosher salt (such as Diamond Crystal\u00ae)",
+        "1/4 teaspoon ground black pepper",
+        "1 sheet puff pastry",
+        "1/2 cup grated Parmesan cheese",
+        "1 cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Deconstructed French Onion Soup Tartlet",
     "url": "http://allrecipes.com/recipe/239742/deconstructed-french-onion-soup-tartl/"
 }

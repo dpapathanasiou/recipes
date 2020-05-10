@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir cream cheese, mayonnaise, and balsamic vinegar together in a bowl until smooth.",
+        "Mix Cheddar cheese, feta cheese, Parmesan cheese, oregano, onion powder, and garlic powder together in a separate bowl. Stir Cheddar cheese mixture into cream cheese mixture.",
+        "Pulse pecans and 1/4 cup pine nuts in a food processor or blender until crumbly. Mix remaining 1/2 cup pine nuts into pecan mixture. Spread about 1/4 of the pecan mixture onto a plate.",
+        "Form cheese mixture into two 5-inch balls. Roll each ball in the pecan mixture until fully coated, adding more pecan mixture as needed."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2527465.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bc cup mayonnaise",
+        "2 tablespoons balsamic vinegar",
+        "10 ounces shredded Cheddar cheese",
+        "1 (8 ounce) package crumbled feta cheese",
+        "\u00bc cup grated Parmesan cheese",
+        "1 tablespoon dried oregano",
+        "2 teaspoons onion powder",
+        "1 teaspoon garlic powder",
+        "\u00bc cup pecan halves",
+        "\u00be cup pine nuts, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Greek-Style Cheese Ball",
     "url": "http://allrecipes.com/recipe/230308/greek-style-cheese-ball/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a slow cooker, combine pork roast, pinto beans, chile peppers, chili powder, cumin seed, oregano, salt, pepper, and water. Cover, and simmer on Low for 4 hours.",
+        "Shred meat, removing any bones and fat. Cover, and continue cooking for 2 to 4 more hours. Add more water if necessary.",
+        "Place corn chips on serving plates. Spoon pork mixture over chips, and serve with desired toppings."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F770087.jpg",
+    "ingredients": [
+        "1 (4 pound) pork roast",
+        "1 pound dried pinto beans",
+        "1 (4 ounce) can chopped green chile peppers",
+        "2 tablespoons chili powder",
+        "2 teaspoons cumin seed",
+        "1 teaspoon dried oregano",
+        "salt and pepper to taste",
+        "1 quart water",
+        "1 (16 ounce) package corn chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southwestern Style Chalupas",
     "url": "http://allrecipes.com/recipe/24846/southwestern-style-chalupas/"
 }

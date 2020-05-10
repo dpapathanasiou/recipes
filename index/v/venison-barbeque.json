@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Marinate the venison meat over night in the Italian dressing. Flip over at least one time during the marinade.",
+        "Cook meat on the grill over medium-high heat. Cook for 20 to 30 minutes or until done to your taste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3587670.jpg",
+    "ingredients": [
+        "1 (16 ounce) bottle Italian-style salad dressing",
+        "4 (1/2 pound) venison steaks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Venison Barbeque",
     "url": "http://allrecipes.com/recipe/20077/venison-barbeque/"
 }

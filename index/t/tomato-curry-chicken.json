@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place chicken in a 9x13 inch baking dish. Melt butter in a medium skillet over medium heat. Saute onion, then stir in beer, soup, curry powder, basil and pepper. Reduce heat to low and simmer for about 10 minutes, then pour over chicken.",
+        "Bake at 350 degrees F (175 degrees C) for 1 hour; sprinkle with cheese for last 10 minutes of baking."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F457254.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "2 tablespoons butter",
+        "1  onion, chopped",
+        "\u2154 cup beer",
+        "1 (10.75 ounce) can condensed tomato soup",
+        "1 teaspoon curry powder",
+        "\u00bd teaspoon dried basil",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato Curry Chicken",
     "url": "http://allrecipes.com/recipe/17712/tomato-curry-chicken/"
 }

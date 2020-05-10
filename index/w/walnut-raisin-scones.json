@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl combine flour, sugar, baking powder, baking soda, salt and lemon peel.",
+        "With a pastry blender or 2 knives, cut in butter until mixture resembles coarse meal.  Mix in all but 2 tablespoons of the nuts and the raisins.  Mix in buttermilk with fork.",
+        "Gather the dough into a ball and knead for about 2 minutes on lightly floured board.",
+        "Roll or pat out 3/4 inch thick.  With a chef's knife cut into 3 inch triangles.  Place, spaced 1inch apart, on a greased baking sheet.  Brush tops with remaining 1 tablespoon buttermilk; sprinkle with the remaining sugar and the nuts.",
+        "Bake in center of 425 degree F (220 degrees C) oven about 15 minutes or until nicely browned.  Serve warm with butter or jam."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F443845.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "2 tablespoons white sugar",
+        "2 teaspoons baking powder",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1 tablespoon grated lemon zest",
+        "\u00bd cup butter, cubed",
+        "\u00be cup chopped walnuts",
+        "\u00bd cup raisins",
+        "\u00be cup buttermilk",
+        "2 tablespoons buttermilk",
+        "2 tablespoons white sugar",
+        "2 tablespoons chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Walnut Raisin Scones",
     "url": "http://allrecipes.com/recipe/6823/walnut-raisin-scones/"
 }

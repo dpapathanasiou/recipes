@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F. Line a baking sheet with Reynolds Wrap\u00ae Aluminum Foil and lightly coat with cooking spray. Set aside.",
+        "With a serrated knife, make diagonal cuts through the loaf of bread in opposite directions (leaving the bottom crust intact), so you have 1-inch pieces exposed all over the bread. Place loaf onto the foil-lined baking sheet and insert pats of butter in the slits throughout the loaf.",
+        "Add the remaining ingredients together in a mixing bowl and toss together until well combined. Stuff the cheese mixture evenly throughout the slits in the loaf until all of the mixture has been used and the entire loaf is filled.",
+        "Place the loaf in the oven and bake for 25 minutes. Transfer loaf to the broiler and broil for about 1 minute for an extra-toasted top. Remove and allow the bread to sit for 5-7 minutes before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1  large, round loaf sourdough bread, unsliced",
+        "\u00bd cup cold salted butter, cut into 16 slices",
+        "1 cup shredded white Cheddar cheese",
+        "1 cup shredded Gouda cheese",
+        "1 tablespoon minced fresh rosemary leaves",
+        "1 tablespoon minced fresh sage leaves",
+        "2 cloves garlic, minced",
+        "\u00bc cup pomegranate seeds",
+        "Cracked black pepper to taste",
+        "Reynolds Wrap\u00ae Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Herb and Pomegranate Pull-Apart Bread",
     "url": "http://allrecipes.com/recipe/245234/herb-and-pomegranate-pull-apart-bread/"
 }

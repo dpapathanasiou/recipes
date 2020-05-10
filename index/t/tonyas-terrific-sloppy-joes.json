@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a large skillet over medium-high heat. Crumble ground beef into skillet; add onion and celery. Cook and stir beef mixture until beef is completely browned, 7 to 10 minutes.",
+        "Stir ketchup, brown sugar, Worcestershire sauce, vinegar, mustard, and lemon juice through the beef mixture. Reduce heat to medium-low and cook mixture at a simmer until mixture is hot and sauce has thickened, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1487&h=779&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F967836.jpg",
+    "ingredients": [
+        "2 pounds ground beef",
+        "\u00bd cup chopped onion",
+        "\u00bc cup chopped celery",
+        "7 ounces ketchup",
+        "1 tablespoon brown sugar",
+        "1\u2009\u00bd teaspoons Worcestershire sauce",
+        "1 teaspoon vinegar",
+        "\u00bc teaspoon dry mustard powder",
+        "\u215b teaspoon lemon juice",
+        "8  white or wheat hamburger buns"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tonya's Terrific Sloppy Joes",
     "url": "http://allrecipes.com/recipe/229487/tonyas-terrific-sloppy-joes/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mash tofu with your hands in a large bowl until crumbly; add lemon juice, olive oil, nutritional yeast, vinegar, garlic, shallot, basil, parsley, kosher salt, and black pepper. Gently mix tofu mixture with a fork until well combined."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (16 ounce) package firm tofu, drained",
+        "1 tablespoon fresh lemon juice",
+        "1 teaspoon extra-virgin olive oil",
+        "1 teaspoon nutritional yeast flakes",
+        "\u00bd teaspoon balsamic vinegar",
+        "\u00bd teaspoon minced garlic",
+        "\u00bd teaspoon minced shallot",
+        "\u00bd teaspoon chopped fresh basil",
+        "\u00bd teaspoon chopped fresh parsley",
+        "kosher salt to taste",
+        "freshly cracked black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Ricotta Cheese",
     "url": "http://allrecipes.com/recipe/233680/tofu-ricotta-cheese/"
 }

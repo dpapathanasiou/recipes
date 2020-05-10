@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend eggs, wheat berries, almond milk, oats, coconut oil, and vanilla extract together in a blender until smooth, 45 to 50 seconds. Add sugar, cinnamon, baking soda, cloves, mace, and salt; pulse blender until the dry ingredients are incorporated into the batter.",
+        "Pour batter into a large bowl and fold cottage cheese into the mixture.",
+        "Heat a large skillet over medium heat and coat with cooking spray. Pour about 1/4 cup batter onto the skillet and cook until bubbles appear on the surface, 2 to 3 minutes. Flip with a spatula and cook until browned on the other side, about 2 minutes more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1117377.jpg",
+    "ingredients": [
+        "4  eggs, beaten",
+        "\u2154 cup wheat berries",
+        "\u00bd cup almond milk",
+        "\u2153 cup oats",
+        "3 tablespoons coconut oil, softened",
+        "2 tablespoons vanilla extract",
+        "2 tablespoons white sugar",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon ground cloves",
+        "\u00bc teaspoon ground mace",
+        "1 pinch salt",
+        "1 cup cottage cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Wheat Pancakes",
     "url": "http://allrecipes.com/recipe/236897/cheesy-wheat-pancakes/"
 }

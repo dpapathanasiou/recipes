@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook orzo in the boiling water, stirring occasionally until cooked through but firm to the bite, about 11 minutes. Drain.",
+        "Heat oil in a large skillet over medium heat; cook and stir onion until slightly softened, about 3 minutes. Add garlic and cook until fragrant, about 1 minute. Mix tomatoes in juice, water, wine, oregano, and salt into onion mixture; cook and stir until sauce is thickened, about 10 minutes.",
+        "Mix shrimp into sauce and cook until shrimp are cooked through, 2 to 3 minutes. Stir feta cheese and parsley into sauce; serve over orzo."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2301787.jpg",
+    "ingredients": [
+        "8 ounces orzo pasta",
+        "3 tablespoons olive oil",
+        "\u00bd small onion, chopped",
+        "2 cloves garlic, minced",
+        "2 (14.5 ounce) cans diced tomatoes in juice",
+        "\u00bd cup water",
+        "\u00bd cup dry white wine",
+        "\u00bd teaspoon chopped fresh oregano",
+        "\u00bd teaspoon salt",
+        "1\u2009\u00bd pounds large shrimp, peeled and deveined",
+        "4 ounces crumbled feta cheese",
+        "2 tablespoons chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp and Feta with Pasta",
     "url": "http://allrecipes.com/recipe/241381/shrimp-and-feta-with-pasta/"
 }

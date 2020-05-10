@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in a saucepan, and add water to cover. Boil 20 minutes. Allow to cool, then pull meat into shreds.",
+        "Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente; drain.",
+        "In a large skillet over medium-high heat, combine chicken broth, red pepper, garlic, broccoli, salt and pepper. Cover, and simmer for 8 to 10 minutes, until broccoli is crisp-tender. Stir in cream cheese until smooth. Mix in chicken and pasta until evenly coated. Garnish with Parmesan cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "4  boneless, skinless chicken breast halves",
+        "1 (12 ounce) package farfalle (bow tie) pasta",
+        "1 (14 ounce) can chicken broth",
+        "1 head broccoli, cut into florets",
+        "1 medium red bell pepper, thinly sliced",
+        "2 cloves garlic, minced",
+        "salt and pepper to taste",
+        "2 (8 ounce) containers chive and onion cream cheese",
+        "\u00bc cup freshly grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken and Bow Tie Pasta",
     "url": "http://allrecipes.com/recipe/47651/chicken-and-bow-tie-pasta/"
 }

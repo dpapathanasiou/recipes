@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a 13x9-inch baking dish with aluminum foil.",
+        "Stir olive oil, cinnamon, salt, lemon pepper, garlic powder, and thyme together in a small bowl; rub onto chicken to coat. Arrange coated chicken pieces into a baking dish with the skin side down.",
+        "Bake in preheated oven for 35 minutes, turn, and continue cooking until the chicken is no longer pink at the bone and the juices run clear, 20 to 25 minutes more. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).  Remove from oven, cover loosely with aluminum foil, and rest chicken for about 15 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2990&h=1565&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6696287.jpg",
+    "ingredients": [
+        "\u00bc cup olive oil",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon salt",
+        "\u00bd teaspoon lemon pepper",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon ground dried thyme",
+        "2 pounds bone-in chicken pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon-Rubbed Chicken",
     "url": "http://allrecipes.com/recipe/232863/cinnamon-rubbed-chicken/"
 }

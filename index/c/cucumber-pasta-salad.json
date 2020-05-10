@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "In large bowl, combine pasta, cucumber, celery and onion.  In small bowl, combine dressing, buttermilk and celery seed.  Toss salad with dressing and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F234699.jpg",
+    "ingredients": [
+        "\u00bd cup rotelle pasta",
+        "4  English cucumbers - peeled, quartered and chopped",
+        "4 stalks celery, chopped",
+        "1 large onion, chopped",
+        "1 cup creamy salad dressing (e.g. Miracle Whip)",
+        "1 cup buttermilk",
+        "2 teaspoons celery seed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumber Pasta Salad",
     "url": "http://allrecipes.com/recipe/19382/cucumber-pasta-salad/"
 }

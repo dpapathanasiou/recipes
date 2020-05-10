@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir vegetables, meatballs, apricot jam, salad dressing, and soy sauce together in a skillet over medium heat. Cover the skillet and cook the mixture until the vegetables and meatballs are heated through completely, 15 to 20 minutes. Serve over rice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1066908.jpg",
+    "ingredients": [
+        "1 (16 ounce) package frozen stir-fry vegetables (sliced green, red, and yellow peppers and white onions)",
+        "1 (12 ounce) package frozen fully-cooked meatballs",
+        "1/4 cup apricot jam",
+        "1/4 cup French-style salad dressing",
+        "2 tablespoons soy sauce",
+        "3 cups hot cooked rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oh So Easy Sweet and Sour Meatballs",
     "url": "http://allrecipes.com/recipe/234699/oh-so-easy-sweet-and-sour-meatballs/"
 }

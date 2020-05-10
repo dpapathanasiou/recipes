@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a slow cooker, combine venison, cream of mushroom soup, golden mushroom soup, onion and carrots. Cover and cook on low setting for 6 to 8 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7090.jpg",
+    "ingredients": [
+        "2 pounds venison stew meat",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (10.75 ounce) can condensed golden mushroom soup",
+        "1/2 onion, chopped",
+        "4 carrots, cut into 1 inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Slow Cooker Venison Stew",
     "url": "http://allrecipes.com/recipe/32081/easy-venison-stew/"
 }

@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (205 degrees C).",
+        "Melt the butter. Brush a little bit of the butter on the inside of a 9-inch cake pan.",
+        "Mix 5 tablespoons of the butter with the dark brown sugar and 1/4 cup of the pineapple juice. Place this mixture in the bottom of the cake pan. Arrange the pineapple rings on the brown sugar mixture in a decorative pattern (be creative). Set pan aside.",
+        "Stir together the flour, salt, white sugar, and baking powder.",
+        "Separate the eggs. Beat the whites until stiff but not dry.",
+        "Beat two of the egg yolks until lemony yellow. Stir in the remaining 1/2 cup pineapple juice, vanilla, and remaining melted butter. Add this mixture to the flour mixture. Gently fold in the egg whites. Pour batter over the top of the brown sugar and pineapple rings.",
+        "Bake in the preheated oven until cake springs back when lightly touched with a finger, about 30 minutes. Let cake cool in pan for 10 minutes then cover pan tightly with a serving dish and invert so that the pineapple side is up."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3870900.jpg",
+    "ingredients": [
+        "\u00be cup butter",
+        "\u00be cup packed dark brown sugar",
+        "\u00be cup unsweetened pineapple juice",
+        "1\u2009\u00bd cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "\u00bd teaspoon salt",
+        "\u00bd cup white sugar",
+        "3  eggs",
+        "\u00bd teaspoon vanilla extract",
+        "1  fresh pineapple - peeled, cored and cut into rings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Pineapple Upside Down Cake",
     "url": "http://allrecipes.com/recipe/7347/fresh-pineapple-upside-down-cake/"
 }

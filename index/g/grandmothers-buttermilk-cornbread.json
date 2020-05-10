@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (175 degrees C). Grease an 8 inch square pan.",
+        "Melt butter in large skillet. Remove from heat and stir in sugar. Quickly add eggs and beat until well blended. Combine buttermilk with baking soda and stir into mixture in pan. Stir in cornmeal, flour, and salt until well blended and few lumps remain. Pour batter into the prepared pan.",
+        "Bake in the preheated oven for 30 to 40 minutes, or until a toothpick inserted in the center comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bd cup butter",
+        "\u2154 cup white sugar",
+        "2  eggs",
+        "1 cup buttermilk",
+        "\u00bd teaspoon baking soda",
+        "1 cup cornmeal",
+        "1 cup all-purpose flour",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandmother's Buttermilk Cornbread",
     "url": "http://allrecipes.com/recipe/76594/grandmothers-buttermilk-cornbread/"
 }

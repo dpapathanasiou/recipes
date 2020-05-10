@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together the flour, sugar and salt. Using a box grater, grate the cold butter atop the flour mixture. Working quickly and using your hands, break the butter bits into the flour until they're evenly distributed and resemble the size of small peas.",
+        "Add 4 tablespoons of water and mix. The mixture will be shaggy at this point. From here, add 1 tablespoon of water at a time until the dough comes together (generally about 3 additional tablespoons). Flour a work surface and dump the dough onto it. Knead a few times until it comes together. Form dough into a disk. Wrap the disk in plastic wrap and transfer to the refrigerator to chill for at least 1 hour, ideally overnight.",
+        "Just before the dough is ready to remove from the fridge, mix together the filling. In a medium bowl, toss together the pear slices, brown sugar, cocoa powder, coffee grounds, vanilla extract and salt.",
+        "Remove the disk of dough from the refrigerator and allow to come to room temperature for 10 minutes. Liberally flour a work surface and rolling pin. Begin to roll the dough to a 16-inch round, being sure to rotate it every so often to avoid sticking, Using the bottom of a bowl or plate that measures about 6 inches in diameter, cut out 3 circles. Re-roll the scraps to get 1 additional circle.",
+        "Arrange the pears slices neatly in a circular pattern in the center of each of the pie crust rounds, leaving about 1 1/2 inch clear at the edges. Fold over the edges to cover about 1/2 inch of the filling. Repeat with the remaining rounds. Transfer the galettes to a baking sheet lined with Reynolds(R) Parchment Paper and place in the freezer to chill for 15 minutes. Meanwhile, preheat your oven to 400 degrees F.",
+        "Lastly, brush the pie crust edges with the egg wash and sprinkle with turbinado sugar. Transfer to the oven to bake for 20 to 25 minutes, until the edges are golden brown. Check on the galettes periodically. If at any time the crusts' edges are getting too brown, take a piece of Reynolds Wrap(R) Aluminum Foil and tent over the edges. When the edges are golden brown, remove from the oven. Serve warm with a dollop of whipped cream or a scoop of your favorite vanilla ice cream."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2579527.jpg",
+    "ingredients": [
+        "Crust:",
+        "1 1/2 cups all-purpose flour",
+        "1 1/2 teaspoons white granulated sugar",
+        "1 teaspoon fine sea salt",
+        "1/2 cup unsalted butter, frozen",
+        "7 tablespoons ice-cold water, or more as needed, divided",
+        "1 large egg, beaten (for egg wash)",
+        "1 tablespoon turbinado sugar",
+        "Reynolds Wrap\u00ae Aluminum Foil",
+        "Reynolds\u00ae Parchment Paper",
+        "Filling:",
+        "2 Bartlett pears, cored and thinly sliced",
+        "1/4 cup brown sugar",
+        "1 teaspoon cocoa powder",
+        "1 tablespoon finely ground coffee beans",
+        "1/2 teaspoon vanilla extract",
+        "1 pinch salt",
+        "Whipped cream or vanilla ice cream, for serving"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coffee-Dusted Pear Galette",
     "url": "http://allrecipes.com/recipe/244894/coffee-dusted-pear-galette/"
 }

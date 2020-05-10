@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x9-inch baking dish.",
+        "Mix milk, peanut butter, applesauce, egg, honey, apple, apricots, dates, and nuts together in a large bowl until well-combined. Stir in oats, cinnamon, nutmeg, and baking soda until evenly distributed. Spread mixture into prepared baking dish.",
+        "Bake in preheated oven until a knife inserted into the center comes out clean, 35 to 40 minutes. Cool in the pans for 10 minutes before cutting into 12 bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3805958.jpg",
+    "ingredients": [
+        "\u2154 cup skim milk",
+        "\u2154 cup peanut butter",
+        "\u00bc cup applesauce",
+        "1  large egg",
+        "2 tablespoons honey",
+        "1  apple, finely chopped",
+        "7  dried apricots, chopped",
+        "8  dates, pitted and chopped",
+        "\u00bd cup chopped mixed nuts",
+        "2\u2009\u00bc cups old-fashioned rolled oats",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon baking soda"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Everything Breakfast Bars",
     "url": "http://allrecipes.com/recipe/245817/everything-breakfast-bars/"
 }

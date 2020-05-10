@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C.)",
+        "In a large bowl, combine apples, cinnamon, nutmeg, white sugar and 1/2 cup baking mix. Stir together the milk and eggs and mix into apple mixture, Pour filling into pie plate and dot with butter.",
+        "To make the Topping:  In a large bowl, combine 1 cup baking mix, walnuts, brown sugar and margarine. Mix until crumbly and sprinkle over top of apples.",
+        "Bake in the preheated oven for 60 minutes, or until apples are cooked and topping is golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1108073.jpg",
+    "ingredients": [
+        "6 cups apples - peeled, cored and sliced",
+        "1\u2009\u00bc teaspoons ground cinnamon",
+        "\u00bc teaspoon ground nutmeg",
+        "1 cup white sugar",
+        "\u00bd cup buttermilk baking mix",
+        "\u00be cup milk",
+        "2  eggs",
+        "2 tablespoons butter, softened",
+        "1 cup buttermilk baking mix",
+        "\u00bd cup chopped walnuts",
+        "\u2153 cup dark brown sugar",
+        "3 tablespoons margarine, chilled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grammie's No-Crust Apple Pie",
     "url": "http://allrecipes.com/recipe/24117/grammies-no-crust-apple-pie/"
 }

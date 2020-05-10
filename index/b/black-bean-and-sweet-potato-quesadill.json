@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sweet potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until very tender, about 15 minutes. Drain and transfer to a bowl. Mash sweet potatoes and mix in cilantro, chili powder, and salt.",
+        "Place corn in a microwave-safe bowl and microwave on high until warmed, 1 to 2 minutes.",
+        "Spread 1/4 cup sweet potato mixture onto 1 tortilla; cover with 1/4 cup black beans and 1 tablespoon corn. Sprinkle 1/4 cup Cheddar cheese atop corn; cover with a tortilla. Repeat with remaining tortillas and fillings.",
+        "Spray a frying pan with cooking spray and place over medium heat; cook 1 quesadilla in the hot pan until cheese is melted  and beans are heated through, 3 to 4 minutes per side. Repeat with remaining quesadillas; slice into quarters."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1005697.jpg",
+    "ingredients": [
+        "1 large sweet potato, peeled and diced",
+        "1 teaspoon chopped fresh cilantro",
+        "1/4 teaspoon chili powder",
+        "1/2 teaspoon salt",
+        "1/4 cup frozen corn",
+        "1 (19 ounce) can black beans, drained and rinsed",
+        "8 (8 inch) flour tortillas",
+        "1 cup shredded Cheddar cheese",
+        "cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Black Bean and Sweet Potato Quesadillas",
     "url": "http://allrecipes.com/recipe/231880/black-bean-and-sweet-potato-quesadill/"
 }

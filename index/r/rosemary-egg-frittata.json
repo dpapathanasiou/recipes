@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat 3 tablespoons of olive oil over medium heat in an oven-safe skillet, and cook and stir the onion and garlic until translucent, about 5 minutes. Stir in the green peppers, and cook and stir until they have begun to soften, 5 more minutes. Pour the eggs over the vegetables, and stir in the basil, rosemary, salt, and pepper. Reduce the heat to medium-low, let the eggs sit over the heat until they have started to set, about 10 minutes.",
+        "Transfer the skillet to the preheated oven and cook the frittata until fully set, about 15 minutes.",
+        "While the frittata is baking, heat 1 cup of olive oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C). Deep-fry the sweet potato slices, a layer at a time, until golden brown and crisp, about 5 minutes. Remove with a slotted spoon, and drain on paper towels. Top baked frittata with the fried sweet potato slices to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/672682.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 small red onion, chopped",
+        "3 cloves garlic, chopped",
+        "2 green bell peppers, diced",
+        "12 eggs, beaten",
+        "1/2 cup chopped fresh basil leaves",
+        "4 sprigs fresh rosemary, leaves removed and chopped",
+        "1 teaspoon salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1 cup olive oil for frying",
+        "1 sweet potato, peeled and cut into thin matchsticks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rosemary Egg Frittata",
     "url": "http://allrecipes.com/recipe/201917/rosemary-egg-frittata/"
 }

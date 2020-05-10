@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).  Crumble the bread slice into crumbs and set aside.  Grease an 8x8 inch baking dish.",
+        "Thoroughly mix ground buffalo meat, onion, egg, ground mustard, tomatoes, salt, pepper, and bread crumbs in a large bowl.",
+        "Form the meat mixture into a loaf shape about 8x4 inches and place into the middle of the baking dish.  Apply ketchup to the top and sides of the meatloaf.",
+        "Bake in preheated oven until meat is no longer pink and ketchup forms a glaze over the meatloaf, 1 1/2 hours.  Let stand 10 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/197807.jpg",
+    "ingredients": [
+        "1 slice multigrain bread",
+        "1 pound ground buffalo meat",
+        "1 onion, diced",
+        "1 egg, lightly beaten",
+        "1 teaspoon mustard powder",
+        "3/4 cup canned diced tomatoes, drained",
+        "1 teaspoon salt",
+        "1 dash ground black pepper",
+        "1/3 cup ketchup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ellen's Buffalo Meatloaf",
     "url": "http://allrecipes.com/recipe/167087/ellens-buffalo-meatloaf/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan combine teriyaki sauce, sherry, garlic, ginger, and sesame oil. Bring to a boil. Set the marinade aside to cool for 10 minutes.",
+        "Place fish in a shallow baking dish. Pour 1/2 of the marinade over the fish. Flip the fish over and pour the remaining marinade on the fish. Coat entire fish with marinade. Refrigerate the fish for 1 1/2 hours, turning the fish over often.",
+        "Grill the fish over medium-high heat for 4 minutes. Flip the fish over and grill it another 4 minutes. Fish should flake easily with a fork when done. Serve hot!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/356916.jpg",
+    "ingredients": [
+        "3/4 cup teriyaki sauce",
+        "2/3 cup dry sherry",
+        "4 teaspoons minced garlic",
+        "2 teaspoons minced fresh ginger root",
+        "1 teaspoon sesame oil",
+        "6 (6 ounce) swordfish steaks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ginger Swordfish",
     "url": "http://allrecipes.com/recipe/12822/ginger-swordfish/"
 }

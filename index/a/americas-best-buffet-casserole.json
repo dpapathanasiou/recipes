@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Spread the dried potatoes in the bottom of an ungreased 9x13 inch baking dish. Cover with a layer of sausages. Mix together the condensed soup, milk and butter; pour over the ingredients in the dish. Layer in the cheddar cheese, cubed ham and mushrooms. Dot with cream cheese cubes, and sprinkle with dried chives.",
+        "Bake uncovered for 30 minutes in the preheated oven. Sprinkle the French fried onions over the top, and return to the oven for an additional 15 minutes, or until browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1794&h=939&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F31074.jpg",
+    "ingredients": [
+        "1 (5.5 ounce) package au gratin instant potato mix",
+        "1 (16 ounce) package cocktail wieners, sliced lengthwise",
+        "1\u2009\u00bd cups milk",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "2 tablespoons margarine or butter, melted",
+        "1 (8 ounce) package shredded sharp Cheddar cheese",
+        "8 ounces cubed cooked ham",
+        "1 (4.5 ounce) can sliced mushrooms, drained",
+        "1 (8 ounce) package cream cheese, diced",
+        "2 tablespoons dried chives",
+        "1 (6 ounce) can French-fried onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "America's Best Buffet Casserole",
     "url": "http://allrecipes.com/recipe/58308/americas-best-buffet-casserole/"
 }

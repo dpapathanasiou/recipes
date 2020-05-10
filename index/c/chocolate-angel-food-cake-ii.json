@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). If it does not have a removable bottom, line a 9 inch tube pan with parchment paper.  Sift together the flour, cocoa and 3/4 cup of the sugar.  Set aside.  Measure 3 tablespoons of the flour mixture and toss with the grated chocolate.",
+        "In a large bowl, using an electric mixer set at low speed, beat egg whites until foamy.  Increase mixer speed to medium, stir in cream of tartar and salt, and continue to beat until egg whites form soft peaks.  Gradually mix in the remaining 3/4 cup sugar and beat until stiff peaks form.  Stir in the vanilla and lemon juice.",
+        "Gently fold the flour mixture into the beaten egg whites, then fold in the grated chocolate, stirring just until no white streaks remain.",
+        "Gently scrape the batter into the prepared pan.  Smooth the surface of the batter and tap the pan lightly to remove any air bubbles.  Bake in center of the preheated oven for 60 minutes, or until the surface springs back when touched.  Cool completely, and sprinkle with confectioners' sugar before serving, if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F204031.jpg",
+    "ingredients": [
+        "\u00be cup cake flour",
+        "\u00bc cup unsweetened cocoa powder",
+        "1\u2009\u00bd cups white sugar",
+        "3 (1 ounce) squares semisweet chocolate, grated",
+        "12  egg whites",
+        "1 teaspoon cream of tartar",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon vanilla extract",
+        "1\u2009\u00bd teaspoons lemon juice",
+        "confectioners' sugar for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Angel Food Cake II",
     "url": "http://allrecipes.com/recipe/23733/chocolate-angel-food-cake-ii/"
 }

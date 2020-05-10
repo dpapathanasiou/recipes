@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a skillet over medium heat, brown the ground beef with onions until no pink shows on the beef; drain.  Mix in green pepper and mushrooms and cook for a few minutes.  Add tomatoes with juice, spaghetti and water; stir.  Add Italian seasoning, salt and pepper.  Cook about 15 minutes or until spaghetti is tender, stirring occasionally.  Add cheese and stir until melted"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1104502.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1 cup chopped onions",
+        "\u00bd cup chopped green bell peppers",
+        "1 cup sliced mushrooms",
+        "1 (28 ounce) can whole peeled tomatoes, with liquid",
+        "12 ounces spaghetti, broken into pieces",
+        "1 cup water",
+        "1\u2009\u00bd teaspoons Italian seasoning",
+        "salt and pepper to taste",
+        "1 cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaghetti Skillet Dinner",
     "url": "http://allrecipes.com/recipe/23604/spaghetti-skillet-dinner/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend yogurt, orange, banana, strawberries, ice, vanilla extract, and flax seeds together in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2053863.jpg",
+    "ingredients": [
+        "1 cup yogurt",
+        "1 orange, peeled and broken into sections",
+        "1 banana, broken into chunks",
+        "1/4 cup strawberries, or more to taste",
+        "1/4 cup ice cubes, or as needed",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon ground flax seeds (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simple Breakfast Smoothie",
     "url": "http://allrecipes.com/recipe/241021/simple-breakfast-smoothie/"
 }

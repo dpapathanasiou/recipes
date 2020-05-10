@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch casserole dish.",
+        "Bring rice and water to a boil in a pot. Cover, reduce heat to low, and simmer 15 minutes.",
+        "Stir 1 can chicken broth and the peas into rice. Cover, and continue cooking 5 minutes. Transfer to prepared casserole dish. Pour remaining broth over rice mixture. Sprinkle evenly with cheese and top with crushed crackers.",
+        "Bake 40 minutes in the preheated oven, until bubbly and golden brown."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups uncooked long grain white rice",
+        "6 cups water",
+        "2 (14 ounce) cans chicken broth",
+        "2 (15 ounce) cans sweet peas, drained",
+        "1 (8 ounce) package shredded Cheddar cheese",
+        "1 cup crushed buttery round crackers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Peasy Rice Bake",
     "url": "http://allrecipes.com/recipe/129065/easy-peasy-rice-bake/"
 }

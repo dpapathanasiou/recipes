@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Scoop out flesh from the zucchini halves, leaving shells about 1/8 inch thick. (Zucchini flesh may be saved for another use.)",
+        "Place tomatoes, 1/4 cup olive oil, salt, black pepper, garlic, basil leaves, Italian herb seasoning, and sugar into a food processor and pulse until blended, about 1 minute. Set mixture aside.",
+        "Heat 3 tablespoons olive oil in a large skillet over medium heat; cook and stir onion until translucent, about 5 minutes. Add sausage to skillet and cook, stirring often, until browned and crumbly, about 10 minutes. Stir in the tomato mixture and heat until simmering; stir in Parmesan cheese.",
+        "Place hollowed-out zucchini shells into the bottom of a large slow cooker, trimming them to fit if necessary. Spoon the sausage mixture into the shells, cover the cooker, and cook on High until tender, about 6 hours. Remove cover and spread a layer of mozzarella cheese over each stuffed zucchini. Cover and cook on High until cheese has melted, about 10 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3306&h=1731&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F892760.jpg",
+    "ingredients": [
+        "2 large zucchini, trimmed and halved lengthwise",
+        "4  ripe tomatoes, cored",
+        "\u00bc cup olive oil",
+        "\u00be teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "1 teaspoon crushed garlic",
+        "4  fresh basil leaves",
+        "1 teaspoon dried Italian herb seasoning",
+        "1 teaspoon white sugar (optional)",
+        "3 tablespoons olive oil",
+        "1  onion, diced",
+        "1 pound bulk sweet Italian sausage",
+        "\u00bc cup grated Parmesan cheese",
+        "1 cup grated mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Stuffed Zucchini",
     "url": "http://allrecipes.com/recipe/228674/slow-cooker-stuffed-zucchini/"
 }

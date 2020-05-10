@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan, bring 3 cups water to a boil, and stir in the couscous. Remove from heat, cover, and let sit 5 minutes.",
+        "Heat the olive oil in a skillet over medium heat, and saute the onion and green pepper about 5 minutes, until tender. Mix in the garlic, and continue to cook and stir about 2 minutes. Mix in the artichoke hearts with reserved liquid, capers with reserved liquid, and olives. Stir in the tomatoes, wine, lemon juice, and 1 cup water (or enough to attain desired thickness). Season with sumac powder, red pepper, basil, cumin, ginger, and pepper.",
+        "Bring the mixture to a boil, and mix in the fish chunks. Reduce heat, and simmer 10 minutes, or until the fish is easily flaked with a fork. Serve over couscous."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/216234.jpg",
+    "ingredients": [
+        "3 cups water",
+        "1 1/2 cups dry couscous",
+        "2 tablespoons olive oil",
+        "1 small white onion, chopped",
+        "1 green bell pepper, chopped",
+        "2 cloves garlic, minced",
+        "1 cup marinated artichoke hearts, liquid reserved",
+        "2 teaspoons capers, liquid reserved",
+        "12 small green olives",
+        "1 (14.5 ounce) can chopped stewed tomatoes, drained",
+        "2 tablespoons white wine (optional)",
+        "1 tablespoon lemon juice",
+        "1 cup water",
+        "2 teaspoons sumac powder",
+        "1 1/2 teaspoons crushed red pepper flakes",
+        "1 teaspoon dried basil",
+        "1 teaspoon cumin",
+        "1 teaspoon minced fresh ginger root",
+        "ground black pepper to taste",
+        "1 pound tilapia fillets, cut into chunks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkish Fish Stew",
     "url": "http://allrecipes.com/recipe/69274/turkish-fish-stew/"
 }

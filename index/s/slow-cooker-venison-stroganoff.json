@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat canola oil in a large skillet over medium-high heat.  Add the venison cubes and fry on all sides until well browned, then place into a slow cooker.",
+        "Add the bay leaf, onion, and mushroom to the slow cooker. Pour in the beef broth, and season to taste with salt and pepper.",
+        "Set slow cooker on Low, and cook for 8 to 10 hours.",
+        "Add the noodles, and water or additional beef broth if needed.  Cover and cook for 30 minutes.  Once the noodles are done, stir in the sour cream and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4477579.jpg",
+    "ingredients": [
+        "1 tablespoon canola oil",
+        "1 1/2 pounds venison stew meat, cut into 1 inch cubes",
+        "1 bay leaf",
+        "1 small onion, thinly sliced",
+        "1 (8 ounce) jar sliced mushrooms, drained",
+        "2 (14 ounce) cans low-sodium beef broth",
+        "Salt and pepper to taste",
+        "1/2 (16 ounce) package whole wheat noodles",
+        "1 (8 ounce) container sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Venison Stroganoff",
     "url": "http://allrecipes.com/recipe/112838/slow-cooker-venison-stroganoff/"
 }

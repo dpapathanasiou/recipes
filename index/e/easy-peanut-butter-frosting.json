@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine confectioners' sugar, peanut butter, melted butter, milk, and vanilla extract in a large bowl. Mix with a wooden spoon until well-combined and smooth, 2 to 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7591420.jpg",
+    "ingredients": [
+        "1 1/2 cups confectioners' sugar",
+        "1 cup peanut butter",
+        "6 tablespoons butter, melted",
+        "1/4 cup milk",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Peanut Butter Frosting",
     "url": "http://allrecipes.com/recipe/245392/easy-peanut-butter-frosting/"
 }

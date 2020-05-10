@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat sugar and syrup together in heavy pan until boiling. Add peanut butter. Mix until well blended. Pour over corn flake cereal , coating the cereal well.",
+        "Press into a 9 x 13 inch pan. Melt chocolate chips in a small sauce pan. Spread over batter. Chill for 20 -25 minute. Cut into bars"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F562713.jpg",
+    "ingredients": [
+        "\u2154 cup white sugar",
+        "\u2154 cup white corn syrup",
+        "1 (16 ounce) jar crunchy peanut butter",
+        "3 cups cornflakes cereal",
+        "2 cups milk chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Fingers III",
     "url": "http://allrecipes.com/recipe/10925/peanut-butter-fingers-iii/"
 }

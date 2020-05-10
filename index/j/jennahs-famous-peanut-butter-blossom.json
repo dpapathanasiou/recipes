@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix baking mix, sweetened condensed milk, peanut butter, and vanilla extract together in a bowl. Roll dough into 1-inch balls.",
+        "Pour sugar onto a plate. Roll balls in sugar until completely coated; arrange on a baking sheet.",
+        "Bake in the preheated oven until edges are lightly browned, about 8 minutes. Press candy kiss into the center of each cookie. Transfer cookies to a wire rack to cool."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6082041.jpg",
+    "ingredients": [
+        "2 cups baking mix (such as Bisquick \u00ae)",
+        "1 (14 ounce) can sweetened condensed milk (such as Eagle Brand\u00ae)",
+        "3/4 cup peanut butter (such as Jif\u00ae)",
+        "1 teaspoon vanilla extract",
+        "1/4 cup white sugar, or as needed",
+        "30 unwrapped milk chocolate candy kisses (such as Hershey's Kisses\u00ae), or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jennah's Famous Peanut Butter Blossoms",
     "url": "http://allrecipes.com/recipe/235986/jennahs-famous-peanut-butter-blossom/"
 }

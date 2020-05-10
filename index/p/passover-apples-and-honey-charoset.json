@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, mix the honey, cinnamon, apples, grape juice, and walnuts together until thoroughly combined."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2443&h=1279&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F971854.jpg",
+    "ingredients": [
+        "1\u2009\u00bd tablespoons honey",
+        "\u00bc cup ground cinnamon, or to taste",
+        "5 cups apples - peeled, cored and chopped",
+        "2 cups grape juice",
+        "1 cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Passover Apples and Honey (Charoset)",
     "url": "http://allrecipes.com/recipe/217287/passover-apples-and-honey-charoset/"
 }

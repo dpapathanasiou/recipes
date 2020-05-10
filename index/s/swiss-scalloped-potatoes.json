@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease a shallow 3-quart baking dish.",
+        "Layer about 1/3 the potatoes into the bottom of the baking dish; top with layers of about 1/3 each of onion, garlic, bacon, and Swiss cheese, respectively. Season the layers with 1/4 teaspoon salt and about 1/3 the black pepper. Repeat the onion, garlic, bacon, and Swiss cheese layering. Top with the remaining potatoes, onion, garlic, bacon, salt, and pepper; reserve the remaining Swiss cheese for later. Pour chicken broth evenly over the dish; dot with butter chunks.",
+        "Bake in preheated oven for 1 hour. Top with remaining Swiss cheese and continue baking until the cheese is melted and the broth absorbed, about 30 minutes more. Cool 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1027827.jpg",
+    "ingredients": [
+        "5  yellow potatoes, peeled and thinly sliced, divided",
+        "1 small onion, thinly sliced, divided",
+        "3 cloves garlic, minced, divided",
+        "8 slices cooked bacon, crumbled, divided",
+        "2 cups shredded Swiss cheese, divided",
+        "\u00be teaspoon salt, divided",
+        "\u00bc teaspoon ground black pepper, divided",
+        "1 (14.5 ounce) can chicken broth",
+        "2 tablespoons butter, cut into chunks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swiss Scalloped Potatoes",
     "url": "http://allrecipes.com/recipe/233062/swiss-scalloped-potatoes/"
 }

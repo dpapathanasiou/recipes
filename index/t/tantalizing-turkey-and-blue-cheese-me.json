@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a rimmed baking sheet with aluminum foil and set aside.",
+        "Pulse garlic cloves in a food processor until minced. Add onion and jalapeno, and pulse until minced again. Scrape the onion mixture into a large bowl along with the turkey, blue cheese, bread crumbs, egg whites, and olive oil. Season with soy sauce, dried parsley, Italian seasoning, pepper, and chili powder. Mix well.",
+        "Roll the mixture into 2 inch balls, and place onto prepared baking sheet. Bake in preheated oven until golden brown, and no longer pink in the center, about 25 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/482385.jpg",
+    "ingredients": [
+        "4 cloves garlic",
+        "1/2 onion, cut into chunks",
+        "2 jalapeno peppers, halved and seeded",
+        "1 pound ground turkey",
+        "3 tablespoons blue cheese",
+        "1/2 cup bread crumbs",
+        "3 egg whites",
+        "3 tablespoons olive oil",
+        "1 1/2 tablespoons soy sauce",
+        "1 tablespoon dried parsley",
+        "1 tablespoon Italian seasoning",
+        "1 tablespoon ground black pepper",
+        "1 teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tantalizing Turkey and Blue Cheese Meatballs",
     "url": "http://allrecipes.com/recipe/148910/tantalizing-turkey-and-blue-cheese-me/"
 }

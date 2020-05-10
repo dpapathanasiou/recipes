@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss the cucumbers, dried shrimp, beans, and tomatoes together in a bowl.",
+        "Stir the Thai chilies, palm sugar, fish sauce, and lime juice together in a small bowl; pour over the cucumber mixture. Toss to combine. Adjust seasoning to your taste. Sprinkle chopped peanuts over the mixture to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5106737.jpg",
+    "ingredients": [
+        "3  cucumbers - peeled, seeded, and grated",
+        "3 tablespoons crushed dried shrimp",
+        "\u2154 pound long beans, sliced thin and mashed",
+        "5  cherry tomatoes, halved",
+        "5  Thai chilies, sliced thin",
+        "1 tablespoon palm sugar",
+        "2 tablespoons fish sauce",
+        "juice of 1 lime, or more to taste",
+        "3 tablespoons roasted peanuts, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yam Taeng (Spicy Cucumber Salad)",
     "url": "http://allrecipes.com/recipe/213923/yam-taeng-spicy-cucumber-salad/"
 }

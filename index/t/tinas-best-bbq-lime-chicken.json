@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wash chicken parts. Pat dry thoroughly. Pierce all pieces with a fork. In a small bowl, combine the seasoning salt, ground black pepper and cayenne pepper. Rub all chicken parts with the spices, then place the chicken into a large, resealable plastic bag.",
+        "In a separate medium bowl, combine the lime juice, olive oil, garlic and cilantro. Mix well and pour into the bag with the chicken. Seal and let marinate in the refrigerator for at least 2 hours.",
+        "Preheat an outdoor grill for low heat and lightly oil grate.",
+        "Remove chicken from the refrigerator and pour marinade into a small saucepan over medium high heat. Bring to a boil for about 1 to 2 minutes.",
+        "Grill chicken for about 1 1/2 hours. Brush with the marinade every 15 minutes. Chicken is done when juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F227036.jpg",
+    "ingredients": [
+        "1 (4 pound) chicken, cut into pieces",
+        "2 teaspoons seasoning salt",
+        "2 teaspoons ground black pepper",
+        "\u00bd teaspoon cayenne pepper",
+        "1\u2009\u00bd cups fresh lime juice",
+        "1 cup olive oil",
+        "8 cloves garlic, minced",
+        "\u00bd cup chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tina's Best BBQ Lime Chicken",
     "url": "http://allrecipes.com/recipe/17727/tinas-best-bbq-lime-chicken/"
 }

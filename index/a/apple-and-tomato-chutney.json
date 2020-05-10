@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place apples and water in a large saucepan. Bring to a boil, reduce heat, and cook 25 minutes, or until apples are tender, stirring occasionally. Add more water as necessary to keep the apples simmering.",
+        "Wrap mustard seed in cheesecloth, and place with apples. Mix tomatoes, onions, garlic, sultanas, sugar, curry powder, cayenne pepper, salt and vinegar into saucepan. Stir until sugar has dissolved.",
+        "Bring the mixture to a boil. Reduce heat, and simmer 3 hours, stirring occassionally, until a thick chutney remains. Remove and discard wrapped mustard seed. Seal chutney in sterile containers until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6443512.jpg",
+    "ingredients": [
+        "2 pounds apples - peeled, cored and sliced",
+        "2 cups water",
+        "1 tablespoon mustard seed",
+        "2 pounds tomatoes, sliced",
+        "2 large onions, chopped",
+        "1 clove garlic, chopped",
+        "1/2 cup sultana raisins",
+        "3/4 cup white sugar",
+        "5 teaspoons curry powder",
+        "1 teaspoon cayenne pepper",
+        "4 teaspoons salt",
+        "2 1/2 cups malt vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple and Tomato Chutney",
     "url": "http://allrecipes.com/recipe/22505/apple-and-tomato-chutney/"
 }

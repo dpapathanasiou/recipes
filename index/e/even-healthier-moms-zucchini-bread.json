@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease and flour two 8x4-inch loaf pans.",
+        "Mix flour, wheat bran, cinnamon, baking powder, baking soda, and salt together in the bowl of a stand mixer using the whisk attachment. Beat brown sugar, applesauce, eggs, and vanilla extract together in a separate bowl; fold in zucchini. Pour zucchini mixture into flour mixture and mix well; pour into prepared loaf pans.",
+        "Bake in the preheated oven until a toothpick inserted in the center of a loaf comes out clean, about 50 minutes. Cool bread in pans on a wire rack for 20 minutes; remove bread from pans and completely cool."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "3 cups whole wheat flour",
+        "1/4 cup wheat bran (such as Bob's Red Mill\u00ae)",
+        "1 tablespoon ground cinnamon",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon kosher salt",
+        "2 cups dark brown sugar",
+        "1 cup unsweetened applesauce",
+        "3 eggs",
+        "1 tablespoon pure vanilla extract",
+        "2 cups shredded zucchini"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Even Healthier Mom's Zucchini Bread (No Nuts)",
     "url": "http://allrecipes.com/recipe/239726/even-healthier-moms-zucchini-bread/"
 }

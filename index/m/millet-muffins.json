@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Grease 16 muffin cups.",
+        "In a large bowl, mix the whole wheat flour, millet flour, baking powder, baking soda, and salt. In a separate bowl, mix the buttermilk, egg, vegetable oil, and honey. Stir buttermilk mixture into the flour mixture just until evenly moist. Transfer batter to the prepared muffin cups.",
+        "Bake 15 minutes in the preheated oven, or until a toothpick inserted in the center of a muffin comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F788600.jpg",
+    "ingredients": [
+        "2\u2009\u00bc cups whole wheat flour",
+        "\u2153 cup millet",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 cup buttermilk",
+        "1  egg, lightly beaten",
+        "\u00bd cup vegetable oil",
+        "\u00bd cup honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Millet Muffins",
     "url": "http://allrecipes.com/recipe/77360/millet-muffins/"
 }

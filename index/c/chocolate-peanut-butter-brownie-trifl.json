@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease one 9x13-inch baking pan and two 9-inch round cake pans.",
+        "Combine brownie mix, 2/3 cup vegetable oil, 2 eggs, and 1/4 cup water in a large bowl. Mix with a wooden spoon until well-blended, about 3 minutes. Pour into 9x13-inch baking pan and spread evenly.",
+        "Bake brownies in the preheated oven until a toothpick inserted into the center comes out clean or with a few moist crumbs attached, 28 to 31 minutes. Cool completely, about 30 minutes. Cut into bite-size pieces.",
+        "Combine cake mix, 1 cup water, 3 eggs, and 1/3 cup oil in another large bowl. Beat with an electric mixer on medium speed until well-blended, about 2 minutes. Divide batter between 9-inch round cake pans, smoothing tops.",
+        "Bake cakes in the preheated oven until a toothpick inserted into the centers comes out clean, 29 to 33 minutes. Cool in the pans, 10 to 15 minutes, before transferring to wire racks to cool completely, about 20 minutes more. Crumble cakes into large crumbs.",
+        "Beat milk, peanut butter, and pudding mix together with an electric mixer on medium speed until blended, about 2 minutes. Let sit until thickened, about 10 minutes.",
+        "Place 1/3 of the brownie pieces in the bottom of a large trifle or punch bowl. Top with 1/3 of the cake crumbs, 1/3 of the pudding, and 1/3 of the whipped topping. Continue layering remaining brownie pieces, cake crumbs, pudding, and whipped topping, ending with whipped topping.",
+        "Cut each chocolate-covered peanut butter cup into thirds so that you have long strips. Decorate sides and top of the trifle with chocolate strips."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7957289.jpg",
+    "ingredients": [
+        "Brownies:",
+        "1 (18.25 ounce) package brownie mix (such as Betty Crocker\u00ae)",
+        "2/3 cup vegetable oil",
+        "2 eggs",
+        "1/4 cup water",
+        "Chocolate Cake:",
+        "1 (15.25 ounce) package chocolate cake mix (such as Pillsbury \u00ae Moist Supreme\u00ae)",
+        "1 cup water",
+        "3 eggs",
+        "1/3 cup vegetable oil",
+        "4 cups milk",
+        "1 (16 ounce) jar peanut butter",
+        "2 (3.5 ounce) packages instant chocolate pudding mix",
+        "2 (8 ounce) containers whipped topping",
+        "12 chocolate-covered peanut butter cups (such as Reese's\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Peanut Butter Brownie Trifle",
     "url": "http://allrecipes.com/recipe/245590/chocolate-peanut-butter-brownie-trifl/"
 }

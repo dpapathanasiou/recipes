@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select cycle; press Start."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F845901.jpg",
+    "ingredients": [
+        "1 (.25 ounce) package active dry yeast",
+        "1\u2009\u00bc cups warm skim milk",
+        "2 tablespoons margarine, melted",
+        "3 tablespoons molasses",
+        "1 teaspoon white sugar",
+        "3 cups bread flour",
+        "\u00bd cup wheat bran",
+        "\u00bc cup sunflower seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lisa's Sunflower Bread",
     "url": "http://allrecipes.com/recipe/17875/lisas-sunflower-bread/"
 }

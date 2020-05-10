@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together the water, lime juice, and goat meat in a large container. Let stand for 10 minutes, then drain the meat in a colander, and squeeze out as much water as possible.",
+        "Heat the canola oil in a large skillet until smoking over medium-high heat. Add the drained goat meat, and cook until browned all over, about 7 minutes. Stir in the onion and bell pepper, cook until the onion has softened, about 3 minutes, then stir in the tomato paste. Pour in the water, vinegar, and soy sauce; season with nutmeg, paprika, salt, and pepper.",
+        "Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until the meat is tender, about 1 1/2 hours. Stir occasionally and add more water if needed to prevent sticking."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1129569.jpg",
+    "ingredients": [
+        "4 cups cool water",
+        "3 tablespoons lime juice",
+        "2 pounds goat stew meat, cut into 1-inch cubes",
+        "2 tablespoons vegetable oil",
+        "1 onion, diced",
+        "1 red bell pepper, diced",
+        "1 tablespoon tomato paste",
+        "1 cup water",
+        "1 tablespoon distilled white vinegar",
+        "1 tablespoon sweet soy sauce",
+        "1 teaspoon nutmeg",
+        "1 teaspoon paprika",
+        "Salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kabritu Stoba (Dutch Antilles Goat Stew)",
     "url": "http://allrecipes.com/recipe/108659/kabritu-stoba-dutch-antilles-goat-st/"
 }

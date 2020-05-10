@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the avocado, mango, and grapefruit into a mixing bowl. Squeeze the lime over the fruit, and stir gently until mixed."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2467251.jpg",
+    "ingredients": [
+        "1 Haas avocado, cut into bite-sized pieces",
+        "1 mango, cut into bite-sized pieces",
+        "1 grapefruit, cut into bite-sized pieces",
+        "1/2 lime"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Three Amigos Salad",
     "url": "http://allrecipes.com/recipe/213937/three-amigos-salad/"
 }

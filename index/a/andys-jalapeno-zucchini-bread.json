@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease two 9x5x3-inch loaf pans.",
+        "Whisk flour, white sugar, brown sugar, cinnamon, salt, baking soda, baking powder, and powdered jalapeno pepper together in a bowl. Add vegetable oil, applesauce, and eggs to flour mixture; beat until until batter is smooth. Fold zucchini and fresh jalapenos into batter. Pour batter into prepared loaf pans.",
+        "Bake in the preheated oven until a toothpick inserted into the center of the bread comes out clean, about 1 hour. Transfer to a wire rack to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2029&h=1062&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3180240.jpg",
+    "ingredients": [
+        "3 cups all-purpose flour",
+        "1 cup white sugar",
+        "1 cup brown sugar",
+        "3\u2009\u00bd teaspoons ground cinnamon",
+        "1 teaspoon salt",
+        "1 teaspoon baking soda",
+        "\u00bc teaspoon baking powder",
+        "\u00bc teaspoon powdered jalapeno pepper",
+        "\u00bd cup vegetable oil",
+        "\u00bd cup applesauce",
+        "3  eggs",
+        "2 teaspoons vanilla extract",
+        "2 cups shredded zucchini",
+        "2  fresh jalapeno peppers, chopped with seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Andy's Jalapeno Zucchini Bread",
     "url": "http://allrecipes.com/recipe/239859/andys-jalapeno-zucchini-bread/"
 }

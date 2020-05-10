@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a 4-quart saucepan over medium heat. Add the onion and cook for 3 minutes, stirring occasionally.",
+        "Stir the rice in the saucepan. Add 1/2 cup broth and cook and stir until it's absorbed. Add the remaining broth, 1/2 cup at a time, stirring until the broth is absorbed before adding more. Stir in the cheese before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6853937.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 large onion, minced",
+        "1 cup uncooked Arborio rice",
+        "1 (32 ounce) carton Swanson\u00ae Tuscan Chicken Flavor Infused Broth, heated",
+        "\u00bd cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tuscan Risotto",
     "url": "http://allrecipes.com/recipe/244594/tuscan-risotto/"
 }

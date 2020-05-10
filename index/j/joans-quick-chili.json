@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium-high heat. Cook and stir beef and garlic in hot oil until completely browned, 5 to 7 minutes.",
+        "Stir kidney beans, onion, and bell pepper with the beef mixture. Pour tomato sauce over the beef mixture; season with chili powder and salt. Stir the mixture so the sauce coats everything, reduce heat to low, and cook, stirring occasionally, until the chili thickens, about 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3457965.jpg",
+    "ingredients": [
+        "2 tablespoons canola oil",
+        "1 pound ground beef",
+        "\u00bd clove garlic, minced",
+        "1 (15 ounce) can kidney beans, undrained",
+        "\u00bd cup chopped onion",
+        "\u00bd  green bell pepper, chopped",
+        "1 (15 ounce) can tomato sauce",
+        "2 teaspoons chili powder",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Joan's Quick Chili",
     "url": "http://allrecipes.com/recipe/240622/joans-quick-chili/"
 }

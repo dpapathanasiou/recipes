@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toast English muffin until golden brown, about 2 minutes. Spread 1 tablespoon peanut butter over each half; arrange banana slices on top. Drizzle honey over banana. Sprinkle chia seeds on top. Serve the 2 halves open-faced."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4418035.jpg",
+    "ingredients": [
+        "1 whole-wheat English muffin, split",
+        "2 tablespoons peanut butter",
+        "1/2 banana, thinly sliced",
+        "2 teaspoons honey",
+        "2 teaspoons chia seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "English Muffin with Peanut Butter, Banana, and Chia Seeds",
     "url": "http://allrecipes.com/recipe/256576/english-muffin-with-peanut-butter-ba/"
 }

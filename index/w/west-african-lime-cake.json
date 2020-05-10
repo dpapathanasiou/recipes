@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 300 degrees F (150 degrees C). Grease and flour an 8x8-inch baking dish.",
+        "Beat sugar and butter together until light and fluffy, about 3 minutes; beat in eggs and lime juice. Stir flour and baking powder into butter mixture until combined. Pour batter into prepared baking dish.",
+        "Bake in preheated oven until brown and toothpick inserted in center comes out clean, about 25 minutes. Garnish with chopped peanuts."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3239994.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "2\u2009\u00bd tablespoons butter, softened",
+        "2  eggs, beaten",
+        "1  lime, juiced",
+        "1\u2009\u00bd cups all-purpose flour",
+        "2\u2009\u00bc teaspoons baking powder",
+        "1 teaspoon chopped peanuts, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "West African Lime Cake",
     "url": "http://allrecipes.com/recipe/244880/west-african-lime-cake/"
 }

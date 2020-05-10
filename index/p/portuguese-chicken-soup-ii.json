@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan, simmer chicken breast in stock with the onion, parsley, lemon zest, and mint sprig until done, about 35 minutes.",
+        "Remove the breast, cool, then strip off the meat and cut into a julienne.",
+        "Strain the broth, return to the pot, and bring to a boil. Add pasta and chopped mint. Season to taste with salt and white pepper. Heat until the pasta is cooked al dente.",
+        "Remove from heat, stir in lemon juice and chicken julienne. Ladle into soup plates and top with lemon slice and mint leaf."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1095313.jpg",
+    "ingredients": [
+        "1 whole bone-in chicken breast, with skin",
+        "1  onion, cut into thin wedges",
+        "4 sprigs fresh parsley",
+        "\u00bd teaspoon lemon zest",
+        "1 sprig fresh mint",
+        "6 cups chicken stock",
+        "\u2153 cup thin egg noodles",
+        "2 tablespoons chopped fresh mint leaves",
+        "salt to taste",
+        "\u00bc teaspoon freshly ground white pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Portuguese Chicken Soup II",
     "url": "http://allrecipes.com/recipe/13180/portuguese-chicken-soup-ii/"
 }

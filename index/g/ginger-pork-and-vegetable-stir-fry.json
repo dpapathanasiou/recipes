@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk soy sauce, sherry, honey, and cornstarch together in a small bowl.  Add pork slices, coat evenly, and set aside.",
+        "Pour Swanson(R) Unsalted Chicken Broth into a small saucepan.  Bring to a boil, simmer until reduced to one and one half cups.  Set aside.",
+        "Heat oil in a large, non-stick skillet over medium high heat. Add ginger and garlic; stir until ginger and garlic are lightly browned and fragrant, 1 or 2 minutes.  Remove with slotted spoon and discard.",
+        "Transfer pork mixture to skillet over medium-high heat, constantly stirring and separating pork slices into a single layer, 3 or 4 minutes. Add reduced broth, stirring quickly to blend with the sauce, about 1 minute. Stir in chili garlic sauce and sesame oil. Add broccoli slaw, water chestnuts, and snow peas, stirring to coat with sauce. Cook to desired crispness, 1 or 2 more minutes.",
+        "Serve over hot steamed rice, and garnish with sesame seeds."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2658994.jpg",
+    "ingredients": [
+        "1/4 cup reduced-sodium soy sauce",
+        "1/4 cup dry sherry",
+        "3 tablespoons honey",
+        "2 tablespoons cornstarch",
+        "3/4 pound boneless pork loin, thinly sliced",
+        "3 cups Swanson\u00ae Unsalted Chicken Broth",
+        "2 tablespoons vegetable oil",
+        "1 (2 inch) piece fresh ginger root, peeled and thinly sliced",
+        "2 cloves garlic, thinly sliced",
+        "1 tablespoon chili garlic sauce",
+        "1 teaspoon sesame oil",
+        "1 (10 ounce) package broccoli coleslaw mix",
+        "1 (8 ounce) can sliced water chestnuts, drained",
+        "1 (6 ounce) package snow peas",
+        "2 cups hot steamed rice, or as needed",
+        "1 teaspoon sesame seeds, for garnish (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ginger Pork and Vegetable Stir-fry",
     "url": "http://allrecipes.com/recipe/245099/ginger-pork-and-vegetable-stir-fry/"
 }

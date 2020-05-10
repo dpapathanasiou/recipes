@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak quinoa in a bowl of water for 20 minutes; drain.",
+        "Heat 1 tablespoon canola oil in a frying pan over medium heat; saute onion, red bell pepper, and garlic until soft, 5 to 10 minutes.",
+        "Combine chicken broth, quinoa, 1/4 cup onion mixture, 1/4 cup sofrito, 1 teaspoon cumin, cilantro, salt, and pepper in a saucepan; bring to a boil. Cover saucepan with a lid, reduce heat, and simmer until quinoa is tender and liquid is absorbed, about 20 minutes. Stir corn into quinoa mixture and cook until corn is warmed, about 5 minutes.",
+        "Heat 1 tablespoon canola oil in a skillet over medium heat; cook and stir chicken, adobo seasoning, garlic powder, 1/2 teaspoon cumin, salt, and pepper together until chicken is no longer pink, 5 to 10 minutes.",
+        "Mix quinoa mixture, remaining onion mixture, black beans, and 1/2 cup sofrito into chicken mixture; cook until heated through, 2 to 3 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4556893.jpg",
+    "ingredients": [
+        "1 cup quinoa",
+        "1 tablespoon canola oil",
+        "1 small onion, chopped",
+        "1  red bell pepper, chopped",
+        "1 head garlic, chopped",
+        "2 cups chicken broth",
+        "\u00bc cup sofrito (such as Goya\u00ae)",
+        "1 teaspoon ground cumin",
+        "1 teaspoon dried cilantro",
+        "salt and ground black pepper to taste",
+        "1 cup frozen corn kernels",
+        "1 tablespoon canola oil",
+        "1 pound ground chicken",
+        "1 teaspoon adobo seasoning",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon ground cumin",
+        "1 (15 ounce) can black beans, drained",
+        "\u00bd cup sofrito (such as Goya\u00ae), or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "What I Did With Quinoa",
     "url": "http://allrecipes.com/recipe/236169/what-i-did-with-quinoa/"
 }

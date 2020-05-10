@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend milk, banana, apricots, yogurt, wheat germ, oat bran, and maple syrup in a blender until smooth and frothy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2074902.jpg",
+    "ingredients": [
+        "1 cup milk",
+        "1 banana, cut into chunks",
+        "2 fresh apricots, peeled and pitted",
+        "1/2 cup plain yogurt",
+        "2 teaspoons wheat germ",
+        "2 teaspoons oat bran",
+        "2 teaspoons maple syrup, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tasty Breakfast Smoothie",
     "url": "http://allrecipes.com/recipe/241022/tasty-breakfast-smoothie/"
 }

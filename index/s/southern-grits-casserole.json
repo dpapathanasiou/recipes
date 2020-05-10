@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a large baking dish.",
+        "Bring water to a boil in a large saucepan, and stir in grits. Reduce heat, cover, and simmer about 5 minutes, until liquid has been absorbed. Mix in 1/2 the butter and 2 cups cheese until melted.",
+        "In a skillet over medium-high heat, cook the sausage until evenly browned. Drain, and mix into the grits. Beat together the eggs and milk in a bowl, and pour into the skillet. Lightly scramble, then mix into the grits.",
+        "Pour the grits mixture into the prepared baking dish. Dot with remaining butter, and top with remaining cheese. Season with salt and pepper.",
+        "Bake 30 minutes in the preheated oven, until lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "6 cups water",
+        "2 cups uncooked grits",
+        "\u00bd cup butter, divided",
+        "3 cups shredded Cheddar cheese, divided",
+        "1 pound ground pork sausage",
+        "12  eggs",
+        "\u00bd cup milk",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Grits Casserole",
     "url": "http://allrecipes.com/recipe/46968/southern-grits-casserole/"
 }

@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a Dutch oven over medium heat; stir in onion, jalepeno peppers, celery, and a pinch of salt. Cook until onions are soft and translucent, 7 to 10 minutes.",
+        "Stir seafood seasoning and cayenne pepper into onion mixture; cook for 30 seconds.",
+        "Sprinkle flour over onion mixture; cook and stir until mixture is slightly thickened, about 2 minutes.",
+        "Pour 2 1/2 cups water, 1/2 pound corn kernels, and 2 ounces crabmeat into the onion mixture; increase heat to medium-high and bring to simmer.",
+        "Place 1 cup water, 1/2 pound corn kernels, and garlic into a blender. Cover and puree until smooth.",
+        "Pour corn puree into the Dutch oven and bring mixture to a boil. Reduce heat to low; simmer until chowder is thicker and the color deepens, about 45 minutes.",
+        "Stir 6 ounces of crabmeat, paprika, and heavy cream into chowder. Season with salt and pepper to taste; garnish with green onions and a pinch of cayenne pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 tablespoons butter",
+        "\u00bd cup diced onion",
+        "\u00bd cup chopped jalapeno peppers",
+        "\u00bd cup diced celery",
+        "1 pinch salt",
+        "\u00bd teaspoon seafood seasoning (such as Old Bay\u00ae)",
+        "\u00bc teaspoon cayenne pepper",
+        "1\u2009\u00bd tablespoons all-purpose flour",
+        "2\u2009\u00bd cups water",
+        "\u00bd pound sweet corn kernels",
+        "2 ounces fresh crabmeat",
+        "1 cup water",
+        "\u00bd pound sweet corn kernels",
+        "2 cloves peeled garlic",
+        "6 ounces fresh crabmeat",
+        "\u00bc cup heavy cream",
+        "1 teaspoon Spanish paprika (preferably sweet)",
+        "1 bunch thinly sliced green onion for garnish",
+        "1 pinch cayenne pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creole Crab and Corn Chowder",
     "url": "http://allrecipes.com/recipe/221269/creole-crab-and-corn-chowder/"
 }

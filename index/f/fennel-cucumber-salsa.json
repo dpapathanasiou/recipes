@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the cucumber, fennel, avocado, red onion, banana peppers, cilantro, honey, lemon juice, salt, and pepper in a bowl. Allow mixture to sit 20 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F249359.jpg",
+    "ingredients": [
+        "1  English cucumber, diced",
+        "1 large fennel bulb, diced",
+        "1  avocado - peeled, pitted, and diced",
+        "\u00bd  red onion, chopped",
+        "\u00bd cup pickled banana peppers, diced",
+        "1 bunch cilantro, chopped",
+        "2 tablespoons honey",
+        "3 tablespoons fresh lemon juice",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fennel Cucumber Salsa",
     "url": "http://allrecipes.com/recipe/203552/fennel-cucumber-salsa/"
 }

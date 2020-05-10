@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a medium baking dish.",
+        "Bring a saucepan of lightly salted water to a boil. Cook egg noodles in boiling water for 6 to 8 minutes, or until al dente. Drain.",
+        "Melt butter in a saucepan over medium-low heat. Mix in flour, heating until bubbly. Slowly whisk in milk. Cook for 5 minutes, stirring constantly, or until thick and smooth. Remove the saucepan from heat. Mix in the noodles, chicken, ham, celery, salt, and pepper. Spoon the mixture into the prepared baking dish.",
+        "Bake for 15 minutes in the preheated oven. Sprinkle with cheese and paprika, and continue baking for another 5 minutes. Serve hot!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F364149.jpg",
+    "ingredients": [
+        "\u00bd cup uncooked egg noodles",
+        "2 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "1 cup milk",
+        "\u00bd cup cooked, cubed chicken breast meat",
+        "\u00bd cup cooked, diced ham",
+        "\u00bc cup chopped celery",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "3 ounces shredded Cheddar cheese",
+        "1 teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ham and Chicken Casserole",
     "url": "http://allrecipes.com/recipe/16978/ham-and-chicken-casserole/"
 }

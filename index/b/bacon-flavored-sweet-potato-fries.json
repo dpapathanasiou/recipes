@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 340 degrees F (171 degrees C).",
+        "Lay bacon strips in a single layer on a baking sheet with raised edges.",
+        "Bake in the preheated oven, turning occasionally, until browned and crisp, about 10 minutes. Drain the bacon slices on paper towels, reserving the bacon grease.",
+        "Heat bacon grease in a large frying pan or skillet over medium-high heat; add sweet potato fries. Cook and stir fries in the hot bacon grease until browned and crispy, about 10 minutes. Transfer fries to a serving platter and sprinkle with paprika and salt; serve with ketchup."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2677404.jpg",
+    "ingredients": [
+        "\u2153 pound bacon",
+        "1 pound sweet potatoes, cut into French fries",
+        "1 tablespoon paprika",
+        "sea salt to taste",
+        "\u00bc cup ketchup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon-Flavored Sweet Potato Fries",
     "url": "http://allrecipes.com/recipe/239127/bacon-flavored-sweet-potato-fries/"
 }

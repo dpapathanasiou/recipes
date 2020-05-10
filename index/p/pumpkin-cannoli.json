@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir 1 cup confectioners' sugar, pumpkin, mascarpone cheese, ricotta cheese, pudding mix, and pumpkin pie spice together in a bowl until smooth.",
+        "Beat cream in a chilled bowl with an electric mixer until stiff peaks form; fold into pumpkin mixture. Spoon pumpkin mixture into a resealable plastic bag and snip a 3/4-inch hole in 1 corner. Pipe pumpkin mixture into each cannoli shell. Garnish the ends with sprinkles and confectioners' sugar."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup confectioners' sugar",
+        "\u00be cup canned pumpkin",
+        "4 ounces mascarpone cheese",
+        "\u00bd cup ricotta cheese",
+        "\u00bc cup instant vanilla pudding mix",
+        "1 teaspoon pumpkin pie spice",
+        "\u00bd cup heavy whipping cream",
+        "12  large cannoli shells",
+        "1 tablespoon sprinkles, or as desired",
+        "1 teaspoon confectioners' sugar for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Cannoli",
     "url": "http://allrecipes.com/recipe/245169/pumpkin-cannoli/"
 }

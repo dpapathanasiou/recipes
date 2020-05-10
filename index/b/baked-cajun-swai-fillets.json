@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Arrange swai fish in a nonstick baking dish; season with Cajun seasoning and cayenne pepper. Layer banana peppers, habanero peppers, and thyme leaves on top of each fish fillet. Place 1 piece butter on top of each fish fillet. Cover dish with aluminum foil.",
+        "Bake in the preheated oven until fish flakes easily with a fork, 30 to 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2338093.jpg",
+    "ingredients": [
+        "4 (6 ounce) fillets swai fish",
+        "1 pinch Cajun seasoning, or more to taste",
+        "1 pinch cayenne pepper, or more to taste",
+        "1/2 cup minced banana peppers",
+        "2 habanero peppers, minced",
+        "1 tablespoon thyme leaves",
+        "1/4 cup unsalted butter, cut into 4 pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Cajun Swai Fillets",
     "url": "http://allrecipes.com/recipe/244179/baked-cajun-swai-fillets/"
 }

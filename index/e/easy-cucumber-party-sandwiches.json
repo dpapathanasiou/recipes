@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cream cheese, sour cream, mayonnaise, ranch dressing mix, and dried dill in a bowl until creamy and smooth.",
+        "Cut crusts from bread slices; cut sliced bread into decorative shapes (such as rounds or flowers) with cookie cutters. Spread each piece of bread with cream cheese mixture and top with a cucumber slice. Top each canape with a few fresh dill leaves."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1483&h=776&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1104772.jpg",
+    "ingredients": [
+        "1 (8 ounce) package whipped cream cheese with chives",
+        "\u00bd cup sour cream",
+        "\u00bd cup mayonnaise",
+        "1 (1 ounce) package ranch dressing mix (such as Hidden Valley Ranch\u00ae)",
+        "1\u2009\u00bd teaspoons dried dill weed",
+        "1 (1 pound) loaf thinly sliced white bread",
+        "1  cucumber, thinly sliced",
+        "\u00bc cup snipped fresh dill leaves, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Cucumber Party Sandwiches",
     "url": "http://allrecipes.com/recipe/221904/easy-cucumber-party-sandwiches/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Juice the pineapple, strawberries, and blueberries together in a juice machine.  Pour the juice into a blender along with the ice cubes.  Puree until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/664082.jpg",
+    "ingredients": [
+        "2 fresh pineapples, peeled, cored and cubed",
+        "4 cups fresh strawberries, washed",
+        "2 cups blueberries",
+        "1 cup ice cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Pineapple-Berry Fiasco",
     "url": "http://allrecipes.com/recipe/108443/fresh-pineapple-berry-fiasco/"
 }

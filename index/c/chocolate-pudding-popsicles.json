@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chocolate chips, milk, cocoa powder, sugar, cinnamon, and vanilla extract in a saucepan over low heat; stir until all ingredients are melted and combined, about 5 minutes.",
+        "Place avocado and banana in blender; blend until smooth. Add chocolate mixture into the puree; blend until the mixture is the consistency of pudding, about 5 minutes. Pour the pudding into ice pop molds, and place into freezer until firm, about 3 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3759550.jpg",
+    "ingredients": [
+        "3/4 cup milk chocolate chips",
+        "1/2 cup milk",
+        "3 tablespoons unsweetened cocoa powder",
+        "1 tablespoon white sugar",
+        "1/2 teaspoon ground cinnamon",
+        "1/2 teaspoon vanilla extract",
+        "1 avocado",
+        "1 banana"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Pudding Popsicles\u00ae",
     "url": "http://allrecipes.com/recipe/254172/chocolate-pudding-popsicles/"
 }

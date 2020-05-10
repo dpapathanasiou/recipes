@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 500 degrees F (260 degrees C).",
+        "Arrange peanuts in a single layer on a cookie sheet, and place in the preheated oven.",
+        "Turn oven off.  Leave peanuts in oven for 1 hour without opening door.  Serve warm or at room temperature."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F908665.jpg",
+    "ingredients": [
+        "1 pound raw peanuts, in shells"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Peanuts",
     "url": "http://allrecipes.com/recipe/142314/roasted-peanuts/"
 }

@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet or saucepan, heat the oil over medium heat. Add the onions, and cook, stirring frequently until they have softened. Sprinkle in the ginger, garlic, coriander, cardamom, nutmeg, and cumin. Cook for 3 minutes more, stirring frequently.",
+        "Pour the rice into the saucepan and saute the rice with the spices for 2 minutes, stirring constantly. Pour the lentils and salt into the saucepan.  Pour 3 cups of water into the pan, stir.",
+        "Place the potatoes into the pan. Bring the mixture to a boil, cover the pan and turn the heat to low.  Cook for 10 minutes.",
+        "Place the bell pepper, peas, and raisins into the saucepan. Stir well, then cover the pan again. Cook 10 minutes more, or until the rice, potatoes, and lentils are tender. Stir in the butter, if you like. Serve and enjoy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4515472.jpg",
+    "ingredients": [
+        "1 tablespoon canola oil",
+        "1 cup chopped onion",
+        "1 tablespoon minced fresh ginger root",
+        "1 clove garlic, minced",
+        "\u00bd teaspoon ground coriander seed",
+        "\u00bd teaspoon ground cardamom",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bd teaspoon ground cumin",
+        "1\u2009\u00bc cups dry jasmine rice",
+        "\u00be teaspoon salt",
+        "\u00bd cup dry lentils",
+        "3 cups water",
+        "1  potato, peeled and diced",
+        "1  red bell pepper, chopped",
+        "\u00bd cup green peas",
+        "3 tablespoons raisins",
+        "1 tablespoon butter (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Indian Spiced Rice",
     "url": "http://allrecipes.com/recipe/14072/indian-spiced-rice/"
 }

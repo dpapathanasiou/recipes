@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Peel and cook shrimp if necessary, and place in a bowl of cold water.",
+        "Place tomatoes, crushed garlic, red pepper flakes, and wine in a 3 quart sauce pan.  Simmer over low heat for 30 minutes, stirring occasionally.",
+        "While sauce is simmering, cook linguini according to package directions.  When pasta is almost done, drain shrimp and place in the bottom of a large colander.  Drain the pasta over the shrimp. Transfer pasta with shrimp to a large serving bowl, and toss together with some sauce.  Serve remaining sauce on the side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/224094.jpg",
+    "ingredients": [
+        "1 (16 ounce) package linguini pasta",
+        "1 pound cooked and peeled shrimp",
+        "8 cloves crushed garlic",
+        "2 (14.5 ounce) cans diced tomatoes",
+        "1 (28 ounce) can crushed tomatoes with garlic",
+        "2 teaspoons crushed red pepper flakes",
+        "2 fluid ounces red wine (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp Fra Diavolo",
     "url": "http://allrecipes.com/recipe/11731/shrimp-fra-diavolo/"
 }

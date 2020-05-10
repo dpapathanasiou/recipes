@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cinnamon and sugar together in a bowl. Pour melted butter into another bowl. Separate biscuits and form each piece of dough into a rope 4 to 5 inches long. Wrap the dough pieces around sticks.",
+        "Hold sticks over campfire and slowly turn until the biscuit dough is browned and set, 8 to 10 minutes. Dip biscuits into melted butter and then into cinnamon sugar. Eat biscuits from sticks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6460489.jpg",
+    "ingredients": [
+        "\u00bc cup ground cinnamon",
+        "1 cup white sugar",
+        "\u00bd cup butter, melted",
+        "1 (10 ounce) can refrigerated biscuit dough"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brown Bears",
     "url": "http://allrecipes.com/recipe/232171/brown-bears/"
 }

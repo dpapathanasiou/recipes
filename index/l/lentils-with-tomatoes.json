@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a pot, bring the water to a boil, and stir in the lentils. Reduce heat, and simmer 20 minutes; drain.",
+        "Heat the olive oil in a large skillet over medium heat, and saute the green bell pepper and onion until tender. Mix in the tomatoes, and season with salt and pepper. Stir in the lentils, reduce heat, and simmer 25 to 30 minutes, until the lentils are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1377&h=721&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6467796.jpg",
+    "ingredients": [
+        "1 quart water",
+        "1 cup dry lentils",
+        "3 tablespoons olive oil",
+        "1 medium green bell pepper, chopped",
+        "1 medium onion, chopped",
+        "2\u2009\u00bd cups peeled, seeded, and chopped tomatoes",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lentils with Tomatoes",
     "url": "http://allrecipes.com/recipe/69027/lentils-with-tomatoes/"
 }

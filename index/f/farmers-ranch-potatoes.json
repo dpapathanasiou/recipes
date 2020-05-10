@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes in a large pot, and fill with enough water to cover. Bring to a boil, and cook until fork tender, about 15 minutes. Drain, and cut into chunks, leaving the skins on.",
+        "Preheat the oven to 375 degrees F (190 degrees C). Meanwhile, fry the bacon in a large skillet until browned and crisp. Drain, and set aside.",
+        "Place the potatoes in a greased 9x13 inch baking dish. In a medium bowl, stir together the sour cream, Ranch dressing, parsley, and 3/4 cup Cheddar cheese. Crumble in the bacon and stir. Pour over the potatoes in the baking dish. In a another bowl, mix together the cornflake crumbs, melted butter and remaining cheese. Sprinkle evenly over the top of the casserole.",
+        "Bake for 40 to 45 minutes in the preheated oven, or until the top of the casserole is browned and crisp."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1059263.jpg",
+    "ingredients": [
+        "2 pounds medium red potatoes",
+        "\u2154 cup sour cream",
+        "\u2154 cup creamy Ranch salad dressing",
+        "6 slices bacon (optional)",
+        "3 tablespoons chopped fresh parsley",
+        "\u00be cup shredded Cheddar cheese",
+        "\u00bd cup butter, melted",
+        "\u00be cup shredded Cheddar cheese",
+        "3 cups crushed cornflakes cereal"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Farmer's Ranch Potatoes",
     "url": "http://allrecipes.com/recipe/83722/farmers-ranch-potatoes/"
 }

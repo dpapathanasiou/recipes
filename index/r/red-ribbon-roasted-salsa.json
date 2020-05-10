@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a saucepan with water, stir in dried chipotle peppers, and bring to a boil. Reduce heat to low and simmer until peppers are soft, about 30 minutes. Drain and let cool. When peppers are cool, remove stems, cut open peppers, and remove seeds. Set peppers aside.",
+        "Preheat an outdoor grill for high heat and lightly oil the grate.",
+        "Grill tomatoes on hot grate until skin blackens and begins to peel, turning tomatoes often to blacken all sides, about 10 minutes. Set grilled tomatoes aside to cool.",
+        "Place grilled tomatoes, chipotle peppers, yellow onion, white vinegar, salt, black pepper, and lime juice into a food processor; pulse a few times, then process until almost pureed.",
+        "Refrigerate until flavors have blended, at least 2 hours to overnight."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F893577.jpg",
+    "ingredients": [
+        "10  dried chipotle peppers",
+        "12  roma (plum) tomatoes",
+        "\u00bc  yellow onion, coarsely chopped",
+        "2 cloves garlic, or more to taste",
+        "2 tablespoons white vinegar",
+        "2 teaspoons salt",
+        "1 pinch ground black pepper, or to taste (optional)",
+        "1  lime, juiced, or more to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Red-Ribbon Roasted Salsa",
     "url": "http://allrecipes.com/recipe/221225/red-ribbon-roasted-salsa/"
 }

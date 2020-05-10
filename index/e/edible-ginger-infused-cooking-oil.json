@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lay ginger slices out on your dehydrator tray. Dry according to manufacturer's instructions, rotating every 20 to 30 minutes, until crisp and fragrant, about 2 hours.",
+        "Break up dried ginger into smaller pieces; transfer to a saucepan. Add coconut oil; heat gently over low heat until natural oils from ginger infuse the oil, at least 2 hours.",
+        "Strain ginger oil through a strainer to remove large pieces. Wrap cheesecloth over top of a glass jar. Pour ginger oil through cheesecloth into jar to strain again."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4576878.jpg",
+    "ingredients": [
+        "2 cups very thinly sliced ginger root",
+        "3 cups coconut oil, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Edible Ginger-Infused Cooking Oil",
     "url": "http://allrecipes.com/recipe/245907/edible-ginger-infused-cooking-oil/"
 }

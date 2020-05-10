@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a rolling boil.",
+        "Boil the fettuccine until cooked through yet firm to the bite, about 8 minutes; drain and transfer pasta to a large serving bowl.",
+        "Heat the butter and garlic in a large skillet over medium-high heat; stir in the sausage, tomatoes, broccoli, bell pepper, mushrooms and green onion.",
+        "Cook and stir until the sausage is browned and vegetables are tender.",
+        "Stir in chicken, shrimp, white wine, cajun seasoning, milk, and 1/4 cup Parmesan cheese. Cook and stir until shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 3 to 5 minutes.",
+        "Serve over pasta and sprinkle with pepper and 2 tablespoons Parmesan cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4320&h=2262&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F817772.jpg",
+    "ingredients": [
+        "\u00bd pound fettuccine",
+        "\u00bc cup butter",
+        "2 cloves garlic, minced",
+        "\u00bc cup sliced smoked sausage",
+        "2  roma tomatoes, diced",
+        "1 cup broccoli florets",
+        "\u00bd  green bell pepper, chopped",
+        "4  mushrooms, sliced",
+        "3  green onions, chopped",
+        "1 cup cubed cooked chicken breast",
+        "\u00bd pound medium shrimp, peeled and deveined",
+        "\u00bc cup white wine",
+        "2 teaspoons Cajun seasoning",
+        "\u00be cup milk",
+        "\u00bc cup grated Parmesan cheese",
+        "fresh ground black pepper to taste",
+        "2 tablespoons grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ragin' Cajun Pasta",
     "url": "http://allrecipes.com/recipe/219972/ragin-cajun-pasta/"
 }

@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a muffin tin with paper liners.",
+        "Whisk flour, baking soda, baking powder, and salt together in a bowl.",
+        "Combine white sugar, brown sugar, and 1/4 cup butter in another bowl; beat with an electric mixer until creamy. Beat in egg. Mix in mashed bananas. Add flour mixture in 3 batches, alternating with buttermilk, stirring after each addition. Fold chocolate chips into the batter.",
+        "Spoon batter into the prepared muffin tin.",
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 20 minutes. Cool cupcakes on a wire rack, about 30 minutes.",
+        "Beat cream cheese and 3 tablespoons butter in a bowl until smooth. Add vanilla extract. Beat in confectioners' sugar, 1 cup at a time, until frosting is smooth.",
+        "Spread frosting over cupcakes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3938649.jpg",
+    "ingredients": [
+        "1 1/4 cups all-purpose flour",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon baking powder",
+        "1 pinch salt",
+        "1/2 cup white sugar",
+        "6 tablespoons lightly packed brown sugar",
+        "1/4 cup unsalted butter, softened",
+        "1 egg",
+        "2 ripe bananas, mashed",
+        "1/3 cup buttermilk",
+        "1/2 cup chocolate chips, or to taste (optional)",
+        "Frosting:",
+        "1 (3 ounce) package cream cheese, softened",
+        "3 tablespoons butter, softened",
+        "1 teaspoon vanilla extract",
+        "2 cups confectioners' sugar, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana Chocolate Chip Cupcakes with Cream Cheese Frosting",
     "url": "http://allrecipes.com/recipe/255301/banana-chocolate-chip-cupcakes-with-c/"
 }

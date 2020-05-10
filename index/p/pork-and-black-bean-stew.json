@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon vegetable oil in a skillet over medium heat, stir in garlic and onion, and cook a few minutes until the onion softens and turns translucent. Remove the onion, and place into a saucepan. Pour the remaining 1 tablespoon vegetable oil into the skillet, and place over medium-high heat. Add cubed pork, and cook until well browned.",
+        "Meanwhile, pour 3/4 of the black beans along with 1/4 cup water into the bowl of a blender, and pulse until finely chopped, but not quite smooth. Pour whole beans and bean puree into saucepan along with pork cubes, chicken stock, chorizo, and bay leaves. Bring to a boil over medium-high heat, then reduce heat to medium-low, cover, and simmer 30 minutes. Season to taste with salt and pepper before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1441062.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1 teaspoon minced garlic",
+        "1 large onion, chopped",
+        "1 (12 ounce) pork tenderloin, cut into 1/2 inch cubes",
+        "1 (19 ounce) can black beans, drained and rinsed",
+        "\u00bc cup water",
+        "1\u2009\u00bd cups chicken stock",
+        "3  chorizo sausages, cut into 1/2 inch thick pieces",
+        "2  bay leaves",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork and Black Bean Stew",
     "url": "http://allrecipes.com/recipe/100011/pork-and-black-bean-stew/"
 }

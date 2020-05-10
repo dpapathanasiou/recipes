@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large skillet. Add, in order, the peanuts, chana dal, urad dal, red chile peppers, cashews, mustard seed, curry leaves, green chile peppers, and turmeric to the hot oil in 30 second intervals, allowing each item to cook briefly before adding the next. Stir the lemon juice and salt into the mixture. Mix the rice into the mixture, breaking up the individual grains with a wooden spoon; cook and stir until no clumps of rice remain and the mixture is thoroughly heated. Serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6655607.jpg",
+    "ingredients": [
+        "1/4 cup oil",
+        "1/2 cup peanuts",
+        "2 tablespoons split Bengal gram (chana dal)",
+        "3 tablespoons skinned split black lentils (urad dal)",
+        "3 dried red chile peppers",
+        "1/4 cup raw cashews (optional)",
+        "1 tablespoon mustard seed",
+        "2 sprigs fresh curry leaves",
+        "5 green chile peppers, halved lengthwise",
+        "2 teaspoons ground turmeric",
+        "2 lemons, juiced",
+        "salt to taste",
+        "2 cups cold, cooked basmati rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nimakayya (Lemon) Pulihora",
     "url": "http://allrecipes.com/recipe/212378/nimakayya-lemon-pulihora/"
 }

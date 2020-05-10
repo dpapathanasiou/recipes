@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease two 8x4-inch loaf pans.",
+        "Combine flour, baking soda, and baking powder in a small bowl. Beat eggs with sugar in a large bowl until well mixed; beat in oil. Stir zucchini, cranberries, orange zest, and lemon extract into egg mixture. Add cinnamon, cloves, nutmeg, salt, and ginger. Stir flour mixture into zucchini mixture until batter is well blended. Pour batter into prepared loaf pans.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 50 to 60 minutes. Cool in the pans for 10 minutes before removing to cool completely on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1326486.jpg",
+    "ingredients": [
+        "3  eggs",
+        "2 cups white sugar",
+        "1 cup vegetable oil",
+        "3 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "\u00bc teaspoon baking powder",
+        "2 cups shredded zucchini",
+        "1 cup dried cranberries",
+        "1  orange, zested",
+        "1 teaspoon lemon extract",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon ground cloves",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon salt",
+        "1 pinch ground ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Citrus Cranberry Zucchini Bread",
     "url": "http://allrecipes.com/recipe/229696/citrus-cranberry-zucchini-bread/"
 }

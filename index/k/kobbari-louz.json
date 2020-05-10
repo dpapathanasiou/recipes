@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the coconut and jaggery together in a heavy-bottomed skillet over low heat, stirring frequently, until most of the moisture evaporates and the coconut and jaggery begin to bind together, about 10 minutes. Sprinkle the milk powder over the mixture and stir. The milk powder helps absorb moisture and bind the mixture. Coconuts vary in their water content. If the mixture is still too loose, add a bit more milk powder. Add cardamom powder and mix.",
+        "Grease a rimmed plate (or a thali if you have one) with the ghee. Spread the coconut mixture evenly and press and flatten with your hands. Cool completely. Cut into desired shape and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 cups grated fresh coconut",
+        "1 cup grated jaggery (palm sugar)",
+        "1/4 cup milk powder",
+        "1/2 teaspoon ground cardamom",
+        "2 teaspoons ghee (clarified butter)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kobbari Louz",
     "url": "http://allrecipes.com/recipe/212703/kobbari-louz/"
 }

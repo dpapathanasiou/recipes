@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in a stock pot, and add enough water to cover. Pour in the chicken broth, and add celery and onions. Season with salt, pepper and garlic salt. Bring to a boil, and cook for about 1 hour to get a good broth.",
+        "When the chicken is cooked through and tender, remove it to a platter and let sit until it is cool enough to handle. Strain broth, and discard celery and onions. Return the broth to the stock pot. Remove chicken meat from the bones, chop or tear into pieces, then return it to the pot also. Bring the broth to a boil, and add carrots.",
+        "In a medium bowl, stir together the eggs, water and salt. Gradually add flour until the dough is firm enough to form a ball. You may need more or less flour.  Pat the dough out on a flat plate. Using a butter knife, cut slices of dough off the edge of the plate so they are about 2 to 3 inches long. Allow them to fall directly into the boiling broth.",
+        "Once the carrots are tender, the soup is ready. Sprinkle with parsley flakes and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F716099.jpg",
+    "ingredients": [
+        "1 (2 to 3 pound) whole chicken",
+        "2 (14.5 ounce) cans chicken broth",
+        "2 medium yellow onions, quartered",
+        "1 bunch celery with leaves, cut into pieces",
+        "1 (16 ounce) package baby carrots",
+        "salt and ground black pepper to taste",
+        "\u00bd teaspoon garlic salt, or to taste",
+        "5  eggs",
+        "\u00bd cup water",
+        "1 teaspoon salt",
+        "3 cups all-purpose flour",
+        "\u00bd teaspoon parsley flakes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaetzle and Chicken Soup",
     "url": "http://allrecipes.com/recipe/60347/spaetzle-and-chicken-soup/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Add all ingredients to blender.",
+        "Blend on high until smooth.",
+        "Enjoy!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/998452.jpg",
+    "ingredients": [
+        "1 cup strawberries",
+        "1 banana",
+        "1 cup nonfat plain yogurt",
+        "1 cup orange juice",
+        "1 cup ice",
+        "2 tablespoons Truvia\u00ae natural sweetener spoonable, plus",
+        "1 teaspoon Truvia\u00ae natural sweetener spoonable*"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Strawberry Banana Sunrise Smoothie With Truvia\u00ae Natural Sweetener",
     "url": "http://allrecipes.com/recipe/229473/fresh-strawberry-banana-sunrise-smoot/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Mix sugar and almond flavoring and set aside.  In a separate bowl mix butter, cheese and egg yolk.  Stir in Make Ahead Cookie Mix.",
+        "Roll onto flat surface.  Cut in half.  Place 1 half on greased cookie sheet.  Spoon on almond and sugar mix.  Place 2nd half on top.  Brush with slightly beaten egg white.",
+        "Bake 22 - 30 minutes.  Let cool at least 30 minutes.  Cut into 1/2 inch strips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F971110.jpg",
+    "ingredients": [
+        "\u00be cup white sugar",
+        "\u2153 cup butter, softened",
+        "2 teaspoons almond extract",
+        "6 ounces cream cheese",
+        "2 cups Make Ahead Cookie Mix",
+        "1  egg, separated",
+        "\u00bc cup sliced almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Make Ahead Almond Butter Sticks",
     "url": "http://allrecipes.com/recipe/10122/make-ahead-almond-butter-sticks/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine eggs, sweetened condensed milk, evaporated milk, whiskey, vanilla extract, coconut extract, instant coffee granules, and chocolate syrup in a bowl; stir just enough to break the egg yolks into the mixture.",
+        "Pour the contents of the bowl into a blender; blend on High for 3 minutes.",
+        "Pour the blended mixture into a glass container with a tight-fitting lid. Refrigerate at least 2 weeks before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4486446.jpg",
+    "ingredients": [
+        "3 eggs",
+        "1 (14 ounce) can sweetened condensed milk",
+        "1 (12 ounce) can evaporated milk",
+        "1 1/2 cups high-quality Canadian blended whiskey, or more to taste",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon coconut extract",
+        "1 teaspoon instant coffee granules",
+        "1 tablespoon chocolate syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "O'Malin's Irish Cream",
     "url": "http://allrecipes.com/recipe/220523/omalins-irish-cream/"
 }

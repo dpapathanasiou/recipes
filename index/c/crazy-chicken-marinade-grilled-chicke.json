@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk the lime juice, olive oil, chili powder, sage, oregano, and cumin together in a small bowl. Arrange the chicken breasts in a shallow glass container; pour the lime juice marinade over the chicken. Cover the container with plastic wrap; refrigerate 1 1/2 hours, turning the chicken every 30 minutes.",
+        "Preheat an outdoor grill for medium heat and lightly oil the grate. Remove the chicken to a platter and allow to come to room temperature. Pour the marinade into a small saucepan and bring to a boil over high heat. Reduce heat to medium-low and simmer for 10 minutes.",
+        "Basting with the marinade, grill the chicken breasts until no longer pink in the center and the juices run clear, 8 to 10 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/375714.jpg",
+    "ingredients": [
+        "4 limes, juiced",
+        "2 tablespoons olive oil",
+        "2 tablespoons chili powder",
+        "1 teaspoon dried sage",
+        "1 teaspoon dried oregano",
+        "1 teaspoon ground cumin",
+        "4 skinless, boneless chicken breast halves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crazy Chicken Marinade Grilled Chicken",
     "url": "http://allrecipes.com/recipe/203013/crazy-chicken-marinade-grilled-chicke/"
 }

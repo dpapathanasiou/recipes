@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large frying pan over medium heat; cook and stir onion in the hot oil until slightly softened, 1 to 2 minutes. Add plantains; cook, stirring occasionally, until plantains are crisp and lightly browned, 5 to 7 minutes. The plantain has a tendency to stick together, so the more you stir the more the individual pieces will separate.",
+        "Fold raisins into plantain mixture and cook until raisins are plump and heated, 1 to 2 minutes. Season with salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1201022.jpg",
+    "ingredients": [
+        "2 teaspoons vegetable oil, or as needed",
+        "\u00bd cup chopped onion",
+        "3 large green plantains, peeled and grated",
+        "\u00be cup raisins",
+        "\u00bd teaspoon salt, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Raisin Plantains",
     "url": "http://allrecipes.com/recipe/231876/raisin-plantains/"
 }

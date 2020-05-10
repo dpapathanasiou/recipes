@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease or line 24 muffin cups with paper liners.",
+        "Combine zucchini, bananas, applesauce, brown sugar, oil, lemon juice, and vanilla extract together in a large bowl. Whisk flour, baking soda, 1 tablespoon cinnamon, nutmeg, baking powder, salt, and cloves together in a separate bowl. Slowly add flour mixture to zucchini mixture while continuously stirring until batter is just combined. Spoon batter into prepared muffin cups about 3/4-full.",
+        "Mix white sugar and 1 teaspoon cinnamon together in a small bowl; sprinkle over batter.",
+        "Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5312&h=2781&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3664138.jpg",
+    "ingredients": [
+        "2\u2009\u2153 cups grated zucchini",
+        "1\u2009\u00bd  over-ripe bananas, mashed",
+        "1 cup applesauce",
+        "1 cup brown sugar",
+        "\u00bc cup vegetable oil",
+        "1 tablespoon lemon juice",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "3 cups all-purpose flour",
+        "1 tablespoon baking soda",
+        "1 tablespoon ground cinnamon",
+        "2 teaspoons ground nutmeg",
+        "1 teaspoon baking powder",
+        "1 teaspoon salt",
+        "\u00bc teaspoon ground cloves",
+        "1 tablespoon white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Zucchini Banana Bread Muffins",
     "url": "http://allrecipes.com/recipe/238271/vegan-zucchini-banana-bread-muffins/"
 }

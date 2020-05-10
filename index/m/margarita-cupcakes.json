@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Line muffin cups with paper liners.",
+        "Mix cake mix and butter together in a large bowl; add eggs, margarita mix, and egg yolks and stir just until combined. Pour lemon-lime soda into batter and stir until foam is dissolved. Stir tequila into the batter. Pour batter into the prepared muffin cups.",
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2094730.jpg",
+    "ingredients": [
+        "1 (15.25 ounce) package yellow cake mix (such as Betty Crocker\u00ae)",
+        "\u00bd cup butter, melted",
+        "3  eggs",
+        "\u00bd cup lime margarita mix (such as Jose Cuervo\u00ae)",
+        "1  egg yolk",
+        "\u00be cup lemon-lime soda",
+        "1\u2009\u00bd (1.5 fluid ounce) jiggers tequila (such as Jose Cuervo\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Margarita Cupcakes",
     "url": "http://allrecipes.com/recipe/241267/margarita-cupcakes/"
 }

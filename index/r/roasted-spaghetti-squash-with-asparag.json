@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.",
+        "Spray spaghetti squash with cooking spray and season with salt and pepper. Place squash, cut-side down, on the prepared baking sheet.",
+        "Bake in the preheated oven until tender, about 35 minutes. Cool for 10 minutes.",
+        "Heat olive oil in a large skillet over medium heat. Saute onion in hot oil until just starting to turn translucent, about 5 minutes. Add asparagus to onion and continue to saute until onion is tender, 5 minutes more. Stir garlic into onion mixture; saute until fragrant, about 1 minute. Remove onion mixture to a plate.",
+        "Return skillet to heat. Scrape spaghetti squash flesh from skin using a fork to create 'noodles'; stir noodles into hot skillet and saute until heated through, 2 to 3 minutes.",
+        "Pour vegetable broth into skillet with spaghetti squash; bring broth to a simmer and cook until mostly reduced, about 2 minutes. Stir onion mixture and goat cheese into spaghetti squash until cheese is melted, about 1 minute. Add basil and thyme. Season with salt and ground black pepper to taste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1100374.jpg",
+    "ingredients": [
+        "1 (2 1/2 pound) spaghetti squash, halved lengthwise and seeded",
+        "cooking spray",
+        "salt and ground black pepper to taste",
+        "1 teaspoon olive oil, or as needed",
+        "1/4 Spanish onion, diced",
+        "1 bunch fresh asparagus, cut into 1-inch pieces",
+        "2 cloves garlic, minced",
+        "1/2 cup vegetable broth",
+        "2 ounces goat cheese",
+        "2 tablespoons chopped fresh basil",
+        "1 tablespoon minced fresh thyme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Spaghetti Squash with Asparagus and Goat Cheese",
     "url": "http://allrecipes.com/recipe/236254/roasted-spaghetti-squash-with-asparag/"
 }

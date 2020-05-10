@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wash the lemons and limes, and cut the fruit into quarters. Squeeze juice from the fruit quarters into a 1-gallon glass ice tea jar, and place the squeezed fruit quarters into the jar. Fill the jar with ice cubes, and pour in the sugar and tequila. Top off the jar with more ice cubes if some have melted from the tequila. Seal the jar, and wrap the jar with a wet (but not sopping wet) hand towel.",
+        "Gather 8 or so people in a circle, and pass the jar from one to the next, each person shaking the jar for 3 to 5 minutes. The drink is ready when the sugar has dissolved and the hand towel freezes and sticks to the jar. Dispense into ice-filled glasses and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/993636.jpg",
+    "ingredients": [
+        "5 lemons",
+        "5 limes",
+        "3/4 cup white sugar, or to taste",
+        "1 (750 milliliter) bottle tequila",
+        "4 cups ice cubes, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "A Big, Honkin' Margarita",
     "url": "http://allrecipes.com/recipe/214147/a-big-honkin-margarita/"
 }

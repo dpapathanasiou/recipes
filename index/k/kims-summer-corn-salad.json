@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix the corn, white corn, tomatoes, sweet peas, cucumber, onion, and pimentos. Fold in the mayonnaise. Season with salt and pepper. Cover, and chill at least 1 hour in the refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3676138.jpg",
+    "ingredients": [
+        "1 (15.25 ounce) can whole kernel corn, drained",
+        "1 (15.25 ounce) can white corn, drained",
+        "2 tomatoes, chopped",
+        "1/2 (15 ounce) can sweet peas, drained",
+        "1 cucumber, diced",
+        "1 purple onion, diced",
+        "3 tablespoons pimentos",
+        "1 cup mayonnaise",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kim's Summer Corn Salad",
     "url": "http://allrecipes.com/recipe/52659/kims-summer-corn-salad/"
 }

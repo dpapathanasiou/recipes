@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sift together the flour, cream of tartar, baking soda and salt; set aside.",
+        "In a large bowl, cream together the sugar and oil. stir in the egg, vanilla and water; blend well. Gradually blend in the sifted ingredients. Stir in the chopped nuts last. Roll dough into 2 logs, wrap in waxed paper and chill for several hours or overnight.",
+        "Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets. Cut the dough into thin slices and place 1 to 2 inches apart onto the prepared cookie sheet.",
+        "Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups sifted cake flour",
+        "\u00bd teaspoon cream of tartar",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1 cup packed brown sugar",
+        "\u00bd cup vegetable oil",
+        "1  egg, beaten",
+        "1 teaspoon vanilla extract",
+        "\u00bc cup water",
+        "1 cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Heloise's Toffee Cookies",
     "url": "http://allrecipes.com/recipe/23747/heloises-toffee-cookies/"
 }

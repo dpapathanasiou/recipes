@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend ice cubes, raspberries, orange juice, banana, yogurt, and honey in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1115394.jpg",
+    "ingredients": [
+        "1 1/2 cups ice cubes",
+        "1 cup fresh raspberries",
+        "1 cup orange juice",
+        "1 banana, cut into chunks",
+        "1/2 cup vanilla fat-free yogurt",
+        "1 teaspoon honey, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Raspberry-OJ-Banana Smoothie",
     "url": "http://allrecipes.com/recipe/233229/raspberry-oj-banana-smoothie/"
 }

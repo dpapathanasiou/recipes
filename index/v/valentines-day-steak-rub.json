@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together the cinnamon, oregano, chili powder, cumin, salt, black pepper, garlic powder, onion powder, and cayenne pepper in a bowl. Place the mixture into an airtight container or empty seasoning bottle."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/856396.jpg",
+    "ingredients": [
+        "2 1/2 teaspoons ground cinnamon",
+        "2 teaspoons dried oregano",
+        "1 teaspoon chili powder",
+        "1 teaspoon ground cumin",
+        "1 teaspoon salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/2 teaspoon garlic powder",
+        "1/4 teaspoon onion powder",
+        "1/4 teaspoon cayenne pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Valentine's Day Steak Rub",
     "url": "http://allrecipes.com/recipe/219968/valentines-day-steak-rub/"
 }

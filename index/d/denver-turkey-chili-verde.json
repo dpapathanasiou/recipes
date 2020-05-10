@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place tomatillos, poblano peppers, and jalapenos cut side down on a baking sheet. Broil 3 inches from heat source for 3 to 5 minutes or until skins are charred.",
+        "Place peppers in plastic zip-top bag and seal. Let stand 10 minutes. Remove and discard skins. Place tomatillos and peppers in food processor and process until smooth. Stir in salt.",
+        "Heat oil over medium-high heat in a large Dutch oven. Add turkey and cook as specified on the package. Always cook to well done, 165 degrees F as measured by a meat thermometer.",
+        "Add onion and garlic and cook 5 minutes or until tender. Add cumin and coriander. Stir in tomatillo mixture and broth. Bring mixture to a boil. Reduce heat to medium-low and simmer 20 minutes. Stir in cilantro leaves."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3995635.jpg",
+    "ingredients": [
+        "1 1/2 pounds fresh tomatillos, husks removed, halved",
+        "2 poblano peppers, seeded and halved",
+        "2 jalapeno peppers, seeded, if desired",
+        "1 teaspoon kosher salt",
+        "2 tablespoons olive oil",
+        "1 large yellow onion, chopped",
+        "4 cloves garlic, chopped",
+        "1 (16 ounce) package JENNIE-O\u00ae Ground Turkey",
+        "2 teaspoons ground cumin",
+        "1 teaspoon ground coriander",
+        "4 cups low-sodium chicken broth",
+        "1 cup chopped fresh cilantro leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Denver Turkey Chili Verde",
     "url": "http://allrecipes.com/recipe/247315/denver-turkey-chili-verde/"
 }

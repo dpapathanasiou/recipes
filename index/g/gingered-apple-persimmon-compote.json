@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat mashed persimmons in a saucepan over medium heat. Stir apple, brown sugar, cinnamon, ginger, lemon juice, and lemon zest into persimmons. Bring mixture to a boil, reduce heat to medium-low, and simmer until sauce is desired consistency and flavors blend, 10 to 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2787357.jpg",
+    "ingredients": [
+        "5  overripe Fuyu persimmons, mashed",
+        "1 small Granny Smith apple, peeled and diced",
+        "1 tablespoon brown sugar",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon freshly grated ginger",
+        "\u00bd  lemon, juiced",
+        "\u00bd teaspoon lemon zest"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gingered Apple-Persimmon Compote",
     "url": "http://allrecipes.com/recipe/235253/gingered-apple-persimmon-compote/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch round cake pan with cooking spray.",
+        "Cook and stir bacon in a large skillet over medium heat until some of the fat is released, about 2 minutes. Add onion; cook and stir until onion turns golden and bacon is crispy, 3 to 5 minutes. Stir in spinach and cook until wilted, about 2 minutes.",
+        "Whisk milk and eggs together in a bowl. Soak croissant cubes in the milk mixture, 1 to 2 minutes. Stir in bacon mixture and drippings from the skillet. Fold in Monterey Jack cheese. Pour mixture into the prepared pan.",
+        "Bake in the preheated oven until golden brown, about 30 minutes. Let stand for 10 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4320&h=2262&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4422360.jpg",
+    "ingredients": [
+        "cooking spray",
+        "3 slices bacon, chopped",
+        "\u00bd  onion, diced small",
+        "1 cup fresh spinach",
+        "1\u2009\u00bd cups milk",
+        "3  eggs",
+        "3  croissants, cubed",
+        "\u00bd cup shredded Monterey Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Croissant Quiche",
     "url": "http://allrecipes.com/recipe/256556/savory-croissant-quiche/"
 }

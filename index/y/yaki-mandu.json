@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Heat vegetable oil in a separate skillet over medium heat.",
+        "Mix green onions, cabbage, carrot, garlic, 1 tablespoon sesame oil, 1 tablespoon sesame seeds, monosodium glutamate, salt, and pepper into ground beef mixture; cook and stir until liquid is evaporated and vegetables are tender, 5 to 10 minutes. Transfer beef mixture to a bowl and mix in 1 egg.",
+        "Crack the second egg into a bowl and beat well.",
+        "Hold 1 wonton wrapper in the palm of your hand and brush a thin layer of beaten egg on 1 edge. Scoop about 1 teaspoon beef mixture into the center of the wrapper. Fold wrapper in half, corner to corner, to make a triangle and pinch the edges shut, crimping with your fingers to make a seal. Press the air out by cupping your fingers over the dumpling in your palm and pressing lightly.",
+        "Fry wontons in the hot oil until 1 side is browned, 2 to 3 minutes. Flip and cook until other side is browned, 2 to 3 minutes. Transfer wontons to a paper towel-lined plate to drain using a slotted spoon.",
+        "Whisk soy sauce, rice wine vinegar, 1 teaspoon sesame oil, and 1 teaspoon sesame seeds together in a bowl until dipping sauce is smooth. Serve alongside wontons."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5532458.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1\u2009\u00bd cups vegetable oil for frying",
+        "\u00bd cup finely chopped green onions",
+        "\u00bd cup finely chopped cabbage",
+        "\u00bd cup finely chopped carrot",
+        "\u00bd cup minced garlic",
+        "4 teaspoons sesame oil, divided",
+        "1 tablespoon toasted sesame seeds",
+        "\u00bd teaspoon monosodium glutamate (such as Ac'cent\u00ae)",
+        "salt and ground black pepper to taste",
+        "2  eggs",
+        "1 (16 ounce) package wonton wrappers",
+        "3 tablespoons soy sauce",
+        "2 teaspoons rice wine vinegar",
+        "1 teaspoon toasted sesame seeds, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yaki Mandu",
     "url": "http://allrecipes.com/recipe/245124/yaki-mandu/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Mix together the ground pork, luncheon meat, chorizo de bilbao, pickle, raisin, eggs, salt, and pepper in a large bowl. Form the mixture into 2 logs and wrap with aluminum foil. Place the wrapped logs in a baking dish.",
+        "Bake in the preheated oven for 1 hour.",
+        "Set the meatloaves aside to rest. Carefully drain the drippings from the baking dish into a small saucepan placed over medium heat. Stir the soy sauce and corn flour into the drippings; bring to a boil. Cook the mixture at a boil, stirring continually, until the sauce is thick, 5 to 7 minutes. Unwrap the meatloaves and slice; serve the sauce over sliced meatloaf."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6244845.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground pork",
+        "1 (12 ounce) container fully cooked luncheon meat (such as SPAM\u00ae), sliced thin",
+        "2 (4 ounce) links chorizo de bilbao (spicy Spanish semi-cured sausage), sliced thin",
+        "2 tablespoons chopped sweet pickle",
+        "1 (1.5 ounce) box raisins",
+        "3  eggs, beaten",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "2 tablespoons soy sauce, or to taste",
+        "1 tablespoon cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Embutido (Filipino Meatloaf)",
     "url": "http://allrecipes.com/recipe/212957/embutido-filipino-meatloaf/"
 }

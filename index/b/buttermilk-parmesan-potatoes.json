@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Lightly grease 9x13 inch baking dish. Arrange potatoes over the bottom of the dish, and set aside.",
+        "Melt 1 tablespoon butter in a saucepan over medium heat. Add the garlic and onion; cook and stir until the onion is transparent, about 5 minutes. Stir in 3 tablespoons butter until melted. Sprinkle the flour, salt, and pepper over the onion mixture. Cook and stir until mixture bubbles and thickens, about 2 minutes. Continue to stir the flour mixture while gradually pouring in the milk and buttermilk, and return the mixture to boiling. Stir in 3/4 cup Parmesan cheese; cook for 2 minutes until melted, and mixture is smooth. Pour the mixture over the potatoes in the baking dish, stirring to coat evenly.",
+        "Bake in preheated oven for 1/2 hour, and stir. Bake 1/2 hour longer, stir the potato mixture again, and sprinkle with remaining 1/4 cup Parmesan cheese. Bake for 20 minutes more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F790446.jpg",
+    "ingredients": [
+        "14 small potatoes, peeled and cubed",
+        "1 tablespoon butter",
+        "2 cloves garlic, minced",
+        "\u00bc cup minced red onion",
+        "3 tablespoons butter",
+        "\u2153 cup all-purpose flour",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon pepper",
+        "1 cup 2% milk",
+        "1 cup buttermilk",
+        "1 cup freshly grated Parmesan cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buttermilk Parmesan Potatoes",
     "url": "http://allrecipes.com/recipe/148813/buttermilk-parmesan-potatoes/"
 }

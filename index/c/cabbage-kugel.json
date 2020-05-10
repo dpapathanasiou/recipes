@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Grease a large baking dish.",
+        "Melt butter in a large skillet over medium heat. Cook and stir cabbage and onion in the butter until the vegetables are very tender and dark brown, 25 to 30 minutes.",
+        "Whisk eggs, matzo meal, cider vinegar, sugar, salt, and black pepper in a large bowl; allow mixture to rest for about 3 minutes.",
+        "Stir cabbage mixture into egg mixture until well mixed; pour mixture into prepared baking dish.",
+        "Bake kugel in the preheated oven until browned, about 30 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bc cup butter",
+        "1 head cabbage, finely shredded",
+        "1  yellow onion, sliced",
+        "3  eggs",
+        "\u2153 cup matzo meal",
+        "2 tablespoons apple cider vinegar",
+        "1 tablespoon white sugar",
+        "2 teaspoons salt",
+        "ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cabbage Kugel",
     "url": "http://allrecipes.com/recipe/220948/cabbage-kugel/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lightly coat the inside of a slow cooker with olive oil and place the brisket in the bottom of the cooker. Sprinkle in the onion, garlic, and basil; season with salt and pepper.",
+        "Pour the chicken broth and water. Cook on LOW, covered, until brisket is tender, 6 to 10 hours, basting meat several times to moisten."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4551417.jpg",
+    "ingredients": [
+        "1 teaspoon olive oil",
+        "1 (3 pound) buffalo brisket",
+        "1 small onion, chopped",
+        "2 teaspoons chopped garlic",
+        "1 teaspoon dried basil",
+        "salt and pepper to taste",
+        "2 cups chicken broth",
+        "1 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Buffalo Brisket",
     "url": "http://allrecipes.com/recipe/165831/slow-cooker-buffalo-brisket/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees. Coat the bottom of a 9x13 inch baking dish generously with olive oil.",
+        "Arrange potato slices in a layer on the bottom of the baking dish. Season with a little salt and pepper. Place a layer of onions over the potatoes, then a layer of roasted peppers, seasoning each layer with salt and pepper as desired. Place salmon fillets over the vegetables in the dish, and season with lemon juice, salt and pepper. Place whole mushrooms over the fillets, and drizzle them with sesame oil.",
+        "Bake for 45 minutes in the preheated oven. Fish should flake easily with a fork, and potatoes should be tender."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1178084.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "4 (8 ounce) salmon fillets",
+        "4 medium potatoes, peeled and sliced",
+        "2 large red onions, sliced into rings",
+        "1 jarred roasted red pepper, drained and cut into strips",
+        "8 ounces portobello mushrooms",
+        "1 tablespoon fresh lemon juice",
+        "salt and pepper to taste",
+        "1 teaspoon sesame oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Earth, Sea and Fire Salmon",
     "url": "http://allrecipes.com/recipe/72463/earth-sea-and-fire-salmon/"
 }

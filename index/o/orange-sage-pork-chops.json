@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season chops with salt and cracked black pepper. Melt 1 tablespoon I Can't Believe It's Not Butter!(R) Spread in large nonstick skillet over medium-high heat and cook chops, turning once, until done, about 8 minutes. Meanwhile, grate 1 teaspoon peel and squeeze 1/4 cup juice from orange. Remove chops to serving platter and keep warm.",
+        "Melt remaining 1 tablespoon Spread in same skillet over medium-high heat. Add orange juice and bring to a boil, scraping brown bits from bottom of pan. Boil 1 minute or until mixture reduces slightly. Remove from heat and stir in sage and orange peel. Drizzle over chops."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2562019.jpg",
+    "ingredients": [
+        "4 (5 ounce) boneless center-cut pork chops, 1/2-inch thick",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon cracked black pepper",
+        "2 tablespoons I Can't Believe It's Not Butter!\u00ae Spread, divided",
+        "1 large orange",
+        "1 tablespoon chopped fresh sage leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange-Sage Pork Chops",
     "url": "http://allrecipes.com/recipe/244834/orange-sage-pork-chops/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Coat the inside of a slow cooker with cooking spray.",
+        "Whisk flour, brown sugar, baking powder, and baking soda together in a bowl. Whisk peanut butter, sour cream, melted butter, almond extract, and 2 tablespoons boiling water in a separate bowl until smooth. Stir flour mixture into peanut butter mixture to make a very thick batter. Scoop batter into prepared slow cooker.",
+        "Whisk white sugar, cocoa powder, and 2 cups of boiling water in a bowl until thoroughly combined. Pour chocolate mixture over batter in slow cooker.",
+        "Cook on High until cake begins to pull away from the sides of the cooker and feels firm on top, about 1 1/2 hours. Allow to cool 15 minutes before serving. Drizzle with chocolate syrup."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/997671.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 1/2 cups all-purpose flour",
+        "1/2 cup brown sugar",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "1 cup creamy peanut butter",
+        "3/4 cup sour cream",
+        "3 tablespoons butter, melted",
+        "1 teaspoon almond extract",
+        "2 tablespoons boiling water",
+        "3/4 cup white sugar",
+        "6 tablespoons unsweetened cocoa powder",
+        "2 cups boiling water",
+        "2 tablespoons chocolate syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Warm Chocolate Peanut Butter Pudding Cake",
     "url": "http://allrecipes.com/recipe/230780/warm-chocolate-peanut-butter-pudding/"
 }

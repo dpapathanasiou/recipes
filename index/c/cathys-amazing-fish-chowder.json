@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon strips in a large stockpot over medium-high heat. Cook bacon until crisp, then remove to paper towels to drain. Drain grease from the pot, reserving about 1 tablespoon. Set heat to medium, and fry onions in the reserved bacon grease until tender, about 5 minutes.",
+        "Add potatoes, and fill pot with just enough water to cover them. Bring to a boil, then cook until potatoes are almost tender, about 5 minutes. Add fish pieces, evaporated milk, whole milk, and butter. Bring to a boil, then simmer over low heat for 30 minutes. Season with salt and pepper to taste.  Ladle into bowls, and top with crumbled bacon pieces."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/192151.jpg",
+    "ingredients": [
+        "1 pound sliced bacon",
+        "1 large onion, chopped",
+        "5 medium potatoes, peeled and diced",
+        "1 1/2 pounds cod fillets, cut into 1 inch cubes",
+        "1 (12 fluid ounce) can evaporated milk",
+        "1/2 cup whole milk",
+        "2 tablespoons butter",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cathy's Amazing Fish Chowder",
     "url": "http://allrecipes.com/recipe/49266/cathys-amazing-fish-chowder/"
 }

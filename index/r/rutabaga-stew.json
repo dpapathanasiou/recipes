@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat vegetable oil in a Dutch oven or large pot over medium heat. Cook and stir chicken in hot oil until completely browned, 3 to 5 minutes. Add rutabagas, beets, carrots, celery, and red onion to the pot. Pour enough water over the vegetable mixture to cover completely. Reduce heat to low and cook at a simmer for at least 4 hours, adding water as needed to keep vegetable submerged."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1549554.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 1/2 pounds chicken, diced",
+        "4 rutabagas, peeled and diced",
+        "4 medium beets, peeled and diced",
+        "4 carrots, diced",
+        "3 stalks celery, diced",
+        "1 red onion, diced",
+        "water, or to cover"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rutabaga Stew",
     "url": "http://allrecipes.com/recipe/230829/rutabaga-stew/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F.  Butter a cookie sheet. Write fortunes on strips of paper about 4 inches long and 1/2 inch wide. Generously grease 2 cookie sheets.",
+        "Mix the egg white and vanilla until foamy but not stiff.  Sift the flour, salt, and sugar and blend into the egg white mixture.",
+        "Place teaspoonfuls of the batter at least 4 inches apart on one of the prepared cookie sheets.  Tilt the sheet to move the batter into round shapes about 3 inches in diameter.  Be careful to make batter as round and even as possible. Do not make too many, because the cookie have to be really hot to form them and once they cool it is too late. Start with 2 or 3 to a sheet and see how many you can do.",
+        "Bake for 5 minutes or until cookie has turned a golden color 1/2 inch wide around the outer edge of the circle. The center will remain pale. While one sheet is baking, prepare the other.",
+        "Remove from oven and quickly move cookie with a wide spatula and place upside down on a wooden board. Quickly place the fortune on the cookie, close to the middle and fold the cookie in half.  Place the folded edge across the rim of a measuring cup and pull the pointed edges down, one on the inside of the cup and one on the outside.  Place folded cookies into the cups of a muffin tin or egg carton to hold their shape until firm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F688734.jpg",
+    "ingredients": [
+        "1  egg white",
+        "\u215b teaspoon vanilla extract",
+        "1 pinch salt",
+        "\u00bc cup unbleached all-purpose flour",
+        "\u00bc cup white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fortune Cookies I",
     "url": "http://allrecipes.com/recipe/9684/fortune-cookies-i/"
 }

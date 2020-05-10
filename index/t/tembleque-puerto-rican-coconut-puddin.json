@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir coconut milk, sugar, and salt together in a saucepan. Spoon a few tablespoons of the coconut milk mixture into a small bowl and stir cornstarch into the mixture to dissolve; pour into the mixture in the saucepan. Bring the mixture to a boil while stirring constantly; cook until smooth and thick, about 5 minutes.",
+        "Pour the coconut milk mixture into molds, cover each with plastic wrap, and refrigerate until cold and firm, 3 hours to 2 days.",
+        "Run a thin knife around the edges of the mold and invert onto a plate to remove putting. Garnish tops with cinnamon."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5412888.jpg",
+    "ingredients": [
+        "2 (14 ounce) cans coconut milk",
+        "3/4 cup sugar",
+        "1/4 teaspoon kosher salt",
+        "1/2 cup cornstarch",
+        "1 pinch ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tembleque Puerto Rican Coconut Pudding",
     "url": "http://allrecipes.com/recipe/238693/tembleque-puerto-rican-coconut-puddin/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt coconut oil in a large pot over medium-high heat. Saute chicken in hot oil until browned completely, about 5 minutes; add celery, onion, curry powder, and garlic and continue to saute until the onion is tender, 8 to 10 minutes more.",
+        "Pour chicken broth, water, and coconut milk into the pot; add butternut squash, diced tomatoes with green chile peppers, and coconut. Bring the liquid to a boil, reduce heat to medium-low, and cook the soup at a simmer until the squash is soft, about 40 minutes.",
+        "Stir sliced bananas into the soup; simmer until soft, about 5 minutes more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6125081.jpg",
+    "ingredients": [
+        "2 tablespoons coconut oil",
+        "6  skinless, boneless chicken breast halves, cut into chunks",
+        "2 cups chopped celery",
+        "\u00bd cup chopped red onion",
+        "2 tablespoons curry powder",
+        "4 cloves garlic, minced",
+        "4 cups chicken broth",
+        "2 cups water",
+        "1 (15 ounce) can light coconut milk",
+        "2 cups butternut squash cubes",
+        "2 (10 ounce) cans diced tomatoes with green chile peppers",
+        "\u00be cup sweetened shredded coconut",
+        "2  firm bananas, thickly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butternut Chicken and Banana Soup",
     "url": "http://allrecipes.com/recipe/241448/butternut-chicken-and-banana-soup/"
 }

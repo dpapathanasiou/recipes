@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a food processor, combine the butter, feta cheese, cream cheese, garlic, shallot, vermouth, and white pepper. Process until smooth.",
+        "Oil a medium bowl, or gelatin mold, and line with plastic wrap for easy removal. Layer the dip into the mold as follows: Sun-dried tomatoes, pine nuts, pesto, cheese mixture. Repeat. Pat down into the mold, and refrigerate for at least one hour.",
+        "Turn the dip out onto a serving plate, and remove plastic wrap. Serve with crackers."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup unsalted butter",
+        "\u00be pound feta cheese, crumbled",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 cloves garlic, minced",
+        "1  shallot, minced",
+        "3 tablespoons dry vermouth",
+        "ground white pepper, to taste",
+        "\u00bd cup pine nuts, toasted",
+        "1 cup chopped sun-dried tomatoes",
+        "\u00be cup pesto sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dip For The Stars",
     "url": "http://allrecipes.com/recipe/38425/dip-for-the-stars/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place onion, garlic, kecap manis, coriander, cumin, sambal oelek, red wine and water in a food processor and blend to a smooth paste. Pour marinade into a large glass or ceramic bowl. Stir in the lemon grass. Add the beef and toss to evenly coat. Cover the bowl with plastic wrap, and marinate in the refrigerator for at least 2 hours. Thread beef onto metal or soaked wooden skewers, about 4 cubes per skewer.",
+        "Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+        "Grill skewers until beef reaches desired doneness, about 5 minutes for medium."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=598&h=313&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1010865.jpg",
+    "ingredients": [
+        "1  onion, chopped",
+        "1 clove garlic, minced",
+        "1\u2009\u00bd tablespoons kecap manis",
+        "1 teaspoon ground coriander",
+        "1 teaspoon ground cumin",
+        "1 teaspoon sambal oelek",
+        "\u00bd cup red wine",
+        "1\u2009\u00bd tablespoons water",
+        "1  lemon grass, bruised, and cut into 1 inch pieces",
+        "1 pound sirloin steak, cut into 1-inch cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Indonesia Sate (Meat Kabobs)",
     "url": "http://allrecipes.com/recipe/165961/indonesia-sate-meat-kabobs/"
 }

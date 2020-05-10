@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Combine all-purpose flour, whole wheat flour, baking powder, sugar, and salt in bowl. Cut in butter with a knife or pastry blender until mixture resembles coarse crumbs; stir in buttermilk until just moistened.",
+        "Turn dough out on a lightly floured surface; knead gently 8 to 10 times. Roll to about 3/4-inch thickness; cut with a 2 1/2-inch biscuit cutter. Place biscuits on an ungreased baking sheet.",
+        "Bake in preheated oven until biscuits are lightly browned, 10 to 12 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3000&h=1571&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F863849.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 cup whole wheat flour",
+        "4 teaspoons baking powder",
+        "1 tablespoon white sugar",
+        "\u00be teaspoon salt",
+        "\u00bc cup butter",
+        "1 cup buttermilk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fluffy Whole Wheat Biscuits",
     "url": "http://allrecipes.com/recipe/222600/fluffy-whole-wheat-biscuits/"
 }

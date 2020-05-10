@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large saucepan over medium-high heat.  Saute the chopped onion, green onion, and mushrooms until tender.  Stir in the spinach a handful at a time and cook to wilt.",
+        "Whisk together 2 cups of milk with the flour in a small bowl.  Pour into saucepan, and add remaining milk and chicken broth.  Cook over medium heat until thickened.  Stir in undrained oysters and cheese.  Cook, stirring often, until cheese has melted."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/542390.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 medium onion, chopped",
+        "2 large green onions, sliced",
+        "1 cup sliced fresh mushrooms",
+        "1 bunch fresh baby spinach leaves, rinsed and drained",
+        "5 cups milk, divided",
+        "1/2 cup all-purpose flour",
+        "2 cups chicken broth",
+        "3 (8 ounce) cans whole oysters",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oyster and Spinach Chowder",
     "url": "http://allrecipes.com/recipe/104802/oyster-and-spinach-chowder/"
 }

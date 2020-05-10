@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Place drumsticks in a baking dish.",
+        "Whisk water, ketchup, vinegar, brown sugar, butter, salt, Worcestershire sauce, mustard, and chili powder together in a bowl; pour mixture over drumsticks. Cover with aluminum foil.",
+        "Bake in preheated oven until no longer pink at the bone and the juices run clear, about 1 hour, turning chicken about halfway through. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "6  chicken drumsticks",
+        "\u00bd cup water",
+        "\u2153 cup ketchup",
+        "\u2153 cup white vinegar",
+        "\u00bc cup brown sugar",
+        "4 teaspoons butter",
+        "2 teaspoons salt",
+        "2 teaspoons Worcestershire sauce, or to taste",
+        "2 teaspoons dry mustard",
+        "2 teaspoons chili powder, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oven BBQ Chicken Drumsticks",
     "url": "http://allrecipes.com/recipe/222932/oven-bbq-chicken-drumsticks/"
 }

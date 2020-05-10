@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the honey, Worcestershire sauce, vanilla extract, cumin, liquid smoke, olive oil, onion, garlic powder, balsamic vinegar, and salt in a small bowl. Pour marinade over steaks at least 30 minutes before you cook them using your preferred method."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/259386.jpg",
+    "ingredients": [
+        "3 tablespoons honey",
+        "3 tablespoons Worcestershire sauce",
+        "1/4 teaspoon vanilla extract",
+        "1 teaspoon cumin",
+        "1 tablespoon hickory-flavored liquid smoke",
+        "1 tablespoon olive oil",
+        "1 teaspoon minced onion",
+        "1 teaspoon garlic powder",
+        "1 teaspoon balsamic vinegar",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Spicy Marinade for Steak",
     "url": "http://allrecipes.com/recipe/158350/sweet-and-spicy-marinade-for-steak/"
 }

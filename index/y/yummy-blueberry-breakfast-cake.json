@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x9-inch baking pan.",
+        "Mix 1 1/4 cups flour, 1/2 cup white sugar, baking powder, baking soda, and salt together in a bowl using a fork. Stir 1/2 cup butter, milk, egg, and vanilla extract into flour mixture until evenly combined. Pour batter into prepared pan.",
+        "Combine 1/2 cup flour, 1/4 cup white sugar, and 3 tablespoons butter in a bowl using a fork until mixture resembles crumbs; sprinkle half the crumb mixture over the batter.",
+        "Stir blueberry pie filling and lemon extract together in a bowl; spread over crumb topping. Sprinkle blueberries over pie filling; top with remaining crumb topping.",
+        "Bake in the preheated oven until cake is golden brown, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1091743.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups all-purpose flour",
+        "\u00bd cup white sugar",
+        "1 teaspoon baking powder",
+        "\u00bc teaspoon baking soda",
+        "\u00bc teaspoon salt",
+        "\u00bd cup butter, melted",
+        "\u00bd cup milk",
+        "1  egg",
+        "1 teaspoon vanilla extract",
+        "\u00bd cup all-purpose flour",
+        "\u00bc cup white sugar",
+        "3 tablespoons butter, melted",
+        "1 (21 ounce) can blueberry pie filling",
+        "\u00bc teaspoon lemon extract",
+        "\u00bc cup fresh blueberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yummy Blueberry Breakfast Cake",
     "url": "http://allrecipes.com/recipe/232234/yummy-blueberry-breakfast-cake/"
 }

@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place poppy seeds into a food processor and process until seeds are ground, about 1 minute.",
+        "Mix poppy seeds with 3/4 cup sugar, 1 tablespoon melted butter, lemon juice, and hot milk in a bowl; stir to combine. Cover poppy seed filling and refrigerate while making bread (filling will set up and thicken as it chills).",
+        "Mix yeast with water and 2 tablespoons sugar in a small bowl. Allow to stand until the yeast forms a creamy layer.",
+        "Whisk flour with salt in a bowl; use a pastry cutter to cut 1/4 cup butter into the flour mixture until the mixture resembles coarse crumbs.",
+        "Pour yeast mixture and egg yolk into flour mixture and stir to make a soft dough.",
+        "Turn dough out onto a floured work surface and knead until smooth and slightly springy, about 5 minutes. If dough is too sticky, knead in more flour, about 2 tablespoons at a time.",
+        "Cut dough into 2 equal pieces. Roll each piece out into a 12x16-inch rectangle.",
+        "Spread half the poppy seed filling over each rectangle, leaving a 1-inch border. Fold the 1-inch border back over the filling on all sides and press down.",
+        "Pick up the shorter side of a dough rectangle and roll it like a jelly roll; repeat with second rectangle. Pinch ends together or tuck ends under to prevent filling from leaking out.",
+        "Line a baking sheet with parchment paper; place rolls seam sides down on the baking sheet and allow to rise in a warm place until doubled, about 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Beat egg white in a bowl until frothy; brush the rolls with beaten egg white.",
+        "Bake in preheated oven until dark golden brown on top, 30 to 40 minutes. Remove from oven and cover rolls with a clean kitchen towel until cool to keep crust soft. Cool completely before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5930435.jpg",
+    "ingredients": [
+        "\u00bd pound poppy seeds",
+        "\u00be cup white sugar",
+        "1 tablespoon butter, melted",
+        "1 teaspoon lemon juice",
+        "\u00bd cup hot milk",
+        "1 (.25 ounce) package active dry yeast",
+        "\u00bd cup warm water (100 degrees F/38 degrees C)",
+        "2 tablespoons white sugar",
+        "2 cups all-purpose flour, or more if needed",
+        "\u00bd teaspoon salt",
+        "\u00bc cup butter",
+        "1  egg, separated - white reserved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Old World Poppy Seed Roll",
     "url": "http://allrecipes.com/recipe/220763/old-world-poppy-seed-roll/"
 }

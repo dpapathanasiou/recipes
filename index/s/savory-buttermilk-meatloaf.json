@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with a silicone baking mat.",
+        "Melt butter in a skillet over medium-high heat. Saute onion in hot butter until soft and translucent, 6 to 7 minutes. Cool to room temperature.",
+        "Combine cooled onion, beef chuck, bread crumbs, buttermilk, ketchup, eggs, Worcestershire sauce, salt, black pepper, hot sauce, tarragon, and Italian seasoning in a bowl; mix together with a fork and let sit until breadcrumbs absorb moisture, about 10 minutes.",
+        "Turn meatloaf mixture out into the center of the prepared baking sheet and form into a 9x5-inch loaf.",
+        "Bake in the preheated oven for 45 minutes. While meatloaf is baking, whisk brown sugar, mustard, and cider vinegar together in a small bowl. Spread brown sugar glaze over the top of the meatloaf and continue baking until no longer pink in the center, about 30 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 tablespoons butter",
+        "1  yellow onion, diced",
+        "2\u2009\u00bd pounds ground chuck",
+        "1 cup dry bread crumbs",
+        "\u00be cup buttermilk",
+        "\u00bd cup ketchup",
+        "2  eggs, beaten",
+        "1 tablespoon Worcestershire sauce",
+        "2\u2009\u00bd teaspoons salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon hot sauce",
+        "\u00bd teaspoon dried tarragon",
+        "\u00bd teaspoon Italian seasoning",
+        "\u00bc cup brown sugar",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon cider vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Buttermilk Meatloaf",
     "url": "http://allrecipes.com/recipe/237319/savory-buttermilk-meatloaf/"
 }

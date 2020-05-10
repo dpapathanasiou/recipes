@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a 9x13 inch pan mix cherries and pineapple.  Sprinkle dry cake mix over pineapple, and cherry mixture stir until just combined. Then sprinkle walnuts over top.  Drizzle top with melted butter or margarine.",
+        "Bake in a 350 degree F (175 degree C) oven for 35 or 40 minutes or until golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (21 ounce) can cherry pie filling",
+        "1 (15 ounce) can crushed pineapple",
+        "1 (18.25 ounce) package yellow cake mix",
+        "8 ounces chopped walnuts",
+        "\u00bd cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dump Cake I",
     "url": "http://allrecipes.com/recipe/7288/dump-cake-i/"
 }

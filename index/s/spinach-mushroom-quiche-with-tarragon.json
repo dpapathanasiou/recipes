@@ -1,9 +1,40 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place egg white of 1 egg into a small bowl and whisk with water until foamy. Set the egg yolk aside in a large bowl.",
+        "Fit pie crust into a 9-inch pie dish. Brush egg white mixture over the edges and inside of crust. Poke holes into the inside and up the sides of the crust with a fork.",
+        "Bake crust in the preheated oven until the egg white glaze cooks onto the crust, about 5 minutes.",
+        "Pour any remaining egg white mixture into the large bowl with the yolk; whisk in 2 more eggs and milk until thoroughly combined. Set egg mixture aside.",
+        "Heat canola oil in a large skillet over medium heat; cook and stir mushrooms and onion until the mushroom's liquid has evaporated, 9 to 15 minutes. Season with salt and black pepper.",
+        "Turn off heat and stir spinach into hot mushrooms to wilt. Mix in tarragon, paprika, and cayenne pepper.",
+        "Gently stir mushroom-spinach mixture into eggs and milk. Fold 1 1/4 cup of white Cheddar cheese into the filling.",
+        "Pour mushroom-spinach filling into the prebaked pie crust and arrange slices of zucchini in a decorative pattern on top of the filling. Top with 1/4 cup white Cheddar cheese in an even layer.",
+        "Place the quiche onto a baking sheet and bake in the oven until top is lightly browned and a knife inserted into the middle of the quiche comes out clean, 35 to 40 minutes.",
+        "Allow quiche to cool on the hot baking sheet for 5 minutes before removing to finish cooling on a wire rack until serving temperature, 10 to 15 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2891301.jpg",
+    "ingredients": [
+        "1  egg, separated",
+        "1 tablespoon water",
+        "1  prepared 9-inch single pie crust",
+        "2  eggs",
+        "1 cup milk",
+        "2 tablespoons canola oil",
+        "1 (8 ounce) package sliced fresh mushrooms",
+        "\u00bd cup chopped onion",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon freshly ground black pepper",
+        "1 (6 ounce) bag fresh spinach, chopped",
+        "\u00bc teaspoon dried tarragon",
+        "\u00bc teaspoon paprika",
+        "\u215b teaspoon cayenne pepper",
+        "1\u2009\u00bc cups shredded white Cheddar cheese",
+        "1 small zucchini, thinly sliced into rounds",
+        "\u00bc cup shredded white Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spinach Mushroom Quiche with Tarragon",
     "url": "http://allrecipes.com/recipe/221197/spinach-mushroom-quiche-with-tarragon/"
 }

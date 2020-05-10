@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 2 quart baking dish. Place the hash brown potatoes in the bottom of the baking dish.",
+        "Heat a skillet over medium heat and cook and stir the sausage and onion until the sausage is crumbly, evenly browned, and no longer pink; drain. Meanwhile, whisk together the eggs, milk, onion powder, garlic powder, salt, and pepper, and pour over the potatoes. Layer with half the Cheddar cheese, the sausage mixture, and the remaining Cheddar cheese. Cover with aluminum foil.",
+        "Bake in the preheated oven for 1 hour. Remove cover; return casserole to the oven and bake until a knife inserted into the center comes out clean, about 10 minutes. Let stand for 5 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (2 pound) package frozen hash brown potatoes, thawed",
+        "1 pound pork sausage",
+        "1 small onion, diced",
+        "5  eggs",
+        "\u00bd cup milk",
+        "\u00bd teaspoon onion powder",
+        "\u215b teaspoon garlic powder",
+        "salt and ground black pepper to taste",
+        "12 ounces shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hash Brown and Egg Casserole",
     "url": "http://allrecipes.com/recipe/87013/hash-brown-and-egg-casserole/"
 }

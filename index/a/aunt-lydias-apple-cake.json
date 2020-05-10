@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Sift flour and salt together into a medium bowl. Cut in butter as for pie crust to pea sized pieces. Set aside.",
+        "Put warm water and 1 teaspoon sugar in a large bowl. Add yeast. Let dissolve. Add slightly beaten egg yolks to yeast mixture.",
+        "Add flour mixture and gently mix until mixture forms a ball. Divide in half. Use one-half for bottom and one-half for top crust. Roll out one crust to fit a 9x13 inch ungreased pan. Sprinkle tapioca over dough.",
+        "Fill with sliced apples, piled high. Sprinkle with mixture of 3/4 cup sugar and 1 teaspoon cinnamon.",
+        "Roll top crust to fit pan. Put top over apples, seal in around pan, tucking top under (do not flute). Do not prick.",
+        "Bake at 350 degrees F (175 degrees C) for 45 minutes. While still slightly warm, frost with butter frosting."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "7  apples - peeled, cored and sliced",
+        "2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 cup butter",
+        "1 (.25 ounce) package active dry yeast",
+        "\u00bc cup warm water",
+        "1 teaspoon white sugar",
+        "2  egg yolks",
+        "\u00bd cup tapioca",
+        "\u00be cup white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aunt Lydia's Apple Cake",
     "url": "http://allrecipes.com/recipe/8304/aunt-lydias-apple-cake/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Arrange phyllo tart shells on a baking sheet. Fill each shell with about 1 teaspoon Swiss cheese and 1/2 teaspoon bacon.",
+        "Lightly beat egg, half-and-half, basil, parsley, garlic powder, salt, and black pepper together in a bowl. Pour about 1 teaspoon egg mixture into each phyllo shell.",
+        "Bake in the preheated oven until egg is set in the middle and lightly browned, 12 to 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1549&h=811&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1017048.jpg",
+    "ingredients": [
+        "15  mini phyllo tart shells",
+        "\u00bd cup shredded Swiss cheese",
+        "\u2153 cup crumbled cooked bacon",
+        "1  egg",
+        "\u00bd cup half-and-half",
+        "\u00bc teaspoon dried basil",
+        "\u00bc teaspoon dried parsley",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc teaspoon salt",
+        "\u215b teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Mini Quiches",
     "url": "http://allrecipes.com/recipe/229224/quick-mini-quiches/"
 }

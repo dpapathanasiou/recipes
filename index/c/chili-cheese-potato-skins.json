@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a microwave, cook potatoes on high heat until soft, 15 to 20 minutes. Turn and rearrange potatoes for even cooking every few minutes.",
+        "Heat oil in a large, heavy skillet or deep-fryer to 375 degrees F (190 degrees C). Cut potatoes in half lengthwise, and scoop out center of potatoes, leaving about 1/4 inch on the skins. Place scooped out potato in a medium bowl, and mash together with margarine and salt. Set aside.",
+        "Fry skins in the hot oil, turning occasionally until golden brown, about 5 minutes. Drain on paper towels.",
+        "Preheat oven to 350 degrees F (175 degrees C). Place ground beef in a large skillet, and cook over medium-high heat until evenly brown; drain. Mix in chili seasoning and processed cheese. Cook and stir until cheese is melted.",
+        "Stuff potato skins with the ground beef mixture, and top with mashed potato mixture. Sprinkle the tops with chili powder. Arrange stuffed skins in a single layer on a large baking sheet, and bake in the preheated oven 15 minutes, or until mashed potatoes are lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F852574.jpg",
+    "ingredients": [
+        "10 medium baking potatoes",
+        "2 cups oil for frying, or as needed",
+        "\u00bc cup margarine",
+        "salt to taste",
+        "1 pound ground beef",
+        "1 (1.25 ounce) package chili seasoning mix",
+        "1 pound processed cheese food, cubed",
+        "chili powder to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chili Cheese Potato Skins",
     "url": "http://allrecipes.com/recipe/31521/chili-cheese-potato-skins/"
 }

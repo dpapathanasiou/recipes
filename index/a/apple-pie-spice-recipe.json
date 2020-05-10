@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cinnamon, nutmeg, allspice, and cardamom together in an airtight container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3984573.jpg",
+    "ingredients": [
+        "1 tablespoon ground cinnamon",
+        "1 1/2 teaspoons ground nutmeg",
+        "3/4 teaspoon ground allspice",
+        "3/4 teaspoon ground cardamom"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Pie Spice",
     "url": "http://allrecipes.com/recipe/255495/apple-pie-spice-recipe/"
 }

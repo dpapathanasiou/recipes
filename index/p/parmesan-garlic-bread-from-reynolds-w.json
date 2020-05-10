@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Position a rack in the center of the oven and preheat to 450 degrees F.",
+        "Combine the butter, garlic cloves, Parmesan and parsley in a food processor and blend until the mixture is very finely textured and a bright green color (the brighter green, the better).",
+        "With a knife, cut slices into the tops of the baguettes roughly 1-1 1/2 inches between each slice. Do not go all the way down or the bread will fall apart or slice in half. Use a small spoon or spatula to swipe a generous dollop of the parsley-garlic mixture in each slice.",
+        "Tear off 2 sheets of Reynolds Wrap(R) Aluminum Foil per baguette, ensuring the foil is longer than the length of the baguette (12x18 inches); place the baguette on the sheets of foil. Bring up foil sides. Double fold top and ends to seal packet, leaving room for heat circulation inside. Close up the ends nice and tight.",
+        "Bake for 10-15 minutes. Open packets carefully by cutting along top fold with a sharp knife, allowing steam to escape; then open top of foil packet. The bottom and top should be crisp; if not, open up the foil and bake for a few more minutes. Sprinkle a bit more salt on the top and serve while still hot, crispy and steamy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2579537.jpg",
+    "ingredients": [
+        "3 baguettes",
+        "8 ounces unsalted butter",
+        "2 large cloves garlic, peeled and crushed",
+        "1 cup packed finely grated Parmesan cheese",
+        "1 small bunch Italian flat leaf parsley, larger stems removed",
+        "1 tablespoon sea salt",
+        "Reynolds Wrap\u00ae Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Parmesan Garlic Bread from Reynolds Wrap\u00ae",
     "url": "http://allrecipes.com/recipe/244900/parmesan-garlic-bread-from-reynolds-w/"
 }

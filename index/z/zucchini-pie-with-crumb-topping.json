@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a 9-inch pie dish with the pie crust, and place the pie dish onto a baking sheet.",
+        "Place zucchini into the work bowl of a food processor, and process until pureed. Transfer the puree to a bowl, and whisk with eggs, 1 cup white sugar, 1/2 cup melted butter, 2 tablespoons flour, and the vanilla extract. Pour the mixture into the pie crust.",
+        "Place 1/2 cup flour, brown sugar, and 3 tablespoons of butter into a bowl, and cut the mixture with a pastry cutter until the topping resembles coarse crumbs. Sprinkle the topping evenly over the pie filing.",
+        "Bake in the preheated oven until the filling is set and the topping is lightly browned, about 45 minutes. Allow to cool for at least 30 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2443&h=1279&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F999014.jpg",
+    "ingredients": [
+        "1 (9 inch) unbaked pie crust",
+        "1 cup peeled, cubed zucchini",
+        "2  eggs",
+        "1 cup white sugar",
+        "\u00bd cup butter, melted",
+        "2 tablespoons all-purpose flour",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bd cup all-purpose flour",
+        "\u00bd cup brown sugar",
+        "3 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zucchini Pie with Crumb Topping",
     "url": "http://allrecipes.com/recipe/215078/zucchini-pie-with-crumb-topping/"
 }

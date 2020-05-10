@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside. Spray a 9 inch pie plate with non-stick cooking spray.",
+        "In a large bowl, beat together baking mix, 3/4 cup cheddar cheese, milk, maple syrup, sugar and eggs until only small lumps of cheese remain. Pour into prepared pie plate.",
+        "Bake in preheated oven for 10 to 15 minutes, until a toothpick inserted into center of pancake comes out clean. Sprinkle bacon and remaining 1/2 cup cheese over top of pancake. Bake until cheese melts, about 3 to 5 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F32922.jpg",
+    "ingredients": [
+        "4 ounces bacon",
+        "1 cup baking mix",
+        "1\u2009\u00bc cups shredded Cheddar cheese, divided",
+        "\u00bd cup milk",
+        "\u00bc cup maple syrup",
+        "2 tablespoons white sugar",
+        "2  eggs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Maple Bacon Pancake",
     "url": "http://allrecipes.com/recipe/23397/maple-bacon-pancake/"
 }

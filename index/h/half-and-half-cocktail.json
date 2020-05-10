@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill 1/2 a pint glass with pale ale. Slowly fill the remainder of the glass with stout, pouring it slowly over the back side of a spoon to layer it on top."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/971349.jpg",
+    "ingredients": [
+        "8 fluid ounces pale ale",
+        "8 fluid ounces stout"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Half and Half Cocktail",
     "url": "http://allrecipes.com/recipe/222887/half-and-half-cocktail/"
 }

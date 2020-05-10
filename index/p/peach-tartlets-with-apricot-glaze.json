@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line 2 baking sheets with parchment paper.",
+        "Cut each sheet of puff pastry into nine 3-inch squares. Dab a small amount of apricot preserves into the center of each square. Fan 3 slices of peach over the preserves, leaving a slim border of pastry exposed. Spoon a small amount of apricot preserves over the peach slices.",
+        "Bake in the preheated oven, 1 baking sheet at a time, until puff pastry turns golden, about 10 minutes.",
+        "Thin remaining apricot preserves with 2 teaspoons hot water in a small bowl to make a glaze.",
+        "Spoon some of the glaze over each baked tartlet. Return to the oven and bake until tartlets are golden brown, about 2 minute more. Repeat with second baking sheet. Cool tartlets on a wire rack before serving, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3453&h=1808&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4530939.jpg",
+    "ingredients": [
+        "1 (17.3 ounce) package frozen puff pastry, thawed",
+        "\u00be cup apricot preserves, divided",
+        "2  peaches - peeled, pitted, and thinly sliced, or more as needed",
+        "2 teaspoons hot water, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peach Tartlets with Apricot Glaze",
     "url": "http://allrecipes.com/recipe/246509/peach-tartlets-with-apricot-glaze/"
 }

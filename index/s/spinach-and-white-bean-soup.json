@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine baby spinach and carrot in a food processor; pulse until finely chopped.",
+        "Heat oil in a large pot over medium heat. Cook and stir shallot and garlic in the hot oil until fragrant, 2 to 3 minutes. Stir in spinach and carrot mixture, chicken stock, white beans, oregano, thyme, salt, and pepper. Bring to a boil, stirring occasionally. Reduce heat and simmer until flavors combine, about 20 minutes.",
+        "Remove soup from heat and stir in lemon juice. Puree with an immersion blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4462184.jpg",
+    "ingredients": [
+        "3 cups baby spinach",
+        "1/2 cup chopped carrot",
+        "3 tablespoons olive oil",
+        "1 shallot, finely chopped",
+        "3 cloves garlic, minced",
+        "2 cups chicken stock",
+        "1 (15 ounce) can white beans, drained",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon dried thyme",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "2 tablespoons lemon juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spinach and White Bean Soup",
     "url": "http://allrecipes.com/recipe/256731/spinach-and-white-bean-soup/"
 }

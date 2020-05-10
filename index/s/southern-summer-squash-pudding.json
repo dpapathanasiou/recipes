@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add squash, cover, and steam until tender, 2 to 6 minutes. Transfer squash to a bowl and mash with a fork or potato masher until smooth.",
+        "Preheat oven to 350 degrees F (175 degrees C). Generously grease a 9x13-inch baking dish.",
+        "Combine sugar, milk, egg, butter, and lemon extract in a large bowl. Gradually sift flour into milk mixture. Fold mashed squash into milk mixture until batter is smooth. Pour batter into prepared baking dish.",
+        "Bake in the preheated oven until air bubbles form on the surface and pudding is golden brown, about 1 hour. Chill in the refrigerator until firm; cut into bars."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4989628.jpg",
+    "ingredients": [
+        "3 1/4 cups peeled, seeded, and diced yellow squash",
+        "1 1/2 cups white sugar",
+        "1/2 cup milk",
+        "1 egg, beaten",
+        "2 tablespoons butter, melted",
+        "2 teaspoons lemon extract",
+        "1 cup self-rising flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Summer Squash Pudding",
     "url": "http://allrecipes.com/recipe/238566/southern-summer-squash-pudding/"
 }

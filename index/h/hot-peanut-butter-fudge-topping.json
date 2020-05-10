@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix milk, peanut butter, honey, and brown sugar together in a saucepan over medium-high heat; cook and stir, scraping sides and bottom of saucepan with a rubber spatula, until topping is thickened, 10 to 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3319541.jpg",
+    "ingredients": [
+        "1 (12 ounce) can evaporated milk",
+        "3/4 cup peanut butter",
+        "1/4 cup honey",
+        "2 tablespoons brown sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot Peanut Butter Fudge Topping",
     "url": "http://allrecipes.com/recipe/238957/hot-peanut-butter-fudge-topping/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a saucepan over medium heat, combine sugar and water. Bring to a boil, and stir until sugar is dissolved. Add peanuts, and cook stirring, over medium heat until peanuts are evenly coated, and no syrup is left in pan. Spread nuts out on a baking sheet.",
+        "Bake in preheated oven for 20 minutes, stirring every 5 minutes to evenly roast peanuts."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F951114.jpg",
+    "ingredients": [
+        "1 cup sugar",
+        "\u00bd cup water",
+        "2 cups raw peanuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sugar Peanuts",
     "url": "http://allrecipes.com/recipe/53169/sugar-peanuts/"
 }

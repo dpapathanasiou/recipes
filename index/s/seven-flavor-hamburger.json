@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook ground beef in a large skillet over medium heat until no longer pink. Stir frequently, and break into pieces. Drain off grease.",
+        "Add onion, celery, and green pepper to the skillet, and season with salt and pepper. Cook, stirring until onion is soft, about 5 minutes. Stir in ketchup, vinegar, sugar, Worcestershire sauce, and tomato sauce. Cover, reduce heat to low, and simmer for 20 minutes. Spoon onto buns, and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F479630.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "\u00bd cup chopped onion",
+        "\u00bc cup chopped celery",
+        "\u00bc cup chopped green bell pepper",
+        "1 teaspoon salt",
+        "1 pinch ground black pepper",
+        "\u2153 cup ketchup",
+        "1 tablespoon white vinegar",
+        "1 tablespoon white sugar",
+        "2 tablespoons Worcestershire sauce",
+        "1 (8 ounce) can tomato sauce",
+        "6  hamburger buns, split"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seven Flavor Hamburger",
     "url": "http://allrecipes.com/recipe/45616/seven-flavor-hamburger/"
 }

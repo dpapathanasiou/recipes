@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Make crisscross cuts on surface of meat on both sides, and place in a shallow dish.  Reserve 1/2 cup orange juice.  Mix remaining orange juice with garlic and ginger.  Pour over meat, and marinate in refrigerator for at least 6 hours.",
+        "Preheat grill for medium heat.",
+        "Brush grate with oil, and place steak on grill.  Cook for 10 to 12 minutes per side, or until done. Remove from grill, and rest for several minutes.",
+        "Meanwhile, heat reserved orange juice.  Slice meat, and transfer to a serving platter.  Pour heated orange juice over the meat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/663044.jpg",
+    "ingredients": [
+        "2 pounds top sirloin, 2 inches thick",
+        "2 cloves garlic, minced",
+        "1 tablespoon minced fresh ginger root",
+        "2 oranges, juiced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barbequed Beef Steak with Orange Marinade",
     "url": "http://allrecipes.com/recipe/14566/barbequed-beef-steak-with-orange-mari/"
 }

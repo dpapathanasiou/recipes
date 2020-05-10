@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the flour, yeast, and salt in a large bowl and mix to combine. Add the water and herbs, if using, and mix well. The dough will be very sticky and shaggy-looking. Cover the bowl with plastic wrap and set aside at room temperature for 18 to 24 hours.",
+        "Generously flour a work surface. The dough will have risen and will be covered in bubbles. Transfer the dough to the work surface and dust it with flour. Fold the dough in half, and then form the dough into a ball by stretching and tucking the edges of the dough underneath the ball.",
+        "Liberally flour a kitchen towel (do not use terrycloth). Place the dough ball on the floured towel. Cover with another floured towel. Let the dough rise for about two hours [see footnote].",
+        "Preheat an oven to 450 degrees F (230 degrees C). Place a lidded Dutch oven or deep heavy duty casserole dish (with lid) into the oven to preheat.",
+        "Carefully remove the hot baking dish from the oven. Remove the lid and gently turn the dough ball into the ungreased baking dish, seam-side up; shake the dish so the dough is more evenly distributed.",
+        "Cover and bake for 30 minutes. Remove the lid and bake until the crust is golden brown, 15 to 20 minutes. Remove the loaf from the baking dish and let it cool on a rack before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 cups all-purpose flour",
+        "1 teaspoon active dry yeast",
+        "2 teaspoons salt",
+        "1\u2009\u2154 cups warm water (110 degrees F/45 degrees C)",
+        "1 teaspoon chopped fresh rosemary (optional)",
+        "1 teaspoon chopped fresh thyme (optional)",
+        "1 teaspoon chopped fresh sage (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No-Knead Artisan Style Bread",
     "url": "http://allrecipes.com/recipe/214751/no-knead-artisan-style-bread/"
 }

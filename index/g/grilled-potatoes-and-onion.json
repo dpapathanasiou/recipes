@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat.",
+        "For each packet, measure out 2 or 3 squares of aluminum foil large enough to easily wrap the vegetables, and layer one on top of the other. Place some of the potatoes and onion in the center, sprinkle with salt and pepper, and dot with butter. Wrap into a flattened square, and seal the edges. Repeat with remaining potatoes and onion.",
+        "Place aluminum wrapped package over indirect heat, and cover. Cook for approximately 30 minutes, turning once. Serve hot off the grill."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F679264.jpg",
+    "ingredients": [
+        "4  potatoes, sliced",
+        "1  red onion, sliced",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "4 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Potatoes and Onion",
     "url": "http://allrecipes.com/recipe/14512/grilled-potatoes-and-onion/"
 }

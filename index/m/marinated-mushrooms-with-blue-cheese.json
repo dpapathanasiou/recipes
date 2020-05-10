@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, mix together the blue cheese, vegetable oil, lemon juice, white wine vinegar, garlic, seasoning salt, white sugar, dry mustard and hot sauce. Stir in the mushrooms. Cover and refrigerate 4 to 6 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2858&h=1496&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1932705.jpg",
+    "ingredients": [
+        "\u00bc cup blue cheese, crumbled",
+        "1 cup vegetable oil",
+        "2 tablespoons lemon juice",
+        "\u00bc cup white wine vinegar",
+        "2 cloves garlic, minced",
+        "2 teaspoons seasoning salt",
+        "1 teaspoon white sugar",
+        "\u00bd teaspoon dry mustard",
+        "hot sauce to taste",
+        "2 cups fresh mushrooms, stems removed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Mushrooms with Blue Cheese",
     "url": "http://allrecipes.com/recipe/23959/marinated-mushrooms-with-blue-cheese/"
 }

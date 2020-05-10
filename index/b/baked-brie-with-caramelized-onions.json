@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (205 degrees C).  Place garlic on a baking sheet, and drizzle with olive oil. Roast for 15 to 20 minutes, or until soft. Set aside.",
+        "Meanwhile, melt 1/4 cup butter in a skillet over medium heat. Cook and stir onion and apple in butter until tender and browned. Set aside.",
+        "Arrange brie on top of thawed puff pastry. Top the cheese with the apple and onion mixture. Fold puff pastry over the cheese, and pinch closed. Brush with melted butter.",
+        "Bake about 20 to 25 minutes, or until golden brown.  Serve warm.  Garnish with whole cloves of roasted garlic."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 head garlic",
+        "\u00bc cup butter",
+        "1  yellow onion, sliced",
+        "1  Granny Smith apple - peeled, cored and sliced",
+        "1 (8 ounce) wedge Brie cheese",
+        "1 sheet frozen puff pastry, thawed",
+        "1 tablespoon melted butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Brie with Caramelized Onions",
     "url": "http://allrecipes.com/recipe/55174/baked-brie-with-caramelized-onions/"
 }

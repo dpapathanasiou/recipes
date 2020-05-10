@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "In a large skillet, fry sausage until it is browned. Drain well. Cut the sausage into bite-size pieces.",
+        "In a small casserole dish, combine sausage, brown sugar, applesauce, and onion.",
+        "Bake at 325 degrees F (165 degrees C) for 45 minutes. Serve with toothpicks for easy nibbling."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7127246.jpg",
+    "ingredients": [
+        "2 pounds Italian sausage",
+        "\u00be cup packed brown sugar",
+        "1 cup chunky applesauce",
+        "1  onion, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage Applesauce Appetizer",
     "url": "http://allrecipes.com/recipe/16972/sausage-applesauce-appetizer/"
 }

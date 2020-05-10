@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water to a boil in a 2-quart saucepan; stir in couscous, mango, salsa, cumin, and curry powder. Cover, reduce heat, and simmer until water is absorbed, about 2 minutes. Remove from heat and let stand for 5 minutes. Fluff with a fork before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F950743.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups water",
+        "1 cup couscous",
+        "\u2154 cup dried mango, diced",
+        "\u00be cup prepared salsa",
+        "2 teaspoons ground cumin",
+        "1 teaspoon curry powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango Salsa Couscous",
     "url": "http://allrecipes.com/recipe/228942/mango-salsa-couscous/"
 }

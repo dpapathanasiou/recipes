@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut the piece of beef into 6 large chunks (one per serving). Place the beef into a large saucepan; pour in the beef broth and water. Bring to a boil over high heat, then reduce heat to medium, cover, and simmer until nearly tender, 1 to 1 1/2 hours.",
+        "Stir the polenta into the stew along with the potatoes and onion. Cover and simmer for 15 minutes. Cut the pumpkin into 6, serving-sized pieces, and add to the stew along with the corn, carrot, bell pepper, celery, and leek; simmer until the vegetables are tender, adding more water if needed to barely cover. Stir in the oregano and paprika during the last 5 minutes.",
+        "Season to taste with salt and pepper. Ladle into serving bowls, and sprinkle with chopped cilantro."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1058447.jpg",
+    "ingredients": [
+        "1 1/2 pounds beef roast",
+        "1 (32 ounce) carton beef broth",
+        "2 cups water",
+        "1/4 cup polenta (coarse or fine)",
+        "8 red potatoes, cut in half",
+        "1 onion, quartered",
+        "1 1/2 pounds slice of pumpkin (calabaza)",
+        "2 ears corn, cut into thirds",
+        "1 carrot, cut into 1/2 inch slices",
+        "1 small red bell pepper, seeded and cut into 1 inch pieces",
+        "1 stalk celery, cut into chunks",
+        "1 leek, split in half, then cut into 1/2-inch pieces",
+        "1 teaspoon minced fresh oregano",
+        "1/4 teaspoon mild paprika",
+        "salt and pepper to taste",
+        "1/2 cup coarsely chopped cilantro leaves (lightly packed)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cazuela de Vaca (Beef and Pumpkin Stew)",
     "url": "http://allrecipes.com/recipe/134329/cazuela-de-vaca-beef-and-pumpkin-ste/"
 }

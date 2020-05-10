@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place turkey giblets and neck into a saucepan with 4 cups water and bring to a boil; reduce heat to low. Simmer until broth is reduced to 3 cups, about 1 hour. Strain broth and reserve 1/2 cup of giblets; chop.",
+        "Combine giblet broth and turkey drippings in a saucepan over medium heat. Whisk cornstarch in 1/2 cup cold water in a bowl until smooth. Whisk cornstarch into stock and drippings. Bring to a boil, reduce heat to low, and stir chopped giblets and hard-cooked egg into the gravy. Season with salt and black pepper. Simmer until gravy is thickened, about 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4203766.jpg",
+    "ingredients": [
+        "1 package of giblets and neck from turkey, excluding liver",
+        "4 cups water",
+        "1 cup turkey drippings",
+        "6 tablespoons cornstarch",
+        "1/2 cup cold water",
+        "1 hard-cooked egg, chopped",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Giblet Gravy",
     "url": "http://allrecipes.com/recipe/229958/turkey-giblet-gravy/"
 }

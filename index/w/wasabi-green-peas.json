@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak the dried peas overnight, then rinse and drain. Place peas in a large pot with enough water to cover by a couple of inches. Add the Mirepoix, and bring to a boil. Cook until tender, about 1 hour.",
+        "Preheat the oven to 200 degrees F (95 degrees C). Coat a large cookie sheet with olive oil. It helps to use a cookie sheet with sides to keep them from rolling off.",
+        "Drain the peas, and transfer to the cookie sheet. Roll them around in the oil by tilting the pan, or stir with your hand. Bake for 4 to 8 hours in the preheated oven, stirring every 30 minutes or so, until peas are dry. Remove from oven, and season with salt, onion salt, and garlic powder.",
+        "While the peas are roasting, mix together the wasabi powder, tahini, rice vinegar, and Dijon mustard in a large bowl. When the peas are ready, pour them into the bowl, and stir to coat with the wasabi mixture. Pour them back onto the cookie sheet in a single layer, and return to the oven.",
+        "Bake for another 10 minutes in the preheated oven, or until the aroma becomes very strong, and the coating is dry."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4583442.jpg",
+    "ingredients": [
+        "3 cups dried whole peas",
+        "1\u2009\u00bd cups Mirepoix (diced celery, carrots and onion)",
+        "3 tablespoons olive oil",
+        "salt to taste",
+        "\u00bc teaspoon onion salt, or to taste",
+        "\u00bd teaspoon garlic powder, or to taste",
+        "\u00bc cup wasabi powder",
+        "2 tablespoons tahini (sesame-seed paste)",
+        "2 tablespoons rice vinegar",
+        "1 teaspoon Dijon mustard"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wasabi Green Peas",
     "url": "http://allrecipes.com/recipe/73846/wasabi-green-peas/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Steam the pumpkin pieces for 5 to 10 minutes. Scoop flesh from skins.",
+        "In a medium saucepan, combine the pumpkin flesh and sugar. Heat over medium-low temperature until sugar dissolves into the pumpkin. Add coconut and cardamom. Stir often. Cook until the mixture has thickened to thick pudding-like consistency."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/44510.jpg",
+    "ingredients": [
+        "1 medium sugar pumpkin, seeded and cubed",
+        "2 cups white sugar",
+        "1 cup coconut milk",
+        "1 teaspoon ground cardamom"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mombasa Pumpkin Dessert",
     "url": "http://allrecipes.com/recipe/14007/mombasa-pumpkin-dessert/"
 }

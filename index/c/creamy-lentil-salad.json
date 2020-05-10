@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water and lentils to a boil in a saucepan; cook until lentils are tender, 15 to 25 minutes. Drain and transfer cooked lentils to a large bowl.",
+        "Mix cucumber, yellow bell pepper, cilantro, olive oil, feta cheese, dill, sea salt, and black pepper into lentils until fully incorporated. Refrigerate until completely cooled."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3234&h=1693&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969732.jpg",
+    "ingredients": [
+        "2 cups water, or as needed",
+        "\u00bd cup dry lentils",
+        "1  cucumber, peeled and diced",
+        "1  yellow bell pepper, diced",
+        "\u00bc cup chopped cilantro",
+        "\u00bc cup extra-virgin olive oil, or more to taste",
+        "\u00bc cup crumbled feta cheese, or more to taste",
+        "1 tablespoon dried dill weed",
+        "1 teaspoon ground sea salt",
+        "1 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Lentil Salad",
     "url": "http://allrecipes.com/recipe/230691/creamy-lentil-salad/"
 }

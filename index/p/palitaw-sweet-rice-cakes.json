@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the rice flour, 1/2 cup sugar, and the water together in a bowl into a soft dough; set aside.",
+        "Stir 1/2 cup sugar and sesame seeds together in a small bowl. Toss the coconut with the salt together in a separate bowl.",
+        "Bring a large pot of water to a boil.",
+        "Take a portion of the soft dough and roll it into a ball between the palms of your hands. Pull lengthwise and shape into a tongue. Drop into the boiling water. The cake is ready when it floats. Scoop it out with a strainer and roll it in the sugar and sesame seed mixture. Place it on a serving platter. Repeat with the rest of the dough. Top the cakes with coconut and serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F838207.jpg",
+    "ingredients": [
+        "1 cup glutinous rice flour (malagkit)",
+        "\u00bd cup white sugar",
+        "\u00bd cup water",
+        "\u00bd cup white sugar",
+        "2 tablespoons sesame seeds",
+        "4 ounces grated coconut",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Palitaw (Sweet Rice Cakes)",
     "url": "http://allrecipes.com/recipe/213000/palitaw-sweet-rice-cakes/"
 }

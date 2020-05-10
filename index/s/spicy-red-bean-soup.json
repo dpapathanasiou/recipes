@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot over medium heat, combine the oil and the onion. Saute for 5 minutes, or until onion is tender. Add the paprika, ketchup, water, soup mix, salt and pepper and stir well. Cut the linguica and chourico into 3 inch pieces and add to the soup.",
+        "In a food processor or blender, puree the beans in small batches and add to the pot. Reduce heat to low and simmer for 2 to 3 hours. Add the potatoes and simmer for another hour. Break the spaghetti into 3 to 4 inch pieces, add to the pot and simmer for another 15 minutes, or until spaghetti is tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2443&h=1279&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1001521.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1  onion, chopped",
+        "6 tablespoons paprika",
+        "2\u2009\u00bd cups ketchup",
+        "8 cups water",
+        "1 (1 ounce) package dry onion soup mix",
+        "1 teaspoon salt",
+        "1 tablespoon ground black pepper",
+        "1 pound linguica, casings removed",
+        "1 pound chourico - Portuguese smoked pork sausage",
+        "5 (15 ounce) cans kidney beans",
+        "3  potatoes, peeled and cubed",
+        "\u00bd pound spaghetti"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Red Bean Soup",
     "url": "http://allrecipes.com/recipe/15061/spicy-red-bean-soup/"
 }

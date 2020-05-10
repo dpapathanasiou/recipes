@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cooking wine and chicken in large saucepan. Add enough water to cover. Bring to a boil; reduce heat. Simmer 10 minutes or until chicken is tender and no longer pink.",
+        "Let chicken cool in liquid 45 minutes. Drain; cut chicken into bite-sized pieces.",
+        "In large bowl, combine chicken, pea pods, celery, onions, mayonnaise, lemon peel and pepper; mix well. Cover; refrigerate 1 to 2 hours to blend flavors.",
+        "Just before serving, stir in almonds. To serve, spoon chicken salad onto lettuce-lined plates."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd cup Holland House\u00ae White Cooking Wine",
+        "1 pound boneless chicken breasts, skinned",
+        "1 cup pea pods, blanched",
+        "\u00be cup sliced celery",
+        "\u00bc cup sliced green onions",
+        "\u00bd cup mayonnaise",
+        "1 teaspoon grated lemon peel",
+        "Pepper if desired (optional)",
+        "\u00bd cup toasted slivered almonds",
+        "Lettuce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Holland House&reg; Lemon Chicken Salad",
     "url": "http://allrecipes.com/recipe/145169/holland-house-lemon-chicken-salad/"
 }

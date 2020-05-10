@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cantaloupe, honeydew melon, peaches, oranges, strawberries, mangoes, kiwis, blueberries, and raspberries in a large bowl.",
+        "Whisk cream, confectioners' sugar, and rum together in a bowl until smooth; fold in marshmallows. Pour cream mixture over fruit and toss to coat. Cover bowl and refrigerate, stirring frequently, until chilled and flavors soak into fruit, 8 hours to overnight.",
+        "Spoon fruit salad into serving bowls and sprinkle with coconut."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 cantaloupe - peeled, seeded, and cubed",
+        "1 honeydew melon - peeled, seeded, and cubed",
+        "4 large fresh peaches - peeled, pitted, and sliced",
+        "3 oranges, peeled and sliced",
+        "3 cups sliced fresh strawberries",
+        "2 large mangoes - peeled, seeded, and chopped",
+        "4 kiwis, peeled and sliced",
+        "1 pint blueberries",
+        "1 pint fresh raspberries",
+        "1 cup heavy whipping cream",
+        "1/2 cup confectioners' sugar",
+        "1/2 cup coconut-flavored rum (such as Malibu\u00ae)",
+        "1 cup miniature marshmallows",
+        "1/2 cup shredded coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Malibu\u00ae Rum Fruit Salad",
     "url": "http://allrecipes.com/recipe/238625/malibu-rum-fruit-salad/"
 }

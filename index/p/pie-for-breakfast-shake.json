@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend strawberries, coconut milk, yogurt, flax seed, almond butter, honey, and vanilla in a blender until no traces of yogurt can be seen. Stop the blender and scrape down the sides with a rubber spatula. Continue blending until the mixture is completely smooth, about 1 more minute."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1125081.jpg",
+    "ingredients": [
+        "3/4 cup frozen strawberries, partially thawed",
+        "1/2 cup vanilla coconut milk beverage",
+        "1/2 cup low-fat Greek-style yogurt",
+        "1 tablespoon flax seed meal",
+        "1 tablespoon almond butter",
+        "1 teaspoon honey, or more to taste",
+        "1/2 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pie for Breakfast Shake",
     "url": "http://allrecipes.com/recipe/235558/pie-for-breakfast-shake/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl toss together the chicken, raisins, celery and grapes. Fold in the avocado and the apple. Mix in the mayonnaise and lemon juice. Chill."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F908708.jpg",
+    "ingredients": [
+        "1 pound skinless, boneless chicken breast halves - boiled",
+        "\u00bd cup raisins",
+        "1 cup thinly sliced celery",
+        "\u00be cup seedless grapes, quartered",
+        "\u00bd cup walnuts, toasted and chopped",
+        "1  avocado - peeled, pitted and diced",
+        "1  tart apple - peeled, cored and chopped",
+        "1 cup mayonnaise",
+        "1 teaspoon fresh lemon juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Julie's Chicken Salad",
     "url": "http://allrecipes.com/recipe/8657/julies-chicken-salad/"
 }

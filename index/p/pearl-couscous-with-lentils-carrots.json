@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat sesame oil in a large skillet over medium heat; cook and stir onion until it turns translucent, about 5 minutes. Stir in garlic and cook until garlic starts to brown, about 5 to 8 more minutes. Mix in the lentils and cook 3 to 4 minutes to blend flavors, stirring lightly. Stir carrots and corn kernels into the mixture. Reduce heat to low. Pour in 2 tablespoons white wine and 2 tablespoons chicken broth; let the mixture simmer, stirring occasionally.",
+        "Bring 2 cups chicken broth and 1/4 cup white wine to a boil in a saucepan; stir in couscous and reduce heat to low. Simmer couscous until the liquid has been absorbed and the couscous pearls are tender, about 8 minutes.",
+        "Stir 2 more tablespoons each of chicken broth and white wine into lentil mixture and lightly toss baby spinach leaves into the vegetables in the skillet until wilted, about 5 minutes.",
+        "Transfer cooked couscous to a serving bowl and gently stir the spinach-lentil mixture into couscous until thoroughly combined. Drizzle with lemon juice, sprinkle with black pepper, and lightly stir again."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2526461.jpg",
+    "ingredients": [
+        "1 tablespoon sesame oil",
+        "1 small onion, diced",
+        "3 cloves garlic, minced",
+        "1 cup canned lentils, drained and rinsed",
+        "1 cup diced carrots",
+        "3/4 cup corn kernels",
+        "2 tablespoons dry white wine",
+        "2 tablespoons chicken broth",
+        "2 cups chicken broth",
+        "1/4 cup dry white wine",
+        "1 (10 ounce) box pearl (Israeli) couscous",
+        "2 tablespoons chicken broth",
+        "2 tablespoons dry white wine",
+        "2 cups baby spinach leaves, stems removed",
+        "1 1/2 tablespoons lemon juice, or to taste",
+        "1 teaspoon ground black pepper, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pearl Couscous with Lentils, Carrots, Spinach, and Corn",
     "url": "http://allrecipes.com/recipe/228984/pearl-couscous-with-lentils-carrots/"
 }

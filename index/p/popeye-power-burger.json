@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Whisk egg in a large bowl until uniform in color; add ground beef, oats, onion, spinach, cheese, salt, and ground black pepper and mix with your hands until well blended. Form the beef mixture into 4 patties.",
+        "Grill patties until bottoms are brown, about 5 minutes; flip and continue grilling until brown, about 5 minutes. An instant-read thermometer inserted into middle of burgers should read at least 160 degrees F (70 degrees C), about 5 minutes.",
+        "Transfer burgers to whole-grain buns."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2742232.jpg",
+    "ingredients": [
+        "1  egg",
+        "1 pound lean ground beef",
+        "1 cup quick-cooking oats",
+        "1 cup diced onion",
+        "1 cup chopped spinach",
+        "2 cups shredded low-fat Mexican blend cheese",
+        "salt and ground black pepper, to taste",
+        "4  whole-grain buns"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Popeye Power Burger",
     "url": "http://allrecipes.com/recipe/244361/popeye-power-burger/"
 }

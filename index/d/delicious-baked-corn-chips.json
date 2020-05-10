@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a rack in the top third of the oven and preheat oven to 400 degrees F (200 degrees C).",
+        "Arrange corn tortillas in a single layer, with no overlap, on a baking sheet. Brush tortillas with oil; sprinkle garlic salt, oregano, and chili powder on top.",
+        "Bake in the preheated oven, with the door slightly ajar, until crispy, about 7 minutes. Cool for 2 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3473875.jpg",
+    "ingredients": [
+        "12 (6 inch) corn tortillas, quartered",
+        "2 tablespoons canola oil",
+        "1\u2009\u00bd teaspoons garlic salt",
+        "1\u2009\u00bd teaspoons dried oregano",
+        "1 teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Delicious Baked Corn Chips",
     "url": "http://allrecipes.com/recipe/246829/delicious-baked-corn-chips/"
 }

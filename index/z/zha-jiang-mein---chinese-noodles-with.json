@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet or wok over medium-high heat; cook and stir scallions, 1 to 2 minutes. Add garlic and ginger; cook and stir until fragrant, 1 to 2 minutes. Add pork; cook and stir until browned and crumbly, 5 to 7 minutes.",
+        "Mix hoisin sauce, beer, ground bean sauce, and sugar into pork mixture. Reduce heat to medium and simmer until sauce is thickened, about 5 minutes. Add bok choy and stir to incorporate. Reduce heat to medium-low and cook until bok choy is tender, about 5 minutes more.",
+        "Bring a large pot of lightly salted water to a boil. Cook noodles in the boiling water until tender yet firm to the bite, 1 to 3 minutes; drain and transfer to a bowl.",
+        "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add mung beans, cover, and steam until tender, 2 to 4 minutes.",
+        "Serve sauce over noodles and top with cucumber, carrots, and bean sprouts."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/4 cup vegetable oil",
+        "2 scallions, chopped",
+        "3 cloves garlic, minced",
+        "1 (1 inch) piece fresh ginger, minced",
+        "1 pound ground pork",
+        "1 cup hoisin sauce",
+        "3/4 cup beer",
+        "5 tablespoons ground bean sauce",
+        "1 1/2 tablespoons white sugar",
+        "1 head bok choy, trimmed and cut into 1/4-inch pieces",
+        "1 pound fresh Chinese noodles",
+        "2 cups mung bean sprouts",
+        "1 cucumber, cut into matchstick-size pieces",
+        "2 carrots, cut into matchstick-size pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zha Jiang Mein - Chinese Noodles With Pork And Bean Sauce",
     "url": "http://allrecipes.com/recipe/245057/zha-jiang-mein---chinese-noodles-with/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix 2 1/2 cups all-purpose flour, rye flour, and salt together in a bowl.",
+        "Pour 1/2 cup water into a microwave-safe bowl; heat in microwave for 30 seconds. Stir brown sugar into water until dissolved; add yeast and stir. Let mixture stand until bubbling, about 10 minutes.",
+        "Pour yeast mixture into flour mixture.",
+        "Pour remaining 1 cup water into a microwave-safe bowl; heat in microwave for 30 seconds. Stir olive oil into the warm water; pour over flour mixture. Knead flour mixture, adding more all-purpose flour if dough is sticky, until dough is smooth and holds together.",
+        "Form dough into a ball and place in a bowl. Cover bowl with a damp towel and let rise until doubled in size, about 1 hour.",
+        "Punch dough down and transfer to a floured work surface. Roll or shape dough into desired shape."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1702716.jpg",
+    "ingredients": [
+        "2 1/2 cups unbleached all-purpose flour",
+        "1 cup rye flour",
+        "1 teaspoon salt",
+        "1 1/2 cups water, divided",
+        "1 teaspoon brown sugar",
+        "1 (.25 ounce) package active dry yeast",
+        "2 tablespoons extra-virgin olive oil",
+        "1/2 cup all-purpose flour for kneading dough, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rye Pizza Dough",
     "url": "http://allrecipes.com/recipe/240344/rye-pizza-dough/"
 }

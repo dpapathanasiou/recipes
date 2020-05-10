@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 250 degrees F (120 degrees C). Pour cereal into a large roasting pan.",
+        "Melt butter in a saucepan over medium-low heat; stir in Worcestershire sauce, seasoned salt, garlic powder, onion powder, cayenne pepper, and jalapeno pepper sauce. Drizzle sauce over cereal and stir to coat evenly.",
+        "Bake in the preheated oven, stirring every 15 minutes, until sauce is baked into cereal, about 45 minutes. Cool in pan, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1034787.jpg",
+    "ingredients": [
+        "1 (12 ounce) package crispy corn and rice cereal (such as Crispix\u00ae)",
+        "6 tablespoons butter",
+        "\u00bc cup Worcestershire sauce",
+        "1 tablespoon seasoned salt",
+        "1\u2009\u00bd teaspoons garlic powder",
+        "1 teaspoon onion powder",
+        "1 pinch cayenne pepper, or to taste",
+        "1 dash jalapeno pepper sauce (such as Tabasco\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bold and Simple Snack Mix",
     "url": "http://allrecipes.com/recipe/233675/bold-and-simple-snack-mix/"
 }

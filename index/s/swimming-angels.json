@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the rice and 4 cups of water in a saucepan and bring to a boil. Cover and reduce heat to low; simmer until rice is tender and water has been absorbed, about 20 minutes.",
+        "In a separate saucepan, whisk together the peanut butter, 1 cup hot water, soy sauce, rice vinegar, sugar, garlic, green onions and red pepper flakes. Bring to a simmer over medium heat. Cook, stirring occasionally, and adding more hot water 1/4 cup at a time to maintain a pourable consistency.",
+        "Bring about 1 inch of water to a boil in a large pot. Place the spinach and tofu into a steamer basket and set over the boiling water. Cover and steam until spinach has wilted and tofu is heated through, about 7 minutes.",
+        "To serve, place spinach and tofu over white rice and smother in peanut sauce."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1046654.jpg",
+    "ingredients": [
+        "2 cups uncooked sushi (sticky) or medium-grain rice",
+        "4 cups water",
+        "2/3 cup peanut butter",
+        "1 cup hot water",
+        "2 tablespoons soy sauce",
+        "2 tablespoons rice vinegar",
+        "3 tablespoons white sugar",
+        "3 cloves garlic, minced",
+        "3 green onions, chopped",
+        "1/4 teaspoon red pepper flakes",
+        "1 (10 ounce) bag baby spinach leaves",
+        "1 (8 ounce) package baked tofu, cut into bite-size pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swimming Angels",
     "url": "http://allrecipes.com/recipe/159230/swimming-angels/"
 }

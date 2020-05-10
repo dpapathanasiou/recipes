@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Stir Cheddar cheese, cream cheese, jalapeno peppers, bacon, corn, and mayonnaise together in a small casserole dish.",
+        "Bake in preheated oven until warm and bubbly, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup shredded Cheddar cheese",
+        "1 (8 ounce) package cream cheese, softened",
+        "8  jalapeno peppers, or more to taste, seeded and minced",
+        "5 slices cooked bacon, crumbled",
+        "\u00bd cup sweet corn kernels",
+        "\u00bc cup mayonnaise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jalapeno Popper Dip with Bacon",
     "url": "http://allrecipes.com/recipe/238668/jalapeno-popper-dip-with-bacon/"
 }

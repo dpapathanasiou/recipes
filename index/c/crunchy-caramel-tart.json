@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Using a wooden spoon, mix 14 tablespoons butter in a bowl until light and fluffy.  Grind nuts and sugar in a food processor, and mix into the butter. Beat in egg. Add both flours, and blend until just combined.  Gather dough into a ball, and flatten into a disk.  Wrap in plastic; chill 2 hours.",
+        "Roll out dough to a 15 inch circle between two sheets of plastic. Remove top sheet of plastic, and transfer dough to an 11 inch tart pan with a removable bottom. Press into pan, and trim edges. Place in the freezer for 15 minutes. Line dough with foil, and fill foil with dried beans (serves as a weight to help the crust keep it's shape).",
+        "Bake at 350 degrees F (175 degrees C) for 15 minutes. Remove foil and beans.  Bake until crust is golden, about 20 minutes. Cool.",
+        "Combine sugar and water in a heavy saucepan. Cook over medium heat, stirring until mixture is a deep amber color, about 15 minutes. Brush down sides of pan with a wet brush, and swirl occasionally. Remove from heat. Gradually stir in 1 1/4 cups heavy cream. Add 1/4 cup butter, and stir until melted. Pour filling into crust.",
+        "Bake at 350 degrees F (175 degrees C) until filling bubbles and thickens, about 30 minutes. Filling will be wobbly. Cool. Chill until set, about 1 hour.",
+        "In a heavy small saucepan, combine 3/4 cup heavy cream, chocolate, 3 tablespoons butter, and corn syrup. Cook over low heat, stirring until smooth.  Pour over chilled filling. Chill tart until firm, about 1 hour. Let stand 30 minutes at room temperature before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "14 tablespoons unsalted butter",
+        "\u00bd cup toasted hazelnuts",
+        "\u00bd cup confectioners' sugar",
+        "1  egg",
+        "1\u2009\u00bc cups cake flour",
+        "1\u2009\u00bc cups all-purpose flour",
+        "1\u2009\u00bd cups white sugar",
+        "\u00bc cup water",
+        "1\u2009\u00bc cups heavy whipping cream",
+        "\u00bc cup butter, softened",
+        "\u00be cup heavy whipping cream",
+        "1 cup semisweet chocolate chips",
+        "3 tablespoons unsalted butter",
+        "2\u2009\u00bc teaspoons light corn syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crunchy Caramel Tart",
     "url": "http://allrecipes.com/recipe/12217/crunchy-caramel-tart/"
 }

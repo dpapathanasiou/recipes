@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat your oven to 350 degrees F (175 degrees C).",
+        "Cut each fig in half. (If you cannot find fresh figs and would like to use dried figs, cut a little opening in the top of the fig and make a pocket for the stuffing.)",
+        "In a small mixing bowl, combine chocolate chips, almonds, and wine. Spoon about 2 teaspoons of the stuffing mixture into each fig half.",
+        "Bake on a cookie sheet for 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F253644.jpg",
+    "ingredients": [
+        "6  fresh figs",
+        "2 tablespoons mini semi-sweet chocolate chips",
+        "\u00bc cup blanched slivered almonds",
+        "\u00bd fluid ounce orange liqueur"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Figs Stuffed with Almonds and Chips",
     "url": "http://allrecipes.com/recipe/16116/figs-stuffed-with-almonds-and-chips/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Scoop the orange sherbet into 6 balls and place them on a plate. Freeze until very firm, at least 4 hours.",
+        "Slice the oranges in half across the center and cut around the edges with a small knife. Remove the fruit and membrane, reserving the fruit and peel shells. Chop the orange sections and place them in the bottoms of the shells.",
+        "Preheat the oven to 450 degrees F (220 degrees C). In a clean glass or metal bowl, whip egg whites with an electric mixer until foamy. Mix in cream of tartar and gradually beat in the sugar while continuing to whip until stiff and glossy.",
+        "Place the orange shells on a baking sheet and place a ball of sherbet into each one. Cover the sherbet with meringue, sealing to the edges of the orange peel.",
+        "Bake for 5 minutes in the preheated oven, until browned. Remove and serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5034564.jpg",
+    "ingredients": [
+        "1 pint orange sherbet",
+        "3 oranges",
+        "3 egg whites",
+        "6 tablespoons white sugar",
+        "1/4 teaspoon cream of tartar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Baked Alaska",
     "url": "http://allrecipes.com/recipe/104983/orange-baked-alaska/"
 }

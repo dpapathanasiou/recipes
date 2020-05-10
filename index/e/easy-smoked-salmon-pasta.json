@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large pot with lightly-salted water and bring to a rolling boil. Stir the linguine into the water and return to a boil. Cook uncovered until the pasta has cooked through but is still firm to the bite, about 11 minutes; drain, reserving 2 tablespoons of the water.",
+        "Melt the butter with the olive oil in a saucepan over medium-low heat; when the mixture begins to bubble, add the shallots and cook until softened. Stir the salmon, cream cheese, and milk into the shallot mixture. Mix the reserved water from the pasta into the mixture. Transfer to a large bowl and toss with the pasta to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5152&h=2697&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2202355.jpg",
+    "ingredients": [
+        "1 (8 ounce) package linguine pasta",
+        "1 tablespoon butter",
+        "1 tablespoon extra-virgin olive oil",
+        "1  shallot, minced",
+        "1 ounce smoked salmon, cut into small pieces",
+        "1 tablespoon reduced-fat cream cheese",
+        "3 tablespoons milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Smoked Salmon Pasta",
     "url": "http://allrecipes.com/recipe/133846/easy-smoked-salmon-pasta/"
 }

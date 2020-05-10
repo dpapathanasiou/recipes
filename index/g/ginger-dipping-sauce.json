@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine onion, garlic, ginger, lemon juice, soy sauce, sugar, and vinegar. Process until smooth. Serve at room temperature."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/769772.jpg",
+    "ingredients": [
+        "1/4 cup chopped onion",
+        "1 clove garlic, minced",
+        "1 tablespoon minced fresh ginger root",
+        "1/2 lemon, juiced",
+        "1/4 cup soy sauce",
+        "1/4 teaspoon sugar",
+        "1/4 teaspoon white vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ginger Dipping Sauce",
     "url": "http://allrecipes.com/recipe/52572/ginger-dipping-sauce/"
 }

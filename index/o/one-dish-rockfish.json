@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Layer the spinach in the bottom of a 2 quart baking dish. Lay the rockfish atop the spinach. Scatter the tomatoes around the fish. Pour the broth into the dish. Season the fillet with the dill, garlic powder, lemon pepper, onion powder, salt, and pepper. Place the lemon, onion, and butter on the rockfish. Cover the entire dish with aluminum foil.",
+        "Bake in preheated oven until the fish flakes easily, 20 to 25 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1107221.jpg",
+    "ingredients": [
+        "5 cups fresh spinach",
+        "2 (6 ounce) fillets rockfish",
+        "10 cherry tomatoes, halved",
+        "1/2 cup vegetable broth",
+        "2 tablespoons minced fresh dill",
+        "1/4 teaspoon garlic powder",
+        "1/2 teaspoon lemon pepper",
+        "1/4 teaspoon onion powder",
+        "salt and ground black pepper to taste",
+        "2 slices lemon slices",
+        "2 slices onion slices",
+        "1 teaspoon butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "One-Dish Rockfish",
     "url": "http://allrecipes.com/recipe/150162/one-dish-rockfish/"
 }

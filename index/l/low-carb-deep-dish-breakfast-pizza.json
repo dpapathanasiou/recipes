@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Place 1 tablespoon butter in a glass or ceramic pie pan and heat briefly in the oven until butter is melted.",
+        "Whisk eggs, cream, and Cheddar cheese in a large bowl. Pour into warmed pie pan.",
+        "Bake in the preheated oven until eggs are set and golden, 15 to 20 minutes. Remove egg \"crust\" from the oven.",
+        "Melt remaining 1/2 tablespoon butter in a skillet over medium heat. Add onion and green bell pepper; cook and stir until softened, about 5 minutes.",
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Cook sausage in the same skillet until browned, about 5 minutes. Drain on paper towels.",
+        "Combine tomato puree, garlic powder, onion power, oregano, basil, salt, and black pepper in small bowl to make pizza sauce.",
+        "Top egg crust with pizza sauce, mozzarella cheese, onion and green pepper mixture, bacon, and sausage.",
+        "Bake the pizza in the preheated oven until cheese is melted, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2960619.jpg",
+    "ingredients": [
+        "1\u2009\u00bd tablespoons butter, divided",
+        "6  eggs",
+        "\u00bc cup heavy whipping cream",
+        "\u00bc cup shredded mild Cheddar cheese",
+        "\u00bc cup chopped onion",
+        "\u00bc cup chopped green bell pepper",
+        "3 slices bacon",
+        "2  sausage links, sliced into 1/2-inch pieces",
+        "\u2153 cup tomato puree",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc teaspoon onion powder",
+        "\u215b teaspoon dried oregano",
+        "\u215b teaspoon dried basil",
+        "salt and ground black pepper to taste",
+        "\u00be cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Low-Carb Deep-Dish Breakfast Pizza",
     "url": "http://allrecipes.com/recipe/245547/low-carb-deep-dish-breakfast-pizza/"
 }

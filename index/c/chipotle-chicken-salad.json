@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the chicken, mayonnaise, feta cheese, green onions, sour cream, and chipotle peppers in a bowl. Season with garlic salt and pepper to taste; stir until evenly combined."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F685482.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups cubed cooked chicken",
+        "1 cup mayonnaise",
+        "\u00bc cup crumbled reduced-fat feta cheese",
+        "2  green onions, chopped",
+        "3 tablespoons reduced-fat sour cream",
+        "3  chipotle peppers in adobo sauce, minced",
+        "garlic salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chipotle Chicken Salad",
     "url": "http://allrecipes.com/recipe/169329/chipotle-chicken-salad/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 450 degrees F (230 degrees C).",
+        "Stir the rice and 1/2 cup water together in a microwave-safe bowl. Cover, and cook in the microwave on High for 6 minutes until the water is fully absorbed; set aside. While the rice is cooking, heat a large skillet over medium-high heat and stir in the ground beef. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease.",
+        "Reduce heat to medium, and stir in the taco seasoning, corn, 1/2 cup water, 1 1/2 cups Cheddar cheese, and the cooked rice. Cook and stir until the cheese has melted and the corn is hot. Spoon the mixture into the flour tortillas. Roll into a tight cylinder, and pack into an 8x11-inch baking dish (it will be a tight squeeze). Pour the salsa over top, and sprinkle evenly with 1 1/2 cups Cheddar cheese.",
+        "Bake in the preheated oven until the cheese topping has melted and is beginning to brown, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F818530.jpg",
+    "ingredients": [
+        "\u00bd cup uncooked instant rice",
+        "\u00bd cup water",
+        "1\u2009\u00bd pounds ground beef",
+        "\u00be (1 ounce) packet taco seasoning mix",
+        "\u00bd (15.25 ounce) can whole kernel corn, drained",
+        "\u00bd (8.75 ounce) can no-salt-added whole-kernel corn, drained",
+        "\u00bd cup water",
+        "1\u2009\u00bd cups shredded Cheddar cheese",
+        "8 (10 inch) flour tortillas",
+        "1 (16 ounce) jar salsa",
+        "1\u2009\u00bd cups shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Taco Rolls",
     "url": "http://allrecipes.com/recipe/214173/easy-taco-rolls/"
 }

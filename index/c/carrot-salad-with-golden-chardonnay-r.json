@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak raisins in Chardonnay white wine in a bowl until plump, about 1 hour.",
+        "Drain and reserve any remaining liquid from the plumped raisins.",
+        "Mix carrots, mayonnaise, and chives together in a large bowl.",
+        "Fold plumped raisins into carrot mixture.",
+        "Mix reserved soaking liquid into the salad a tablespoon at a time until desired texture is achieved."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/873518.jpg",
+    "ingredients": [
+        "1/3 cup golden raisins",
+        "1/2 cup Chardonnay white wine",
+        "2 cups shredded carrots",
+        "1/4 cup mayonnaise",
+        "2 tablespoons minced chives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carrot Salad with Golden Chardonnay Raisins",
     "url": "http://allrecipes.com/recipe/220842/carrot-salad-with-golden-chardonnay-r/"
 }

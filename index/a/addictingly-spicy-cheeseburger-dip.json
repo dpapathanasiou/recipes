@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Pour mild picante sauce and hot picante sauce over the ground beef; stir. Add processed cheese food and Colby cheese, reduce heat to low, and cook until the cheese is completely melted, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5297544.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1 (16 ounce) jar mild picante sauce (such as Pace\u00ae)",
+        "1 (16 ounce) jar hot picante sauce (such as Pace\u00ae), or less to taste",
+        "\u2153 pound shredded Colby cheese, or more to taste",
+        "1 (1 pound) package processed cheese food (such as Velveeta\u00ae), cut into cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Addictingly Spicy Cheeseburger Dip",
     "url": "http://allrecipes.com/recipe/234691/addictingly-spicy-cheeseburger-dip/"
 }

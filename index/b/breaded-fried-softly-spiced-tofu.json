@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut pressed tofu into 1/2-inch thick slices; then cut again into 1/2-inch wide sticks. Place tofu in a bowl, and pour broth over the top. Set aside to soak.",
+        "In a separate bowl, stir together flour, yeast, salt, pepper, sage, and cayenne.",
+        "Warm oil in a large skillet over medium-high heat.",
+        "Remove tofu sticks from broth, and squeeze most (but not all) of the liquid from them. Roll sticks in breading.  (You may have to roll sticks twice to end up with a fairly dry outer layer of breading.) Place tofu in hot oil; fry until crisp and browned on all sides. Add more oil if necessary."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (16 ounce) package extra-firm tofu, drained and pressed",
+        "2 cups vegetable broth",
+        "3 tablespoons vegetable oil",
+        "\u00bd cup all-purpose flour",
+        "3 tablespoons nutritional yeast",
+        "1 teaspoon salt",
+        "\u00bd teaspoon freshly ground black pepper",
+        "1 teaspoon sage",
+        "\u00bd teaspoon cayenne pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breaded, Fried, Softly Spiced Tofu",
     "url": "http://allrecipes.com/recipe/88768/breaded-fried-softly-spiced-tofu/"
 }

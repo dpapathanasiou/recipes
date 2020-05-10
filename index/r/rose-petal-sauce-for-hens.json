@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a saucepan over low heat. Add garlic, and saute until fragrant, 2 or 3 minutes. Season with salt, pepper and anise, and cook for another minute to blend the flavors.",
+        "In the container of a blender or food processor, combine the prickly pears, rose petals (reserving a few for garnish) and walnuts. Pour in just enough broth to cover. Cover, and process until smooth.",
+        "Pour the rose petal mixture into the saucepan with the garlic. Cook over medium heat for about 10 minutes, stirring gently. If the sauce is too thick, add more broth as needed. Mix in the honey, then taste and adjust seasoning with more salt and pepper or anise if desired. Serve poured over poultry, garnishing with a few rose petals."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1\u2009\u00bd tablespoons unsalted butter",
+        "4 cloves garlic, minced",
+        "1 pinch salt and freshly ground black pepper",
+        "\u00be teaspoon ground anise seed",
+        "3  prickly pears (cactus fruit), peeled and chopped",
+        "12  red or pink organic roses' petals",
+        "1 cup chopped walnuts",
+        "3 cups chicken broth, or as needed",
+        "2 tablespoons honey, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rose Petal Sauce for Hens",
     "url": "http://allrecipes.com/recipe/91811/rose-petal-sauce-for-hens/"
 }

@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Brush fish with olive oil.",
+        "Mix bread crumbs, seafood seasoning, garlic powder, onion powder, lemon zest, and thyme together in a bowl. Press fish in bread crumb mixture to coat all sides. Arrange coated fish on a baking sheet.",
+        "Bake in the preheated oven for 10 minutes. Flip fish and continue baking until fish flakes easily with a fork, about 10 minutes more.",
+        "Stir butter, lemon juice, white wine, and basil together in a bowl; drizzle over cooked fish."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1130754.jpg",
+    "ingredients": [
+        "4 (4 ounce) fillets barramundi (Asian sea bass)",
+        "1 tablespoon olive oil, or as needed",
+        "Crumb Topping:",
+        "1 cup dried bread crumbs",
+        "1/2 teaspoon seafood seasoning (such as Old Bay\u00ae)",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon onion powder",
+        "1/2 teaspoon lemon zest",
+        "1 pinch dried thyme",
+        "Lemon-Butter-Basil Sauce:",
+        "1 cup melted butter",
+        "1/4 cup lemon juice",
+        "1/4 cup white wine",
+        "2 tablespoons chopped fresh basil, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barramundi With Lemon Basil Sauce",
     "url": "http://allrecipes.com/recipe/237613/barramundi-with-lemon-basil-sauce/"
 }

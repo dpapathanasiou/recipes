@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, stir together the flour, black pepper, salt, and garlic powder. Heat canola oil in a skillet over medium heat. Dredge the pieces of beef in the seasoned flour, and brown the beef on all sides in the hot oil.",
+        "Mix together the water, vegetable broth, beef broth, Cabernet wine, thyme, bay leaves, onion, and garlic in a large Dutch oven or heavy pot. Add the beef, bring to a boil, and reduce heat to a simmer. Cook the stew until beef is very tender and liquid has reduced, about 1 1/2 hours. Stir in the carrots and potatoes, bring back to a boil, and simmer until vegetables are tender, about 30 more minutes.",
+        "Mix the cornstarch in a small bowl with a little water until smooth, and stir into the stew. Simmer until thickened, stirring constantly. Adjust salt and pepper before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2042505.jpg",
+    "ingredients": [
+        "\u2154 cup all-purpose flour",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon salt",
+        "1 teaspoon garlic powder",
+        "2 tablespoons canola oil",
+        "1\u2009\u00bd pounds cubed beef stew meat",
+        "2 cups water",
+        "2 cups vegetable broth",
+        "2 cups beef broth",
+        "1 cup Cabernet Sauvignon",
+        "2 teaspoons dried thyme",
+        "3  bay leaves",
+        "1  onion, diced",
+        "1 teaspoon minced garlic",
+        "4  carrots, peeled and chopped",
+        "4  potatoes, peeled and cubed",
+        "2 tablespoons cornstarch, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "LaVohn's Beef Stew",
     "url": "http://allrecipes.com/recipe/218353/lavohns-beef-stew/"
 }

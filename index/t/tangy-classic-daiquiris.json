@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place juice concentrate, rum, and ice in blender. Pour into pitcher 1/2 filled with ice cubes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1060807.jpg",
+    "ingredients": [
+        "1 (6 ounce) can frozen lemonade concentrate, thawed",
+        "12 1/2 fluid ounces rum",
+        "3 cups crushed ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy Classic Daiquiris",
     "url": "http://allrecipes.com/recipe/9332/tangy-classic-daiquiris/"
 }

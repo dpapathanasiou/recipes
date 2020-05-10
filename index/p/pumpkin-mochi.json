@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+        "Sift together the mochiko, baking powder, and sugar in a large bowl. Mix together the eggs, pumpkin puree, condensed milk, butter, and vanilla extract in a separate bowl. Stir the egg mixture into the mochiko mixture. Pour into the prepared dish.",
+        "Bake in preheated oven for 1 hour. Allow to cool before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2919620.jpg",
+    "ingredients": [
+        "2 1/2 cups mochiko (glutinous rice flour)",
+        "2 teaspoons baking powder",
+        "2 cups white sugar",
+        "4 eggs",
+        "1 (29 ounce) can pumpkin puree",
+        "1 (14 ounce) can sweetened condensed milk",
+        "1 cup butter, melted",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Mochi",
     "url": "http://allrecipes.com/recipe/90253/pumpkin-mochi/"
 }

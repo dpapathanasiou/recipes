@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine ground ham, broccoli, onion, and beaten eggs in a large bowl. Mix with your hands for 1 full minute, or until eggs are evenly absorbed into meat.",
+        "Sprinkle cornmeal, Asiago cheese, garlic, anise seed, basil, pepper, and salt over meat mixture and mix again with your hands until all ingredients are evenly distributed for 1 full minute.",
+        "Heat oil in a large skillet over medium heat. Scoop about 3 ounces of ham mixture into your hands and form patties about 1/2-inch thick. Lay patties in the skillet and cook until browned, 3 to 5 minutes each side. Drain on paper towels. Repeat until all of the mixture has been used, then serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2464048.jpg",
+    "ingredients": [
+        "2 cups ground ham",
+        "1 (10 ounce) package chopped frozen broccoli, thawed and drained",
+        "1 onion, finely chopped",
+        "3 large eggs, beaten",
+        "3/4 cup cornmeal",
+        "1/2 cup grated Asiago cheese",
+        "3 cloves garlic, minced",
+        "2 teaspoons anise seed",
+        "2 teaspoons dried basil",
+        "2 teaspoons ground black pepper",
+        "1 teaspoon salt",
+        "2 tablespoons olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Ham Corn Cakes",
     "url": "http://allrecipes.com/recipe/17307/plantation-ham-cakes/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix popcorn, corn chips, candy corn, mixed nuts, and jelly beans together in a large bowl.",
+        "In a microwave-safe glass bowl, melt the white chocolate chips on Low setting until barely melted, 1 or 2 minutes. Stir until smooth. Pour the white chocolate over the popcorn mixture, and stir to coat. Allow to cool, and break apart into small pieces."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F612433.jpg",
+    "ingredients": [
+        "4 cups popped popcorn",
+        "\u00bd (10.5 ounce) bag corn chips (such as Fritos\u00ae)",
+        "\u00bd (14 ounce) package candy corn",
+        "1 (10 ounce) can mixed nuts",
+        "1 cup jelly beans or other small candies, or as desired",
+        "1 (12 ounce) package white chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Movie Theater Floor",
     "url": "http://allrecipes.com/recipe/216798/movie-theater-floor/"
 }

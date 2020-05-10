@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease 2 baking sheets with cooking spray.",
+        "Make a lengthwise cut partway through the middle of each sweet potato.",
+        "Cut potatoes into coins using the slicer attachment on a spiralizer. Arrange coins on the baking sheets. Spray with cooking spray. Season both sides with seasoned salt.",
+        "Bake in the preheated oven until edges start to curl, 20 to 25 minutes. Season with more salt. Let cool until crisp, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3128&h=1638&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4626236.jpg",
+    "ingredients": [
+        "cooking spray",
+        "2  sweet potatoes",
+        "1 teaspoon seasoned salt, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Sweet Potato Coins",
     "url": "http://allrecipes.com/recipe/254364/baked-sweet-potato-coins/"
 }

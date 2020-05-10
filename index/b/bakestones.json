@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat a griddle to moderate heat 325 - 350 degrees F (165 - 175 degrees C).  Grease lightly.",
+        "Beat sugar and butter or margarine together, adding salt and baking powder.  Beat in eggs.  Add 2 cups of flour and raisins and mix.  Then add the other two cups of flour.  If too dry add a little milk if too wet add a little flour.",
+        "Roll out about 1/4 inch thick and cut out cookies.",
+        "Place on a greased griddle and brown on both sides."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "4 cups all-purpose flour",
+        "1\u2009\u00bc cups butter",
+        "1 teaspoon salt",
+        "1\u2009\u00bc cups white sugar",
+        "1\u2009\u00bc cups raisins",
+        "2  eggs",
+        "1\u2009\u00bd teaspoons baking powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bakestones",
     "url": "http://allrecipes.com/recipe/10816/bakestones/"
 }

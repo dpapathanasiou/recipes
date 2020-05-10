@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare rice according to package directions. Let rice cool.",
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper; spray with non-stick spray.",
+        "Mix cooled rice with 1/2 cup of Mexican cheese blend and 2 eggs. Stir until combined. Spread into a thin rectangle on parchment paper. Bake in preheated oven for 20 minutes.",
+        "Beat remaining 6 eggs. Place non-stick skillet over medium heat and pour eggs into pan. Soft scramble eggs; remove from heat and season with salt and pepper.",
+        "Spread refried beans over baked crust. Top with scrambled eggs and salsa. Sprinkle with green onions and shredded cheese. Fold the edges over and roll crust over filling.",
+        "Bake until heated through, 15 to 20 minutes. Slice and serve with your favorite Mexican style toppings: sour cream, tomatoes, avocado, and/or cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2315837.jpg",
+    "ingredients": [
+        "1 (6 ounce) box UNCLE BEN'S\u00ae Brown Rice & Quinoa Roasted Red Pepper",
+        "\u00bd cup shredded Mexican blend cheese",
+        "2  eggs, lightly beaten",
+        "1\u2009\u00bd cups refried beans",
+        "6  eggs",
+        "salt and pepper to taste",
+        "\u00bd cup salsa",
+        "\u00bd cup shredded Mexican blend cheese, plus more for garnish",
+        "3  diced green onions",
+        "2 tablespoons sour cream",
+        "1  tomato, chopped",
+        "1  avocado - peeled, pitted and diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Breakfast Roll",
     "url": "http://allrecipes.com/recipe/242491/mexican-breakfast-roll/"
 }

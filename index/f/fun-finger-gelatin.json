@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dissolve the unflavored gelatin in 2 1/2 cups cold water in a bowl.",
+        "Combine the fruit-flavored gelatin, sugar, and hot water in a large saucepan; bring to a boil. Stir the unflavored gelatin mixture into the boiling mixture; cook and stir until the gelatin and sugar are completely dissolved, about 5 minutes.",
+        "Remove the saucepan from heat. Stir 1 cup cold water into the gelatin mixture; pour into a 13x9-inch dish.",
+        "Refrigerate until the gelatin is firm, about 3 hours; cut into squares to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/798200.jpg",
+    "ingredients": [
+        "5 (.25 ounce) envelopes unflavored gelatin (such as Knox \u00ae)",
+        "2 1/2 cups cold water",
+        "2 (6 ounce) packages fruit-flavored Jell-O\u00ae mix",
+        "1 cup white sugar",
+        "2 cups hot water",
+        "1 cup cold water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fun Finger Gelatin",
     "url": "http://allrecipes.com/recipe/220412/fun-finger-gelatin/"
 }

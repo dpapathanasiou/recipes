@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over high heat. Stir in flour and cook, stirring constantly, for 5 minutes or until mixture is the color of a copper penny. Reduce heat to low and stir in bell pepper and onion. Cook 10 to 15 minutes, or until tender, stirring occasionally.",
+        "Add chicken, tomatoes with green chile peppers, mushrooms, parsley, Worcestershire sauce, garlic, soy sauce, sugar, salt, pepper and hot sauce. Stir together, cover and simmer for 20 minutes. Add chicken broth or water if mixture is too thick for your liking."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2422025.jpg",
+    "ingredients": [
+        "\u00bc cup vegetable oil",
+        "\u00bc cup all-purpose flour",
+        "1  green bell pepper, chopped",
+        "1 medium onion, chopped",
+        "2 cups cooked chicken, chopped",
+        "1 (14.5 ounce) can diced tomatoes with green chile peppers, with liquid",
+        "1 (4.5 ounce) can sliced mushrooms, drained",
+        "2 tablespoons chopped fresh parsley",
+        "2 teaspoons Worcestershire sauce",
+        "3 cloves garlic, minced",
+        "1 teaspoon soy sauce",
+        "1 teaspoon white sugar",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "3 dashes hot sauce, or to taste",
+        "\u00bd cup chicken broth, or as needed (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gumbo Style Chicken Creole",
     "url": "http://allrecipes.com/recipe/24789/gumbo-style-chicken-creole/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together the balsamic vinegar, orange juice, lemon juice, and lime juice in a large bowl. Gently fold in the mango and strawberries until blended. Allow the mixture to rest at least 20 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F190767.jpg",
+    "ingredients": [
+        "2 tablespoons balsamic vinegar",
+        "\u2154 cup orange juice",
+        "\u00bc cup lemon juice",
+        "2 tablespoons lime juice",
+        "2  diced fresh mango",
+        "2 pints strawberries, diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango-Strawberry Salsa",
     "url": "http://allrecipes.com/recipe/160945/mango-strawberry-salsa/"
 }

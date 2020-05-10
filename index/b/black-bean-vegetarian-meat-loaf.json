@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Generously coat the inside of an 8x13-inch baking dish with cooking spray.",
+        "Mash black beans in a large bowl. Mix crackers, Cheddar cheese, bell peppers, corn, onion, jalapeno pepper, egg white, taco seasoning, and Ranch seasoning into black beans until evenly mixed. Spoon mixture into the prepared baking dish; form into a loaf.",
+        "Bake in the preheated oven until cooked through, 45 to 60 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5312&h=2781&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3202800.jpg",
+    "ingredients": [
+        "cooking spray",
+        "3 (15 ounce) cans black beans, drained and rinsed",
+        "1 sleeve buttery round crackers (such as Ritz\u00ae), crushed",
+        "1 cup shredded Cheddar cheese",
+        "1 cup diced multi-colored bell peppers",
+        "\u2154 cup frozen corn kernels",
+        "\u00bd cup diced onion, or to taste",
+        "24 slices jalapeno pepper, diced",
+        "1  egg white",
+        "1 (1 ounce) packet hot taco seasoning mix",
+        "1 (1 ounce) package spicy Ranch-style seasoning mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Black Bean Vegetarian Meat Loaf",
     "url": "http://allrecipes.com/recipe/231998/black-bean-vegetarian-meat-loaf/"
 }

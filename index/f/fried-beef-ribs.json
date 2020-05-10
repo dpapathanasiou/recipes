@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a deep-fryer to 375 degrees F (190 degrees C).",
+        "In a medium bowl, mix together the salt, black pepper, cayenne pepper, garlic salt, and onion salt. Place the flour in a separate bowl or plate. Whisk eggs in a large bowl. Rub the spice mixture onto all of the ribs. Dip each rib in egg, then in flour, then egg, then flour again.",
+        "Place the ribs in a fryer basket so they are not crowded, try 4 or 5 at a time depending on the size of your fryer. Cook for about 8 minutes. Remove to paper towels to drain. Continue with remaining ribs."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7381093.jpg",
+    "ingredients": [
+        "3 quarts peanut oil for frying",
+        "2 tablespoons salt",
+        "3 tablespoons coarse ground black pepper",
+        "2 tablespoons cayenne pepper",
+        "2 tablespoons garlic salt",
+        "2 tablespoons onion salt",
+        "2 cups all-purpose flour",
+        "6  eggs, beaten",
+        "6 pounds beef ribs, cut into single rib pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Beef Ribs",
     "url": "http://allrecipes.com/recipe/89650/fried-beef-ribs/"
 }

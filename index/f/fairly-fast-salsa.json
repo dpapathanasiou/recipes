@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven's broiler and set the oven rack about 6 inches from the heat source. Line a large baking sheet with aluminum foil.",
+        "Arrange the tomatoes, onion, and jalapeno pepper on the prepared baking sheet.",
+        "Roast the vegetables under the broiler until the skins are blackened, about 10 minutes.",
+        "Combine the roasted vegetables, garlic, cilantro, lime juice, salt, and chipotle peppers in a blender; blend to desired consistency. Store unused portions in refrigerator up to 1 week."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F646181.jpg",
+    "ingredients": [
+        "5  tomatoes, halved",
+        "1  onion, halved",
+        "1  jalapeno pepper sliced in half lengthwise and seeded",
+        "2 cloves garlic",
+        "\u00be cup fresh cilantro leaves",
+        "2 tablespoons fresh lime juice",
+        "4 teaspoons salt",
+        "1 teaspoon pureed chipotle peppers in adobo sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fairly Fast Salsa",
     "url": "http://allrecipes.com/recipe/93253/fairly-fast-salsa/"
 }

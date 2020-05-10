@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease a bread pan.",
+        "Mix flour, sugar, cinnamon, baking soda, baking powder, and cloves in a large bowl.",
+        "Beat egg and milk together in a separate bowl; add to flour mixture and stir to moisten dry ingredients evenly. Pour mixture into a bread pan.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 45 to 55 minutes. Cool in the pans for 10 minutes before removing to cool completely on a wire rack."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "2 cups white sugar",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon baking powder",
+        "\u00bd teaspoon ground cloves",
+        "1  egg, beaten",
+        "1 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Pepparkakor Cake",
     "url": "http://allrecipes.com/recipe/230236/swedish-pepparkakor-cake/"
 }

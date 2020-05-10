@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Season chicken with salt and pepper to taste; place in a large roasting pan. Arrange vegetables around chicken, add water to the bottom of the pan, and cover pan tightly with aluminum foil.",
+        "Roast at in preheated oven, basting occasionally, for 2 hours, removing the foil for the last half hour or so of cooking. Roast until chicken is golden brown and a thermometer inserted into the thigh reaches 165 degrees F (74 C). Let chicken rest 10 minutes before carving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F770545.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken",
+        "salt and pepper to taste",
+        "6  whole onions",
+        "4  carrots, cut into 2 inch pieces",
+        "4 stalks celery, chopped",
+        "6  potatoes, peeled",
+        "1 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Vegetable Chicken",
     "url": "http://allrecipes.com/recipe/17676/roasted-vegetable-chicken/"
 }

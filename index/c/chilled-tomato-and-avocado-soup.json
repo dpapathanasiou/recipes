@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place tomato, avocados, onion, green bell pepper, and lemon juice into the bowl of a food processor, and process until smooth. Pour in 1 cup tomato juice, and process to blend.",
+        "Transfer mixture to a large bowl, and mix in remaining tomato juice and 1 cup yogurt. Season to taste with salt. Chill for 2 hours.",
+        "Serve in bowls garnished with dollops of yogurt, chives, and a sprinkling of cayenne pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/441814.jpg",
+    "ingredients": [
+        "1 ripe tomato, peeled and quartered",
+        "2 large avocados - peeled, pitted, and sliced",
+        "1 small onion, quartered",
+        "1 green bell pepper, chopped",
+        "1/4 cup fresh lemon juice",
+        "1 quart tomato juice",
+        "1 1/4 cups plain nonfat yogurt",
+        "salt to taste",
+        "1/4 cup chopped fresh chives",
+        "cayenne pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chilled Tomato and Avocado Soup",
     "url": "http://allrecipes.com/recipe/53255/chilled-tomato-and-avocado-soup/"
 }

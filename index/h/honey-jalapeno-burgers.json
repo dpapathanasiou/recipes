@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+        "Mix ground beef, jalapeno chile pepper, and honey with your hands in a large bowl; shape into 4 even patties.",
+        "Cook on preheated grill until the burgers are cooked to your desired degree of doneness, 7 to 10 minutes per side for well done. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1136&h=595&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1120078.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1\u2009\u00bd tablespoons honey",
+        "1\u2009\u00bd tablespoons diced jalapeno chile pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Jalapeno Burgers",
     "url": "http://allrecipes.com/recipe/220886/honey-jalapeno-burgers/"
 }

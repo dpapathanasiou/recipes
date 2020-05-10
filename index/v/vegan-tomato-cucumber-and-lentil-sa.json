@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water and lentils in a large pot. Bring to a boil; reduce heat and simmer gently until lentils are tender but not mushy, about 20 minutes. Drain excess liquid and transfer to a large bowl.",
+        "Stir cucumber, tomatoes, red onion, and basil into lentils. Dress with balsamic vinegar."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "8 cups water",
+        "1 pound dried lentils",
+        "1 English cucumber, peeled and cut into bite-size pieces",
+        "2 tomatoes, cut into bite-size pieces",
+        "1/2 red onion, finely chopped",
+        "1/2 cup finely chopped fresh basil",
+        "1/4 cup balsamic vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Tomato, Cucumber, and Lentil Salad",
     "url": "http://allrecipes.com/recipe/247120/vegan-tomato-cucumber-and-lentil-sa/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In large saucepan, stir together sugar, cornstarch, salt and nutmeg. Gradually stir in boiling water, then simmer over low heat until thick, stirring occasionally.",
+        "Remove from heat; stir in butter, lemon zest and lemon juice and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/397030.jpg",
+    "ingredients": [
+        "1/2 cup white sugar",
+        "1 tablespoon cornstarch",
+        "1/8 teaspoon salt",
+        "1/4 teaspoon freshly grated nutmeg",
+        "1 cup boiling water",
+        "1 tablespoon butter",
+        "1 teaspoon grated lemon zest",
+        "1 lemon, juiced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Sauce I",
     "url": "http://allrecipes.com/recipe/20010/lemon-sauce-i/"
 }

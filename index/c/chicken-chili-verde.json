@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In large 4-quart saucepan, heat oil over medium-high heat until hot. Cook onion and garlic in oil 2 to 3 minutes or until onion begins to turn translucent. Add chicken pieces, salt and pepper. Cook 3 to 5 minutes or until chicken is no longer pink in center.",
+        "Reduce heat to medium; stir in soup and beans. Simmer 5 minutes. Remove from heat; stir in lime juice and chopped cilantro."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "\u00bd cup chopped onion",
+        "2 cloves garlic, finely chopped",
+        "1 pound boneless skinless chicken breast halves, cut into 1-inch pieces",
+        "Salt and pepper to taste",
+        "1 (18.5 ounce) can Progresso\u00ae chicken corn chowder soup",
+        "1 (15 ounce) can Progresso\u00ae Black Beans, drained, rinsed",
+        "1 tablespoon lime juice",
+        "2 tablespoons chopped cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Chili Verde",
     "url": "http://allrecipes.com/recipe/215945/chicken-chili-verde/"
 }

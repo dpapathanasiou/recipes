@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put pinto beans and lentils into two separate pots of water; bring both to a boil, turn off heat, cover, and let stand 1 hour.",
+        "Drain and rinse beans.",
+        "Prepare a large skillet with cooking spray and heat over medium-low heat; cook and stir mushrooms, onion, and bell pepper in hot skillet until onion is soft and mushrooms are darkened, 25 to 30 minutes. Spread mushroom mixture onto a platter to cool.",
+        "Process pinto beans, egg, sage, rosemary, basil, marjoram, salt, garlic powder, and cayenne pepper in a food processor until smooth; transfer to a bowl. Mix lentils, cooled mushroom mixture, oats, Cheddar cheese, and sunflower kernels with the processed pinto bean mixture until somewhat evenly mixed. Cover bowl with plastic wrap and refrigerate 8 hours to overnight.",
+        "Prepare a large skillet with cooking spray and place over medium heat. Divide and shape mixture into 16 patties.",
+        "Cook patties in batches in hot skillet until browned and heated through, about 7 minutes per side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4561333.jpg",
+    "ingredients": [
+        "\u00bd cup pinto beans",
+        "\u00bd cup lentils",
+        "1 serving cooking spray",
+        "8 ounces fresh mushrooms, finely chopped",
+        "1  onion, finely chopped",
+        "1  red bell pepper, finely chopped",
+        "1  egg",
+        "1 teaspoon dried sage",
+        "1 teaspoon dried rosemary",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried marjoram (optional)",
+        "1 teaspoon salt",
+        "1 teaspoon garlic powder",
+        "1 teaspoon cayenne pepper",
+        "\u00bd cup rolled oats",
+        "\u00bc cup shredded Cheddar cheese",
+        "\u00bc cup sunflower kernels, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Veggie Sausage Patties",
     "url": "http://allrecipes.com/recipe/241795/veggie-sausage-patties/"
 }

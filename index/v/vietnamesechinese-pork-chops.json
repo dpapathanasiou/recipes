@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the brown sugar, honey, fish sauce, 3 tablespoons of vegetable oil, soy sauce, Worcestershire sauce, ginger, five-spice powder, sesame oil, shallot, garlic, onion, lemon grass, salt, and pepper in a bowl, and pour into a resealable plastic bag. Add the pork chops, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 8 hours.",
+        "Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat or preheat an outdoor grill for medium-high heat, and lightly oil the grate.  Cook until the pork chops are no longer pink in the center, about 4 minutes on each side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F808342.jpg",
+    "ingredients": [
+        "2 tablespoons brown sugar",
+        "2 tablespoons honey",
+        "2 tablespoons fish sauce",
+        "3 tablespoons vegetable oil",
+        "2 tablespoons soy sauce",
+        "\u00bd teaspoon Worcestershire sauce",
+        "\u00bd teaspoon minced fresh ginger root",
+        "1 teaspoon Chinese five-spice powder",
+        "1 teaspoon sesame oil",
+        "1 teaspoon minced shallot",
+        "6 cloves garlic, minced",
+        "\u00bd  onion, chopped",
+        "2  lemon grass, chopped",
+        "\u00bc teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "6  thin, boneless center-cut pork chops",
+        "\u00bc cup vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vietnamese/Chinese Pork Chops",
     "url": "http://allrecipes.com/recipe/171370/vietnamesechinese-pork-chops/"
 }

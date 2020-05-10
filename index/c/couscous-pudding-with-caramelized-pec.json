@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water to a boil in a large saucepan over medium heat. Stir in couscous and salt. Remove from heat, cover, and let stand until water is absorbed, about 5 minutes.",
+        "Stir milk and 1/4 cup sugar into the couscous; bring to a boil. Reduce heat to medium-low; cook and stir until mixture is slightly thickened, about 10 minutes. Remove from heat and whisk in eggs. Return to stovetop and continue cooking, stirring frequently, until pudding is creamy, about 5 minutes. Remove from heat and stir in vanilla extract.",
+        "Let pudding cool to room temperature, stirring occasionally, about 30 minutes. Spoon into a bowl, cover loosely with plastic wrap and chill until set, at least 1 hour.",
+        "Melt butter in a small saucepan over medium-low heat. Add pecans and 1/2 cup white sugar. Cook, stirring frequently, until pecans are coated and caramel thickens, about 5 minutes. Serve pecans and caramel sauce on top or alongside the pudding."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3214850.jpg",
+    "ingredients": [
+        "Couscous Pudding:",
+        "2/3 cup water",
+        "1/2 cup couscous",
+        "1/4 teaspoon salt",
+        "2 cups fat-free milk",
+        "1/4 cup white sugar",
+        "2 eggs",
+        "1/2 teaspoon vanilla extract",
+        "Caramelized Pecans:",
+        "3 tablespoons butter",
+        "1/2 cup chopped pecans",
+        "1/2 cup white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Couscous Pudding with Caramelized Pecans",
     "url": "http://allrecipes.com/recipe/245781/couscous-pudding-with-caramelized-pec/"
 }

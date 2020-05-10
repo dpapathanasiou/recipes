@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Roll out the pizza dough and shape into a round circle to fit a 10 inch pizza pan. Slide the dough onto the pan.",
+        "Stir the squash and cranberry sauce together in a bowl until smooth. Spoon the squash mixture over the pizza dough so it's even but not too thick. Sprinkle the sauce with the Cheddar and Parmesan cheeses. Sprinkle the pecans over the cheese.",
+        "Bake in preheated oven until cheese is melted. Remove pizza from the oven, slide onto a serving plate, and cut into wedges. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F129110.jpg",
+    "ingredients": [
+        "1 (10 ounce) package refrigerated pizza crust dough",
+        "\u00bd cup mashed, cooked butternut squash",
+        "\u00bc cup cranberry sauce",
+        "\u00bd cup Cheddar cheese, grated",
+        "\u00bc cup Parmesan cheese, grated",
+        "\u00bc cup pecans, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butternut Cranberry Sauce Pizza",
     "url": "http://allrecipes.com/recipe/131190/butternut-cranberry-sauce-pizza/"
 }

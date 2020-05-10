@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large glass jar, combine drained pineapple chunks, drained apricot slices, drained sliced peaches, drained maraschino cherries, brandy and sugar. Stir gently with wooden spoon. Cover and let stand at room temperature for 3 weeks, stirring at least twice a week. Drain and reserve the liquid - This liquid is your starter for the Thirty Day Friendship Cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7571091.jpg",
+    "ingredients": [
+        "1 (15 ounce) can pineapple chunks, drained",
+        "1 (15 ounce) can apricot halves, drained",
+        "1 (15 ounce) can sliced peaches, drained",
+        "1 (10 ounce) jar maraschino cherries, drained",
+        "1\u2009\u00bc cups brandy",
+        "1\u2009\u00bc cups white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Friendship Fruit Starter",
     "url": "http://allrecipes.com/recipe/44942/friendship-fruit-starter/"
 }

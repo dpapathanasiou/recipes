@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large soup pot over medium heat, and brown the oxtails and beef stew meat on all sides. Add water to cover the meat, bring to a boil, reduce heat to a simmer, and cook for 30 minutes. Skim off and discard any foam that collects at the top.",
+        "Drop in the bouillon cube, onion, celery, chili powder, cumin, salt, pepper, and corn ears, stir to combine, and simmer the soup until the meat is very tender, about 2 hours. Stir in the carrots and potatoes, simmer for 30 more minutes, then stir in the lentils, rice, mixed vegetables, and cabbage. Simmer until the rice, lentils, and cabbage are tender, about 30 more minutes. Serve with a half ear of corn in each bowl, with hot steamed tortillas for dipping in the broth."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2111134.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "2 pounds beef oxtail, cut into pieces",
+        "1 pound cubed beef stew meat (optional)",
+        "1 cube beef bouillon",
+        "1  onion, chopped",
+        "2 stalks celery, chopped",
+        "\u00bd teaspoon chili powder",
+        "\u00be teaspoon ground cumin",
+        "salt and pepper to taste",
+        "4 ears corn on the cob, broken in half",
+        "3  carrots, coarsely chopped",
+        "2  russet potatoes, cut into bite-sized pieces",
+        "\u2153 cup lentils, picked over and rinsed",
+        "\u2153 cup long grain rice",
+        "1 cup frozen mixed vegetables (optional)",
+        "1 head cabbage, cored and cut into 8 wedges",
+        "8  corn tortillas (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Oxtail Beef Soup",
     "url": "http://allrecipes.com/recipe/214090/mexican-oxtail-beef-soup/"
 }

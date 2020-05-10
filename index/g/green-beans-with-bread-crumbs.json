@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine green beans and 1/2 cup water in a medium pot. Cover, and bring to boil. Reduce heat to medium, and let beans cook for 10 minutes, or until tender. Drain well.",
+        "Place beans in a medium serving bowl, and mix in bread crumbs, olive oil, salt, pepper, garlic powder, oregano and  basil. Toss mixture until the beans are coated. Sprinkle with Parmesan cheese, and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3806530.jpg",
+    "ingredients": [
+        "1 pound fresh green beans, washed and trimmed",
+        "\u00bd cup water",
+        "\u00bc cup Italian-style seasoned bread crumbs",
+        "\u00bc cup olive oil",
+        "salt and pepper to taste",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc teaspoon dried oregano",
+        "\u00bc teaspoon dried basil",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Beans with Bread Crumbs",
     "url": "http://allrecipes.com/recipe/14105/green-beans-with-bread-crumbs/"
 }

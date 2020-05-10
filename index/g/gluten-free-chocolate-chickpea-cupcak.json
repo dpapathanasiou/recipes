@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease 12 muffin cups or line with paper liners.",
+        "Melt chocolate chips and coconut oil in the top of a double boiler over simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching.",
+        "Blend chickpeas, eggs, sugar, baking powder, and vanilla extract together in a blender or food processor until smooth. Add chocolate mixture and blend until smooth. Pour batter into prepared muffin cups.",
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 20 to 25 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4306582.jpg",
+    "ingredients": [
+        "1 1/2 cups semisweet chocolate chips",
+        "1/4 cup coconut oil",
+        "1 (15 ounce) can chickpeas (garbanzo beans), drained",
+        "4 eggs",
+        "1/2 cup white sugar",
+        "1 teaspoon baking powder",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten-Free Chocolate Chickpea Cupcakes",
     "url": "http://allrecipes.com/recipe/236470/gluten-free-chocolate-chickpea-cupcak/"
 }

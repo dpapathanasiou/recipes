@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss together the mozzarella, cherry tomatoes, basil, and olive oil in a large bowl. Season with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F879583.jpg",
+    "ingredients": [
+        "8 ounces fresh mozzarella cheese, cubed",
+        "1 (10 ounce) basket cherry tomatoes",
+        "3 tablespoons torn fresh basil leaves",
+        "1 tablespoon olive oil",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caprese Salad",
     "url": "http://allrecipes.com/recipe/228509/caprese-salad/"
 }

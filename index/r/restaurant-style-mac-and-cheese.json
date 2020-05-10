@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "Return drained pasta to the pot. Mix in processed cheese, Cheddar cheese, and cream. Stir until cheeses melt. Sprinkle with salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1\u2009\u00bd cups macaroni",
+        "6 ounces processed cheese, shredded",
+        "\u00bd cup shredded Cheddar cheese",
+        "2 tablespoons heavy cream",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Restaurant Style Mac and Cheese",
     "url": "http://allrecipes.com/recipe/23026/restaurant-style-mac-and-cheese/"
 }

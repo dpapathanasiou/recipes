@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cream cheese and processed cheese in medium bowl; mix until well blended.  Chop beef in small pieces.  Stir beef and onion into cheese mixture.  Refrigerate overnight before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1202&h=629&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1524006.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (5 ounce) container sharp processed cheese spread",
+        "1 (2.5 ounce) package smoked sliced beef",
+        "\u00bc cup chopped onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef Dip",
     "url": "http://allrecipes.com/recipe/20051/beef-dip/"
 }

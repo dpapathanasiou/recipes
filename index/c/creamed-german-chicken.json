@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a skillet over medium heat and brown chicken breasts in the hot butter until lightly golden on both sides, about 5 minutes per side. Chicken will still be slightly pink inside. Set chicken breasts aside.",
+        "Cook and stir onion in the same skillet until translucent, about 5 minutes; stir in fennel and celery seed along with black pepper until thoroughly combined. Pour in cream, bring to a boil, and reduce heat to low. Simmer, stirring often, until sauce is slightly thickened, about 5 minutes. Place chicken breasts into the cream sauce and spoon sauce over chicken; cook until chicken breasts are no longer pink inside and the juices run clear, about 10 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F909360.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "2  skinless, boneless chicken breast halves",
+        "1  onion, sliced",
+        "1 teaspoon fennel seed",
+        "1 teaspoon celery seed",
+        "1 tablespoon freshly ground black pepper, or to taste",
+        "1 pint heavy whipping cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamed German Chicken",
     "url": "http://allrecipes.com/recipe/228410/creamed-german-chicken/"
 }

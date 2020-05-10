@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place garbanzo beans in a large container and cover with several inches of cool water; let soak 8 hours to overnight. Drain.",
+        "Bring 2 cups of water to a boil in a large pot. Add garbanzo beans; reduce heat and simmer until almost tender, about 45 minutes. Drain and rinse with cold water until cool.",
+        "Spread garbanzo beans on a baking sheet and remove skins.",
+        "Heat olive oil in a large pot over medium heat; cook and stir onion until softened, about 3 minutes. Add celery, carrots, garlic, and fennel seeds; cook and stir for 4 minutes. Stir in garbanzo beans, vegetable broth, and tomatoes. Simmer soup until garbanzo beans are tender, about 15 minutes. Add grape tomatoes and spinach leaves; cook for 2 minutes.",
+        "Season soup with parsley, oregano, thyme, salt, and pepper. Stir well and remove from heat. Cover and let stand for 10 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4461189.jpg",
+    "ingredients": [
+        "1/2 cup dried garbanzo beans",
+        "1 tablespoon extra-virgin olive oil",
+        "1 onion, finely chopped",
+        "3 stalks celery, sliced",
+        "2 carrots, sliced",
+        "3 cloves garlic, minced",
+        "1 teaspoon fennel seeds",
+        "3 cups vegetable broth",
+        "1 (14.5 ounce) can fire-roasted diced tomatoes",
+        "18 grape tomatoes, halved lengthwise",
+        "2 cups baby spinach leaves",
+        "1 tablespoon chopped fresh parsley",
+        "1 teaspoon chopped fresh oregano",
+        "1/2 teaspoon chopped fresh thyme",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Italian Garbanzo Bean Soup",
     "url": "http://allrecipes.com/recipe/256609/vegan-italian-garbanzo-bean-soup/"
 }

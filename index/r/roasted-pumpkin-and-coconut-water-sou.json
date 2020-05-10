@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place pumpkin halves on baking sheet.",
+        "Bake in preheated oven until pumpkin is soft and easily pierced with a fork, 30 to 40 minutes.",
+        "Scoop pumpkin flesh into a blender; add coconut water and blend until smooth, 1 to 2 minutes.",
+        "Pour pumpkin mixture into a saucepan and bring to a simmer over low heat; stir in butter, curry powder, ground ginger, chile powder, ground nutmeg, salt, and ground pepper. Thin soup with milk to reach desired consistency. Cook and stir soup until heated through, about 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 pie pumpkin, halved and seeded",
+        "3/4 cup coconut water, or to taste",
+        "2 tablespoons butter",
+        "1 tablespoon yellow curry powder",
+        "1/8 teaspoon ground ginger, or more to taste",
+        "1/8 teaspoon red chile powder, or to taste",
+        "1 dash ground nutmeg",
+        "salt and ground black pepper to taste",
+        "1/4 cup milk, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Pumpkin and Coconut Water Soup",
     "url": "http://allrecipes.com/recipe/240108/roasted-pumpkin-and-coconut-water-sou/"
 }

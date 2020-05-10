@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1/4 cup white sugar, shortening and 1/4 teaspoon salt. Beat in the egg and mix for one minute or until well blended",
+        "Dissolve the yeast in the warm milk. Add the milk and yeast mixture, vanilla and 2 1/2 cups flour to the shortening mixture. Mix for 3 minutes with a dough hook or with hands.",
+        "Turn dough out on a floured board and knead for one minute. Place dough in a medium size lightly greased bowl, cover and set in a warm place to rise for 1 hour.",
+        "While dough is rising prepare gooey butter topping. Combine the remaining sugar, butter and salt. Add the egg and corn syrup. Mix until just combined. Add the flour, water and vanilla and mix to combine. Set aside.",
+        "Grease two 9x9 inch square baking pans.",
+        "Divide dough into two pieces and place them into the prepared pans. Crimp the edges halfway up the sides of the pans to prevent the topping from running underneath. With a fork poke wholes into he bottom of the dough. Divide the topping into two equal parts and spread over the dough in each pan. Let the cakes stand for 20 minutes.",
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Bake cakes for 30 minutes. Do not overbake, the topping should stay gooey. After the cakes have cooled sprinkle tops with confectioners' sugar."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bc cup white sugar",
+        "\u00bc cup shortening",
+        "\u00bc teaspoon salt",
+        "1  egg",
+        "1 (0.6 ounce) cake compressed fresh yeast",
+        "\u00bd cup warm milk",
+        "2\u2009\u00bd cups all-purpose flour",
+        "1 tablespoon vanilla extract",
+        "2\u2009\u00bd cups white sugar",
+        "1 cup butter, softened",
+        "\u215b teaspoon salt",
+        "1  egg",
+        "\u00bc cup light corn syrup",
+        "2\u2009\u00bc cups all-purpose flour",
+        "\u00bc cup water",
+        "1 tablespoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Phila Butter Cake",
     "url": "http://allrecipes.com/recipe/8222/phila-butter-cake/"
 }

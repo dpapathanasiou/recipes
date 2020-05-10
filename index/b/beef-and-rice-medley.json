@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ground beef and onion in a large, deep skillet. Cook over medium high heat until evenly brown. Drain excess fat. Stir in water and rice. Season with beef bouillon and black pepper. Simmer 25 to 30 minutes, or until water is absorbed. Stir in diced tomatoes and green peppers. Simmer another 10 minutes, until green pepper is tender. Sprinkle top with cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6446575.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "\u00bd cup diced onion",
+        "2\u2009\u00bd cups water",
+        "1 cup uncooked rice",
+        "1 cube beef bouillon",
+        "\u00bd teaspoon ground black pepper",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 cup diced green bell pepper",
+        "1 (8 ounce) package mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef and Rice Medley",
     "url": "http://allrecipes.com/recipe/36111/beef-and-rice-medley/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine merlot, sugar, orange peels, lemon peels, cinnamon sticks, cloves, and nutmeg in a saucepan over medium heat; simmer until sugar is dissolved and flavors have blended, 10 to 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2011901.jpg",
+    "ingredients": [
+        "1 (750 milliliter) bottle merlot wine",
+        "3 tablespoons white sugar",
+        "4 (3 inch) orange peel strips",
+        "4 (3 inch) lemon peel strips",
+        "2 cinnamon sticks",
+        "2 whole cloves",
+        "1 whole nutmeg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Warm Spiced Wine",
     "url": "http://allrecipes.com/recipe/229929/warm-spiced-wine/"
 }

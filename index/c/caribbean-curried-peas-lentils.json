@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat canola oil in a Dutch oven over medium-high heat; cook and stir onion, carrots, salt, black pepper, and sugar until onion is a deep brown color, 15 to 20 minutes. Reduce heat to medium; add garlic, chile pepper, ginger, and curry powder. Stir constantly to incorporate, about 5 minutes.",
+        "Increase heat to medium-heat and stir 1 can vegetable broth into the onion mixture. Scrape up any vegetables or curry powder stuck to the bottom of the pot with a wooden spoon. Add lentils and remaining 1 can of vegetable broth; cook until lentils are tender, about 30 minutes. Stir cilantro into lentils before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2447&h=1281&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1004711.jpg",
+    "ingredients": [
+        "\u00bc cup canola oil",
+        "1 large onion, diced",
+        "2  carrots, peeled and diced",
+        "salt and ground black pepper to taste",
+        "\u00bd teaspoon white sugar",
+        "3 cloves garlic, minced",
+        "1  fresh chile pepper, minced",
+        "1 teaspoon grated fresh ginger",
+        "3 tablespoons curry powder",
+        "2 (14 ounce) cans vegetable broth, divided",
+        "1 cup lentils",
+        "\u00bc cup chopped fresh cilantro, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caribbean Curried Peas (Lentils)",
     "url": "http://allrecipes.com/recipe/222903/caribbean-curried-peas-lentils/"
 }

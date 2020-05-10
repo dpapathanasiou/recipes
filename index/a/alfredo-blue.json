@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente; drain.",
+        "Heat olive oil in a small skillet over medium heat. Saute garlic in olive oil until golden. Remove garlic, and reserve oil.",
+        "In a medium saucepan over medium-low heat, combine blue cheese, Parmesan cheese, and cream. Stir until cheeses are melted. Stir in the oil from the garlic pan. Season with Italian seasoning, salt, and pepper.",
+        "Toss sauce with hot pasta, and let stand 5 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F268441.jpg",
+    "ingredients": [
+        "1 (16 ounce) package fettuccini pasta",
+        "1 tablespoon olive oil",
+        "1 clove garlic, sliced",
+        "4 ounces blue cheese, crumbled",
+        "\u00bc cup grated Parmesan cheese",
+        "2 cups heavy cream",
+        "1 tablespoon Italian seasoning",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Alfredo Blue",
     "url": "http://allrecipes.com/recipe/22268/alfredo-blue/"
 }

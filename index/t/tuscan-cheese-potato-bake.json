@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 3-quart baking dish.",
+        "Melt butter in a large saucepan over medium-high heat. Saute onion, garlic, and thyme in hot butter until onion is tender, 3 to 5 minutes. Whisk flour, salt, and black pepper into onion mixture.",
+        "Gradually whisk milk and cream into onion mixture; bring to a boil, reduce heat to low, and simmer until sauce thickens, about 2 minutes.",
+        "Stir sour cream into sauce until smooth; add fontina cheese and stir until cheese melts.",
+        "Arrange 1/2 the potatoes in the bottom of the prepared baking dish. Pour 1/2 the cheese sauce over the potatoes. Repeat with remaining potatoes and cheese sauce. Top with bread crumbs to cover potatoes entirely.",
+        "Bake in the preheated oven until potatoes are tender and bread crumbs are golden brown, 60 to 70 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1542029.jpg",
+    "ingredients": [
+        "5 tablespoons butter",
+        "2  green onions, chopped",
+        "3 cloves garlic, minced, or more to taste",
+        "1\u2009\u00bd teaspoons chopped fresh thyme",
+        "5 tablespoons all-purpose flour",
+        "1\u2009\u00bc teaspoons salt",
+        "\u00bd teaspoon ground black pepper",
+        "2 cups milk",
+        "1 cup heavy whipping cream",
+        "1 (8 ounce) container sour cream",
+        "1 cup shredded fontina cheese",
+        "2 pounds red potatoes, thinly sliced, ends discarded",
+        "\u00bc cup Italian-style panko bread crumbs, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tuscan Cheese Potato Bake",
     "url": "http://allrecipes.com/recipe/237127/tuscan-cheese-potato-bake/"
 }

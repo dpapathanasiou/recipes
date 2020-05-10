@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat eggs in large bowl; cook in skillet until scrambled. Mix in can of diced green chilies and set aside.",
+        "Preheat oven to 350 degrees F.",
+        "In large bowl mix together enchilada sauce and half-and-half until well combined. Lightly coat bottom of large casserole dish with small amount of sauce.",
+        "To assemble enchiladas fill each tortilla with eggs, a small handful of Cheddar cheese, and about 2 tablespoons of Canadian Bacon. Roll and place seam side down in casserole dish. Repeat with remaining ingredients. Pour green chili sauce over tortillas. Sprinkle with Monterey Jack cheese.",
+        "Cover with foil and bake for 20-25 minutes until sauce is bubbling and enchiladas are heated through. Let set for 5 minutes before serving. Serve with sour cream and salsa if desired.",
+        "To Make Ahead: Cover with foil and place in fridge or freezer. If frozen, let thaw in fridge before baking. Increase baking time by 5-10 minutes if starting with cold enchiladas."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4006526.jpg",
+    "ingredients": [
+        "12 eggs",
+        "1 (7 ounce) can diced green chiles, drained",
+        "2 (10 ounce) cans green enchilada sauce",
+        "1/3 cup half-and-half",
+        "12 (6 inch) flour tortillas",
+        "2 cups shredded Cheddar cheese",
+        "1 (6 ounce) package Jones Dairy Farm Canadian Bacon, diced",
+        "1 cup shredded Monterey Jack cheese",
+        "sour cream (optional)",
+        "salsa (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breakfast Enchiladas from Jones Dairy Farm",
     "url": "http://allrecipes.com/recipe/255679/breakfast-enchiladas-from-jones-dairy/"
 }

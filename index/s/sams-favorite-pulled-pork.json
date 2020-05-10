@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season pork tenderloin with salt, black pepper, and 1/2 teaspoon cayenne pepper.",
+        "Heat oil in a skillet over medium-high heat; fry pork in hot oil until browned on all sides, about 10 minutes. Transfer meat to a slow cooker. Add water, brown sugar, cider vinegar, Worcestershire sauce, garlic, and hot sauce.",
+        "Cook on Low for 7 hours. Remove tenderloin to a platter and drain cooking liquid, reserving about 1/2 cup. Shred pork and return to slow cooker. Add enough reserved liquid to moisten meat.",
+        "Whisk mayonnaise, white vinegar, garlic powder, lemon pepper, and 1 pinch cayenne pepper together in a bowl. Serve mayonnaise sauce with shredded pork."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1773933.jpg",
+    "ingredients": [
+        "1 (2 pound) package pork tenderloin, fat trimmed",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon cayenne pepper",
+        "1 teaspoon vegetable oil",
+        "2 cups water",
+        "\u00bd cup brown sugar",
+        "\u00bc cup apple cider vinegar",
+        "2 tablespoons Worcestershire sauce",
+        "2 teaspoons minced garlic",
+        "3 dashes hot pepper sauce",
+        "\u00bd cup mayonnaise",
+        "3 tablespoons white vinegar",
+        "\u00bd teaspoon garlic powder",
+        "1 pinch lemon pepper, or to taste",
+        "1 pinch cayenne pepper, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sam's Favorite Pulled Pork",
     "url": "http://allrecipes.com/recipe/235374/sams-favorite-pulled-pork/"
 }

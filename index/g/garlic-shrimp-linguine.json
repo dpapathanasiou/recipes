@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "In a medium saucepan, melt butter over medium low heat; add wine, cheese, garlic, parsley and salt and pepper to taste. Simmer over low heat for 3 to 5 minutes, stirring frequently.",
+        "Increase heat to medium high and add shrimp to saucepan; cook for about 3 to 4 minutes or until shrimp begins to turn pink. Do not overcook.",
+        "Divide pasta into portions and spoon sauce on top; garnish with Parmesan cheese and fresh parsley, if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2432923.jpg",
+    "ingredients": [
+        "1 pound uncooked linguine",
+        "1 tablespoon butter",
+        "3 tablespoons white wine",
+        "2 teaspoons grated Parmesan cheese",
+        "3 cloves garlic, minced",
+        "1 teaspoon chopped fresh parsley",
+        "1 pinch salt and pepper to taste",
+        "1 pound medium shrimp, peeled and deveined"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Shrimp Linguine",
     "url": "http://allrecipes.com/recipe/17048/garlic-shrimp-linguine/"
 }

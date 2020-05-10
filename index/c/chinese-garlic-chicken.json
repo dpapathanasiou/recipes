@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season chicken with salt and black pepper. Toss with flour until coated.",
+        "Heat peanut oil in a wok or large skillet over high heat until it begins to smoke. Add chicken, and stir fry until the pieces are lightly browned on the outside, 3 to 5 minutes. Turn heat to medium and stir in whole garlic cloves; continue stir frying for 5 minutes.",
+        "Turn heat to low, and add Shao-Hsing wine, soy sauce, and chicken stock. Cover, and simmer for 20 minutes until the chicken is tender. Remove garlic cloves before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5490931.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds skinless, boneless chicken breasts, cut into bite-size pieces",
+        "1 teaspoon salt",
+        "\u00bd teaspoon black pepper",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons peanut oil",
+        "15 cloves garlic, peeled",
+        "3 tablespoons Shao-Hsing cooking wine or dry sherry",
+        "2 tablespoons light soy sauce",
+        "1\u2009\u2153 cups chicken stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chinese Garlic Chicken",
     "url": "http://allrecipes.com/recipe/141848/chinese-garlic-chicken/"
 }

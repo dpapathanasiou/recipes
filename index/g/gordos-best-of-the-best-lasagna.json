@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook lasagna in the boiling water, stirring occasionally until cooked through but firm to the bite, about 8 minutes. Drain and rinse in cold water.",
+        "Cook and stir sausage, beef, onion, and garlic in a large, deep skillet over medium heat until browned. Stir tomato basil sauce, tomato sauce, diced tomatoes, 3/4 cup parsley, Italian seasoning, sugar, sea salt, and pepper into sausage mixture. Bring to a simmer; reduce heat to low and cook, stirring occasionally, until flavors blend, about 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+        "Stir ricotta cheese, Parmesan cheese, Cheddar cheese, eggs, and remaining 1/4 cup parsley together in a large bowl until smooth.",
+        "Spread 1 cup tomato sauce in the bottom of the prepared baking dish. Cover sauce with a layer of lasagna noodles and spread the ricotta mixture over the noodles. Spread a layer of tomato sauce over the ricotta and a layer of noodles over the tomato sauce. Repeat the layering procedure 1 more time. Spread remaining sauce over the final layer of noodles and top with mozzarella cheese. Cover baking dish with aluminum foil.",
+        "Bake lasagna in the preheated oven until hot throughout and bubbling, 30 to 40 minutes. Remove the aluminum foil and bake until cheese is golden, about 10 minutes more. Cool for 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3202961.jpg",
+    "ingredients": [
+        "1 (16 ounce) package lasagna noodles",
+        "\u00bd pound bulk spicy pork sausage",
+        "\u00bd pound ground beef",
+        "\u00bd cup minced onion",
+        "3 cloves garlic, minced",
+        "1 (32 ounce) jar tomato basil pasta sauce",
+        "1 (15 ounce) can tomato sauce",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 cup dried parsley, divided",
+        "\u00bc cup Italian seasoning",
+        "1 tablespoon white sugar",
+        "1\u2009\u00bd teaspoons sea salt",
+        "\u00bd teaspoon coarsely ground black pepper",
+        "cooking spray",
+        "3 cups ricotta cheese",
+        "1 cup grated Parmesan cheese",
+        "1 cup shredded sharp Cheddar cheese (such as Cabot\u00ae Seriously Sharp)",
+        "3  eggs, whisked",
+        "1\u2009\u00bd cups shredded mozzarella cheese, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gordo's Best of the Best Lasagna",
     "url": "http://allrecipes.com/recipe/235325/gordos-best-of-the-best-lasagna/"
 }

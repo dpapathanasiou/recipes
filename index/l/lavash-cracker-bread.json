@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together the water, whole wheat flour, and yeast until moistened. Mix in the salt and 1 cup of all-purpose flour. Gradually mix in the rest of the flour using a mixer with a dough hook attachment or wooden spoon.",
+        "When the dough comes together, knead in your mixer or on a floured surface for 8 to 10 minutes to make an elastic ball. Add more flour or water if needed to keep dough from getting sticky or too stiff. Pour a little bit of oil in the bowl and turn the dough to coat. Cover and let rise in a warm place until doubled in size, about 1 hour.",
+        "Punch down the dough and divide into 30 pieces about the size of small walnuts. Rolling the dough into a long log helps to divide it evenly. Roll each piece into a ball and cover with a damp kitchen towel for 30 minutes to rest.",
+        "Preheat the oven to 500 degrees F (260 degrees C). Place a baking sheet on the center rack of the oven so it can preheat at the same time. Do not grease.",
+        "Roll each ball into a circle about 8 inches across. The dough should be paper thin, almost translucent. If they are too thick, they will bubble up like pita breads.",
+        "Pull out the oven shelf and place as many crackers on your baking sheet as you can fit, 2 or 3. Close the oven and bake for about 3 minutes. The crackers should be lightly browned on the top with small bubbles. You may have to adjust your thickness for the next batch."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F312468.jpg",
+    "ingredients": [
+        "1 cup lukewarm water",
+        "\u00bc cup whole wheat flour",
+        "1 (.25 ounce) envelope active dry yeast",
+        "1 teaspoon salt",
+        "3 cups all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lavash Cracker Bread",
     "url": "http://allrecipes.com/recipe/153167/lavash-cracker-bread/"
 }

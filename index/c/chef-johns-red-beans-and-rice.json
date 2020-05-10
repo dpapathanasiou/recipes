@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place beans in a large container and cover with several inches of cool water; let stand 8 hours to overnight. Drain and rinse.",
+        "Heat vegetable oil in a large pot over medium heat. Cook and stir sausage in hot oil until oils slightly release from sausage and edges brown, 5 to 7 minutes. Stir onion, celery, and poblano pepper into sausage; cook and stir until vegetables soften and start to turn translucent, 5 to 10 minutes. Stir garlic into sausage mixture; cook and stir until fragrant, about 1 minute.",
+        "Stir red beans, chicken broth, ham hock, bay leaves, black pepper, thyme, cayenne pepper, and hot sauce into the sausage mixture; bring to a boil, reduce heat to low, and simmer gently, stirring occasionally, for 1 1/2 hours. Add salt and continue simmering until beans are soft, meat is tender, and desired consistency is reached, 1 1/2 to 2 hours more. Season with salt.",
+        "Spoon rice into bowls, ladle red beans mixture over rice, and top with green onion."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5082394.jpg",
+    "ingredients": [
+        "1 pound dry red kidney beans",
+        "1 tablespoon vegetable oil",
+        "12 ounces andouille sausage, diced",
+        "1 cup finely diced onion",
+        "3/4 cup chopped celery",
+        "3/4 cup poblano peppers",
+        "4 cloves garlic, minced",
+        "2 quarts chicken broth, or more as needed",
+        "1 smoked ham hock",
+        "2 bay leaves",
+        "1 teaspoon freshly ground black pepper",
+        "1 teaspoon dried thyme",
+        "1/2 teaspoon cayenne pepper, or to taste",
+        "hot sauce to taste",
+        "4 cups cooked white rice",
+        "2 tablespoons chopped green onion, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Red Beans and Rice",
     "url": "http://allrecipes.com/recipe/241499/chef-johns-red-beans-and-rice/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a loaf pan.",
+        "Sift flour, baking soda, and cinnamon together in a bowl.",
+        "Beat sugar and shortening together in a separate large bowl with an electric mixer until light and fluffy; add 1 egg at a time, thoroughly beating the first into the sugar mixture before adding the second. Beat banana and vanilla into the wet mixture together. Stream buttermilk into wet mixture while continually beating until smooth; add flour mixture and continue to beat until you have a smooth batter. Pour batter into the prepared loaf pan.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour. Cool in the pan for 10 minutes before removing to cool completely on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1300&h=681&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2171142.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon ground cinnamon",
+        "1\u2009\u00bc cups white sugar",
+        "\u00bd cup shortening",
+        "2  egg, beaten",
+        "1 cup mashed ripe banana",
+        "1 teaspoon vanilla extract",
+        "\u00bd cup buttermilk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buttermilk Banana Bread",
     "url": "http://allrecipes.com/recipe/241552/buttermilk-banana-bread/"
 }

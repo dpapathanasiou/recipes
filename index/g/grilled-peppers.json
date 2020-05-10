@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat a grill for medium-high heat. When the grill is hot, lightly oil the grate.",
+        "Place the pepper pieces onto the grill with the inside facing down. Cook until slightly charred, 3 to 5 minutes.",
+        "Turn peppers over, and place jalapeno slices onto them. Top with some mozzarella cheese, and sprinkle with a bit of oregano. Grill until cheese melts, then remove to a plate and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6637567.jpg",
+    "ingredients": [
+        "3  green bell peppers, cut into large chunks",
+        "\u00bd cup sliced jalapeno peppers",
+        "1 pinch dried oregano",
+        "1 cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Peppers",
     "url": "http://allrecipes.com/recipe/73970/grilled-peppers/"
 }

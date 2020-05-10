@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk flour, beer, garlic powder, salt, pepper, and cayenne pepper together in a bowl until batter is evenly mixed; cover bowl with plastic wrap and let sit at room temperature for 1 hour.",
+        "Wrap bacon around each onion ring and arrange on a plate; refrigerate.",
+        "Heat oil in a deep-fryer or large saucepan to 325 degrees F (165 degrees C).",
+        "Dip wrapped onion rings in batter, shaking off any excess. Place battered onion rings onto a plate while dipping the rest; do not stack.",
+        "Fry battered onion rings, working in batches, in the hot oil until browned, about 5 minutes per side. Transfer cooked onion rings to a paper towel-lined plate to drain."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1254093.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 cup beer",
+        "1 pinch garlic powder, or to taste",
+        "1 pinch salt, or to taste",
+        "1 pinch ground black pepper, or to taste",
+        "1 pinch cayenne pepper, or to taste",
+        "1  sweet onion, cut into 1/4-inch wide rings",
+        "1 pound bacon",
+        "1 quart vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon-Wrapped Onion Rings",
     "url": "http://allrecipes.com/recipe/238175/bacon-wrapped-onion-rings/"
 }

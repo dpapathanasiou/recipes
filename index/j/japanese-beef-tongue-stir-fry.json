@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rub 1 tablespoon salt onto beef tongue; place on a plate. Let sit until flavors combine, about 5 minutes.",
+        "Bring a pot of water to a boil. Dip beef tongue into boiling water with a slotted spoon for 30 seconds. Remove, draining excess water; transfer to a plate.",
+        "Heat sesame oil in a skillet over medium heat. Add garlic; cook and stir until fragrant, 1 to 2 minutes. Stir in onions; cook and stir until soft, 2 to 3 minutes. Add beef tongue and more sesame oil if needed; cook and stir until tongue is browned, about 3 minutes.",
+        "Stir sake, dashi powder, salt, and pepper into the skillet; simmer until flavors combine, 2 to 3 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 tablespoon salt, or as needed",
+        "\u00bd pound beef tongue, very thinly sliced",
+        "1\u2009\u00bd teaspoons sesame oil, or as needed",
+        "2 cloves garlic, sliced",
+        "2 cups sliced spring onions",
+        "1 tablespoon sake (Japanese rice wine)",
+        "\u00bd teaspoon dashi powder",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Japanese Beef Tongue Stir-Fry",
     "url": "http://allrecipes.com/recipe/255027/japanese-beef-tongue-stir-fry/"
 }

@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Lightly coat a 10-inch springform pan with nonstick cooking spray.",
+        "Combine the graham cracker crumbs with the cocoa powder and 1 cup sugar.  Toss with melted butter.  Press into the bottom and 1 to 2-inches up the sides of the prepared springform pan.",
+        "Bring 2 cups sugar and the water to a boil in a large, heavy-bottomed pot.  Reduce heat to medium-low, and continue to cook without stirring until the mixture has turned a deep, golden color, 30 to 45 minutes.  Remove from the heat, and carefully pour in the heavy cream (the mixture will bubble vigorously).  Return the caramel to the stove over low heat, and stir until completely liquefied.  Stir in the chocolate until melted, then stir in the sour cream.  Remove from heat and set aside.",
+        "Beat the cream cheese until fluffy in an electric mixer.  Add caramel mixture, and blend well, scraping the sides of the bowl occasionally.  Add eggs, one at a time, scraping the bowl after each addition.  Add the vanilla with the last egg.  Mix until well incorporated, then pour mixture into prepared pan.",
+        "Place pan into a hot water bath with the water coming half way up the sides of the springform pan.  Bake in the center of the preheated oven until the center has set, about 1 hour 15 minutes.  The cheesecake is done when the middle 3 or 4 inches are still a little wobbly.  Chill completely before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2262936.jpg",
+    "ingredients": [
+        "2 cups graham cracker crumbs",
+        "1/2 cup cocoa powder",
+        "1 cup sugar",
+        "3/4 cup melted butter",
+        "2 cups sugar",
+        "3/4 cup water",
+        "1 1/2 cups heavy cream",
+        "8 ounces bittersweet chocolate, coarsely chopped",
+        "3/4 cup sour cream",
+        "3 (8 ounce) packages cream cheese",
+        "4 eggs",
+        "1 tablespoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Chocolate Caramel Cheesecake",
     "url": "http://allrecipes.com/recipe/100827/chocolate-caramel-cheesecake/"
 }

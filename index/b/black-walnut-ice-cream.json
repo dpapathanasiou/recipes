@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, stir together the sugar, light cream, half-and-half and black walnut extract. Pour into the container of an ice cream maker, and freeze according to the manufacturer's instructions. When ice cream is done, fold in walnuts, and transfer to a freezer container. Freeze until solid."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2095140.jpg",
+    "ingredients": [
+        "1/2 cup superfine sugar",
+        "2 cups light cream",
+        "1 cup half-and-half cream",
+        "1/2 teaspoon black walnut extract",
+        "1/2 cup chopped black walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Black Walnut Ice Cream",
     "url": "http://allrecipes.com/recipe/80643/black-walnut-ice-cream/"
 }

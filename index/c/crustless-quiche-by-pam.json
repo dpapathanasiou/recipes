@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease a 7x11-inch baking dish.",
+        "Heat a large skillet over medium-high heat and stir in ground sausage. Cook and stir until sausage is crumbly and evenly browned, 5 to 10 minutes. Remove sausage from skillet and drain all but 2 tablespoons of drippings.",
+        "Cook and stir onion and bell pepper in the reserved drippings until softened, 5 to 10 minutes.",
+        "Mix sausage, onion, bell pepper, sour cream, Cheddar cheese, Swiss cheese, garlic powder, hot pepper sauce, salt, and black pepper together in a bowl; mix in beaten eggs until incorporated. Pour mixture into the prepared baking dish.",
+        "Bake in the preheated oven until edges are golden brown and center is set, 50 to 55 minutes. Allow to cool 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2716&h=1422&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1000093.jpg",
+    "ingredients": [
+        "1 pound ground pork sausage",
+        "\u00bd cup minced onion",
+        "\u00bd cup minced green bell pepper",
+        "1 (16 ounce) container sour cream",
+        "1\u2009\u00bd cups shredded sharp Cheddar cheese",
+        "1 cup shredded Swiss cheese",
+        "\u00bd teaspoon garlic powder",
+        "\u00bc teaspoon hot pepper sauce (such as Tabasco\u00ae)",
+        "salt and ground black pepper to taste",
+        "4  eggs, beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crustless Quiche by Pam",
     "url": "http://allrecipes.com/recipe/231245/crustless-quiche-by-pam/"
 }

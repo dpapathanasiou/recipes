@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a slow cooker saute together the onion, garlic, green pepper, and vegetable oil. Cook until onion is transparent.",
+        "Add the chopped tomatoes, oregano, basil, parsley, sugar, salt, and ground black pepper. Cook for 2 to 3 hours on low heat. Stir frequently.",
+        "Let sauce cool. Pour sauce into quart size freezer containers. Store in freezer.",
+        "When ready to use sauce, stir in can of tomato paste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/825519.jpg",
+    "ingredients": [
+        "4 onions, chopped",
+        "4 cloves garlic, minced",
+        "1 green bell pepper, chopped",
+        "1/2 cup vegetable oil",
+        "16 cups chopped tomatoes",
+        "2 tablespoons dried oregano",
+        "2 tablespoons dried basil",
+        "1/4 cup chopped parsley",
+        "1/4 cup white sugar",
+        "2 tablespoons salt",
+        "3/4 teaspoon ground black pepper",
+        "1 (6 ounce) can tomato paste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stephanie's Freezer Spaghetti Sauce",
     "url": "http://allrecipes.com/recipe/12054/stephanies-freezer-spaghetti-sauce/"
 }

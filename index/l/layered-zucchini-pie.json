@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C). Line a 10 inch springform pan with parchment paper.",
+        "Heat a large skillet over medium-high heat. Stir in the Italian sausage; cook and stir until evenly browned, about 10 minutes. Drain well and reserve.",
+        "Heat the olive oil the skillet over medium heat. Stir in zucchini and garlic; cook until zucchini is lightly browned, about 10 minutes. Stir basil into the skillet; cover and simmer until zucchini is soft, about 5 minutes. Season with salt and pepper to taste. Cool slightly; place in a square of cheesecloth or a colander and squeeze dry.",
+        "Use one can of crescent dough to form a crust in the springform pan, pressing dough up sides. Layer 1/2 cup mozzarella , the cooked zucchini, the cooked sausage, and the remaining 1/2 cup of mozzarella in the crust.  Sprinkle with Parmesan cheese; dot with the pesto. Beat the eggs, cream, and paprika in a large bowl; season with salt and pepper.  Pour egg mixture over layered ingredients in crust. Place remaining crescent dough, in one piece, on top of pan to form a top crust. Trim; poke hole in the middle to vent.",
+        "Place pan on a baking sheet.  Bake in preheated oven for 35 minutes. Cover with aluminum foil; bake an additional 15 minutes. Turn off oven; allow pie to rest in warm oven for 20 minutes. Serve warm, or refrigerate for at least 3 hours to serve chilled."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd pound bulk Italian sausage",
+        "1 tablespoon olive oil",
+        "3  zucchini, cut into 1/4 inch slices",
+        "3 cloves garlic, minced",
+        "2 tablespoons chopped fresh basil",
+        "salt and pepper to taste",
+        "2 (8 ounce) packages refrigerated crescent rolls",
+        "1 cup shredded mozzarella cheese",
+        "\u00bd cup grated Parmesan cheese",
+        "\u00bc cup sun-dried tomato pesto",
+        "3  eggs",
+        "\u2153 cup heavy cream",
+        "1 teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Layered Zucchini Pie",
     "url": "http://allrecipes.com/recipe/82488/layered-zucchini-pie/"
 }

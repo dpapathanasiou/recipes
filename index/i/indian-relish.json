@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium heat, mix together red bell peppers, onion, white wine vinegar, sugar and crushed red pepper flakes. Bring to a boil, then reduce heat to simmer. Stirring occasionally, cook 30 minutes, or until thickened. Refrigerate 4 hours or overnight before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2  red bell peppers, chopped",
+        "1  sweet onion, peeled and chopped",
+        "1 cup white wine vinegar",
+        "1 cup white sugar",
+        "1 tablespoon crushed red pepper flakes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Indian Relish",
     "url": "http://allrecipes.com/recipe/24180/indian-relish/"
 }

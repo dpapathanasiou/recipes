@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Cut pork tenderloin down the center lengthwise nearly all the way through, leaving the two sides attached; sprinkle with 1 tablespoon Worcestershire sauce.",
+        "Stir onion, mushrooms, and garlic together in a bowl. Distribute mushroom mixture evenly along center of pork; sprinkle with remaining Worcestershire sauce and steak seasoning. Lay chorizo slices evenly along mushroom stuffing.",
+        "Pierce tenderloin with 4 or 5 skewers crosswise through both edges; wrap butcher's twine around skewers, as if lacing shoelaces, and pull tenderloin closed around stuffing. Tie ends of twine together; place tenderloin in a baking dish.",
+        "Bake in the preheated oven until pork is slightly pink at the center, and an instant-read thermometer inserted near the center of the pork reads at least 145 degrees F (74 degrees C), 20 to 30 minutes. Remove string and skewers; cut into 2-inch thick medallions to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1105990.jpg",
+    "ingredients": [
+        "1 pork tenderloin",
+        "2 tablespoons Worcestershire sauce, divided",
+        "1/2 small onion",
+        "1/4 cup chopped mushrooms",
+        "3 cloves garlic, minced",
+        "1 teaspoon steak seasoning",
+        "1 small chorizo sausage, thinly sliced, slices cut in half"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom and Chorizo-Stuffed Pork Tenderloin",
     "url": "http://allrecipes.com/recipe/236663/mushroom-and-chorizo-stuffed-pork-ten/"
 }

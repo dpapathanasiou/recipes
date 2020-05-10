@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Press pie crust into a pie plate.",
+        "Place cream cheese in a microwave-safe bowl; heat in microwave until warmed, about 10 seconds. Stir cream cheese and milk together in a bowl; stir into beaten eggs. Stir Cheddar cheese into egg mixture; add kale and bacon. Pour egg mixture into the pie crust.",
+        "Bake in the preheated oven until top has golden brown spots and a toothpick inserted in the center comes out clean, about 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3637646.jpg",
+    "ingredients": [
+        "1 (9 inch) pie crust pastry",
+        "\u00bd (8 ounce) package cream cheese",
+        "\u00bd cup milk",
+        "4  eggs, beaten",
+        "8 ounces sharp Cheddar cheese, shredded",
+        "10 ounces chopped kale",
+        "4 slices cooked bacon, crumbled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Kale Quiche",
     "url": "http://allrecipes.com/recipe/244249/cheesy-kale-quiche/"
 }

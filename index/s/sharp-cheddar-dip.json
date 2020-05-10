@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In an electric blender, combine cream cheese, sharp Cheddar cheese spread, and garlic powder. Blend until creamy.",
+        "Cut bagels in half, and then into quarters. Arrange the bagels around the dip on a serving platter."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1021&h=535&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F962715.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "5 ounces sharp processed cheese spread",
+        "1 pinch garlic powder",
+        "6  bagels"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sharp Cheddar Dip",
     "url": "http://allrecipes.com/recipe/16840/sharp-cheddar-dip/"
 }

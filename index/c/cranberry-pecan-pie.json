@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Finely chop cranberries in food processor or by hand. Spread into bottom of pastry-lined pie pan.",
+        "In a large bowl beat eggs until frothy. Add sugar, corn syrup, melted butter or margarine, vanilla, mace, and salt. Mix well. Pour mixture over cranberry layer. Neatly arrange pecan halves on top of sugar mixture.",
+        "Bake in preheated oven for 45 to 50 minutes, until golden and set in center."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1746045.jpg",
+    "ingredients": [
+        "1 (9 inch) deep dish pie crust",
+        "1 cup cranberries",
+        "3  eggs",
+        "\u2154 cup white sugar",
+        "1 cup dark corn syrup",
+        "6 tablespoons unsalted butter, melted",
+        "1 teaspoon vanilla extract",
+        "\u00bc teaspoon ground mace",
+        "\u215b teaspoon salt",
+        "1 cup pecan halves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Pecan Pie",
     "url": "http://allrecipes.com/recipe/15946/cranberry-pecan-pie/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour milk into a large mixing bowl, and sprinkle yeast over the surface. Allow to rest for 5 minutes. Beat in the sugar, eggs, 1/2 cup butter, and salt; blend thoroughly. Gradually stir in the flour to make a soft dough. Cover bowl, and set in a warm place until dough doubles in size, about 1 hour.",
+        "Punch down the dough, cover the bowl, and allow to rise again. Repeat this step two more times.",
+        "Break off 2 to 3 inch size pieces of dough, roll lightly into round shape, and place in prepared baking dish, edges touching. Repeat to make 36 dough balls. Cover and let rise until doubled in size.",
+        "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a 9x13 inch baking dish.",
+        "Bake rolls in preheated oven until tops turn golden brown, 10 to 15 minutes. When rolls are finished baking, drizzle melted butter over the top, and serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7377192.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups warm milk",
+        "4 teaspoons active dry yeast",
+        "\u00bd cup sugar",
+        "2  eggs",
+        "\u00bd cup butter, softened",
+        "2 teaspoons salt",
+        "7 cups all-purpose flour, or as needed",
+        "\u00bd cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Angie's Perfect Dinner Rolls",
     "url": "http://allrecipes.com/recipe/152690/angies-perfect-dinner-rolls/"
 }

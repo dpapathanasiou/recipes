@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together corn kernels, tomatoes, hot yellow banana pepper, garlic, green bell pepper, basil, sage, thyme, lemon juice and olive oil. Cover and chill in the refrigerator at least 1 hour before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F853703.jpg",
+    "ingredients": [
+        "4 ears fresh corn kernels",
+        "4  tomatoes, chopped",
+        "1  hot yellow banana pepper, chopped",
+        "2 cloves garlic, minced",
+        "1 cup chopped green bell pepper",
+        "1 tablespoon chopped fresh basil",
+        "1 tablespoon chopped fresh sage",
+        "1 tablespoon chopped fresh thyme",
+        "1  lemon, juiced",
+        "2 teaspoons olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Steph's Summer Salsa",
     "url": "http://allrecipes.com/recipe/26973/stephs-summer-salsa/"
 }

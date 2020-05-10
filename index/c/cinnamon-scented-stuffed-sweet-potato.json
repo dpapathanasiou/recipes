@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven 400 degrees F.",
+        "Scrub sweet potatoes and then oven roast, skin on for 40-45 minutes or until soft to the touch. Cool slightly. Gently cut the top third off the sweet potatoes and scoop filing into a bowl. Reserve skins if using.",
+        "Mash potatoes with a fork. Add yogurt and spices and mix well. Spoon filling back into the skins or into 6 lightly buttered ramekins. Sprinkle each with 1 tsp. brown sugar.",
+        "Set to bake for 15-18 minutes or until heated through."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/992152.jpg",
+    "ingredients": [
+        "6 medium sweet potatoes",
+        "1 cup Dannon Oikos Plain Greek Nonfat Yogurt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground ginger",
+        "1/4 teaspoon ground nutmeg",
+        "Kosher salt and cracked pepper to taste",
+        "2 tablespoons brown sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Scented Stuffed Sweet Potatoes",
     "url": "http://allrecipes.com/recipe/229632/cinnamon-scented-stuffed-sweet-potato/"
 }

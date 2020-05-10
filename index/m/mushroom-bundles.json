@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a skillet over medium heat; cook and stir mushrooms and garlic in the melted butter for 1 minute. Pour in white wine; cook and stir mixture until all liquid has evaporated, about 5 minutes. Season with salt. Remove from heat.",
+        "Preheat oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper.",
+        "Cut each puff pastry sheet into 4 equal rectangles, creating 8 total. Spoon mushroom mixture into the center of each rectangle; sprinkle with Parmesan cheese. Gather all 4 corners of a rectangle together around the filling; pinch corners and edges of puff pastry together forming a seal. Repeat with remaining rectangles. Arrange bundles on the prepared baking sheet. Lightly press bundles so the bottoms are flat.",
+        "Bake in the preheated oven until bundles are golden brown, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1300&h=681&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2303715.jpg",
+    "ingredients": [
+        "1 stick unsalted butter",
+        "4 cups chopped mushrooms",
+        "4 cloves garlic, minced",
+        "\u00bd cup dry white wine",
+        "salt to taste",
+        "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "\u2153 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom Bundles",
     "url": "http://allrecipes.com/recipe/232968/mushroom-bundles/"
 }

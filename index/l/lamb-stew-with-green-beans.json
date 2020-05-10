@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large pot over medium heat. Saute onion and celery until golden. Stir in lamb, and cook until evenly brown. Stir in tomato sauce and water. Reduce heat, and simmer for about 1 hour.",
+        "Stir in green beans. Season with parsley, mint, dill, cinnamon, sugar, salt and pepper. Continue cooking until beans are tender."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/187601.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 large onion, chopped",
+        "1 stalk celery, chopped",
+        "3 pounds boneless lamb shoulder, cut into 2 inch pieces",
+        "1 (8 ounce) can tomato sauce",
+        "3 cups hot water",
+        "2 pounds fresh green beans, trimmed",
+        "1 tablespoon chopped fresh parsley",
+        "1/2 teaspoon dried mint",
+        "1/2 teaspoon dried dill weed",
+        "1 pinch ground cinnamon",
+        "1 pinch white sugar",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lamb Stew with Green Beans",
     "url": "http://allrecipes.com/recipe/54282/lamb-stew-with-green-beans/"
 }

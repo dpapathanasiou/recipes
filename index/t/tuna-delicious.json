@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add egg noodles and cook for 8 to 10 minutes or until al dente; drain.",
+        "In a large skillet over medium heat, fry onion in oil until browned. Mix in tuna and mushroom soup. Stir in sour cream and heat through. Mix together the cooked egg noodles and sauce and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6550318.jpg",
+    "ingredients": [
+        "1 (8 ounce) package egg noodles",
+        "1 tablespoon vegetable oil",
+        "1 onion, chopped",
+        "1 (6 ounce) can tuna, drained",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (8 ounce) container sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tuna Delicious",
     "url": "http://allrecipes.com/recipe/23980/tuna-delicious/"
 }

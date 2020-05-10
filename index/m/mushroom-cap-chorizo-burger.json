@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Scrape the gills out of each mushroom. Brush olive oil over each mushroom (top and bottom) and season with salt and pepper. Arrange mushrooms, gill-side up, on a baking sheet.",
+        "Bake in the preheated oven until tender, about 7 minutes.",
+        "Combine ground beef, chorizo, onion, bacon, egg, garlic, cilantro, 1/2 teaspoon salt, 1/2 teaspoon black pepper, garlic powder, onion powder, and chili powder in a large bowl just until mixed; shape into 8 patties. Place a patty on top of each mushroom.",
+        "Bake in the preheated oven until burgers are fully cooked, about 20 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1210&h=634&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4579702.jpg",
+    "ingredients": [
+        "8 large portobello mushrooms,  stems removed",
+        "1 tablespoon vegetable oil, or more as needed",
+        "salt and ground black pepper to taste",
+        "1 pound ground beef",
+        "1 pound chorizo sausage",
+        "\u00bd  onion, diced",
+        "4 slices cooked bacon, chopped",
+        "1  egg",
+        "2 cloves garlic, minced",
+        "\u00bc cup chopped fresh cilantro",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon onion powder",
+        "\u00bd teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom Cap Chorizo Burger",
     "url": "http://allrecipes.com/recipe/255699/mushroom-cap-chorizo-burger/"
 }

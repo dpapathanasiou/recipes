@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a pot of lightly salted water to a rolling boil over high heat. Stir in the egg noodles, and return to a boil. Cook, uncovered, stirring occasionally, until the pasta is cooked through, but still firm to the bite, about 5 minutes. Drain.",
+        "Meanwhile, heat a large skillet over medium-high heat and stir in the sausage, green pepper, and onion. Cook and stir until the sausage is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease.",
+        "Bring the 4 cups of water to a boil in a large pot. Stir in the cabbage, the sausage mixture, and the noodles. Simmer over medium-low heat, stirring occasionally, until the cabbage is tender, about 30 minutes. Add water while cooking if needed; the mixture should not be dry. Season to taste with salt and pepper. Garnish with sour cream if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F326860.jpg",
+    "ingredients": [
+        "1 (8 ounce) package kluski noodles",
+        "2 (12 ounce) packages sage pork sausage",
+        "1  green pepper, diced",
+        "1  onion, diced",
+        "4 cups water, or as needed",
+        "1 large head cabbage, chopped",
+        "salt and pepper to taste",
+        "\u00bd cup sour cream (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Polish Noodles",
     "url": "http://allrecipes.com/recipe/82135/polish-noodles/"
 }

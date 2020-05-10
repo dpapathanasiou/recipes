@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix banana and ground flax seeds together in a bowl. Add eggs, baking powder, and cinnamon; beat together until combined.",
+        "Melt butter in a skillet over medium heat. Drop small spoonfuls of batter into the skillet. Cook until bubbles form and edges look dry, 4 to 5 minutes per side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4433048.jpg",
+    "ingredients": [
+        "1 ripe banana, mashed",
+        "2 tablespoons ground flax seeds, or more to taste",
+        "4 eggs",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon ground cinnamon",
+        "1 tablespoon butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Flourless Banana Flax Pancakes",
     "url": "http://allrecipes.com/recipe/254802/easy-flourless-banana-flax-pancakes/"
 }

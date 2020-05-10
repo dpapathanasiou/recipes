@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef, half the onion, habanero pepper, jalapeno pepper, and garlic in the hot skillet until meat is browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Transfer beef mixture to a large pot and add tomato sauce, kidney beans, diced tomatoes with green chiles, 2 tablespoons chili powder, 1 tablespoon cumin, cayenne pepper, salt, white pepper, and black pepper.",
+        "Bring beef mixture to a boil; reduce heat to medium-low and simmer for 30 minutes. Stir in beer, Worcestershire sauce, 1/2 teaspoon chili powder, and 1/2 teaspoon cumin. Continue to simmer chili until flavors blend, about 2 hours.",
+        "Spoon chili into bowls and top with Cheddar cheese, crackers, and remaining half onion."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2778937.jpg",
+    "ingredients": [
+        "1\u2009\u00bc pounds ground beef",
+        "1  yellow onion, chopped, divided",
+        "1  habanero pepper, chopped",
+        "1  jalapeno pepper, chopped",
+        "2 cloves garlic, chopped",
+        "2 (15 ounce) cans tomato sauce",
+        "1 (16 ounce) can kidney beans, rinsed and drained (optional)",
+        "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL\u00ae), drained",
+        "2 tablespoons chili powder",
+        "1 tablespoon ground cumin",
+        "1 tablespoon cayenne pepper",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground white pepper",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bc (12 fluid ounce) can or bottle amber beer",
+        "2 tablespoons Worcestershire sauce",
+        "\u00bd teaspoon chili powder",
+        "\u00bd teaspoon ground cumin",
+        "1 cup shredded Cheddar cheese (optional)",
+        "1 sleeve crackers (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tray's Spicy Texas Chili",
     "url": "http://allrecipes.com/recipe/233605/trays-spicy-texas-chili/"
 }

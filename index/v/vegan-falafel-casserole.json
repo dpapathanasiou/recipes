@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine falafel mix and water in a small bowl until well mixed; spread evenly into the bottom of a casserole dish.",
+        "Bake in the preheated oven until lightly browned, about 15 minutes. Cool to room temperature.",
+        "Blend yogurt, 1/2 sliced cucumber, and lemon juice in a a food processor until yogurt sauce is smooth.",
+        "Spread hummus in an even layer over falafel crust. Arrange tomato slices on the hummus and top with cucumber slices. Cover cucumber layer with yogurt sauce. Sprinkle roasted red peppers and olives over yogurt sauce."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 cup dry falafel mix",
+        "1/2 cup water",
+        "2 (6 ounce) containers plain soy yogurt",
+        "2 cucumbers, thinly sliced, divided",
+        "1 lemon, juiced",
+        "sea salt and ground black pepper to taste",
+        "1/2 cup hummus, or as needed",
+        "2 vine-ripened tomatoes, thinly sliced",
+        "2 tablespoons finely chopped roasted red peppers, finely chopped",
+        "10 pitted green olives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Falafel Casserole",
     "url": "http://allrecipes.com/recipe/241304/vegan-falafel-casserole/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, dissolve the yeast in the warm (110 degree F) water. Let sit until creamy, about 10 minutes.",
+        "Pour the hot water in a large mixing bowl, add the honey, salt, sugar, orange zest, caraway seeds and butter; briefly stir. Let cool to lukewarm.",
+        "Combine the yeast mixture with the honey orange mixture. Stir in the rye flour. Mix the bread flour, 1/2 cup at a time, until the dough comes together. Turn the dough out onto a lightly floured surface and knead until smooth and supple, about 8 minutes. Lightly oil a large mixing bowl. Place the dough in the bowl and turn to coat with oil. Cover with a damp towel and let rise in a warm place until doubled in volume, about 1 hour. Meanwhile, lightly grease three 9x5 inch loaf pans.",
+        "Turn the dough out onto a lightly floured surface and divide into three equal pieces. Form each piece into a loaf and place in prepared pans. Cover with a damp cloth and let rise until doubled in volume, about 40 minutes. Meanwhile, preheat oven to 350 degrees F (175 degrees C).",
+        "Bake at 350 degrees F (175 degrees C) for 40 to 50 minutes, or until the top of the loaves are golden and the bottoms sound hollow when tapped."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F325019.jpg",
+    "ingredients": [
+        "3 (.25 ounce) packages active dry yeast",
+        "1 cup warm water (110 degrees F/45 degrees C)",
+        "4\u2009\u00bd cups hot water",
+        "\u00be cup honey",
+        "3 tablespoons salt",
+        "1 cup white sugar",
+        "3 tablespoons orange zest",
+        "1\u2009\u00bd tablespoons caraway seed",
+        "6 tablespoons butter, softened",
+        "7\u2009\u00bd cups rye flour",
+        "7\u2009\u00bd cups all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Rye Bread II",
     "url": "http://allrecipes.com/recipe/18094/swedish-rye-bread-ii/"
 }

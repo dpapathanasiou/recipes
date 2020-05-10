@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss corn, lentils, carrots, olive oil, curry powder, and salt in a bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/996324.jpg",
+    "ingredients": [
+        "1 (15.25 ounce) can corn niblets, drained",
+        "1 (15 ounce) can green lentils, drained and rinsed",
+        "2 large carrots, finely diced",
+        "3 tablespoons olive oil",
+        "2 teaspoons curry powder",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Curried Lentil Salad",
     "url": "http://allrecipes.com/recipe/231690/curried-lentil-salad/"
 }

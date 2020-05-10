@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut any excess fat from the beef, reserving about 2 tablespoons of fat. Place the fat into a large pot over low heat, and cook, stirring occasionally, until the liquid fat renders out, about 15 minutes. Remove and discard any solid bits that remain.",
+        "Place the beef into the hot melted beef fat, and brown on all sides over medium heat, stirring often, about 10 minutes. Cook until nearly all the beef juices have evaporated and begun to brown. Stir in the onion, and cook and stir until the onion starts to become translucent, about 2 minutes. Stir in potatoes, carrots, and turnip, and sprinkle on the flour in several batches, cooking and stirring to coat the ingredients with flour. Stir in the garlic, and cook and stir the meat and vegetables for about 2 minutes to remove any raw flour taste.",
+        "In a saucepan over medium-low heat, mix the beef stock and vegetable stock together, and heat until hot but not boiling. Pour the stock mixture, Irish stout beer, barley, thyme, bay leaves, salt, and pepper over the beef and vegetables and stir to dissolve any brown flavor bits from the bottom of the pot. Bring the stew to a boil, reduce heat, cover the pot, and simmer until the meat is very tender, about 2 hours. Stir every 30 minutes, and check seasoning after 1 hour of cooking time. The cover can be removed in the last 30 minutes if you want a thicker stew."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1197&h=627&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970850.jpg",
+    "ingredients": [
+        "2\u2009\u00bc pounds cubed beef stew meat",
+        "1  onion, chopped",
+        "4  potatoes, peeled and cut into bite-size pieces",
+        "4  carrots, peeled and cut into bite-size pieces",
+        "1  turnip, peeled and cut into bite-size pieces",
+        "\u00bc cup all-purpose flour",
+        "1 clove garlic, chopped",
+        "2 cups beef stock",
+        "3 cups vegetable stock",
+        "1\u2009\u00bd cups Irish stout beer (such as Guinness\u00ae) (optional)",
+        "\u00bd cup pearl barley",
+        "2 sprigs fresh thyme",
+        "2  bay leaves",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Irish Canadian Beef Stew",
     "url": "http://allrecipes.com/recipe/213343/irish-canadian-beef-stew/"
 }

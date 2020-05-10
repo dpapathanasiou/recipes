@@ -1,9 +1,39 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend 3 cups flour, 1/4 cup white sugar, yeast, and salt in a food processor. Add warm milk, eggs, and 1/4 cup softened butter and pulse until dough forms into a ball. Transfer dough to a bowl and allow to sit at room temperature to rise, about 1 hour. Knead dough and roll onto a work surface. Cut dough into 8 circles using a cookie cutter or the rim of a drinking glass; allow to rise, about 30 minutes.",
+        "Melt 3 tablespoons butter in a heavy pot over medium heat; cook and stir 1/4 cup sugar into butter until browned, about 5 minutes. Add 1 cup milk to butter-sugar mixture. Arrange dough circles in the pot; cover and cook over low heat until dough is cooked through, 10 to 15 minutes.",
+        "Melt 2 tablespoons unsalted butter in a small saucepan over medium heat; stir 2 tablespoons flour into butter until mixture bubbles, 1 to 2 minutes. Gradually pour 1 cup milk into butter-flour mixture, cooking and stirring until thickened, 3 to 5 minutes. Stir 1/2 cup sugar, brandy, and 1 teaspoon vanilla extract into thickened milk mixture until a smooth vanilla sauce forms, 2 to 3 minutes.",
+        "Mix 2 cups sugar and 1/4 cup warm water together in a saucepan over medium-low heat until sugar is dissolved, about 5 minutes. Very gradually add remaining water, stirring constantly, until mixture is smooth, 2 to 4 minutes. Mix maple syrup, cream, 1 tablespoon unsalted butter, and 1 dash vanilla extract into sugar mixture until a thick caramel sauce forms, about 5 minutes.",
+        "Transfer dampfnudel to a serving dish and pour vanilla sauce over each; top with caramel sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5222924.jpg",
+    "ingredients": [
+        "3 cups all-purpose flour, or more as needed",
+        "\u00bc cup white sugar",
+        "1\u2009\u00bd (.25 ounce) packages active dry yeast",
+        "1 teaspoon salt",
+        "1 cup warm milk",
+        "2  eggs",
+        "\u00bc cup butter, softened",
+        "3 tablespoons butter, or as needed",
+        "\u00bc cup white sugar, or as needed",
+        "1 cup milk, or as needed",
+        "2 tablespoons unsalted butter",
+        "2 tablespoons all-purpose flour",
+        "1 cup milk",
+        "\u00bd cup white sugar",
+        "1 teaspoon brandy, or to taste",
+        "1 teaspoon vanilla extract",
+        "2 cups white sugar",
+        "\u00bd cup warm water, divided",
+        "\u00bd cup maple syrup",
+        "\u00bd cup heavy whipping cream",
+        "1 tablespoon unsalted butter",
+        "1 dash vanilla extract, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet or Savory Dampfnudel",
     "url": "http://allrecipes.com/recipe/242185/sweet-or-savory-dampfnudel/"
 }

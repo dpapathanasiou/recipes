@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "In a 9 inch deep-dish pie pan, combine pecans, brown sugar and margarine; spread into a single layer. Roll out dough, and place bottom crust over pecan mixture.",
+        "In a large bowl, combine apples, sugar, flour, cinnamon and nutmeg. Pour into crust in pan. Top with second crust. Fold edges of crust over, and flute to seal edges. Make several small slits in the top to allow steam to escape.",
+        "Place pan on foil or cookie sheet during baking to guard against spillage. Bake in preheated oven for 40 to 50 minutes, or until crust is golden brown and apples are tender.",
+        "Cool pie in pan for 5 minutes. Place serving plate over pie, and flip to invert, being careful not to come in contact with molten sugar. If some of the nuts stick to the pan, remove them with a knife, and place on pie. Allow to cool for 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3840&h=2010&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4586014.jpg",
+    "ingredients": [
+        "1 cup chopped pecans",
+        "\u00bd cup firmly packed brown sugar",
+        "\u2153 cup margarine, melted",
+        "1  pastry for a 9 inch double crust pie",
+        "6 cups Granny Smith apples - peeled, cored and sliced",
+        "\u00bc cup white sugar",
+        "2 tablespoons all-purpose flour",
+        "\u00bd teaspoon ground cinnamon",
+        "\u215b teaspoon ground nutmeg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Upside-Down Apple Pecan Pie",
     "url": "http://allrecipes.com/recipe/43022/upside-down-apple-pecan-pie/"
 }

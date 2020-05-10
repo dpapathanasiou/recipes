@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a large pot over medium heat. Stir in the garlic and flour, and cook and stir until the garlic is fragrant but not browned, about 1 minute. Whisk in heavy cream and milk, whisking constantly until the mixture is hot and slightly thickened, about 10 minutes. Gradually stir in the Parmesan cheese and fontina cheese. Season with salt and black pepper. Continue to simmer until the cheese has melted and the sauce is thickened, stirring often, 20 to 30 more minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2547412.jpg",
+    "ingredients": [
+        "1 cup unsalted butter",
+        "1 1/2 tablespoons minced garlic",
+        "1 tablespoon all-purpose flour",
+        "4 cups heavy cream",
+        "1/4 cup whole milk",
+        "8 ounces freshly shredded Parmesan cheese",
+        "2 ounces shredded fontina cheese",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buttery Alfredo Sauce",
     "url": "http://allrecipes.com/recipe/219767/buttery-alfredo-sauce/"
 }

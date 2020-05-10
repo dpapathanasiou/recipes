@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cream together the butter and sugar in a bowl. Stir in the syrup and eggs. Sift together the flour, salt, cinnamon, ginger, allspice, and cloves in a separate bowl; add to the butter mixture; knead into a stiff dough. Pat into a flat circle, and wrap in waxed paper. Refrigerate at least 2 hours.",
+        "Preheat oven to 350 degrees F (175 degrees C). Roll the dough out onto a lightly-floured surface to about 1/2-inch thickness. Cut the dough using a star-shaped cookie cutter. Place cookies one inch apart on ungreased cookie sheets.",
+        "Bake in preheated oven until the edges are golden brown, about 10 minutes. Allow to cool to room temperature before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 cup butter",
+        "1\u2009\u00bd cups white sugar",
+        "3 tablespoons light corn syrup",
+        "2  eggs",
+        "3 cups all-purpose flour",
+        "\u00bd teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon ground ginger",
+        "\u00bd teaspoon allspice",
+        "\u00bc teaspoon ground cloves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pepparkakor",
     "url": "http://allrecipes.com/recipe/93749/pepparkakor/"
 }

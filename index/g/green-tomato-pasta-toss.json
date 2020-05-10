@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet, heat the olive oil over medium heat. Add the onion, and saute until soft. Stir in the green tomatoes, and season to taste with salt and pepper. Reduce heat to medium low, and cook for about 10 minutes.",
+        "Meanwhile in a large pot of boiling salted, water cook pasta until al dente. Drain.",
+        "Toss pasta with tomatoes. Top with the crumbled feta cheese."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4067042.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "6 green tomatoes, chopped",
+        "salt and pepper to taste",
+        "1 (16 ounce) package tri-colored pasta assortment",
+        "1 cup crumbled feta cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Tomato Pasta Toss",
     "url": "http://allrecipes.com/recipe/12070/green-tomato-pasta-toss/"
 }

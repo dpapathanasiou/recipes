@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium heat, bring chicken broth to a simmer and add prawns; cook until pink. Add red pepper flakes to taste.",
+        "In a microwave-safe bowl, combine butter and garlic; heat until completely melted.",
+        "Place prawns on a platter with separate cups of garlic butter for dipping; serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/586946.jpg",
+    "ingredients": [
+        "1/4 cup chicken broth",
+        "1 pound tiger prawns, peeled and deveined",
+        "1/4 teaspoon crushed red pepper flakes",
+        "1/2 cup butter",
+        "3 cloves garlic, crushed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simply Succulent Shrimp",
     "url": "http://allrecipes.com/recipe/17199/simply-succulent-shrimp/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Trim excess fat from rib roast, place on a medium baking sheet and cover with foil. Bake approximately 30 minutes in the preheated oven.",
+        "In a medium bowl, whisk together vegetable oil, soy sauce, brown sugar, garlic and curry powder.",
+        "Preheat an outdoor grill for high heat and lightly oil grate.",
+        "Drain juices from ribs and cut into 4 separate pieces. Place on the prepared grill. Basting frequently with the vegetable oil mixture and turning often, cook ribs 15 to 20 minutes, or until richly glazed."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "3 pounds rib roast",
+        "\u00bd cup vegetable oil",
+        "\u00bd cup soy sauce",
+        "\u00bc cup packed brown sugar",
+        "4 cloves garlic, peeled and crushed",
+        "2 tablespoons curry powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Korean Beef Ribs",
     "url": "http://allrecipes.com/recipe/25472/korean-beef-ribs/"
 }

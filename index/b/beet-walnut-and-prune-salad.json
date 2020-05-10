@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the beets into a saucepan and fill with just enough water to cover. Bring to a boil, then simmer over medium heat until tender enough to pierce with a fork, about 20 minutes. Drain and rub off peels. Run under cold water until cool enough to handle, then grate using the largest setting. Place in a serving bowl.",
+        "Stir the walnuts, prunes and garlic into the beets, then mix in the mayonnaise and season to taste with salt."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/155470.jpg",
+    "ingredients": [
+        "5 medium beets, scrubbed",
+        "1/2 cup chopped walnuts",
+        "1/2 cup mayonnaise",
+        "20 pitted prunes, chopped",
+        "3 cloves garlic, pressed",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beet, Walnut and Prune Salad",
     "url": "http://allrecipes.com/recipe/154526/beet-walnut-and-prune-salad/"
 }

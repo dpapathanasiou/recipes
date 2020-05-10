@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour water and beef drippings into medium saucepan. Stir in Gravy Mixes with wire whisk until smooth.",
+        "Stirring frequently, cook on medium heat until gravy comes to boil. Reduce heat to low; simmer 1 minute or until thickened, stirring occasionally. (Gravy will continue to thicken upon standing.)"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4089954.jpg",
+    "ingredients": [
+        "1 3/4 cups water",
+        "1/4 cup beef drippings",
+        "2 packages McCormick\u00ae Brown Gravy Mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Perfect Brown Gravy",
     "url": "http://allrecipes.com/recipe/255980/perfect-brown-gravy/"
 }

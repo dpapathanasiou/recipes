@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the vegetable oil in a large saucepan over medium heat. Stir in the red pepper flakes and cook until they begin to sizzle, then stir in the minced onion. Reduce the heat to low, cover, and cook, stirring occasionally until the onions have softened, about 20 minutes.",
+        "Remove the lid, increase the heat to medium, and stir in the ginger and yellow bell pepper. Cook and stir until the ginger is fragrant, 2 to 3 minutes. Stir in the mangoes, pineapple, brown sugar, curry powder, and vinegar. Bring to a simmer, and cook for 30 minutes, stirring occasionally. Cool the chutney completely when done and store in airtight containers in the refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4527340.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1 teaspoon crushed red pepper flakes",
+        "1 large sweet onion, minced",
+        "4 inch piece fresh ginger root, peeled and minced",
+        "1 large yellow bell pepper, diced",
+        "3 large ripe mangoes, peeled, pitted, and diced",
+        "1 small pineapple, peeled and diced",
+        "1/2 cup brown sugar",
+        "1 1/2 tablespoons curry powder",
+        "1/2 cup apple cider vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango-Pineapple Chutney",
     "url": "http://allrecipes.com/recipe/166016/mango-pineapple-chutney/"
 }

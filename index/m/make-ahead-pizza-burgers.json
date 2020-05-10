@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place onion and celery into a pot and cover with water; bring to a boil. Simmer until tender, about 3 minutes. Drain.",
+        "Heat a large skillet over medium-high heat; cook and stir beef until it is crumbly, evenly browned, and no longer pink, about 5 minutes. Drain and discard any excess grease. Stir in onion mixture, ketchup, tomato soup, 1/2 can tomato paste, garlic salt, salt, and pepper; set aside to cool.",
+        "Mix remaining 1 1/2 cans tomato paste, oregano, and sugar in a small bowl. Season with salt and pepper.",
+        "Butter each English muffin half, then spread with tomato paste mixture. Divide ground beef mixture over each muffin half and top with strips of American cheese. Place open-faced sandwiches on large baking sheets.",
+        "Bake in the preheated oven until cheese melts, about 15 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1  onion, minced",
+        "3 stalks celery, minced",
+        "4 pounds ground beef",
+        "1 (32 ounce) bottle ketchup",
+        "\u00bd (10.75 ounce) can condensed tomato soup",
+        "\u00bd (6 ounce) can tomato paste",
+        "1\u2009\u00bd teaspoons garlic salt",
+        "salt and ground black pepper to taste",
+        "1\u2009\u00bd (6 ounce) cans tomato paste",
+        "1\u2009\u00bd tablespoons dried oregano",
+        "1\u2009\u00bd tablespoons white sugar",
+        "\u00bc cup butter, softened (optional)",
+        "36  English muffins, split",
+        "72 slices American cheese, cut into strips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Make-Ahead Pizza Burgers",
     "url": "http://allrecipes.com/recipe/222374/make-ahead-pizza-burgers/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a skillet over medium-high heat; cook the onion and garlic in the butter until the onions are translucent, 2 to 3 minutes; add the chicken and cook about 30 seconds while stirring. Stir in the curry paste until the chicken is evenly coated. Pour the chutney and tomatoes into the pan; continue to cook until the chicken breasts is no longer pink in the center and the juices run clear, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3664&h=1918&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F646954.jpg",
+    "ingredients": [
+        "1 tablespoon butter",
+        "1  onion, chopped",
+        "3 cloves garlic, minced",
+        "2 pounds skinless, boneless chicken breast meat - cut into bite-size pieces",
+        "3 tablespoons curry paste",
+        "\u00bd cup mango chutney",
+        "1 (28 ounce) can diced tomatoes, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Curried Mango Chicken",
     "url": "http://allrecipes.com/recipe/176909/curried-mango-chicken/"
 }

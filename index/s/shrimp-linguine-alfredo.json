@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook pasta in a large pot of boiling water until al dente; drain.",
+        "Meanwhile, melt butter in a large saucepan. Saute onion and garlic over medium heat until tender. Add shrimp; saute over high heat for 1 minute, stirring constantly. Stir in half-and-half. Cook, stirring constantly, until sauce thickens.",
+        "Place pasta in a serving dish, and cover with shrimp sauce. Sprinkle with black pepper and Parmesan cheese. Garnish with parsley and lemon slices."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/751622.jpg",
+    "ingredients": [
+        "1 (12 ounce) package linguine pasta",
+        "1/4 cup butter, melted",
+        "4 tablespoons diced onion",
+        "4 teaspoons minced garlic",
+        "40 small shrimp, peeled and deveined",
+        "1 cup half-and-half",
+        "2 teaspoons ground black pepper",
+        "6 tablespoons grated Parmesan cheese",
+        "4 sprigs fresh parsley",
+        "4 slices lemon, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp Linguine Alfredo",
     "url": "http://allrecipes.com/recipe/12780/shrimp-linguine-alfredo/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In an electric blender or food processor, puree the chickpeas, red peppers, lemon juice, tahini, garlic, cumin, cayenne, and salt. Process, using long pulses, until the mixture is fairly smooth, and slightly fluffy. Make sure to scrape the mixture off the sides of the food processor or blender in between pulses. Transfer to a serving bowl and refrigerate for at least 1 hour. (The hummus can be made up to 3 days ahead and refrigerated. Return to room temperature before serving.)",
+        "Sprinkle the hummus with the chopped parsley before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/782898.jpg",
+    "ingredients": [
+        "1 (15 ounce) can garbanzo beans, drained",
+        "1 (4 ounce) jar roasted red peppers",
+        "3 tablespoons lemon juice",
+        "1 1/2 tablespoons tahini",
+        "1 clove garlic, minced",
+        "1/2 teaspoon ground cumin",
+        "1/2 teaspoon cayenne pepper",
+        "1/4 teaspoon salt",
+        "1 tablespoon chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Sweet Roasted Red Pepper Hummus",
     "url": "http://allrecipes.com/recipe/15006/spiced-sweet-roasted-red-pepper-hummu/"
 }

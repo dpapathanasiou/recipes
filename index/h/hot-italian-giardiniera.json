@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place into a bowl the green and red peppers, jalapenos, celery, carrots, onion, and cauliflower. Stir in salt, and fill with enough cold water to cover. Place plastic wrap or aluminum foil over the bowl, and refrigerate overnight.",
+        "The next day, drain salty water, and rinse vegetables. In a bowl, mix together garlic, oregano, red pepper flakes, black pepper, and olives. Pour in vinegar and olive oil, and mix well. Combine with vegetable mixture, cover, and refrigerate for 2 days before using."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1034854.jpg",
+    "ingredients": [
+        "2 green bell peppers, diced",
+        "2 red bell peppers, diced",
+        "8 fresh jalapeno peppers, sliced",
+        "1 celery stalk, diced",
+        "1 medium carrot, diced",
+        "1 small onion, chopped",
+        "1/2 cup fresh cauliflower florets",
+        "1/2 cup salt",
+        "water to cover",
+        "2 cloves garlic, finely chopped",
+        "1 tablespoon dried oregano",
+        "1 teaspoon red pepper flakes",
+        "1/2 teaspoon black pepper",
+        "1 (5 ounce) jar pimento-stuffed green olives, chopped",
+        "1 cup white vinegar",
+        "1 cup olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot Italian Giardiniera",
     "url": "http://allrecipes.com/recipe/81581/hot-italian-giardiniera/"
 }

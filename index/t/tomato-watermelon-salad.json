@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Gently mix watermelon, tomatoes, mint, onion, and feta cheese in a large bowl.",
+        "Whisk olive oil, vinegar, salt, and pepper together in small bowl; drizzle over salad and gently toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1020663.jpg",
+    "ingredients": [
+        "1 large seedless watermelon, cut into 1-inch cubes",
+        "4 tomatoes, cut into 1-inch dice",
+        "12 mint leaves, sliced thinly",
+        "1 large sweet onion, thinly sliced",
+        "1 cup crumbled feta cheese",
+        "1/4 cup olive oil",
+        "2 tablespoons white balsamic vinegar",
+        "1 pinch coarse salt, or to taste",
+        "1 pinch ground black pepper, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato Watermelon Salad",
     "url": "http://allrecipes.com/recipe/228277/tomato-watermelon-salad/"
 }

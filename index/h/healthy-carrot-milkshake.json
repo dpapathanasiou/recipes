@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend rice milk, carrot, ice cubes, honey, cinnamon, and nutmeg in a blender until smooth, at least 45 seconds. Strain milkshake through a fine-mesh strainer into a cup 2 times to catch any carrot lumps."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1501658.jpg",
+    "ingredients": [
+        "1 cup rice milk",
+        "1 carrot, shredded",
+        "1/4 cup ice cubes, or as desired",
+        "1 tablespoon honey, or to taste",
+        "1 pinch ground cinnamon (optional)",
+        "1 pinch ground nutmeg (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Healthy Carrot Milkshake",
     "url": "http://allrecipes.com/recipe/239092/healthy-carrot-milkshake/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot boil the chopped celery, chopped onion, potatoes, mixed vegetables, bouillon cubes and water until all the vegetables are tender.",
+        "Add the Velveeta(R) milk and butter or margarine. Heat until hot and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1073020.jpg",
+    "ingredients": [
+        "1 cup chopped celery",
+        "1/2 cup chopped onion",
+        "2 cups cubed potatoes",
+        "1 (16 ounce) package frozen mixed vegetables",
+        "4 cubes chicken bouillon",
+        "2 1/2 cups water",
+        "1 pound processed cheese food (eg. Velveeta), cubed",
+        "2 1/2 cups milk",
+        "2 tablespoons margarine"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheese Soup I",
     "url": "http://allrecipes.com/recipe/12958/cheese-soup-i/"
 }

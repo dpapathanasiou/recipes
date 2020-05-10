@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Two days before serving, boil potatoes whole, with skins, until tender, about 25 minutes. When you can insert a fork and remove it easily, they are done. Drain, and refrigerate.",
+        "The day before serving, peel and grate the potatoes. I like to use a food processor with grating attachment. Place the potatoes into a large bowl and toss gently with melted butter, half-and-half, onion, salt and pepper. Cover and refrigerate.",
+        "The day of the meal, preheat the oven to 350 degrees F (175 degrees C). Bake for 1 hour, uncovered. You may broil for a minute at the end to brown the top if you like."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F525494.jpg",
+    "ingredients": [
+        "8  baking potatoes",
+        "1 cup butter, melted and cooled to lukewarm",
+        "3 cups half-and-half cream",
+        "1  onion, chopped",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ricci's Potatoes",
     "url": "http://allrecipes.com/recipe/95651/riccis-potatoes/"
 }

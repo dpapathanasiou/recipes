@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "In a medium saucepan over medium high heat, saute the carrot and onion for 2 minutes, or until onion is transparent. Add garlic and saute for 2 more minutes. Remove from heat and let cool.",
+        "In a large bowl, combine the parsley, beef, ketchup, 1/2 cup tomato sauce, bread and eggs, mixing well. Add the carrot/onion mixture and continue mixing, but do not over mix, as this will make the meatloaf dry. Transfer mixture to a 9x13 baking dish and form into a loaf.",
+        "Bake at 375 degrees F (190 degrees C) for 30 to 45 minutes.",
+        "While loaf is baking, heat the remaining tomato sauce and sugar in a medium saucepan over medium low heat. Pour over loaf when done."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F276060.jpg",
+    "ingredients": [
+        "1  carrot, grated",
+        "\u00bd  onion, chopped",
+        "2 cloves garlic, minced",
+        "\u00bd cup chopped fresh parsley",
+        "2 pounds ground beef",
+        "\u00bd cup ketchup",
+        "2  eggs",
+        "1\u2009\u00bd cups fresh bread crumbs",
+        "1 cup tomato sauce",
+        "1 teaspoon white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Style Meatloaf II",
     "url": "http://allrecipes.com/recipe/16392/italian-style-meatloaf-ii/"
 }

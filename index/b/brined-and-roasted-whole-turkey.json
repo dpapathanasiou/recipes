@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Overnight Brine: Combine Morton(R)Kosher Salt and sugar in cool water in a large, clean stockpot until completely dissolved. Place the whole turkey in the brine until completely submerged. Cover and refrigerate overnight, up to 14 hours. Remove the turkey from the brine, rinse inside and out under cool running water for several minutes to remove all traces of salt; pat dry with paper towel.",
+        "4-5 hour Brine: To brine your turkey in less time (4-5 hours), use 2 cups of Morton(R)Coarse Kosher Salt and two cups of sugar. Cover and refrigerate for 4 to 5 hours.",
+        "To Roast: Mix the softened butter with the pepper. Place turkey on rack in roasting pan. Rub the seasoned butter under the skin. Brush the skin with the melted butter. Pour the 1 cup liquid (wine, broth or water) over the pan bottom to prevent drippings from burning. Roast turkey at 450 degrees F for 25 minutes, baste and then rotate the roasting pan. Continue roasting until the skin turns golden brown, an additional 25 minutes; baste again. Reduce oven temperature to 325 degrees F; continue to roast, basting and rotating the pan once about halfway through cooking, until the minimum internal temperature reaches 165 degrees F. Remove the turkey from the oven. Let stand 20 minutes before carving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1040306.jpg",
+    "ingredients": [
+        "1 cup Morton\u00ae Coarse Kosher Salt",
+        "1 cup sugar",
+        "2 gallons cool water",
+        "1 (12 pound) fresh, whole, bone-in skin-on turkey, rinsed and patted dry",
+        "5 tablespoons unsalted butter, softened",
+        "1/2 teaspoon ground black pepper",
+        "3 tablespoons unsalted butter, melted",
+        "1 cup white wine, chicken broth or water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brined and Roasted Whole Turkey",
     "url": "http://allrecipes.com/recipe/234271/brined-and-roasted-whole-turkey/"
 }

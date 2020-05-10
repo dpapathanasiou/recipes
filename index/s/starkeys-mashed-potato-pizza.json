@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Cook bacon in a large deep skillet over medium heat until crisp. Drain, crumble and set aside.",
+        "Spread the pizza dough out on a lightly greased baking sheet. Spread mashed potatoes over the dough, leaving a small crust around the outside if you want. Sprinkle the cheese and bacon evenly over the potatoes.",
+        "Bake the pizza in the preheated oven until the cheese is melted and bubbly, about 20 minutes. Let cool for 2 minutes, then slice into wedges and top each one with a small dollop of sour cream."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/583903.jpg",
+    "ingredients": [
+        "4 slices bacon",
+        "1 (14 ounce) package fresh or thawed frozen pizza dough",
+        "1 cup prepared mashed potatoes",
+        "1 cup shredded Cheddar cheese",
+        "1/4 cup sour cream, for topping"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Starkey's Mashed Potato Pizza",
     "url": "http://allrecipes.com/recipe/158360/starkeys-mashed-potato-pizza/"
 }

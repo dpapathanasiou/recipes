@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cranberries, grated orange rind, cinnamon, orange juice, brown sugar and enough water to cover cranberries in a saucepan. Bring mixture to a boil over high heat. Immediately turn heat down and simmer for about one hour or until the sauce has thickened. Taste for sweetness and adjust with additional sugar if necessary. You can not overcook, so continue cooking until you have a good thick consistency. Let mixture cool a bit then refrigerate in a covered container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4205276.jpg",
+    "ingredients": [
+        "2 pounds cranberries",
+        "2 tablespoons orange zest",
+        "3 cinnamon sticks",
+        "1 pint orange juice",
+        "2 cups packed brown sugar",
+        "2 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Orange Cranberry Sauce",
     "url": "http://allrecipes.com/recipe/9169/oranged-cranberry-sauce/"
 }

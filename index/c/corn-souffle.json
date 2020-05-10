@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine the corn, creamed corn, sugar, flour, milk and eggs. Mix well. Pour the mixture into a souffle dish.",
+        "Bake at 350 degrees F (175 degrees C) for 1 to 1 1/2 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4125599.jpg",
+    "ingredients": [
+        "2 (15.25 ounce) cans whole kernel corn",
+        "2 (15 ounce) cans creamed corn",
+        "4 tablespoons white sugar",
+        "4 tablespoons all-purpose flour",
+        "4 tablespoons milk",
+        "4 eggs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn Souffle from Scratch",
     "url": "http://allrecipes.com/recipe/13546/corn-souffle/"
 }

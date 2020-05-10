@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine potatoes, eggs, flour, and garlic powder in a bowl.",
+        "Heat oil in a skillet over medium-high heat; fry potato mixture in skillet, pressing with a spatula to flatten evenly. Cover and cook until bottom is crispy, about 10 minutes; invert onto serving platter."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 cups cold mashed potatoes",
+        "2  eggs, lightly beaten",
+        "1 tablespoon all-purpose flour",
+        "\u215b teaspoon garlic powder",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon chopped fresh chives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "My Crispy Mashed Potato Pancake",
     "url": "http://allrecipes.com/recipe/222608/my-crispy-mashed-potato-pancake/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes in a saucepan of water to cover, and bring to a boil over medium heat. Reduce heat, and simmer until the potatoes are cooked through but still firm, about 20 minutes. Remove from the water, and peel the cooked potatoes while still hot.",
+        "Line a baking sheet with parchment paper and set aside.",
+        "Shred the potatoes with a box grater, and place the shredded potatoes in a bowl. Lightly mix in the chives, salt, and white pepper. Spoon the potato mixture into a piping bag with a 1/2-inch round tip.",
+        "Pipe the potato mixture onto the parchment paper in a long, 1/2-inch wide rope. Place the baking sheet into the refrigerator until the potato mixture has cooled and set, about 1 hour. Cut the potato strip into 1-inch lengths.",
+        "Heat vegetable oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Working in batches,  deep-fry the potato pieces until crisp and golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1281&h=671&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1185833.jpg",
+    "ingredients": [
+        "2  russet potatoes",
+        "\u00bc cup chopped fresh chives (optional)",
+        "2 teaspoons salt",
+        "1 teaspoon white pepper",
+        "vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Homemade Potater Tots",
     "url": "http://allrecipes.com/recipe/199922/homemade-potater-tots/"
 }

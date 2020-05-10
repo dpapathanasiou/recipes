@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dry excess moisture off of pickles.",
+        "Spread cream cheese, about 1/4 inch thick, on two slices of lunch meat.  Wrap meat around a pickle.  Repeat with remaining ingredients.",
+        "Chill and slice into rounds."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F58314.jpg",
+    "ingredients": [
+        "1 (32 ounce) jar dill pickle spears, drained",
+        "2 (8 ounce) packages cream cheese, room temperature",
+        "2 (2.5 ounce) packages thin-sliced beef luncheon meat"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Polish Pickles",
     "url": "http://allrecipes.com/recipe/24295/polish-pickles/"
 }

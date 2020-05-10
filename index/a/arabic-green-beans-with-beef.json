@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a skillet over medium heat; brown the beef in the hot oil for 10 minutes. Stir in the onions and 1/2 cup water; cover, reduce heat to low, and simmer 15 minutes, stirring occasionally. Mix the green beans, allspice, pepper, and salt into the mixture; cover and simmer another 15 minutes. Add the tomatoes and tomato sauce; cover with water; cover and simmer another 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4475290.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "2 pounds beef round roast, cubed",
+        "2  onions, diced",
+        "\u00bd cup water",
+        "2 pounds fresh green beans, trimmed and halved",
+        "1\u2009\u00bd teaspoons allspice",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon salt",
+        "1 (16 ounce) can canned tomatoes, chopped",
+        "1 (15 ounce) can tomato sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Arabic Green Beans with Beef",
     "url": "http://allrecipes.com/recipe/160202/arabic-green-beans-with-beef/"
 }

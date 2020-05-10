@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small saucepan, stir together sugar and water.  Bring to a boil, then remove from heat and allow to cool.",
+        "When the sugar syrup is cool, stir in bananas. Pour into a freezer - safe baking dish. Freeze for 3 to 4 hours, until set at the edges.",
+        "Remove from the freezer and transfer to a mixing bowl. Use an electric mixer to beat until smooth. Return to the freezer until gently set, at least 2 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/203425.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "1 cup water",
+        "1 cup mashed banana"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amazing Banana Sorbet",
     "url": "http://allrecipes.com/recipe/37672/amazing-banana-sorbet/"
 }

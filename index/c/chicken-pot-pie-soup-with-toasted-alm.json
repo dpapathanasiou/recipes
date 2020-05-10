@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Place frozen puff pastry shells, top-side-up on an ungreased baking sheet 2 inches apart.",
+        "Bake shells in preheated oven until puffed and golden-brown, 20 to 25 minutes. Remove to cool on a wire rack.",
+        "Meanwhile, melt 2 tablespoons of butter in a large pot over medium heat. Stir in the cubed chicken, and cook, until firmed and no longer pink in the center, about 10 minutes. Remove chicken meat and set aside.",
+        "Pour in the chicken broth and bring to a boil over high heat. Reduce heat to medium, and whisk in the chicken soup base, thyme, and parsley. Mix together the softened butter and flour in a small bowl to form a paste. Whisk this paste into the simmering soup, and cook 10 minutes or until thickened.",
+        "Stir in the cooked chicken, mushroom pieces, peas and carrots, cream, and toasted almonds. Return soup to a simmer, and cook a few minutes until hot. Ladle soup into serving bowls, and top with puff pastry to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/277458.jpg",
+    "ingredients": [
+        "1 (10 ounce) package frozen puff pastry shells",
+        "2 tablespoons butter",
+        "1 1/2 pounds skinless, boneless chicken breast meat - cubed",
+        "2 (10.5 ounce) cans chicken broth",
+        "2 teaspoons chicken soup base",
+        "1/4 teaspoon dried thyme leaves",
+        "1/4 cup chopped fresh parsley",
+        "2 tablespoons butter, softened",
+        "3 tablespoons all-purpose flour",
+        "1 (4 ounce) can mushroom pieces, drained",
+        "1 (10 ounce) package frozen mixed peas and carrots",
+        "1/2 cup heavy cream",
+        "1/4 cup toasted sliced almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Pot Pie Soup with Toasted Almonds",
     "url": "http://allrecipes.com/recipe/148803/chicken-pot-pie-soup-with-toasted-alm/"
 }

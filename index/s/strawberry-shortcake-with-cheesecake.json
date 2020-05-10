@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix 1 1/2 quarts strawberries and white sugar in a large bowl; gently mash strawberries with a potato masher. Cover and refrigerate.",
+        "Beat cream cheese in a bowl until light and fluffy; set aside. Beat heavy cream in another bowl until soft peaks form; add whipped cream cheese and continue to beat until stiff peaks form. Lift your beater or whisk straight up: the cream should form a sharp peak that holds its shape. Beat confectioners' sugar and vanilla extract into cream cheese mixture.",
+        "Layer about half the angel food cake in a large bowl or trifle. Spread a third of the cream cheese mixture over the cake and top with a layer of mashed strawberries. Repeat the layers, finishing with a final layer of the cream cheese mixture. Arrange the remaining 1/2 quart strawberry slices decoratively. Chill until ready to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/855834.jpg",
+    "ingredients": [
+        "1 1/2 quarts fresh strawberries, hulled and sliced",
+        "2 tablespoons white sugar",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 pint heavy whipping cream",
+        "2 tablespoons confectioners' sugar",
+        "1 teaspoon vanilla extract",
+        "1 (10 inch) angel food cake, cut in cubes",
+        "1/2 quart fresh strawberries, hulled and sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Shortcake with Cheesecake Whipped Cream",
     "url": "http://allrecipes.com/recipe/222578/strawberry-shortcake-with-cheesecake/"
 }

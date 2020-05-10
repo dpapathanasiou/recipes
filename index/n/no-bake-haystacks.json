@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the oats, coconut, peanuts, and raisins together in a large bowl.",
+        "Stir the sugar, milk, butter, and cocoa powder together in a saucepan and bring to a boil; boil for 1 minute and immediately remove from heat. Stir the vanilla into the cocoa mixture; pour over the oat mixture and stir to coat. Scoop heaping tablespoonfuls of the mixture and drop into haystack-like piles onto waxed paper; allow to cool completely before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F937604.jpg",
+    "ingredients": [
+        "3 cups quick cooking oats",
+        "1 cup flaked coconut",
+        "1 cup roasted peanuts, chopped",
+        "1 cup raisins (optional)",
+        "2 cups white sugar",
+        "\u00bd cup milk",
+        "\u00bc cup butter",
+        "\u00bc cup unsweetened cocoa powder",
+        "1 teaspoon vanilla"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No-Bake Haystacks",
     "url": "http://allrecipes.com/recipe/158464/no-bake-haystacks/"
 }

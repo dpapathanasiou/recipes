@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Run tomatoes, carrots, celery, spring greens, kale, radishes, lemon with rind, and peeled lemon through a juicer according to  manufacturer's instructions."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1100379.jpg",
+    "ingredients": [
+        "4 tomatoes (such is Kumato\u00ae)",
+        "4 carrots",
+        "4 stalks celery",
+        "1/2 cup mixed spring greens, or to taste",
+        "2 leaves kale",
+        "3 radishes",
+        "1/4 lemon, with rind",
+        "1/4 lemon, peeled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "V-Great Juice",
     "url": "http://allrecipes.com/recipe/236373/v-great-juice/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 400 degrees F (205 degrees C). Grease bottoms only of 12 muffin cups or line with baking cups.",
+        "In a medium bowl, combine flour, 1/2 cup white sugar, baking powder and salt; mix well. In a small bowl, combine milk, oil and egg; blend well. Add dry ingredients all at once; stir just until dry ingredients are moistened (batter will be lumpy.)",
+        "Fill cups 2/3 full.  In small bowl, blend 1/4 cup firmly packed brown sugar, 1 tablespoon butter (softened), 1/2 teaspoon cinnamon and 1/4 cup chopped nuts or flaked coconut with fork until crumbly. Sprinkle over muffins before baking.",
+        "Bake for 20 to 25 minutes or until toothpick inserted in center comes out clean. Cool 1 minute before removing from pan. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6443162.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "\u00bd cup white sugar",
+        "3 teaspoons baking powder",
+        "\u00bd teaspoon salt",
+        "\u00be cup milk",
+        "\u2153 cup vegetable oil",
+        "1  egg",
+        "\u00bc cup packed brown sugar",
+        "1 tablespoon butter, softened",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Streusel-Topped Muffins",
     "url": "http://allrecipes.com/recipe/7910/streusel-topped-muffins/"
 }

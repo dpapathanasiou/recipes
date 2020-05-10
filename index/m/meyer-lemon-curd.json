@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat sugar and butter together in a large bowl with an electric mixer on low speed until creamy, 2 to 3 minutes. Beat in eggs and yolks one at a time until incorporated. Mix in lemon juice. Transfer mixture to a saucepan.",
+        "Cook the mixture over low heat, stirring gently until smooth. Increase the heat to medium and simmer gently, stirring constantly, until curd is thick enough to coat a spoon and reaches 170 degrees F (77 degrees C) on a candy thermometer, 15 to 30 minutes. Remove from heat and stir in lemon zest.",
+        "Transfer curd to a bowl and press a piece of plastic wrap directly onto the surface to prevent a skin forming as it cools. Allow to cool briefly, about 10 minutes. Transfer to the refrigerator and chill until thick."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5051638.jpg",
+    "ingredients": [
+        "2 cups white sugar",
+        "3/4 cup butter, at room temperature",
+        "4 eggs",
+        "4 egg yolks",
+        "1 1/3 cups Meyer lemon juice",
+        "2 teaspoons grated Meyer lemon zest"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meyer Lemon Curd",
     "url": "http://allrecipes.com/recipe/246820/meyer-lemon-curd/"
 }

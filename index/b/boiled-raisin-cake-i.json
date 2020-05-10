@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Boil raisins in 2 cups of water for 15 minutes.  Remove from heat.",
+        "Add vegetable oil and cold water to the raisins.",
+        "Mix sugar, flour, spices,  baking soda, and salt in a large bowl.",
+        "Add the raisin mixture, and stir till just mixed.",
+        "Pour into a greased and floured 9 x 13 inch baking pan, and bake for one hour in a preheated 350 degrees F (175 degrees C) oven. It is done if a toothpick comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=878&h=460&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F16253.jpg",
+    "ingredients": [
+        "2 cups raisins",
+        "2 cups water",
+        "\u00bd cup vegetable oil",
+        "1 cup cold water",
+        "2 cups white sugar",
+        "4 cups all-purpose flour",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground cloves",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Boiled Raisin Cake I",
     "url": "http://allrecipes.com/recipe/7263/boiled-raisin-cake-i/"
 }

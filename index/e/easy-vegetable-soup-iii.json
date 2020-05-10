@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the spaghetti sauce and water in a large pot over medium high heat. Bring just to a boil, reduce heat to medium low and add the mixed vegetables.",
+        "Add the pasta, if desired, and let simmer until heated through or until pasta is done, about 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/882218.jpg",
+    "ingredients": [
+        "1 (29 ounce) can tomato sauce",
+        "6 cups water",
+        "2 cups frozen mixed vegetables",
+        "1 (8 ounce) package dry pasta (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Vegetable Soup III",
     "url": "http://allrecipes.com/recipe/17951/easy-vegetable-soup-iii/"
 }

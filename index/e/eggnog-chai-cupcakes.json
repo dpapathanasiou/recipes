@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line muffin cups with paper liners.",
+        "Beat cake mix, chai tea, vegetable oil, and eggs together in a bowl using an electric mixer on low speed for 30 seconds. Increase speed to medium and beat until batter is smooth, about 2 minutes more. Spoon batter into the prepared muffin cups, filling 2/3-full.",
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 22 to 24 minutes. Cool cupcakes in the tin for 5 minutes before transferring to a wire rack to cool completely.",
+        "Beat butter and cream cheese together in a bowl using an electric mixer on medium speed until smooth, 20 to 30 seconds. Add confectioners' sugar, vanilla extract, and nutmeg and beat on medium-high speed until smooth, about 1 minute. Scrape sides of bowl as needed. Add eggnog and beat until fully incorporated into the frosting; beat in rum extract on medium-low speed.",
+        "Transfer frosting to a pastry bag or plastic bag with a corner snipped and pipe frosting onto cooled cupcakes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4561753.jpg",
+    "ingredients": [
+        "1 (15.25 ounce) package spiced cake mix (such as Betty Crocker\u00ae)",
+        "1 cup brewed chai tea",
+        "\u00bd cup vegetable oil",
+        "3  eggs",
+        "\u00bd cup butter, softened",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 cups confectioners' sugar",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon ground nutmeg",
+        "2 tablespoons eggnog",
+        "1 teaspoon rum extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggnog-Chai Cupcakes",
     "url": "http://allrecipes.com/recipe/245176/eggnog-chai-cupcakes/"
 }

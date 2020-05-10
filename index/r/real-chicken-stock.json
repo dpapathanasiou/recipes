@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken bones in the bottom of a large stock pot and fill with enough cold water to cover the bones by about 2 inches. Bring the water to a gentle simmer over medium-low heat. The bubbles should just barely break the surface. After the stock has simmered for about 30 minutes, skim off any foam that forms on the surface or the edges of the pot and discard. Continue simmering another 90 minutes.",
+        "Add the celery, carrots, and onion to the stock pot. As the stock simmers, continue to skim off any foam. After 1 hour and 15 more minutes, wrap the parsley stems, thyme, bay leaf, peppercorns, and garlic in a small piece of cheesecloth and tie into a tidy package with kitchen twine. Add the seasoning bundle to the stock. Simmer for 45 more minutes (4 total hours simmering time); remove the seasoning bundle. Strain the stock through a fine mesh strainer lined with cheesecloth. Season to taste with salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1019290.jpg",
+    "ingredients": [
+        "8 pounds chicken bones",
+        "cold water, to cover",
+        "1 cup sliced celery (1-inch pieces)",
+        "1 cup sliced carrot (1/2-inch pieces)",
+        "1 (8 ounce) onion, quartered",
+        "6  parsley stems",
+        "2 sprigs fresh thyme",
+        "1  bay leaf",
+        "10  whole black peppercorns",
+        "1 clove garlic (optional)",
+        "cheesecloth",
+        "kitchen twine",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Real Chicken Stock",
     "url": "http://allrecipes.com/recipe/214226/real-chicken-stock/"
 }

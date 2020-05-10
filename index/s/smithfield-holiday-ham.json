@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 275 degrees F.",
+        "Place ham on a rack in a foil-lined roasting pan, fat side up. Cover tightly with foil. Roast for 15 minutes per pound of ham (1 to 1 1/2 hours).",
+        "Glaze according to directions.",
+        "Garnish with grilled or roasted asparagus, fresh cut strawberries and fresh blueberries.",
+        "Serve and Enjoy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2684126.jpg",
+    "ingredients": [
+        "1 Smithfield\u00ae Hickory Smoked Spiral Sliced Ham",
+        "1 bunch asparagus",
+        "1 cup sliced fresh strawberries",
+        "1 cup fresh blueberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Smithfield Holiday Ham",
     "url": "http://allrecipes.com/recipe/245275/smithfield-holiday-ham/"
 }

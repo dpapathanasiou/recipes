@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Grease 10 muffin cups or line with paper muffin liners.",
+        "In a large bowl, combine cracker crumbs, sugar and baking powder. Stir in milk, egg and honey; mixing just until moistened. Spoon batter into prepared muffin cups.",
+        "Bake in preheated oven for 15 to 18 minutes, until a toothpick comes out clean. Let stand for 5 minutes, then move to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F206124.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups graham cracker crumbs",
+        "\u00bc cup white sugar",
+        "2 teaspoons baking powder",
+        "1 cup whole milk",
+        "1  egg, slightly beaten",
+        "2 tablespoons honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Graham Cracker Muffins",
     "url": "http://allrecipes.com/recipe/23639/graham-cracker-muffins/"
 }

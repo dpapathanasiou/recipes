@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend all ingredients except ice in blender until smooth.",
+        "Add ice; blend until thickened.",
+        "Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3535991.jpg",
+    "ingredients": [
+        "1/2 cup skim milk",
+        "1/2 cup plain low fat Greek-style yogurt",
+        "2 tablespoons KRAFT All Natural Peanut Butter",
+        "1 tablespoon oats",
+        "1 tablespoon honey",
+        "1 small banana, sliced",
+        "4 ice cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Banana Boost Smoothie",
     "url": "http://allrecipes.com/recipe/246884/peanut-butter-banana-boost-smoothie/"
 }

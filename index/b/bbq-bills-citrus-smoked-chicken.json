@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the whole chicken into a large resealable plastic bag. Sprinkle in garlic powder, then pour in enough lemon-lime soda to cover the bird. Seal the bag, and place in the refrigerator overnight to marinate.",
+        "Light charcoal in an outdoor smoker, and wait until the temperature is at 225 degrees F (110 degrees C).",
+        "Remove chicken from the bag, and place on the grill grate. Discard marinade. Cover, and cook for 10 hours. Occasionally toss a handful of soaked wood chips on the coals."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2296640.jpg",
+    "ingredients": [
+        "1 (6 pound) whole chicken",
+        "4 cups lemon-lime flavored carbonated beverage",
+        "1 tablespoon garlic powder",
+        "2 cups wood chips, soaked"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "BBQ Bill's Citrus Smoked Chicken",
     "url": "http://allrecipes.com/recipe/74227/bbq-bills-citrus-smoked-chicken/"
 }

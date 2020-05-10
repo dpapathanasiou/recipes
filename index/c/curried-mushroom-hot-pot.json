@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare a saucepan with cooking spray and place it over high heat. Place the onion in the saucepan; cook and stir for 2 minutes. Sprinkle the curry powder over the onion; stir to coat evenly. Add the chicken broth, lemon, ginger, sugar, and salt to the onions. Reduce heat to medium; cook and stir for 2 to 3 minutes. Stir in the mushrooms and cook another 3 minutes. Mix in the coconut milk and lemon juice; stir and remove from heat.",
+        "Drop the lemon leaves into the soup; allow to sit for 5 minutes. Remove leaves before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/2 onion, diced",
+        "2 1/2 tablespoons curry powder",
+        "1 (32 fluid ounce) container chicken broth",
+        "1/2 lemon, sliced",
+        "1 1/4-inch-thick slices fresh ginger, peeled",
+        "1 1/2 teaspoons white sugar",
+        "salt to taste",
+        "1 pound assorted mushrooms",
+        "1 (13.5 ounce) can coconut milk",
+        "1 tablespoon fresh lemon juice",
+        "salt to taste",
+        "8 kaffir lime leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Curried Mushroom Hot Pot",
     "url": "http://allrecipes.com/recipe/149957/curried-mushroom-hot-pot/"
 }

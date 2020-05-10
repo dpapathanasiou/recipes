@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat vegetable oil in a large skillet over medium heat and cook turkey bacon until browned and crisp, about 5 minutes per side. Drain bacon on paper towels; crumble when cool.",
+        "Mix cooked bacon with ground turkey, Cheddar cheese, egg, onion, crumbled French bread, Worcestershire sauce, garlic powder, and black pepper; turn the turkey meatloaf mixture into a 9x13-inch baking dish and form into a loaf shape in the middle of the dish.",
+        "Mix ketchup, yellow mustard, and brown sugar together in a bowl, stirring to dissolve brown sugar. Spread the mixture over the turkey loaf.",
+        "Bake the turkey loaf in the preheated oven until the juices run clear, loaf is no longer pink in the middle, and an instant-read meat thermometer inserted into the thickest part of the loaf reads at least 160 degrees F (70 degrees F), 45 minutes to 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F879634.jpg",
+    "ingredients": [
+        "1 teaspoon vegetable oil",
+        "7 slices turkey bacon, or more to taste",
+        "1 pound extra lean ground turkey",
+        "1 cup shredded Cheddar cheese",
+        "1  egg",
+        "\u00bd small onion, diced",
+        "1  slice French bread, crumbled",
+        "2 tablespoons Worcestershire sauce, or more to taste",
+        "2 teaspoons garlic powder",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bc cup ketchup",
+        "2 tablespoons prepared yellow mustard",
+        "1\u2009\u00bd tablespoons brown sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Cheeseburger Meatloaf",
     "url": "http://allrecipes.com/recipe/223499/turkey-cheeseburger-meatloaf/"
 }

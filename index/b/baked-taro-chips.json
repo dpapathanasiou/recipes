@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Place taro disks in a 1- to 2-inch deep dish. Brush disks evenly with olive oil and sprinkle with salt.",
+        "Bake in the preheated oven until tops of chips are crisp, about 15 minutes; flip chips and continue baking until second side is crisp, about 15 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7419883.jpg",
+    "ingredients": [
+        "1  large taro root, peeled and sliced into 1/4-inch disks",
+        "1 tablespoon olive oil",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Taro Chips",
     "url": "http://allrecipes.com/recipe/235880/baked-taro-chips/"
 }

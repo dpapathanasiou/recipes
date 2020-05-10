@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the peanut oil, soy sauce, and pepper in a bowl; pour into a resealable plastic bag. Add the steak, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 12 to 24 hours.",
+        "Cook and stir the steak and the marinade in a large skillet over medium heat. Stir in the bell pepper, onion, green onion, ginger, and serrano pepper. Cook until the steak is evenly brown. Serve over a bed of spinach with the balsamic vinaigrette."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F250066.jpg",
+    "ingredients": [
+        "\u00bc cup peanut oil",
+        "2 tablespoons soy sauce",
+        "1 teaspoon ground black pepper",
+        "1 pound skirt steak, sliced into strips",
+        "\u00bd  green bell pepper, chopped",
+        "\u00bc  onion, chopped",
+        "2 tablespoons chopped green onion",
+        "1 tablespoon chopped fresh ginger root",
+        "1 tablespoon chopped serrano pepper",
+        "1 cup fresh baby spinach",
+        "\u00bc cup balsamic vinaigrette salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Asian Steak Stir-Fry Salad",
     "url": "http://allrecipes.com/recipe/202682/asian-steak-stir-fry-salad/"
 }

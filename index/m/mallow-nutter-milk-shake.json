@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend ice cream, milk, and ice together in a blender just until it is starting to blend together, but still chunky. Add peanut butter, marshmallow fluff, and vanilla extract; blend until desired consistency is reached."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1534&h=803&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2506823.jpg",
+    "ingredients": [
+        "2 cups vanilla ice cream",
+        "\u00bd cup milk",
+        "2 cubes ice, or more if desired (optional)",
+        "1 cup creamy peanut butter",
+        "1 cup marshmallow fluff (such as Fluff\u00ae)",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mallow-Nutter Milk Shake",
     "url": "http://allrecipes.com/recipe/244671/mallow-nutter-milk-shake/"
 }

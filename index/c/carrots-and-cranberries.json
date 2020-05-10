@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put carrots and cranberries into a microwave-safe dish. Mix chicken broth, butter, and brown sugar together in a bowl; drizzle over the carrot mixture and stir to coat.",
+        "Cook in microwave on High for 4 minutes.",
+        "Continue cooking in microwave until carrots are tender, about 8 minutes more; cool at room temperature for 5 minutes and sprinkle with cinnamon."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=7272&h=3807&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1243673.jpg",
+    "ingredients": [
+        "2 (8 ounce) packages carrots, peeled and cut into chunks",
+        "1 cup dried cranberries, or more to taste",
+        "\u00bc cup chicken broth",
+        "\u00bc cup butter, melted",
+        "\u00bc cup dark brown sugar",
+        "1 pinch ground cinnamon, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carrots and Cranberries",
     "url": "http://allrecipes.com/recipe/238397/carrots-and-cranberries/"
 }

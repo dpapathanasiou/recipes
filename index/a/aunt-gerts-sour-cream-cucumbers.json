@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Layer 1/4 of the sliced cucumbers and 1/4 of the onion in a large bowl. Season with 1 teaspoon of salt. Repeat the layers 3 more times. Cover and allow to rest on the counter until the cucumbers and onion releases about 1 inch of liquid and are softened, 3 to 4 hours.",
+        "Drain cucumbers and onion in a colander and thoroughly rinse to remove any remaining salt. Let the vegetables continue to drain in the colander for 30 minutes. Transfer the vegetables to a bowl, then stir in the sour cream. Cover and refrigerate until chilled, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/995628.jpg",
+    "ingredients": [
+        "4 large cucumbers, peeled and thinly sliced",
+        "1 large cold onion, thinly sliced",
+        "4 teaspoons salt, divided",
+        "1 (8 ounce) container sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aunt Gert's Sour Cream Cucumbers",
     "url": "http://allrecipes.com/recipe/218100/aunt-gerts-sour-cream-cucumbers/"
 }

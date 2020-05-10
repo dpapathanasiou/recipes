@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain.",
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Transfer to a bowl and mix spaghetti sauce into ground beef.",
+        "Place half the slices of butter into the bottom of a 9x13-inch casserole dish. Spread half the spaghetti into the dish. Mix cottage cheese, cream cheese, and sour cream together in a bowl; spread mixture over spaghetti. Layer remaining spaghetti over creamy mixture. Top with remaining pats of butter.",
+        "Pour ground beef mixture over spaghetti and spread to cover casserole.",
+        "Bake in the preheated oven for 30 minutes. Spread Cheddar cheese over casserole and continue baking until cheese has melted and is lightly browned, about 15 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (8 ounce) package spaghetti",
+        "1 pound lean ground beef",
+        "1 (16 ounce) jar spaghetti sauce",
+        "\u00bd cup butter, sliced - divided",
+        "1 (8 ounce) container cottage cheese",
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bc cup sour cream",
+        "1 (8 ounce) package shredded sharp Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Million-Dollar Spaghetti",
     "url": "http://allrecipes.com/recipe/232227/million-dollar-spaghetti/"
 }

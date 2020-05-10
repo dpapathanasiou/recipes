@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Place a wire rack on top of a baking sheet.",
+        "Place pork on a work surface and cut into 1/2-inch thickness, starting 1/2 inch from the cutting board and rolling pork open while cutting until entire loin is unrolled onto the work surface. Cover loin with plastic wrap and pound loin into 1/4-inch thickness with a meat mallet.",
+        "Mix apples, bread, chicken stock, poultry seasoning, seasoned salt, and eggs together in a bowl; spread onto the loin. Roll loin around apple filling, ending with the fat cap on top. Cut stuffed pork loin in half and place on rack.",
+        "Bake in the preheated oven until pork is no longer pink in the center, about 1 hour. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7736874.jpg",
+    "ingredients": [
+        "1 (1 1/2-pound) boneless pork loin",
+        "9 cups chopped apples",
+        "9 slices bread, diced",
+        "1 cup chicken stock",
+        "2 tablespoons poultry seasoning",
+        "2 tablespoons seasoned salt",
+        "2  eggs, beaten",
+        "1 pinch salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple-Stuffed Pork Loin",
     "url": "http://allrecipes.com/recipe/239304/apple-stuffed-pork-loin/"
 }

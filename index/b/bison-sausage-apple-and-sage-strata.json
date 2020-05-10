@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Coat a 3-quart rectangular baking dish with cooking spray; set aside. Cook bison sausage and onion over medium heat in an extra-large skillet until bison sausage is brown. Add apple and cook for 5 more minutes. Drain off fat.",
+        "Whisk eggs, milk, sage, and pepper in a large bowl.",
+        "Place bread cubes in prepared baking dish. Top with bison sausage mixture and the cheese. Gently mix to evenly distribute ingredients. Pour egg mixture over bread mixture.",
+        "Bake, uncovered, for 40 to 45 minutes or until a knife inserted near the center comes out clean. Let stand for 10 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037650.jpg",
+    "ingredients": [
+        "Nonstick cooking spray",
+        "1 pound bison breakfast sausage",
+        "1 medium onion, chopped",
+        "2 tart cooking apples, cored and chopped",
+        "8 eggs",
+        "2 cups milk",
+        "1 tablespoon chopped fresh sage leaves",
+        "1/4 teaspoon black pepper",
+        "1 (12 ounce) loaf firm-textured French or Italian bread, cut into 1-inch cubes",
+        "1 cup shredded provolone cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bison Sausage, Apple and Sage Strata",
     "url": "http://allrecipes.com/recipe/233869/bison-sausage-apple-and-sage-strata/"
 }

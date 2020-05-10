@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan, combine the azuki beans, 1/3 cup of sugar, lemon juice and water. Bring to a boil, and boil uncovered for 3 minutes. Reduce the heat to low, and simmer for 2 1/2 to 3 hours, or until the beans are very tender.  When done, the beans and liquid should amount to 3 cups. If not, add more water to compensate.",
+        "Strain the bean mixture through a sieve - I use a wooden paddle for this, and discard the bean skins. Refrigerate for about 2 hours, or until cold.",
+        "In a saucepan, combine the milk and cream. Bring to a boil over medium heat. While you wait for that to boil, whisk together the egg yolks and 2/3 cup of sugar in a medium bowl. When the cream and milk come to a boil, ladle about 1/4 cup of the hot liquid into the bowl with the egg yolks, and whisk until smooth. Pour the yolk mixture into the pan with the cream, and cook over low heat until thick enough to coat the back of a metal spoon. This should take about 5 minutes. Do not cook too long, or you will get lumps. Remove from the heat, and stir in the vanilla. Refrigerate until cold.",
+        "Once both of the mixtures are cold, stir them together. Pour into an ice cream maker, and freeze according to the manufacturer's instructions."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/248610.jpg",
+    "ingredients": [
+        "1 cup dry adzuki beans",
+        "1/3 cup white sugar",
+        "2 teaspoons lemon juice",
+        "3 1/2 cups water",
+        "1 cup milk",
+        "1 cup heavy cream",
+        "4 egg yolks",
+        "2/3 cup white sugar",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Azuki Ice Cream (Japanese Red Beans Ice Cream)",
     "url": "http://allrecipes.com/recipe/87470/azuki-ice-cream-japanese-red-beans-i/"
 }

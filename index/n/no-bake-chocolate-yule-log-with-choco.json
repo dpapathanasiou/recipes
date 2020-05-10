@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat cream, cocoa, 3 Tbs. liqueur and sugar to stiff peaks in a large bowl. Set aside. Mix marmalade with 2 Tbs. liqueur in a medium bowl. Select a platter long and wide enough to fit a 12-inch yule log with two 'knots.'",
+        "On flat side of the first wafer, spread a scant teaspoon of marmalade and 1 1/2 tsps. of the cream mixture over entire surface, then top with another wafer, flat side up. Repeat until you have about 3 inches of wafers. Stand stack on its side at a slight angle on the serving platter. Keep adding to log until 16 wafers remain.",
+        "Stack 8 wafers, also on a slight angle, on each side of the log to form two knots.",
+        "Spread remaining whipped cream mix over whole log, coating completely, then create 'bark' by running fork tines along the log and each knot. Cover gently with plastic wrap and refrigerate at least 3 hours or overnight.",
+        "Using a toothpick or ice pick, make a small hole in the bottom of each nonpareil. Stick a chocolate kiss into each hole to form mushrooms. Decorate log with clusters of mushrooms, and scatter raspberries around the platter. Slice and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/5972.jpg",
+    "ingredients": [
+        "1 pint heavy cream",
+        "3 tablespoons unsweetened cocoa powder",
+        "5 tablespoons orange-flavored liqueur, such as Grand Marnier or Cointreau, divided",
+        "1 tablespoon sugar",
+        "3/4 cup low-sugar orange marmalade",
+        "1 (9 ounce) box Nabisco Famous Chocolate Wafers",
+        "8 nonpareils (or use chocolate stars or small Peppermint Patties)",
+        "8 dark chocolate kisses, foil removed",
+        "1 (6 ounce) container raspberries (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No-Bake Chocolate Yule Log with Chocolate Mushrooms",
     "url": "http://allrecipes.com/recipe/92636/no-bake-chocolate-yule-log-with-choco/"
 }

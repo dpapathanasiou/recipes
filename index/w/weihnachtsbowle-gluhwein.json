@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the sugar cubes, wine, cinnamon stick, nutmeg, and star anise in a saucepan. Heat over medium heat until the mixture begins to foam.",
+        "Remove from heat and transfer to a slow cooker to keep warm. Stir in the sour cherries and their juice; add the kirschwasser and the orange slices."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1942685.jpg",
+    "ingredients": [
+        "10 sugar cubes",
+        "2 (750 milliliter) bottles red wine",
+        "1 (3 inch) cinnamon stick",
+        "1 whole nutmeg",
+        "1 whole star anise pods",
+        "1 1/2 cups sour cherries - drained, juice reserved",
+        "1 orange, thinly sliced",
+        "3 fluid ounces kirschwasser"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Weihnachtsbowle Gluhwein",
     "url": "http://allrecipes.com/recipe/216587/weihnachtsbowle-gluhwein/"
 }

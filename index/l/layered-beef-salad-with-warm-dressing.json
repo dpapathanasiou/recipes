@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the soy sauce, sukiyaki sauce, water, ginger, and garlic in a small bowl.",
+        "Arrange the sliced steak in the bottom of a shallow baking dish. Pour about 1/2 of the soy sauce mixture over the steak. Allow to marinate 30 minutes.",
+        "Build the salad by layering onto a platter the lettuce, onion, radish, cucumber, tomato, jicama, and eggs in that order.",
+        "Heat the oil in a skillet over medium-high heat. Cook the marinated steak strips in the hot oil to desired doneness, 3 minutes each side for medium-well."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd cup soy sauce",
+        "\u00bd cup sukiyaki sauce",
+        "\u00bd cup water",
+        "2 teaspoons grated fresh ginger root",
+        "2 teaspoons minced garlic",
+        "1 (1 1/2) pound beef sirloin steak, sliced thinly across the grain",
+        "2 heads red leaf lettuce, torn into bite-sized pieces",
+        "1  onion, sliced thin",
+        "1 bunch radishes, sliced into thin rounds",
+        "1  English cucumber, thinly sliced",
+        "2  tomatoes, sliced",
+        "1  jicama, peeled and julienned",
+        "6  hard-cooked eggs, sliced",
+        "1 cup peanut oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Layered Beef Salad with Warm Dressing",
     "url": "http://allrecipes.com/recipe/101874/layered-beef-salad-with-warm-dressing/"
 }

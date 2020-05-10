@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain.",
+        "Heat a large skillet over medium heat; cook and stir beef and onion until meat is browned and onions are soft and translucent, about 7 minutes. Drain. Stir in spaghetti sauce and seasoned salt.",
+        "Whisk eggs, Parmesan cheese, and butter in a large bowl. Mix in spaghetti to egg mixture and toss to coat. Place half the spaghetti mixture into baking dish. Top with half the cottage cheese, mozzarella, and meat sauce. Repeat layers. Cover with aluminum foil.",
+        "Bake in preheated oven for 40 minutes. Remove foil and continue to bake until the cheese is melted and lightly browned, 20 to 25 minutes longer."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (16 ounce) package spaghetti",
+        "1 pound ground beef",
+        "1  onion, chopped",
+        "1 (32 ounce) jar meatless spaghetti sauce",
+        "\u00bd teaspoon seasoned salt",
+        "2  eggs",
+        "\u2153 cup grated Parmesan cheese",
+        "5 tablespoons butter, melted",
+        "2 cups small curd cottage cheese, divided",
+        "4 cups shredded mozzarella cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Spaghetti",
     "url": "http://allrecipes.com/recipe/222582/baked-spaghetti/"
 }

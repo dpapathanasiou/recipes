@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cashews in a bowl. Cover with water; let soak for at least 1 hour. Drain and rinse.",
+        "Transfer cashews to a blender; blend until finely chopped, scraping the sides of the bowl periodically. Add red bell pepper, onion, lemon juice, jalapeno pepper, and garlic; blend until well chopped. Scrape the sides of the bowl; add 3/4 cup water, nutritional yeast, paprika, turmeric, mustard, salt, and pepper. Blend until smooth, adding more water if necessary.",
+        "Combine cashew mixture and kale in a large bowl; scrunch kale with your hands until evenly coated with cashew mixture. Spread in a single layer on an unlined dehydrator tray.",
+        "Dehydrate kale at 105 degrees F (41 degrees C) until crisp, about 8 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7622579.jpg",
+    "ingredients": [
+        "2 cups raw cashews",
+        "1  red bell pepper, roughly chopped",
+        "\u00bc cup roughly chopped onion",
+        "1  lemon, juiced",
+        "1  jalapeno pepper, seeded (optional)",
+        "2 cloves garlic",
+        "\u00be cup water, or more as needed",
+        "\u00bd cup nutritional yeast",
+        "1 teaspoon paprika",
+        "1 teaspoon ground turmeric (optional)",
+        "1 teaspoon dried mustard (optional)",
+        "\u00bd teaspoon sea salt",
+        "\u00bd teaspoon freshly cracked black pepper",
+        "2 bunches curly kale, stemmed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Raw Cashew Cheesy Kale Chips",
     "url": "http://allrecipes.com/recipe/256934/raw-cashew-cheesy-kale-chips/"
 }

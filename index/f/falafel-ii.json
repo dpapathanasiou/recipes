@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place split peas in a large bowl, and cover with water (roughly twice as much water as split peas by volume). Cover, and refrigerate for 24 hours.",
+        "Drain the water from the peas, and mash the peas thoroughly.  Mix in onion, garlic, mint, egg, coriander, and cumin. Season with cayenne pepper, salt, and pepper to taste. Cover, and refrigerate for 1 to 2 hours.",
+        "Heat oil in a deep fryer to 365 degrees F (185 degrees C).",
+        "Form split pea mixture into small rounds, flatten slightly, and drop into hot oil. Fry until the falafel are a rich brown color."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1960&h=1026&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7618500.jpg",
+    "ingredients": [
+        "1 pound yellow split peas",
+        "1 large onion, finely chopped",
+        "2 cloves garlic, chopped",
+        "\u00bd cup chopped fresh mint",
+        "1  egg",
+        "1 teaspoon ground coriander",
+        "1 teaspoon ground cumin",
+        "cayenne pepper to taste",
+        "salt to taste",
+        "ground black pepper to taste",
+        "2 quarts vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Falafel II",
     "url": "http://allrecipes.com/recipe/44576/falafel-ii/"
 }

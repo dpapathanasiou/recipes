@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 350 degrees F (180 degrees C).",
+        "Bake butter in 9-inch square baking dish 2 minutes or until melted. Remove dish from oven; brush butter onto bottom and sides of dish.",
+        "Beat eggs with mixer in large bowl. Add flour, milk and baking powder; mix until blended. Stir in spinach, cheeses and onion. Spoon into prepared dish.",
+        "Bake 35 minutes. Let stand 15 minutes before cutting into squares."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3208308.jpg",
+    "ingredients": [
+        "1 tablespoon butter",
+        "3 eggs",
+        "1 cup flour",
+        "1 cup milk",
+        "1 teaspoon MAGIC Baking Powder",
+        "2 (300 g) packages frozen chopped spinach, thawed, squeezed dry",
+        "2 cups CRACKER BARREL Crumbled Feta Cheese with Oregano, Sun Dried Tomatoes and Black Pepper",
+        "2 cups CRACKER BARREL Shredded Old Cheddar Cheese",
+        "1 tablespoon dried minced onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Greek Spinach and Cheese Quiche Squares",
     "url": "http://allrecipes.com/recipe/246101/greek-spinach-and-cheese-quiche-squar/"
 }

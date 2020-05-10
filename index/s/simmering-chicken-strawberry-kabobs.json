@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a shallow glass bowl combine lemon juice, juice from pineapple can, salt, pepper and 1 teaspoon cinnamon. Mix together. Add cubed chicken and marinate for 1 hour in the refrigerator.",
+        "Preheat grill for medium heat and lightly oil the grate. Soak wooden skewers, if you're using them.",
+        "Combine the melted butter, 1 teaspoon cinnamon, brown sugar, and nutmeg in a small bowl.",
+        "Using metal or soaked wooden skewers, arrange chicken, pineapple chunks, and strawberries on each stick (approximately 4 to 6 pieces of each item per skewer). Brush kabobs with butter mixture. Place the kabobs on the hot grill. Cook, turning on all sides, until chicken is cooked through and strawberries are sizzling, approximately 8 to 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F846437.jpg",
+    "ingredients": [
+        "1 cup lemon juice",
+        "2 (8 ounce) cans pineapple chunks, juice reserved",
+        "salt and pepper to taste",
+        "2 teaspoons ground cinnamon",
+        "3  skinless, boneless chicken breast halves, cubed",
+        "1 cup butter, melted",
+        "2 tablespoons brown sugar",
+        "1 teaspoon ground nutmeg",
+        "24 large strawberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simmering Chicken Strawberry Kabobs",
     "url": "http://allrecipes.com/recipe/14519/simmering-chicken-strawberry-kabobs/"
 }

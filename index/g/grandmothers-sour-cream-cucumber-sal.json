@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cucumbers, onion, vinegar, sugar, sour cream, salt, and pepper together in a bowl.",
+        "Cover bowl with plastic wrap and refrigerate until chilled, 20 to 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1247288.jpg",
+    "ingredients": [
+        "2 large cucumbers, peeled and sliced",
+        "1/2 cup diced sweet onion (such as Vidalia\u00ae)",
+        "2 tablespoons white vinegar",
+        "2 tablespoons white sugar",
+        "1 1/2 tablespoons sour cream",
+        "1 teaspoon salt",
+        "1/2 teaspoon cracked black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandmother's Sour Cream Cucumber Salad",
     "url": "http://allrecipes.com/recipe/238274/grandmothers-sour-cream-cucumber-sal/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of water to a boil over high heat. Boil potatoes for 15 to 20 minutes, or until tender. Drain.",
+        "In a medium saucepan, bring 1 cup water to a boil. Simmer peas in boiling water for 6 to 7 minutes, or until tender (do NOT overcook). Drain.",
+        "Using the same saucepan, melt butter over medium heat.  Stir in flour to make a thick paste; gradually whisk in milk, stirring constantly until slightly thickened. Season with salt and pepper to taste. Now add potatoes and peas to the sauce; simmer for about 5 minutes, stirring often.  Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2286&h=1197&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2380817.jpg",
+    "ingredients": [
+        "1 pound baby red potatoes, quartered",
+        "1 cup shelled English peas",
+        "1 tablespoon butter",
+        "1 tablespoon all-purpose flour",
+        "salt and pepper to taste",
+        "1 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamed Peas and New Potatoes",
     "url": "http://allrecipes.com/recipe/200935/creamed-peas-and-new-potatoes/"
 }

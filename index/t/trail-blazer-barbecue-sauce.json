@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together the onions, coffee, ketchup, Worcestershire sauce, brown sugar, cider vinegar, hot chilies, chili powder, garlic, and salt in a saucepan until the brown sugar has dissolved. Place over medium heat, bring to a boil, reduce heat, and simmer for 30 minutes.",
+        "Pour the sauce into a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the sauce moving before leaving it on to puree. Puree in batches until smooth. Store in glass container in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/443098.jpg",
+    "ingredients": [
+        "2 cups chopped onions",
+        "1 cup strong black coffee",
+        "1 cup ketchup",
+        "1 cup Worcestershire sauce",
+        "1/2 cup brown sugar",
+        "1/2 cup apple cider vinegar",
+        "1/4 cup hot chili peppers, minced",
+        "3 tablespoons chili powder",
+        "6 cloves garlic, minced",
+        "2 teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Trail Blazer Barbecue Sauce",
     "url": "http://allrecipes.com/recipe/214640/trail-blazer-barbecue-sauce/"
 }

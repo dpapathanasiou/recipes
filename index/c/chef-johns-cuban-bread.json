@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1/2 cup warm water, 1/2 teaspoon yeast, and 1/2 cup flour in a bowl or measuring cup. Whisk the starter until well blended. Cover with plastic wrap and refrigerate overnight.",
+        "Place 1 package active dry yeast and 2 teaspoons sugar in a mixing bowl. Pour in 3/4 cup warm water. Let rest 15 minutes to ensure yeast is alive (bubbles will form on surface). Add lard and salt to bowl; add 1 cup of the flour. Mix until all ingredients are incorporated and dough forms a sticky ball. Add the starter (reserving 1/4 cup if you want to keep the starter going, if desired. Otherwise add it all.). Sprinkle most of the rest of the flour on the dough, reserving 1/2 cup to be used if needed when kneading.",
+        "Turn dough out onto a lightly floured work surface and knead until dough comes together in a firm ball, adding additional flour only as needed. Dough should be soft and supple with just a bit of tackiness on the surface.",
+        "Place dough in a bowl and coat surface with a little vegetable oil. Cover bowl with a damp kitchen towel and place in a warm spot to rise. Let rise until at least doubled in size, about 2 hours.",
+        "Line two rimmed baking sheets with parchment paper and sprinkle with a little cornmeal.",
+        "Transfer dough onto lightly floured surface. Lightly press the dough into a rectangle with your lightly floured hands. Divide dough in half and press and shape each half into a long 1/2-inch thick rectangle about 12 inches long. Roll up tightly starting at the long end to form a skinny loaf. Flatten a bit. Transfer each loaf to a prepared baking sheet and dust with a bit of flour. Cover with a light, dry towel and let rise until doubled in size, 1 1/2 to 2 hours.",
+        "Preheat oven to 400 degrees F (200 degrees C). Cut a 1/4-inch deep slit down the top of the loaves with a sharp knife or razor. Mist loaves lightly with water.",
+        "Place pans in pre-heated oven, one pan on lower rack, one on higher rack. After 10 minutes, switch pan positions. Continue to bake until loaves are golden brown, 10 to 15 minutes longer. Transfer loaves to cooling rack and let cool to room temperature before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bd teaspoon active dry yeast",
+        "\u00bd cup warm water",
+        "\u00bd cup flour",
+        "1 package active dry yeast",
+        "2 teaspoons white sugar",
+        "\u00be cup warm water",
+        "3 tablespoons lard",
+        "2 teaspoons fine salt",
+        "3 cups all-purpose flour, or as needed - divided",
+        "1 tablespoon cornmeal",
+        "Water to spray tops of loaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Cuban Bread",
     "url": "http://allrecipes.com/recipe/256967/chef-johns-cuban-bread/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In mixing bowl beat butter or margarine until softened.  Add the sugar and beat until fluffy.  Add the milk and vanilla and mix well.",
+        "Add the flour and beat until well mixed.  Stir in the cherries and pecans.",
+        "Shape into three 7-inch long rolls.  Roll in the coconut to coat.",
+        "Wrap in plastic wrap and chill for several hours or overnight.",
+        "Preheat oven to 375 degrees F.",
+        "Cut rolls into 1/4-inch slices and place on an ungreased cookie sheet.  Bake about 12 minutes or until done.    Remove to a wire rack and cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1830640.jpg",
+    "ingredients": [
+        "1 cup butter",
+        "1 cup white sugar",
+        "1 tablespoon milk",
+        "1 teaspoon vanilla extract",
+        "2\u2009\u00bd cups all-purpose flour",
+        "1 cup finely chopped red and green candied cherries",
+        "\u00bd cup chopped pecans",
+        "1 cup flaked coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coconut Rolled Sugar Cookies",
     "url": "http://allrecipes.com/recipe/9783/coconut-rolled-sugar-cookies/"
 }

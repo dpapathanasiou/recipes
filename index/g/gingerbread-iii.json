@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9 inch round pan. Sift together flour, ginger, cinnamon, baking powder, baking soda and salt. Set aside.",
+        "In a large bowl, cream shortening and brown sugar until light and fluffy. Beat in the egg and molasses. Add flour mixture and water. Beat until smooth.",
+        "Pour batter into pan. Bake at 350 degrees F (175 degrees C) for 30 to 35 minutes, or until a toothpick inserted into cake comes out clean. Cool in pan on a wire rack for 10 minutes. Remove from pan and serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=640&h=335&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F874.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00be teaspoon ground ginger",
+        "\u00be teaspoon ground cinnamon",
+        "\u00bd teaspoon baking powder",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "\u00bd cup shortening",
+        "\u00bc cup packed brown sugar",
+        "1  egg",
+        "\u00bd cup light molasses",
+        "\u00bd cup boiling water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gingerbread III",
     "url": "http://allrecipes.com/recipe/8460/gingerbread-iii/"
 }

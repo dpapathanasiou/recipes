@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon into a large saucepan over medium heat. Cook until browned, stirring occasionally. Add the mushrooms and garlic, and reduce the heat to medium-low. Let cook for a few minutes to soften the mushrooms. Stir in the green beans and soy sauce, and heat through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4206670.jpg",
+    "ingredients": [
+        "\u00bd pound sliced bacon, diced",
+        "4  fresh mushrooms, sliced",
+        "1 clove garlic, diced",
+        "2 (15.5 ounce) cans French-cut green beans, drained",
+        "1\u2009\u00bd teaspoons soy sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Green Beans",
     "url": "http://allrecipes.com/recipe/79114/best-green-beans/"
 }

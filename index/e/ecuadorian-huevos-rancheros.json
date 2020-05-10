@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a non-stick skillet over medium heat. Add onion and garlic; cook and stir until softened and translucent, 8 to 10 minutes.",
+        "Combine black beans with cooked onion and garlic in a bowl. Place tortilla bowls into serving bowls; spoon bean mixture into tortilla bowls.",
+        "Heat non-stick skillet over medium-low heat; crack eggs onto skillet and cook to desired doneness, about 4 minutes for medium. Place eggs on black bean mixture; sprinkle with Cheddar cheese.",
+        "Cook each bowl in the microwave until cheese is melted, 30 to 45 seconds. Top with avocado and sour cream."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3364005.jpg",
+    "ingredients": [
+        "1  onion, chopped",
+        "3 cloves garlic, minced",
+        "1 cup black beans, rinsed and drained",
+        "2  packaged tortilla bowls",
+        "4  eggs",
+        "\u00bd cup Cheddar cheese, shredded",
+        "1  avocado - peeled, pitted, and thinly sliced",
+        "2 tablespoons sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ecuadorian Huevos Rancheros",
     "url": "http://allrecipes.com/recipe/246549/ecuadorian-huevos-rancheros/"
 }

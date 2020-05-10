@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place tofu slices between two clean towels; allow tofu to drain, about 10 minutes. Cut tofu into bite-size pieces and transfer to a bowl. Stir in tomatoes and balsamic vinegar; marinate for 20 minutes.",
+        "Heat vegetable oil in a large skillet over medium heat; cook and stir bell peppers and onion until just tender, about 5 minutes. Add tofu mixture, garlic powder, and salt. Cover and reduce heat to medium-low; simmer until heated through, about 5 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5350067.jpg",
+    "ingredients": [
+        "1 (14 ounce) package extra firm tofu, sliced",
+        "1 (14.5 ounce) can diced tomatoes with basil, garlic, and oregano",
+        "1/4 cup balsamic vinegar",
+        "1 tablespoon vegetable oil",
+        "2 green bell pepper, chopped",
+        "1/2 onion, chopped",
+        "1/4 teaspoon garlic powder",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu with Tomatoes and Balsamic Vinegar",
     "url": "http://allrecipes.com/recipe/222741/tofu-with-tomatoes-and-balsamic-vineg/"
 }

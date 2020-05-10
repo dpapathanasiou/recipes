@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Scoop pulp out of zucchini halves, leaving a 1/4-inch border, using a spoon. Chop pulp and set aside.",
+        "Place zucchini shells, cut-side down, in a large skillet; pour in water. Cover skillet and bring to a boil; reduce heat and simmer until zucchini are slightly tender, about 5 minutes. Drain water from skillet and turn zucchini shells over in the skillet and sprinkle with salt.",
+        "Heat margarine in a separate skillet over medium heat; cook and stir zucchini pulp and tomato in the melted margarine until tender, about 3 minutes. Stir eggs, walnuts, 1/4 teaspoon salt, pepper, and basil into tomato mixture; cook, lifting thickened portions with spatula to let uncooked portions of egg flow to bottom, until eggs are set but still moist, 3 to 5 minutes.",
+        "Spoon egg mixture into zucchini shells. Sprinkle Cheddar cheese over egg mixture and cover skillet. Cook over low heat until cheese melts, about 2 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7683720.jpg",
+    "ingredients": [
+        "4 zucchini, halved lengthwise",
+        "1/2 cup water",
+        "salt to taste",
+        "2 tablespoons margarine",
+        "1 cup chopped tomato",
+        "4 eggs, beaten",
+        "1/2 cup toasted chopped walnuts",
+        "1/4 teaspoon salt",
+        "1 pinch ground black pepper",
+        "1/4 teaspoon dried basil leaves",
+        "1 cup shredded sharp Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Egg Stuffed Zucchini",
     "url": "http://allrecipes.com/recipe/233764/egg-stuffed-zucchini/"
 }

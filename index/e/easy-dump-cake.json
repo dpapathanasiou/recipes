@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a Bundt pan.",
+        "In a bowl, mix the yellow cake mix, pudding mix, eggs, vegetable oil, sugar, and water. Gently fold in the sour cream and chocolate chips. Pour batter into the prepared Bundt pan.",
+        "Bake in the preheated oven for 55 minutes. Cool in pan for 10 minutes before transferring to cooling racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2131630.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package yellow cake mix",
+        "1 (5.9 ounce) package instant chocolate pudding mix",
+        "4  eggs, beaten",
+        "\u2154 cup vegetable oil",
+        "\u2154 cup white sugar",
+        "\u2153 cup water",
+        "1 (8 ounce) container sour cream",
+        "1 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Dump Cake",
     "url": "http://allrecipes.com/recipe/7527/easy-dump-cake/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak the skewers in water for 1 hour.",
+        "Onto each skewer, alternately thread green bell pepper chunks, shrimp, zucchini slices, chicken, cherry tomatoes, steak, onion, mushroom; repeat until skewer is full. Drizzle olive oil over the prepared skewers; season with 1/4 teaspoon garlic powder, salt, and black pepper. Allow to marinate in refrigerator at least 3 hours, turning every 45 minutes.",
+        "Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+        "Bring a pot of lightly salted water to a rolling boil. Cook the fettuccini in the boiling water, stirring occasionally, until cooked through yet firm to the bite, about 8 minutes; drain. Toss the hot pasta in a large bowl with the softened butter and 1/4 teaspoon garlic powder.",
+        "While the pasta boils, cook the skewers on the preheated grill, turning frequently until nicely browned on all sides, the shrimp are pink and opaque, and the meat is no longer pink in the center, 10 to 15 minutes. Push the cooked meat and vegetables off the skewer onto the tossed pasta."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F682355.jpg",
+    "ingredients": [
+        "12  (10 inch) wooden skewers",
+        "1  green bell pepper, cut into large chunks",
+        "1 pound peeled and deveined shrimp",
+        "1 small zucchini, sliced 1/4-inch thick",
+        "\u00bd pound skinless, boneless chicken breast - cut into cubes",
+        "\u00bd pint cherry tomatoes",
+        "1 pound beef steak, cut into cubes",
+        "24  pearl onions",
+        "\u00bd pound large fresh mushrooms, halved",
+        "\u00bd cup olive oil",
+        "\u00bc teaspoon garlic powder, or to taste",
+        "salt and ground black pepper to taste",
+        "1 pound fettuccine",
+        "2 tablespoons softened butter",
+        "\u00bc teaspoon garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shish Kabob a la Holly",
     "url": "http://allrecipes.com/recipe/218613/shish-kabob-a-la-holly/"
 }

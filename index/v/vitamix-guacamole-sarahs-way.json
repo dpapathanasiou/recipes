@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend avocados, tomato, onion, lemon juice, jalapeno pepper, and salt in a Vitamix\u00ae blender on variable 2 or on the low setting on any blender until guacamole is chunky."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1128059.jpg",
+    "ingredients": [
+        "4  avocados - peeled, pitted, and chopped",
+        "1  roma tomato, cut in half",
+        "\u00bd  red onion, roughly chopped",
+        "2 tablespoons lemon juice",
+        "\u00bd  jalapeno pepper, seeded and minced (optional)",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vitamix&reg; Guacamole Sarah's Way",
     "url": "http://allrecipes.com/recipe/237591/vitamix-guacamole-sarahs-way/"
 }

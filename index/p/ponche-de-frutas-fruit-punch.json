@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large punch bowl, combine orange juice, lemon juice, grapes, plums and pineapple. Stir in sugar. Pour in tea and crushed ice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/438700.jpg",
+    "ingredients": [
+        "3 oranges, juiced",
+        "3 lemons, juiced",
+        "1/2 pound seedless green grapes, halved",
+        "1/2 pound plums, pitted and chopped into small bite-size pieces",
+        "1 fresh pineapple - peeled, cored and chopped into small bite-size pieces",
+        "1 cup white sugar",
+        "4 cups strong brewed black tea, chilled",
+        "4 cups crushed ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ponche de Frutas (Fruit Punch)",
     "url": "http://allrecipes.com/recipe/46818/ponche-de-frutas-fruit-punch/"
 }

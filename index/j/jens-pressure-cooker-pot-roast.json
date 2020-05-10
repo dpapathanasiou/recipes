@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season roast with salt and pepper on all sides; coat roast with flour (reserve leftover flour for gravy).",
+        "Melt shortening in a pressure cooker over medium-high heat. Brown roast on all sides in hot shortening. Sprinkle  onion soup mix over the roast. Pour in at least two cups of water; use 1 to 2 cups more if the beef is a tough cut or to reach the minimum amount recommended by the pressure cooker's manufacturer.",
+        "Seal the lid and bring the cooker up to full pressure over high heat. Reduce the heat to low, maintaining full pressure, and cook for 1 1/2 to 2 hours.",
+        "Release the pressure and test for doneness; the meat should be fork-tender. Add potatoes and onions, making sure the vegetables are submerged in the cooking liquid. (You may need to rearrange the roast on top of the vegetables or add more water.) Seal the lid and return the pressure cooker to full pressure.",
+        "Reduce heat to low, maintaining full pressure, and cook for 10 minutes. Release the pressure; transfer meat and vegetables to a serving platter.",
+        "To make gravy, bring the cooking liquid to a boil. Whisk reserved flour into 1/2 cup cold water; whisk the flour mixture into the boiling broth. Cook until thickened, stirring occasionally, about 3 minutes. Serve gravy with pot roast and vegetables."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F930206.jpg",
+    "ingredients": [
+        "3 pounds beef rump roast",
+        "salt and ground black pepper to taste",
+        "\u2153 cup all-purpose flour",
+        "\u00bc cup vegetable shortening",
+        "2 (1 ounce) packages dry onion soup mix",
+        "2\u2009\u00bd cups cold water, or as needed",
+        "8  potatoes, peeled and halved",
+        "3  onions, peeled",
+        "\u00bd cup cold water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jen's Pressure Cooker Pot Roast",
     "url": "http://allrecipes.com/recipe/220860/jens-pressure-cooker-pot-roast/"
 }

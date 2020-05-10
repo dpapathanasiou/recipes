@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Spray a baking sheet with nonstick cooking spray.",
+        "In a large bowl, whisk together the flour, sugar, baking powder and salt. With a pastry blender or a large fork, cut in the butter until the mixture resembles coarse crumbs. Stir in the chocolate chips. Mix in the orange juice to form a dough.",
+        "Turn out the dough on a floured surface. Pat or roll into a 9 inch circle about 1/2 inch thick. With a 2 1/2 inch fluted biscuit cutter, cut out 12 scones, pushing the dough scraps together for the last few, if necessary. Transfer the scones to the baking sheet.",
+        "Bake in preheated oven until golden brown, about 12 minutes. Move to wire racks to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3203629.jpg",
+    "ingredients": [
+        "1\u2009\u00be cups all-purpose flour",
+        "\u2153 cup white sugar",
+        "2 teaspoons baking powder",
+        "\u00bd teaspoon salt",
+        "5 tablespoons unsalted butter, chilled and cubed",
+        "\u00bd cup miniature semisweet chocolate chips",
+        "3 tablespoons orange juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "English Royalty Chocolate Chip Scones",
     "url": "http://allrecipes.com/recipe/17914/english-royalty-chocolate-chip-scones/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss together the garbanzo beans, mango, romaine lettuce, cucumber, carrot, celery, lemon juice, and salt in a large bowl. Let the mixture set for 30 minutes. Top the salad with the pineapple to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/999915.jpg",
+    "ingredients": [
+        "1 (16 ounce) can garbanzo beans (chickpeas), rinsed and drained",
+        "1 mango - peeled and diced",
+        "1 cup chopped hearts of romaine (optional)",
+        "1/2 cup diced cucumber",
+        "1/2 cup diced carrot",
+        "1/4 cup diced celery (optional)",
+        "2 tablespoons fresh lemon juice",
+        "salt to taste",
+        "1 cup chopped pineapple"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "South Indian Chickpea Salad",
     "url": "http://allrecipes.com/recipe/150294/south-indian-chickpea-salad/"
 }

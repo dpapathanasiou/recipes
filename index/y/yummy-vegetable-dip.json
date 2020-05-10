@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together mayonnaise, turmeric, garlic salt, sugar, onion, horseradish, and vinegar in a small bowl.  Chill 2 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2288&h=1198&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F376242.jpg",
+    "ingredients": [
+        "1 cup mayonnaise",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon garlic salt",
+        "1 teaspoon white sugar",
+        "2 teaspoons dried minced onion",
+        "1 teaspoon prepared horseradish",
+        "1 teaspoon white vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yummy Vegetable Dip",
     "url": "http://allrecipes.com/recipe/142297/yummy-vegetable-dip/"
 }

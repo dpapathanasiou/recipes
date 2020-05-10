@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat the eggs in a mixing bowl until smooth. Mix in the tofu, celery, onion, chili powder, cumin, curry paste, garlic, and oats with your hands until the tofu has broken into fine pieces, and the mixture is evenly blended. Form into 8 patties.",
+        "Heat the vegetable oil in a large, nonstick skillet over medium heat. Cook the patties until crispy and golden brown on each side, about 5 minutes per side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7571902.jpg",
+    "ingredients": [
+        "2  eggs",
+        "2 (16 ounce) packages firm tofu",
+        "2 stalks celery, minced",
+        "1 small onion, minced",
+        "1 tablespoon chili powder",
+        "1 tablespoon ground cumin",
+        "1 tablespoon red curry paste",
+        "1 tablespoon minced garlic",
+        "2 cups rolled oats",
+        "1 tablespoon vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Patty's Tofu Burgers",
     "url": "http://allrecipes.com/recipe/214630/pattys-tofu-burgers/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Place walnuts on a baking sheet. Bake for 8 to 10 minutes in the preheated oven, or until they release their aroma. Stir once or twice for even toasting.",
+        "Heat oil in a large heavy saucepan over medium-high heat.  Saute onion and mushrooms until tender and golden brown.",
+        "Pour in broth, and bring to a boil. Stir in orzo, reduce heat to low, and cover. Simmer until orzo is tender and liquid is absorbed, about 15 minutes.  If after 15 minutes there is still liquid, remove cover, and cook until liquid is gone. Remove from heat, and stir in walnuts.  Season with salt and pepper to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7033242.jpg",
+    "ingredients": [
+        "\u2153 cup chopped walnuts",
+        "3 tablespoons olive oil",
+        "2  onions, chopped",
+        "1 pound fresh mushrooms, sliced",
+        "4 cups chicken broth",
+        "2 cups uncooked orzo pasta",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orzo with Mushrooms and Walnuts",
     "url": "http://allrecipes.com/recipe/22293/orzo-with-mushrooms-and-walnuts/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix onion, bell pepper, bread crumbs, hot pepper sauce, egg, salt, and pepper together in a large bowl. Add ground beef; mix.",
+        "Press beef mixture into a loaf pan. Sprinkle brown gravy mix over meat.",
+        "Bake in preheated oven until cooked through and browned, 1 hour. Remove from oven and let rest for 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4320&h=2262&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1132794.jpg",
+    "ingredients": [
+        "1 cup diced onion",
+        "1 cup diced green bell pepper",
+        "\u00be cup Italian-style bread crumbs",
+        "\u00bc cup hot pepper sauce",
+        "1  egg",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "2 pounds ground beef",
+        "1 (.75 ounce) packet dry brown gravy mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meatloaf for Tomato Haters",
     "url": "http://allrecipes.com/recipe/234185/meatloaf-for-tomato-haters/"
 }

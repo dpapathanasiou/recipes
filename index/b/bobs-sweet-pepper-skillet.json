@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil and sesame oil in a large skillet over medium heat; add green bell peppers, yellow bell pepper, red bell pepper, red onion, garlic, salt, and pepper. Cook and stir the pepper mixture until the onion is translucent and the peppers are cooked through, 7 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1061273.jpg",
+    "ingredients": [
+        "2 teaspoons extra-virgin olive oil",
+        "2 teaspoons sesame oil",
+        "3 green bell peppers, thinly sliced",
+        "1 yellow bell pepper, chopped",
+        "1 red bell pepper, chopped",
+        "1 red onion, chopped",
+        "2 teaspoons minced garlic",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bob's Sweet Pepper Skillet",
     "url": "http://allrecipes.com/recipe/232886/bobs-sweet-pepper-skillet/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes in a small saucepan; cover with water and bring to a boil. Cook until the potatoes are tender; drain. Mash the potatoes with a fork. Allow to cool.",
+        "Preheat oven to 425 degrees F (220 degrees C). Lightly butter a baking sheet.",
+        "Combine the cooled potatoes and almonds. Slowly add the sugar while stirring with a wooden spoon. Stir in the lemon zest; continue mixing with your hands. Form the dough into 1-inch balls. Roll the balls in the pine nuts; brush with egg yolk. Form each ball into a crescent shape. Cover each cookie with cornstarch and then brush with egg white. Arrange cookies on the prepared baking sheet.",
+        "Bake in preheated oven until lightly golden, 10 to 12 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1061378.jpg",
+    "ingredients": [
+        "\u2153 pound potatoes, cubed",
+        "3\u2009\u00bd cups ground almonds",
+        "2\u2009\u00bd cups white sugar",
+        "1 tablespoon lemon zest",
+        "\u00be cup pine nuts",
+        "2  egg yolks, beaten",
+        "\u00be cup cornstarch",
+        "2  egg whites, beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Panellets (Catalan All-Saints Cookies)",
     "url": "http://allrecipes.com/recipe/152043/panellets-catalan-all-saints-cookies/"
 }

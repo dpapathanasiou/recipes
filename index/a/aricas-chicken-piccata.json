@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook the bow-tie pasta at a boil, stirring occasionally, until cooked through yet firm to the bite, about 12 minutes; drain.",
+        "Heat oil in a skillet over medium heat. Stir lemon juice and garlic into the oil and cook until the garlic is soft, about 5 minutes. Put chicken into the skillet, place a cover on the skillet, and cook until browned completely, about 5 minutes per side.",
+        "Remove chicken from skillet to a plate and cover with aluminum foil to retain moisture. Add chicken broth and white wine to the skillet; bring to a simmer and cook 5 minutes. Stir Parmesan cheese and capers into the liquid mixture; cook and stir until thickened, about 5 minutes. Mix bow-tie pasta into sauce; toss to coat. Transfer pasta to a serving bowl.",
+        "Return chicken to the skillet. Place a cover on the skillet and cook until the chicken is no longer pink in the center and the juices run clear, 5 to 7 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Transfer chicken to a serving platter; serve alongside bow-tie pasta."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1300&h=681&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1043471.jpg",
+    "ingredients": [
+        "1 (12 ounce) package farfalle (bow tie) pasta",
+        "1 tablespoon olive oil, or as needed",
+        "\u00bc cup lemon juice",
+        "2 cloves garlic",
+        "4  skinless, boneless chicken breast halves",
+        "salt and ground black pepper to taste",
+        "1 (14.5 ounce) can chicken broth",
+        "1 cup white wine",
+        "\u00bd cup Parmesan cheese",
+        "\u00bc cup capers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Arica's Chicken Piccata",
     "url": "http://allrecipes.com/recipe/232293/aricas-chicken-piccata/"
 }

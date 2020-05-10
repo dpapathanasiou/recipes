@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Core cauliflower, leaving enough core that it remains whole.",
+        "Mix mayonnaise, Greek yogurt, and curry powder in a bowl.",
+        "Spread curry mixture over cauliflower head to cover; place in deep microwave-safe bowl and cover the bowl with a plate.",
+        "Cook on High in microwave until cauliflower is tender, 9 to 15 minutes; let stand covered for 2 minutes.",
+        "Cut in quarters and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1942205.jpg",
+    "ingredients": [
+        "1 head cauliflower",
+        "\u00bc cup light mayonnaise",
+        "\u00bc cup plain Greek yogurt",
+        "2 tablespoons curry powder, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Curried Cauliflower",
     "url": "http://allrecipes.com/recipe/221111/quick-curried-cauliflower/"
 }

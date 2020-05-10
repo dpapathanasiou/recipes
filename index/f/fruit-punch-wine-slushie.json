@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine wine and fruit punch concentrate in a blender. Fill the rest of blender with ice; blend until mixture is the consistency of a slushie."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4458830.jpg",
+    "ingredients": [
+        "1/2 (750 milliliter) bottle red wine",
+        "1 (12 fluid ounce) can frozen concentrated fruit punch",
+        "ice cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruit Punch Wine Slushie",
     "url": "http://allrecipes.com/recipe/254200/fruit-punch-wine-slushie/"
 }

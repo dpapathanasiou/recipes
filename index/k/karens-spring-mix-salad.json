@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, toss together the mixed greens, avocado, tomato, olives and pepperoncini peppers.  Set aside.",
+        "In a small bowl, whisk together the oil, vinegar, garlic salt, oregano and basil.  Pour over the salad mixture and toss to coat.  Sprinkle with parmesan and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F850461.jpg",
+    "ingredients": [
+        "1 (10 ounce) package mixed salad greens",
+        "1  ripe avocado - peeled, pitted and chopped",
+        "1  ripe tomato, chopped",
+        "1 (6 ounce) can black olives, drained",
+        "6  Greek pepperoncini peppers",
+        "\u00bc cup olive oil",
+        "2 teaspoons white vinegar",
+        "2 teaspoons garlic salt",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "3 ounces grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Karen's Spring Mix Salad",
     "url": "http://allrecipes.com/recipe/24383/karens-spring-mix-salad/"
 }

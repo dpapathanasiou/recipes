@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a punch bowl, mix together fruit punch, pineapple juice and ginger ale. Add scoops of sherbet into the punch. Wait for the sherbet to begin melting, approximately 10 minutes, stir gently, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/816468.jpg",
+    "ingredients": [
+        "1 (64 fluid ounce) bottle fruit punch, chilled",
+        "1 (64 fluid ounce) bottle unsweetened pineapple juice, chilled",
+        "1 (2 liter) bottle ginger ale, chilled",
+        "1/2 gallon orange sherbet"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruit Punch",
     "url": "http://allrecipes.com/recipe/32372/fruit-punch/"
 }

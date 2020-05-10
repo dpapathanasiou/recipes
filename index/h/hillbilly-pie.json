@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a large bowl, combine corn syrup, sugar, eggs, melted margarine and vanilla. Mix in the oatmeal. Pour filling into pie shell.",
+        "Bake in preheated oven for 60 minutes, or until a knife inserted in the center comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7670771.jpg",
+    "ingredients": [
+        "\u00be cup light corn syrup",
+        "\u00be cup white sugar",
+        "3  eggs",
+        "1 cup rolled oats",
+        "\u00bc cup margarine, melted",
+        "2 teaspoons vanilla extract",
+        "1 (9 inch) unbaked pie crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hillbilly Pie",
     "url": "http://allrecipes.com/recipe/22512/hillbilly-pie/"
 }

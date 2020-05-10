@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a 10 ounce highball glass with ice. Pour in the rum and coffee liqueur. Swirl gently and fill the glass with cola. Drop in the teaspoon of sweetened condensed milk and stir slowly until the cocktail turns to a milky brown."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/612126.jpg",
+    "ingredients": [
+        "1 (1.5 fluid ounce) jigger rum",
+        "2 1/2 fluid ounces coffee flavored liqueur",
+        "4 fluid ounces cola-flavored carbonated beverage",
+        "1 teaspoon sweetened condensed milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Midnight Special",
     "url": "http://allrecipes.com/recipe/20483/midnight-special/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put eggs, bacon, Cheddar cheese, onion, bell pepper, mushrooms, black pepper, paprika, garlic powder, and salt in a resealable sandwich bag; seal. Shake vigorously until thoroughly mixed. Squeeze out any excess air and reseal.",
+        "Bring a pot of water to a boil. Place bag in the boiling water; cook until egg is completely cooked, about 13 minutes. Remove bag using tongs or a large strainer. Carefully open bag and roll omelet onto a plate."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1038599.jpg",
+    "ingredients": [
+        "2 extra large eggs",
+        "2 tablespoons crumbled cooked bacon",
+        "2 tablespoons shredded Cheddar cheese",
+        "2 teaspoons diced onion",
+        "1 teaspoon diced bell pepper",
+        "1 teaspoon thinly sliced mushroom",
+        "1/2 teaspoon ground black pepper",
+        "1/4 teaspoon ground paprika",
+        "1/4 teaspoon garlic powder",
+        "1 pinch salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Omelet in a Bag",
     "url": "http://allrecipes.com/recipe/232181/easy-omelet-in-a-bag/"
 }

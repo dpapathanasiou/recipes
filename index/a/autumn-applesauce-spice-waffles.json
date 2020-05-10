@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat waffle iron according to directions.",
+        "Mix together apple (or cherry) pie filling and water in a saucepan; heat until warm over medium heat. Keep warm.",
+        "Mix flour, salt, baking powder, sugar, cinnamon, ginger, and cloves in a large bowl.",
+        "In a separate bowl, mix together eggs, milk, melted butter, applesauce, and vanilla. Add dry ingredients and stir to blend. Batter will be thick.",
+        "Brush waffle iron generously with oil or melted butter, or spray with an oil spray.",
+        "Ladle batter into the preheated oiled waffle iron. Cook until crispy, generally 4-6 minutes. Top with warm pie filling and a dollop of whipped cream."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1687002.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "4 teaspoons baking powder",
+        "2 tablespoons white sugar",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon ground ginger",
+        "1/4 teaspoon ground cloves",
+        "2 eggs, beaten",
+        "1 1/2 cups warm milk",
+        "2 tablespoons melted butter",
+        "1 teaspoon vanilla extract",
+        "3/4 cup Mott's\u00ae Original Applesauce",
+        "Topping:",
+        "1 (15.25 ounce) can apple pie filling",
+        "1 cup water",
+        "Fresh whipped cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Autumn Applesauce Spice Waffles",
     "url": "http://allrecipes.com/recipe/240280/autumn-applesauce-spice-waffles/"
 }

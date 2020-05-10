@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cucumber into a strainer and sprinkle with kosher salt; allow cucumber to drain for about 20 minutes. Transfer cucumber to a piece of cheesecloth and squeeze dry.",
+        "Mash cream cheese with seasoned salt and cumin in a bowl. Stir cucumber into cream cheese mixture.",
+        "Spread the cucumber mixture on a slice of bread; top with a second slice. Press the slices together lightly and trim off the crusts. Slice each sandwich into 4 triangles by cutting an X shape. Chill sandwiches until serving time."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1397709.jpg",
+    "ingredients": [
+        "1  cucumber - peeled, seeded, and minced",
+        "kosher salt to taste",
+        "8 ounces cream cheese, softened",
+        "\u00bc teaspoon seasoned salt",
+        "\u00bc teaspoon ground cumin",
+        "1 (1 pound) loaf sliced bread"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumber Party Sandwiches",
     "url": "http://allrecipes.com/recipe/221896/cucumber-party-sandwiches/"
 }

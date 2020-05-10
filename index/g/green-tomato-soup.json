@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1/4 cup water and green onions in a blender; blend on the \"Grate\" setting.",
+        "Heat olive oil in 5-quart stockpot over medium heat. Pour in green onions. Cook and stir until fragrant, about 1 minute.",
+        "Combine 1/4 cup water and green tomatoes in a blender; blend on the \"Grate\" setting. Measure out 7 cups into the pot. Stir in chicken soup base, salt, pepper, and garlic. Pour in Chardonnay wine.",
+        "Heat remaining 1/2 cup water and cream in a saucepan over a medium heat, about 5 minutes. Add instant mashed potatoes; cook, stirring constantly, until potatoes have a loose consistency.",
+        "Stir potatoes into the stockpot. Cover soup and simmer, stirring frequently, until flavors combine, about 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3996951.jpg",
+    "ingredients": [
+        "1 cup water, divided",
+        "1 bunch green onions (scallions), cut into pieces",
+        "2 tablespoons extra-virgin olive oil",
+        "4\u2009\u00bd pounds green tomatoes, diced",
+        "1 tablespoon chicken soup base",
+        "2 teaspoons salt, or to taste",
+        "\u00bd teaspoon freshly ground black pepper",
+        "\u00bd teaspoon granulated garlic",
+        "\u00bd cup Chardonnay wine",
+        "1 pint light whipping cream",
+        "1 cup instant mashed potatoes (such as Idahoan\u00ae Buttery Homestyle\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Tomato Soup",
     "url": "http://allrecipes.com/recipe/255605/green-tomato-soup/"
 }

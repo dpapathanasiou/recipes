@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the chicken stock, garlic, and saffron in a saucepan. Warm until hot, but not too hot to put your finger in. Cover, and keep warm over low heat so the saffron can infuse while you continue with the recipe.",
+        "Cook and stir the diced pancetta in a cast iron skillet over medium heat until most of the fat has rendered out and the pancetta has cooked to your desired degree of doneness, about 10 minutes. Once done, remove the pancetta and set aside.",
+        "Discard the grease and pour in 1 tablespoon of olive oil. Cook and stir the carrots, artichoke hearts, and green beans until the vegetables begin to soften, then remove from the pan and set aside. Heat the remaining 1 tablespoon of olive oil in the skillet, and stir in the onion. Season with salt and pepper, and cook until the onion has softened, about 10 minutes. Add the tomatoes, and cook until the tomato-onion mixture is practically a paste, 15 to 20 minutes.",
+        "Spread the onion mixture evenly over the bottom of the skillet, and sprinkle evenly with the broken spaghetti pieces. Pour in enough saffron broth to cover the noodles, then arrange the pancetta and cooked vegetables over top. Add additional saffron broth as needed to cover the vegetables. Bring to a simmer, then reduce heat to medium-low, and cook until the noodles are tender, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3186892.jpg",
+    "ingredients": [
+        "3 cups chicken stock, or more if needed",
+        "2 cloves garlic, minced",
+        "1 pinch saffron",
+        "1 cup pancetta bacon, diced",
+        "2 tablespoons olive oil, divided",
+        "\u00bd cup diced carrots",
+        "\u00bd cup frozen artichoke hearts, thawed",
+        "\u00bd cup fresh green beans",
+        "2 cups diced white onion",
+        "salt and black pepper to taste",
+        "2 cups diced tomatoes",
+        "1 (16 ounce) package spaghetti, broken into 2-inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cascadia Fideua",
     "url": "http://allrecipes.com/recipe/217055/cascadia-fideua/"
 }

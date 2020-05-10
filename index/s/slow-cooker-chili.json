@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium high heat, saute the ground beef for 5 to 10 minutes, or until browned. Transfer to a slow cooker. Then add the onion, green bell peppers, beans and tomatoes to the slow cooker. Season with chili powder to taste. Cook on high setting for 4 hours, or until all vegetables are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1932&h=1012&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4467136.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1  onion, chopped",
+        "2  green bell peppers, chopped",
+        "5 (15 ounce) cans kidney beans with liquid",
+        "1 (28 ounce) can whole peeled tomatoes, with liquid",
+        "\u00bc teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Chili",
     "url": "http://allrecipes.com/recipe/16933/slow-cooker-chili/"
 }

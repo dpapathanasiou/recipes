@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Process butter, 1/4 cup confectioners' sugar and 1 cup flour in food processor 10 seconds, or blend with pastry blender.  Pat dough evenly into 9 inch round pie plate.",
+        "Bake 12 to 15 minutes, until golden.",
+        "Combine eggs, white sugar, lemon zest, lemon juice and 3 tablespoons flour and mix until smooth; pour mixture over hot crust.",
+        "Bake 15 to 20 minutes more, until firm.  Let cool completely in baking dish.  Sprinkle with confectioners' sugar and cut into 12 triangles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u215c cup butter",
+        "\u00bc cup confectioners' sugar",
+        "1 cup all-purpose flour",
+        "3  eggs",
+        "1 cup white sugar",
+        "1 tablespoon grated lemon zest",
+        "\u00bc cup lemon juice",
+        "3 tablespoons all-purpose flour",
+        "2 tablespoons confectioners' sugar for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tart Lemon Triangles",
     "url": "http://allrecipes.com/recipe/20384/tart-lemon-triangles/"
 }

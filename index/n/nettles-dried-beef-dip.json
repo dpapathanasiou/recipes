@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cream cheese, sour cream, milk, horseradish, onion, and dill in a bowl, and stir until well blended. Gently fold in the beef and black olives. Cover and refrigerate 2 hours, or overnight to blend flavors before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4472835.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bd cup sour cream",
+        "2 tablespoons milk",
+        "1 teaspoon horseradish",
+        "2 tablespoons chopped onion",
+        "\u00bc teaspoon dried dill weed",
+        "1 (2 ounce) package dried beef, finely chopped",
+        "1 (2.25 ounce) can sliced black olives, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nettles Dried Beef Dip",
     "url": "http://allrecipes.com/recipe/51403/nettles-dried-beef-dip/"
 }

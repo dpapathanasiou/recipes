@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk honey and coconut cream together in a saucepan over medium-high heat; cook, stirring constantly, until mixture comes to a rolling boil. Set timer for 4 minutes and stir caramel, constantly scraping down the sides. The bubbles with be airy yet high.",
+        "Remove saucepan from heat precisely after 4 minutes. Cool caramel for about 3 minutes. The caramel will thicken as it cools."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3495686.jpg",
+    "ingredients": [
+        "1/2 cup honey",
+        "3 tablespoons unsweetened coconut cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paleo Caramel Sauce",
     "url": "http://allrecipes.com/recipe/246972/paleo-caramel-sauce/"
 }

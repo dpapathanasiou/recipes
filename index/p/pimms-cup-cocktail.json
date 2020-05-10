@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour Pimm's into pint glass, fill with ice. Top with ginger-ale. Garnish with a slice of lemon and a slice of cucumber."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4563732.jpg",
+    "ingredients": [
+        "2 fluid ounces Pimm's No. 1\u2122 (gin-based liqueur)",
+        "1 cup ice",
+        "3 fluid ounces ginger ale",
+        "1 lemon slice",
+        "1 cucumber slice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pimm's Cup Cocktail",
     "url": "http://allrecipes.com/recipe/222892/pimms-cup-cocktail/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Beat eggs, water, and vegetable oil together in a large bowl until smooth; add brownie mix and stir until the mixture is a smooth batter. Beat mashed banana into batter; fold in walnuts. Pour batter into a 13x9-inch baking dish.",
+        "Bake in preheated oven until set in the middle, about 23 minutes.",
+        "Cool brownies at room temperature for 10 to 15 minutes before cutting into bars. Sprinkle confectioners' sugar over the brownies."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=6480&h=3393&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1552141.jpg",
+    "ingredients": [
+        "2  eggs",
+        "\u2153 cup water",
+        "\u2153 cup vegetable oil",
+        "1 (19.8 ounce) package brownie mix",
+        "1  ripe banana, mashed",
+        "\u00bd cup chopped walnuts, or to taste",
+        "\u00bc cup confectioners' sugar (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana and Walnut Brownies",
     "url": "http://allrecipes.com/recipe/238698/banana-and-walnut-brownies/"
 }

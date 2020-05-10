@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cream of chicken soup, chicken broth, turkey, potatoes, carrots, onion, butter, garlic powder, and poultry seasoning together in a slow cooker.",
+        "Cook on High for 3 hours; stir. Arrange biscuits atop turkey mixture and cook until biscuits are cooked through, about 1 more hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1783331.jpg",
+    "ingredients": [
+        "2 (10.75 ounce) cans condensed cream of chicken soup",
+        "1 (15 ounce) can chicken broth",
+        "1 1/2 cups chopped cooked turkey, or more to taste",
+        "1 cup chopped potatoes, or more to taste",
+        "1 cup chopped carrots, or more to taste",
+        "1/2 onion, chopped",
+        "2 tablespoons butter",
+        "1 pinch garlic powder",
+        "1 pinch poultry seasoning",
+        "1/2 (10 ounce) can refrigerated buttermilk biscuit dough (such as Pillsbury Grands!\u00ae), cut into squares"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Turkey and Dumplings",
     "url": "http://allrecipes.com/recipe/235455/slow-cooker-turkey-and-dumplings/"
 }

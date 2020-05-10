@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a large skillet placed over medium-high heat.  Add the onion and barley; cook, stirring frequently, until the onion begins to soften, about 5 minutes.  Stir in the allspice, turmeric, curry powder, salt, and black pepper.  Pour in the chicken broth, and bring to a simmer.",
+        "Cover skillet with lid, and reduce heat to low; simmer until the barley is tender, about 30 to 40 minutes.  Fluff the pilaf with a fork, and gently stir in the slivered almonds and raisins."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F312109.jpg",
+    "ingredients": [
+        "\u00bc cup butter",
+        "1  onion, diced",
+        "1\u2009\u00bd cups pearl barley",
+        "\u00bd teaspoon ground allspice",
+        "\u00bd teaspoon ground turmeric",
+        "\u00bc teaspoon curry powder",
+        "\u00bd teaspoon salt",
+        "\u215b teaspoon ground black pepper",
+        "3\u2009\u00bd cups chicken broth",
+        "\u00bc cup slivered almonds",
+        "\u00bc cup raisins (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Indian Curried Barley Pilaf",
     "url": "http://allrecipes.com/recipe/189305/indian-curried-barley-pilaf/"
 }

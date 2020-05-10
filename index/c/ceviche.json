@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse scallops and place in a medium sized bowl.  Pour lime juice over the scallops.  The scallops should be completely immersed in the lime juice.  Chill the lime juice and scallops all day or overnight until scallops are opaque (you cannot see through them).",
+        "Empty 1/2 of the lime juice from the bowl.  Add tomatoes, green onions, celery, green bell pepper, parsley, black pepper, olive oil, and cilantro to the scallop mixture.  Stir gently.  Serve this dish in fancy glasses with a slice of lime hanging over the rim for effect."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 pound bay scallops",
+        "8  limes, juiced",
+        "2  tomatoes, diced",
+        "5  green onions, minced",
+        "2 stalks celery, sliced",
+        "\u00bd  green bell pepper, minced",
+        "\u00bd cup chopped fresh parsley",
+        "freshly ground black pepper",
+        "1\u2009\u00bd tablespoons olive oil",
+        "\u215b cup chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ceviche",
     "url": "http://allrecipes.com/recipe/12819/ceviche/"
 }

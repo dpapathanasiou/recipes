@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Line 14 muffin cups with paper liners.",
+        "Sift almond flour, gluten-free all-purpose baking flour, and baking powder together in a bowl.",
+        "Cream 1 cup butter with sucanat in the mixing bowl of a stand mixer until light and fluffy, 1 to 2 minutes; mix in ricotta cheese.",
+        "Beat in eggs, one at a time, beating each egg in thoroughly before adding the next one. Gradually beat in almond flour mixture, about 1/4 cup at a time, scraping down the sides of the bowl often. Mix 1 teaspoon vanilla extract and 1/2 teaspoon lemon oil into the batter until evenly blended.",
+        "Fill the prepared muffin cups about 2/3 full.",
+        "Bake in the preheated oven until cupcakes have risen and are very lightly golden brown, 25 to 30 minutes. Do not open oven doors until 25 minutes of baking time have elapsed.",
+        "Allow cupcakes to cool thoroughly.",
+        "Cut plugs out of the centers of the cupcakes and fill each hole with about 1 1/2 teaspoon lemon curd.",
+        "Beat cream cheese and 1 cup butter in the mixing bowl of a stand mixer until smooth and creamy. Mix in confectioners' sugar, 1 1/2 teaspoon vanilla extract and 1 1/2 teaspoon lemon oil to make a smooth, spreadable frosting. Frost the filled cupcakes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5535766.jpg",
+    "ingredients": [
+        "2 cups almond flour",
+        "\u00be cup gluten-free all-purpose baking flour",
+        "\u00bc teaspoon baking powder",
+        "1 cup butter, softened",
+        "2 cups sucanat (crystallized sugar cane juice)",
+        "1 (15 ounce) container ricotta cheese",
+        "4  eggs",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon pure lemon oil",
+        "\u00bd cup prepared lemon curd",
+        "14 ounces cream cheese, softened",
+        "1 cup butter, softened",
+        "1\u2009\u2153 cups confectioners' sugar",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "1\u2009\u00bd teaspoons pure lemon oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten-Free Lovely Lemon Cupcakes",
     "url": "http://allrecipes.com/recipe/220806/gluten-free-lovely-lemon-cupcakes/"
 }

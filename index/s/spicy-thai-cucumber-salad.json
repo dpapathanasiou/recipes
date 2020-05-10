@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine rice vinegar, sugar, and sesame oil in a small saucepan and bring to a boil over medium heat. Reduce heat to simmer for 2 minutes to allow the sugar to dissolve. Leave mixture to cool to room temperature.",
+        "Add cucumber, onion and chili pepper to a mixing bowl and pour over the cooled vinegar solution. Stir to mix everything together. Tightly cover bowl with Reynolds Wrap(R) Aluminum Foil and place in fridge for 30 minutes.",
+        "Preheat oven to 350 degrees F and line a baking sheet with Reynolds(R) Parchment Paper. Place peanuts on baking sheet and season with a generous pinch of salt. Roast for 30 minutes, rotating the pan halfway through.",
+        "Remove the cucumber mixture from fridge and transfer to serving dish. Top with bean sprouts and roasted peanuts. Serve with lime wedges."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3457393.jpg",
+    "ingredients": [
+        "1/3 cup rice vinegar",
+        "1 tablespoon granulated sugar",
+        "1 teaspoon sesame oil",
+        "1 large English cucumber, sliced into thin rounds",
+        "1/4 medium red onion, thinly sliced",
+        "1 red chile pepper, thinly sliced",
+        "2 1/2 tablespoons peanuts",
+        "1 pinch sea salt",
+        "1/4 cup bean sprouts",
+        "4 lime wedges, for serving",
+        "Reynolds Wrap\u00ae Aluminum Foil",
+        "Reynolds\u00ae Parchment Paper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Thai Cucumber Salad",
     "url": "http://allrecipes.com/recipe/246795/spicy-thai-cucumber-salad/"
 }

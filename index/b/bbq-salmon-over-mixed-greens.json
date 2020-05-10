@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, mix together chili powder, garlic powder, onion powder, sugar, salt, allspice, cumin, white pepper, and paprika. Reserve 1 1/2 tablespoons of the mixture for the vinaigrette, and sprinkle remaining spice mixture over salmon fillets. Cover, and refrigerate for 6 hours.",
+        "Preheat grill for high heat.",
+        "Lightly oil grill grate, and spread a small amount of olive oil on salmon fillets. Cook salmon 4 to 5 minutes per side, or until easily flaked with a fork.",
+        "In a small bowl, mix together tomato-vegetable juice cocktail, vinegar, tomatoes, olive oil, and reserved spice mixture to make vinaigrette. Place salad greens in a large bowl, drizzle with vinaigrette, and toss to coat.",
+        "Divide greens among individual serving plates. Top each plate with a salmon fillet, and spoon any remaining vinaigrette over the salmon."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/615643.jpg",
+    "ingredients": [
+        "2 tablespoons chili powder",
+        "1 tablespoon garlic powder",
+        "1 tablespoon onion powder",
+        "3 tablespoons white sugar",
+        "1 tablespoon salt",
+        "1/2 teaspoon ground allspice",
+        "1/2 teaspoon ground cumin",
+        "1/4 teaspoon ground white pepper",
+        "1 tablespoon paprika",
+        "6 (6 ounce) fillets salmon",
+        "olive oil",
+        "1 1/2 cups tomato-vegetable juice cocktail",
+        "1 tablespoon balsamic or cider vinegar",
+        "1/2 cup chopped tomatoes",
+        "4 tablespoons olive oil",
+        "1 pound mixed salad greens, rinsed and dried"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "BBQ Salmon over Mixed Greens",
     "url": "http://allrecipes.com/recipe/17353/bbq-salmon-over-mixed-greens/"
 }

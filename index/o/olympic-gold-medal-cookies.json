@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+        "In a large bowl, cream together the butter, brown sugar, and white sugar until light and fluffy. Add the eggs one at a time, beating well with each addition, then stir in the vanilla. Combine the flour, baking soda, baking powder, and salt; gradually stir into the creamed mixture. Finally, stir in the oats, wheat germ, raisins and walnuts. Drop cookies by heaping tablespoonfuls onto the prepared cookie sheets. Wet hands and flatten cookies slightly. Cookies should be about 3/4 inch thick, and  2 1/2 inches wide before baking.",
+        "Bake for 15 to 20 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5881339.jpg",
+    "ingredients": [
+        "1 cup butter, softened",
+        "1 cup light brown sugar",
+        "1 cup white sugar",
+        "2  eggs",
+        "1 teaspoon vanilla extract",
+        "1\u2009\u215b cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon baking powder",
+        "1 pinch salt",
+        "3 cups rolled oats",
+        "\u00bd cup wheat germ",
+        "1\u2009\u00bc cups golden raisins",
+        "1\u2009\u2153 cups chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Olympic Gold Medal Cookies",
     "url": "http://allrecipes.com/recipe/17327/olympic-gold-medal-cookies/"
 }

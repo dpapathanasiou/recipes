@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the grated cucumber, lemon juice, mint, dill, garlic, yogurt, olive oil, and salt in a large mixing bowl; stir with a large spoon. Pour the mixture into a blender; blend on high speed until smooth. Serve immediately or chill in refrigerator until ready to serve. Divide the soup between four bowls; top each serving with about 1 tablespoon raisins."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5507571.jpg",
+    "ingredients": [
+        "4 small seedless cucumbers - peeled and grated",
+        "1 tablespoon fresh lemon juice",
+        "1 bunch fresh mint leaves, chopped",
+        "1 bunch fresh dill, chopped",
+        "2 cloves garlic, crushed",
+        "2 cups plain yogurt",
+        "1 tablespoon olive oil",
+        "1 teaspoon salt (optional)",
+        "1/4 cup raisins (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chilled Cucumber Yogurt Soup",
     "url": "http://allrecipes.com/recipe/201918/chilled-cucumber-yogurt-soup/"
 }

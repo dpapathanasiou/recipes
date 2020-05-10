@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet, brown sausage over medium heat; drain and set aside.",
+        "In a large saucepan over medium heat, combine tomato sauce, diced tomatoes, bay leaves, Italian seasoning, garlic powder, basil, oregano, salt, pepper and Italian sausage; mix well.",
+        "Simmer over medium-low heat for at least one hour; it is best if simmered all day.",
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "Mix sauce with hot pasta; serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1440&h=754&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1327337.jpg",
+    "ingredients": [
+        "\u00bd pound Italian sausage",
+        "4 (6.5 ounce) cans tomato sauce",
+        "1 (14.5 ounce) can diced tomatoes",
+        "2  bay leaves",
+        "1 teaspoon Italian seasoning",
+        "\u00bd teaspoon garlic powder",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "salt and pepper to taste",
+        "1 (8 ounce) package spaghetti"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaghetti Italian",
     "url": "http://allrecipes.com/recipe/19356/spaghetti-italian/"
 }

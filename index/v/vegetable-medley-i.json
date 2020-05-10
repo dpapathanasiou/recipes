@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "In a large saute pan heat olive oil over medium heat. Add squash, zucchini, onion, green bell pepper, and garlic. Saute until all vegetables are soft.  Add tomatoes with juice. Season with basil, oregano, salt, and pepper.",
+        "Transfer ingredients to a glass baking dish. Bake for 20 minutes in the preheated oven. Sprinkle with Parmesan cheese and bake another 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3236.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "2 yellow squash, sliced",
+        "2 zucchini, sliced",
+        "1 onion, chopped",
+        "1 green bell pepper, chopped",
+        "2 cloves crushed garlic",
+        "1 (16 ounce) can diced tomatoes",
+        "1/2 teaspoon dried basil",
+        "2 teaspoons dried oregano",
+        "salt and pepper to taste",
+        "1/4 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetable Medley I",
     "url": "http://allrecipes.com/recipe/14006/vegetable-medley-i/"
 }

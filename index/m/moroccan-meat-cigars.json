@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet.",
+        "Heat olive oil in skillet over medium-high heat. Cook ground beef until it loses its pink color and begins to brown. Drain fat from skillet. Add tomatoes, cinnamon, cumin, paprika and allspice. Reduce heat to medium and simmer until mixture reduces slightly, about 10 minutes.",
+        "Remove one phyllo sheet from package and keep the rest covered with a clean cloth until ready to use. On a flat work surface, cut the phyllo sheet into 2 14x9-inch rectangles. Spray the first half-sheet with cooking spray, place the 2nd half on top of it and spray again with oil. Place a generous teaspoon of the meat mixture near the narrow end of the dough. Fold dough over the top of the meat, fold in the sides of the dough, and roll into a narrow tube (cigar) shape. Repeat until all the meat has been rolled up. Arrange cigars on prepared baking sheet.",
+        "Bake in preheated oven until lightly browned, about 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=500&h=262&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F245023.jpg",
+    "ingredients": [
+        "1 teaspoon olive oil",
+        "\u00bd pound lean ground beef",
+        "\u00bd cup canned crushed tomatoes, drained",
+        "\u00bc teaspoon ground cinnamon",
+        "\u00bc teaspoon ground cumin",
+        "\u215b teaspoon paprika",
+        "\u215b teaspoon ground allspice",
+        "1 (16 ounce) package phyllo dough",
+        "cooking oil spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Moroccan Meat Cigars",
     "url": "http://allrecipes.com/recipe/169523/moroccan-meat-cigars/"
 }

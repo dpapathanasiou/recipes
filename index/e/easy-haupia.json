@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cornstarch, sugar, and salt into a saucepan; stir in 1/4 of the coconut milk to make a smooth paste. Stir in the remaining coconut milk, and bring to a simmer over low heat, stirring constantly. Cook and stir until thickened so that it coats the back of a spoon, about 5 minutes. Pour into a 9x13 inch baking dish; refrigerate until cold."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4528567.jpg",
+    "ingredients": [
+        "5 tablespoons cornstarch",
+        "1/4 cup white sugar",
+        "1/8 teaspoon salt",
+        "2 cups coconut milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Haupia",
     "url": "http://allrecipes.com/recipe/165879/easy-haupia/"
 }

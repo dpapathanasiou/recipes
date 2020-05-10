@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix eggs, butter, apple syrup, sugar, vanilla extract, cinnamon, nutmeg, cardamom, and salt. together in a large bowl. Stir in half and half and milk. Place cubed bread and currants into a large baking dish. Stir in the egg mixture until bread is evenly coated. Cover and refrigerate for 30 minutes.",
+        "Preheat an oven to 350 degrees F (175 degrees C). Uncover the baking dish.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4588994.jpg",
+    "ingredients": [
+        "3 large eggs",
+        "1/2 cup melted butter",
+        "1/2 cup apple flavored syrup",
+        "1/2 cup raw sugar",
+        "1 teaspoon vanilla extract",
+        "3/4 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1 1/2 teaspoons ground cardamom",
+        "1/2 teaspoon salt",
+        "3/4 cup half-and-half cream",
+        "1 1/2 cups milk",
+        "1 (16 ounce) loaf day-old French bread, cut into 1/4-inch cubes",
+        "1/2 cup dried currants"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Currant Cardamom Bread Pudding",
     "url": "http://allrecipes.com/recipe/212765/currant-cardamom-bread-pudding/"
 }

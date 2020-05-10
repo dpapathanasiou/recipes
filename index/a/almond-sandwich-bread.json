@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat almond flour, eggs, Greek yogurt, salt, and baking soda together in a bowl with a mixer at high speed until creamy.",
+        "Heat a skillet over medium heat; add just enough olive oil to cover the surface.",
+        "Ladle 1/4 cup of the batter into the center of the hot skillet; cook until browned, 1 to 2 minutes per side. Repeat with remaining batter."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3352&h=1755&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2651005.jpg",
+    "ingredients": [
+        "2 cups almond flour",
+        "4  eggs",
+        "\u00bc cup Greek yogurt (such as Fage\u00ae)",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon baking soda",
+        "1 tablespoon olive oil, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Almond Sandwich Bread",
     "url": "http://allrecipes.com/recipe/239023/almond-sandwich-bread/"
 }

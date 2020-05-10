@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil.",
+        "Spread Romanesco onto the prepared baking sheet; drizzle with olive oil and season with salt, black pepper, garlic powder, and paprika.",
+        "Roast in the preheated oven until tender, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2208&h=1156&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1790847.jpg",
+    "ingredients": [
+        "1 head Romanesco (also known as Romanesque cauliflower or Romanesco broccoli), cut into bite-size pieces",
+        "1 tablespoon olive oil, or more to taste",
+        "salt to taste",
+        "2 grinds fresh black pepper",
+        "1 pinch garlic powder",
+        "1 pinch paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Romanesco",
     "url": "http://allrecipes.com/recipe/235657/roasted-romanesco/"
 }

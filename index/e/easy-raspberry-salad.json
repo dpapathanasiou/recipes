@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss salad greens, raspberries, jicama, and almonds together in a large bowl. Drizzle with raspberry vinaigrette to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3529001.jpg",
+    "ingredients": [
+        "1 pound mixed salad greens",
+        "1 pint fresh raspberries",
+        "1 jicama, peeled and chopped",
+        "4 ounces slivered almonds",
+        "1 cup raspberry vinaigrette, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Raspberry Salad",
     "url": "http://allrecipes.com/recipe/222167/easy-raspberry-salad/"
 }

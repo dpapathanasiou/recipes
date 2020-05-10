@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in a resealable plastic bag; add chipotle peppers in adobo sauce and 1/2 of the beer. Squeeze out excess air and seal the bag. Marinate in the refrigerator, at least 1 hour.",
+        "Heat olive oil in a skillet over medium-high heat; pour chicken and marinade into the hot oil. Cook and stir, adding the remaining beer, until chicken is no longer pink in the center and the juices run clear, 20 to 30 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Shred chicken in the skillet using 2 forks and serve in corn tortillas."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2309741.jpg",
+    "ingredients": [
+        "3 pounds skinless, boneless chicken breast halves",
+        "1 (7 ounce) can chipotle peppers in adobo sauce",
+        "1 (12 fluid ounce) can or bottle dark beer, divided",
+        "1 tablespoon olive oil",
+        "1 (10 ounce) package corn tortillas, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Chipotle Chicken Tacos",
     "url": "http://allrecipes.com/recipe/242421/basic-chipotle-chicken-tacos/"
 }

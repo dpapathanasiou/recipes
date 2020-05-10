@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place garlic slices in a mortar with kosher salt. Mash with the pestle into a fine paste, 4 or 5 minutes. Mix in lemon juice. Add a teaspoon of olive oil; stir and mash until oil is incorporated. Add another teaspoon and mix in thoroughly. Continue incorporating olive oil, teaspoon by teaspoon, mashing and stirring until aioli thickens up. If the aioli gets thicker than you like, add a few drops of water."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4064619.jpg",
+    "ingredients": [
+        "4 large cloves fresh garlic, peeled and sliced",
+        "1/2 teaspoon kosher salt, or other course-grain salt",
+        "1 teaspoon lemon juice, or more to taste",
+        "1/2 cup light, extra-virgin olive oil",
+        "1 teaspoon water to adjust texture, or more as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Real Aioli",
     "url": "http://allrecipes.com/recipe/255815/real-aioli/"
 }

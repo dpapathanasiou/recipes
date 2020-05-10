@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a heavy skillet, over medium to medium-high heat. In a large bowl, stir together the crushed crackers, garlic powder, onion salt, salt and pepper. Beat the egg in a small bowl.",
+        "Dip the venison cubes into the egg, then into the crumb mixture to coat. Fry in the hot oil until browned on all sides. Dissolve the bouillon cubes in the boiling water and pour into the pan. Add the onions and mushrooms. Lower heat, cover and cook  until the meat is tender, about 15 minutes - add more water as needed. Dissolve cornstarch in cold water,  and stir into the sauce. Bring to a boil and cook until thickened."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4984303.jpg",
+    "ingredients": [
+        "1/4 cup oil",
+        "1 pound venison, cut into cubes",
+        "1 (16 ounce) package buttery round crackers, crushed fine",
+        "1/4 teaspoon garlic powder, or to taste",
+        "onion salt, or to taste",
+        "salt and pepper to taste",
+        "2 cubes beef bouillon",
+        "1 cup boiling water",
+        "1 egg",
+        "1 medium onion, sliced",
+        "1 (4.5 ounce) can sliced mushrooms",
+        "1 tablespoon cornstarch",
+        "1/4 cup cold water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Venison Salisbury Steak",
     "url": "http://allrecipes.com/recipe/35697/venison-salisbury-steak/"
 }

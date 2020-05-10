@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the canola oil in a skillet over high heat. Add the pork; cook and stir just until meat is browned on all sides, about 5 minutes.",
+        "Place the meat in a 4 quart slow cooker. Pour the enchilada sauce over the meat. Top with the hominy, onion, chilies, garlic, cayenne pepper, and oregano. Pour in enough water to fill the slow cooker.",
+        "Cover, and cook on High for 6 to 7 hours. Stir in the cilantro and salt. Cook on Low for 30 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1073997.jpg",
+    "ingredients": [
+        "1 tablespoon canola oil",
+        "1 (2 pound) boneless pork loin roast, cut into 1-inch cubes",
+        "2 (14.5 ounce) cans enchilada sauce",
+        "2 (15.5 ounce) cans white hominy, drained",
+        "1 onion, sliced",
+        "1/2 cup green chilies, diced",
+        "4 cloves garlic, minced",
+        "1/2 teaspoon cayenne pepper, or to taste",
+        "2 teaspoons dried oregano",
+        "1/4 cup cilantro, chopped",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow-Cooker Posole",
     "url": "http://allrecipes.com/recipe/149938/slow-cooker-posole/"
 }

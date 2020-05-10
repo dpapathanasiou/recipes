@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium mixing bowl, combine sour cream, ketchup, seasoning salt, red pepper flakes, horseradish, and paprika. Serve immediately or refrigerate before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F942563.jpg",
+    "ingredients": [
+        "\u00bd cup sour cream",
+        "2 tablespoons ketchup",
+        "\u00bd teaspoon seasoned salt",
+        "\u215b teaspoon crushed red pepper flakes",
+        "1\u2009\u00bd teaspoons finely grated raw horseradish",
+        "\u00bc teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bloomin' Onion Dipping Sauce",
     "url": "http://allrecipes.com/recipe/17200/bloomin-onion-dipping-sauce/"
 }

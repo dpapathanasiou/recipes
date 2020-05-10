@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat broiler.",
+        "Place bread slices in single layer on baking sheet; spread with jam.",
+        "Top with remaining ingredients.",
+        "Broil, 4 inches from heat, 3 min. or until cheese is melted."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/963942.jpg",
+    "ingredients": [
+        "24 French bread slices, 1/2 inch thick",
+        "2/3 cup fig jam",
+        "1/4 cup chopped toasted walnuts",
+        "1/4 pound prosciutto, cut into 24 pieces",
+        "1 1/2 cups KRAFT Shredded Triple Cheddar Cheese with a TOUCH OF PHILADELPHIA",
+        "1 tablespoon chopped fresh rosemary"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fig-Proscuitto Crostini",
     "url": "http://allrecipes.com/recipe/231143/fig-proscuitto-crostini/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Melt the butter in an oven-safe pan over medium heat. Stir the garlic, lemon juice, and tarragon into the butter. Cook the chicken breasts in the butter mixture until evenly browned, 3 to 5 minutes per side. Add the olives to the pan.",
+        "Transfer the pan to the preheated oven and bake until the chicken is no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F727130.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "2 tablespoons minced garlic",
+        "1 large lemon, juiced",
+        "\u00bd teaspoon dried tarragon",
+        "4  boneless, skinless chicken breasts",
+        "20  pitted green olives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Breasts with Olives",
     "url": "http://allrecipes.com/recipe/200957/chicken-breasts-with-olives/"
 }

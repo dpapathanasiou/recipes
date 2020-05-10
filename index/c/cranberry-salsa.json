@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cranberries in a blender; pulse until smooth; scrape into a bowl. Stir the lime juice, honey, tequila, Triple Sec, jalapeno peppers, and cilantro into the cranberries; cover and refrigerate overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/299069.jpg",
+    "ingredients": [
+        "2 cups frozen cranberries, thawed",
+        "2 tablespoons fresh lime juice",
+        "6 tablespoons honey",
+        "1 1/2 tablespoons tequila",
+        "1 1/2 tablespoons Triple Sec or other orange liqueur",
+        "4 fresh jalapeno peppers, seeded and minced",
+        "1/4 cup chopped cilantro leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy Cranberry Salsa",
     "url": "http://allrecipes.com/recipe/79447/cranberry-salsa/"
 }

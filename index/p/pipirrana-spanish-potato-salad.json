@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place egg in a saucepan, and cover with cold water. Bring water to a boil, and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, and peel. Cut eggs into quarters, and set aside.",
+        "Meanwhile, bring a large pot of salted water to a boil.  Add potatoes, and cook until tender but still firm, about 15 minutes. Drain, and transfer to a large bowl.",
+        "Toss potatoes with eggs, bell peppers, onion, tomato, tuna, green olives, olive oil, and vinegar. Season to taste with salt.  Refrigerate, and serve cold"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1632&h=854&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F841945.jpg",
+    "ingredients": [
+        "6  eggs",
+        "6  potatoes, peeled and cubed",
+        "1  green bell pepper, seeded and diced",
+        "1  red bell pepper, seeded and diced",
+        "\u00bd  onion, chopped",
+        "1 large fresh tomato, chopped",
+        "1 (5 ounce) can tuna, drained",
+        "\u00bd cup green olives with pimento or anchovy, halved",
+        "\u00bc cup extra virgin olive oil",
+        "2 tablespoons distilled white vinegar",
+        "1 teaspoon salt, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pipirrana (Spanish Potato Salad)",
     "url": "http://allrecipes.com/recipe/56624/pipirrana-spanish-potato-salad/"
 }

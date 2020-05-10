@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together corn, beans, onion, red pepper, and sugar. Stir in rice wine vinegar, and season with salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7219560.jpg",
+    "ingredients": [
+        "2 (10 ounce) cans sweet white corn",
+        "1 (14.5 ounce) can black beans",
+        "\u00bd  red onion, chopped",
+        "1  red pepper, chopped",
+        "\u00bd cup sugar",
+        "\u00bd cup rice wine vinegar",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Super Summer Salsa",
     "url": "http://allrecipes.com/recipe/87851/super-summer-salsa/"
 }

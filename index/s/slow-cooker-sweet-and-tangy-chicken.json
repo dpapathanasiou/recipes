@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together barbecue sauce, pineapple with juice, green bell pepper, onion, and garlic.",
+        "Arrange 4 of the chicken breasts in the bottom of a slow cooker. Pour half of the barbecue sauce over the chicken. Place remaining chicken in slow cooker, and pour remaining sauce over the top.",
+        "Cover, and cook on Low for 8 to 9 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=640&h=335&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F310317.jpg",
+    "ingredients": [
+        "2 (18 ounce) bottles barbeque sauce",
+        "1 (15 ounce) can pineapple chunks",
+        "1  green bell pepper, chopped",
+        "1  onion, chopped",
+        "2 cloves garlic, minced",
+        "8  boneless, skinless chicken breast halves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Sweet and Tangy Chicken",
     "url": "http://allrecipes.com/recipe/17025/slow-cooker-sweet-and-tangy-chicken/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon oil in a large skillet over medium heat. Saute bell pepper and onion until tender, then stir in shrimp, bean sprouts, water chestnuts and 1 tablespoon soy sauce. Heat through, then remove skillet from heat and set aside.",
+        "Heat 1 tablespoon oil in a second large skillet. In a medium bowl, beat eggs until thick and lemon colored, about 5 minutes. Stir in vegetable mixture, then pour mixture into heated skillet, forming patties about 5 inches in diameter. Fry until browned, then turn and fry on other side until browned. Drain, place on an oven-safe platter and keep warm in oven until read to serve.",
+        "To Make Hot Soy Sauce: In a small bowl combine the cornstarch, water, bouillon and 2 tablespoons soy sauce and beat together. Serve with warm patties."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/681163.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 green bell pepper, chopped",
+        "1 onion, chopped",
+        "1 cup cooked shrimp - peeled, deveined and chopped",
+        "1 cup fresh bean sprouts",
+        "1 (5 ounce) can water chestnuts, drained and sliced",
+        "3 tablespoons soy sauce",
+        "5 eggs",
+        "1 tablespoon vegetable oil",
+        "2 tablespoons cornstarch",
+        "1/4 cup cold water",
+        "2 cups chicken broth",
+        "2 tablespoons soy sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Egg Foo Yung I",
     "url": "http://allrecipes.com/recipe/21407/egg-foo-yung-i/"
 }

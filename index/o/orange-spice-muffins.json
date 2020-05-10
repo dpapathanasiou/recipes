@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, beat brown sugar and softened butter until light and fluffy. Add egg, milk, orange juice, and grated orange rind. Mix well. Stir in buttermilk baking mix and mincemeat until moist.",
+        "Fill greased muffin cups 3/4. Sprinkle with cinnamon and sugar mixture.",
+        "Bake in a preheated 375 degree F(190 degrees C) oven for 18 minutes. Remove immediately from muffin pan."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u2153 cup packed brown sugar",
+        "\u00bc cup margarine, softened",
+        "1  egg, beaten",
+        "\u00be cup milk",
+        "\u00bd cup orange juice",
+        "1 tablespoon orange zest",
+        "3 cups buttermilk baking mix",
+        "1 (9 ounce) package condensed mincemeat",
+        "3 tablespoons white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Spice Muffins",
     "url": "http://allrecipes.com/recipe/7221/orange-spice-muffins/"
 }

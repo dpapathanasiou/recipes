@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Butter a 2-quart casserole dish.",
+        "Toss pears with lemon juice in a bowl. Combine 1/2 cup light brown sugar, cornstarch, cinnamon, and cloves together in a separate bowl. Add sugar mixture to pear mixture; toss to coat. Transfer to the prepared casserole dish. Sprinkle pear mixture with Cheddar cheese.",
+        "Combine flour and 1/2 cup light brown sugar in a food processor; pulse to mix. Cut butter into flour mixture until crumb consistency. Sprinkle topping over Cheddar cheese layer.",
+        "Bake in the preheated oven until top is golden brown, about 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F948487.jpg",
+    "ingredients": [
+        "6 cups peeled and sliced Bosc pears",
+        "1 tablespoon fresh lemon juice",
+        "\u00bd cup light brown sugar, packed",
+        "3 tablespoons cornstarch",
+        "\u00be teaspoon ground cinnamon",
+        "\u215b teaspoon ground cloves",
+        "\u00bd cup shredded sharp Cheddar cheese",
+        "\u00bd cup all-purpose flour",
+        "\u00bd cup light brown sugar, packed",
+        "\u00bc cup unsalted butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pear and Cheddar Crisp",
     "url": "http://allrecipes.com/recipe/229228/pear-and-cheddar-crisp/"
 }

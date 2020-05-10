@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In bowl, combine bread crumbs, butter, egg, and corn.  Mix until it is a stiff stuffing.  Cut parallel into each chop to create a pocket.  Stuff each pork chop with stuffing mix.  Place chops in a cooking dish and then pour mushroom soup over top.  Bake for about 45 minutes or until chops are cooked all the way through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F159026.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups dry bread crumbs",
+        "2 tablespoons butter",
+        "1  egg, beaten",
+        "2 cups whole kernel corn",
+        "4  pork chops butterfly cut",
+        "1 (10.75 ounce) can condensed cream of mushroom soup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Pork Chops II",
     "url": "http://allrecipes.com/recipe/21859/stuffed-pork-chops-ii/"
 }

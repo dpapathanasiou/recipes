@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cucumber, nectarine, lemon slices, lemon juice, lime slices, lime juice, ginger, and melissa leaves in a large pitcher; mash gently with a wooden spoon. Pour in water, stir, and refrigerate until flavors blend, 2 hours to overnight. Strain; serve over ice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3341940.jpg",
+    "ingredients": [
+        "1/2 small cucumber, sliced thin",
+        "1/2 nectarine, pitted and chopped",
+        "1/2 lemon, sliced",
+        "1/2 lemon, juiced",
+        "1/2 lime, sliced",
+        "1/2 lime, juiced",
+        "4 slices ginger root, peeled, or more to taste",
+        "10 melissa leaves (lemon balm), or more to taste",
+        "2 quarts water",
+        "1 drop liquid stevia, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Flavored Water",
     "url": "http://allrecipes.com/recipe/246155/flavored-water/"
 }

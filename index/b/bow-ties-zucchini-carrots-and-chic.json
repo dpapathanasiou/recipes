@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a skillet over medium heat, and cook 4 cloves garlic 1 minute, until golden brown. Place zucchini in the skillet, season with salt and pepper, and cook until tender. Set aside. Place chicken in the skillet, and cook 10 minutes, or until juices run clear.",
+        "Place the carrots in a pot with enough water to cover, and bring to a boil. Cook until tender, drain, and set aside.",
+        "Bring a large pot of lightly salted water to a boil. Add farfalle pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "Melt the butter in the skillet over medium heat, and cook the remaining garlic until golden brown. Pour in the chicken broth and water, and stir in bouillon granules until dissolved. Gradually stir in Parmesan cheese. Mix in zucchini, chicken, and carrot, and continue cooking until heated through. Gently toss with pasta to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/21848.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "12 cloves garlic, pressed and divided",
+        "4 zucchini, thinly sliced",
+        "salt and pepper to taste",
+        "1 1/4 pounds skinless, boneless chicken breast halves - cut into bite-size pieces",
+        "1 pound carrots, peeled and thinly sliced",
+        "1 (16 ounce) package uncooked farfalle (bow tie) pasta",
+        "1/4 cup butter",
+        "1 (14 ounce) can chicken broth",
+        "3/4 cup water",
+        "1 (.18 ounce) packet chicken bouillon granules",
+        "1/2 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bow Ties, Zucchini, Carrots, and Chicken",
     "url": "http://allrecipes.com/recipe/82214/bow-ties-zucchini-carrots-and-chic/"
 }

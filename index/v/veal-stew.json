@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In large saucepan, heat olive oil and brown veal.  Add onions, green, red and yellow peppers,  mushrooms, bay leaf and wine.  Bring mixture to a boil, reduce heat, cover and simmer for two hours, stirring occasionally.  Season with salt and pepper and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1997904.jpg",
+    "ingredients": [
+        "1 pound veal, trimmed and cubed",
+        "1 tablespoon olive oil",
+        "1 onions, quartered",
+        "1 green bell pepper, chopped",
+        "1 red bell pepper, chopped",
+        "1 yellow bell pepper, chopped",
+        "3/4 cup fresh sliced mushrooms",
+        "1 bay leaf",
+        "2 cups dry white wine",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spring Veal Stew",
     "url": "http://allrecipes.com/recipe/13305/veal-stew/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease a two pint heat proof bowl or basin.",
+        "In large bowl, cream together margarine and sugar.  Add, a little at a time, beaten eggs, vanilla and flour, until well mixed.  Fold in milk to make a smooth consistency.",
+        "Pour syrup in bottom of prepared basin and layer batter over the top.  Cover basin with firmly tied parchment paper covered with foil.  Line a roasting pan with a damp kitchen towel.  Place basin on towel, inside roasting pan, and place roasting pan on oven rack.  Fill roasting pan with boiling water to reach halfway up the sides of the basin.",
+        "Steam in the oven for 1 to 1 1/2 hours, or until pudding springs back when touched.  Invert onto serving plate and serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2639395.jpg",
+    "ingredients": [
+        "1/2 cup margarine",
+        "1/2 cup white sugar",
+        "2 eggs, beaten",
+        "1/4 teaspoon vanilla extract",
+        "1 3/8 cups self-rising flour",
+        "2 tablespoons milk",
+        "4 tablespoons golden syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Syrup Sponge Pudding",
     "url": "http://allrecipes.com/recipe/18979/syrup-sponge-pudding/"
 }

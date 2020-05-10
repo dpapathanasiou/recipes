@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss eggplant with salt and place in a colander set over a bowl. Let sit, about 30 minutes. Rinse and pat dry.",
+        "Heat 2 tablespoons olive oil in a large skillet over medium heat. Add celery; cook, stirring often, until softened, about 4 minutes. Add onion and garlic; cook and stir until onion is soft and lightly golden, about 5 minutes. Transfer mixture to a bowl using a slotted spoon.",
+        "Heat remaining 2 tablespoons olive oil in the skillet. Add eggplant and cook, stirring constantly, until lightly browned, 5 to 7 minutes. Stir in celery mixture, tomatoes, olives, capers, tomato paste, and oregano. Bring to a boil; reduce heat to low and simmer uncovered until caponata is thickened, about 15 minutes.",
+        "Season caponata with vinegar, sugar, salt, and black pepper. Transfer to a serving bowl and garnish with parsley."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5695752.jpg",
+    "ingredients": [
+        "1  eggplant, peeled and cut into 1/2-inch cubes",
+        "salt to taste",
+        "\u00bc cup olive oil, divided",
+        "1 cup finely chopped celery",
+        "1  onion, finely chopped",
+        "1 clove garlic, minced",
+        "1\u2009\u00bd cups canned plum tomatoes, drained and coarsely chopped",
+        "12  green olives, pitted and coarsely chopped",
+        "1\u2009\u00bd tablespoons drained capers",
+        "1 tablespoon tomato paste",
+        "1 teaspoon minced oregano",
+        "2 tablespoons red wine vinegar",
+        "2 teaspoons white sugar",
+        "1 teaspoon salt",
+        "ground black pepper to taste",
+        "2 teaspoons minced fresh parsley, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggplant Caponata (Sicilian Version)",
     "url": "http://allrecipes.com/recipe/247268/eggplant-caponata-sicilian-version/"
 }

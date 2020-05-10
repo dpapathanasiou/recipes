@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "To Marinate: Combine lemon juice and salt and pepper to taste in a nonporous glass dish or bowl. Mix together and add drumsticks; turn to coat. Cover dish and refrigerate for about 1 hour.",
+        "Place flour in a shallow dish or bowl and season with 1 teaspoon salt, 1 teaspoon pepper, garlic powder and chile powder. Place beaten egg whites in a separate glass dish or bowl; dredge marinated drumsticks in egg whites, then in seasoned flour. Refrigerate for another 30 minutes.",
+        "To Make Sauce: Heat 1 tablespoon oil in a large skillet over medium heat. Saute garlic until fragrant, then stir in tomato sauce and chile sauce. Season with salt and pepper to taste, sugar and Worcestershire sauce and bring to a boil. Add water, then stir in cornstarch and cook until thickened. Sprinkle in parsley and remove sauce from heat; set aside.",
+        "Heat 2 quarts oil in a large deep fryer and fry drumsticks one by one; hold drumstick by stick/handle at first and immerse other half in oil to let the chicken 'bloom', then fry the whole thing until cooked through and golden brown. Transfer chicken pieces to paper towelling with a slotted spoon as they are fried, until complete. Finish draining, garnish with parsley sprigs, and serve with reserved sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4464299.jpg",
+    "ingredients": [
+        "20  chicken drumsticks",
+        "2 tablespoons fresh lemon juice",
+        "salt and pepper to taste",
+        "1\u2009\u00bd cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon chili powder",
+        "2  egg whites, slightly beaten",
+        "1 tablespoon vegetable oil",
+        "2 cloves garlic, chopped",
+        "4 tablespoons tomato sauce",
+        "4 tablespoons chile sauce",
+        "salt and pepper to taste",
+        "1 teaspoon white sugar",
+        "1 tablespoon Worcestershire sauce",
+        "1 cup water",
+        "1 tablespoon cornstarch",
+        "1 tablespoon chopped fresh parsley",
+        "2 quarts vegetable oil for deep-frying",
+        "5 sprigs fresh parsley, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fabulous Chicken Roses",
     "url": "http://allrecipes.com/recipe/19131/fabulous-chicken-roses/"
 }

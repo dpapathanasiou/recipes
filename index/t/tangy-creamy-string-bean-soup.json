@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir the flour and 1/4 cup of the milk together in a saucepan until no lumps remain. Stir in the remaining milk and sour cream. Bring to a simmer over medium-high heat, then reduce heat to medium-low, and simmer for 15 minutes. Add the green beans, and cook until tender, about 5 minutes. Stir in the vinegar, and season to taste with salt before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "3 tablespoons flour",
+        "2\u2009\u00bd cups milk",
+        "1 cup sour cream",
+        "1 pound fresh green beans, trimmed",
+        "salt to taste",
+        "\u00bc cup white wine vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy, Creamy String Bean Soup",
     "url": "http://allrecipes.com/recipe/145646/tangy-creamy-string-bean-soup/"
 }

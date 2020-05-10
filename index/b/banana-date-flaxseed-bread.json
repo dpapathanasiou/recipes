@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x4 inch loaf pan. Use an electric coffee grinder or food processor to grind 1/2 cup flax seed; set aside.",
+        "In a large mixing bowl, beat together banana, oil, sugar and eggs. In a separate bowl, mix together flour, baking powder, baking soda, salt, ground flax seed and 1/4 cup whole flax seed. Gradually stir flour mixture into banana mixture. Fold in dates. Spoon batter into prepared loaf pan.",
+        "Bake in preheated oven for 55 to 60 minutes, or until a toothpick inserted into the loaf comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F20446.jpg",
+    "ingredients": [
+        "\u00bd cup flax seed",
+        "3  bananas, mashed",
+        "\u00bc cup vegetable oil",
+        "\u00bd cup white sugar",
+        "2  eggs",
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd teaspoon baking powder",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "\u00bc cup flax seed",
+        "\u00bd cup chopped pitted dates"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana Date Flaxseed Bread",
     "url": "http://allrecipes.com/recipe/21619/banana-date-flaxseed-bread/"
 }

@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir salt into water in a large pot and add potatoes; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and cool. Slice potatoes and place in a large bowl.",
+        "Cook and stir yellow onion, bacon, celery, and pepper rings in a skillet until bacon is browned and celery begins to soften, about 10 minutes.",
+        "Mix mayonnaise, Dijon mustard, horseradish, pepper juice, lemon juice, and Creole seasoning together in a bowl until well blended.",
+        "Add bacon mixture and dressing to potatoes; stir to combine. Refrigerate for 30 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/970178.jpg",
+    "ingredients": [
+        "1/4 teaspoon salt",
+        "4 cups water, or enough to cover",
+        "1 pound red potatoes, scrubbed and cut into quarters",
+        "1/2 yellow onion, diced",
+        "2 slices thick-cut bacon, cut into 1-inch squares",
+        "2 stalks celery, diced",
+        "1/4 cup mild yellow pepper rings, drained",
+        "1/2 cup mayonnaise",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon prepared horseradish",
+        "2 tablespoons juice from yellow pepper rings",
+        "1/2 teaspoon lemon juice",
+        "Creole seasoning (such as Tony Chachere's\u00ae), or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Benno's Bacon Potato Salad",
     "url": "http://allrecipes.com/recipe/228347/bennos-bacon-potato-salad/"
 }

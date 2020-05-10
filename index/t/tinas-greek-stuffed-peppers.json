@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a pot of lightly salted water to a boil over high heat. Cook the orzo in the boiling water uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain.",
+        "Heat 2 tablespoons olive oil in a large skillet over medium high heat; cook and stir the onion and garlic in the hot oil until fragrant, about 1 minute. Crumble the ground lamb into the mixture; season with the oregano, basil, and salt and pepper. Continue cooking until the lamb is completely browned, 7 to 10 minutes. Remove from heat. Stir the orzo, spinach, tomatoes, tomato paste, and feta cheese into the lamb mixture until evenly incorporated.",
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Evenly rub the outside of the bell peppers and the tops with 2 tablespoons olive oil. Season with salt and pepper. Arrange in a baking dish large enough to accommodate all of them standing upright. Fill the peppers with the lamb mixture and replace the tops.",
+        "Bake in the preheated oven until the peppers begin to brown, 30 to 40 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3008&h=1575&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1103876.jpg",
+    "ingredients": [
+        "\u00bd pound orzo pasta",
+        "2 tablespoons olive oil",
+        "1  yellow onion, chopped",
+        "2 large cloves garlic, chopped",
+        "1\u2009\u00bd pounds ground lamb",
+        "4\u2009\u00bd teaspoons dried oregano",
+        "1 tablespoon dried basil",
+        "salt and pepper to taste",
+        "1 (16 ounce) package frozen chopped spinach, thawed and drained",
+        "2  tomatoes, diced",
+        "1 (6 ounce) can tomato paste",
+        "8 ounces crumbled feta cheese",
+        "6 large green or red bell peppers - tops removed and seeded",
+        "olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tina's Greek Stuffed Peppers",
     "url": "http://allrecipes.com/recipe/195942/tinas-greek-stuffed-peppers/"
 }

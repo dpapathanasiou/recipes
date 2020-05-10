@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix eggs, milk, salt, and nutmeg together with a fork, until the whole mixture is pale yellow.  Pour this into a low, flat pan or a large, shallow dish.",
+        "If you are using English muffins, cut them in half so that you have six halves.  Let the halves or the slices of bread soak on each side in the egg mixture. Spread a layer of granulated sugar on a plate, and dip both sides of the bread in sugar.",
+        "Heat a griddle or skillet over medium heat. Put about half a tablespoon of butter in the pan, and let it melt.  Place two muffin halves or slices of bread in the pan. Cook for 2 to 3 minutes on each side. Wipe old butter out of pan, and repeat with remaining slices of bread."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/721481.jpg",
+    "ingredients": [
+        "2 eggs",
+        "1/2 cup milk",
+        "1/4 teaspoon salt",
+        "1/2 teaspoon ground nutmeg",
+        "6 slices raisin bread",
+        "2 tablespoons butter",
+        "1 cup white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Snow Day French Toast",
     "url": "http://allrecipes.com/recipe/7017/snow-day-french-toast/"
 }

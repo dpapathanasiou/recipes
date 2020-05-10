@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat your oven's broiler.",
+        "Open pita rounds, and spread generously with cream cheese on the inside. Replace tops, and use a pizza cutter to slice into 1 inch wide strips. Cut the long strips in half crosswise. Roll up each piece, and wrap with half of a strip of bacon. Secure with toothpicks, and place close together on a baking sheet.",
+        "Broil for 10 minutes in the preheated oven, or until the bacon is cooked through. Use a spatula to remove them to a napkin lined bowl or platter. Remove toothpicks before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F108834.jpg",
+    "ingredients": [
+        "16 slices bacon, cut in half",
+        "2 (8 ounce) packages cream cheese",
+        "1 (10 ounce) package pita bread rounds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon Roll-Ups",
     "url": "http://allrecipes.com/recipe/56738/bacon-roll-ups/"
 }

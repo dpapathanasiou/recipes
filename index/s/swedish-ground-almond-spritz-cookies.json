@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Spread the almonds out on a baking sheet. Bake in the preheated oven for 10 to 15 minutes, until lightly browned or until they give off an aroma. Remove from the oven, and allow to cool completely. Grind to a consistency resembling rough sand in a food processor or blender. Be sure almonds are cool, or you will make almond butter.",
+        "In a medium bowl, cream together the butter and sugar until light and fluffy. Beat in the egg, then stir in the almond extract and milk. Sift in the flour, baking powder and salt, and mix in along with the ground toasted almonds to form a soft dough. Refrigerate the dough for 15 to 20 minutes. This will help the cookies keep their shape after pressing.",
+        "Lightly grease cookie sheets, and fill cookie press with dough. Press out cookies at least 1 inch apart depending on the size. You can experiment with different cookie designs.  I've found most true Swedes tend to use the star shape, however, you're free to use whatever shape suits your fancy.",
+        "Bake for 8 to 10 minutes in the preheated oven, until cookies are lightly browned. Cool on the cookie sheets for a minute before transferring to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F228875.jpg",
+    "ingredients": [
+        "\u00be cup blanched slivered almonds",
+        "1 cup butter, softened",
+        "1 cup sugar",
+        "1  egg",
+        "1 teaspoon almond extract",
+        "1 tablespoon milk",
+        "2 cups all-purpose flour",
+        "\u215b teaspoon baking powder",
+        "\u00bc teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Ground Almond Spritz Cookies",
     "url": "http://allrecipes.com/recipe/50859/swedish-ground-almond-spritz-cookies/"
 }

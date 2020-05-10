@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In heavy saucepan, heat sweetened condensed milk and peanut butter over medium heat until just bubbly, stirring constantly. Remove from heat.  Stir in white chocolate until smooth.  Immediately stir in peanuts and vanilla.",
+        "Spread evenly into wax paper lined 8-or 9-inch square pan. Cool.  Cover and chill 2 hours or until firm.  Turn fudge onto cutting board; peel off paper. Sprinkle with additional chopped peanuts if desired.  Cut into squares.  Store leftovers covered in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4647514.jpg",
+    "ingredients": [
+        "1 (14 ounce) can EAGLE BRAND\u00ae Sweetened Condensed Milk",
+        "1/2 cup Jif\u00ae Creamy Peanut Butter",
+        "2 (6 ounce) packages white chocolate squares or white baking bars, chopped",
+        "3/4 cup chopped peanuts",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "EAGLE BRAND\u00ae Peanut Butter Fudge",
     "url": "http://allrecipes.com/recipe/91737/eagle-brand-peanut-butter-fudge/"
 }

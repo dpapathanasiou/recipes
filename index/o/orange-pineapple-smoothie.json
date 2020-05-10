@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine pineapple, orange juice concentrate with juice, rum, sugar, lime juice and ice cubes. Blend until smooth. Pour into glasses, garnish with cherries, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1838921.jpg",
+    "ingredients": [
+        "1 (8 ounce) can canned pineapple chunks, undrained",
+        "1 (6 ounce) can frozen orange juice concentrate",
+        "1 cup white rum",
+        "2 tablespoons sugar",
+        "1 tablespoon lime juice",
+        "1 tray ice",
+        "4 maraschino cherries, garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Pineapple Smoothie",
     "url": "http://allrecipes.com/recipe/32643/orange-pineapple-smoothie/"
 }

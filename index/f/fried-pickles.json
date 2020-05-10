@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cover a plate with parchment paper or wax paper. In a shallow dish, combine buttermilk, salt, and pepper. Place pickles in mixture and set aside.",
+        "Pour the flour, cornmeal, seafood seasoning, and 1/4 teaspoon Cajun seasoning  into a large, resealable plastic bag; shake to mix well. Add pickles a few at a time and tumble gently to coat evenly with the flour mixture. Remove and place on prepared plate.",
+        "Heat oil to 365 degrees F (180 degrees C) in deep-fryer or heavy deep skillet.",
+        "Fry pickles in several batches until golden brown and slightly crisp on the outside with a moist interior, 1 to 2  minutes. Drain on paper towels.",
+        "In a small bowl, combine buttermilk ranch dressing with 1/2 teaspoon Cajun seasoning; blend. Serve as a dipping sauce for warm pickles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F260748.jpg",
+    "ingredients": [
+        "\u00bd cup buttermilk",
+        "salt and black pepper to taste",
+        "1 (16 ounce) jar dill pickle slices",
+        "\u00bd cup all-purpose flour",
+        "1\u2009\u00bd cups fine cornmeal",
+        "1 teaspoon seafood seasoning, such as Old Bay\u2122",
+        "\u00bc teaspoon Cajun seasoning",
+        "1 quart oil for frying",
+        "\u00bd teaspoon Cajun seasoning",
+        "1 (12 ounce) jar buttermilk ranch dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Pickles",
     "url": "http://allrecipes.com/recipe/140931/fried-pickles/"
 }

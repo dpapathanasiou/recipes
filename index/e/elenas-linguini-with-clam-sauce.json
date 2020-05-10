@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Stir in the linguine, and return to a boil. Cook, uncovered, stirring occasionally, until the pasta is cooked through but still firm to the bite, about 11 minutes. Drain; return to the pot to keep warm.",
+        "Meanwhile, melt the butter with olive oil in a large skillet over medium heat. Cook and stir the garlic, minced clams, and chopped clams for 5 minutes. Add the reserved clam juice and cook for a few more minutes.",
+        "In a separate bowl, whisk the cornstarch with part of the bottled clam juice. Stir the cornstarch mixture into the skillet. Adjust the thickness of the sauce, if needed, by whisking a little more cornstarch with more bottled clam juice, and adding to the sauce. Pour the remaining bottled clam juice into the skillet.",
+        "Stir in the mushroom pieces, grated zucchini, cayenne pepper, and salt. Cook over medium heat, stirring occasionally, until zucchini is tender, about 5 minutes. Stir in the parsley; remove from heat. Pour the clam sauce over the drained linguine. Mix well; serve with Parmesan cheese."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/505273.jpg",
+    "ingredients": [
+        "1 (16 ounce) package linguine pasta",
+        "1/2 cup butter",
+        "1/4 cup olive oil",
+        "1 tablespoon minced garlic, or to taste",
+        "2 (6.5 ounce) cans minced clams, drained with juice reserved",
+        "2 (6.5 ounce) cans chopped clams, drained with juice reserved",
+        "1 tablespoon cornstarch, or as needed",
+        "1 (8 ounce) bottle clam juice",
+        "2 (8 ounce) cans mushroom pieces, drained",
+        "2 zucchini, grated",
+        "2 teaspoons cayenne pepper, or to taste",
+        "salt to taste",
+        "1/2 bunch Italian flat leaf parsley, chopped",
+        "1/4 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Elena's Linguini with Clam Sauce",
     "url": "http://allrecipes.com/recipe/202519/elenas-linguini-with-clam-sauce/"
 }

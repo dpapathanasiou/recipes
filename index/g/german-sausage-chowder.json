@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the bouillon cubes, onion, potatoes, and cabbage into a large soup pot. Pour in enough water to cover the vegetables by about 1 inch. Bring to a boil, then simmer over medium heat for 15 minutes. Add the sausage, and cook for an additional 20 minutes. Reduce heat to low, and stir in cheese and evaporated milk. Cook just until heated through and cheese is melted - do not allow the soup to boil. Remove from heat, and serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6648425.jpg",
+    "ingredients": [
+        "3 cubes chicken bouillon",
+        "5 medium potatoes, cubed",
+        "1 (16 ounce) package kielbasa sausage, sliced",
+        "1  onion, diced",
+        "1 small head cabbage, cored and sliced",
+        "1 (12 fluid ounce) can evaporated milk",
+        "1 pound Swiss cheese, shredded",
+        "1 pinch salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "German Sausage Chowder",
     "url": "http://allrecipes.com/recipe/69486/german-sausage-chowder/"
 }

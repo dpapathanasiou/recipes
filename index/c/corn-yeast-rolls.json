@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ingredients in bread machine pan in the order suggested by the manufacturer. Select dough cycle. Start. Add water if needed while the dough is mixing.",
+        "Once cycle is complete, shape dough into 8 to 10 balls. Arrange in a greased 9 inch pie pan. Allow to rise in a warm spot until doubled in size.",
+        "Bake in a preheated 400 degree F (205 degree C) oven for about 45 minutes, or until the rolls begin to brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6285326.jpg",
+    "ingredients": [
+        "\u2154 cup milk",
+        "2 tablespoons vegetable oil",
+        "2 tablespoons margarine, melted",
+        "1  egg",
+        "\u00bd cup cornmeal",
+        "1 teaspoon salt",
+        "2 tablespoons white sugar",
+        "3 cups all-purpose flour",
+        "1 tablespoon active dry yeast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn Yeast Rolls",
     "url": "http://allrecipes.com/recipe/7233/corn-yeast-rolls/"
 }

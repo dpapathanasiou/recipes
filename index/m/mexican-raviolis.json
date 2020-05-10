@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Add chorizo to a hot skillet set over medium heat; cook, stirring, until cooked through. Set aside to cool.",
+        "In a large bowl, stir together ricotta, queso asadero, cilantro, garlic, cumin, and salt.",
+        "Place chorizo in a blender or food processor, and pulse until finely ground. Pour combined ingredients into blender, and pulse until well blended.",
+        "Place a teaspoonful of filling on a wonton wrapper. Dip a finger in water, and wet the top half edge of the wrapper. Fold in half, and pinch the edges to seal. Set aside, and continue filling and sealing the remaining wrappers.",
+        "Add oil and about 1 tablespoon salt to a pot of boiling water. Gently place raviolis into water, and cook until raviolis float to the top, about 6 minutes. Remove to plates with a slotted spoon, and serve topped with marinara sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2731&h=1430&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F997697.jpg",
+    "ingredients": [
+        "2  links chorizo sausage, cut into small pieces",
+        "\u00bd cup part-skim ricotta cheese",
+        "1 cup shredded queso asadero (white Mexican cheese)",
+        "\u00bd cup chopped cilantro",
+        "1 clove garlic, finely minced",
+        "\u00bd teaspoon cumin",
+        "1 teaspoon salt",
+        "1 (14 ounce) package round wonton wrappers",
+        "1 teaspoon olive oil",
+        "1 tablespoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Raviolis",
     "url": "http://allrecipes.com/recipe/85847/mexican-raviolis/"
 }

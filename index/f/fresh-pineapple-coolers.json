@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine pineapple chunks, pineapple juice and coconut extract. Puree until smooth. Then, with the blender running, drop ice cubes one at a time into the opening in the lid of the blender. Make sure each cube is crushed before adding the next. Blend to desired texture. Serve in tall glasses."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/738154.jpg",
+    "ingredients": [
+        "1/2 fresh pineapple - peeled, cored, and cut into chunks",
+        "2 cups pineapple juice",
+        "1/4 teaspoon coconut extract",
+        "10 cubes ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Pineapple Coolers",
     "url": "http://allrecipes.com/recipe/32546/fresh-pineapple-coolers/"
 }

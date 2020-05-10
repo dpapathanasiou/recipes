@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour vinegar and wine into a glass bowl. Whisk in salt, sugar, and pepper until the sugar has dissolved. Slowly pour the olive oil into the bowl while whisking rapidly to blend together. Stir in garlic, thyme, marjoram, basil, and tarragon; fold in shallots and tomatoes. Store in the refrigerator until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/970205.jpg",
+    "ingredients": [
+        "1/4 cup red wine vinegar",
+        "2 tablespoons Burgundy wine (optional)",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon white sugar",
+        "1/2 teaspoon black pepper",
+        "1 cup olive oil",
+        "2 teaspoons minced garlic",
+        "1 tablespoon chopped fresh thyme",
+        "1 tablespoon chopped fresh marjoram",
+        "1 tablespoon chopped fresh basil",
+        "1 tablespoon chopped fresh tarragon",
+        "3 shallots, minced",
+        "1 cup diced tomatoes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato-Herb Vinaigrette",
     "url": "http://allrecipes.com/recipe/139974/tomato-herb-vinaigrette/"
 }

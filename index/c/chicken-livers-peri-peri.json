@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken livers in a large bowl, and pour in 3 tablespoons olive oil, vinegar, and lemon juice; season with garlic, cumin, coriander, chili flakes, bay leaves, salt, and pepper. Stir together, and refrigerate for 1 to 2 hours.",
+        "Remove livers to a bowl, and reserve marinade.",
+        "Heat  1 tablespoon olive oil and butter in a large skillet over medium heat. Stir in onion, and cook until tender, about 7 minutes. Increase heat to medium-high, and stir in chicken livers; cook for 2 minutes, being careful not to overcook the livers. Stir in the tomato paste, Worcestershire sauce, chicken stock, and the reserved marinade. Simmer gently for 5 minutes. Pour in brandy, and heat through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F103813.jpg",
+    "ingredients": [
+        "1 pound chicken livers, trimmed and cut into bite-size pieces",
+        "3 tablespoons olive oil",
+        "3 tablespoons red wine vinegar",
+        "1 tablespoon fresh lemon juice",
+        "2 cloves garlic, crushed",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "2 teaspoons crushed red pepper flakes",
+        "2  bay leaves",
+        "1 pinch salt and freshly ground black pepper to taste",
+        "1 tablespoon olive oil",
+        "1 tablespoon butter",
+        "1 medium onion, chopped",
+        "1 tablespoon tomato paste",
+        "1 tablespoon Worcestershire sauce",
+        "\u00bd cup chicken stock",
+        "1 tablespoon brandy"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Livers Peri Peri",
     "url": "http://allrecipes.com/recipe/78502/chicken-livers-peri-peri/"
 }

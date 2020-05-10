@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the sour cream and chive dip, sour cream, and cream cheese together in a large bowl.",
+        "Fold the green onion, dried beef, and Cheddar cheese into the cream cheese mixture.",
+        "Cover dip with plastic wrap and refrigerate until set, at least 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2828&h=1481&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2512073.jpg",
+    "ingredients": [
+        "1 (16 ounce) container sour cream and chive dip",
+        "1 (16 ounce) container sour cream",
+        "2 (8 ounce) packages cream cheese, softened",
+        "\u00bc cup chopped green onion, or more to taste",
+        "1 (2 ounce) package dried beef, cut into squares",
+        "1 (8 ounce) package shredded mild Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dad's Beef and Chive Dip",
     "url": "http://allrecipes.com/recipe/220188/dads-beef-and-chive-dip/"
 }

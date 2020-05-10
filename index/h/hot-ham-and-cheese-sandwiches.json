@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 250 degrees F (120 degrees C).",
+        "Combine butter, mustard, onions, poppy seeds and dill seed. Spread insides of buns with this mixture. Place a slice of cheese and a slice of ham inside each bun.",
+        "Wrap buns in foil and place in preheated oven. Bake for 15 to 20 minutes, until cheese has melted."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bc cup butter, softened",
+        "2 tablespoons prepared horseradish mustard",
+        "2 tablespoons chopped onions",
+        "1 teaspoon poppy seeds",
+        "1 teaspoon dill seed",
+        "8 slices Swiss cheese",
+        "8 slices cooked ham",
+        "8  hamburger buns"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot Ham and Cheese Sandwiches",
     "url": "http://allrecipes.com/recipe/24535/hot-ham-and-cheese-sandwiches/"
 }

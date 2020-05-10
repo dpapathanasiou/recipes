@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut slices of cucumber into thirds or quarters. Place on half of the Gluten Free Original Pretzel Crisps\u00ae Minis.",
+        "Spread or pipe cream cheese on top of cucumbers, then sprinkle with dill. Top with another mini to make itty bitty gluten free tea sandwiches."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1455&h=762&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4457779.jpg",
+    "ingredients": [
+        "24  Snack Factory\u00ae Gluten Free Original Pretzel Crisps\u00ae Minis",
+        "1  cucumber, sliced",
+        "1 (4 ounce) package cream cheese, softened, or more as needed",
+        "Dried dill"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumber Tea Sandwiches",
     "url": "http://allrecipes.com/recipe/256714/cucumber-tea-sandwiches/"
 }

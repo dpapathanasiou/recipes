@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente; drain.",
+        "Meanwhile, prepare the sauce. In a large pot or Dutch oven, cook ground beef and sausage over medium heat until brown; drain. Stir in tomato puree, tomato paste, sugar, 1 teaspoon salt, garlic, and 1 1/2 tablespoons parsley. Reduce heat, and simmer uncovered for 30 minutes.",
+        "In a bowl, stir together cottage cheese, eggs, pepper, Parmesan, 1 1/2 tablespoons parsley, and 1/2 teaspoon salt until blended.",
+        "Preheat oven to 350 degrees F (175 degrees C). In a 9x13 inch baking dish, layer a third each of the noodles, sliced mozzarella, cottage cheese mixture, and meat sauce. Repeat layers twice.",
+        "Bake lasagna in the preheated oven for 1 hour, or until hot and bubbly.  Let stand 15 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F426601.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "8 ounces Italian sausage, casings removed",
+        "1 (10.75 ounce) can tomato puree",
+        "2 (6 ounce) cans tomato paste",
+        "2 tablespoons white sugar",
+        "1 teaspoon salt",
+        "1 clove garlic, minced",
+        "1\u2009\u00bd tablespoons dried parsley",
+        "9  lasagna noodles",
+        "3 cups cottage cheese",
+        "2  eggs, beaten",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd cup grated Parmesan cheese",
+        "1\u2009\u00bd tablespoons dried parsley",
+        "\u00bd teaspoon salt",
+        "16 ounces sliced mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Donna's Lasagna",
     "url": "http://allrecipes.com/recipe/21545/donnas-lasagna/"
 }

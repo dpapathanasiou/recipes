@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour about 2 teaspoons oil from anchovy can into a skillet over medium heat; cook and stir onion in the hot anchovy oil until softened, about 5 minutes. Add anchovy fillets; cook and stir until fish dissolves, about 5 minutes.",
+        "Stir tomato paste into onion-anchovy mixture; add juice from canned salmon, water, pine nuts, raisins, salt, and black pepper. Cook and stir mixture until flavors have blended, about 15 minutes.",
+        "Bring a large pot of lightly salted water to a boil. Cook spaghettini in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain.",
+        "Mix salmon and saffron into onion-anchovy mixture; cook until salmon is heated through, about 15 more minutes. Serve salmon sauce over spaghettini."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (2 ounce) can anchovy fillets, undrained, or to taste",
+        "1 onion, chopped",
+        "1 teaspoon tomato paste",
+        "1 (7.5 ounce) can salmon, undrained, or more to taste",
+        "1/2 (7.5 ounce) can water",
+        "1/4 cup pine nuts, or to taste",
+        "1/4 cup raisins, or to taste",
+        "salt and ground black pepper to taste",
+        "1 pinch saffron",
+        "1 (16 ounce) package spaghettini"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sicilian Pasta Salmon Sauce",
     "url": "http://allrecipes.com/recipe/231976/sicilian-pasta-salmon-sauce/"
 }

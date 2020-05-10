@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk the mustard and vinegar together in a small bowl. Drizzle in the olive oil while whisking to create a dressing; set aside.",
+        "Place the apple, pear, cranberries, baby greens, blue cheese, and walnuts into a large salad bowl. Toss gently to mix, then pour on the dressing, and toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/136527.jpg",
+    "ingredients": [
+        "1 teaspoon stone-ground mustard",
+        "2 tablespoons balsamic vinegar",
+        "1/4 cup olive oil",
+        "1 apple, diced",
+        "1 pear, diced",
+        "1/4 cup dried cranberries",
+        "1 (10 ounce) package mixed baby greens",
+        "1/4 cup crumbled blue cheese",
+        "2 tablespoons chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple-Cranberry Salad",
     "url": "http://allrecipes.com/recipe/171402/apple-cranberry-salad/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease and flour a 10-inch bundt pan.",
+        "Beat butter and sugar together in a large bowl with an electric mixer until light and fluffy. Beat one egg at a time into the butter mixture; add lemon extract with last egg.",
+        "Sift together the flour, baking soda and salt. Alternately mix in the flour mixture and the yogurt, starting and ending with the dry ingredients. Beat just until incorporated.",
+        "Pour batter into prepared pan. Bake in the preheated oven for 60 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool 10 minutes in the pan, then turn out onto a wire rack and cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F337488.jpg",
+    "ingredients": [
+        "1 cup butter, room temperature",
+        "2 cups white sugar",
+        "3  eggs, room temperature",
+        "1 teaspoon lemon extract",
+        "2\u2009\u00bc cups all-purpose flour",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1 (8 ounce) container lemon flavored yogurt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yogurt Cake",
     "url": "http://allrecipes.com/recipe/17476/yogurt-cake/"
 }

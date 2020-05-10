@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Drink or pour out the beer to the level at which the neck widens, making room for the other ingredients. Pour in the gin and lemon juice. Secure the opening of the bottle using your thumb and gently rock the bottle to mix the ingredients. Drink and enjoy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1006234.jpg",
+    "ingredients": [
+        "1 (12 ounce) bottle Mexican beer",
+        "1/2 (1.5 fluid ounce) jigger full-flavored gin such as Tanqueray or Plymouth",
+        "3 tablespoons fresh lemon juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pompous Mexican",
     "url": "http://allrecipes.com/recipe/134020/pompous-mexican/"
 }

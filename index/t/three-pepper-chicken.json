@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a shallow dish or bowl, mix together cracker crumbs and seasoning. Put egg substitute in a separate dish or bowl. Dip each chicken breast in the egg substitute, then coat with cracker mixture. Set aside.",
+        "In a large skillet saute bell peppers, onion and garlic in butter or margarine over medium heat, until just crisp and tender. Remove pepper mixture from skillet and set aside, keeping warm.",
+        "In the same skillet, saute coated chicken breasts in remaining butter or margarine until browned on both sides. Remove browned chicken breasts from skillet and keep warm.",
+        "Combine the chicken broth and flour and mix together. Pour broth mixture into pan drippings and heat through until mixture thickens and begins to boil. Stir in bell pepper mixture and heat through, stirring together. If desired, serve by placing chicken breast on a bed of hot cooked pasta and pouring bell pepper mixture over the top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1012378.jpg",
+    "ingredients": [
+        "10  saltine crackers, crushed",
+        "\u00bd teaspoon Italian seasoning",
+        "2  skinless, boneless chicken breasts",
+        "\u00bc cup egg substitute",
+        "\u00bd cup julienned red bell pepper",
+        "\u00bd cup julienned yellow bell pepper",
+        "\u00bd cup julienned green bell pepper",
+        "1 small onion, cut into wedges",
+        "1 clove crushed garlic",
+        "1\u2009\u00bd tablespoons butter",
+        "\u00bd cup chicken broth",
+        "\u00bd tablespoon all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Three Pepper Chicken",
     "url": "http://allrecipes.com/recipe/9001/three-pepper-chicken/"
 }

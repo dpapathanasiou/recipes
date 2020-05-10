@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together chopped spinach, dry bread stuffing mix, eggs, Parmesan cheese, onion, butter and Cheddar cheese. Cover and chill in the refrigerator approximately 30 minutes.",
+        "Drop the mixture by rounded spoonfuls onto a lightly greased large baking sheet. Place baking sheet in the freezer approximately 1 hour.",
+        "When ready to bake, allow the balls to partially thaw, about 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a large baking sheet.",
+        "Bake the balls in the preheated oven 20 to 25 minutes, or until lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7344012.jpg",
+    "ingredients": [
+        "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "2 cups dry bread stuffing mix",
+        "3  eggs, beaten",
+        "\u00bc cup grated Parmesan cheese",
+        "\u00bd  onion, chopped",
+        "2 tablespoons melted butter",
+        "\u00bc cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spinach Appetizers",
     "url": "http://allrecipes.com/recipe/24726/spinach-appetizers/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Mix honey, mayonnaise, olive oil, mustard, and lemon juice together in a bowl.",
+        "Place each fish fillet on separate pieces of aluminum foil. Drizzle honey sauce over each fish fillet. Gently wrap the aluminum foil around each coated fish fillet, crimping the foil together over the top to seal into a packet.",
+        "Bake fillets in the preheated oven until fish flakes easily with a fork, about 13 minutes. Place one fish fillet on each serving plate and top with leftover sauce from foil packet."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4556279.jpg",
+    "ingredients": [
+        "1/4 cup honey",
+        "3 tablespoons mayonnaise",
+        "2 tablespoons olive oil",
+        "2 tablespoons whole-grain Dijon mustard",
+        "1 tablespoon lemon juice",
+        "4 (4 ounce) fillets swai fish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Dijon Basa Swai Fish (or a fish of your choice)",
     "url": "http://allrecipes.com/recipe/230384/sweet-dijon-basa-swai-fish-or-a-fish/"
 }

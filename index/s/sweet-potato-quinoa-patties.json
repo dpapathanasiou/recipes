@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large skillet over medium-low heat; cook and stir onion with a pinch of salt in hot oil until onion is translucent, 5 to 10 minutes. Add garlic; cook and stir until fragrant; about 1 minute. Stir in thyme and cook for about 30 seconds; transfer mixture to a large bowl.",
+        "Stir sweet potatoes, quinoa, sea salt, and black pepper together with onion mixture until well-combined. Divide mixture into golf-ball size balls and press into patties.",
+        "Heat coconut oil in a nonstick skillet over medium-high heat. Cook patties in hot oil until browned, about 2 minutes per side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5319389.jpg",
+    "ingredients": [
+        "1 tablespoon extra virgin olive oil",
+        "1  yellow onion, diced",
+        "3 cloves garlic, crushed",
+        "1 tablespoon chopped fresh thyme",
+        "2 cups mashed sweet potatoes",
+        "2 cups cooked quinoa",
+        "sea salt to taste",
+        "freshly cracked black pepper to taste",
+        "1 tablespoon coconut oil, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Potato Quinoa Patties",
     "url": "http://allrecipes.com/recipe/240139/sweet-potato-quinoa-patties/"
 }

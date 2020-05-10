@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 10 to 15 minutes. Drain.",
+        "Mix reserved liquid from salmon and enough milk to make a total of 2 cups together in a measuring cup or bowl.",
+        "Preheat oven to 375 degrees F (190 degrees C). Generously grease a casserole dish.",
+        "Melt butter in a saucepan over medium-low heat. Stir flour into melted butter and cook until dissolved, about 1 minute. Gradually add milk mixture to butter-flour mixture; cook, stirring constantly, until sauce is thickened and smooth, 5 to 10 minutes.",
+        "Layer potatoes, salmon, and sauce, alternating 1 or 2 times, into the prepared casserole dish.",
+        "Whisk mayonnaise, Parmesan cheese, Worcestershire sauce, and mustard together in a bowl; pour over casserole.",
+        "Bake in the preheated oven until casserole is bubbling, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/8056776.jpg",
+    "ingredients": [
+        "4 cups sliced potatoes",
+        "1 (16 ounce) can salmon, drained (liquid reserved) and salmon flaked",
+        "1 cup milk, or as needed",
+        "3 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "1/2 cup mayonnaise",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon prepared mustard"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salmon Casserole Surprise",
     "url": "http://allrecipes.com/recipe/236639/salmon-casserole-surprise/"
 }

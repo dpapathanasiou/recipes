@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place blackberries, sugar, water, butter, and cinnamon in a large saucepan. Cook and stir occasionally over medium heat until have started to break down and form a sauce, about 20 to 30 minutes.",
+        "Meanwhile, whisk together the flour and salt in a mixing bowl. Cut in the shortening with a knife or pastry blender until the mixture resembles coarse crumbs.  Stir the egg yolk into the crumbs. Add the milk a tablespoon at a time, tossing with a fork, until the flour mixture is moistened. Do not add more milk than you need: when you squeeze a handful of the moistened pastry mixture, it should form a ball. Divide the dough in half and shape into balls.",
+        "Roll one ball into a 1/4-inch thick round, like a pie crust. Using a floured knife cut lengthwise 2 to 3 inch wide strips of dough. Repeat with the second ball of dough.",
+        "Holding each strip of dough over the boiling blackberries pinch off 4-inch lengths and drop into the berries.  Repeat until all the dough has been used. Cook the dumplings over medium heat for 15 minutes. You may push the dumplings down into the juice but do not stir until they are fully cooked or they will clump together."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3759669.jpg",
+    "ingredients": [
+        "1 quart fresh blackberries",
+        "2 cups white sugar, or to taste",
+        "2 cups water",
+        "2 tablespoons butter",
+        "1 teaspoon cinnamon",
+        "2 cups flour",
+        "1 teaspoon salt",
+        "1/4 cup shortening",
+        "1 egg yolk",
+        "5 tablespoons milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Juanita's Blackberry Dumplings",
     "url": "http://allrecipes.com/recipe/215648/juanitas-blackberry-dumplings/"
 }

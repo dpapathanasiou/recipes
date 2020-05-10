@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a pot of water to a boil, and stir in the kale; boil for 1 minute, and remove from the water with a slotted spoon. Set the blanched kale aside.",
+        "Place bacon into a large skillet over medium heat, and cook until browned, stirring frequently, about 8 minutes. Stir in the onion, and cook until translucent, about 5 minutes. Stir in the blanched kale, and cook until kale is bright green and starting to turn tender, about 4 minutes. Pour in enough water to cover, and bring the mixture to a boil. Reduce heat to a simmer, and stir in the beef bouillon granules and nutmeg. Simmer the kale until tender, about 30 minutes.",
+        "Stir the mustard into the kale, and lay the ham slices and sausage links on top. Simmer the kale, ham, and sausages until the sausages are cooked through, about 35 more minutes. Season to taste with salt and black pepper before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1070962.jpg",
+    "ingredients": [
+        "1 pound kale, stemmed and chopped",
+        "3 slices bacon, chopped",
+        "1/2 onion, chopped",
+        "2 cups water, or as needed to cover",
+        "2 teaspoons beef bouillon granules",
+        "1/4 teaspoon ground nutmeg",
+        "1 tablespoon prepared mustard",
+        "1/2 pound thickly sliced cooked ham, or to taste",
+        "4 links kielbasa sausage",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "North German Gruenkohl (Kale) and Sausage",
     "url": "http://allrecipes.com/recipe/219645/north-german-gruenkohl-kale-and-sau/"
 }

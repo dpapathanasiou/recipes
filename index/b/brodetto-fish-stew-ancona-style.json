@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large saucepan, Dutch oven, or preferably a clay pot over medium heat. Add the onion, garlic, carrot, celery, bay leaves, parsley, and red pepper flakes. Cook and stir until the onion has softened and turned translucent, about 5 minutes.",
+        "Stir in the mashed tomatoes and cook for 15 minutes over medium heat. Add the fish. Pour in the vinegar or wine. Cook until the liquid has almost evaporated, about 10 minutes; pour in the fish stock. Cover, reduce the heat to low, and simmer for 10 minutes.",
+        "Gently mix in the clams. Cook until clams have opened (discard any that don't open) about 2 minutes, and then stir in the shrimp. Cook until the shrimp are pink, about 3 minutes.",
+        "Place a slice of toasted bread in the bottom of each bowl. Ladle brodetto over the bread and serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1485054.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "3 cloves garlic, finely chopped",
+        "1 carrot, chopped",
+        "2 celery ribs, chopped",
+        "2 bay leaves",
+        "1 cup chopped fresh parsley",
+        "red pepper flakes to taste",
+        "1 (28 ounce) can whole peeled tomatoes, mashed",
+        "1 1/2 pounds red snapper fillets, cut into 2 inch pieces",
+        "1/2 cup white vinegar",
+        "salt and ground black pepper to taste",
+        "3 cups fish stock",
+        "1 pound clams in shell, scrubbed",
+        "1/2 pound medium shrimp, with shells",
+        "6 (3/4 inch thick) slices Italian bread, toasted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brodetto (Fish Stew) Ancona-Style",
     "url": "http://allrecipes.com/recipe/216589/brodetto-fish-stew-ancona-style/"
 }

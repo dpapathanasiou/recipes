@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Mix the ground beef, ground turkey, zucchini, onions, green bell pepper, egg, Worcestershire sauce, Cheddar cheese, bread crumbs, and ranch dressing mix until well combined. Form the mixture into a loaf in the middle of the prepared baking dish.",
+        "Stir together the ketchup and steak sauce in a small bowl. Pour the sauce over the top of the meatloaf. Bake in the preheated oven until no longer pink in the center, about 1 hour. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2673&h=1399&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F808704.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 pound ground turkey",
+        "\u00be cup shredded zucchini",
+        "\u00bd cup diced onions",
+        "\u00bd  green bell pepper, diced",
+        "1  egg",
+        "1 teaspoon Worcestershire sauce",
+        "1 cup shredded Cheddar cheese",
+        "1 cup plain bread crumbs",
+        "1 (1 ounce) package ranch dressing mix",
+        "\u00bc cup ketchup",
+        "\u00bc cup steak sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zucchini Ranch Meatloaf",
     "url": "http://allrecipes.com/recipe/215766/zucchini-ranch-meatloaf/"
 }

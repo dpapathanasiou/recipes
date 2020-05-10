@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sausage, red bell pepper, jalapeno peppers, and red onion in a large bowl. Pour in beer. Cover, and marinate in the refrigerator at least 1 hour.",
+        "Preheat an outdoor grill for high heat, and lightly oil grate.",
+        "Alternately thread sausage, red pepper, jalapenos, and onion onto skewers. Cook on the prepared grill until sausage is evenly brown and vegetables are tender. Melt provolone cheese over the hot ingredients during the last few minutes of cooking."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=989&h=518&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F995510.jpg",
+    "ingredients": [
+        "2 pounds spicy Italian sausage, sliced",
+        "1 large red bell pepper, cut into large chunks",
+        "\u00bc pound jalapeno peppers, cut into large pieces",
+        "1 large red onion, cut into chunks",
+        "1 (12 fluid ounce) can beer",
+        "\u00bd pound sliced provolone cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "BBQ Sausage and Peppers",
     "url": "http://allrecipes.com/recipe/41383/bbq-sausage-and-peppers/"
 }

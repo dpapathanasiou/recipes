@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend water, avocado, parsley, apple, carrot, lemon, kale, ginger, ice cubes, and flax seeds in a blender on high until smooth, 10 to 15 seconds."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/998381.jpg",
+    "ingredients": [
+        "2 cups cold water",
+        "1 avocado, peeled, and pitted",
+        "1/2 cup fresh parsley",
+        "1 apple, cored and seeded",
+        "1 carrot, cut into chunks",
+        "1 lemon, peeled",
+        "1 leaf kale leaf, or more to taste",
+        "1 (1 inch) piece fresh ginger root, or more to taste",
+        "2 ice cubes (optional)",
+        "1 tablespoon flax seeds (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jumping Ginger Smoothie",
     "url": "http://allrecipes.com/recipe/231321/jumping-ginger-smoothie/"
 }

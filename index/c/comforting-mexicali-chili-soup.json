@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place dried guajillo, cascabel, arbol, and California chiles and Swanson\u00ae Unsalted Chicken Broth in a large pot. Stir in chili powder, cumin, oregano, cocoa powder, adobo sauce, salt and pepper. Let mixture steep until the chiles soften, about 15 minutes. Discard the chiles.",
+        "Place pot over medium-high heat. Add diced sweet potatoes. Bring to a simmer; cook at a low simmer until potatoes are tender, 15 to 20 minutes. Add corn, chicken diced tomatoes, and black beans. Bring back to a simmer; cook until piping hot and flavors are blended, 10 to 15 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2  dried guajillo chilies",
+        "2  dried cascabel chiles",
+        "2  dried chile de arbol pepper",
+        "1  dried California chile",
+        "2 (32 ounce) cartons Swanson\u00ae Unsalted Chicken Broth",
+        "1 tablespoon chili powder",
+        "1 teaspoon cumin",
+        "1 teaspoon oregano",
+        "1 teaspoon unsweetened cocoa powder",
+        "1 teaspoon adobo sauce from chipotle peppers",
+        "salt and pepper to taste",
+        "2  sweet potatoes, peeled and diced",
+        "2 cups corn kernels, frozen or fresh",
+        "2 cups chopped cooked chicken",
+        "1 (14 ounce) can diced tomatoes, undrained",
+        "1 (14 ounce) can black beans, drained and rinsed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Comforting Mexicali Chili Soup",
     "url": "http://allrecipes.com/recipe/245080/comforting-mexicali-chili-soup/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon of oil in a large skillet over medium high heat. Season lamb strips with Greek seasoning and saute in oil until browned. Remove from skillet and set aside.",
+        "Reduce heat to medium and heat remaining tablespoon of oil. Saute onion and celery until soft, then add bulgur wheat and continue cooking, stirring often, for an additional 5 minutes.",
+        "Stir in reserved lamb, broth, cinnamon and allspice. Reduce heat to low and simmer for 15 to 20 minutes, covered, until liquid has been absorbed. Garnish with raisins and almonds and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 tablespoons vegetable oil, divided",
+        "1 1/2 pounds boneless lamb stew meat cut into 1/2 inch strips",
+        "1/2 teaspoon Greek-style seasoning",
+        "1 onion, chopped",
+        "2 stalks celery, minced",
+        "1 cup dry bulgur wheat",
+        "1 1/2 cups chicken broth",
+        "1 pinch ground cinnamon",
+        "1 pinch ground allspice",
+        "1/4 cup raisins",
+        "1/4 cup slivered almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lamb Lover's Pilaf",
     "url": "http://allrecipes.com/recipe/18831/lamb-lovers-pilaf/"
 }

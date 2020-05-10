@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place peaches, peach nectar, ice, tequila, and triple sec in a blender. Blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/841272.jpg",
+    "ingredients": [
+        "1 cup fresh peaches - peeled, pitted and sliced",
+        "3/4 cup peach nectar",
+        "1 cup ice",
+        "2 fluid ounces tequila",
+        "2 fluid ounces triple sec"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kim's Peach Margarita",
     "url": "http://allrecipes.com/recipe/221232/kims-peach-margarita/"
 }

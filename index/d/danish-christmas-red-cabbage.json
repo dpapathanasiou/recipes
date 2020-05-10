@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cabbage in a large saucepan, and stir in the sugar, vinegar, salt and water. Bring to a boil, then cover and simmer over medium heat for 1 hour. This can be served immediately, or chilled and reheated later in smaller portions."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1632&h=854&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6349.jpg",
+    "ingredients": [
+        "1 small head red cabbage, cored and shredded",
+        "2 cups white sugar",
+        "2 cups white vinegar",
+        "2 teaspoons salt",
+        "3 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Danish Christmas Red Cabbage",
     "url": "http://allrecipes.com/recipe/79136/danish-christmas-red-cabbage/"
 }

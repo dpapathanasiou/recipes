@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the beef and butter into a slow cooker. Sprinkle the onion soup mix over. Cover, and cook on Low for 8 hours, or High for 4 to 5 hours. Stir once or twice."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=640&h=335&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F163132.jpg",
+    "ingredients": [
+        "3 pounds cubed beef stew meat",
+        "\u00bd cup butter",
+        "1 (1 ounce) envelope dry onion soup mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butter Beef",
     "url": "http://allrecipes.com/recipe/73910/butter-beef/"
 }

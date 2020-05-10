@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown the pie crusts ahead of time, and cool.",
+        "Mix together eggs, sugar, spices, sweetened condensed milk, half and half, and pumpkin; mix until lumps are gone.  Do not overbeat.",
+        "Bake pies at 400 degrees F (205 degrees C) for 45 minutes.   Let cool, and serve.  Store leftovers in refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=453&h=237&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F28725.jpg",
+    "ingredients": [
+        "3  eggs",
+        "\u00be cup white sugar",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon ground nutmeg",
+        "\u00bc teaspoon ground cloves",
+        "1 (14 ounce) can sweetened condensed milk",
+        "\u2154 cup half-and-half",
+        "1 (29 ounce) can pumpkin puree",
+        "1 recipe pastry for a 9 inch single crust pie"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Pie I",
     "url": "http://allrecipes.com/recipe/12103/pumpkin-pie-i/"
 }

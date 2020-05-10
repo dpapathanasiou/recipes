@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large heavy kettle, melt butter or margarine.  Add carrots, celery,  onion, green pepper, mushrooms, and ham; cook over medium heat until vegetables are crisp tender, about 10 minutes, stirring occasionally.  Do not brown.",
+        "Stir in flour and cornstarch; cook, stirring  constantly, about 3 minutes.  Add broth and cook, stirring, until slightly thickened.  Add milk, paprika, cayenne, and mustard.",
+        "Stir in cheese gradually, stirring until cheese is melted.  To avoid curdling, do not allow soup to boil after cheese is added.  Season to taste with salt and pepper.  Serve piping hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2752390.jpg",
+    "ingredients": [
+        "5 tablespoons margarine",
+        "2  carrots, chopped",
+        "2 stalks celery, chopped",
+        "1  green bell pepper, chopped",
+        "1  onion, chopped",
+        "5  button mushrooms, chopped",
+        "\u00bd cup chopped ham",
+        "\u00bd cup all-purpose flour",
+        "2 tablespoons cornstarch",
+        "4 cups chicken broth",
+        "4 cups milk",
+        "\u00bd teaspoon paprika",
+        "\u00bc teaspoon ground cayenne pepper",
+        "\u00bd teaspoon ground mustard",
+        "2 cups shredded sharp Cheddar cheese",
+        "salt to taste",
+        "ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wisconsin Cheese Soup I",
     "url": "http://allrecipes.com/recipe/13135/wisconsin-cheese-soup-i/"
 }

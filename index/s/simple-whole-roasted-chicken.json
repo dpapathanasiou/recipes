@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, mix the salt, sugar, cloves, allspice, nutmeg, and cinnamon. Rub the chicken with the mixture. Cover chicken, and place in the refrigerator for 24 hours.",
+        "Preheat oven to 500 degrees F (260 degrees C).",
+        "Stuff the chicken cavity with the garlic. Place the chicken, breast side down, on a rack in a roasting pan.",
+        "Roast 15 minutes in the preheated oven. Reduce heat to 450 degrees F (230 degrees C), and continue roasting 15 minutes. Baste chicken with pan drippings, reduce heat to 425 degrees F (220 degrees C), and continue roasting 30 minutes, to an internal temperature of 180 degrees F (85 degrees C). Let stand 20 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 teaspoons salt",
+        "1 teaspoon white sugar",
+        "\u215b teaspoon ground cloves",
+        "\u215b teaspoon ground allspice",
+        "\u215b teaspoon ground nutmeg",
+        "\u215b teaspoon ground cinnamon",
+        "1 (4 pound) whole chicken",
+        "5 cloves garlic, crushed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simple Whole Roasted Chicken",
     "url": "http://allrecipes.com/recipe/70679/simple-whole-roasted-chicken/"
 }

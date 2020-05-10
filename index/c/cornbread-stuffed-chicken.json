@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 225 degrees F (110 degrees C).",
+        "Spread cornbread cubes out on a baking sheet. Sprinkle with 1 teaspoon salt, 1/2 teaspoon ground black pepper, 1/2 teaspoon basil, 1/2 teaspoon dried parsley, 1 teaspoon sage and 1/2 teaspoon oregano. Toast cornbread mixture in preheated oven for 1 1/2 hours, stirring occasionally (do not crumble, but dry completely).",
+        "In a large bowl, toss cornbread with chopped onion, fresh parsley, melted margarine, egg yolks, ricotta cheese, and Parmesan cheese. Increase oven temperature to 400 degrees F (200 degrees C).",
+        "In a large bowl, toss potatoes with 1/4 teaspoon salt, 1/2 teaspoon pepper, 1 teaspoon basil, 1 teaspoon dried parsley, 1/2 teaspoon sage, 1/2 teaspoon oregano and 2 tablespoons oil. Place in oiled roasting pan.",
+        "Fill chicken loosely with stuffing. If any is left over, put it in a greased baking dish. Brush with remaining 1 tablespoon olive oil. Cover, and bake for 1 hour, or until potatoes are tender. Reduce the heat to 350 degrees F. Leave the lid off, and bake for another hour, or until juices run clear. Baste chicken with pan juices every 15 minutes. If you have a baking dish of stuffing, bake it in the oven the last 30 minutes. When chicken is done, reheat the potatoes (I like to fry them in a little oil in a skillet to reheat)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1923&h=1007&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2249483.jpg",
+    "ingredients": [
+        "1 (9x9 inch) pan cornbread, cut into 1 inch cubes",
+        "1\u2009\u00bc teaspoons salt, divided",
+        "1 teaspoon ground black pepper, divided",
+        "1\u2009\u00bd teaspoons dried basil, divided",
+        "1\u2009\u00bd teaspoons dried parsley, divided",
+        "1\u2009\u00bd teaspoons dried sage, divided",
+        "1 teaspoon dried oregano, divided",
+        "1 cup chopped onion",
+        "\u00bd cup fresh parsley, chopped",
+        "\u00bc cup margarine, melted",
+        "4  egg yolks, lightly beaten",
+        "1 (15 ounce) container ricotta cheese",
+        "\u00be cup freshly grated Parmesan cheese",
+        "4 large russet potatoes, peeled and cubed",
+        "3 tablespoons olive oil, divided",
+        "1 (6 pound) whole chicken"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cornbread Stuffed Chicken",
     "url": "http://allrecipes.com/recipe/46042/cornbread-stuffed-chicken/"
 }

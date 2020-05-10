@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, cream together the shortening and sugar. Beat in the eggs, one at a time, then stir in the vanilla and milk. Combine the flour , baking powder and salt, stir into the wet mixture. Cover and chill for about 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C). Line baking sheets with parchment paper. On a lightly floured surface, roll dough out to 1/4 to 1/8 inch thickness. Cut into desired shapes with cookie cutters.",
+        "Bake for 8 to 10 minutes in the preheated oven, until middle of cookie springs back when touched. Cool on wire racks. Frost with frosting if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1556&h=815&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4579410.jpg",
+    "ingredients": [
+        "\u2154 cup shortening",
+        "1 cup white sugar",
+        "2  eggs",
+        "1 teaspoon vanilla extract",
+        "\u2153 cup milk",
+        "3 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pattern Cookies",
     "url": "http://allrecipes.com/recipe/15285/pattern-cookies/"
 }

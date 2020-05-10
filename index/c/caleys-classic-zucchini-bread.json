@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Prepare 2 8x4-inch loaf pans with cooking spray.",
+        "Beat the eggs in a mixing bowl with an electric mixer until frothy. Slowly add the sugar while continually beating. Stir the vegetable oil and vanilla into the egg mixture; continue beating until the mixture is thick. Add the zucchini to the mixture and stir.",
+        "Mix the flour, cinnamon, baking soda, baking powder, and salt together in a separate bowl; pour into the wet mixture and stir until just combined. Add the chopped walnuts and stir. Divide the batter between the two prepared loaf pans.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour. Cool in the pans for 10 minutes before loosening the edges with a knife and removing to cool completely on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F687760.jpg",
+    "ingredients": [
+        "3  eggs",
+        "2 cups white sugar",
+        "1 cup vegetable oil",
+        "1 tablespoon vanilla extract",
+        "2 cups grated zucchini",
+        "2 cups all-purpose flour",
+        "1\u2009\u00bd teaspoons ground cinnamon",
+        "1 teaspoon baking soda",
+        "\u00bc teaspoon baking powder",
+        "1 teaspoon salt",
+        "\u00bd cup chopped walnuts (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caley's Classic Zucchini Bread",
     "url": "http://allrecipes.com/recipe/215493/caleys-classic-zucchini-bread/"
 }

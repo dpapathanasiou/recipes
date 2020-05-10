@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Whisk mayonnaise, garlic, rosemary, salt, and black pepper together in a bowl. Spread mayonnaise mixture evenly over each piece of chicken.",
+        "Spread rice out into the bottom of a 9x13-inch baking dish. Pour water over rice. Place chicken pieces on top of rice and top with Parmesan cheese.",
+        "Bake in the preheated oven until chicken breasts are no longer pink in the center and the juices run clear, 35 to 45 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1595963.jpg",
+    "ingredients": [
+        "1 cup mayonnaise",
+        "4 cloves garlic, pressed",
+        "1 tablespoon finely chopped fresh rosemary",
+        "1 teaspoon salt",
+        "freshly ground black pepper to taste",
+        "2  skinless, boneless chicken breast halves, halved horizontally",
+        "1 cup white rice",
+        "1 cup water",
+        "\u00be cup grated Parmesan cheese, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mayo Parmesan Chicken with Rice",
     "url": "http://allrecipes.com/recipe/238225/mayo-parmesan-chicken-with-rice/"
 }

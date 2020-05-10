@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a heavy 6-quart pot over medium heat; cook and stir onion until soft and pale gold in color, about 15 minutes. Stir chili powder, cocoa, garlic, oregano, cumin, kosher salt, black pepper, and cayenne pepper into onion. Cook until fragrant, 1 to 2 minutes.",
+        "Stir tomatoes and beer into the mixture until well-combined. Add ranch-style beans, beef brisket, and beef broth; bring to a boil. Reduce heat to low, cover, and simmer chili, stirring occasionally, until meat is very tender and flavors have blended, about 30 minutes. Season with liquid smoke flavoring, salt, and black pepper.",
+        "Preheat a waffle iron on medium according to manufacturer's instructions.",
+        "Whisk corn bread mix, egg, sour cream, and milk in a bowl to make a batter. Pour about 1/2 cup batter, or as needed, onto hot waffle iron, close lid, and bake waffle until golden brown, 2 to 3 minutes. Repeat with remaining batter. Serve chili over hot waffles."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2050612.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 large yellow onion, chopped",
+        "1/4 cup ancho chili powder",
+        "1/4 cup unsweetened cocoa powder",
+        "4 large cloves garlic, minced",
+        "1 tablespoon dried oregano",
+        "1 tablespoon ground cumin",
+        "kosher salt",
+        "1 teaspoon freshly ground black pepper",
+        "1/8 teaspoon ground cayenne pepper, or more to taste",
+        "1 (28 ounce) can fire-roasted diced tomatoes with juice",
+        "1 (12 ounce) bottle lager beer (such as Corona\u00ae)",
+        "2 (15 ounce) cans ranch-style beans",
+        "1 pound cooked beef brisket, cut into 1/4-inch cubes",
+        "1 1/2 cups beef broth",
+        "1/2 teaspoon liquid smoke flavoring (optional)",
+        "1 (7.5 ounce) package corn bread mix (such as Jiffy\u00ae)",
+        "1 egg",
+        "1 tablespoon sour cream",
+        "2/3 cup milk, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Trina's Beef Brisket Chili with Cornbread Waffles",
     "url": "http://allrecipes.com/recipe/231338/trinas-beef-brisket-chili-with-cornb/"
 }

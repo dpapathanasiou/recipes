@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 425 degrees F (220 degrees C).",
+        "Combine the water and white sugar in a saucepan, and bring to a boil. Cook until the sugar is dissolved, remove from heat and cool to room temperature.",
+        "Beat the eggs in a large bowl; add the evaporated milk and continue beating. Pour in the cooled sugar water and mix until well combined. Place the tart shells on a baking sheet. Strain the filling through a sieve, and fill the tart shells.",
+        "Bake in the preheated oven until the filling has puffed a little bit, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969833.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups water",
+        "\u00be cup white sugar",
+        "4  eggs",
+        "\u00bc cup evaporated milk",
+        "24 (3 inch) unbaked tart shells"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Hong Kong Style Egg Tarts",
     "url": "http://allrecipes.com/recipe/214861/easy-hong-kong-style-egg-tarts/"
 }

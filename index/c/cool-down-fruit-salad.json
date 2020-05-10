@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mash bananas.  Stir in orange juice concentrate, pineapple and strawberries until well mixed. In a separate bowl, stir sugar into boiling water until dissolved.  Allow to cool slightly, then pour over fruit mixture; stir to coat.  Freeze until cold and just firm."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "6 bananas",
+        "1 (6 ounce) can frozen orange juice concentrate, thawed slightly",
+        "1 (20 ounce) can crushed pineapple, drained",
+        "1 (10 ounce) package frozen strawberries, partially thawed",
+        "1 cup white sugar",
+        "1 cup boiling water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cool Down Fruit Salad",
     "url": "http://allrecipes.com/recipe/22896/cool-down-fruit-salad/"
 }

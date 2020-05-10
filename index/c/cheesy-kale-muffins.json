@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease a muffin tin with cooking spray.",
+        "Mix pancake mix, mozzarella cheese, and onion together in a large bowl. Add kale, milk, and ricotta cheese; mix until combined. Scoop batter into the prepared muffin tin.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4526820.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1\u2009\u00bd cups complete pancake mix",
+        "1 cup shredded mozzarella cheese",
+        "\u00bc cup finely chopped onion",
+        "1 (16 ounce) package frozen chopped kale, thawed",
+        "\u2154 cup milk",
+        "\u2154 cup ricotta cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Kale Muffins",
     "url": "http://allrecipes.com/recipe/246874/cheesy-kale-muffins/"
 }

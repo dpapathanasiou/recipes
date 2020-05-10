@@ -1,9 +1,39 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix hoisin sauce, 1 teaspoon water, and 1/2 teaspoon sambal oelek together to make dipping sauce.",
+        "Mix oyster sauce, 1 tablespoon water, 1/2 teaspoon sambal oelek, mushroom seasoning, sesame oil, sugar, and 1/4 teaspoon salt together in a bowl to make seasoning sauce.",
+        "Heat oil in a large skillet over medium heat. Cook and stir ginger until fragrant, about 30 seconds. Add tofu, jicama, shiitake mushrooms, 1/4 teaspoon salt, and pepper; cook and stir until mushrooms are golden brown, about 5 minutes. Add red bell pepper and seasoning sauce; cook and stir until heated through, about 1 minute. Remove from heat.",
+        "Place 1 to 2 tablespoons of tofu mixture in the center of each lettuce leaf. Sprinkle sesame seeds on top. Add 1 teaspoon dipping sauce; roll up lettuce to enclose tofu mixture. Repeat with remaining tofu mixture and lettuce leaves. Serve remaining dipping sauce alongside."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3213484.jpg",
+    "ingredients": [
+        "Dipping Sauce:",
+        "1/3 cup vegetarian hoisin sauce",
+        "1 teaspoon water, or more to taste",
+        "1/2 teaspoon sambal oelek (chile paste), or more to taste",
+        "Seasoning Sauce:",
+        "1 tablespoon vegetarian oyster sauce",
+        "1 tablespoon water",
+        "1/2 teaspoon sambal oelek (chile paste) (optional)",
+        "1/2 teaspoon mushroom seasoning",
+        "1/4 teaspoon sesame oil",
+        "1/4 teaspoon white sugar",
+        "1/4 teaspoon salt",
+        "Wraps:",
+        "1 tablespoon vegetable oil",
+        "2 slices ginger",
+        "5 ounces fried tofu, diced",
+        "4 ounces jicama, peeled and diced",
+        "3 fresh shiitake mushrooms, diced",
+        "1/4 teaspoon salt",
+        "ground black pepper to taste",
+        "1/2 red bell pepper, diced",
+        "8 large butterhead lettuce leaves",
+        "1 tablespoon toasted sesame seeds, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Lettuce Wraps",
     "url": "http://allrecipes.com/recipe/257224/vegan-lettuce-wraps/"
 }

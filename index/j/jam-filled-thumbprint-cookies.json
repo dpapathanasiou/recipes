@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F. Line a baking sheet with Reynolds(R) Parchment Paper.",
+        "Beat together butter and sugar with an electric mixer until light and fluffy, about 3 minutes, stopping once or twice to scrape down the sides of bowl with a rubber spatula. Beat in egg yolks and vanilla extract. Reduce mixer speed and add flour and salt and mix until just incorporated.",
+        "Form dough into 1-inch balls and arrange on prepared baking sheet. Using your thumb, flatten balls slightly to make an indentation in the center of each cookie. Bake cookies for 8-10 minutes or until bottoms are just golden.",
+        "Remove baking sheet from oven. Fill each indentation with a heaping 1/2 teaspoon of jam. Bake for an additional 5 to 6 minutes, or until the edges of cookies are lightly golden. Transfer cookies to wire racks to cool."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6070152.jpg",
+    "ingredients": [
+        "1 cup unsalted butter, room temperature",
+        "2/3 cup granulated sugar",
+        "2 large egg yolks",
+        "1 1/2 teaspoons vanilla extract",
+        "2 cups all-purpose flour",
+        "3/4 teaspoon salt",
+        "1/2 cup assorted stone fruit jam such as peach, apricot or plum",
+        "Reynolds\u00ae Parchment Paper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jam Filled Thumbprint Cookies",
     "url": "http://allrecipes.com/recipe/245843/jam-filled-thumbprint-cookies/"
 }

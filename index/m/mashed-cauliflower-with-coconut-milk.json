@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a pot of lightly salted water to a boil. Cook cauliflower in boiling water until soft, 15 to 20 minutes; drain and return cauliflower to the pot.",
+        "Pour coconut milk over the cauliflower. Blend cauliflower with an immersion blender until smoot; add garlic powder, onion powder, salt, and pepper. Stir to distribute spices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=6984&h=3657&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2075584.jpg",
+    "ingredients": [
+        "1 head cauliflower, cut into florets",
+        "1 tablespoon coconut milk",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mashed Cauliflower with Coconut Milk",
     "url": "http://allrecipes.com/recipe/237673/mashed-cauliflower-with-coconut-milk/"
 }

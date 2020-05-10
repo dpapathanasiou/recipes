@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8x8-inch square baking dish.",
+        "Cut eggplant in half lengthwise and scoop out the flesh, leaving shells about 1/4 inch thick. Chop pulp and place into a colander. Sprinkle with salt and let eggplant pulp drip for 30 minutes. Blot moisture from eggplant pulp with a paper towel.",
+        "Melt butter in a skillet over medium heat; cook and stir eggplant pulp and onion in the hot butter until vegetables are tender, about 10 minutes. Stir bread crumbs, mushrooms, Italian seasoning, and black pepper into the eggplant mixture until thoroughly combined. Spoon the mixture into eggplant shells.",
+        "Bake in the preheated oven until eggplant shells are tender, about 15 minutes. Sprinkle with Swiss cheese, return to oven, and bake until cheese has melted, about 5 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5032383.jpg",
+    "ingredients": [
+        "1 small eggplant",
+        "1 tablespoon salt",
+        "\u00bc cup butter, cubed",
+        "1 small onion, chopped",
+        "\u00be cup soft bread crumbs",
+        "\u00bd cup chopped fresh mushrooms",
+        "1 tablespoon Italian seasoning",
+        "1 pinch ground black pepper",
+        "\u00bd cup shredded Swiss cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggplant With Mushroom Stuffing",
     "url": "http://allrecipes.com/recipe/229626/eggplant-with-mushroom-stuffing/"
 }

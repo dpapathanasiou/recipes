@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Score the flat side of each chestnut with an X. Place the chestnuts into a large pot filled with water and bring to a boil. Cook for 10 minutes, then remove chestnuts from the pot. Allow to cool slightly, then peel outer shell and brown skin. Return chestnuts to the pot and continue to boil over medium heat until tender, 20 to 25 minutes. Drain and set aside.",
+        "Meanwhile, bring another large pot of lightly salted water to a boil. Add the Brussels sprouts, and cook uncovered until tender, 7 to 10 minutes. Drain in a colander, then immediately immerse in ice water for several minutes until cold to stop the cooking process. Once the Brussels sprouts are cold, drain well, and set aside.",
+        "Heat the butter in a skillet over medium heat. Stir in the shallots; cook and stir until the shallots has softened and turned translucent, about 5 minutes. Stir in the chestnuts and Brussels sprouts. Season with salt, pepper, and nutmeg. Continue cooking and stirring until heated through, about 5 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1213&h=635&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2765445.jpg",
+    "ingredients": [
+        "1 pound fresh chestnuts",
+        "1 pound Brussels sprouts, halved",
+        "3 tablespoons butter",
+        "2  shallots, minced",
+        "salt and ground black pepper to taste",
+        "1 pinch ground nutmeg, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brussels Sprouts with Chestnuts",
     "url": "http://allrecipes.com/recipe/212901/brussels-sprouts-with-chestnuts/"
 }

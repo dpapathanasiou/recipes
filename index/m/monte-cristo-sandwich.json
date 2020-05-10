@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Assemble sandwiches starting with one slice of bread, then 1 slice of ham, a slice of cheese and then a slice of turkey; place one slice of bread and repeat with ham, cheese and turkey, top with a slice of bread. Cut into quarters and secure with toothpicks. Cover sandwiches with plastic wrap and refrigerate overnight.",
+        "Heat oil in  deep fryer to 365 degrees.",
+        "Dust each quarter sandwich with flour until all sides are coated; dip into beaten egg and toss into panko and cover completely.",
+        "Carefully lower sandwich quarters one at a time into deep hot oil; fry until golden brown on all sides. Drain; remove toothpicks before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/981901.jpg",
+    "ingredients": [
+        "12 slices sandwich bread, crusts removed",
+        "8 slices Swiss cheese",
+        "8 slices cooked deli ham",
+        "8 slices deli turkey",
+        "3/4 cup flour",
+        "3 eggs, beaten well",
+        "3 cups Kikkoman Panko Bread Crumbs",
+        "Vegetable oil for deep-frying",
+        "Confectioners' sugar for dusting, if desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Monte Cristo Sandwich",
     "url": "http://allrecipes.com/recipe/214175/monte-cristo-sandwich/"
 }

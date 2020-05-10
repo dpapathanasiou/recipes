@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease one 9x12 inch pan.",
+        "Mix together the sugar, shortening, egg, milk, flour, salt and baking powder.",
+        "Prepare the streusel by mixing together the brown sugar, cinnamon, flour, butter and pecans.",
+        "Spread cake mixture in pan and spread streusel mixture on top. Swirl ingredients together.",
+        "Add the rest of streusel over top and bake for 20 to 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4030394.jpg",
+    "ingredients": [
+        "\u00be cup white sugar",
+        "\u00bc cup shortening",
+        "1  egg, beaten",
+        "\u00bd cup milk",
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd teaspoon salt",
+        "2 teaspoons baking powder",
+        "\u00bd cup packed brown sugar",
+        "2 teaspoons ground cinnamon",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons butter",
+        "\u00bd cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Streusel Kuchen",
     "url": "http://allrecipes.com/recipe/13832/streusel-kuchen/"
 }

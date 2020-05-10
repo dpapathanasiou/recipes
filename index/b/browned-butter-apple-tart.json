@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a mixer fitted with the paddle attachment, combine flour and salt. Add the cold butter to the flour mixture. On low speed, combine until the mixture looks like coarse sand. Make sure there are no pieces of butter larger than the size of a pea, and do not over-blend.",
+        "In a small bowl, combine cold water, vinegar and ice. One tablespoon at a time, add the ice water mixture to the flour and butter, mixing between additions. Add the water until the dough comes together into a ball. The dough should be smooth, not sticky or crumbly. Shape into a disk. Wrap the disk in plastic wrap and keep in the fridge for at least 30 minutes or up to three days.",
+        "Preheat oven to 425 degrees F. In a small skillet over a low heat, add the butter slowly and melt until it is lightly brown and nutty. Take off the heat and add the scraped vanilla to the browned butter.",
+        "On a lightly floured surface, roll the dough into a 12x12-inch square. Place the crust on a rimmed baking sheet lined with Reynolds Wrap(R) Aluminum Foil.",
+        "Arrange the apple slices onto the prepared crust in rows, fanning slightly as you go. Make sure to leave a 1-inch border around the edges. Brush with the vanilla-infused browned butter. Sprinkle with the brown sugar. Fold up the edges of the tart over the sides of the apples, pressing down. Brush the sides of the tart with the egg wash. Refrigerate the tart for 30 minutes.",
+        "Bake in the preheated oven for 15 minutes at 425 degrees F. Rotate, decrease the oven temperature to 375 degrees F and bake for another 30 minutes or until the pastry is golden brown around the edges. Slice into 4 generous slices and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2822146.jpg",
+    "ingredients": [
+        "Crust:",
+        "1 1/4 cups all-purpose flour",
+        "1/2 teaspoon kosher salt",
+        "1/2 cup chilled unsalted butter, cut into cubes",
+        "1/2 cup cold water",
+        "1 tablespoon apple cider vinegar",
+        "1/2 cup ice cubes",
+        "Reynolds Wrap\u00ae Aluminum Foil",
+        "Filling:",
+        "2 tablespoons unsalted butter",
+        "1/2 vanilla bean, split lengthwise and seeds scraped",
+        "2 medium apples, sliced 1/8-inch thick",
+        "1 tablespoon dark brown sugar",
+        "1 egg, slightly beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Browned Butter Apple Tart",
     "url": "http://allrecipes.com/recipe/245228/browned-butter-apple-tart/"
 }

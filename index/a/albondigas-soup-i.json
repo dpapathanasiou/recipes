@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together beef broth, salsa, 1 onion, tomatoes, dried basil, oregano, and 1/4 teaspoon pepper. (If you use condensed beef broth (e.g., Campbell's), eliminate the salt in the meatballs and use 5 cans (10.5 ounces each) broth plus one quart water.) Bring to a boil and simmer 20 minutes.",
+        "Combine ground chuck, sausage, 1 onion, egg, salt, 1/4 teaspoon pepper, garlic powder, milk, fresh basil, and cornmeal, and mix well. Form into tiny, bite-size meatballs.",
+        "Add meatballs and rice to broth. Simmer, covered, very slowly for 1 to 1 1/2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F216617.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "\u00bc pound pork sausage",
+        "1  onion, chopped",
+        "1  egg, beaten",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc cup milk",
+        "\u00bc cup chopped fresh basil",
+        "\u00bd cup cornmeal",
+        "6 (14 ounce) cans beef broth",
+        "1 (8 ounce) jar salsa",
+        "1  onion, chopped",
+        "2 (14.5 ounce) cans peeled and diced tomatoes",
+        "\u00bd teaspoon dried basil",
+        "\u00bd teaspoon dried oregano",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bd cup white rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Albondigas Soup I",
     "url": "http://allrecipes.com/recipe/13121/albondigas-soup-i/"
 }

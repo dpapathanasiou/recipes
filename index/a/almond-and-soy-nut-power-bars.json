@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 325 degrees F (165 degrees C). Line a baking sheet with aluminum foil and spray with cooking spray.",
+        "Place the oats, almonds, walnuts, and soy nuts into a food processor. Pulse until finely ground; pour into a large mixing bowl. Whisk in the brown rice cereal, dry milk, wheat germ, raisins, chocolate chips, flax, cinnamon, and salt; set aside.",
+        "Beat the egg whites until frothy in a small bowl; stir in the canola oil, honey, and vanilla extract and pour into the dry mixture. Stir until evenly moistened and press into the prepared pan.",
+        "Bake in the preheated oven until the mixture is hot, 15 to 20 minutes. Remove the power bar mixture by lifting the foil out of the pan. Allow to cool slightly; remove the foil and cut into bars while still warm. Allow to cool completely on a wire rack before serving. Store in airtight container, or freeze in plastic snack bags."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F763004.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups rolled oats",
+        "1 cup blanched almonds",
+        "1 cup walnuts",
+        "\u00bd cup soy nuts",
+        "2 cups crispy brown rice cereal",
+        "2 cups nonfat dry milk powder",
+        "\u00bd cup wheat germ",
+        "\u00bd cup raisins",
+        "\u00bd cup miniature semisweet chocolate chips",
+        "\u2153 cup flax seed meal",
+        "1 tablespoon ground cinnamon",
+        "\u00bd teaspoon salt",
+        "4  egg whites",
+        "\u00be cup canola oil (such as Smart Balance \u00ae Omega)",
+        "1 cup honey",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Almond and Soy Nut Power Bars",
     "url": "http://allrecipes.com/recipe/168012/almond-and-soy-nut-power-bars/"
 }

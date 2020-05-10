@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium-high heat, brown the ground beef with the onion, green pepper, and mushrooms. Drain off excess grease. Reduce heat to medium, and stir in the cream of mushroom soup. Mix in the Cheddar cheese until blended, then remove from heat.",
+        "Preheat the oven to 350 degrees F (175 degrees C). Scoop out the centers of the Kaiser rolls on both the top and bottom. Spoon the ground beef mixture into the rolls. Wrap each one in aluminum foil.",
+        "Bake for 20 minutes in the preheated oven, or until the rolls are toasted."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F408418.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 small onion, diced",
+        "1  green bell pepper, diced",
+        "1 (4 ounce) can chopped mushrooms, drained (optional)",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "2 cups shredded Cheddar cheese",
+        "6  Kaiser rolls, split"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mommy's Surprise",
     "url": "http://allrecipes.com/recipe/46568/mommys-surprise/"
 }

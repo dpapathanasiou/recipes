@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In each squash half place a tablespoon butter, 1 tablespoon molasses and 1/2 teaspoon cinnamon.  Place in a deep baking dish with a little water in the bottom.",
+        "Bake in preheated oven for 1 hour, or until tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1399&h=732&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1107543.jpg",
+    "ingredients": [
+        "1  spaghetti squash, halved and seeded",
+        "2 tablespoons butter, divided",
+        "2 tablespoons molasses, divided",
+        "1 teaspoon ground cinnamon, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaghetti Squash II",
     "url": "http://allrecipes.com/recipe/22954/spaghetti-squash-ii/"
 }

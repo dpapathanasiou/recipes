@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sweet potato into a pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 15 minutes. Drain.",
+        "Peel sweet potato; mash in a bowl.",
+        "Heat coconut oil in a skillet over medium heat; cook and stir mashed sweet potato until moisture evaporates, about 5 minutes.",
+        "Place sweet potato in a bowl and top with boiled peanuts, peanut butter, and coconut cream."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1  purple sweet potato",
+        "1 teaspoon coconut oil",
+        "3 tablespoons boiled peanuts",
+        "1 tablespoon peanut butter",
+        "1 tablespoon coconut cream, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mashed Purple Sweet Potato",
     "url": "http://allrecipes.com/recipe/257080/mashed-purple-sweet-potato/"
 }

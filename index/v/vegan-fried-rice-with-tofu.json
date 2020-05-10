@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Thaw tofu until it comes to room temperature, about 2 hours. Squeeze between paper towels to drain thoroughly and transfer to a bowl. Add Worcestershire sauce, then enough soy sauce to cover. Let marinate, at least 1 hour.",
+        "Drain tofu, discarding marinade.",
+        "Heat a wok or large skillet over high heat until smoking, about 30 seconds. Add oil; heat until shimmering, about 20 seconds. Add green onions and garlic; cook and stir until fragrant, about 45 seconds. Add tofu; stir-fry until scrambled and heated through, 1 to 2 minutes.",
+        "Cook yellow onion in the wok until softened, 2 to 3 minutes. Add frozen vegetables; saute until heated through, 2 to 3 minutes. Stir in rice, mirin, sesame oil, and enough soy sauce to cover the rice. Season with salt and pepper. Add bean sprouts; cook and stir until rice is hot, 1 to 2 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4732880.jpg",
+    "ingredients": [
+        "1 (16 ounce) package soft tofu, frozen until firm",
+        "1 cup vegan Worcestershire sauce",
+        "\u00bd cup soy sauce, divided, or to taste",
+        "1 tablespoon oil, or as needed",
+        "\u00bc cup chopped green onions",
+        "2 cloves garlic, chopped",
+        "1  yellow onion, diced",
+        "2 cups frozen mixed vegetables",
+        "3 cups cooked white rice, or more to taste",
+        "1 teaspoon mirin (Japanese rice wine) (optional)",
+        "1 teaspoon sesame oil (optional)",
+        "salt and ground black pepper to taste",
+        "1 (14 ounce) can bean sprouts, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Fried Rice with Tofu",
     "url": "http://allrecipes.com/recipe/246768/vegan-fried-rice-with-tofu/"
 }

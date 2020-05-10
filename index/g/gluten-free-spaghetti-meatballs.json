@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine gluten free bread and milk. Let bread soak, then squeeze out excess milk.",
+        "In the same bowl, add bread, egg, ground beef, 1/2 the parsley, 1/2 the cheese, and season with salt and pepper. Roll into 3/4 inch balls & set aside.",
+        "In a large skillet, gently cook the garlic and chili flakes in olive oil. Add meatballs and cook thoroughly.",
+        "Add the cherry tomatoes and saute for 2 minutes, then season with salt and pepper to taste. Deglaze with wine and reduce mixture by half.",
+        "Cook the pasta according to package directions, then reserve 1/2 cup of the cooking liquid.",
+        "Drain the pasta then toss with the sauce and add the reserved cooking liquid.",
+        "Cook the pasta in the sauce for one minute, remove the skillet from the heat and fold in the remaining cheese and parsley."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4128&h=2161&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3423132.jpg",
+    "ingredients": [
+        "1 (12 ounce) box Barilla\u00ae Gluten Free Spaghetti",
+        "\u00bd pound ground beef",
+        "1 slice gluten free bread",
+        "\u2153 cup milk",
+        "Salt and black pepper to taste",
+        "1  egg yolk",
+        "\u00bd cup grated Parmigiano Reggiano cheese",
+        "1  garlic clove, chopped",
+        "\u00bc teaspoon chili flakes",
+        "1 pint cherry tomatoes, halved",
+        "\u00bd cup dry white wine",
+        "1 tablespoon chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten Free Spaghetti & Meatballs",
     "url": "http://allrecipes.com/recipe/246022/gluten-free-spaghetti-meatballs/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak clay pot in a large bowl of water for about 15 minutes. Remove pot from water.",
+        "Mix ground beef, bread crumbs, egg, milk, and 1/2 of the onion soup mix together in a large bowl. Form mixture into a loaf and place in the clay pot. Arrange potatoes around loaf and sprinkle remaining onion soup mix over potatoes. Scatter onions over potatoes and add rosemary sprigs. Place lid on the clay pot.",
+        "Place clay pot in the cold oven. Heat oven to 350 degrees F (175 degrees C).",
+        "Bake in the oven until meatloaf is no longer pink in the center, about 1 hour. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1671&h=875&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3281920.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "2 slices white bread, torn into crumbs",
+        "1  egg",
+        "2 tablespoons milk",
+        "1 (1 ounce) package onion soup mix, divided",
+        "4  Yukon Gold potatoes, peeled and cut into eighths",
+        "\u00bc cup ketchup",
+        "1  sweet onion, sliced",
+        "4 sprigs fresh rosemary"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Clay Pot Meatloaf and Potatoes",
     "url": "http://allrecipes.com/recipe/246114/clay-pot-meatloaf-and-potatoes/"
 }

@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Grease a 9 x 13 (3 L) baking dish.",
+        "In large non-stick skillet, cook pancetta over medium heat until browned, about 4 minutes. Remove with a slotted spoon and drain. Add onion and red pepper to the drippings in same skillet and cook for about 3 to 5 minutes or until softened. Remove from heat.",
+        "Meanwhile, in large bowl, beat eggs well with seasonings. Stir in milk.",
+        "Spread 1/2 of the bread cubes in baking dish. Layer with 1/2 each onion mixture, pancetta and shredded cheese. Top evenly with spoonfuls of ricotta cheese. Top with remaining bread cubes, onion mixture and pancetta. Pour egg mixture evenly over top; press bread cubes down lightly. Sprinkle with remaining shredded cheese.",
+        "Cover and refrigerate overnight.",
+        "When ready to serve, preheat oven to 350 degrees F (175 degrees C).",
+        "Bake uncovered in the preheated oven for 50 to 55 minutes or until center is set and top is golden brown. Let stand 10 minutes before cutting into square to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1770532.jpg",
+    "ingredients": [
+        "1 1/4 cups diced pancetta",
+        "1 medium onion, diced",
+        "1 red pepper, seeded and diced",
+        "8 eggs",
+        "2 teaspoons Italian seasoning",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground mustard",
+        "1/4 teaspoon black pepper",
+        "2 1/2 cups milk",
+        "8 cups day old Italian bread cubes (3/4-inch/2cm)",
+        "2 cups shredded Italian blend cheeses",
+        "1 cup low-fat or regular ricotta cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hearty Egg and Bread Bake",
     "url": "http://allrecipes.com/recipe/240529/hearty-egg-and-bread-bake/"
 }

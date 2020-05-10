@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine avocado, sweetened condensed milk, powdered milk, sugar and ice. Blend until smooth. Pour into glasses and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/459702.jpg",
+    "ingredients": [
+        "5 avocados, peeled and pitted",
+        "4 tablespoons sweetened condensed milk",
+        "1 tablespoon dry milk powder",
+        "2 teaspoons white sugar",
+        "1/2 cup ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Avocado Blast",
     "url": "http://allrecipes.com/recipe/21210/avocado-blast/"
 }

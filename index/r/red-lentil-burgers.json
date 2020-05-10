@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water and lentils in a saucepan; bring to a boil and cook until the water is completely absorbed and the lentils tender yet holding form, 15 to 20 minutes. Transfer lentils to a large bowl and let cool.",
+        "Stir onion, cilantro, garlic, mustard, cumin, parsley, garlic powder, and red pepper flakes into the lentils; add flour as needed to help absorb excess moisture and bind ingredients together. Shape lentil mixture into 4 patties.",
+        "Prepare a large skillet with cooking spray and heat over medium heat.",
+        "Cook burgers in the hot skillet until firm and hot in the center, 4 to 7 minutes per side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7689375.jpg",
+    "ingredients": [
+        "1 1/2 cups hot water",
+        "1 cup red lentils",
+        "1 large onion, minced",
+        "1/4 cup chopped fresh cilantro",
+        "5 cloves garlic, minced",
+        "1 tablespoon spicy Dijon mustard, or more to taste",
+        "1 tablespoon ground cumin",
+        "1 teaspoon dried parsley",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon red pepper flakes",
+        "2 tablespoons all-purpose flour, or as needed",
+        "cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Red Lentil Burgers",
     "url": "http://allrecipes.com/recipe/237089/red-lentil-burgers/"
 }

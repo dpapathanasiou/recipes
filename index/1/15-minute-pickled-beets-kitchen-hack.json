@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Drain beet juice from the jar, leaving about 1/2 inch juice in the bottom.",
+        "Combine sugar, vinegar, salt, and cloves in a saucepan over medium-high heat. Cook, stirring occasionally, until sugar dissolves into a syrup, about 3 minutes. Remove from heat and let cool, 5 to 10 minutes.",
+        "Pour syrup over beets in the jar, covering them completely. Seal jar and shake gently.",
+        "Refrigerate beets for 2 to 3 days before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3763638.jpg",
+    "ingredients": [
+        "1 (16 ounce) jar pickled beets",
+        "2/3 cup white sugar",
+        "2/3 cup white vinegar",
+        "1/4 teaspoon salt",
+        "2 whole cloves (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "15-Minute Pickled Beets (Kitchen Hack Version)",
     "url": "http://allrecipes.com/recipe/254681/15-minute-pickled-beets-kitchen-hack/"
 }

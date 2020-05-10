@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sweetened condensed milk and cranberry juice in blender; blend until smooth.",
+        "Add berries. Blend on low to chop fruit, then blend on high to finish.",
+        "Pour 1 1/2 cups of prepared smoothie into 16-ounce glass. Serve immediately.",
+        "Turn off blender and stir from the bottom up with a large metal spoon to facilitate blending of frozen fruit. For a lighter consistency, add 1 cup ice cubes (per serving) when blending sweetened condensed milk and cranberry juice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1017809.jpg",
+    "ingredients": [
+        "3 cups EAGLE BRAND\u00ae Sweetened Condensed Milk",
+        "1 1/2 cups cranberry juice",
+        "1 1/2 quarts strawberries, frozen",
+        "2 cups raspberries, frozen"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Berry Patch Smoothie",
     "url": "http://allrecipes.com/recipe/232888/berry-patch-smoothie/"
 }

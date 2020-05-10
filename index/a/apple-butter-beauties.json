@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Cream the butter with the yolk and vanilla.",
+        "Place the sugar and the pecans in a food processor and grind to a fine texture. Add the wheat germ, flour, and the salt and process again just to mix. Add the pecan mixture to the butter mixture.",
+        "Roll this dough into balls a little more than 1 inch in diameter. Place on ungreased sheets about 2 inches apart. Using your thumb, make a dent in the top of each ball.",
+        "Bake until a little brown , 15-20 minutes.  When they come from the oven, use a spoon or another tool to open the dent you made ( it tends to close during baking). Let rest on the sheet for about 4 minutes and then remove to a rack. Cool completely. Spoon the apple butter into the indents and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F146879.jpg",
+    "ingredients": [
+        "\u00bd cup unsalted butter",
+        "1  egg yolk",
+        "1 cup chopped pecans",
+        "\u00be teaspoon vanilla extract",
+        "\u00bd cup white sugar",
+        "1 cup all-purpose flour",
+        "\u00bd cup toasted wheat germ",
+        "\u00bc teaspoon salt",
+        "\u2153 cup apple butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Butter Beauties",
     "url": "http://allrecipes.com/recipe/10871/apple-butter-beauties/"
 }

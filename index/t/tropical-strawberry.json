@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, blend the strawberries, pineapple, milk, yogurt, sugar, and ice until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/824305.jpg",
+    "ingredients": [
+        "1 1/2 cups frozen strawberries",
+        "1 cup frozen pineapple chunks",
+        "1/2 cup milk",
+        "1 1/2 cups yogurt",
+        "2 tablespoons white sugar",
+        "1 cup crushed ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tropical Strawberry",
     "url": "http://allrecipes.com/recipe/74575/tropical-strawberry/"
 }

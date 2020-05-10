@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).",
+        "Place flour in a bowl. Whisk egg and milk in another bowl. Combine bread crumbs, salt, basil, parsley, garlic powder, and onion powder in a third bowl.",
+        "Gently press shrimp into flour to coat and shake off excess. Dip into egg mixture and press into bread crumbs. Gently toss between your hands so any bread crumbs that haven't stuck can fall away. Place the breaded shrimp onto a plate while breading the rest; do not stack.",
+        "Deep fry breaded shrimp in preheated oil until golden brown, 3 to 4 minutes. Transfer shrimp to a paper towel-lined platter to drain."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F871383.jpg",
+    "ingredients": [
+        "1 quart vegetable oil for frying",
+        "1 cup all-purpose flour",
+        "1  egg",
+        "\u00bd cup milk",
+        "1 cup dry bread crumbs",
+        "1\u2009\u00bc teaspoons salt",
+        "\u00bd teaspoon dried basil",
+        "\u00bd teaspoon dried parsley",
+        "\u215b teaspoon garlic powder",
+        "\u215b teaspoon onion powder",
+        "24  uncooked medium shrimp, peeled and deveined"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Popcorn Shrimp",
     "url": "http://allrecipes.com/recipe/223072/popcorn-shrimp/"
 }

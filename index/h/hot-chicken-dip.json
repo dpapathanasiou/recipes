@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium heat, mix together the chicken, diced tomatoes with green chile peppers, cream cheese and cream of chicken soup. Cook 20 minutes, stirring frequently, until the dip begins to thicken."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4288&h=2245&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1122395.jpg",
+    "ingredients": [
+        "2 (10 ounce) cans chunk chicken",
+        "1 (14.5 ounce) can diced tomatoes with green chile peppers",
+        "1 (8 ounce) package cream cheese",
+        "2 (10.75 ounce) cans condensed cream of chicken soup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot Chicken Dip",
     "url": "http://allrecipes.com/recipe/22606/hot-chicken-dip/"
 }

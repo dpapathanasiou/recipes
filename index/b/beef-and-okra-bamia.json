@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large pot over high heat. Sprinkle 1 tablespoon salt over steak cubes; cook and stir meat in the hot oil with onion and garlic until meat is seared, about 5 minutes; reduce heat to medium; cook and stir until meat is browned, about 3 more minutes. Remove steak pieces and set aside.",
+        "Stir tomato sauce and tomato paste into same pot; mix in okra, water, coriander, white pepper, and cumin. Bring to a boil; season with additional salt. Reduce heat to low and simmer until okra is tender, 30 to 45 minutes; return pieces of beef to the bamia. Simmer until flavors are blended, about 10 minutes; garnish with slices of jalapeno pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3880363.jpg",
+    "ingredients": [
+        "\u2154 cup olive oil",
+        "1 tablespoon salt",
+        "1 pound beef top sirloin, cut into 1-inch cubes",
+        "\u00bd large onion, chopped",
+        "6 cloves garlic, minced",
+        "2 (10 ounce) cans tomato sauce",
+        "1 tablespoon tomato paste",
+        "1 (10 ounce) package frozen okra, thawed",
+        "2 cups water",
+        "1\u2009\u00bd tablespoons ground coriander",
+        "1 teaspoon ground white pepper",
+        "2 teaspoons ground cumin",
+        "salt to taste",
+        "1  jalapeno pepper, thinly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef and Okra Bamia",
     "url": "http://allrecipes.com/recipe/227988/beef-and-okra-bamia/"
 }

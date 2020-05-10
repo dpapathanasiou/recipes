@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place avocados in a large bowl and mash, using a fork, until creamy with a few chunks remaining. Stir onion, jalapeno pepper, garlic salt, and cumin into avocado until guacamole is evenly combined. Squeeze lime juice into guacamole and stir."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1199699.jpg",
+    "ingredients": [
+        "6 large Hass avocados, pitted and peeled",
+        "\u00bc cup red onion",
+        "2 tablespoons finely chopped jalapeno chile pepper",
+        "1 teaspoon garlic salt",
+        "\u00bd teaspoon ground cumin",
+        "\u00bd  lime"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Knock-Off of Chipotle&reg; Guacamole",
     "url": "http://allrecipes.com/recipe/238164/knock-off-of-chipotle-guacamole/"
 }

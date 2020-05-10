@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the ingredients without ice and shake vigorously. Then just pour the stunningly blue mixture over ice in a 14 oz glass, garnish and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/981022.jpg",
+    "ingredients": [
+        "7 1/2 ounces Sauza\u00ae Gold Tequila",
+        "4 1/2 ounces Dekuyper\u00ae Blue Curacao",
+        "18 ounces Margarita Mix",
+        "6 ounces Orange Juice",
+        "GARNISH",
+        "Lime Squeeze"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sauza\u00ae Southwest Margarita",
     "url": "http://allrecipes.com/recipe/217807/sauza-southwest-margarita/"
 }

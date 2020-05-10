@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "Toss chicken cubes with salt, pepper, garlic, thyme, and bay leaves. Spread half of the diced onion onto the bottom of a deep baking dish. Sprinkle the chicken overtop, and cover with remaining onions. Bake in preheated oven until the chicken has turned golden brown, 20 to 30 minutes.",
+        "Pour the chicken and onions along with the potatoes into a large soup pot; pour in the chicken broth. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer for 20 minutes.",
+        "Add carrots and corn, then cover and continue simmering for 20 minutes more.",
+        "Stir together the cream and egg yolk until well blended. Slowly stir in 1/2 cup of hot broth until incorporated; set aside. Ladle out half of the potatoes, mash, then stir back, into the soup. Dissolve the arrowroot in the water, and stir into soup to thicken. Finally, stir the hot egg mixture into the soup, and gently simmer for 2 to 3 minutes to thicken.",
+        "Ladle soup into bowls and garnish with a sprinkle of parsley and cilantro."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1034736.jpg",
+    "ingredients": [
+        "1 pound skinless, boneless chicken breast halves - cubed",
+        "1 teaspoon salt",
+        "\u00bc teaspoon pepper",
+        "4 cloves garlic, minced",
+        "\u00bd teaspoon crushed dried thyme",
+        "2  bay leaves",
+        "2 large onions, chopped",
+        "3  baking potatoes, peeled and cubed",
+        "2 quarts chicken stock",
+        "6  carrots, peeled and cut into 1-inch pieces",
+        "3 ears corn, husked and cut into thirds",
+        "\u00bd cup cream",
+        "1  egg yolk, beaten",
+        "2 teaspoons arrowroot, mixed with",
+        "2 tablespoons water",
+        "2 tablespoons chopped fresh parsley",
+        "1 tablespoon minced cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crillo de Pollo",
     "url": "http://allrecipes.com/recipe/131866/crillo-de-pollo/"
 }

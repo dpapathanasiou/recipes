@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken pieces into a large resealable bag and pour in the marinade. Marinate in the refrigerator for at least 1 hour or up to overnight.",
+        "Preheat a grill for medium-high heat. When hot, lightly oil the grate. Remove the chicken from the marinade and discard the marinade.",
+        "Grill the chicken pieces until cooked through, about 10 minutes, turning once. 5 minutes before they are done, place the pineapple rings on the grill and cook for a couple of minutes per side. Place the pineapple slices on top of the pieces of chicken and top with a slice of cheese. Close the lid to the grill and allow the cheese to melt for a minute. Toast the buns, if desired.",
+        "To assemble the sandwiches, place the chicken, pineapple and cheese onto the bottom buns. Top with lettuce and tomato. Spread the thousand island dressing onto the top buns and place onto the sandwiches."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/227258.jpg",
+    "ingredients": [
+        "6 skinless, boneless chicken breast halves - pounded to 1/4 inch thickness",
+        "1 cup Hawaiian style marinade",
+        "6 pineapple rings",
+        "6 slices provolone cheese",
+        "6 onion rolls, split",
+        "6 tablespoons thousand island salad dressing",
+        "6 leaves romaine lettuce",
+        "6 slices tomato"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Hawaiian Chicken and Pineapple Sandwiches",
     "url": "http://allrecipes.com/recipe/163956/grilled-hawaiian-chicken-and-pineappl/"
 }

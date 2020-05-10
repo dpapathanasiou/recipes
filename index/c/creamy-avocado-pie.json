@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend avocados, sweetened condensed milk, cream cheese, lemon juice, and 1 teaspoon vanilla extract in a blender until smooth; pour into the graham cracker crust.",
+        "Mix sour cream, sugar, and vanilla extract together in a bowl; pour over avocado filling. Refrigerate pie until set, about 4 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1937&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1108270.jpg",
+    "ingredients": [
+        "2  avocados - halved, peeled, and pitted",
+        "1 (14 ounce) can sweetened condensed milk",
+        "1 (8 ounce) package cream cheese",
+        "\u2153 cup lemon juice",
+        "1 teaspoon vanilla extract",
+        "1 (9 inch) graham cracker crust",
+        "1 (8 ounce) container sour cream",
+        "1 tablespoon white sugar",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Avocado Pie",
     "url": "http://allrecipes.com/recipe/236737/creamy-avocado-pie/"
 }

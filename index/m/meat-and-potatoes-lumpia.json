@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes in a pot with enough lightly salted water to cover, and bring to a boil. Cook 10 minutes, or until tender; drain.",
+        "Place the beef, onion, and green bell pepper in a skillet over medium heat. Season with salt and black pepper. Cook until beef is evenly brown and onion is tender. Mix in peas and carrots, and continue cooking until heated through.",
+        "In a large bowl, mix the potatoes with the beef mixture. Cover and refrigerate (or place in the freezer) until cooled completely.",
+        "Heat the oil in a large skillet or deep fryer to 365 degrees F (185 degrees C).",
+        "Lay egg roll wrappers on a flat surface, and place about 1/4 cup filling in the center of each. Fold to form egg rolls, and seal with moistened fingers.",
+        "In batches, fry the egg rolls in the heated oil about 3 minutes on each side, until golden brown. Drain on paper towels."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2100&h=1099&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060411.jpg",
+    "ingredients": [
+        "5 medium potatoes, peeled and cut into 1/2-inch chunks",
+        "1 pound lean ground beef",
+        "\u00bc cup minced onion",
+        "\u00bc cup minced green bell pepper",
+        "salt to taste",
+        "ground black pepper to taste",
+        "1 cup frozen mixed peas and carrots, thawed",
+        "1 cup canola oil",
+        "1 (16 ounce) package egg roll wrappers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meat and Potatoes Lumpia",
     "url": "http://allrecipes.com/recipe/87219/meat-and-potatoes-lumpia/"
 }

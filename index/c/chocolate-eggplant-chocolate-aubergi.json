@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat enough of the oil to coat the bottom of a large skillet over medium-high heat. Fry slices of eggplant until browned and slightly crispy. Place them on paper towels to drain.",
+        "Meanwhile, place the chocolate in a heat proof bowl set over a pan of simmering water. Stir occasionally until melted and smooth. Remove from the heat.",
+        "Arrange the eggplant slices on a large serving platter and drizzle the chocolate over them. Don't cover the eggplant completely. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 tablespoons vegetable oil, or as needed",
+        "1 eggplant with ends trimmed, cut lengthwise into 1/4 inch slices",
+        "8 ounces semisweet chocolate, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Eggplant (Chocolate Aubergine)",
     "url": "http://allrecipes.com/recipe/99837/chocolate-eggplant-chocolate-aubergi/"
 }

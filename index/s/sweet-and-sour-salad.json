@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the lemon juice, vinegar, oil, mustard, pepper, and salt in a large salad bowl, then add the red and green apples and feta cheese. Place the green and red lettuce over the apple mixture. Refrigerate until ready to serve; toss immediately before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3305734.jpg",
+    "ingredients": [
+        "1/2 cup lemon juice",
+        "1/2 cup cider vinegar",
+        "1/2 cup vegetable oil",
+        "1 teaspoon Dijon mustard",
+        "1/4 teaspoon ground black pepper",
+        "1/8 teaspoon salt",
+        "3 red apples, chopped",
+        "3 green apples, chopped",
+        "1 (4 ounce) container crumbled feta cheese",
+        "5 cups green leaf lettuce, torn into bite-size pieces",
+        "5 cups red leaf lettuce, torn into bite-size pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Sour Lettuce Salad",
     "url": "http://allrecipes.com/recipe/184262/sweet-and-sour-salad/"
 }

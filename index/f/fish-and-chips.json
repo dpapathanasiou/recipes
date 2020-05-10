@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large heavy skillet, heat oil to 375 degrees F (190 degrees C).",
+        "Dip fillets into beaten egg and dredge in bread crumbs.",
+        "Gently slide fish into hot oil and fry until golden brown. Drain briefly on paper towels. Serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/829415.jpg",
+    "ingredients": [
+        "1 quart vegetable oil for frying",
+        "1 pound red snapper fillets",
+        "1 egg, beaten",
+        "1/2 cup dry bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fish and Chips",
     "url": "http://allrecipes.com/recipe/19479/fish-and-chips/"
 }

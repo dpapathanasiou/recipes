@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix tuna, cranberries, carrot, green onions, cilantro, sesame seeds, ginger, ground chile pepper, and kosher salt together in a large bowl.",
+        "Whisk mayonnaise, chile paste, sesame oil, soy sauce, and honey together in a separate bowl; add to tuna mixture and stir to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7388284.jpg",
+    "ingredients": [
+        "5 (5 ounce) cans chunk light tuna in water, drained and flaked",
+        "1/2 cup sweetened dried cranberries (such as Craisins\u00ae)",
+        "1/2 cup finely chopped carrot",
+        "1/4 cup chopped green onions",
+        "1/4 cup finely chopped cilantro",
+        "1 tablespoon sesame seeds",
+        "1 1/2 teaspoons ground ginger",
+        "1 1/2 teaspoons ground red chile pepper",
+        "3/4 teaspoon kosher salt",
+        "1/2 cup light mayonnaise",
+        "1/4 cup Asian chile paste (such as sambal oelek)",
+        "2 tablespoons sesame oil",
+        "1 tablespoon light soy sauce",
+        "1 tablespoon honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Asian Tuna Salad",
     "url": "http://allrecipes.com/recipe/237687/asian-tuna-salad/"
 }

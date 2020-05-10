@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+        "Cut the zucchini in half crosswise, then slice each half into 3 slices lengthwise, making 6 slices per zucchini.",
+        "Mix the butter, garlic, and parsley in a bowl, and spread the mixture on both sides of each zucchini slice. Sprinkle one side of each slice with Parmesan cheese, and place the slices, cheese sides up, crosswise on the preheated grill to keep them from falling through.",
+        "Grill the zucchini until the cheese has melted and the slices are cooked through and show grill marks, about 8 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4288&h=2245&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F419851.jpg",
+    "ingredients": [
+        "3  zucchini",
+        "3 tablespoons butter, softened",
+        "2 cloves garlic, minced",
+        "1 tablespoon chopped fresh parsley",
+        "\u00bd cup freshly grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Garlic Parmesan Zucchini",
     "url": "http://allrecipes.com/recipe/200919/grilled-garlic-parmesan-zucchini/"
 }

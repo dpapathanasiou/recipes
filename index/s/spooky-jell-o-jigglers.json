@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir boiling water into dry gelatin mix in large bowl at least 3 min. until gelatin is completely dissolved. Pour into 13x9-inch pan.",
+        "Refrigerate at least 3 hours or until firm.",
+        "Dip bottom of pan in warm water 15 sec. Cut into 24 decorative shapes, using 2-inch Halloween-shaped cookie cutters, making sure to cut all the way through gelatin to bottom of pan. Lift gelatin shapes from pan. Store in tightly covered container in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1045145.jpg",
+    "ingredients": [
+        "2 1/2 cups boiling water (do not add cold water)",
+        "2 pkg. (8 serving size) JELL-O Brand Orange Flavor Gelatin"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spooky JELL-O JIGGLERS",
     "url": "http://allrecipes.com/recipe/234568/spooky-jell-o-jigglers/"
 }

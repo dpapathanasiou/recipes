@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium heat, mix the ground beef, ginger, garlic, onion powder, and pepper. Cook and stir until the beef is evenly browned.",
+        "Mix soy sauce and honey into the beef mixture. Stir in the green beans. Cover, reduce heat, and simmer 7 to 10 minutes, until beans are tender.",
+        "In a small bowl, mix the flour and water. Stir into the beef and bean mixture, and continue cooking about 5 minutes, until thickened."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F212884.jpg",
+    "ingredients": [
+        "\u00bd pound extra-lean ground beef",
+        "1\u2009\u00bd tablespoons ground ginger",
+        "2 tablespoons minced garlic",
+        "2 teaspoons onion powder",
+        "1 teaspoon ground black pepper",
+        "3 tablespoons soy sauce",
+        "2 tablespoons honey",
+        "1 pound fresh green beans, trimmed and snapped",
+        "2 tablespoons all-purpose flour",
+        "3 tablespoons water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gel's Green Beans and Beef",
     "url": "http://allrecipes.com/recipe/48074/gels-green-beans-and-beef/"
 }

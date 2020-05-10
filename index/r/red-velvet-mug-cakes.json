@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "For cakes, spray insides of 2 large microwave-safe mugs with cooking spray. Whisk together 2 cups Reddi-wip, Egg Beaters, and cake mix in medium bowl. Place half of batter in each mug. Microwave each mug individually on HIGH 1 minute to 1 minute 15 seconds or until set.",
+        "For frosting, stir together cream cheese spread, 2 servings Reddi-wip and sugar in small bowl until blended. Invert each cake onto a plate; top each with half of the frosting."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3686992.jpg",
+    "ingredients": [
+        "PAM\u00ae Original No-Stick Cooking Spray",
+        "2 cups Reddi-wip\u00ae Original Dairy Whipped Topping",
+        "1/4 cup Egg Beaters\u00ae Original",
+        "1/2 cup dry red velvet cake mix",
+        "3 tablespoons reduced-fat cream cheese spread",
+        "4 tablespoons Reddi-wip\u00ae Original Dairy Whipped Topping",
+        "1 tablespoon granulated sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Red Velvet Mug Cakes",
     "url": "http://allrecipes.com/recipe/254298/red-velvet-mug-cakes/"
 }

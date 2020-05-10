@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 5 to 8 minutes or until al dente. Drain.",
+        "Heat olive oil in a large skillet over medium heat. Add chicken pieces, and cook, stirring until browned on the outside. Stir in the garlic, basil, Cajun seasoning, salt, and pepper, then mix in the tomatoes. Cook until tomatoes are semi soft, and chicken is cooked through. Toss with pasta, and serve with crumbled feta cheese on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4549870.jpg",
+    "ingredients": [
+        "1 (16 ounce) package uncooked angel hair pasta",
+        "3 tablespoons olive oil",
+        "4  skinless, boneless chicken breast halves - cut into strips",
+        "2 tablespoons chopped garlic",
+        "2 tablespoons dried basil",
+        "2 tablespoons Cajun-style blackened seasoning",
+        "salt and pepper to taste",
+        "10  roma (plum) tomatoes, diced",
+        "\u2154 cup crumbled feta cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "California Chicken Spaghetti",
     "url": "http://allrecipes.com/recipe/53178/california-chicken-spaghetti/"
 }

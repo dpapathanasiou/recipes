@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bread machine pan, place the milk, beaten egg, melted butter, water, vanilla pudding mix, bread flour, sugar, salt and yeast in the order recommended by the manufacturer. Select the Dough cycle.",
+        "When cycle is finished, remove the dough, and knead for 3 to 5 minutes. Roll out to a large rectangle.",
+        "Mix together the softened butter, brown sugar and cinnamon. Spread over dough. Sprinkle with chopped walnuts and raisins, if desired. Starting with the widest end, roll the dough into a log. Pinch to seal seams. Cut into 1/2 inch to 1 inch slices, and place in a greased 9x13 inch pan. Place in a draft-free space, and allow to rise until doubled.",
+        "Preheat the oven to 350 degrees F (175 degrees C). Bake for 15 to 20 minutes. To make frosting, mix the milk, confectioners sugar, softened butter and vanilla in a small bowl. Spread over warm cinnamon rolls."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup milk",
+        "1  egg, beaten",
+        "4 tablespoons melted butter",
+        "4 tablespoons water",
+        "\u00bd (3.5 ounce) package instant vanilla pudding mix",
+        "4 cups bread flour",
+        "1 tablespoon white sugar",
+        "\u00bd teaspoon salt",
+        "2\u2009\u00bc teaspoons bread machine yeast",
+        "\u00bd cup butter, softened",
+        "1 cup packed brown sugar",
+        "2 teaspoons ground cinnamon",
+        "\u00bc cup chopped walnuts (optional)",
+        "\u00bc cup raisins (optional)",
+        "1 teaspoon milk",
+        "1\u2009\u00bd cups confectioners' sugar",
+        "4 tablespoons butter, softened",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Soft, Moist and Gooey Cinnamon Buns",
     "url": "http://allrecipes.com/recipe/7176/soft-moist-and-gooey-cinnamon-buns/"
 }

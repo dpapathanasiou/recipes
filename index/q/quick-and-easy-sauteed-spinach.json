@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large skillet over medium heat. Add the spinach to the skillet and cover; allow to cook 5 minutes. Stir in the garlic salt and cover again for another 5 minutes; remove from heat. Sprinkle with Parmesan cheese to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F387017.jpg",
+    "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "1 (10 ounce) bag spinach leaves",
+        "1\u2009\u00bd teaspoons garlic salt",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick and Easy Sauteed Spinach",
     "url": "http://allrecipes.com/recipe/161688/quick-and-easy-sauteed-spinach/"
 }

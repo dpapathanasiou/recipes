@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Place sausage, celery and onions in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+        "In a large bowl combine sausage mixture with cornbread, bread crumbs, chicken broth, poultry seasoning and sage.  Mix well and transfer to a 9x12 inch baking dish.",
+        "Bake, covered, for 45 minutes or until well set and cooked through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F522687.jpg",
+    "ingredients": [
+        "1 pound ground sausage",
+        "2 cups chopped celery",
+        "2 large onions, chopped",
+        "5 cups crumbled cornbread",
+        "5 cups seasoned bread crumbs",
+        "2\u2009\u00be cups chicken broth",
+        "1\u2009\u00bd teaspoons poultry seasoning",
+        "1 teaspoon sage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cornbread Stuffing With Sausage",
     "url": "http://allrecipes.com/recipe/24741/cornbread-stuffing-with-sausage/"
 }

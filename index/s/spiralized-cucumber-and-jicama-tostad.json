@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place jicama, cucumber, red onion, and bell peppers together in a mixing bowl. Toss with lime juice and avocado oil until combined; refrigerate until chilled, about 20 minutes.",
+        "Season the mashed avocado with garlic salt. Spread the avocado mixture evenly over tostada shells. Top evenly with jicama mixture and grape tomatoes. Garnish with cilantro and serve with lime wedges."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3754206.jpg",
+    "ingredients": [
+        "1 jicama, cut into spirals",
+        "1 English cucumber, cut into spirals",
+        "1/2 red onion, cut into spirals",
+        "2 mini sweet bell peppers, cut into matchstick pieces",
+        "1 large jalapeno, cut into spirals",
+        "1 lime, juiced",
+        "1 tablespoon avocado oil",
+        "2 avocados, mashed",
+        "1 pinch garlic salt, or to taste",
+        "4 prepared tostada shells",
+        "10 grape tomatoes, halved",
+        "1/4 cup chopped cilantro (optional)",
+        "1 lime, cut into wedges"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiralized Cucumber and Jicama Tostada Salad with Avocado",
     "url": "http://allrecipes.com/recipe/254538/spiralized-cucumber-and-jicama-tostad/"
 }

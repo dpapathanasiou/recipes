@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir 1/4 cup water, soy sauce, 2 tablespoons canola oil, cornstarch, sesame oil, 1 1/2 teaspoons sugar, 3/4 teaspoon salt, and garlic powder together in a large glass bowl until smooth. Stir chicken into the marinade to coat. Cover the bowl with plastic wrap and marinate chicken in the refrigerator for at least 30 minutes to overnight.",
+        "Bring a large pot of lightly salted water to a boil. Cook cauliflower florets in boiling water until just barely tender, 3 to 5 minutes. Drain cauliflower and immediately immerse in an ice water bath for several minutes until cold to stop the cooking process; drain.",
+        "Heat canola oil in a large wok or skillet over high heat until nearly smoking. Add garlic to the hot oil; sprinkle salt over the garlic. Cook garlic in hot oil, using a spoon to keep garlic pressed into the oil, until the cloves are dark brown, 2 to 3 minutes. Remove and discard garlic cloves.",
+        "Drain chicken and discard marinade. Stir chicken into the hot oil and let it cook undisturbed until browned, 3 to 5 minutes. Stir chicken. Pour 1/2 cup water over the chicken. Scrape bottom of wok with the flat edge of a wooden spoon to scrape any browned bits from the bottom of the wok into the liquid.",
+        "Pour cream of mushroom soup and remaining 1/2 cup water over the chicken; stir. Add oyster sauce, 3/4 teaspoon sugar, and 3/4 teaspoon salt to the chicken mixture. Stir cauliflower with the chicken and coat completely in sauce; cook and stir until the cauliflower is tender and the chicken is no longer pink in the center, 5 to 7 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5511096.jpg",
+    "ingredients": [
+        "\u00bc cup water",
+        "3 tablespoons light soy sauce",
+        "2 tablespoons canola oil",
+        "2 tablespoons cornstarch",
+        "1 tablespoon sesame oil",
+        "1\u2009\u00bd teaspoons white sugar",
+        "\u00be teaspoon salt",
+        "\u00bd teaspoon garlic powder",
+        "1 (20 ounce) package skinless, boneless chicken thighs, sliced",
+        "1 head cauliflower, cut into florets",
+        "\u00bc cup canola oil for frying, or as needed",
+        "4 cloves garlic, smashed",
+        "1 cup water, or to taste, divided",
+        "1 (10.75 ounce) can cream of mushroom soup (such as Campbell's\u00ae)",
+        "\u00bc cup oyster sauce",
+        "\u00be teaspoon white sugar",
+        "\u00be teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken and Cauliflower Stir-Fry",
     "url": "http://allrecipes.com/recipe/240995/chicken-and-cauliflower-stir-fry/"
 }

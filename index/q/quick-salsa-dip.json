@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, use a hand mixer to blend cream cheese, salsa and mild Cheddar cheese. Spread the mixture into a medium serving dish. Sprinkle with black olives, green onions and red bell pepper. Cover and chill in the refrigerator until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2880&h=1508&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6310340.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "1 cup salsa",
+        "\u00bd cup shredded mild Cheddar cheese",
+        "2 tablespoons sliced black olives",
+        "2 tablespoons sliced green onions",
+        "2 tablespoons diced red bell pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Salsa Dip",
     "url": "http://allrecipes.com/recipe/26917/quick-salsa-dip/"
 }

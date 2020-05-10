@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a baking sheet.",
+        "Mix green onions, bacon, Cheddar cheese, cream cheese, spinach, mushrooms, garlic, parsley, salt, and pepper in a bowl. Spread onto one side of pounded tenderloin. Roll tenderloin around the filling in a jelly-roll fashion. Coat rolled tenderloin with bread crumbs; place on the prepared baking sheet.",
+        "Bake in the preheated oven until pork is no longer pink in the center, about 1 1/2 hours. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6361713.jpg",
+    "ingredients": [
+        "2  green onions, chopped",
+        "2 slices cooked bacon, crumbled",
+        "3 tablespoons shredded Cheddar cheese",
+        "2 tablespoons cream cheese, softened",
+        "2 tablespoons frozen chopped spinach",
+        "2 tablespoons finely chopped white mushrooms",
+        "\u00bc teaspoon chopped garlic",
+        "1 pinch dried parsley",
+        "salt and ground black pepper to taste",
+        "1  pork tenderloin, butterflied and pounded flat",
+        "1 cup dry bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheese-Stuffed Pork Tenderloin",
     "url": "http://allrecipes.com/recipe/230214/cheese-stuffed-pork-tenderloin/"
 }

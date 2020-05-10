@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour the pineapple juice into a measuring pitcher, and add enough water to make 2 cups. Set the pineapple chunks aside. Pour the pineapple juice into a saucepan, and stir in the quinoa and lentils. Season with salt, black pepper, and curry powder. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until the lentils and quinoa have absorbed the water, about 30 minutes. Stir in the coconut, and simmer for 5 minutes more.",
+        "Stir in the pineapple chunks, pecans, and onion; cook briefly to reheat. Sprinkle with cilantro to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/616877.jpg",
+    "ingredients": [
+        "1 (8 ounce) can pineapple chunks, juice reserved",
+        "1/2 cup quinoa",
+        "1/2 cup lentils",
+        "salt and ground black pepper to taste",
+        "2 teaspoons curry powder",
+        "1/2 cup unsweetened dried coconut",
+        "1/4 cup chopped pecans",
+        "1/4 cup finely diced red onion",
+        "1 tablespoon chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruity Curried Lentil Salad",
     "url": "http://allrecipes.com/recipe/217048/fruity-curried-lentil-salad/"
 }

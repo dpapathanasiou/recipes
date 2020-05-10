@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season chicken thighs with salt and black pepper. Heat 2 tablespoons of olive oil on medium-high heat in a saucepan. Cook chicken until browned, about 3-4 minutes on each side; remove from pan.",
+        "Cook and stir linguica sausage and onion in the same saucepan until the onion is just starting to become translucent, about 3 minutes.",
+        "Stir in paprika, cumin, herbes de Provence, bay leaf, and parsley; cook spices in oil until fragrant, about 3 minutes. Return browned chicken thighs to the skillet, and pour in chicken stock.",
+        "Heat to a boil; reduce heat to low, and simmer, covered, for 30 minutes.",
+        "Remove all chicken pieces and sausage using a slotted spoon. Pour broth into different bowl and set aside. When chicken is cool enough to handle, remove skin and bones; set chicken meat and sausage aside.",
+        "Heat 2 more tablespoons of olive oil on medium heat in saucepan. Add red and green peppers and orzo; stir to coat with hot oil. Stir in 1-1/2 cups of hot broth, 1/2 cup at a time. Cook for 5 minutes, or until most of broth is absorbed.",
+        "Continue to slowly add remaining broth and stir until almost absorbed, about 15 minutes, or until tender but still slightly firm in the center of a pasta (you probably won't use all of broth). Remove from heat. Add chicken and sausage, stir and cover. Let sit for 5 minutes, or until pasta soaks up remaining broth. You can pour in extra broth at serving time if mixture is a little dry."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1091995.jpg",
+    "ingredients": [
+        "6 bone-in chicken thighs with skin",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "2 tablespoons olive oil",
+        "1 pound linguica sausage, sliced",
+        "1/2 onion, chopped",
+        "1 tablespoon paprika",
+        "1 tablespoon ground cumin",
+        "1 tablespoon herbes de Provence",
+        "1 bay leaf",
+        "1 teaspoon fresh parsley, chopped",
+        "4 cups chicken stock, or as needed",
+        "2 tablespoons olive oil",
+        "1 red bell pepper, chopped",
+        "1 mildly hot green pepper, such as a chilaca, chopped",
+        "8 ounces uncooked orzo pasta"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Risotto with Chicken, Sausage and Peppers",
     "url": "http://allrecipes.com/recipe/219168/risotto-with-chicken-sausage-and-pep/"
 }

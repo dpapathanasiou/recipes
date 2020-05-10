@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend banana, egg, and arrowroot powder in a blender until well mixed.",
+        "Heat a griddle or large skillet over medium heat. Divide batter into two portions; ladle onto griddle. Cook until bubbles form, 2 to 3 minutes; flip and brown on the other side, 2 to 3 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1925714.jpg",
+    "ingredients": [
+        "1 banana, mashed",
+        "1 egg",
+        "1 teaspoon arrowroot powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paleo Pancakes",
     "url": "http://allrecipes.com/recipe/233738/paleo-pancakes/"
 }

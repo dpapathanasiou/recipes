@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the banana, strawberries, flax seed meal, and soy milk into a blender. Puree until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5579480.jpg",
+    "ingredients": [
+        "1/2 frozen banana, peeled and cut into chunks",
+        "1 cup frozen strawberries",
+        "2 tablespoons flax seed meal",
+        "1 cup low-fat vanilla soy milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Flax Seed Smoothie",
     "url": "http://allrecipes.com/recipe/161325/flax-seed-smoothie/"
 }

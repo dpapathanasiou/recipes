@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken, celery, carrots, onions, garlic, cloves, cinnamon, cilantro, peppercorns, and bay leave in a large stock pot and fill with cold water, (it is not necessary to peel the garlic or onion, just wash the outside.)  Using low heat cook for 4 hours after boiling begins or until water line is an inch or two from the top.",
+        "Using a colander drain broth into another pot.  Reserve chicken meat and discard the rest.",
+        "In a bowl put rice and 1 cup of water to soak.  While it is soaking skim fat off the top of broth and remove usable meat from chicken.",
+        "Add rice to chicken broth and salt and pepper to taste.  Boil at least 20 minutes and then add shredded chicken.  Remove from heat and let sit until soup thickens.",
+        "Once soup has reached desired thickness heat through and serve."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (2 to 3 pound) whole chicken",
+        "3 stalks celery, with leaves",
+        "4  carrots",
+        "2  onions",
+        "5 cloves garlic",
+        "10  whole cloves",
+        "3  cinnamon sticks",
+        "2 tablespoons chopped fresh cilantro",
+        "10  whole black peppercorns",
+        "1  bay leaf (optional)",
+        "2 cups white rice",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Soup Tete Style",
     "url": "http://allrecipes.com/recipe/13284/chicken-soup-tete-style/"
 }

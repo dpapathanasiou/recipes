@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine ice, sports drink and ice cream. Blend until smooth. Pour into glasses and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4484482.jpg",
+    "ingredients": [
+        "2 cups ice",
+        "2 cups grape flavored sports drink",
+        "2 scoops vanilla ice cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gator Smoothies",
     "url": "http://allrecipes.com/recipe/22229/gator-smoothies/"
 }

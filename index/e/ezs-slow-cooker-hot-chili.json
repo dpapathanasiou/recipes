@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium heat, saute the onion, green bell pepper and garlic in the oil for 5 minutes, or until tender. Stir in the beef and cook until brown.  Transfer these ingredients to a slow cooker.",
+        "Then, to the slow cooker, add tomato-vegetable juice, soup, chili beans, cayenne pepper, chili powder, soy sauce and water.",
+        "Cover slow cooker and cook on low setting for 2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F771802.jpg",
+    "ingredients": [
+        "1  onion, chopped",
+        "1  green bell pepper, chopped",
+        "1 clove garlic, minced",
+        "2 tablespoons olive oil",
+        "2 pounds ground beef",
+        "4 (11.5 ounce) cans tomato-vegetable juice cocktail",
+        "1 (10.75 ounce) can condensed tomato soup",
+        "1 (16 ounce) can chili beans, drained",
+        "\u215b teaspoon cayenne pepper",
+        "3 tablespoons chili powder",
+        "1 tablespoon soy sauce",
+        "1 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ez's Slow Cooker Hot Chili",
     "url": "http://allrecipes.com/recipe/16642/ezs-slow-cooker-hot-chili/"
 }

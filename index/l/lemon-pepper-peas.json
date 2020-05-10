@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the peas and water into a microwave-safe bowl. Cover loosely, and microwave for 3 to 4 minutes, or until peas are tender. Stir in butter, and sprinkle with lemon pepper and dill. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5206285.jpg",
+    "ingredients": [
+        "1 (10 ounce) package frozen green peas, thawed",
+        "1 tablespoon water",
+        "2 tablespoons butter or margarine",
+        "1 pinch lemon pepper",
+        "1 pinch dried dill weed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Pepper Peas",
     "url": "http://allrecipes.com/recipe/45604/lemon-pepper-peas/"
 }

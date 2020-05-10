@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spread each salami slice with a thin layer of cream cheese; fold each salami slice in half over cream cheese layer. Place 1 tomato in the center of each salami half; roll salami around the tomato overlapping the two edges; secure edges to tomato with a toothpick."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=918&h=481&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F963234.jpg",
+    "ingredients": [
+        "22 thin slices salami",
+        "\u00bd cup herb and garlic-flavored cream cheese",
+        "22  grape tomatoes",
+        "22  toothpicks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salami and Tomato Folds",
     "url": "http://allrecipes.com/recipe/231014/salami-and-tomato-folds/"
 }

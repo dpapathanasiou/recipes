@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Place the crumbled matzos in a medium bowl, and add enough water to cover. Let stand for 2 minutes, then drain off excess water. Do not squeeze.",
+        "To the bowl of matzo, add eggs, 1/4 cup sugar, salt, lemon juice and applesauce. Stir to combine. Mix in the apples and dried cranberries. Spread the mixture evenly into a 2 quart casserole dish. Mix together the remaining 1/4 cup of sugar, and cinnamon; sprinkle over the top.",
+        "Bake for 45 minutes in the preheated oven, or until the top is golden, and the apples are soft."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2731&h=1430&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1004865.jpg",
+    "ingredients": [
+        "4  matzo crackers, crushed",
+        "3  eggs, beaten",
+        "\u00bc cup white sugar",
+        "1 teaspoon salt, divided",
+        "\u00bd teaspoon lemon juice",
+        "\u2153 cup applesauce",
+        "3  Granny Smith apples - cored, peeled and chopped",
+        "\u00bd cup dried cranberries",
+        "\u00bc cup white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Matzo Apple Kugel",
     "url": "http://allrecipes.com/recipe/31399/matzo-apple-kugel/"
 }

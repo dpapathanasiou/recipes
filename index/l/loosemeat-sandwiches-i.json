@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium heat, saute garlic in oil until it begins to brown. Add onion and saute until soft. Add beef and saute, stirring constantly with a fork to crumble as finely as possible.",
+        "When meat is browned, add the tomato juice, brown sugar, Worcestershire sauce, seasoned salt, browning sauce and cayenne pepper. Stir together and let simmer uncovered, stirring occasionally, until the liquids have evaporated (about 15 to 20 minutes). Spoon mixture onto hamburger buns and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1952&h=1022&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F833665.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1 clove garlic, minced",
+        "1  onion, chopped",
+        "1 pound lean ground beef",
+        "\u00bd cup tomato juice",
+        "2 tablespoons brown sugar",
+        "1 teaspoon Worcestershire sauce",
+        "2 teaspoons seasoning salt",
+        "1 teaspoon browning sauce",
+        "\u215b teaspoon ground cayenne pepper",
+        "4  hamburger buns"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Loosemeat Sandwiches I",
     "url": "http://allrecipes.com/recipe/14682/loosemeat-sandwiches-i/"
 }

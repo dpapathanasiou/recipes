@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the pretzels, popcorn and peanuts into a large paper bag or, if you have one, a very large bowl. Set aside.",
+        "In a saucepan over medium heat, combine the brown sugar, corn syrup, and butter. Cook, stirring to melt the butter and dissolve the sugar, until the mixture comes to a boil. Once the mixture is at a full boil, continue to cook for 5 minutes, stirring constantly.",
+        "Remove from the heat, and stir in the salt, vanilla, and baking soda. The mixture will foam up when you add the soda, so use a long spoon to stir. Immediately pour the sugar mixture over the popcorn and pretzels in the bag. Shake until evenly coated. For a crispier treat, boil the sugar mixture longer, or bake the finished mix in the oven at 350 degrees F (175 degrees C) for about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1477803.jpg",
+    "ingredients": [
+        "8 cups broken salted pretzels",
+        "20 cups popped popcorn",
+        "4 cups dry roasted peanuts",
+        "3 cups brown sugar",
+        "\u00be cup light corn syrup",
+        "1\u2009\u00bd cups butter",
+        "1 teaspoon salt",
+        "1 teaspoon baking soda",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caramel Pretzel Nut Popcorn",
     "url": "http://allrecipes.com/recipe/77178/caramel-pretzel-nut-popcorn/"
 }

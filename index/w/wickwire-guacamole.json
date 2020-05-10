@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix avocado and mayonnaise in a serving dish until smooth; season with black pepper and hot pepper sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3968&h=2077&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4485471.jpg",
+    "ingredients": [
+        "1  Hass avocado, mashed",
+        "1 tablespoon mayonnaise (such as Hellman's\u00ae), or more to taste",
+        "freshly ground black pepper to taste",
+        "1 dash hot pepper sauce, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wickwire Guacamole",
     "url": "http://allrecipes.com/recipe/234349/wickwire-guacamole/"
 }

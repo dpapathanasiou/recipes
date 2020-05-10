@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken breasts in a large saucepan; cover with water. Boil until cooked through, about 20 minutes.  Remove from water, and cool. Pull meat from bones and skin. Shred meat and reserve.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat olive oil in large skillet. Stir in celery; cook until soft. Mix in the cream cheese, blue cheese dressing, and ranch dressing. Cook and stir until smooth and creamy. Stir in the shredded chicken and hot sauce. Spoon mixture into an 8x8 baking dish. Sprinkle with the shredded cheese.",
+        "Bake in preheated oven until golden and bubbly, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2  bone-in chicken breast halves",
+        "1 teaspoon olive oil",
+        "1 stalk celery, finely diced",
+        "1 (8 ounce) package reduced-fat cream cheese",
+        "\u00be cup blue cheese dressing",
+        "\u00be cup ranch dressing",
+        "\u2153 cup hot pepper sauce (such as Frank's RedHot\u00ae)",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Buffalo Chicken Dip",
     "url": "http://allrecipes.com/recipe/157725/cheesy-buffalo-chicken-dip/"
 }

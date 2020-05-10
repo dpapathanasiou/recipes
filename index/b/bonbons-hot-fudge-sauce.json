@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sweetened condensed milk into a saucepan with semisweet and dark chocolate and butter over medium-low heat. Melt chocolate and butter, stirring constantly, until the sauce is smooth; stir in vanilla extract. Serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4471681.jpg",
+    "ingredients": [
+        "1 (14 ounce) can sweetened condensed milk",
+        "4 ounces semisweet chocolate (such as Guittard\u00ae)",
+        "4 ounces dark chocolate (such as Guittard\u00ae)",
+        "3 tablespoons butter",
+        "1 1/2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "BonBon's Hot Fudge Sauce",
     "url": "http://allrecipes.com/recipe/228287/bonbons-hot-fudge-sauce/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F.",
+        "In a large skillet, cook sausage over medium heat for 5 minutes.",
+        "Add celery, onions, and carrots.",
+        "Cook and stir 5 to 10 minutes longer, until sausage is no longer pink and vegetables are tender.",
+        "In a large bowl, combine the sausage mixture and stuffing cubes. Stir in chicken broth, eggs, and parsley; toss to combine.",
+        "Spoon into a greased 9x13-inch baking dish.",
+        "Cover and bake for 30 minutes.",
+        "Uncover and bake 10 minutes longer or until an instant-read thermometer inserted into the center reads 160 degrees F and top is lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4037928.jpg",
+    "ingredients": [
+        "1 (16 ounce) package Johnsonville\u00ae Italian All Natural Ground Sausage",
+        "3  celery ribs, chopped",
+        "1 large onion, chopped",
+        "1 cup finely chopped carrots",
+        "1 (12 ounce) package herb-seasoned stuffing cubes",
+        "2 cups chicken broth, or more as needed",
+        "2  eggs, lightly beaten",
+        "\u00bd cup chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Traditional Sausage Stuffing",
     "url": "http://allrecipes.com/recipe/255813/traditional-sausage-stuffing/"
 }

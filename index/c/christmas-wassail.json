@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour apple cider, pineapple juice, and cranberry juice into a stockpot. Place orange slices, cinnamon sticks, allspice berries, and cloves in a muslin pouch or directly into the apple cider mixture. Bring apple cider mixture to a boil; reduce heat and simmer until flavors have blended, 15 to 20 minutes. Remove orange slices and spices before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1080368.jpg",
+    "ingredients": [
+        "1/2 gallon apple cider",
+        "1 (46 fluid ounce) can pineapple juice",
+        "46 fluid ounces cranberry juice cocktail",
+        "1 orange, thinly sliced",
+        "5 cinnamon sticks",
+        "1 tablespoon whole allspice berries",
+        "1 tablespoon whole cloves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Wassail",
     "url": "http://allrecipes.com/recipe/233377/christmas-wassail/"
 }

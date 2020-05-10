@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Place the chicken breasts in a single layer in a 9x13 inch baking dish. In a medium bowl, mix together the brown sugar, paprika, salt, dry mustard, chili powder, vinegar, cayenne pepper, Worcestershire sauce, vegetable juice cocktail, ketchup, water and garlic. Pour the sauce evenly over the chicken breasts.",
+        "Bake uncovered, for 35 minutes in the preheated oven. Remove chicken breasts, shred with a fork, and return to the sauce. Bake in the oven for an additional 10 minutes so the chicken can soak up more flavor. Serve on a bed of rice with freshly ground black pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2988595.jpg",
+    "ingredients": [
+        "8  boneless, skinless chicken breast halves",
+        "3 tablespoons brown sugar",
+        "1 tablespoon ground paprika",
+        "1 teaspoon salt",
+        "1 teaspoon dry mustard",
+        "\u00bd teaspoon chili powder",
+        "\u00bc cup distilled white vinegar",
+        "\u215b teaspoon cayenne pepper",
+        "2 tablespoons Worcestershire sauce",
+        "1\u2009\u00bd cups tomato-vegetable juice cocktail",
+        "\u00bd cup ketchup",
+        "\u00bc cup water",
+        "2 cloves garlic, minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Texas BBQ Chicken",
     "url": "http://allrecipes.com/recipe/36047/texas-bbq-chicken/"
 }

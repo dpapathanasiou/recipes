@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the blanched almonds in the container of a food processor or blender. Process until finely ground, but do not make almond butter. Transfer the almonds to a medium bowl, and mix with egg whites, confectioners' sugar, and almond extract. Knead until marzipan is smooth and uniform.",
+        "Divide into pieces and color as desired to make fruits, or whatever you desire."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/2 pound blanched almonds",
+        "3 egg whites",
+        "2 cups confectioners' sugar",
+        "1 teaspoon almond extract",
+        "3 drops any color food coloring (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lubeck Marzipan",
     "url": "http://allrecipes.com/recipe/35434/lubeck-marzipan/"
 }

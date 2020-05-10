@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan with cooking spray.",
+        "Whisk buttermilk and egg together in a shallow bowl.",
+        "Combine flour, ground pecans, sesame seeds, paprika, salt, and black pepper in a deep dish.",
+        "Dip each chicken breast in the buttermilk mixture and transfer to the flour mixture; turn to coat.",
+        "Arrange coated chicken in the baking pan. Drizzle melted butter on top. Sprinkle pecan halves over chicken.",
+        "Bake in the preheated oven until coating is golden, about 30 minutes. Scatter red grapes and green grapes into the baking pan. Continue baking until an instant-read thermometer inserted into the center of the chicken reads 165 degrees F (74 degrees C), about 30 minutes more."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "cooking spray",
+        "\u00bd cup buttermilk",
+        "1  egg",
+        "\u00bd cup all-purpose flour",
+        "\u00bd cup ground pecans",
+        "2 tablespoons sesame seeds",
+        "1 teaspoon ground paprika",
+        "\u00bd teaspoon salt",
+        "\u215b teaspoon ground black pepper",
+        "6  bone-in chicken breasts, skin removed",
+        "5 tablespoons butter, melted",
+        "\u00bc cup pecan halves",
+        "\u00bd cup red grapes",
+        "\u00bd cup green grapes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pecan-Crusted Chicken with Grapes",
     "url": "http://allrecipes.com/recipe/255959/pecan-crusted-chicken-with-grapes/"
 }

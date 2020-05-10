@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a large skillet over medium heat, cook the ground beef, onion, and mesquite seasoning until the meat is no longer pink, breaking it up into crumbles as it cooks, about 10 minutes. Drain excess grease, and transfer the meat mixture to a large baking dish. Stir in the baked beans, molasses, brown sugar, barbeque sauce, dry mustard powder, and cayenne pepper, and mix until any small lumps of brown sugar have dissolved.",
+        "Bake in the preheated oven until the beans are bubbling and the flavors have blended, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5416462.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 small onion, minced",
+        "2 tablespoons dry mesquite flavored seasoning mix",
+        "2 (28 ounce) cans baked beans (such as Bush's Original\u00ae)",
+        "\u00bc cup molasses",
+        "\u00be cup brown sugar",
+        "\u00be cup barbeque sauce",
+        "2 teaspoons dry mustard powder",
+        "2 pinches cayenne pepper, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Perfect BBQ Baked Beans",
     "url": "http://allrecipes.com/recipe/219059/perfect-bbq-baked-beans/"
 }

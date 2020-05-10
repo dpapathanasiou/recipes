@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "If cutlets are thick, lay them between 2 sheets of wax paper and pound to 1/2-inch thickness with flat side of a meat mallet or bottom of a small, heavy skillet. Sprinkle with salt and pepper. Put 2 large (or 5 small) sage leaves on top of each cutlet, then wrap 2 slices of prosciutto crosswise around each cutlet, holding sage in place.",
+        "Heat 1 1/2 tablespoons oil in a large skillet over medium heat. Add 4 cutlets and cook until no longer pink in the center and the juices run clear, about 2 minutes per side. Transfer to a platter; tent with foil to keep warm. Repeat with remaining 1 1/2 tablespoons oil and remaining 4 cutlets.",
+        "Add wine to skillet and simmer, scraping up any browned bits, 1 minute. Add broth and simmer until slightly reduced, 4 to 5 minutes. Remove from heat, add butter, and swirl skillet until butter has melted and sauce is creamy. Spoon 2 tablespoons sauce over each cutlet and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2338678.jpg",
+    "ingredients": [
+        "8 (6 ounce) chicken cutlets",
+        "1 teaspoon salt",
+        "\u00bd teaspoon black pepper",
+        "16  large fresh sage leaves",
+        "16 thin slices prosciutto",
+        "3 tablespoons olive oil",
+        "1 cup dry white wine",
+        "1 cup low-sodium chicken broth",
+        "\u00bd stick butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sandy's Chicken Saltimbocca",
     "url": "http://allrecipes.com/recipe/244274/sandys-chicken-saltimbocca/"
 }

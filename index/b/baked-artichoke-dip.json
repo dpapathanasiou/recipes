@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a large bowl, combine the mayonnaise, crushed garlic, parmesan cheese, artichoke hearts and Worcestershire sauce. Pour into a baking dish and top with cayenne pepper and parsley flakes.",
+        "Bake in the preheated oven, approximately 30 to 45 minutes, until hot and bubbly.  Serve with tortilla chips, crackers or veggies."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3313&h=1735&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1294063.jpg",
+    "ingredients": [
+        "2 cups mayonnaise",
+        "2 cloves crushed garlic",
+        "2 cups grated Parmesan cheese",
+        "2 (6.5 ounce) jars marinated artichoke hearts, chopped",
+        "1 dash Worcestershire sauce",
+        "ground cayenne pepper to taste",
+        "1 teaspoon dried parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Artichoke Dip",
     "url": "http://allrecipes.com/recipe/20470/baked-artichoke-dip/"
 }

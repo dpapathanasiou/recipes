@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to boil. Add pasta, and cook until al dente, about 8 to 10 minutes. Drain, and pour into a large bowl.",
+        "Meanwhile, warm oil in a large skillet over medium heat. Stir in squash and zucchini, and cook 10 minutes. Stir in shrimp, and cook 3 minutes. Stir in lemon juice, basil, oregano, salt, pepper, and garlic. Cook 2 minutes more.",
+        "Pour shrimp and sauce into large bowl with pasta. Sprinkle with chives and Parmesan, and stir to combine."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F39804.jpg",
+    "ingredients": [
+        "\u00bd pound dried penne pasta",
+        "2 tablespoons olive oil",
+        "4 cups thinly sliced yellow squash",
+        "3 cups thinly sliced zucchini",
+        "1 pound medium shrimp - peeled and deveined",
+        "\u00bc cup fresh lemon juice",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon black pepper",
+        "3 cloves garlic, minced",
+        "\u00bd cup minced fresh chives or green onions",
+        "\u00bc cup freshly grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp with Penne and Squash",
     "url": "http://allrecipes.com/recipe/88102/shrimp-with-penne-and-squash/"
 }

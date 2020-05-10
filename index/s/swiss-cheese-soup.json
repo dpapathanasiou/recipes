@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the stock in a large pot over high heat. Bring to a boil, stir in the garlic and reduce heat to low.",
+        "In separate skillet over medium heat, combine the butter and flour and stir well for a few minutes. Add the garlic and stock mixture along with the wine, stirring constantly. Bring to a boil to thicken.",
+        "Stir in the cheese and serve immediately. (Do NOT allow to boil once cheese has been added, and do not allow to sit long or the cheese will separate out.)"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F729022.jpg",
+    "ingredients": [
+        "6 cups chicken stock",
+        "10 cloves garlic, crushed",
+        "4 tablespoons unsalted butter",
+        "4 tablespoons all-purpose flour",
+        "\u00bd cup white wine",
+        "2\u2009\u00bd cups shredded Swiss cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swiss Cheese Soup",
     "url": "http://allrecipes.com/recipe/13094/swiss-cheese-soup/"
 }

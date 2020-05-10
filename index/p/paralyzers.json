@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a highball glass with ice, and pour in vodka, coffee liqueur, milk, and cola; stir."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1804387.jpg",
+    "ingredients": [
+        "1 fluid ounce vodka",
+        "1 fluid ounce coffee flavored liqueur",
+        "1/2 cup milk",
+        "1/8 teaspoon cola-flavored carbonated beverage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paralyzers",
     "url": "http://allrecipes.com/recipe/25856/paralyzers/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a large bowl, combine the ground turkey, sausage, eggs, oats, onion and milk. Season with 1 tablespoon Worcestershire sauce, Italian seasoning, garlic powder and salt. Mix well and form into a loaf. Place into a 9x13 inch baking dish.",
+        "In a separate small bowl, mix together the spaghetti sauce, hot sauce, 1 tablespoon Worcestershire sauce and liquid smoke. Smooth over the entire meatloaf.",
+        "Bake in preheated oven for 50 to 60 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/909734.jpg",
+    "ingredients": [
+        "1 pound mild Italian turkey sausage, casings removed",
+        "1 pound ground turkey",
+        "2 eggs, beaten",
+        "1 1/2 cups rolled oats",
+        "1/2 cup chopped onion",
+        "1/2 cup milk",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon Italian-style seasoning",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon salt",
+        "2 cups spaghetti sauce",
+        "5 dashes hot pepper sauce",
+        "1 tablespoon Worcestershire sauce",
+        "1/2 teaspoon liquid smoke flavoring"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chris's Incredible Italian Turkey Meatloaf",
     "url": "http://allrecipes.com/recipe/31843/chriss-incredible-italian-turkey-mea/"
 }

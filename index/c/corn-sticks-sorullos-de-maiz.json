@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir the cornmeal, sugar, salt, and water together in a mixing bowl until a dough has formed. Set aside to cool for 10 minutes. Once cool enough to handle, place a spoonful of dough into the palm of your hand; make a depression in the center. Fold a half slice of American cheese into a wad and place into the hole. Spoon some more dough overtop; roll the corn stick into a sausage shape, making sure that the cheese is not exposed. Repeat with the remaining dough and cheese.",
+        "Heat oil in a large skillet to 375 degrees F (190 degrees C).",
+        "Cook the corn sticks in the hot oil until they turn golden brown and float to the top of the oil, about 4 minutes per side. Drain on a paper towel-lined plate before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3980656.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups cornmeal",
+        "\u00bd cup white sugar",
+        "1\u2009\u00bc teaspoons salt",
+        "1 cup boiling water",
+        "4 slices American cheese, cut in half",
+        "1 quart vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn Sticks (Sorullos de Maiz)",
     "url": "http://allrecipes.com/recipe/172944/corn-sticks-sorullos-de-maiz/"
 }

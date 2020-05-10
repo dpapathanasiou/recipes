@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl mash hot dog links using a potato masher or fork.  Blend in relish, onion and mayonnaise."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5423126.jpg",
+    "ingredients": [
+        "1 (19 ounce) can vegetarian hot dog links",
+        "3/4 cup sweet pickle relish",
+        "1 onion, chopped",
+        "1/2 cup mayonnaise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetarian Sandwich Spread",
     "url": "http://allrecipes.com/recipe/20081/vegetarian-sandwich-spread/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a Dutch oven over medium-high heat until smoking. Brown the oxtail in batches, and set aside. Add onion, garlic, and bell pepper to the pot; cook, stirring constantly, until the onion has softened and turned translucent, about 5 minutes.",
+        "Pour in white wine, bring to a simmer, and cook for 5 minutes. Add browned oxtail, beef broth, chocolate, and bay leaves. Return to a simmer, then reduce heat to medium-low, cover, and simmer for 3 hours.",
+        "Season with salt and paprika, stir in carrots, recover, and allow to simmer until carrots are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4867768.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "4 pounds beef oxtail, cut into pieces",
+        "2  onions, chopped",
+        "1 tablespoon minced garlic",
+        "2  green bell pepper, chopped",
+        "4 cups dry white wine",
+        "1 cup beef broth",
+        "1 (1 ounce) square unsweetened chocolate",
+        "3  bay leaves",
+        "\u00bd teaspoon salt",
+        "2 tablespoons paprika",
+        "2  carrots, thickly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spanish-Style Oxtail Stew",
     "url": "http://allrecipes.com/recipe/128573/spanish-style-oxtail-stew/"
 }

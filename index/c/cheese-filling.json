@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, cream together cream cheese and sugar.  Beat in egg and vanilla.  Refrigerate before using to fill pastries prior to baking them."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2809&h=1471&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2566845.jpg",
+    "ingredients": [
+        "2 (8 ounce) packages cream cheese, room temperature",
+        "1 cup white sugar",
+        "1  egg yolk",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheese Filling",
     "url": "http://allrecipes.com/recipe/24945/cheese-filling/"
 }

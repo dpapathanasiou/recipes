@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together couscous and boiling water in a large, heatproof bowl. Cover with plastic wrap, and set aside for 10 minutes.",
+        "Meanwhile, heat olive oil in a skillet over medium heat. Stir in onions and garlic, and cook until the onion has softened and turned translucent, about 5 minutes. Add the diced Roma tomatoes, and cook until the tomatoes release their juice and the mixture begins to thicken.",
+        "Fluff the couscous with a fork, then fold in the tomato mixture and cheese. Serve immediately as the cheese is melting."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F664499.jpg",
+    "ingredients": [
+        "1 (10 ounce) box couscous",
+        "1\u2009\u00bd cups boiling water",
+        "2 tablespoons olive oil",
+        "\u00bd  onion, diced",
+        "2 cloves garlic, minced",
+        "3  Roma (plum) tomatoes, diced",
+        "\u00bd cup shredded Cheddar-Monterey Jack cheese blend"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jazzed Up Couscous",
     "url": "http://allrecipes.com/recipe/146939/jazzed-up-couscous/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a medium saucepan over medium heat. Add onion and celery and cook 2 minutes. Add poultry seasoning, cranberries and broth.",
+        "Bring to a boil and stir in Multi-Grain Medley. Cover, reduce heat and simmer 5 minutes.",
+        "Remove from heat and let stand 5 minutes. Stir in pecans and season with salt and pepper, if desired."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "\u00bd cup chopped onion",
+        "\u00bc cup chopped fresh celery",
+        "\u00bc teaspoon poultry seasoning",
+        "\u00bd cup dried cranberries",
+        "1 cup chicken broth",
+        "1 bag Minute\u00ae Multi-Grain Medley, uncooked",
+        "\u00bd cup chopped pecans, toasted",
+        "Salt and ground black pepper (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Pecan Multi-Grain Stuffing",
     "url": "http://allrecipes.com/recipe/244559/cranberry-pecan-multi-grain-stuffing/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Place the chicken breasts into a saucepan and fill with enough water to cover. Bring to a boil, then simmer over medium heat until chicken is tender enough to be pulled apart with a fork. Drain and cool until cool enough to touch. Shred or chop chicken and place in a 1 to 2 quart casserole.",
+        "Mix the cream cheese into the chicken until well blended, then stir in the ranch dressing and hot sauce. Top with Cheddar cheese.",
+        "Bake uncovered for 20 minutes in the preheated oven, until cheese is browned and the sauce is bubbly."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 pound skinless, boneless chicken breast halves",
+        "1 cup ranch salad dressing",
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bd cup hot pepper sauce",
+        "2 cups shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Monday Night Hot Wing Dip",
     "url": "http://allrecipes.com/recipe/95215/monday-night-hot-wing-dip/"
 }

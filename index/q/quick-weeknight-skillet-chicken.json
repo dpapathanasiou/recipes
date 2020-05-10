@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium heat. Place chicken in hot oil and sprinkle with poultry seasoning and black pepper. Cook and stir chicken in hot oil until no longer pink, 5 to 8 minutes.",
+        "Pour water into skillet and bring to a simmer. Stir angel hair pasta, peas, and mushrooms into skillet; cook until pasta is tender, 4 to 5 minutes.",
+        "Stir wine and garlic powder into pasta mixture. Add spinach and stir until spinach wilts, about 2 minutes. Sprinkle individual servings with Parmesan cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2382&h=1247&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1061168.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil, or as needed",
+        "1 pound skinless, boneless chicken breast halves, cut into bite-size pieces, or more as needed",
+        "1 teaspoon poultry seasoning, or to taste",
+        "\u00bd teaspoon ground black pepper to taste",
+        "1\u2009\u00bd cups water",
+        "1 (16 ounce) package fresh angel hair pasta, cut into thirds",
+        "1 (10 ounce) package frozen peas",
+        "1 cup sliced fresh mushrooms (optional)",
+        "2 splashes white wine",
+        "2 tablespoons garlic powder, or to taste",
+        "1 (6 ounce) bag fresh spinach (optional)",
+        "\u00bc cup grated Parmesan cheese, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Weeknight Skillet Chicken",
     "url": "http://allrecipes.com/recipe/235017/quick-weeknight-skillet-chicken/"
 }

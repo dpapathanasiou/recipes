@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Peel mango using a vegetable peeler. Continue to use the peeler on the flesh of the mango down to the pit, creating thin slices of mango. Stack the mango strips and slice into thin strips; cut crosswise to make very finely diced mango. Transfer mango to a small bowl.",
+        "Stir cilantro, Asian chile pepper sauce, rice vinegar, and salt into mango."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1066521.jpg",
+    "ingredients": [
+        "1/2 mango",
+        "2 teaspoons finely chopped cilantro",
+        "2 teaspoons Asian chile pepper sauce (such as sambal oelek)",
+        "2 teaspoons rice wine vinegar",
+        "1 tiny pinch salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Mango Relish",
     "url": "http://allrecipes.com/recipe/233725/spicy-mango-relish/"
 }

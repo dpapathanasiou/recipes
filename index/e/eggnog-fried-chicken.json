@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in resealable plastic bag, coat with eggnog, and refrigerate, 1 to 3 hours.",
+        "Mix together panko, flour, garlic, chicken bouillon, baking soda, garlic salt, Italian seasoning, dried thyme, paprika, ground cinnamon, and ground nutmeg in a bowl for the breading mixture.",
+        "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+        "Remove chicken from eggnog mixture and gently press each piece into breading mixture to coat, shaking off excess. Discard the eggnog.",
+        "Fry chicken until golden brown, about 3 to 5 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Place fried chicken on cooling racks to drain over a baking sheet."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4478085.jpg",
+    "ingredients": [
+        "10  boneless chicken thighs",
+        "1 quart eggnog",
+        "2 cups panko bread crumbs",
+        "2 cups all-purpose flour",
+        "1 clove garlic, minced",
+        "1 teaspoon chicken bouillon",
+        "1 teaspoon baking soda",
+        "1 teaspoon garlic salt",
+        "1 teaspoon Italian seasoning",
+        "\u00bd teaspoon dried thyme",
+        "\u00bd teaspoon ground smoked paprika",
+        "\u00bc teaspoon ground cinnamon",
+        "\u215b teaspoon ground nutmeg",
+        "oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggnog Fried Chicken",
     "url": "http://allrecipes.com/recipe/245286/eggnog-fried-chicken/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the tomatoes in the bowl of a food processor and pulse until chopped finely but not pureed smooth.",
+        "Pour out in to a large mixing bowl then repeat with the cucumbers, onion and garlic. Once everything is in the mixing bowl, add the tomato juice and salt along with the vinegar.",
+        "Whisk in the Dannon Oikos Plain Greek Nonfat Yogurt then refrigerate the soup for at least an hour so the flavors can blend. In the meantime, preheat your oven to 350 degrees.",
+        "Slice some country bread or baguette about an inch thick and lay it out on a sheet tray. Drizzle it with olive oil then season the bread with salt and freshly ground black pepper and place it in the oven. Bake for 10-12 minutes, until golden brown and toasted but still chewy in the center.",
+        "Ladle some soup in to a bowl, sprinkle with toasted almonds and eat with some of the toasted bread."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1043373.jpg",
+    "ingredients": [
+        "3 cups diced vine-ripened tomatoes",
+        "3 cups chopped cucumber, seeds removed but not peeled",
+        "1 cup diced red onion",
+        "1 clove garlic, sliced",
+        "3 cups tomato juice",
+        "1 tablespoon salt",
+        "3 tablespoons sherry vinegar",
+        "2/3 cup Dannon Oikos Plain Greek Nonfat Yogurt",
+        "1 cup sliced almonds, toasted",
+        "Country bread or French baguette",
+        "Olive oil for toasting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato and Almond Gazpacho",
     "url": "http://allrecipes.com/recipe/234435/tomato-and-almond-gazpacho/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix mayonnaise, dill pickle, capers, lime juice, jalapeno pepper, parsley, hot pepper sauce, and salt together in a bowl. Cover bowl with plastic wrap and refrigerate 1 hour before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/968031.jpg",
+    "ingredients": [
+        "1 1/2 cups mayonnaise",
+        "1/4 cup chopped dill pickle",
+        "3 tablespoons capers, drained and chopped",
+        "2 1/2 tablespoons fresh lime juice",
+        "2 tablespoons chopped jalapeno pepper",
+        "1/2 teaspoon chopped fresh parsley",
+        "2 dashes hot pepper sauce (such as Tabasco\u00ae)",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jalapeno Tartar Sauce",
     "url": "http://allrecipes.com/recipe/228756/jalapeno-tartar-sauce/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 2 quart baking dish.",
+        "Clean spinach thoroughly. Remove all excess water. Chop spinach. Arrange spinach and flour in layers, nestle beaten eggs about midway between the layers.",
+        "Combine cheese and bread crumbs. Mix in optional parsley, if desired. Sprinkle over top of spinach. Mix butter or margarine, milk, salt and pepper. Pour over all ingredients. Bake at 350 degrees F (175 degrees C) oven for 50 minutes to one hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1225&h=641&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1080576.jpg",
+    "ingredients": [
+        "1\u2009\u00bc pounds spinach",
+        "\u00bc cup all-purpose flour",
+        "3  eggs, beaten",
+        "\u00be cup shredded Cheddar cheese",
+        "\u00bd cup dried bread crumbs",
+        "2 tablespoons chopped fresh parsley (optional)",
+        "\u00bc cup butter, melted",
+        "1 cup milk",
+        "\u00bd teaspoon salt",
+        "\u215b teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Spinach",
     "url": "http://allrecipes.com/recipe/13916/baked-spinach/"
 }

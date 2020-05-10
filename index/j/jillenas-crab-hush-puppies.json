@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix self-rising flour, cornmeal, garlic salt, pepper, corn, crabmeat, onion, and eggs together in a bowl; let sit for 10 minutes.",
+        "Heat oil in a deep-fryer or large saucepan to 365 degrees F (185 degrees C).",
+        "Drop 6 to 8 tablespoon-sized balls of batter into the hot oil; fry until golden brown, 4 to 5 minutes. Remove hush puppies with a slotted spoon and drain on paper towel-lined plate. Repeat with remaining batter."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2106221.jpg",
+    "ingredients": [
+        "1 cup self-rising flour",
+        "1 cup self-rising cornmeal",
+        "\u00bd teaspoon garlic salt",
+        "\u00bd teaspoon ground black pepper",
+        "1 (15 ounce) can cream-style corn",
+        "\u00bd pound crabmeat",
+        "1  onion, diced",
+        "2  eggs, beaten",
+        "1 quart vegetable oil, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jillena's Crab Hush Puppies",
     "url": "http://allrecipes.com/recipe/222244/jillenas-crab-hush-puppies/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8-inch square baking dish.",
+        "Beat eggs together in a large bowl. Stir milk into eggs.",
+        "Heat oil in a skillet over medium heat; saute onion until softened, 5 to 10 minutes. Add ham; cook and stir until ham is warmed, 2 to 3 minutes. Transfer onion-ham mixture to the prepared baking dish. Layer provolone cheese over onion-ham mixture. Pour egg mixture over cheese; season with salt and pepper.",
+        "Bake in the preheated oven until a knife inserted into the center comes out clean, about 45 to 50 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1103817.jpg",
+    "ingredients": [
+        "8 eggs",
+        "1 cup milk",
+        "1 teaspoon canola oil",
+        "1/2 cup diced onion",
+        "1 cup diced low-fat ham",
+        "6 slices reduced-fat provolone cheese",
+        "1 pinch salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oven Omelet - Light Version",
     "url": "http://allrecipes.com/recipe/236442/oven-omelet---light-version/"
 }

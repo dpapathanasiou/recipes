@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put chicken into the crock of a slow cooker. Sprinkle taco seasoning over the chicken. Layer diced tomatoes with habaneros, onion, celery, and carrot over the chicken, respectively; top with salsa. Pour water over the entire mixture.",
+        "Cook on Low until the chicken is easily shreddable, 6 to 8 hours. An instant-read thermometer should read 165 degrees F (74 degrees C).",
+        "Shred the chicken with 2 forks and stir with the salsa mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1096403.jpg",
+    "ingredients": [
+        "2 pounds skinless, boneless chicken",
+        "2 tablespoons taco seasoning mix",
+        "1 cup diced tomatoes with habaneros (such as RO*TEL\u00ae Hot)",
+        "1 cup finely chopped onion",
+        "\u00bd cup finely chopped celery",
+        "\u00bd cup shredded carrot",
+        "1 cup prepared salsa",
+        "\u00bc cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Salsa Chicken",
     "url": "http://allrecipes.com/recipe/236128/slow-cooker-salsa-chicken/"
 }

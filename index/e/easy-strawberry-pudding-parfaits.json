@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare vanilla pudding according to package directions, except do not chill.",
+        "In a medium saucepan over medium-low heat, stir together strawberries, jam, and sugar until jam is melted and the mixture is heated through, about 4 minutes. Remove from heat.",
+        "In each of 4 parfait glasses, layer 1/8 of the pudding and 1/8 of the strawberry sauce. Repeat layers. Chill 45 minutes, or until set, before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/237682.jpg",
+    "ingredients": [
+        "1 pkg. (4 serving size) instant vanilla pudding mix",
+        "2 cups fresh strawberries, quartered",
+        "2 tablespoons strawberry jam",
+        "2 tablespoons sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Strawberry Pudding Parfaits",
     "url": "http://allrecipes.com/recipe/85005/easy-strawberry-pudding-parfaits/"
 }

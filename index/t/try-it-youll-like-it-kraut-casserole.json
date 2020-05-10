@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Season ribs with salt and pepper. Heat 1 teaspoon oil in a large skillet over medium high heat. Cook ribs, turning occasionally, until well browned on all sides. Add wine (if using), water, caraway seeds, and brown sugar; stir to dissolve sugar. Stir in drained sauerkraut, apple, and carrots, and transfer to a large casserole dish.",
+        "Bake, covered, in the preheated oven for 2 1/2 hours, adding water as needed to prevent drying out."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 pound country style pork ribs",
+        "salt and pepper to taste",
+        "\u00bc cup dry white wine (optional)",
+        "\u00bd cup water",
+        "1 tablespoon caraway seed",
+        "1 tablespoon brown sugar",
+        "1 pound sauerkraut, drained",
+        "1 medium red apple - cored and diced",
+        "1 pound carrots, peeled and cut into large chunks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Try It You'll Like It Kraut Casserole",
     "url": "http://allrecipes.com/recipe/76847/try-it-youll-like-it-kraut-casserole/"
 }

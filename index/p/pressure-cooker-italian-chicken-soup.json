@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "heat 1 teaspoon olive oil in a pressure cooker over medium heat. Add sausage meat, and cook until browned, breaking it into crumbles. Remove sausage to a plate and drain oil. Add another 1 teaspoon of olive oil to pressure cooker; cook onion and garlic until onion is transparent. Add barley and stir 1 minute. Return sausage to pressure cooker. Add lentils, chicken, parsley, and chicken stock to cooker, adding enough stock to completely cover chicken. Close cover securely; place pressure regulator on vent pipe. Bring pressure cooker to full pressure over high heat (this may take 15 minutes). Reduce heat to medium high; cook for 9 minutes. Pressure regulator should maintain a slow steady rocking motion; adjust heat if necessary.",
+        "Remove pressure cooker from heat; use quick-release following manufacturer's instructions or allow pressure to drop on its own. Open cooker and remove chicken; shred meat and return to soup. Add garbanzo beans, spinach and salsa; stir to blend and heat through before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7453159.jpg",
+    "ingredients": [
+        "2 teaspoons olive oil",
+        "4  Italian turkey sausage links, casings removed",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "\u00bd cup pearl barley",
+        "1 cup green lentils",
+        "1  bone-in chicken breast half, skin removed",
+        "\u00bd cup chopped fresh parsley",
+        "3 cups chicken stock",
+        "1 (15 ounce) can chickpeas (garbanzo beans), drained",
+        "1 (16 ounce) bag fresh spinach leaves, chopped",
+        "1 cup mild salsa"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pressure Cooker Italian Chicken Soup",
     "url": "http://allrecipes.com/recipe/140516/pressure-cooker-italian-chicken-soup/"
 }

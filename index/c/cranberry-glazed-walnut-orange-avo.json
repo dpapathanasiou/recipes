@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the salad greens into a salad bowl, and sprinkle with dried cranberries, walnuts, mandarin orange sections, blue cheese, and avocado chunks. Drizzle the salad with the dressing, toss, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/744357.jpg",
+    "ingredients": [
+        "1 (5.5 ounce) package mixed salad greens with spinach",
+        "3/4 cup sweetened dried cranberries",
+        "3/4 cup glazed walnuts",
+        "1 (15 ounce) can mandarin oranges, drained",
+        "3/4 cup crumbled bleu cheese",
+        "1 avocado - peeled, pitted and diced",
+        "2 tablespoons cranberry vinaigrette salad dressing, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry, Glazed Walnut, Orange, Avocado, and Blue Cheese Salad",
     "url": "http://allrecipes.com/recipe/212476/cranberry-glazed-walnut-orange-avo/"
 }

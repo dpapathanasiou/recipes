@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown the beef, spareribs and loin chops in a large heavy pot. Put the browned meats and the smoked pork butt with 1 cup of water into a separate, covered pan and simmer until tender, removing the pork chops after  about 30 minutes, the butt after 1 hour,  the beef after 1 1/2 to 2 hours and the spareribs after 2 hours.",
+        "Meanwhile, pour off all the fat from the first pot and put in the sauerkraut and one cup of water. Stir in the chopped cabbage. Cover and cook until cabbage is tender, about 30 minutes. Remove lid and keep pot on a very low simmer.",
+        "In a third pan, fry bacon until crisp, then crumble into sauerkraut mixture. Remove most of the bacon fat and fry onions and flour until they just brown. Mix into sauerkraut mixture.",
+        "As you remove the meats from the second pan, cut away fat and bone and cut the meat into small pieces. Add to sauerkraut mixture.",
+        "Skim the fat off the meat juices and add to sauerkraut mixture. Take off skin from kielbasa and cut into slices. Add to sauerkraut mixture with the tomatoes. Salt, pepper to taste. Bring to a boil, simmer 5 minutes and serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 pound cubed beef stew meat",
+        "1 pound pork spareribs",
+        "1 pound pork chops",
+        "1 pound smoked pork butt",
+        "1 cup water",
+        "4 pounds sauerkraut",
+        "1 cup water",
+        "4 pounds finely chopped cabbage",
+        "1/4 pound bacon",
+        "1/2 cup chopped onion",
+        "2 tablespoons all-purpose flour",
+        "1 pound kielbasa sausage, sliced thin",
+        "1 (29 ounce) can diced tomatoes",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lithuanian Pork Spareribs and Sauerkraut Soup",
     "url": "http://allrecipes.com/recipe/13414/lithuanian-pork-spareribs-and-sauerkr/"
 }

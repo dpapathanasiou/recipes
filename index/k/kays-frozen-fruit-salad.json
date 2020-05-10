@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a mixing bowl, blend together cream cheese and mayonnaise until smooth.",
+        "Add pineapple, cherries, marshmallows and pecans. Mix together and fold in whipped cream. Place in a 9x9 inch pan, cover and freeze overnight.",
+        "Remove from freezer 10 minutes before serving, place on bed of shredded lettuce."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1731086.jpg",
+    "ingredients": [
+        "8 ounces cream cheese",
+        "1 cup mayonnaise",
+        "1 (20 ounce) can crushed pineapple, drained",
+        "1/4 cup maraschino cherries, quartered",
+        "1/4 cup green maraschino cherries, quartered",
+        "2 1/2 cups rainbow colored miniature marshmallows",
+        "1/2 cup heavy cream, whipped",
+        "1 cup chopped pecans (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kay's Frozen Fruit Salad",
     "url": "http://allrecipes.com/recipe/13737/kays-frozen-fruit-salad/"
 }

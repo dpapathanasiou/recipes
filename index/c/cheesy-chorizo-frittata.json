@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 375 degrees F. Cook chorizo in large ovenproof skillet on medium-high heat until done, stirring frequently. Remove chorizo from skillet, reserving drippings in skillet. Set chorizo aside. Add spinach to skillet; cook 2 min. or just until wilted, stirring frequently. Stir in tomatoes and onions. Remove from heat.",
+        "Whisk eggs and milk in medium bowl until blended; stir in 1 cup cheese. Add to ingredients in skillet; stir just until blended. Top with remaining cheese.",
+        "Bake 25 min. or until knife inserted in center comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7774830.jpg",
+    "ingredients": [
+        "\u00bc pound chorizo, crumbled",
+        "1 (6 ounce) package baby spinach leaves",
+        "2 cups cherry tomatoes, halved",
+        "4  green onions, sliced",
+        "6  eggs",
+        "\u00bd cup milk",
+        "1\u2009\u00bd cups KRAFT Shredded Pepper Jack Cheese with a TOUCH OF PHILADELPHIA, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Chorizo Frittata",
     "url": "http://allrecipes.com/recipe/219852/cheesy-chorizo-frittata/"
 }

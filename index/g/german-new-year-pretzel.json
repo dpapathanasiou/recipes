@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dissolve yeast in 1/2 cup milk in a bowl; add 4 1/2 tablespoons sugar. Let stand until the yeast softens and begins to form a creamy foam, about 5 minutes.",
+        "Stir yeast mixture and 2 1/4 cups flour together in a bowl until dough is dry and clumpy. Allow dough to rise for 15 minutes. Add remaining 1/2 cup milk, butter, egg, lemon zest, and salt to dough until evenly mixed.",
+        "Knead dough, adding more flour as needed, until dough is elastic. Cover bowl with a clean damp towel or plastic wrap and allow dough to rise in a warm area until doubled in size, about 1 hour.",
+        "Preheat oven to 390 degrees F (199 degrees C). Grease a baking sheet.",
+        "Gently knead dough; roll into a long rope on the prepared baking sheet and twist into a pretzel shape. Cover dough with a clean towel or plastic wrap and allow to rise for 15 minutes more.",
+        "Brush egg yolk over dough and sprinkle 1 teaspoon sugar over egg yolk.",
+        "Bake in the preheated oven until golden brown, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4577963.jpg",
+    "ingredients": [
+        "6\u2009\u00bc teaspoons active dry yeast",
+        "1 cup lukewarm milk, divided",
+        "4\u2009\u00bd tablespoons white sugar",
+        "2\u2009\u00bc cups all-purpose flour, sifted, or more as needed",
+        "4\u2009\u00bd tablespoons melted butter",
+        "1  egg",
+        "1 teaspoon lemon zest",
+        "1 pinch salt",
+        "1  egg yolk",
+        "1 teaspoon white sugar, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "German New Year Pretzel",
     "url": "http://allrecipes.com/recipe/236652/german-new-year-pretzel/"
 }

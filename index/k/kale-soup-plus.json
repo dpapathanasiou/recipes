@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a skillet over medium heat; cook and stir onion and garlic in hot oil until onion is softened, 5 to 10 minutes. Stir potatoes into onion mixture and cook until potatoes are lightly browned, 2 to 3 minutes.",
+        "Stir kale into potato mixture and drizzle in sesame oil. Cook and stir until kale is wilted, about 2 minutes. Stir black beans and sun-dried tomatoes into kale-potato mixture; pour in chicken broth. Simmer soup until potatoes are tender, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2980104.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "1 tablespoon roasted garlic",
+        "6 small potatoes (such as Klondike Gourmet\u00ae red skin potatoes), cut into bite-size pieces, or more to taste",
+        "1 bunch kale, stems removed and discarded, leaves torn into bite-size pieces",
+        "2 tablespoons sesame oil",
+        "1 (14 ounce) can black beans, drained and rinsed",
+        "4 drained oil-packed sun-dried tomatoes",
+        "1 (32 ounce) carton chicken broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kale Soup Plus",
     "url": "http://allrecipes.com/recipe/234154/kale-soup-plus/"
 }

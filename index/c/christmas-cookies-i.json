@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Boil molasses and sugar until the sugar dissolves.  Let the syrup cool.",
+        "Grind nuts, raisins, currants and citron, and blend together with the butter or lard in a large bowl. Add the cooled syrup.  Mix in the spices, anise oil, eggs, salt, and the sour milk.  Mix in soda and flour.  Rest the dough in the refrigerator for several days.",
+        "The dough can be rolled out and cut, or shaped into rolls and sliced.  Place on greased cookie sheets.",
+        "Bake at 350 degrees F (175 degrees C) for 10 to 20 minutes.  Cool on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1712&h=896&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F422.jpg",
+    "ingredients": [
+        "4 cups molasses",
+        "2 cups butter",
+        "1 teaspoon salt",
+        "2 teaspoons ground cloves",
+        "2 teaspoons ground allspice",
+        "2 teaspoons anise oil",
+        "3 cups dried currants",
+        "2 cups sour milk",
+        "6 cups white sugar",
+        "4  eggs",
+        "2 teaspoons ground cinnamon",
+        "4 cups walnut halves",
+        "2 teaspoons ground nutmeg",
+        "3 cups raisins",
+        "1 (8 ounce) package candied citron peel",
+        "1 tablespoon baking soda",
+        "16 cups all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Cookies I",
     "url": "http://allrecipes.com/recipe/11108/christmas-cookies-i/"
 }

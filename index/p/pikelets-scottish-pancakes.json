@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sift together the flour, sugar, and baking soda in a large bowl. Slowly add the egg and milk while stirring continually until smooth.",
+        "Place a skillet over medium heat. Lightly coat the surface of the skillet with butter. Pour 1/8 cup of batter into the skillet. Cook until bubbles begin to appear on the surface of the batter; flip and continue to cook until lightly browned on the bottom, 1 to 2 minutes each side. Reapply butter to the skillet between batches."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/173085.jpg",
+    "ingredients": [
+        "1 cup self-rising flour",
+        "1/4 cup sugar",
+        "1/4 teaspoon baking soda",
+        "1 egg, lightly beaten",
+        "3/4 cup milk",
+        "1 tablespoon butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pikelets (Scottish Pancakes)",
     "url": "http://allrecipes.com/recipe/159934/pikelets-scottish-pancakes/"
 }

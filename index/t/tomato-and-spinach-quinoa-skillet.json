@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring chicken broth and quinoa to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until most of the broth is absorbed, 10 to 15 minutes.",
+        "Stir tomatoes, spinach, and pesto into the quinoa. Simmer until remaining chicken broth is absorbed and quinoa is tender, about 5 minutes. Sprinkle Parmesan cheese over quinoa mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5255202.jpg",
+    "ingredients": [
+        "4 cups chicken broth",
+        "1 (12 ounce) box quinoa",
+        "3  Roma tomatoes, chopped",
+        "3 cups fresh spinach",
+        "\u00bc cup pesto",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato and Spinach Quinoa Skillet",
     "url": "http://allrecipes.com/recipe/255803/tomato-and-spinach-quinoa-skillet/"
 }

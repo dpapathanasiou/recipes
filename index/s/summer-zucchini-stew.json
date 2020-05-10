@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large pot over medium heat. Mix in the sausages, onion, potato, green bell pepper, and garlic. Cook 10 minutes, stirring often, until potatoes are slightly tender.",
+        "Mix the zucchini into pot. Pour in the tomatoes and their liquid and 3/4 tomato can (21 fluid ounces) water. Season with basil, oregano, parsley, salt, and pepper. Bring to a boil, reduce to low, and simmer 40 minutes.",
+        "Stir the green beans into the pot, and continue cooking 5 minutes, until beans are heated through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2736&h=1432&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F998851.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "2  Italian sausages, sliced",
+        "1 medium onion, finely diced",
+        "1 large potato, diced",
+        "1 medium green bell pepper, sliced",
+        "2 cloves garlic, minced",
+        "1 large zucchini, diced",
+        "1 (28 ounce) can roma tomatoes, with juice",
+        "21 fluid ounces water",
+        "1 tablespoon chopped fresh basil",
+        "1 teaspoon dried oregano",
+        "1 teaspoon chopped fresh parsley",
+        "salt and pepper to taste",
+        "1 (15 ounce) can green beans, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Summer Zucchini Stew",
     "url": "http://allrecipes.com/recipe/52357/summer-zucchini-stew/"
 }

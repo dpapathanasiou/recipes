@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F.",
+        "Combine 1 cup flour, undissolved yeast, sugar and salt in a large bowl. Add very warm water and oil; mix until well blended, about 1 minute.",
+        "Gradually add enough remaining flour to make a soft dough. Dough should form a ball and will be slightly sticky. Knead** on a floured surface, adding additional flour if necessary, until smooth and elastic, about 4 minutes. (If using RapidRise Yeast, let dough rest at this point for 10 minutes.)",
+        "Pat dough with floured hands to fill greased pizza pan or baking sheet. OR roll dough on a floured counter to 12-inch circle; place in greased pizza pan or baking sheet. Form a rim by pinching the edge of the dough.",
+        "For toppings: Combine oil and garlic; brush over crust. Top with freshly ground sea salt. Add tomato slices and basil; sprinkle with cheese. Finish with a sprinkle of Italian herb seasoning.",
+        "Bake on lowest oven rack for 12 to 15 minutes, until cheese is bubbly and crust is browned."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1058425.jpg",
+    "ingredients": [
+        "Thin Crust:",
+        "1 1/4 cups all-purpose flour, divided, or more as needed",
+        "1 (.25 ounce) envelope Fleischmann's\u00ae Pizza Crust Yeast or RapidRise Yeast",
+        "1 1/2 teaspoons sugar",
+        "3/4 teaspoon salt",
+        "1/2 cup very warm water (120 degrees to 130 degrees F)*",
+        "2 tablespoons Mazola\u00ae Extra Virgin Olive Oil",
+        "Toppings:",
+        "2 tablespoons Mazola\u00ae Extra Virgin Olive Oil",
+        "1 teaspoon minced fresh garlic",
+        "Freshly ground Spice Islands\u00ae Sea Salt Adjustable Grinder",
+        "2 medium tomatoes, thinly sliced",
+        "1/4 cup chopped fresh basil***",
+        "1 cup shredded Italian cheese blend",
+        "1 teaspoon Spice Islands\u00ae Italian Herb Seasoning"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pizza Margherita from Fleischmann's\u00ae",
     "url": "http://allrecipes.com/recipe/235211/pizza-margherita-from-fleischmannsr/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Grease 12 muffin cups or line with paper muffin liners.",
+        "In a large bowl, combine flour, baking powder and salt. Cut in shortening until mixture resembles coarse cornmeal. Add milk all at once to dry ingredients and stir with a fork until a soft dough is formed.  Turn dough out onto lightly floured surface and knead gently 8 to 10 times.  Roll out to a 12 inch square.",
+        "Gently spread butter over dough.  Combine brown sugar, cinnamon and raisins.  Sprinkle evenly on top of dough.  Roll up dough lightly like a jelly-roll.  Seal edge.  Cut into twelve 1 inch thick pieces.  Place in prepared muffin tins.",
+        "Bake in preheated oven for 14 to 18 minutes, until golden. Remove from heat immediately. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F51189.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "4 teaspoons baking powder",
+        "1 teaspoon salt",
+        "\u00bd cup shortening",
+        "1 cup milk",
+        "\u2153 cup butter, softened",
+        "\u00be cup packed brown sugar",
+        "1 tablespoon ground cinnamon",
+        "\u00bd cup raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Raisin Pinwheels",
     "url": "http://allrecipes.com/recipe/23819/cinnamon-raisin-pinwheels/"
 }

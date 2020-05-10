@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a pot, bring the rice and water to a boil. Reduce heat to low, cover, and simmer 20 minutes.",
+        "Heat the oil and melt the butter in a skillet over medium-high heat. Place chicken in skillet, and cook 6 to 8 minutes per side, or until juices run clear.",
+        "Pour rum over chicken. With a long match, carefully light the rum on fire. When flames subside, mix the mushrooms, bouillon granules, garlic powder, pepper, and coconut milk into the skillet. Reduce heat to low, and simmer 10 minutes, until heated through.",
+        "Serve chicken and mushroom mixture over cooked rice. Top with banana slices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1882598.jpg",
+    "ingredients": [
+        "\u00bd cup uncooked long-grain white rice",
+        "1 cup water",
+        "3 tablespoons vegetable oil",
+        "\u00bc cup butter",
+        "3  skinless, boneless chicken breast halves",
+        "3 fluid ounces dark rum",
+        "1 (6 ounce) can broiled-in-butter-style sliced mushrooms",
+        "2\u2009\u00bd tablespoons chicken bouillon granules",
+        "2 teaspoons garlic powder",
+        "2 teaspoons ground black pepper",
+        "1 (14 ounce) can coconut milk",
+        "1 small banana, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jamaican Spiked Chicken and Rice",
     "url": "http://allrecipes.com/recipe/73333/jamaican-spiked-chicken-and-rice/"
 }

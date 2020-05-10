@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large, round microwave safe casserole dish combine the ketchup, curry powder and cayenne powder and mix together. Add chicken pieces and turn to coat. Arrange chicken legs in a fan, with the thin part of the legs in the center of the dish. Cover and cook in the microwave on high for 12 to 15 minutes or until chicken is cooked through and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F656006.jpg",
+    "ingredients": [
+        "1 cup ketchup",
+        "5 tablespoons curry powder",
+        "1 teaspoon cayenne pepper",
+        "8  chicken legs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Loga's Microwave Chicken",
     "url": "http://allrecipes.com/recipe/16255/logas-microwave-chicken/"
 }

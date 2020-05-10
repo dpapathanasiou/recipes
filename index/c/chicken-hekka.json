@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut chicken meat into bite size pieces. In a medium bowl combine the sugar, soy sauce, and mirin wine. Mix well, and set aside.",
+        "In a skillet or wok, heat oil over medium-high heat. Squeeze juice from grated ginger into wok, add grated ginger, and stir fry until brown. Discard ginger fibers. Increase heat to high, and stir in chicken. Season with soy sauce mixture, and cook for 2 more minutes.",
+        "One at a time add the carrots, onions, bamboo shoots, mushrooms, and watercress.  Stir after each addition. Add rice noodles; cook, stirring, for about 3 more minutes, or until done."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F827120.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds skinless, boneless chicken breast meat",
+        "\u00be cup white sugar",
+        "\u00be cup soy sauce",
+        "\u00be cup mirin (Japanese sweet wine)",
+        "2 tablespoons vegetable oil",
+        "1 tablespoon grated fresh ginger",
+        "3  carrots, julienned",
+        "2  onions, thinly sliced",
+        "1 (14 ounce) can shredded bamboo, drained",
+        "\u00bd pound fresh mushrooms, sliced",
+        "1 cup trimmed and coarsely chopped watercress",
+        "1 (8 ounce) package rice noodles, soaked and cut into 2 inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Hekka",
     "url": "http://allrecipes.com/recipe/8916/chicken-hekka/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut pumpkin in half, remove seeds, pith and outer skin. Cut into 2x3 inch pieces.",
+        "Place 1/2 of pumpkin (2 to 3 pounds) in large bowl and season with salt and pepper. Add flour and stir to evenly coat.",
+        "Melt butter in a large deep skillet over medium heat. Add pumpkin and cook, turning often until golden brown and tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2099&h=1099&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4580643.jpg",
+    "ingredients": [
+        "1 small sugar pumpkin",
+        "salt and pepper to taste",
+        "\u00bd cup all-purpose flour",
+        "\u00bc cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Pumpkin",
     "url": "http://allrecipes.com/recipe/13834/fried-pumpkin/"
 }

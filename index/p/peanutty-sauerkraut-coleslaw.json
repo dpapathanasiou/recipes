@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toast the wheat germ in a skillet over medium-high heat, stirring constantly, until browned and fragrant, about 5 minutes. Pour wheat germ onto a plate, and set aside to cool. Place yogurt, peanut butter, and sugar into a blender, and blend until smooth.",
+        "Toss sauerkraut with peanut dressing; refrigerate for 30 minutes to allow the flavors to blend. Toss with toasted wheat germ just before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/3 cup wheat germ",
+        "1 cup vanilla yogurt",
+        "1/3 cup peanut butter",
+        "1/2 cup white sugar",
+        "3 cups sauerkraut, drained, rinsed and squeezed dry"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanutty Sauerkraut Coleslaw",
     "url": "http://allrecipes.com/recipe/109671/peanutty-sauerkraut-coleslaw/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put mint leaves into a tall glass. Use a muddler to bruise the leaves and release their aroma. Pour Scotch whiskey, simple syrup, and grapefruit juice over the leaves; stir. Add enough ice to fill glass; stir."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "15 sprigs mint leaves, or more to taste",
+        "3 fluid ounces Scotch whiskey",
+        "1 fluid ounce simple syrup",
+        "1 fluid ounce grapefruit juice",
+        "crushed ice, as desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mintskey Cocktail",
     "url": "http://allrecipes.com/recipe/242126/mintskey-cocktail/"
 }

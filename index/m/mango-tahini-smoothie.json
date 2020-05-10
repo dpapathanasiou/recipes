@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend mango, water, tahini, and lime juice together in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2519462.jpg",
+    "ingredients": [
+        "2 cups frozen mango chunks, slightly thawed",
+        "1 cup water",
+        "2 tablespoons tahini",
+        "2 tablespoons lime juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango Tahini Smoothie",
     "url": "http://allrecipes.com/recipe/234879/mango-tahini-smoothie/"
 }

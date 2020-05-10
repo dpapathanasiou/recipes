@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Grease an 8 x 8 inch square pan.",
+        "In a heavy saucepan over medium heat melt 1 cup of sugar, stirring constantly.  Carefully add boiling water.  Stir in remaining 2 cups of sugar, non-dairy creamer and salt.  Stirring constantly, bring mixture to a boil.  Without stirring, heat to 242 to 248 degrees F (116 to 120 degrees C), or until a small amount of syrup dropped into cold water forms a firm but pliable ball.  Remove from heat and cool to room temperature.",
+        "Beat mixture until it loses gloss.  Immediately fold in grated orange peel and nuts and transfer to prepared pan.  Chill for 2 hours, or until firm, before cutting."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "3 cups white sugar, divided",
+        "1/4 cup boiling water",
+        "1 cup liquid non-dairy creamer",
+        "1/4 teaspoon salt",
+        "2 teaspoons grated orange peel",
+        "1 cup chopped almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Fudge",
     "url": "http://allrecipes.com/recipe/22630/orange-fudge/"
 }

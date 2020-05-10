@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine strawberries, sugar, 2 tablespoons water, and balsamic vinegar in a saucepan and bring to simmer over medium heat.",
+        "Reduce heat to medium-low, cover, and simmer for 15 minutes.",
+        "Whisk 2 tablespoons water and cornstarch in a small bowl.",
+        "Whisk cornstarch mixture into strawberry mixture. Cook, stirring constantly, until mixture thickens, 1 to 2 minutes. Remove from heat.",
+        "Transfer mixture to a blender and puree until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1044471.jpg",
+    "ingredients": [
+        "1 pint fresh strawberries, hulled",
+        "1/4 cup white sugar, or more to taste",
+        "2 tablespoons water",
+        "1/2 teaspoon balsamic vinegar",
+        "2 tablespoons water",
+        "1 teaspoon cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Strawberry Sauce",
     "url": "http://allrecipes.com/recipe/221141/fresh-strawberry-sauce/"
 }

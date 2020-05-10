@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir sour cream, mayonnaise, salsa, vegetable bouillon, and taco seasoning mix together in a bowl until smooth. Fold cheese into the creamy mixture.",
+        "Cover bowl with plastic wrap and refrigerate until chilled, at least 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1130560.jpg",
+    "ingredients": [
+        "\u00bd cup sour cream",
+        "\u00bd cup light mayonnaise (such as Hellmann's Light\u00ae)",
+        "\u00bd cup salsa",
+        "1 teaspoon vegetable bouillon (such as Knorr\u00ae)), or more to taste",
+        "1 tablespoon taco seasoning mix (such as Old El Paso\u00ae)",
+        "1 cup shredded Cheddar-Monterey Jack cheese blend"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Nacho Dip",
     "url": "http://allrecipes.com/recipe/237871/creamy-nacho-dip/"
 }

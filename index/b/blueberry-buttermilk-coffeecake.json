@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan.",
+        "Sift flour, baking powder, baking soda, and salt together in a bowl. Set aside.",
+        "In a large bowl, cream together sugar and butter until light and fluffy. Beat in eggs one at a time, then stir in the vanilla.  Beat in the flour mixture alternately with the buttermilk, mixing just until incorporated. Sir in blueberries. Pour batter into prepared pan.",
+        "In a small bowl, combine flour and sugar. Cut in butter until mixture resembles coarse crumbs. Sprinkle over top of batter.",
+        "Bake in the preheated oven for 45 to 60 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F567531.jpg",
+    "ingredients": [
+        "4 cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1\u2009\u2153 cups white sugar",
+        "\u00bd cup butter",
+        "2  eggs",
+        "1 teaspoon vanilla extract",
+        "2 cups buttermilk",
+        "2 cups blueberries",
+        "\u2154 cup all-purpose flour",
+        "\u2154 cup white sugar",
+        "6 tablespoons butter, softened"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry Buttermilk Coffeecake",
     "url": "http://allrecipes.com/recipe/25965/blueberry-buttermilk-coffeecake/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 325 degrees F (165 degrees C).  Grease a 1 quart casserole dish.",
+        "Place a layer of crushed crackers in the bottom of the prepared casserole dish. Cover with a layer of oysters. Repeat layers ending with a layer of cracker crumbs on the top. Drizzle the half-and-half over all, and dot with pieces of butter. Sprinkle paprika over the top. Cover, and let stand for one hour to firm up.",
+        "Bake for 1 hour in the preheated oven, until the top is golden, and the center is firm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1377803.jpg",
+    "ingredients": [
+        "35  buttery round crackers, crushed",
+        "1 (12 ounce) can oysters, drained",
+        "2 cups half-and-half cream",
+        "1 tablespoon butter",
+        "1 pinch paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oyster Souffle",
     "url": "http://allrecipes.com/recipe/48740/oyster-souffle/"
 }

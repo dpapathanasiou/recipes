@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking pan.",
+        "In a large bowl, mix together the cake mix, water, butter, and egg until well blended. Spread into the bottom of the prepared pan.",
+        "Bake for 20 minutes in the preheated oven, or until a toothpick inserted into the center comes out clean. Remove from the oven, and sprinkle the marshmallows over the top. Return to the oven for about 2 minutes, just to melt the marshmallows together. Remove from the oven, and place pan on a wire rack to cool.",
+        "In a saucepan, combine the peanut butter chips, corn syrup, and butter. Stir over medium-low heat until melted and well blended. Remove from the heat, and stir in the vanilla, rice cereal and peanuts. Spread in an even layer over the marshmallows. Allow the bars to cool completely before cutting into squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (18.25 ounce) package yellow cake mix",
+        "2 tablespoons water",
+        "\u2153 cup butter or margarine, softened",
+        "1  egg",
+        "4 cups miniature marshmallows",
+        "2 cups peanut butter chips",
+        "\u2154 cup light corn syrup",
+        "\u00bc cup butter or margarine",
+        "2 teaspoons vanilla extract",
+        "2 cups crisp rice cereal",
+        "2 cups salted peanuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Mallow Bars",
     "url": "http://allrecipes.com/recipe/72673/peanut-mallow-bars/"
 }

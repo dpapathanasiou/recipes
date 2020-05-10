@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a 9x13-inch baking dish with cooking spray, and place the bread cubes into the dish. In a bowl, mix together the pumpkin puree, sugar, cinnamon, ginger, nutmeg, vanilla extract, salt, eggs, milk, evaporated milk, and pecans. Pour the pumpkin mixture over the bread cubes. Cover the dish with plastic wrap, and refrigerate overnight.",
+        "The next day, preheat oven to 350 degrees F (175 degrees C). Uncover and bake the casserole until the pumpkin mixture is set and a toothpick inserted into the center of the casserole comes out clean, about 45 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1565502.jpg",
+    "ingredients": [
+        "10 slices white bread, cubed",
+        "1 (15 ounce) can pumpkin puree",
+        "2/3 cup white sugar",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground ginger",
+        "1/2 teaspoon ground nutmeg",
+        "1 teaspoon vanilla extract",
+        "1/8 teaspoon salt",
+        "6 eggs, beaten",
+        "1 cup milk",
+        "1 (5 ounce) can evaporated milk",
+        "1/2 cup chopped pecans (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Breakfast Casserole",
     "url": "http://allrecipes.com/recipe/214598/pumpkin-breakfast-casserole/"
 }

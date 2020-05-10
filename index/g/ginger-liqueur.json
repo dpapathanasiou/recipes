@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend ginger and water together in a blender until smooth.",
+        "Strain orange juice through a fine-mesh strainer into a bowl. Stir ginger-water mixture, brandy, sugar, and vanilla into the orange juice until the sugar dissolves completely.",
+        "Refrigerate until cold, at least 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 ounces fresh ginger, peeled and thinly sliced",
+        "1 1/2 cups water",
+        "1/2 cup freshly squeezed orange juice",
+        "1 1/2 cups brandy",
+        "1 cup white sugar",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ginger Liqueur",
     "url": "http://allrecipes.com/recipe/229335/ginger-liqueur/"
 }

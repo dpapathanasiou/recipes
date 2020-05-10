@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare yellow rice as directed on package; reserve 1 1/2 cups. Refrigerate any remaining rice for another use.",
+        "Preheat oven to 375 degrees F (190 degrees C). Spray a 9x13 inch baking dish with cooking spray.",
+        "Line bottom of baking dish with 4 tortillas. To make the honey sauce, whisk together the mustard, sour cream, and 1/3 cup honey in a small bowl. Combine the red pepper, green pepper, garbanzo beans, black beans, and corn in a large bowl. Scoop out 1/2 cup of the bean mixture and reserve for topping.",
+        "Stir the chicken, 1/4 cup mozzarella cheese, 1/4 cup Cheddar cheese, cumin, yellow rice, and honey sauce into the bean mixture. Mix well. Pour mixture into the baking dish. Top with 4 tortillas; sprinkle with the remaining 1/4 cup mozzarella cheese, 1/4 cup Cheddar cheese, and the reserved 1/2 cup bean mixture.",
+        "Bake in preheated oven until hot and bubbly, 30 to 45 minutes. Cover with aluminum foil if top browns excessively. Remove from oven, drizzle with the remaining 2 tablespoons of honey."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1966&h=1029&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F741734.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups cooked yellow rice",
+        "1 serving cooking spray",
+        "8 (8 inch) flour tortillas",
+        "\u00bc cup prepared yellow mustard",
+        "\u00bc cup sour cream",
+        "\u2153 cup honey",
+        "\u00bd cup diced red bell pepper",
+        "\u00bd cup diced green bell pepper",
+        "1 (15 ounce) can garbanzo beans, drained",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 cup corn kernels",
+        "2 cups shredded cooked chicken",
+        "\u00bd cup shredded mozzarella cheese",
+        "\u00bd cup shredded Cheddar cheese",
+        "1\u2009\u00bd teaspoons ground cumin",
+        "1 tablespoon honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bean and Honey Burrito Casserole",
     "url": "http://allrecipes.com/recipe/203299/bean-and-honey-burrito-casserole/"
 }

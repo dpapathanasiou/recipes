@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat vegetable oil in a Dutch oven over medium heat; cook and stir chicken pieces until browned, 5 to 10 minutes. Remove chicken with a slotted spoon and place on a plate. Cook and stir onion, green bell pepper, minced garlic, and whole garlic cloves in the same Dutch oven until onion is softened, about 5 minutes.",
+        "Return chicken to the onion mixture. Add tomatoes, rice, salt, oregano, black pepper, and bay leaf. Pour in enough chicken stock to cover all the ingredients.",
+        "Bake chicken-rice mixture in the preheated oven until rice is tender and chicken is no longer pink in the center and the juices run clear, about 1 hour and 30 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+        "Stir peas, olives, raisins, and pimento peppers into the chicken-rice mixture. Bake until warmed through, an additional 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3674&h=1924&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3482170.jpg",
+    "ingredients": [
+        "\u00bc cup vegetable oil",
+        "1 (4 to 6 pound) whole chicken, cut into pieces",
+        "1  onion, chopped",
+        "1  green bell pepper, chopped",
+        "2 cloves garlic, minced",
+        "2 cloves garlic",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "1 cup rice",
+        "2 teaspoons salt, or to taste",
+        "1 teaspoon dried oregano",
+        "\u00bd teaspoon ground black pepper",
+        "1  bay leaf",
+        "2 cups chicken stock, or as needed to cover",
+        "1 cup green peas",
+        "\u00bd cup sliced black olives",
+        "\u00bd cup raisins",
+        "\u00bc cup chopped pimento peppers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Arroz Con Pollo",
     "url": "http://allrecipes.com/recipe/228488/arroz-con-pollo/"
 }

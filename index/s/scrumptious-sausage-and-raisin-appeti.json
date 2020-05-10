@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Mix sausage, raisins, and basil together in a bowl; roll into walnut-size balls. Arrange balls on a baking sheet or jelly roll pan with sides; sprinkle with paprika.",
+        "Bake in the preheated oven for 15 minutes. Remove sheet from oven, drain fat, re-roll balls if needed, and sprinkle with more paprika. Continue baking until cooked through, 10 to 15 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Drain."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 pound bulk pork sausage",
+        "1/2 cup golden raisins",
+        "1/2 teaspoon dried basil",
+        "1 pinch paprika, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Scrumptious Sausage and Raisin Appetizer Balls",
     "url": "http://allrecipes.com/recipe/236220/scrumptious-sausage-and-raisin-appeti/"
 }

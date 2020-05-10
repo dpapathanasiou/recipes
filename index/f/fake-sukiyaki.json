@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a wok over high heat, combine 1/4 cup of the beef stock, soy sauce, and sake. Add onions and mushrooms; fry until onions start to soften. Add the strips of beef and remaining beef stock, and cook, stirring constantly, for 2 minutes. Add spinach, cover, and cook for 3 minutes, until spinach is wilted, but not fully cooked. Adjust seasonings to taste, and serve over udon or ramen noodles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=948&h=496&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F10017.jpg",
+    "ingredients": [
+        "\u00bd pound thinly sliced roast beef, cut into strips",
+        "1 bunch fresh spinach, rinsed and stemmed",
+        "12 ounces fresh button mushrooms, halved",
+        "1 (10.75 ounce) can beef stock, divided",
+        "\u00bd cup thinly sliced onion",
+        "3 tablespoons sake, or to taste",
+        "3 tablespoons soy sauce, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fake Sukiyaki",
     "url": "http://allrecipes.com/recipe/51356/fake-sukiyaki/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend yogurt, strawberries, tofu, banana, milk, and sugar together in a blender until desired consistency is reached."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1949012.jpg",
+    "ingredients": [
+        "1/2 cup nonfat plain yogurt",
+        "1/2 cup strawberries",
+        "1/4 (16 ounce) package silken tofu",
+        "1 banana, cut into chunks",
+        "1/4 cup milk, or to taste",
+        "1 tablespoon white sugar, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lexi's Protein-Packed Smoothie",
     "url": "http://allrecipes.com/recipe/238651/lexis-protein-packed-smoothie/"
 }

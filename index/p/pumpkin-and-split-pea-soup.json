@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse and pick over the yellow split peas and soak overnight in clear water.",
+        "Saute the onions in the butter in a large, heavy-bottomed saucepan. Add the soaked split peas, chicken stock, pumpkin, salt beef, chili pepper and bitters. Cover and simmer for 1 1/2 hours or until the peas are soft.",
+        "Allow the soup to cool and then puree in a blender. Adjust the seasoning and reheat and serve with a little nutmeg sprinkled on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2433&h=1274&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1052742.jpg",
+    "ingredients": [
+        "1 pound yellow split peas",
+        "1  onion, diced",
+        "4  onions, thinly sliced",
+        "4 tablespoons margarine",
+        "6 cups chicken stock",
+        "1 pound peeled, seeded and diced sugar pumpkin",
+        "1 pound salt beef, fat removed and diced",
+        "1  green chile pepper, chopped",
+        "3 dashes aromatic bitters"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin and Split Pea Soup",
     "url": "http://allrecipes.com/recipe/13165/pumpkin-and-split-pea-soup/"
 }

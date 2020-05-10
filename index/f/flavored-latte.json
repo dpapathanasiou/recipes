@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour milk into a steaming pitcher and heat to 145 degrees F to 165 degrees F (65 to 70 degrees C) using the steaming wand. Measure the flavored syrup into a large coffee mug.  Brew espresso, then add to mug.  Pour the steamed milk into the mug, using a spoon to hold back the foam. Spoon foam over the top."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/45584.jpg",
+    "ingredients": [
+        "1 1/4 cups 2% milk",
+        "2 tablespoons any flavor of flavored syrup",
+        "1 (1.5 fluid ounce) jigger brewed espresso"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Flavored Latte",
     "url": "http://allrecipes.com/recipe/146967/flavored-latte/"
 }

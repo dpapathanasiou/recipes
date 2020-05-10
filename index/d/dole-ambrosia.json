@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine pineapple chunks, mandarin oranges, banana, grapes and marshmallows in medium bowl.",
+        "Stir yogurt into fruit mixture. Sprinkle with coconut."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1009742.jpg",
+    "ingredients": [
+        "1 (20 ounce) can DOLE\u00ae Pineapple Chunks, drained",
+        "1 (11 ounce) can DOLE Mandarin Oranges, drained",
+        "1 DOLE Banana, sliced",
+        "1 1/2 cups seedless grapes",
+        "1/2 cup miniature marshmallows",
+        "1 cup vanilla low-fat yogurt",
+        "1/4 cup flaked coconut, toasted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "DOLE\u00ae Ambrosia",
     "url": "http://allrecipes.com/recipe/64420/dole-ambrosia/"
 }

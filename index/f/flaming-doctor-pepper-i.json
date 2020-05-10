@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a pint glass half full of beer.",
+        "Pour the amaretto into a standard shot glass. Carefully pour the 151 proof rum on top of the amaretto so that it floats.",
+        "Carefully light the shot on fire by touching with open flame. Drop the lit shot into the half full glass of beer and slam."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3227333.jpg",
+    "ingredients": [
+        "1 cup beer",
+        "1 fluid ounce amaretto liqueur",
+        "1/4 fluid ounce 151 proof rum"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Flaming Doctor Pepper I",
     "url": "http://allrecipes.com/recipe/24223/flaming-doctor-pepper-i/"
 }

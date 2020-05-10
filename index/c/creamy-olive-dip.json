@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix mayonnaise, sour cream, olives, parsley, dill, minced onion, and seasoned salt together in a bowl; cover with plastic wrap and refrigerate 4 hours to overnight."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1061252.jpg",
+    "ingredients": [
+        "1 (16 ounce) jar mayonnaise",
+        "1 (16 ounce) container sour cream",
+        "1 (6 ounce) can sliced black olives, drained",
+        "1 tablespoon dried parsley",
+        "1 tablespoon dried dill weed",
+        "1 tablespoon dried minced onion",
+        "2 teaspoons seasoned salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Olive Dip",
     "url": "http://allrecipes.com/recipe/234704/creamy-olive-dip/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Process banana, lemon, mango, orange, apples, and ginger through juicer."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2072031.jpg",
+    "ingredients": [
+        "1 banana, peeled",
+        "1/2 lemon, peeled",
+        "1 mango - peeled, seeded, and cut into wedges",
+        "1/2 orange, peeled",
+        "2 apples, cut into chunks",
+        "2 slices fresh ginger root"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yummy Mango Citrus Drink",
     "url": "http://allrecipes.com/recipe/234488/yummy-mango-citrus-drink/"
 }

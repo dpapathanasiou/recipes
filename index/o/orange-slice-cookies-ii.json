@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+        "In a large bowl, cream together the butter, brown sugar and white sugar until light and fluffy. Add the eggs one at a time, beating well with each addition, then stir in the vanilla. Combine the flour, baking soda and salt; gradually stir into the creamed mixture. Finally, stir in the oats, coconut and candy orange slices. Drop by rounded spoonfuls onto the prepared cookie sheet.",
+        "Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5876320.jpg",
+    "ingredients": [
+        "1 cup butter, softened",
+        "1 cup brown sugar",
+        "1 cup white sugar",
+        "2  eggs",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 cup rolled oats",
+        "1 cup flaked coconut",
+        "1 cup chopped orange slices candy"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Slice Cookies II",
     "url": "http://allrecipes.com/recipe/17328/orange-slice-cookies-ii/"
 }

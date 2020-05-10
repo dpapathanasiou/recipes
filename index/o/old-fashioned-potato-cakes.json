@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix mashed potatoes, flour, onion, egg, black pepper, and salt together in a bowl until batter consistency.",
+        "Heat vegetable oil in a skillet over medium heat. Drop 4-inch circles of batter into hot oil. Cook until golden brown, about 5 minutes per side. Remove with a slotted spoon and drain on paper towels. Repeat with remaining batter."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 cups mashed potatoes",
+        "1 cup all-purpose flour",
+        "1  onion, diced",
+        "1  egg",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon salt",
+        "\u00bd cup vegetable oil, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Old Fashioned Potato Cakes",
     "url": "http://allrecipes.com/recipe/223597/old-fashioned-potato-cakes/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly butter an 8x8 inch baking pan.",
+        "Line bottom of pan with bread cubes. In a large bowl, beat together eggs, milk, 2 tablespoons sugar, salt and vanilla. pour egg mixture over bread. Dot with margarine; let stand for 10 minutes.",
+        "Combine remaining 2 tablespoons sugar with 1 teaspoon cinnamon and sprinkle over the top.  Bake in preheated oven about 45 to 50 minutes, until top is golden."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2138347.jpg",
+    "ingredients": [
+        "5 cups bread cubes",
+        "4 eggs",
+        "1 1/2 cups milk",
+        "1/4 cup white sugar, divided",
+        "1/4 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon margarine, softened",
+        "1 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "French Toast Casserole",
     "url": "http://allrecipes.com/recipe/22389/french-toast-casserole/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place fish in a baking dish and drizzle melted butter over fish; season with garlic powder, garlic pepper seasoning, and salt. Top fish with lemon slices and capers.",
+        "Bake in the preheated oven until fish flakes easily with a fork, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2661&h=1393&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3116568.jpg",
+    "ingredients": [
+        "2 pounds swai fish",
+        "\u00bc cup butter, melted",
+        "\u00bc teaspoon garlic powder, or to taste",
+        "\u00bc teaspoon garlic pepper seasoning, or to taste",
+        "salt to taste",
+        "1  lemon, thinly sliced",
+        "1 tablespoon capers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Elegant Baked Fish",
     "url": "http://allrecipes.com/recipe/244603/easy-elegant-baked-fish/"
 }

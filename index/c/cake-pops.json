@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place about 1/4 cup of candy melts into a small microwave-safe bowl, and melt in the microwave at 40 percent power for 30 seconds; stir the candy coating, and continue to heat for 30 second-intervals until the coating is just warm and completely melted.",
+        "Poke a hole halfway through a doughnut hole with a lollipop stick, then dip the end of the stick into the melted coating and reinsert into the hole. This holds the doughnut hole firmly on the stick. Stick the doughnut pop upright into a block of plastic foam, and set into refrigerator for 1 hour to firm up.",
+        "When pops are firmly attached to their sticks, melt the remaining candy coating dots in a microwave-safe bowl on 40 percent power for 1 minute; stir, and melt for 30-second intervals until the coating is warm and smoothly melted. Dip the doughnut hole into the coating, covering it completely. Hold the dipped pop over a bowl, and sprinkle with colored candy sprinkles. Return the decorated pops to the plastic foam block to set."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F839200.jpg",
+    "ingredients": [
+        "1 (12 ounce) package colored candy coating melts, divided",
+        "24  plain doughnut holes",
+        "24  lollipop sticks",
+        "1 tablespoon multicolored candy sprinkles (jimmies), as desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cake Pops",
     "url": "http://allrecipes.com/recipe/217180/cake-pops/"
 }

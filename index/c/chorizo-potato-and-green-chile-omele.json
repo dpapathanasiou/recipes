@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 350 degrees F.",
+        "Cook chorizo and onions in medium ovenproof skillet on medium heat 8 min. or until chorizo is done, stirring frequently. Add potatoes and chiles; cook 2 min., stirring occasionally. Remove from heat. Stir in 1/2 cup cheese; spread to form even layer in skillet.",
+        "Whisk eggs and sour cream until well blended; pour over chorizo mixture. Top with remaining cheese.",
+        "Bake 25 min. or until center is set. Serve topped with salsa."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/980201.jpg",
+    "ingredients": [
+        "6 ounces chorizo",
+        "1 small red onion, chopped",
+        "3 cups frozen Southern-style hash browns",
+        "1 (4 ounce) can chopped green chiles, undrained",
+        "1 (8 ounce) package KRAFT Mexican Style Shredded Four Cheese with a Touch of PHILADELPHIA, divided",
+        "4 whole eggs",
+        "8 egg whites",
+        "1/2 cup BREAKSTONE'S or KNUDSEN Sour Cream",
+        "1/2 cup red salsa"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chorizo, Potato and Green Chile Omelet",
     "url": "http://allrecipes.com/recipe/218195/chorizo-potato-and-green-chile-omele/"
 }

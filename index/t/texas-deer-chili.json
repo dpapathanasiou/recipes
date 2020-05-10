@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium heat, cook venison, onion and garlic in oil until meat is browned.  Transfer to a slow cooker and stir together with chiles, beans, broth oregano, cumin, salt and paprika.  Cook on medium 4 to 5 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/29148.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "2 1/2 pounds venison, cut into cubes",
+        "1 large onion, chopped",
+        "1 clove garlic, minced",
+        "1 (4 ounce) can diced green chile peppers",
+        "2 (15 ounce) cans kidney beans, drained and rinsed",
+        "2 (10.5 ounce) cans beef broth",
+        "2 teaspoons dried oregano",
+        "2 teaspoons ground cumin",
+        "1/2 teaspoon salt",
+        "1 1/2 teaspoons paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Texas Deer Chili",
     "url": "http://allrecipes.com/recipe/25669/texas-deer-chili/"
 }

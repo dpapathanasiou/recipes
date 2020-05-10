@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare noodles according to package directions.",
+        "Heat oil in a large nonstick skillet. Add mushrooms, onion and garlic. Cook over medium heat, stirring frequently, for 5 minutes or until vegetables are tender. Remove from skillet (don't bother to wash skillet).",
+        "Combine beef strips, 2 tablespoons flour, salt and pepper in a plastic bag. Shake well to lightly coat beef. Melt butter in skillet. Add the beef strips, half at a time if necessary to prevent crowding. Brown on both sides, about 2 minutes per side over medium heat. Remove when deep brown. Pour beef broth into skillet, scraping up browned bits in bottom of skillet. Reduce heat to low.",
+        "Combine sour cream, tomato paste, paprika and remaining 1 tablespoon flour in a medium bowl. Pour about 1/2 cup of the hot broth into the sour cream mixture. Stir well. Pour the sour cream mixture back into the skillet. Cook over low heat, stirring constantly, until mixture is smooth and slightly thickened (sour cream may separate but will come together and thicken as it cooks). Stir in reserved mushroom mixture and beef and heat through, about 5 minutes. Serve over noodles. Garnish with chopped parsley."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1579859.jpg",
+    "ingredients": [
+        "6 ounces NO YOLKS\u00ae Extra Broad Noodles",
+        "1 tablespoon vegetable oil",
+        "1 (8 ounce) package fresh sliced mushrooms",
+        "1 small onion, thinly sliced",
+        "1 clove garlic, minced",
+        "1 pound flank steak or London broil, cut into thin strips",
+        "3 tablespoons flour, divided",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1 tablespoon butter",
+        "1 1/4 cups beef broth",
+        "6 tablespoons low-fat sour cream",
+        "1 tablespoon tomato paste",
+        "1 teaspoon paprika",
+        "2 tablespoons chopped Italian parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "NO YOLKS\u00ae Beef Stroganoff",
     "url": "http://allrecipes.com/recipe/239900/no-yolks-beef-stroganoff/"
 }

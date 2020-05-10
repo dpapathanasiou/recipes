@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix tofu, onion, pine nuts, red pepper flakes, black pepper, turmeric, and 1/8 teaspoon kosher salt together in a large bowl.",
+        "Heat olive oil in a skillet over medium heat. Cook and stir tofu mixture until heated through, about 8 minutes. Reduce heat to low to keep mixture warm while preparing guacamole.",
+        "Mix tomatoes, avocados, jalapeno peppers, garlic, and 1/4 teaspoon kosher salt together in a separate bowl.",
+        "Arrange lettuce leaves onto a platter. Spoon guacamole into each lettuce leaf; top with tofu mixture."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "Smoked Tofu Filling:",
+        "1 (8 ounce) container smoked tofu, diced",
+        "2/3 cup diced red onion",
+        "1/2 cup pine nuts",
+        "1/4 teaspoon red pepper flakes",
+        "1/4 teaspoon ground black pepper",
+        "1/4 teaspoon ground turmeric",
+        "1/8 teaspoon kosher salt",
+        "1 tablespoon extra-virgin olive oil",
+        "Guacamole:",
+        "3 tomatoes, diced",
+        "2 avocados, flesh removed and lightly mashed",
+        "2 jalapeno peppers, minced",
+        "3 cloves garlic, minced",
+        "1/4 teaspoon kosher salt",
+        "1 head Bibb lettuce leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Smoked Tofu and Guacamole Lettuce Wraps",
     "url": "http://allrecipes.com/recipe/242272/smoked-tofu-and-guacamole-lettuce-wra/"
 }

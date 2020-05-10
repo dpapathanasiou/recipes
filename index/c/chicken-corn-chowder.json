@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the soup, potato, corn, milk, chicken and bacon in a 3-quart saucepan over medium-high heat to a boil.",
+        "Reduce the heat to medium-low.  Cover and cook for 15 minutes or until the potatoes are tender, stirring occasionally."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (14.5 ounce) carton Campbell's\u00ae Creamy Herb & Garlic with Chicken Stock Soup",
+        "1 medium potato, peeled and cut into 1/2-inch cubes",
+        "1\u2009\u00bd cups frozen whole kernel corn, thawed",
+        "2 cups milk",
+        "1\u2009\u00bd cups diced cooked chicken",
+        "2 strips bacon, cooked and crumbled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken & Corn Chowder",
     "url": "http://allrecipes.com/recipe/239677/chicken-corn-chowder/"
 }

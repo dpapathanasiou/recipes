@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a rocks glass with ice; add rum and schnapps. Top drink with cola."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1108928.jpg",
+    "ingredients": [
+        "1/2 cup ice, or as needed",
+        "1 fluid ounce spiced rum",
+        "1 fluid ounce root beer-flavored schnapps",
+        "3 fluid ounces cola-flavored carbonated beverage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Super Root Beer",
     "url": "http://allrecipes.com/recipe/236798/super-root-beer/"
 }

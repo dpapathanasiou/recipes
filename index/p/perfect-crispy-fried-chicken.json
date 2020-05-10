@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken drumsticks and thighs in a bowl and pour enough buttermilk over chicken to cover. Cover and refrigerate for 12 to 24 hours.",
+        "Combine flour, cornmeal, granulated onion, granulated garlic, thyme, salt, paprika, monosodium glutamate, baking powder, and cayenne pepper in a large, wide bowl.",
+        "Remove chicken from buttermilk and shake off excess. Discard buttermilk. Pat chicken dry with paper towels.",
+        "Dip chicken into egg whites and press into flour mixture. Allow coated chicken to rest on a wire rack for 20 to 30 minutes.",
+        "Fill a cast-iron skillet or deep fryer with vegetable oil about 1/3 full. Heat to 350 degrees F (175 degrees C).",
+        "Preheat oven to 250 degrees F (120 degrees C).",
+        "Fry chicken in hot oil in batches until golden brown and no longer pink in the center, 8 to 10 minutes per side. Thighs may take longer to fry than drumsticks. Transfer fried chicken to a wire rack or a paper towel-lined tray to drain. Keep chicken warm in preheated oven while frying remaining pieces."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1920&h=1005&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1323259.jpg",
+    "ingredients": [
+        "3  chicken leg quarters, cut into thighs and drumsticks",
+        "2 cups buttermilk, or as needed to cover",
+        "\u00be cup all-purpose flour",
+        "\u00bc cup cornmeal",
+        "1 teaspoon granulated onion",
+        "1 teaspoon granulated garlic",
+        "1 teaspoon ground thyme",
+        "1 tablespoon salt",
+        "\u00bd teaspoon paprika",
+        "\u00bc teaspoon monosodium glutamate (MSG) (optional)",
+        "\u00bc teaspoon baking powder",
+        "\u215b teaspoon cayenne pepper",
+        "4  egg whites, beaten until foamy",
+        "vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Perfect Crispy Fried Chicken",
     "url": "http://allrecipes.com/recipe/230854/perfect-crispy-fried-chicken/"
 }

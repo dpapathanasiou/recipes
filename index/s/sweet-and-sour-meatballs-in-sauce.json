@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix the ground beef, eggs, bread crumbs, onion, milk, salt, and black pepper together in a large mixing bowl until evenly combined. Form the mixture into 12 large meatballs. Arrange the meatballs into a 9x13-inch baking dish.",
+        "Stir the ketchup, tomato sauce, water, brown sugar, white sugar, Worcestershire sauce, Italian seasoning, and chili powder together in a saucepan over medium heat; cook and stir until well combined and hot, about 5 minutes. Pour the tomato sauce mixture over the meatballs in the baking dish. Turn the meatballs to coat in the sauce.",
+        "Bake in the preheated oven until the meatballs are cooked through and no longer pink in the center, 60 to 90 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4032&h=2111&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4511957.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground beef",
+        "2  eggs",
+        "1\u2009\u00bd cups bread crumbs",
+        "\u00bc cup finely chopped onion",
+        "\u00be cup milk",
+        "salt and ground black pepper to taste",
+        "2 cups ketchup",
+        "2 (8 ounce) cans tomato sauce",
+        "2 cups water",
+        "\u2154 cup brown sugar",
+        "\u2154 cup white sugar",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon Italian seasoning",
+        "1 teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Sour Meatballs in Sauce",
     "url": "http://allrecipes.com/recipe/219287/sweet-and-sour-meatballs-in-sauce/"
 }

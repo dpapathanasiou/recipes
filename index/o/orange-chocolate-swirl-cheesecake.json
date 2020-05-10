@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 325 degrees F (165 degrees C). In a medium bowl, mix together the graham cracker crumbs, sugar and butter until well blended. Press into the bottom and 1 1/2 inches up the side of a 9 inch springform pan.",
+        "Bake for 10 minutes. In a metal bowl over a pan of simmering water, melt chocolate, stirring occasionally until smooth. Set aside to cool, but do not allow to harden.",
+        "In a medium bowl, mix together the cream cheese and 1 cup sugar until smooth. Mix in the eggs, one at a time on a low speed, or by hand. Gradually stir in the orange juice, and orange zest. Reserve 2 cups of the batter. Pour the remaining batter over the baked crust. Stir the melted chocolate into the reserved batter. Drop the chocolate batter by large spoonfuls onto the white batter. Use a knife to cut through the batter, and leave a swirling design.",
+        "Bake for 60 minutes in the preheated oven, or until the center is almost set. Run a spatula or thin knife around the edge of the pan while it is still warm, so the cake will not crack. Allow cake to cool completely before removing the sides of the pan. Refrigerate for at least 4 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1834&h=960&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1001624.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups graham cracker crumbs",
+        "\u00bc cup white sugar",
+        "\u2153 cup butter, melted",
+        "4 ounces semisweet chocolate, chopped",
+        "3 (8 ounce) packages cream cheese, softened",
+        "1 cup white sugar",
+        "5  eggs",
+        "2 tablespoons orange juice",
+        "\u00bd teaspoon grated orange zest"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Chocolate Swirl Cheesecake",
     "url": "http://allrecipes.com/recipe/40028/orange-chocolate-swirl-cheesecake/"
 }

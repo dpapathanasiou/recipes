@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Spray a 9x13-inch baking dish with cooking spray.",
+        "Heat vegetable oil in a skillet over medium heat; cook and stir onion in hot oil until browned, 8 to 10 minutes.",
+        "Transfer onion to a large bowl; add cauliflower, mushrooms, chiles, and olives.",
+        "Beat eggs with flour in a separate bowl. Stir cottage cheese, Cheddar cheese, Monterey Jack cheese, salt, and black pepper into egg and flour mixture.",
+        "Combine egg and cheese mixture with the vegetable mixture until well mixed.",
+        "Spread cauliflower mixture into prepared baking dish; sprinkle with bread crumbs.",
+        "Bake in the preheated oven until cauliflower is tender and bread crumbs are lightly browned on top, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2049700.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 tablespoon vegetable oil",
+        "1 large onion, chopped",
+        "1 head cauliflower, cut into 1/2-inch pieces",
+        "1 (7 ounce) can sliced mushrooms, drained",
+        "1 (4 ounce) can diced green chile peppers (optional)",
+        "1 (6 ounce) can chopped olives",
+        "6  eggs",
+        "2 tablespoons all-purpose flour",
+        "1 (16 ounce) package cottage cheese",
+        "1 cup shredded Cheddar cheese",
+        "1 cup shredded Monterey Jack cheese",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "1 cup fresh bread crumbs (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Cauliflower Casserole",
     "url": "http://allrecipes.com/recipe/221112/baked-cauliflower-casserole/"
 }

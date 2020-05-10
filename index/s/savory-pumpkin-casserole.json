@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F (190 degrees C). Coat a large baking dish with oil or cooking spray.",
+        "Cut pumpkin in half, and remove seeds; cut into 1/4 inch thick slices. Peel slices, and place pumpkin slices into a large bowl. Toss with onion and melted butter, and season with salt and white pepper. Arrange in prepared baking dish.",
+        "Bake pumpkin in preheated oven for 30 minutes. In a mixing bowl, beat eggs with milk and cheese; pour mixture over pumpkin in baking dish. Continue baking for 20 minutes, or until golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7179476.jpg",
+    "ingredients": [
+        "1 (2 pound) pumpkin",
+        "1 large onion, finely chopped",
+        "2 tablespoons unsalted butter, melted",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground white pepper",
+        "2  eggs",
+        "\u00be cup milk",
+        "\u00be cup farmer's cheese or ricotta cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Pumpkin Casserole",
     "url": "http://allrecipes.com/recipe/152259/savory-pumpkin-casserole/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large pot with lightly salted water and bring to a rolling boil; add 2 teaspoons cumin to boiling water. Cook cauliflower florets, working in batches, in the boiling water until cooked but still crisp, 1 to 2 minutes. Remove with a slotted spoon and cool on a plate.",
+        "Blend flour, egg, garlic, 1 teaspoon cumin, tomato paste, and salt in a blender or food processor until smooth; thin with milk as needed.",
+        "Heat oil in a deep skillet to about 350 degrees F (175 degrees C).",
+        "Dip cauliflower florets in the batter; fry battered cauliflower in the hot oil, working in batches, until cauliflower is golden and crispy, 6 to 8 minutes. Remove with a slotted spoon and drain on a paper towel-lined plate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2779&h=1455&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6734595.jpg",
+    "ingredients": [
+        "2 teaspoons ground cumin",
+        "1 head cauliflower, cut into florets",
+        "1 cup all-purpose flour",
+        "1  egg",
+        "2 cloves garlic",
+        "1 teaspoon ground cumin",
+        "1 tablespoon tomato paste",
+        "salt to taste",
+        "\u00bc cup milk, or as needed",
+        "2 cups vegetable oil, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Cauliflower (Egyptian Style)",
     "url": "http://allrecipes.com/recipe/229374/fried-cauliflower-egyptian-style/"
 }

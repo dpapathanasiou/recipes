@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, cream butter and sugar until light and fluffy. Stir in the vanilla. Sift together the flour, salt, and cocoa; stir into the creamed mixture. Mix in the pecans until well blended. Cover, and chill for at least 2 hours.",
+        "Preheat oven to 350 degrees F (175 degrees C). Roll chilled dough into 1 inch balls. Place on ungreased cookie sheets about 2 inches apart.",
+        "Bake for 20 minutes in preheated oven. Roll in confectioners' sugar when cooled."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6081091.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups butter",
+        "\u2154 cup white sugar",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "\u215b teaspoon salt",
+        "\u00bd cup unsweetened cocoa powder",
+        "2 cups chopped pecans",
+        "\u00bd cup confectioners' sugar for decoration"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Snowballs",
     "url": "http://allrecipes.com/recipe/15253/chocolate-snowballs/"
 }

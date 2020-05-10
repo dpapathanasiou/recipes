@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a food processor, blend the spinach, basil and garlic. Gradually mix in the olive oil and Parmesan cheese. Process until smooth. Salt and pepper to taste.",
+        "Blend cream cheese and feta cheese in a medium bowl.",
+        "Line a separate medium bowl with plastic wrap. Spread 1/2 the cream cheese mixture in the bowl. Top with sun-dried tomato paste and the spinach mixture. Cover with remaining cream cheese mixture. Pat together, cover and chill in the refrigerator at least 1 hour before serving. Flip out of the plastic lined bowl onto a medium serving dish to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7104754.jpg",
+    "ingredients": [
+        "1 cup chopped fresh spinach",
+        "1 cup chopped fresh basil",
+        "1 teaspoon minced garlic",
+        "\u00bc cup olive oil",
+        "1 cup freshly grated Parmesan cheese",
+        "salt and pepper to taste",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (4 ounce) package feta cheese, crumbled",
+        "2 tablespoons sun-dried tomato paste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basil Parmesan Spread",
     "url": "http://allrecipes.com/recipe/31278/basil-parmesan-spread/"
 }

@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix 2 cups and 2 tablespoons flour, baking soda, and salt together in a bowl.",
+        "Beat brown sugar and butter together in a separate bowl until smooth and creamy; add egg, egg yolk, peanut butter, and vanilla extract and beat until smooth. Slowly pour flour mixture into sugar mixture and stir just until dough is combined; fold in pretzels and chocolate-hazelnut spread.",
+        "Drop dough onto a baking sheet using 2 spoons.",
+        "Bake in the preheated oven for 8 minutes; rotate baking sheet and continue baking until cookies are fully cooked and still soft in the middle, about 7 minutes more. Cool cookies on baking sheet for about 3 minutes before transferring to a wire rack."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1772085.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "2 tablespoons all-purpose flour",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 cup brown sugar",
+        "1/2 cup unsalted butter, melted and cooled slightly",
+        "1 egg",
+        "1 egg yolk",
+        "2 tablespoons natural peanut butter (such as Natural Jif\u00ae)",
+        "2 teaspoons vanilla extract",
+        "53 pretzel sticks, crushed",
+        "3 tablespoons chocolate-hazelnut spread (such as Nutella\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nutella\u00ae Peanut Butter Pretzel Cookies",
     "url": "http://allrecipes.com/recipe/239314/nutella-peanut-butter-pretzel-cook/"
 }

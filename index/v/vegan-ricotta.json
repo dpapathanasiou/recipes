@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pulse tofu, olive oil, garlic powder, oregano, and basil together in a food processor until crumbly and evenly mixed."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7282624.jpg",
+    "ingredients": [
+        "1 (16 ounce) package tofu",
+        "1 tablespoon olive oil",
+        "1 tablespoon garlic powder",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Ricotta",
     "url": "http://allrecipes.com/recipe/231476/vegan-ricotta/"
 }

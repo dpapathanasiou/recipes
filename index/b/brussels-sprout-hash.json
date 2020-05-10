@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt honey-flavored butter in a large skillet over medium-high heat; saute onion in butter until golden and glazed, 5 to 7 minutes.",
+        "Add Brussels sprouts to the skillet; season with salt and pepper. Saute sprouts until crisp-tender, 5 to 7 minutes. Remove skillet from heat, drizzle wine over the sprouts, and toss to coat."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1119507.jpg",
+    "ingredients": [
+        "\u00bc cup honey-flavored butter",
+        "\u00bd cup chopped onion",
+        "1 pound Brussels sprouts, grated",
+        "salt and ground black pepper to taste",
+        "2 tablespoons white cooking wine"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brussels Sprout Hash",
     "url": "http://allrecipes.com/recipe/237091/brussels-sprout-hash/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 2 1/2-quart casserole dish.",
+        "Set cheese packet from mix aside. Bring a pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until cooked firm to the bite, 5 minutes. Drain and reserve pasta cooking water.",
+        "Whisk contents of reserved cheese packet with evaporated milk, eggs, salt, and pepper in a bowl. Layer half the cooked macaroni in the prepared casserole dish, followed by half the Cheddar cheese slices in a layer. Dot  with half the butter. Repeat layers, using remaining half of cooked macaroni, remaining Cheddar cheese slices, and remaining butter. Pour evaporated milk mixture over casserole. If evaporated milk mixture does not reach to the top of the casserole, pour in enough pasta cooking water to cover.",
+        "Bake in the preheated oven until bubbling, about 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5052124.jpg",
+    "ingredients": [
+        "1 (7.25 ounce) package macaroni and cheese mix",
+        "1\u2009\u00bc cups evaporated milk",
+        "2  eggs",
+        "salt and ground black pepper to taste",
+        "8 ounces thinly sliced Cheddar cheese, divided",
+        "\u00bd cup butter, diced - divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Macaroni and Cheese Southern Style",
     "url": "http://allrecipes.com/recipe/230285/macaroni-and-cheese-southern-style/"
 }

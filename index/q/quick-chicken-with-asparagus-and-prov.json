@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large 2-inch deep skillet. Dip chicken in egg beat, then coat in bread crumbs. Brown in skillet on both sides.",
+        "When chicken is browned, add broth and place asparagus evenly over chicken. Lay a slice of cheese over each chicken piece.",
+        "Cover skillet and cook over medium heat for 15 minutes, or until chicken is cooked through and no longer pink inside."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2467964.jpg",
+    "ingredients": [
+        "4 skinless, boneless chicken breast halves",
+        "5 tablespoons olive oil",
+        "2 eggs, beaten",
+        "1 cup Italian-style dry bread crumbs",
+        "1 (14.5 ounce) can chicken broth",
+        "1 (10 ounce) can asparagus, drained",
+        "4 slices provolone cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Chicken with Asparagus and Provolone",
     "url": "http://allrecipes.com/recipe/24784/quick-chicken-with-asparagus-and-prov/"
 }

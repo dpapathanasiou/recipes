@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix salmon, tuna, bread crumbs, yogurt, egg, ketchup, onion, and dill together in a bowl. Form mixture into 6 patties.",
+        "Spray a skillet with cooking spray and heat over medium-high heat. Cook fish cakes in hot skillet, turning once, until cooked through and lightly browned on each side, 5 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2304188.jpg",
+    "ingredients": [
+        "1 (14.75 ounce) can salmon, drained and flaked",
+        "2 (5 ounce) cans tuna, drained",
+        "3/4 cup bread crumbs, or more to taste",
+        "1/2 cup nonfat plain yogurt",
+        "1 egg",
+        "3 tablespoons ketchup, or more to taste",
+        "1 tablespoon dried minced onion",
+        "1 tablespoon dried dill",
+        "cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mom's Fish Cakes",
     "url": "http://allrecipes.com/recipe/242201/moms-fish-cakes/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together the flour, salt and pepper in a medium bowl. Dredge the cubed chicken breast in the flour to coat. Heat olive oil in a large skillet over medium-high heat. Fry the chicken cubes until browned on the outside. Remove chicken, and set aside.",
+        "In a separate pan, or indoor grill, fry the Italian sausage links until cooked through. Cut into 1/4 inch slices.",
+        "Place potatoes into a saucepan with enough water to cover. Bring to a boil, and cook until fork tender, but not mushy, about 15 minutes. Drain and set aside.",
+        "Heat the skillet from cooking the chicken over medium heat. Add more oil if necessary. Saute onion and bell pepper until soft. Stir in garlic, and cook for about 1 minute. Pour in the whole jar of jalapenos, and the wine. Scrape any bits of food from the bottom of the pan, and bring to a simmer. Return the chicken to the pan, and add the sliced sausage and potatoes. Simmer for 5 minutes.",
+        "Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until tender. Drain.",
+        "Mix cornstarch with a small amount of water, and stir into the skillet with the sauce. Cook over medium heat, stirring occasionally, until thick enough to coat the pasta. Serve sauce over pasta with freshly grated Parmesan cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2698981.jpg",
+    "ingredients": [
+        "\u00bd cup all-purpose flour",
+        "salt and pepper to taste",
+        "4  skinless, boneless chicken breast halves - cut into 1 inch cubes",
+        "3 tablespoons olive oil",
+        "1 pound hot Italian sausage",
+        "2 medium baking potatoes, peeled and cubed",
+        "\u00bd large red onion, diced",
+        "1  green bell pepper, seeded and diced",
+        "3 cloves garlic, chopped",
+        "1 (12 ounce) jar sliced jalapeno peppers",
+        "1\u2009\u00bd cups dry white wine",
+        "2 tablespoons cornstarch",
+        "1 (12 ounce) package rotini pasta",
+        "\u00bc cup freshly grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Murphy II",
     "url": "http://allrecipes.com/recipe/77656/chicken-murphy-ii/"
 }

@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+        "Spread kale on the baking sheet. Drizzle 1 tablespoon olive oil on top. Coat with Parmesan cheese, red chile pepper, oregano, and salt.",
+        "Bake in the preheated oven until crisp, 15 to 20 minutes. Transfer to a plate.",
+        "Heat butter in a small skillet until melted and starting to brown, about 5 minutes. Stir in bread crumbs. Remove from heat.",
+        "Slice cauliflower into 1/2-inch \"steaks\". Rub 1 tablespoon olive oil and chipotle spice rub on top.",
+        "Heat a large skillet over medium heat. Add cauliflower; cook and stir until browned, about 2 minutes per side. Transfer to the baking sheet.",
+        "Bake in the preheated oven until just tender, about 15 minutes.",
+        "Place cauliflower steaks on a large serving platter; top with crisp kale and orange.",
+        "Whisk remaining 1 tablespoon olive oil and vinegar together in a small bowl. Drizzle over orange. Sprinkle bread crumbs on top."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6319958.jpg",
+    "ingredients": [
+        "1 bunch kale, stemmed and torn into pieces",
+        "3 tablespoons olive oil, divided, or to taste",
+        "3 tablespoons grated Parmesan cheese",
+        "1 tablespoon ground red chile pepper",
+        "1 teaspoon ground oregano",
+        "salt to taste",
+        "2 tablespoons butter",
+        "1/4 cup bread crumbs",
+        "1 head cauliflower",
+        "1 teaspoon chipotle spice rub, or to taste",
+        "1 orange, peeled and cubed",
+        "2 tablespoons red wine vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Cauliflower with Kale Chips and Citrus",
     "url": "http://allrecipes.com/recipe/255390/roasted-cauliflower-with-kale-chips-a/"
 }

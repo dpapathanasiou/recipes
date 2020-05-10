@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes in a large saucepan, cover with water, and bring to a boil over high heat. Reduce the heat to medium-low, and simmer until the potatoes are tender, about 15 minutes. Drain and cool, then cut into 1-inch cubes.",
+        "Combine the potatoes, cucumber, celery, onion, and olives in a large bowl.",
+        "Whisk together the olive oil, red wine vinegar, and garlic powder in a small bowl. Pour the dressing over the potatoes and vegetables; mix well. Season with salt and pepper, then chill. Stir the potato salad again before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4561197.jpg",
+    "ingredients": [
+        "5 large Yukon Gold potatoes",
+        "1 large cucumber, chopped",
+        "5 stalks celery, chopped",
+        "1 large red onion, chopped",
+        "3/4 cup green olives with pimento, chopped",
+        "1/4 cup olive oil",
+        "1/2 cup red wine vinegar",
+        "1/4 teaspoon garlic powder",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mom's Italian Potato Salad",
     "url": "http://allrecipes.com/recipe/143174/moms-italian-potato-salad/"
 }

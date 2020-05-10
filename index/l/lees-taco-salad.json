@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in skillet over medium heat. Cook and stir onion in hot oil until translucent, about 5 minutes. Break ground turkey into small chunks and add to skillet; cook and stir until beginning to brown, 2 to 3 minutes. Sprinkle taco seasoning over the turkey mixture; continue to cook and stir until turkey is completely browned through, 5 to 7 minutes more.",
+        "Pile lettuce into the bottom of a large salad bowl; top with the turkey mixture, corn, black beans, avocado, green onions, Cheddar cheese, and spicy ranch dressing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2331&h=1220&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2231501.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil, or to taste",
+        "1 small white onion, diced",
+        "1 pound ground turkey",
+        "1 (1 ounce) package taco seasoning mix",
+        "1 head lettuce, chopped",
+        "1 (15 ounce) can corn, drained",
+        "1 (14 ounce) can black beans, drained",
+        "1  avocado - peeled, pitted, and diced",
+        "4  green onions, chopped (optional)",
+        "\u2153 cup shredded Cheddar cheese",
+        "\u00bc cup spicy ranch-style salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lee's Taco Salad",
     "url": "http://allrecipes.com/recipe/242004/lees-taco-salad/"
 }

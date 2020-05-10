@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place pork in a wok or skillet over medium heat. Cook and stir until pork is browned on all sides, about 5 minutes. Stir in the soy sauce, water, ginger, and black pepper; bring to a boil over medium-high heat. Reduce heat to medium, cover, and simmer until meat is tender, about 40 minutes.",
+        "Stir in the watercress and bean sprouts, and continue to simmer until tender yet still crisp, about 10 minutes more. Mix in the tofu, cover, and simmer 5 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2304278.jpg",
+    "ingredients": [
+        "1 (2 pound) boneless pork loin, cut into 1/2 inch strips",
+        "1 cup soy sauce",
+        "3/4 cup water",
+        "1 teaspoon minced fresh ginger root",
+        "1 tablespoon coarsely ground black pepper",
+        "2 bunches watercress - rinsed, dried, cut into 1/2 inch lengths, thick stems discarded",
+        "8 ounces bean sprouts",
+        "1 (16 ounce) package firm tofu, drained and cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork Tofu with Watercress and Bean Sprouts",
     "url": "http://allrecipes.com/recipe/150067/pork-tofu-with-watercress-and-bean-sp/"
 }

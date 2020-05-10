@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease and flour a 9 X 13 inch pan.",
+        "In a large bowl, blend the sugar with the eggs.  Add the oil, and mix well.  Mix in flour, spices, salt, and baking soda.  Stir in the nuts and the apples, carrots, or zucchini.  Pour batter into prepared pan.",
+        "Bake for 40 minutes.  Serve warm or cooled."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F825066.jpg",
+    "ingredients": [
+        "4 cups peeled, cored and shredded apple",
+        "2 cups white sugar",
+        "2  eggs",
+        "1 cup chopped walnuts",
+        "2 cups all-purpose flour",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon salt",
+        "2 teaspoons baking soda",
+        "\u00bd cup vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple, Carrot, Or Zucchini Cake",
     "url": "http://allrecipes.com/recipe/7760/apple-carrot-or-zucchini-cake/"
 }

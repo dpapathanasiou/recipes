@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak raisins in warm water for 30 minutes. Drain thoroughly in a colander or strainer; set aside.",
+        "Clean the zucchini and trim off the ends. Do not peel. Shred with a medium sized shredder. You should have about 4 cups when finished. Sprinkle the zucchini with 1 teaspoon of the salt and place on a plate. Mix it with your hands to evenly distribute the salt. Place a heavy saucepan on top of the zucchini and allow it to sit for 20 minutes to purge itself of liquid.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 8x4 inch loaf pans and set aside.",
+        "Set aside 2 tablespoons of the flour. Sift together the remaining flour, soda, spices, and remaining 1/4 teaspoon salt.",
+        "Beat eggs on medium speed for about 3 minutes. Add the sugar, a little at a time and beat for a good 5 minutes. The mixture should be light in color and thick. While beating, slowly pour in the oil.",
+        "Empty the zucchini into a colander and squeeze to release the juices.",
+        "Add the vanilla to the beating eggs and then add in the zucchini. Add the dry ingredients, a little at a time and mix just until the dry ingredients are mixed in. Do not overmix.",
+        "In a small bowl combine the remaining 2 tablespoons flour, nuts, and drained raisins, and mix together to coat. Fold into the batter. Pour into the prepared pans.",
+        "Bake at 350 degrees F (175 degrees C) about 1 hour or until a toothpick comes out clean. Remove to a rack to cool for 10 minutes. Remove from pans and cool on a rack completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6724875.jpg",
+    "ingredients": [
+        "3  zucchinis",
+        "1\u2009\u00bc teaspoons salt",
+        "2\u2009\u00bc cups sifted unbleached all-purpose flour",
+        "2 teaspoons baking soda",
+        "1 tablespoon ground cinnamon",
+        "\u00bc teaspoon freshly grated nutmeg",
+        "3  eggs",
+        "1\u2009\u2153 cups white sugar",
+        "1 cup vegetable oil",
+        "2\u2009\u00bd teaspoons vanilla extract",
+        "1\u2009\u00bd cups chopped walnuts",
+        "1 cup golden raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Abby's Super Zucchini Loaf",
     "url": "http://allrecipes.com/recipe/6951/abbys-super-zucchini-loaf/"
 }

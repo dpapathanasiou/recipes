@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees. Sift together flour and baking powder. Heat milk in a small saucepan until just boiling, then remove from heat and set aside.",
+        "Beat eggs until foamy, then add sugar. Continue beating on medium-high speed until thick and lemon colored. Add vanilla, reduce mixer speed to medium and add hot milk in a steady stream. Quickly beat in flour mixture.",
+        "Pour into a 10 inch tube pan. Bake in preheated oven 45 minutes, or until top springs back when lightly tapped."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3888&h=2036&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6777670.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "2 cups white sugar",
+        "4  eggs",
+        "1 cup milk",
+        "2 teaspoons baking powder",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nannie's Hot Milk Sponge Cake",
     "url": "http://allrecipes.com/recipe/8434/nannies-hot-milk-sponge-cake/"
 }

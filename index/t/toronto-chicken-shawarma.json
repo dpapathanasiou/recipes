@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an indoor or outdoor grill for high heat, and lightly oil the grate.",
+        "Whisk together the coriander, cumin, cardamom, chili powder, grill seasoning, paprika, and turmeric in a bowl; whisk in juice of 1/2 lemon, garlic, and 3 tablespoons olive oil to form a paste. Coat the chicken breasts with the spice paste.",
+        "Grill chicken breasts on the preheated grill until juices run clear and chicken is no longer pink at the center, about 6 minutes per side. Transfer chicken to a plate and cool for 1 to 2 minutes; slice thinly.",
+        "Heat 2 tablespoons olive oil in a large skillet over medium-high heat. Stir onion, red pepper, and yellow pepper into the hot olive oil; season with salt and pepper. Cook, stirring frequently, until the vegetables are tender, about 5 minutes.",
+        "Stir together Greek yogurt, tahini, juice of remaining 1/2 lemon, and remaining 1 teaspoon olive oil in a bowl until smooth; season with salt.",
+        "Place pitas on the grill until heated through and lightly charred on the outside, about 1 minute per side. To assemble each sandwich, place some sliced chicken on each pita; top with some of the pepper mixture and a good dollop of yogurt tahini sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1091898.jpg",
+    "ingredients": [
+        "1 tablespoon ground coriander",
+        "1 tablespoon ground cumin",
+        "1 tablespoon ground cardamom",
+        "1 tablespoon chili powder",
+        "1 tablespoon grill seasoning (such as Montreal Steak Seasoning\u00ae)",
+        "1 teaspoon smoked paprika",
+        "\u00bd teaspoon ground turmeric",
+        "1  lemon, juiced, divided",
+        "1 large clove garlic, minced",
+        "5 tablespoons extra-virgin olive oil, divided",
+        "4 (6 ounce) skinless, boneless chicken breast halves",
+        "1 large onion, sliced",
+        "1  red bell pepper, sliced",
+        "1  yellow bell pepper, sliced",
+        "salt and ground black pepper to taste",
+        "1\u2009\u00bd cups Greek yogurt",
+        "\u00bc cup tahini",
+        "1 teaspoon extra-virgin olive oil",
+        "4  pita bread rounds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Toronto Chicken Shawarma",
     "url": "http://allrecipes.com/recipe/236035/toronto-chicken-shawarma/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the water, onion, potatoes, frozen vegetables and bouillon in a large pot. Bring to a boil, reduce heat to medium and cook 10 minutes, or until potatoes are tender.",
+        "Mix cream of mushroom soup, cream of chicken soup and cream of celery soup into the pot. Stir in the processed cheese until melted. Continue cooking 45 minutes, or to desired consistency."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 1/2 quarts water",
+        "1 medium onion, chopped",
+        "4 medium potatoes, chopped",
+        "1 (16 ounce) package frozen broccoli, cauliflower and carrots",
+        "1 cube chicken bouillon",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "1 (10.75 ounce) can condensed cream of celery soup",
+        "1 (2 pound) loaf processed cheese, cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Cheesy Vegetable Soup",
     "url": "http://allrecipes.com/recipe/93538/easy-cheesy-vegetable-soup/"
 }

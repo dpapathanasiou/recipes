@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix the soy sauce, brown sugar, sugar, and ginger. Place chicken into the mixture. Chill in the refrigerator 6 to 8 hours, or overnight.",
+        "Preheat oven to 325 degrees F (165 degrees C). Lightly grease a medium baking dish.",
+        "Place marinated chicken in the prepared baking dish. Bake in the preheated oven at least 1 hour, or until meat is no longer pink and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F855647.jpg",
+    "ingredients": [
+        "2 cups soy sauce",
+        "2 cups brown sugar",
+        "1\u2009\u00bd cups white sugar",
+        "1 tablespoon ground ginger",
+        "5 pounds skinless, boneless chicken breast halves - cut into strips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Chicken",
     "url": "http://allrecipes.com/recipe/23187/marinated-chicken/"
 }

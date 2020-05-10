@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).  Grease a 1 1/2 quart baking dish.",
+        "Combine sweet potatoes and eggs in a medium bowl.  Beat in the brown sugar, milk, butter, lemon juice, ginger, cloves, cinnamon, salt.  Pour into prepared dish.",
+        "Bake in preheated oven until hot and golden brown on top, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/323081.jpg",
+    "ingredients": [
+        "1 (29 ounce) can sweet potatoes",
+        "2 eggs, lightly beaten",
+        "1 cup packed brown sugar",
+        "1 cup milk",
+        "1/4 cup melted butter",
+        "2 teaspoons lemon juice",
+        "1/4 teaspoon ground ginger",
+        "1/4 teaspoon ground cloves",
+        "1/2 teaspoon ground cinnamon",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "All-Time Favorite Sweet Potato Pudding",
     "url": "http://allrecipes.com/recipe/180868/all-time-favorite-sweet-potato-puddin/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir brown sugar, dried currants, water, vinegar, Worcestershire sauce, butter, salt, black pepper, cloves, and mace together in a saucepan over medium heat, stirring occasionally until butter melts, about 10 minutes. Bring to a boil.",
+        "Stir currant jelly into sauce and return to a gentle boil; reduce heat to low and simmer until currents are slightly plump, 5 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 cup packed brown sugar",
+        "1 cup dried currants",
+        "1/2 cup hot water",
+        "1/4 cup cider vinegar",
+        "2 tablespoons Worcestershire sauce",
+        "2 tablespoons butter",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "1/4 teaspoon ground cloves",
+        "1 pinch ground mace",
+        "1 cup currant jelly"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Currant Sauce for Ham",
     "url": "http://allrecipes.com/recipe/220970/spicy-currant-sauce-for-ham/"
 }

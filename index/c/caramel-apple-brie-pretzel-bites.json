@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+        "Center a round of brie on the prepared baking sheet. Bake in preheated oven until beginning to soften, about 10 minutes.",
+        "Place butter and brown sugar in a skillet. Cook over medium heat until butter is melted, 1 or 2 minutes. Add apple slices and continue cooking until apples are soft, about 5 minutes.",
+        "Place warm brie on a serving platter. Top with apple mixture and a drizzle of caramel sauce.",
+        "Serve with Snack Factory\u00ae Original Pretzel Crisps\u00ae!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3682809.jpg",
+    "ingredients": [
+        "1 (7 inch) wheel Brie cheese",
+        "2 large Granny Smith apples - peeled, cored and cut into 1/4-inch dice",
+        "1 tablespoon butter",
+        "2 tablespoons brown sugar",
+        "1 tablespoon caramel sauce, or to taste",
+        "1 (7.2 ounce) package Original Snack Factory\u00ae Pretzel Crisps\u00ae"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caramel Apple Brie Pretzel Bites",
     "url": "http://allrecipes.com/recipe/247397/caramel-apple-brie-pretzel-bites/"
 }

@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source.",
+        "Place the tomato on a baking dish, and broil, turning occasionally, until blackened on all sides. Once done, remove, and let cool until.",
+        "Meanwhile, pack the New Mexico chiles, chipotle chiles, guajillo chiles, ancho chiles, onion, and garlic into a half-gallon glass jar. Sprinkle with mustard powder, sea salt, black pepper, coriander, and cloves. Remove the peel from the cooled tomato, cut in half, and squeeze out the seeds. Roughly chop the tomato and place it into the jar. Pour in half of the pineapple juice. Refrigerate at least 2 hours to soften the peppers.",
+        "Place the chile mixture into a food processor, and pulse several times to roughly chop the peppers. Pour in the remaining pineapple juice, mango juice, and vinegar. Blend well until finely chopped, about 2 minutes. Pour the pepper mixture back into the glass jar, seal with a lid, and refrigerate at least 1 week.",
+        "After 1 week, pour the pepper puree back into the food processor, and blend 2 minutes until smooth. Pour into a large saucepan, and bring to a simmer over medium heat. Reduce heat to low, and simmer, stirring occasionally, for 30 minutes. Stir in 1/2 cup water, and return to the food processor. Puree 1 minute.",
+        "Place a large wire mesh strainer over a clean saucepan, and place 4 to 6 layers of cheesecloth into it to cover. Pour in the pepper puree, and allow to drip into the saucepan for 30 minutes. Gather up the corners of the cheesecloth, and gently twist together to extract all of the liquid from the pepper pulp. Be gentle to ensure that none of the solids are squeezed into the saucepan.",
+        "Return the saucepan to a simmer over medium heat, then reduce heat to low, and cook 30 minutes until desired thickness has been reached. Remember that it will thicken somewhat as it cools. Let cool, and store in the refrigerator until ready to use."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 tomato",
+        "10 dried New Mexico chiles - stemmed, seeded, and cut into strips",
+        "2 dried chipotle chiles - stemmed, seeded, and cut into strips",
+        "2 dried guajillo chiles - stemmed, seeded, and cut into strips",
+        "2 dried ancho chiles - stemmed, seeded, and cut into strips",
+        "1 1/2 pounds chopped sweet onion",
+        "1/2 head garlic, minced",
+        "2 tablespoons dried mustard powder",
+        "1 tablespoon sea salt",
+        "1 1/2 teaspoons ground black pepper",
+        "1 1/2 teaspoons ground coriander",
+        "1 1/2 teaspoons ground cloves",
+        "2 cups pineapple juice",
+        "1 1/2 cups mango juice",
+        "1/2 cup cider vinegar",
+        "1/2 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Al Pastor Barbeque Sauce",
     "url": "http://allrecipes.com/recipe/217846/al-pastor-barbeque-sauce/"
 }

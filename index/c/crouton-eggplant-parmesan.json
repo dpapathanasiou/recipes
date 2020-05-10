@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line an oven-safe baking pan with aluminum foil or wax paper.",
+        "Place croutons into a food processor; blend until coarsely ground, about 30 seconds. Transfer to a plate.",
+        "Mix egg, salt, and pepper together in a bowl; dip eggplant slices into the egg mixture until coated. Transfer to crouton crumbs plate; coat eggplant in croutons. Placed breaded eggplant into prepared pan.",
+        "Bake in the preheated oven until breading is golden brown on both sides, 10 to 15 minutes per side.",
+        "Mix pasta sauce and garlic powder together in a bowl. Pour half of the sauce mixture into an oven-safe baking pan; top with half the Parmesan cheese.",
+        "Place baked eggplant onto Parmesan cheese layer; cover with mozzarella cheese. Pour remaining pasta sauce over mozzarella layer; top with remaining Parmesan cheese.",
+        "Bake in the preheated oven until Parmesan cheese is a light golden brown, about 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1080&h=565&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4457677.jpg",
+    "ingredients": [
+        "2 cups garlic-flavored croutons",
+        "1  egg",
+        "2 pinches salt",
+        "\u00bd teaspoon ground black pepper",
+        "1  Japanese eggplant, cut into 1/2-inch slices",
+        "1\u2009\u00bd cups pasta sauce",
+        "1 teaspoon garlic powder",
+        "\u00bd cup Parmesan cheese",
+        "1 (8 ounce) package shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crouton Eggplant Parmesan",
     "url": "http://allrecipes.com/recipe/254980/crouton-eggplant-parmesan/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the sectioned chicken parts in a shallow, nonporous dish so that the pieces fit snugly.",
+        "In a separate, nonporous small bowl, combine the lemon juice, salt, paprika, ground black pepper, garlic and thousand island dressing. Mix well, pour over the chicken and add water to cover.",
+        "Cover and refrigerate, allowing the chicken to marinate for 8 hours.",
+        "Prepare an outdoor grill for indirect heat and lightly oil grate.",
+        "Grill chicken over indirect heat for about 50 minutes, or until temperature reaches 180 degrees F (80 degrees C). Discard any excess marinade."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F258225.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken",
+        "1  lemon, juiced",
+        "5 tablespoons salt",
+        "1 teaspoon paprika",
+        "1\u2009\u00bd teaspoons ground black pepper",
+        "5 cloves garlic, minced",
+        "\u00bc cup thousand island dressing",
+        "2 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cassie's Wishy Chicken",
     "url": "http://allrecipes.com/recipe/16128/cassies-wishy-chicken/"
 }

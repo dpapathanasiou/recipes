@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Line cookie sheets with Reynolds(R) Parchment Paper; set aside.",
+        "Combine flour, ground oats and baking soda in a medium bowl. Set aside. Beat butter with an electric mixer on medium speed for 45 to 60 seconds in an extra large mixing bowl. Add the sugar and brown sugar and beat mixture until combined, scraping sides of bowl occasionally. Beat in egg and vanilla extract until combined. Slowly fold in flour mixture in several batches. Stir in chocolate chips and white chocolate chips with a wooden spoon.",
+        "Place dough by rounded tablespoons, 2 inches apart, onto parchment lined cookie sheets. (About 15 cookies per baking sheet.)",
+        "Bake in center of oven for 10-12 minutes or until the edges are set. Place cookie sheet on cooling rack for 2 minutes to cool. Slide the parchment sheets with baked cookies onto wire racks and cool completely."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3092046.jpg",
+    "ingredients": [
+        "1 3/4 cups all-purpose flour",
+        "2 1/2 cups quick-cooking rolled oats, ground in food processor",
+        "1/2 teaspoon baking soda",
+        "2 sticks unsalted butter, softened",
+        "1 cup sugar",
+        "1/2 cup brown sugar",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "1 cup semisweet chocolate chips",
+        "1 cup white chocolate chips",
+        "Reynolds\u00ae Parchment Paper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Double Chocolate Chip Oatmeal Cookies",
     "url": "http://allrecipes.com/recipe/245835/double-chocolate-chip-oatmeal-cookies/"
 }

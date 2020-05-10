@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a baking sheet with aluminum foil.",
+        "Cut chile peppers in half from top to bottom; remove the stem, seeds, and ribs. Place peppers with cut sides down onto the prepared baking sheet.",
+        "Cook under the preheated broiler until the skin of the peppers has blackened and blistered, 5 to 8 minutes.",
+        "Place blackened peppers into a bowl and tightly seal with plastic wrap. Allow peppers to steam as they cool, about 20 minutes. Remove and discard skins. Mince peppers.",
+        "Mix mayonnaise, garlic, parsley, salt, and black pepper together in a bowl with roasted peppers. Refrigerate until flavors have blended, 8 hours to overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4529845.jpg",
+    "ingredients": [
+        "2 chile peppers",
+        "1 cup mayonnaise",
+        "4 cloves garlic, minced",
+        "1 tablespoon fresh parsley",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Garlic Aioli",
     "url": "http://allrecipes.com/recipe/246406/spicy-garlic-aioli/"
 }

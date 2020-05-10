@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven and prepare the baking mix according to package directions for rolled biscuits, adding 2 teaspoons vanilla with the measure of water listed in the package directions. Roll out or pat dough into 6-inch circle on lightly floured surface; cut into 6 wedges. Place, 2 inches apart, on ungreased baking sheet. Brush tops lightly with additional water; sprinkle with cinnamon sugar.",
+        "Bake according to package directions.",
+        "Mix 1/2 cup water and granulated sugar in small saucepan. Bring to a boil over medium-high heat. Reduce heat to low; simmer 5 minutes, or until slightly thickened, to a syrup-like consistency. Remove from heat; cool slightly. Stir in remaining 2 teaspoons vanilla. Pour over the fruit in large bowl; toss gently to coat.",
+        "Split biscuits horizontally in half. Place bottom halves of biscuits on 6 dessert plates; cover evenly with half of the fruit mixture. Top each with a serving of Reddi-wip and top half of biscuit. Spoon remaining fruit mixture evenly over biscuits; top with additional serving of Reddi-wip."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/979649.jpg",
+    "ingredients": [
+        "1 cup all-purpose baking mix",
+        "2 teaspoons vanilla extract",
+        "1 teaspoon cinnamon sugar",
+        "1/2 cup water",
+        "3 tablespoons granulated sugar",
+        "2 teaspoons vanilla extract",
+        "3 cups cut-up mixed fresh fruit (sliced strawberries, bananas, peaches and/or blueberries)",
+        "Reddi-wip Original Whipped Light Cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Biscuit Wedges with Fruit in Vanilla Syrup",
     "url": "http://allrecipes.com/recipe/155124/biscuit-wedges-with-fruit-in-vanilla/"
 }

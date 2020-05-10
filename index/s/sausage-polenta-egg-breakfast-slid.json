@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Add sausage and 3 tablespoons water to small non-stick over medium heat. Cover and cook for 3 to 4 minutes, uncover and cook for about 1 minute or until golden brown. Remove from heat and set aside.",
+        "In a large sauce pan, bring 3 cups water and salt to a boil. Add polenta and 2 tablespoons butter, reduce heat to medium and cook for 5 minutes, stirring slowly as mixture thickens. Stir in sausage, green onion and Italian seasoning; mix well. Transfer polenta to medium size cookie sheet; spread out evenly, ensuring onions and sausage are well distributed throughout. Let polenta cool and set for 15 to 20 minutes.",
+        "After polenta has set cut 14 rounds using 2 1/2-inch round cookie cutter. Add 1 to 2 tablespoons of vegetable oil to a non-stick skillet. Pan fry polenta rounds on medium-high for 2 to 3 minutes on each side or until light golden brown.",
+        "Beat eggs, 2 1/2 tablespoons water, tomato, cheese, parsley salt and pepper in bowl until blended. Heat remaining butter in 10-inch nonstick skillet over medium-high heat; pour in egg mixture. Push cooked egg portions from edges of skillet towards the center. Continue to cook, tilting skillet, until eggs are cooked through, do not flip or fold eggs over.  Remove from skillet and cut with 2 1/2-inch round cookie cutter into 7 rounds.",
+        "To assemble sliders, top one polenta round with an egg round, lettuce and second polenta round."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4093599.jpg",
+    "ingredients": [
+        "4 Jones Dairy Farm All Natural Golden Brown\u00ae Breakfast Sausage Patties, cut into small slices",
+        "1/2 teaspoon sea salt",
+        "1 cup polenta",
+        "3 1/2 tablespoons unsalted butter, divided",
+        "3 green onions, chopped",
+        "1/2 teaspoon Italian seasoning",
+        "1 tablespoon vegetable oil, or more as needed",
+        "3 eggs, whisked",
+        "1 roma tomato, chopped",
+        "1/4 cup grated Asiago cheese",
+        "1 tablespoon chopped fresh flat-leaf parsley",
+        "Sea salt and cracked black pepper, to taste",
+        "Lettuce leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage, Polenta & Egg Breakfast Sliders",
     "url": "http://allrecipes.com/recipe/255976/sausage-polenta-egg-breakfast-slid/"
 }

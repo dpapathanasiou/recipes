@@ -1,9 +1,40 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Line 2 baking sheets with parchment paper.",
+        "Arrange butternut squash slices on the baking sheets. Sprinkle 1 pinch nutmeg on top.",
+        "Bake in the preheated oven until pliable but not mushy, about 5 minutes per side.",
+        "Melt 2 tablespoons butter in a large saucepan over medium heat. Add leek and spinach; cook and stir until wilted, about 5 minutes.",
+        "Stir 1/2 cup milk, Parmesan cheese, rice flour, balsamic vinegar, Worcestershire sauce, onion powder, and black pepper into the saucepan until combined and slightly thickened, about 5 minutes.",
+        "Arrange half of the butternut squash in the bottom of an 8-1/2x11-inch casserole dish. Layer leek mixture and ricotta cheese on top. Arrange remaining butternut squash on top.",
+        "Bake lasagna in the preheated oven until golden, about 40 minutes.",
+        "Melt 3 tablespoons butter in a large saucepan over medium heat. Stir in flour until a golden paste forms, 5 to 10 minutes. Increase heat to medium-high; slowly whisk in 2 cups milk until thickened and bubbling. Reduce heat to medium-low and simmer sauce until smooth, 10 to 20 minutes.",
+        "Season sauce with salt and 1/8 teaspoon nutmeg. Pour over lasagna."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 butternut squash, peeled and thinly sliced",
+        "ground nutmeg",
+        "2 tablespoons butter",
+        "1 leek, thinly sliced",
+        "2 1/2 cups baby spinach leaves",
+        "1/2 cup whole milk",
+        "1/3 cup grated Parmesan cheese",
+        "2 tablespoons rice flour",
+        "1 tablespoon balsamic vinegar",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon onion powder",
+        "ground black pepper to taste",
+        "2 cups ricotta cheese",
+        "Bechamel Sauce:",
+        "3 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "2 cups milk",
+        "1 teaspoon salt",
+        "1/8 teaspoon freshly grated nutmeg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetable Lasagna with Butternut Squash Noodles",
     "url": "http://allrecipes.com/recipe/255496/vegetable-lasagna-with-butternut-squa/"
 }

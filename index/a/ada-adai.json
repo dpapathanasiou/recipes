@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chana dal, urad dal, moong dal, and rice into a large bowl and cover with several inches of cool water; allow to soak 8 hours to overnight.",
+        "Grind the soaked dal and rice with the salt and red chile peppers into a paste using a mortar and pestle. Add enough water to the mixture to make a batter just thin enough to spread. Stir the cumin seeds into the batter.",
+        "Heat a griddle (or a tawa) over medium heat. Gently grease the griddle with oil on the edges and the middle. Ladle the batter on the tawa and spread into a thin circle using the back of the ladle or a large spoon. Cook for a few minutes and flip over to the other side. Cook a few more minutes, transfer to a plate, and serve immediately. Adas are best eaten hot off the griddle."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3022085.jpg",
+    "ingredients": [
+        "1 cup split Bengal gram (chana dal)",
+        "1 cup skinned split black lentils (urad dal)",
+        "\u00bd cup split yellow lentils (moong dal)",
+        "1 cup rice",
+        "salt to taste",
+        "2  dried red chile peppers, or to taste",
+        "water, as needed",
+        "2 tablespoons cumin seeds",
+        "2 tablespoons cooking oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ada (Adai)",
     "url": "http://allrecipes.com/recipe/210477/ada-adai/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a large baking dish.",
+        "Mix spinach, cottage cheese, eggs, nutmeg and cayenne pepper in a large bowl. Stir flour into Cheddar cheese and Swiss cheese in another bowl until cheeses are coated; add cheese mixture to spinach mixture. Pour mixture into prepared baking dish.",
+        "Bake in the preheated oven until the center of the spinach mixture does not wiggle, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3752&h=1964&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5276171.jpg",
+    "ingredients": [
+        "2 (9 ounce) packages frozen chopped spinach -  thawed, drained, and squeezed dry",
+        "\u2153 pound cottage cheese",
+        "3  eggs, beaten",
+        "1 pinch ground nutmeg",
+        "1 pinch cayenne pepper",
+        "3 tablespoons all-purpose flour",
+        "\u2153 pound shredded Cheddar cheese",
+        "\u2153 pound shredded Swiss cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mock Spinach Souffle",
     "url": "http://allrecipes.com/recipe/232522/mock-spinach-souffle/"
 }

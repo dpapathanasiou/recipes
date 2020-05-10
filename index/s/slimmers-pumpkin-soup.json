@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan cook onion in butter.  Add pumpkin, potatoes, water, ground ginger, ground nutmeg and season with salt and pepper.  Cook for 20 minutes or until pumpkin and potatoes are tender",
+        "Add milk, blend until smooth and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7241811.jpg",
+    "ingredients": [
+        "1/2 cup diced sweet onion",
+        "1 tablespoon margarine",
+        "5 cups peeled and diced pumpkin",
+        "3/4 cup diced potatoes",
+        "2 cups water",
+        "1 cube chicken bouillon",
+        "1 pinch ground ginger",
+        "1 pinch ground nutmeg",
+        "salt and pepper to taste",
+        "2 cups milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slimmers Pumpkin Soup",
     "url": "http://allrecipes.com/recipe/13407/slimmers-pumpkin-soup/"
 }

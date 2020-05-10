@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a baking dish.",
+        "Mix ground beef with onion powder, garlic powder, salt, and black pepper in a bowl; form mixture into a loaf and place into prepared baking dish.",
+        "Bring root beer, raisins, Worcestershire sauce, and ketchup to a boil in a saucepan; reduce heat and simmer until flavors have blended and raisins are plump, about 5 minutes. Pour raisin sauce over meat loaf.",
+        "Bake in the preheated oven until meat loaf is no longer pink inside and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F (70 degrees C), 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1045270.jpg",
+    "ingredients": [
+        "\u00bd pound ground beef",
+        "1 teaspoon onion powder",
+        "1 teaspoon garlic powder",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "\u2153 cup root beer",
+        "\u2153 cup raisins",
+        "1 tablespoon Worcestershire sauce",
+        "1 tablespoon ketchup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Root Beer Raisin Meat Loaf",
     "url": "http://allrecipes.com/recipe/231687/root-beer-raisin-meat-loaf/"
 }

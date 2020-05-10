@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir cream cheese, cream of mushroom soup, sour cream, and Italian seasoning in the crock of a slow cooker until mixture is thoroughly combined. Stir in chicken cubes. Set cooker to Low and cook for 6 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3399320.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese at room temperature",
+        "1 (10.75 ounce) can cream of mushroom soup",
+        "\u00bc cup sour cream",
+        "1 teaspoon Italian seasoning",
+        "2  skinless, boneless chicken breast halves, cut into 1-inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Slow Cooker Chicken",
     "url": "http://allrecipes.com/recipe/232080/creamy-slow-cooker-chicken/"
 }

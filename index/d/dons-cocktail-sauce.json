@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir ketchup, chili sauce, lemon juice, horseradish, Worcestershire sauce, and hot pepper sauce together in a bowl until smooth.",
+        "Cover bowl with plastic wrap and refrigerate until chilled, at least 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2277448.jpg",
+    "ingredients": [
+        "1 cup ketchup",
+        "3 tablespoons chili sauce",
+        "1 tablespoon lemon juice",
+        "1 tablespoon prepared horseradish, or to taste",
+        "1 1/2 teaspoons Worcestershire sauce",
+        "12 drops hot pepper sauce (such as Tabasco\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Don's Cocktail Sauce",
     "url": "http://allrecipes.com/recipe/241633/dons-cocktail-sauce/"
 }

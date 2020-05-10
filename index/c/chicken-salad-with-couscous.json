@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare couscous pasta according to package directions, using chicken broth for liquid. Drain and set aside.",
+        "In a large skillet combine the wine, oil, 1 tablespoon lime juice, 1 teaspoon cumin and garlic; mix all together and add chicken. Simmer over low heat until all liquid has evaporated and chicken juices run clear, 5 to 7 minutes.",
+        "Remove chicken from skillet and mix in a large bowl with remaining 1 tablespoon lime juice, remaining 1/2 teaspoon cumin, green bell pepper, red bell pepper, yellow bell pepper, green onion and couscous. Garnish with a few black olives per serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=700&h=366&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F19562.jpg",
+    "ingredients": [
+        "1 cup couscous",
+        "2 cups chicken broth",
+        "\u00bd cup dry white wine",
+        "2 teaspoons olive oil",
+        "2 tablespoons fresh lime juice",
+        "1\u2009\u00bd teaspoons ground cumin",
+        "1 clove garlic, minced",
+        "1 pound skinless, boneless chicken breast meat - cubed",
+        "1  green bell pepper, cut into large chunks",
+        "1  red bell pepper, cut into large chunks",
+        "1  yellow bell pepper, cut into large chunks",
+        "4  green onions, chopped",
+        "\u00bc cup pitted black olives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Salad with Couscous",
     "url": "http://allrecipes.com/recipe/16680/chicken-salad-with-couscous/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a deep-fryer to 375 degrees F (190 degrees C).",
+        "Whisk flour, cornstarch, and salt in a large bowl. Make a depression in the center of the flour. Stir in the water and egg yolk. Mix just until moistened; batter will be lumpy. Stir in egg whites.",
+        "One at a time, dip shrimp into the batter to coat. Do not batter tails. Carefully place a few shrimp at a time into the hot oil. Fry until golden brown, about 1 1/2 minutes. Drain on paper towels."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/418857.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tablespoons cornstarch",
+        "1 pinch salt",
+        "1 cup water",
+        "1 egg yolk",
+        "2 egg whites, lightly beaten",
+        "1 pound medium shrimp, peeled and deveined, tails left on",
+        "2 cups vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crispy Shrimp Tempura",
     "url": "http://allrecipes.com/recipe/129467/crispy-shrimp-tempura/"
 }

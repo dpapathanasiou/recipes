@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (205 degrees C).",
+        "Sift and measure flour; resift 3 times with baking powder and salt.",
+        "In a separate bowl, cream shortening; add sugar gradually and continue creaming.  Add well-beaten egg and beat until fluffy.  Stir in vanilla.  Add flour mixture alternately with milk, beating well after each addition.  Add gum drops and mix well.",
+        "Drop by rounded teaspoonfuls onto a greased baking sheet, about 2 inches apart.  Stick 4 almond halves in top of each cookie.  Bake for about 10 minutes, or until cookies are lightly browned.  Remove immediately to cool."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "\u00bd teaspoon baking powder",
+        "\u00bd teaspoon salt",
+        "\u2153 cup shortening",
+        "\u2154 cup white sugar",
+        "1  egg",
+        "\u00bd teaspoon vanilla extract",
+        "2 tablespoons milk",
+        "\u00be cup gumdrops, chopped",
+        "\u00bd cup blanched almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gumdrop Cookies II",
     "url": "http://allrecipes.com/recipe/10406/gumdrop-cookies-ii/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Wrap the green bell peppers in aluminum foil, and place in a baking dish. Bake 15 minutes in the preheated oven. Remove from heat.",
+        "In a skillet over medium heat, cook the turkey until evenly brown. Set aside. Heat oil in the skillet, and cook onion, mushrooms, zucchini, red bell pepper, yellow bell pepper, and spinach until tender. Return turkey to the skillet. Mix in the tomatoes and tomato paste, and season with Italian seasoning, garlic powder, salt, and pepper. Stuff the green peppers with the skillet mixture.",
+        "Return peppers to the oven, and continue cooking 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/221297.jpg",
+    "ingredients": [
+        "4 green bell peppers, tops removed, seeded",
+        "1 pound ground turkey",
+        "2 tablespoons olive oil",
+        "1/2 onion, chopped",
+        "1 cup sliced mushrooms",
+        "1 zucchini, chopped",
+        "1/2 red bell pepper, chopped",
+        "1/2 yellow bell pepper, chopped",
+        "1 cup fresh spinach",
+        "1 (14.5 ounce) can diced tomatoes, drained",
+        "1 tablespoon tomato paste",
+        "Italian seasoning to taste",
+        "garlic powder to taste",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Peppers with Turkey and Vegetables",
     "url": "http://allrecipes.com/recipe/79805/stuffed-peppers-with-turkey-and-veget/"
 }

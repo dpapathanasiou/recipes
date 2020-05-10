@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of water to a boil. Add corn; cook until almost tender, about 6 minutes. Drain.",
+        "Preheat grill for medium-high heat and lightly oil the grate. Grill corn until charred, 2 to 3 minutes per side. Allow to cool until easily handled, about 10 minutes.",
+        "Cut kernels off the corn cobs into a large bowl. Stir in white beans, red bell pepper, tomato, spinach, cilantro, Gorgonzola cheese, and chives.",
+        "Mix olive oil, white vinegar, lemon juice, minced garlic, salt, and black pepper together in a small bowl. Pour over corn mixture and stir to combine. Cover with plastic wrap and chill, at least 1 hour.",
+        "Top with chopped avocado before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3653471.jpg",
+    "ingredients": [
+        "2 ears sweet white corn, husked",
+        "8 ounces canned white beans, rinsed and drained",
+        "\u00bd  red bell pepper, chopped",
+        "1  Roma tomato, chopped",
+        "3 leaves fresh spinach, chopped",
+        "2 tablespoons chopped fresh cilantro",
+        "1 tablespoon Gorgonzola cheese",
+        "1 tablespoon chopped fresh chives",
+        "1 tablespoon olive oil",
+        "2 teaspoons white vinegar",
+        "1 teaspoon freshly squeezed lemon juice",
+        "\u00bd teaspoon minced garlic",
+        "salt and ground black pepper to taste",
+        "avocado, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Summer Salad with Grilled Corn",
     "url": "http://allrecipes.com/recipe/247118/summer-salad-with-grilled-corn/"
 }

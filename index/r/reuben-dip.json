@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a small bowl, combine mayonnaise and dressing.",
+        "Spread sauerkraut into a 9x13-inch baking dish.  Layer corned beef, Swiss cheese, and the mayonnaise-dressing mixture on top of the sauerkraut.",
+        "Bake for 20 to 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bd cup mayonnaise",
+        "\u00bd cup Thousand Island dressing",
+        "16 ounces sauerkraut, rinsed and squeezed dry",
+        "8 ounces shredded corned beef",
+        "16 ounces shredded Swiss cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Reuben Dip",
     "url": "http://allrecipes.com/recipe/14865/reuben-dip/"
 }

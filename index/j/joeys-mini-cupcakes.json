@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease or line 44 miniature muffin cups with paper liners.",
+        "Beat cream cheese, 1/2 cup sugar, egg, and 1/8 teaspoon salt together in a bowl until filling is smooth; fold in chocolate chips.",
+        "Sift flour, 1 cup sugar, cocoa powder, baking soda, and 1/2 teaspoon salt together in a bowl. Beat water, vegetable oil, vinegar, and vanilla extract into flour mixture until batter is evenly mixed. Fill muffin cups 1/3-full with batter; top each with about 1 teaspoon cream cheese filling. Sprinkle cupcakes with remaining 2 tablespoons sugar.",
+        "Bake in the preheated oven until a toothpick inserted in the sides of a cupcake come out clean, 30 to 35 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4752&h=2488&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3032330.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bd cup white sugar",
+        "1  egg",
+        "\u215b teaspoon salt",
+        "16 ounces miniature chocolate chips",
+        "1\u2009\u00bd cups all-purpose flour",
+        "1 cup white sugar",
+        "\u00bc cup unsweetened cocoa powder",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1 cup water",
+        "\u2153 cup vegetable oil",
+        "1 tablespoon vinegar",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons white sugar, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Joey's Mini Cupcakes",
     "url": "http://allrecipes.com/recipe/237099/joeys-mini-cupcakes/"
 }

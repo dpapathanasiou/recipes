@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a shallow, medium bowl mix Parmesan cheese, Italian seasoned bread crumbs, tarragon and dill.",
+        "In a medium saucepan over medium heat, blend white wine, teriyaki sauce, butter, red onion and garlic. Cook and stir until onions are tender.",
+        "Press one side of each salmon steak into the Parmesan cheese mixture. Place steaks crust side up in saucepan with white wine mixture. Cook over medium high heat until most of the liquid is reduced, 10 to 15 minutes, then flip with a spatula. Continue cooking until crust is golden brown and fish is easily flaked with a fork."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1996&h=1045&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1827150.jpg",
+    "ingredients": [
+        "\u00bd cup Parmesan cheese",
+        "1 cup Italian seasoned bread crumbs",
+        "1 teaspoon dried tarragon",
+        "1 teaspoon dill weed",
+        "1 cup white wine",
+        "\u00bc cup teriyaki sauce",
+        "1 tablespoon melted butter",
+        "\u00bc cup chopped red onion",
+        "1 tablespoon minced garlic",
+        "2 pounds salmon steaks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Parmesan Crusted Salmon",
     "url": "http://allrecipes.com/recipe/36201/parmesan-crusted-salmon/"
 }

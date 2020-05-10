@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place pork chops in a 9x13 inch baking pan. Add the mushroom and celery soups. Stir to coat the pork chops.",
+        "Bake in preheated oven for 45 minutes, until meat is no longer pink inside and thermometer reads 145 degrees F (63 degrees C).",
+        "Remove from oven and stir sour cream into soup mixture. Sprinkle with French-fried onions. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F63395.jpg",
+    "ingredients": [
+        "6  pork chops",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (10.75 ounce) can condensed cream of celery soup",
+        "1 cup sour cream",
+        "1 (6 ounce) can French-fried onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Clayton's Pork Chops",
     "url": "http://allrecipes.com/recipe/24679/claytons-pork-chops/"
 }

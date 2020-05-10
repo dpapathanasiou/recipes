@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pick your Thanksgiving turkey nearly clean. (Turkey salad is great for a few days, or even turkey pot pies.) We are not real concerned about the choice meat here. Dump the turkey and all of its debris, including the juices, into a large pot. Add  green beans, celery, spinach, cabbage, and white rice. Pour in enough water to cover everything.",
+        "Bring soup to a boil. Reduce heat, and simmer for an hour or so. Add more water as needed.",
+        "Remove all turkey bones and unwanted debris (i.e., skin, cartilage, etc.). There you have it. It's kind of a culinary scrapbook of your Turkey Day."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/985551.jpg",
+    "ingredients": [
+        "1 carcass",
+        "3 large carrots, chopped",
+        "1 (15 ounce) can cut green beans, drained",
+        "1 cup chopped celery",
+        "1 cup chopped fresh spinach",
+        "1 cup chopped cabbage",
+        "2 cups white rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aunt Wanda's Turkey Carcass Soup",
     "url": "http://allrecipes.com/recipe/9071/aunt-wandas-turkey-carcass-soup/"
 }

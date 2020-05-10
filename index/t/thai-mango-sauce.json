@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place mango, corn syrup, and sauce in an electric blender. Blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2310278.jpg",
+    "ingredients": [
+        "1 mango, peeled and seeded",
+        "1 1/2 tablespoons corn syrup",
+        "2 tablespoons Thai pepper garlic sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Thai Mango Sauce",
     "url": "http://allrecipes.com/recipe/16636/thai-mango-sauce/"
 }

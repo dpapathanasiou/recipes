@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine turkey carcass, water, 1 cup celery, 2 carrots, onion, 2 teaspoons salt, thyme, bouillon, and bay leaf in large 4 quart stockpot.  Bring to boiling.  Lower heat, and cover.  Simmer for 1 1/2 hours.  Strain stock, and discard solids.  Skim off fat using ladle or fat separator.  Pick meat off bones when cooled.  Reserve meat.",
+        "Combine 6 tablespoons flour and 1/2 cup milk in a jar with a tight fitting lid.  Shake to combine.  Pour stock into pot.  Bring to simmering.  Strain flour mixture through sieve into stock, stirring.",
+        "Slice remaining 3 carrots.  Add rutabaga, ground pepper, remaining 1/2 cup celery, and sliced carrots.  Simmer 20 minutes, or until vegetables are tender.",
+        "While the soup is simmering, prepare the dumplings.  Combine parsley and bread in processor; whirl until medium size crumbs.  Add 1 1/4 cups flour, baking powder, and salt; process just until combined.  Add 1/2 cup milk and butter; process using on-off pulses just until blended.",
+        "Drop mounded tablespoons of dumpling mixture into simmering soup. Place cover on pot.  Cook for 12 minutes, or until dumplings are dry in center.  Add turkey meat; cook 3 minutes, or until heated through."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2883269.jpg",
+    "ingredients": [
+        "1 picked over turkey carcass",
+        "12 cups water",
+        "1 1/2 cups chopped celery",
+        "5 carrots",
+        "1 yellow onion, cut into wedges",
+        "2 teaspoons salt",
+        "3/4 teaspoon dried thyme",
+        "1 cube chicken bouillon",
+        "1 bay leaf",
+        "6 tablespoons all-purpose flour",
+        "1/2 cup milk",
+        "1 small rutabaga, cubed",
+        "1/2 teaspoon ground black pepper",
+        "1 1/2 pounds cooked turkey, cubed",
+        "1/2 cup chopped fresh parsley",
+        "2 slices white bread, quartered",
+        "1 1/4 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup milk",
+        "4 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hearty Turkey Soup with Parsley Dumplings",
     "url": "http://allrecipes.com/recipe/9145/hearty-turkey-soup-with-parsley-dumpl/"
 }

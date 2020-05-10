@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sift together the flour and salt into a large bowl.  Cream in the butter until mixture resembles fine breadcrumbs. Mix in the sugar and Madeira, until mixture becomes stiff. Wrap dough in foil or plastic, and refrigerate for 30 minutes.",
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "On a lightly floured surface, knead dough lightly until smooth.  Roll out to approximately 1/8\" and  prick all over with a fork. Cut dough into 36 fingers measuring 1 x 2 1/2 inches.  Place on cookie sheets. In a small bowl, lightly beat the egg.  Brush cookie fingers with the egg and sprinkle each with sugar.",
+        "Bake for about 15 minutes or until light golden  in color.  Let cool on wire racks.  Store in  an airtight container."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd cup butter, softened",
+        "\u215c cup white sugar",
+        "1 pinch salt",
+        "3 tablespoons Madeira wine",
+        "1  egg",
+        "\u2153 cup white sugar for decoration"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Madeira Fingers",
     "url": "http://allrecipes.com/recipe/9797/madeira-fingers/"
 }

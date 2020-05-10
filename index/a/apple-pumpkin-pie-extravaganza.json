@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Line a baking sheet with aluminum foil; grease lightly.",
+        "Place pumpkin halves cut-side down on the prepared baking sheet.",
+        "Bake in the preheated oven until the fresh is tender when pierced with a fork, about 40 minutes. Cool until easily handled, about 15 minutes. Scoop pumpkin flesh out of the skin and into a food processor; puree until smooth.",
+        "Increase oven temperature to 450 degrees F (230 degrees C).",
+        "Whisk egg lightly in a large bowl. Stir in 1/2 cup brown sugar, 1 tablespoon flour, and salt. Add 1 3/4 cup pumpkin puree, evaporated milk, ginger, nutmeg, cloves, and cinnamon, mixing well after each addition.",
+        "Melt butter in a small saucepan over low heat. Stir in remaining 1 1/2 tablespoon flour until it forms a paste. Add remaining 1/4 cup brown sugar, white sugar, and water; bring to a boil. Reduce heat and simmer, stirring occasionally, until smooth, 3 to 5 minutes. Remove from heat.",
+        "Place bottom crust in a pie plate. Scatter some apples on top. Pour pumpkin puree mixture over apples. Arrange remaining apples in a circular pattern over puree. Moisten the rim of the pie with a small amount of water.",
+        "Cut top crust into 1/2-inch strips with a sharp knife or pastry wheel. Lay the 2 longest strips in an X in the center of the pie. Lay remaining strips on top, using the shortest ones on the edges, weaving them in an over-and-under pattern. Fold the ends under the edge of the bottom crust and flute the crust. Pour butter mixture gently over lattice.",
+        "Bake in the preheated oven for 12 minutes. Reduce temperature to 350 degrees F (175 degrees C) and continue baking until apples are soft and top is golden brown, 40 to 45 minutes. Transfer to a wire rack to cool before cutting."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (1 pound) sugar pumpkin, halved and seeded",
+        "1  egg",
+        "\u00be cup brown sugar, divided",
+        "2\u2009\u00bd tablespoons all-purpose flour, divided",
+        "\u00be teaspoon salt",
+        "\u00be (12 fluid ounce) can fat-free evaporated milk",
+        "\u2153 teaspoon ground ginger, or to taste",
+        "\u2153 teaspoon ground nutmeg, or to taste",
+        "\u2153 teaspoon ground cloves, or to taste",
+        "\u2153 teaspoon ground cinnamon, or to taste",
+        "\u00bc cup unsalted butter",
+        "\u00bc cup white sugar",
+        "2 tablespoons water",
+        "1 (15 ounce) package pastry for a double-crust 9-inch pie",
+        "5  Granny Smith apples - peeled, cored, and sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Pumpkin Pie Extravaganza",
     "url": "http://allrecipes.com/recipe/254794/apple-pumpkin-pie-extravaganza/"
 }

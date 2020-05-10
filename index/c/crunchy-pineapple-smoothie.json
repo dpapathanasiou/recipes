@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place boiling water in a bowl and add green tea; allow to steep for 5 minutes.",
+        "Blend orange, pineapple, and kiwi fruit together in a blender. Remove tea bag from tea and add tea to orange mixture; blend. Add yogurt and blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2219145.jpg",
+    "ingredients": [
+        "1 cup boiling water",
+        "1 (2 g) bag green tea bag",
+        "1 large orange, peeled",
+        "1 cup pineapple chunks",
+        "1 kiwi fruit, peeled",
+        "3 tablespoons non-fat Greek yogurt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crunchy Pineapple Smoothie",
     "url": "http://allrecipes.com/recipe/242016/crunchy-pineapple-smoothie/"
 }

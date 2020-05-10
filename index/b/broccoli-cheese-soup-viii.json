@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Steam the broccoli in a steamer or in a colander over boiling water until tender and bright green, 15 minutes.  Set aside.",
+        "In a large microwave safe bowl, combine half-and-half, 2 cups water and cheese.  Cook in microwave until cheese is melted and smooth, stirring every 2 minutes.  Stir in salt, pepper and garlic powder and cook 2 minutes more.  In a separate bowl, combine cornstarch and remaining 2 cups water, stirring to dissolve.  Whisk the cornstarch mixture into the soup.  Return the soup to the microwave, heating and stirring every 2 minutes until thick.  Stir in broccoli; heat once more and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2209&h=1157&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6356820.jpg",
+    "ingredients": [
+        "2\u2009\u00bd (16 ounce) packages chopped frozen broccoli, thawed",
+        "2 cups half-and-half cream",
+        "4 cups water, divided",
+        "2 pounds processed cheese, cubed",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon garlic powder",
+        "1 cup cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Broccoli Cheese Soup VIII",
     "url": "http://allrecipes.com/recipe/24394/broccoli-cheese-soup-viii/"
 }

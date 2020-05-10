@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan.",
+        "Blend green chiles and cheese together in a blender until smooth.",
+        "In a large bowl, stir together chile mixture, flour, sugar and beer together in a large mixing bowl until you get a sticky dough. Scoop dough into prepared pan.",
+        "Bake in preheated oven for 60 minutes, or until the top is golden brown and the loaf sounds hollow when tapped."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1920&h=1005&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1499522.jpg",
+    "ingredients": [
+        "1 cup chopped green chile pepper",
+        "1 cup shredded Cheddar cheese",
+        "3 cups self-rising flour",
+        "3 tablespoons white sugar",
+        "1 (12 fluid ounce) can or bottle beer"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Chile Cheese Beer Bread",
     "url": "http://allrecipes.com/recipe/24022/green-chile-cheese-beer-bread/"
 }

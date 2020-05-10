@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place tomatoes, water, and olive oil in a blender or food processor; blend until smooth. Transfer tomato mixture to a large pot.",
+        "Stir sugar, garlic salt, and vinegar into tomato mixture and bring to a boil. Reduce heat to medium-low and simmer until thickened, 1 to 2 hours, stirring occasionally.",
+        "Pour tomato sauce into a clean blender or food processor no more than half full. Cover and hold lid down; pulse a few times before leaving on to blend. Puree in batches until tomato sauce is very smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1040453.jpg",
+    "ingredients": [
+        "10 roma tomatoes",
+        "1 cup water",
+        "2 tablespoons olive oil",
+        "1/4 cup white sugar",
+        "2 tablespoons garlic salt",
+        "1 tablespoon white vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Homemade Pizza Sauce from Scratch",
     "url": "http://allrecipes.com/recipe/232035/homemade-pizza-sauce-from-scratch/"
 }

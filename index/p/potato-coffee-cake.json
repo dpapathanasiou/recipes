@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, dissolve potato flakes in boiling water. Let stand until lukewarm, about 15 minutes.",
+        "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Dough/Manual cycle; press Start. The mixing and first rise of the dough will be completed in the bread machine.",
+        "When Dough/Manual cycle is finished, remove dough and briefly knead on a floured board. Divide dough into 3 round loaves and place in three lightly greased 8 inch pie pans. Cover and let raise until doubled in size, about 60 minutes. Meanwhile, preheat oven to 350 degrees F (175 degrees C).",
+        "In a small bowl, combine 3 tablespoons sugar with 1/2 teaspoon cinnamon. Brush risen loaves with melted butter and sprinkle with cinnamon sugar mixture.",
+        "Bake in preheated oven for 20 minutes, or until golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1727&h=904&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F816139.jpg",
+    "ingredients": [
+        "\u00be cup dry potato flakes",
+        "1 cup boiling water",
+        "1 cup warm milk",
+        "3 tablespoons butter, softened",
+        "2  eggs",
+        "1 cup white sugar",
+        "4\u2009\u00bd cups bread flour",
+        "1 (.25 ounce) package active dry yeast",
+        "3 tablespoons white sugar",
+        "\u00bd teaspoon ground cinnamon",
+        "3 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato Coffee Cake",
     "url": "http://allrecipes.com/recipe/18030/potato-coffee-cake/"
 }

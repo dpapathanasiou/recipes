@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Combine sausage, diced tomatoes, tomato sauce, white kidney beans, red kidney beans, dark red kidney beans, onion, celery, green bell pepper, red bell pepper, yellow bell pepper, chili powder, cumin, garlic powder, salt, black pepper, oregano, sugar, and cayenne pepper in a large pot; bring to boil. Reduce heat and simmer until vegetables are tender, 45 minutes to 1 hour."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 pounds hot pork sausage",
+        "3 (28 ounce) cans diced tomatoes",
+        "1 (28 ounce) can tomato sauce",
+        "1 (15 ounce) can white kidney beans, drained and rinsed",
+        "1 (15 ounce) can red kidney beans, drained and rinsed",
+        "1 (15 ounce) can dark red kidney beans, drained and rinsed",
+        "1  onion, chopped",
+        "3 stalks celery, chopped",
+        "1  green bell pepper, chopped",
+        "1  red bell pepper, chopped",
+        "1  yellow bell pepper, chopped",
+        "\u00bc cup chili powder",
+        "2 teaspoons ground cumin",
+        "1\u2009\u00bd teaspoons garlic powder",
+        "1 teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon dried oregano",
+        "\u00bd teaspoon white sugar",
+        "\u215b teaspoon ground cayenne pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Happy Chili",
     "url": "http://allrecipes.com/recipe/232672/happy-chili/"
 }

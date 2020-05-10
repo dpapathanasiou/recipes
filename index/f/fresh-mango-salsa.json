@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir the tomatoes, mango, onion, sugar, cilantro, lime juice, cider vinegar, salt, pepper, and garlic together in a bowl; refrigerate 1 hour before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3783957.jpg",
+    "ingredients": [
+        "2 cups diced Roma tomatoes",
+        "1\u2009\u00bd cups diced mango",
+        "\u00bd cup diced onion",
+        "1 teaspoon white sugar",
+        "\u00bd cup chopped fresh cilantro",
+        "2 tablespoons fresh lime juice",
+        "1 tablespoon cider vinegar",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon black pepper",
+        "2 cloves garlic, minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Mango Salsa",
     "url": "http://allrecipes.com/recipe/215631/fresh-mango-salsa/"
 }

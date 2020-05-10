@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Butter a 9x13-inch baking dish. Lay the bread slices into the prepared baking dish in 2 layers. Beat eggs, half-and-half cream, orange juice, white sugar, brown sugar, cinnamon, and nutmeg together in a bowl until smooth, and pour over the bread. With a large spoon, press the bread down into the egg mixture so all the bread becomes soaked with the mixture.",
+        "Sprinkle the granola evenly over the casserole, and drizzle with maple syrup and melted butter. Cover the dish with plastic wrap, and refrigerate overnight.",
+        "About 1 hour before serving, remove the casserole from the refrigerator, and take off the plastic wrap. Preheat oven to 300 degrees F (150 degrees C).",
+        "Bake in the preheated oven for 30 minutes, then turn oven temperature up to 375 degrees F (190 degrees C). Bake the casserole until browned, about 15 more minutes. Serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5228404.jpg",
+    "ingredients": [
+        "1 (1 pound) loaf challah bread, sliced 1/2-inch thick",
+        "4 eggs",
+        "1 quart half-and-half cream",
+        "1/2 cup orange juice",
+        "1/2 cup white sugar",
+        "1/2 cup light brown sugar",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1 cup granola cereal",
+        "1/2 cup maple syrup",
+        "1/2 cup unsalted butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked French Toast With Maple Syrup and Granola",
     "url": "http://allrecipes.com/recipe/218745/baked-french-toast-with-maple-syrup-a/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the water and salt in a saucepan, and bring to a boil. Remove from the heat, and stir in the cornmeal and sugar. Return to medium heat, and cook stirring constantly until the mixture pulls away from the sides of the pan. Remove from heat, and stir in the Edam cheese until well blended.",
+        "Roll tablespoonfuls of the cornmeal mixture into balls. Then roll the balls into small fat sticks about 3 inches long. In a medium bowl, mix together the ketchup and mayonnaise to make the dipping sauce. Set aside.",
+        "Heat oil in a large heavy skillet to 375 degrees F (190 degrees C). Carefully place some of the corn sticks into the oil so they are not crowded. Fry until golden brown, 3 to 4 minutes. Remove from hot oil, and drain on paper towels. Serve immediately with the sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F180776.jpg",
+    "ingredients": [
+        "2 cups water",
+        "1\u2009\u00bc teaspoons salt",
+        "1\u2009\u00bd cups yellow cornmeal",
+        "5 tablespoons white sugar, or to taste (optional)",
+        "4 ounces Edam cheese, shredded",
+        "2 cups oil for deep frying",
+        "1 cup ketchup",
+        "1 cup mayonnaise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Surullitos de Maiz (Cornmeal Sticks)",
     "url": "http://allrecipes.com/recipe/72935/surullitos-de-maiz-cornmeal-sticks/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a stockpot over medium heat. Cook and stir onion in the hot oil until translucent, 5 to 10 minutes. Add garlic; cook and stir until fragrant, about 2 minutes.",
+        "Stir chorizo and ham into onion mixture and cook until lightly browned, 3 to 4 minutes. Mix potatoes and turnips into chorizo mixture; pour in chicken stock. Bring stock to a boil, reduce heat to medium-low, cover stockpot, and simmer until potatoes and turnips are tender, about 20 minutes.",
+        "Increase heat to medium and stir cannellini beans and turnip greens into soup; cook until greens are desired tenderness, at least 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4570702.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion, minced",
+        "8 cloves garlic, minced",
+        "2 Spanish chorizo links, sliced",
+        "2 thick slices smoked ham, diced, or more to taste",
+        "3 potatoes, peeled and diced",
+        "2 turnips, peeled and diced",
+        "8 cups chicken stock",
+        "1 (15 ounce) can white cannellini beans",
+        "3 cups chopped turnip greens"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caldo Gallego",
     "url": "http://allrecipes.com/recipe/240111/caldo-gallego/"
 }

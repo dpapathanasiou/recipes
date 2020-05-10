@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put pumpkin into a large pot. Pour 2 cups water over the pumpkin so the cubes are floating. Season pumpkin and water with turmeric and salt. Bring the mixture to a boil and cook until the pumpkin is tender yet firm enough to retain shape, about 15 minutes.",
+        "Grind 1/2 cup coconut, 3 red chile peppers, green chile pepper, 2 tablespoons water, and cumin seeds in a food processor until you have a paste; stir into the pumpkin mixture and bring again to a boil. Cook until the liquid has thickened and coats the pumpkin cubes, 5 to 7 minutes. Pour the curry into a large serving bowl.",
+        "Heat 2 teaspoons coconut oil in a small skillet over medium-high heat. Cook 2 dried red chile peppers, mustard seeds, and black lentils in hot oil until they sputter, 2 to 3 minutes; pour over curry.",
+        "Heat remaining teaspoon coconut oil in the skillet. Fry 1 tablespoon coconut in the hot oil until completely browned, 3 to 5 minutes. Pour atop the curry. Garnish dish with curry leaves."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4648542.jpg",
+    "ingredients": [
+        "5 cups cubed fresh pumpkin",
+        "2 cups water, or as needed",
+        "1 teaspoon ground turmeric",
+        "salt to taste",
+        "1/2 cup grated coconut",
+        "3 dried red chile peppers",
+        "1 green chile pepper",
+        "2 tablespoons water, or as needed",
+        "1 teaspoon cumin seeds",
+        "1 tablespoon coconut oil, divided",
+        "2 dried red chile peppers",
+        "1 teaspoon mustard seeds",
+        "1 teaspoon skinned split black lentils (urad dal)",
+        "1 tablespoon grated coconut",
+        "6 fresh curry leaves, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Indian-Style Pumpkin Curry",
     "url": "http://allrecipes.com/recipe/239939/easy-indian-style-pumpkin-curry/"
 }

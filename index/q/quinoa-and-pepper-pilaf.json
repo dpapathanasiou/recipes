@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a 2-quart saucepan over medium-high heat. Add the shallot and garlic and cook for 2 minutes, stirring occasionally. Add the peppers and quinoa and cook for 2 minutes, stirring occasionally.",
+        "Stir in the broth and heat to a boil. Reduce the heat to low. Cover and cook for 20 minutes or until the quinoa is tender and the liquid is absorbed. Stir in the parsley. Season, if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3626389.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1  shallot, minced",
+        "2 cloves garlic, minced",
+        "1 medium red bell pepper, diced",
+        "1 medium yellow bell pepper, diced",
+        "1 cup uncooked quinoa, rinsed",
+        "2 cups Swanson\u00ae Certified Organic Vegetable Broth or Swanson\u00ae Vegetable Broth",
+        "2 tablespoons chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quinoa and Pepper Pilaf",
     "url": "http://allrecipes.com/recipe/244576/quinoa-and-pepper-pilaf/"
 }

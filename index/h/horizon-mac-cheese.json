@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook the noodles according to the package directions.",
+        "Drain and pour into a large bowl.",
+        "Immediately add the butter and shredded cheese. Stir to mix while still hot. The cheese should melt. If it doesn't, put the mixture back in the pan and heat for another minute on medium, stirring constantly until the cheese has melted.",
+        "Add the cheese mix, milk, and broccoli, if using. Stir until combined."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2180888.jpg",
+    "ingredients": [
+        "1 (6 ounce) box Horizon\u00ae ClassicMac\u2122 Macaroni & Mild Cheddar Cheese",
+        "1 tablespoon butter",
+        "1/2 cup shredded sharp Cheddar cheese",
+        "2 ounces Horizon\u00ae Organic Milk",
+        "Cooked broccoli florets (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Horizon Mac & Cheese",
     "url": "http://allrecipes.com/recipe/241900/horizon-mac-cheese/"
 }

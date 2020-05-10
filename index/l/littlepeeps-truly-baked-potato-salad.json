@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Transfer potatoes to a bowl of ice-cold water to cool completely.",
+        "Place the bacon in a large skillet and cook over medium-high heat, turning occasionally, until crisp, about 10 minutes.; drain on paper towel.",
+        "Peel about half of the potatoes; chop peeled and unpeeled potatoes together.",
+        "Stir sour cream, sharp Cheddar cheese, scallions, salt, and ground black pepper together in a large bowl; add chopped potatoes and stir to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3427368.jpg",
+    "ingredients": [
+        "2 pounds small potatoes",
+        "6 slices bacon, chopped",
+        "1 cup sour cream, or more to taste",
+        "1 cup shredded sharp Cheddar cheese",
+        "3 scallions, thinly sliced",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "LittlePeeps' Truly Baked Potato Salad",
     "url": "http://allrecipes.com/recipe/238581/littlepeeps-truly-baked-potato-salad/"
 }

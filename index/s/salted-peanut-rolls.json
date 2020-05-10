@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spread 3 cups of the chopped peanuts into the bottom of a glass 9x13 inch pan. Melt peanut butter chips in the microwave or in a saucepan over low heat. Remove from heat and stir in the marshmallow cream and condensed milk. Pour over layer of peanuts, then sprinkle the remaining 1 cup peanuts over top. Chill until set, then cut into bars."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "24 ounces salted peanuts",
+        "2 cups peanut butter chips",
+        "1 (7 ounce) jar marshmallow creme",
+        "1 (14 ounce) can sweetened condensed milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salted Peanut Rolls",
     "url": "http://allrecipes.com/recipe/17366/salted-peanut-rolls/"
 }

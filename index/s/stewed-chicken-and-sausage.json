@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season chicken pieces with salt, pepper, and 1/4 teaspoon of cayenne pepper.",
+        "Mix remaining 1/4 teaspoon of cayenne pepper with flour, sage, and thyme in a bowl. Dredge chicken pieces in the flour mixture, coating each side completely.",
+        "Heat oil in a Dutch oven over medium heat. Cook chicken in the hot oil, turning occasionally, until evenly browned, 5 to 6 minutes. Stir in sausage; cook until browned, 5 to 6 minutes. Add onions; cook until softened, 5 to 6 minutes.",
+        "Stir chicken stock, garlic, and bay leaves into the Dutch oven; cover and cook until chicken is very tender, about 3 hours. Stir in green onions before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (2 to 3 pound) chicken, cut into 8 pieces",
+        "salt and ground black pepper to taste",
+        "\u00bd teaspoon ground cayenne pepper, or to taste, divided",
+        "\u00bd cup all-purpose flour",
+        "1 pinch dried sage, or to taste",
+        "1 pinch dried thyme, or to taste",
+        "\u00bc cup vegetable oil",
+        "1 pound smoked sausage, cut into 1/2-inch slices",
+        "2 cups sliced onions",
+        "6 cups chicken stock",
+        "1 tablespoon chopped garlic",
+        "4  bay leaves",
+        "\u00bc cup chopped green onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stewed Chicken and Sausage",
     "url": "http://allrecipes.com/recipe/257084/stewed-chicken-and-sausage/"
 }

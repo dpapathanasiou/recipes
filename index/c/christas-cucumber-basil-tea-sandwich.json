@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat cream cheese with half-and-half with an electric mixer in a bowl until smooth and easy to spread; stir in chives.",
+        "Use a large round cookie or biscuit cutter to cut 24 rounds out of the bread slices. Spread each round with cream cheese mixture and top each canape with 1 or 2 thin cucumber slices and a basil leaf. If making ahead, cover tea sandwiches lightly with plastic wrap and chill."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/970150.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "2 tablespoons half-and-half",
+        "2 tablespoons chopped fresh chives",
+        "12 slices rye bread",
+        "1 English cucumber, thinly sliced",
+        "24 leaves fresh basil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christa's Cucumber Basil Tea Sandwiches",
     "url": "http://allrecipes.com/recipe/228108/christas-cucumber-basil-tea-sandwich/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat griddle to smoking. Rub chicken breasts with oil and season with salt and pepper. Place on griddle and cook on both sides until chicken is cooked through.",
+        "At the same time, fry bacon pieces in a non-stick pan. Drain on paper towel. Cook pasta in lightly salted boiling water until just al dente. Drain and drizzle with olive oil.",
+        "Transfer all to a large bowl with sliced onions and mix Maille(R) Dijon Originale mustard into salad.",
+        "Season. Toss lightly. Serve in bowls sprinkled with parsley."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/988909.jpg",
+    "ingredients": [
+        "2 skinless chicken breast fillets",
+        "1 tablespoon sunflower oil",
+        "Salt and freshly ground black pepper",
+        "6 slices thin sliced bacon, rinded and chopped",
+        "8 ounces fusilli (or other ridged pasta shape)",
+        "Olive oil for drizzling",
+        "8 onions, trimmed and sliced on the slant",
+        "3 tablespoons Maille\u00ae Dijon Originale mustard",
+        "1 tablespoon finely chopped flat parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken and Bacon Pasta Salad with Maille\u00ae Dijon Originale Mustard",
     "url": "http://allrecipes.com/recipe/229529/chicken-and-bacon-pasta-salad-with-ma/"
 }

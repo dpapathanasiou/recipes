@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut an 'X' in the core end of each Brussels sprout. Set sprouts aside.",
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes; drain and cool on paper towels. Crumble.",
+        "Heat 1 teaspoon butter and olive oil in a large skillet over medium heat; cook and stir garlic until golden brown, 3 to 5 minutes. Add Brussels sprouts; toss to coat. Stir in broth, salt, and black pepper; cover and cook until Brussels sprouts are tender, 12 to 14 minutes. Drain liquid from pan.",
+        "Stir remaining 2 teaspoons butter into Brussels sprouts mixture until melted. Mix in bacon and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1044984.jpg",
+    "ingredients": [
+        "1 1/2 pounds fresh Brussels sprouts",
+        "8 slices bacon",
+        "1 teaspoon butter",
+        "2 teaspoons olive oil",
+        "4 cloves garlic, chopped",
+        "1/2 cup reduced-sodium chicken broth",
+        "1/4 teaspoon salt",
+        "1/8 teaspoon ground black pepper",
+        "2 teaspoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Brussels Sprouts with Crispy Bacon",
     "url": "http://allrecipes.com/recipe/228296/garlic-brussels-sprouts-with-crispy-b/"
 }

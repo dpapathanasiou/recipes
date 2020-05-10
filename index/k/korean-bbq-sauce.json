@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir soy sauce, brown sugar, garlic, rice wine vinegar, chile-garlic sauce,  ginger, sesame oil, and black pepper together in a saucepan; bring to a boil.",
+        "Whisk cornstarch and water together in a small bowl until the cornstarch dissolves; pour into boiling soy sauce mixture. Reduce heat to medium-low and cook until the sauce is thick, 3 to 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1002498.jpg",
+    "ingredients": [
+        "1 cup soy sauce",
+        "3/4 cup dark brown sugar",
+        "2 tablespoons minced garlic",
+        "1 tablespoon rice wine vinegar",
+        "1 tablespoon chile-garlic sauce (such as Sriracha\u00ae) (optional)",
+        "1 teaspoon grated fresh ginger",
+        "1 teaspoon Asian (toasted) sesame oil",
+        "1 1/2 teaspoons ground black pepper",
+        "1 tablespoon cornstarch",
+        "1 tablespoon water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Korean BBQ Sauce",
     "url": "http://allrecipes.com/recipe/231131/korean-bbq-sauce/"
 }

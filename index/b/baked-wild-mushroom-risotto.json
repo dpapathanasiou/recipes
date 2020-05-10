@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F.",
+        "Heat a large cast-iron or saute pan over medium heat. Add the olive oil, leek, onions and a pinch of salt. Cook until tender but not brown, about 5 minutes. Add mushrooms, garlic and thyme and cook, stirring occasionally, for 7 minutes until tender and slightly brown.",
+        "Add the rice and cook until the kernels are well coated with the oil and mushrooms, about 2 minutes. Add wine, balsamic vinegar, broth and a pinch each of salt and pepper. Bring the liquid to a boil and then remove from heat. Transfer the mixture to a deep 9x13-inch baking dish. Wrap the top tightly with Reynolds Wrap\u00ae Aluminum Foil. Bake for 30 minutes until the rice is tender but al dente.",
+        "Remove baking dish from oven and add the Parmesan and sage. Stir, adjust seasoning if necessary and serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1908&h=999&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2822063.jpg",
+    "ingredients": [
+        "\u00bc cup olive oil",
+        "1  leek, thinly sliced",
+        "1 small yellow onion, diced",
+        "Salt to taste",
+        "1 pound wild or cultivated mushrooms, sliced",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh thyme leaves",
+        "1\u2009\u00bd cups Arborio rice",
+        "\u00bd cup dry white wine",
+        "2 tablespoons balsamic vinegar",
+        "6 cups vegetable or chicken broth",
+        "Salt and ground black pepper, to taste",
+        "1 ounce finely grated Parmesan cheese",
+        "4  sage leaves, finely chopped",
+        "Reynolds Wrap\u00ae Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Wild Mushroom Risotto",
     "url": "http://allrecipes.com/recipe/245456/baked-wild-mushroom-risotto/"
 }

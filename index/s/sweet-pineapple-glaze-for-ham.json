@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour 1/2 cup pineapple juice from one of the cans into a bowl; reserve.",
+        "Pour pineapple tidbits and remaining juice into a saucepan over medium-low heat. Add brown sugar and cloves. Cook, stirring occasionally, until sauce thickens, about 1 hour. Thin sauce to desired consistency with reserved juice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4496889.jpg",
+    "ingredients": [
+        "2 (14 ounce) cans pineapple tidbits, undrained",
+        "1/2 cup brown sugar",
+        "1/4 teaspoon ground cloves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Pineapple Glaze for Ham",
     "url": "http://allrecipes.com/recipe/257052/sweet-pineapple-glaze-for-ham/"
 }

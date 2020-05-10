@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Stir blue cheese salad dressing and cream cheese together in a mixing bowl. Stir chicken, Buffalo wings sauce, and blue cheese crumbles into the salad dressing mixture; pour sauce into a baking dish.",
+        "Bake in preheated oven until bubbling, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1082767.jpg",
+    "ingredients": [
+        "1 (15 ounce) jar chunky-style blue cheese salad dressing (such as Marzetti\u00ae)",
+        "1 (8 ounce) package cream cheese, softened",
+        "3  cooked chicken breasts, shredded",
+        "1 (12 ounce) bottle Buffalo wings sauce (such as Frank's\u00ae Redhot\u00ae)",
+        "1 (4 ounce) package blue cheese crumbles"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Buffalo Chicken Dip",
     "url": "http://allrecipes.com/recipe/219899/easy-buffalo-chicken-dip/"
 }

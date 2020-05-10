@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Spray 10 muffin cups with cooking spray.",
+        "Press biscuits, one at a time, between hands to flatten. Place each flattened biscuit in a muffin cup; press into bottom and up sides of muffin cup. Set aside for biscuit to settle and slightly rise, about 5 minutes. Lightly press biscuits into cups as needed.",
+        "Spoon 1 tablespoon pizza sauce into each biscuit; top each with 1 slice pepperoni and 1 tablespoon mozzarella cheese.",
+        "Bake in the preheated oven until biscuit is lightly browned and cheese is melted, about 10 minutes. Remove each pizza from tin and place on a cooling rack, about 5 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "cooking spray",
+        "1 (10 ounce) can refrigerated buttermilk biscuit dough",
+        "10 tablespoons pizza sauce (such as Ragu\u00ae Homestyle)",
+        "10 slices pepperoni",
+        "10 tablespoons shredded mozzarella cheese, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Pepperoni Pizza Muffins",
     "url": "http://allrecipes.com/recipe/233222/easy-pepperoni-pizza-muffins/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine fruit cocktail, bananas and cherries. Reserve 3 slices of banana and 1 cherry for garnish.",
+        "In a mixing bowl, whip the cream to soft peaks with an electric mixer.  Add sugar and vanilla, and whip to combine.",
+        "Fold the whipped cream into the fruit.  Garnish with a fan of banana slices.  Place cherry at the bottom of the banana fan."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/398512.jpg",
+    "ingredients": [
+        "2 (15.25 ounce) cans fruit cocktail, drained",
+        "3 large bananas, peeled and sliced",
+        "1 (10 ounce) jar maraschino cherries, halved",
+        "1/2 pint heavy whipping cream",
+        "3 tablespoons white sugar",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Fruit Salad I",
     "url": "http://allrecipes.com/recipe/14320/creamy-fruit-salad-i/"
 }

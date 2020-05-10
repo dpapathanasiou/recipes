@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Slice chicken into small cubes.",
+        "Heat oil in a wok or frying pan over medium high heat.  Brown chicken.  Add carrots, and cook with chicken until slightly cooked.  Add onions, bell peppers, sage, garlic powder, and soy sauce.   Stir and cook continuously until chicken and vegetables are done, about five to ten minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F522242.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breasts",
+        "\u00bc cup soy sauce",
+        "1 pinch garlic powder",
+        "\u00bc teaspoon dried sage",
+        "3  green bell pepper, minced",
+        "1  onion, chopped",
+        "2  carrots, sliced thin",
+        "2 tablespoons olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tasty Chicken",
     "url": "http://allrecipes.com/recipe/8590/tasty-chicken/"
 }

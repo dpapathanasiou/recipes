@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat egg yolks. Add 1/2 cup sugar, then pumpkin, milk, salt and spices. Cook in double boiler until thick.",
+        "Soften gelatin in cold water, then stir into hot mixture.",
+        "Beat whites to soft peaks, and gradually pour in 1/2 cup sugar. Continue whipping to medium-stiff peaks. Fold into the pumpkin mixture. Pour into cooled pie shell and chill. ENJOY!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F520611.jpg",
+    "ingredients": [
+        "3  egg yolks",
+        "\u00bd cup white sugar",
+        "1\u2009\u00bc cups canned pumpkin",
+        "\u00bd cup milk",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground ginger",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bd teaspoon ground nutmeg",
+        "1 (.25 ounce) package unflavored gelatin",
+        "\u00bc cup cold water",
+        "3  egg whites, stiffly beaten",
+        "\u00bd cup white sugar",
+        "1 (9 inch) pie crust, baked"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Chiffon Pie I",
     "url": "http://allrecipes.com/recipe/12236/pumpkin-chiffon-pie-i/"
 }

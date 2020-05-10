@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Wrap the bottom of a springform pan with aluminum foil.",
+        "Mix 25 crushed cookies with butter in a large bowl. Press into the bottom of a springform pan to form crust.",
+        "Beat cream cheese, sugar, and vanilla extract together in a bowl with an electric mixer until smooth. Beat in eggs one at a time, mixing well between each addition. Fold in 10 crushed cookies and peppermint extract.",
+        "Spread cream cheese mixture over crust. Set springform pan in a deep baking dish. Pour enough water into the baking dish to come halfway up the sides of the pan.",
+        "Bake in the preheated oven until center of the cheesecake is set, 45 to 60 minutes. Turn off oven and open door slightly, leaving cheesecake inside to cool, about 1 hour. Refrigerate until firm, about 4 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4275&h=2238&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5148322.jpg",
+    "ingredients": [
+        "25  Thin Mints Girl Scout Cookies\u00ae, crushed",
+        "3 tablespoons butter, melted",
+        "3 (8 ounce) packages cream cheese, softened",
+        "\u00be cup white sugar",
+        "1 teaspoon vanilla extract",
+        "3  eggs",
+        "10  Thin Mints Girl Scout Cookies\u00ae, crushed",
+        "1 drop peppermint extract, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Girl Scout Thin Mints&reg; Cheesecake",
     "url": "http://allrecipes.com/recipe/256451/girl-scout-thin-mints-cheesecake/"
 }

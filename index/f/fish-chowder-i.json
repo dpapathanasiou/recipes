@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large stock pot cover potatoes with enough water so they are fully covered.  Bring to boil, then reduce to a simmer.",
+        "In a saute pan cook onion and bacon, over medium heat, until onions are soft.  Add to potato mixture.",
+        "Once potatoes become soft, and the broth has a milky look to it, add cut up fish fillets.  Heat until fish fillets are cooked through.",
+        "Add enough milk product to bring soup to your desired taste and texture.  Season with white pepper and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1458&h=763&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F776279.jpg",
+    "ingredients": [
+        "4  potatoes, peeled and diced",
+        "1  onion, chopped",
+        "4 slices bacon, diced",
+        "\u00bc pound haddock fillets, chopped",
+        "\u00bd cup milk",
+        "\u00bc teaspoon freshly ground white pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fish Chowder I",
     "url": "http://allrecipes.com/recipe/13371/fish-chowder-i/"
 }

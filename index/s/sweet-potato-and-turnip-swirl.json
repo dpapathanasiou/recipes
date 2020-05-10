@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium high heat, cover the turnips and sweet potatoes with enough water to cover. Bring to a boil and cook until soft, about 15 to 20 minutes. Drain; transfer to a food processor and puree.",
+        "In a saucepan over medium heat, combine the ginger, margarine, sugar, and orange peel. Allow margarine to melt and mix ingredients together well. Add the puree and swirl together. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2334&h=1222&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F996326.jpg",
+    "ingredients": [
+        "\u00bd pound turnips, peeled and cubed",
+        "2  sweet potatoes, peeled and cubed",
+        "1 teaspoon minced fresh ginger root",
+        "1 tablespoon reduced fat margarine",
+        "1 tablespoon white sugar",
+        "2 teaspoons orange zest"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Potato and Turnip Swirl",
     "url": "http://allrecipes.com/recipe/15775/sweet-potato-and-turnip-swirl/"
 }

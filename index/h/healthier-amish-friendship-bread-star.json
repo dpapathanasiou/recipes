@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dissolve yeast in water in a small bowl. Let stand 10 minutes. Combine 1 cup all-purpose flour and 1 cup sugar in a 2-quart container. Mix thoroughly or flour will lump when milk is added. Slowly stir in 1 cup milk and dissolved yeast mixture. Cover loosely and let stand until bubbly. Consider this day 1 of the 10 day cycle. Leave loosely covered at room temperature.",
+        "On days 2 through 4: Stir starter with a spoon. Day 5: Stir in 1 cup white whole wheat flour, 1 cup sugar and 1 cup milk. Days 6 through 9: Stir only.",
+        "Day 10: Stir in 1/2 cup each all-purpose and white whole wheat flour, 1 cup sugar, and 1 cup milk. Remove 1 cup to make your first bread, give 2 cups to friends along with this recipe, and your favorite Amish Bread recipe. Store the remaining 1 cup starter in a container in the refrigerator, or begin the 10 day process over again (beginning with step 2)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6637093.jpg",
+    "ingredients": [
+        "1 (.25 ounce) package active dry yeast",
+        "1/4 cup warm water (110 degrees F/45 degrees C)",
+        "1 cup all-purpose flour",
+        "1 cup white sugar",
+        "1 cup low-fat milk",
+        "1 cup white whole wheat flour",
+        "1 cup white sugar",
+        "1 cup low-fat milk",
+        "1/2 cup all-purpose flour",
+        "1/2 cup whole wheat flour",
+        "1 cup white sugar",
+        "1 cup low-fat milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Healthier Amish Friendship Bread Starter",
     "url": "http://allrecipes.com/recipe/219434/healthier-amish-friendship-bread-star/"
 }

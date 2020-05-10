@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a loaf pan and 24 mini-muffin cups.",
+        "Stir cake mix and sugar together in a large bowl. Beat pumpkin, eggs, and milk with the cake mix mixture until you have a smooth batter. Stir chocolate chips through the batter.",
+        "Drop batter into prepared muffin cups with a small cookie scoop. Pour remaining batter into greased bread pan.",
+        "Bake muffins in preheated oven until tops of muffins are golden and spring back when lightly pressed, 12 to 14 minutes.",
+        "Bake bread in preheated oven until top is golden and springs back when lightly pressed, 55 to 60 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1441237.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package spice cake mix",
+        "\u00be cup white sugar",
+        "1 (15 ounce) can solid-pack pumpkin",
+        "2  eggs, beaten",
+        "\u00bc cup milk",
+        "\u00bd cup mini chocolate chips (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cake Mix Pumpkin Bread and Muffins",
     "url": "http://allrecipes.com/recipe/239320/cake-mix-pumpkin-bread-and-muffins/"
 }

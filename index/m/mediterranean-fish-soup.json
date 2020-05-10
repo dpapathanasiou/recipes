@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place onion, green bell pepper, garlic, tomatoes, chicken broth, tomato sauce, mushrooms, olives, orange juice, wine, bay leaves, dried basil, fennel seeds, and pepper into a  slow cooker. Cover, and cook on low 4 to 4 1/2 hours or until vegetables are crisp tender.",
+        "Stir in shrimp and cod. Cover. Cook 15 to 30 minutes, or until shrimp are opaque. Remove and discard bay leaves.  Serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2425133.jpg",
+    "ingredients": [
+        "1 onion, chopped",
+        "1/2 green bell pepper, chopped",
+        "2 cloves garlic, minced",
+        "1 (14.5 ounce) can diced tomatoes, drained",
+        "2 (14 ounce) cans chicken broth",
+        "1 (8 ounce) can tomato sauce",
+        "2 1/2 ounces canned mushrooms",
+        "1/4 cup sliced black olives",
+        "1/2 cup orange juice",
+        "1/2 cup dry white wine",
+        "2 bay leaves",
+        "1 teaspoon dried basil",
+        "1/4 teaspoon fennel seed, crushed",
+        "1/8 teaspoon ground black pepper",
+        "1 pound medium shrimp - peeled and deveined",
+        "1 pound cod fillets, cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mediterranean Fish Soup",
     "url": "http://allrecipes.com/recipe/13268/mediterranean-fish-soup/"
 }

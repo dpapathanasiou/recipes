@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk soy sauce, cider vinegar, brown sugar, hoisin sauce, garlic, and salt together in a large glass or ceramic bowl until marinade is smooth. Transfer 1 tablespoon marinade to a separate small bowl. Add pork to remaining marinade in the large bowl and toss to coat. Let marinate briefly, about 10 minutes.",
+        "Heat 1 tablespoon oil in a large skillet over high heat until glistening. Cook and stir pork pieces in hot oil until browned on all sides, about 2 minutes. Transfer pork to a plate and return skillet to heat.",
+        "Stir red bell pepper and onion into the same skillet and drizzle remaining oil over the top. Cook and stir until vegetables are slightly softened, about 2 minutes. Add frozen vegetables and water chestnuts to onion mixture, drizzle 1 tablespoon reserved marinade over the top and sprinkle with ginger and red pepper flakes. Cook and stir until vegetables are tender yet still crisp to the bite, about 5 minutes. Return pork to skillet; cook and stir until heated through, about 1 minute more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3352096.jpg",
+    "ingredients": [
+        "2 tablespoons soy sauce",
+        "2 tablespoons cider vinegar",
+        "2 tablespoons brown sugar",
+        "1 tablespoon hoisin sauce",
+        "2 cloves garlic, chopped",
+        "1 teaspoon salt",
+        "2 tablespoons sesame oil, divided",
+        "1\u2009\u00bd pounds boneless pork chops, cut into stir-fry strips",
+        "1  red bell pepper, diced",
+        "\u00bd  onion, diced",
+        "1 (12 ounce) package frozen stir-fry vegetables",
+        "1 (8 ounce) can sliced water chestnuts, drained",
+        "2 teaspoons ground ginger",
+        "1 teaspoon red pepper flakes (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Ginger Pork Stir Fry",
     "url": "http://allrecipes.com/recipe/241090/quick-ginger-pork-stir-fry/"
 }

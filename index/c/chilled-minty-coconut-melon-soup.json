@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut the honeydew melon in half and remove the seeds. Press the seed pith through a fine mesh sieve over a bowl, and reserve the resulting liquid. Discard the seeds. Cut the melon into sections, and remove the rind.",
+        "Place the melon and reserved melon liquid into a tall pot. Puree with a stick blender. Alternately, you can puree the ingredients in a blender. Add the coconut milk, then continue blending until smooth. Stir in the melon liqueur.",
+        "Remove the small tips on each sprig of mint, and reserve for garnish. Stack the remaining mint, then begin rolling the mint into a ball, securing with kitchen string. Drop the rolled mint into the pot with the melon soup. Cover and refrigerate for 2 hours or overnight.",
+        "Remove mint before dividing the soup into chilled cups. Garnish with the reserved mint tips."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 large honeydew melon",
+        "1 cup coconut milk",
+        "2 (1.5 fluid ounce) jiggers melon liqueur",
+        "1 bunch fresh mint"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chilled Minty Coconut Melon Soup",
     "url": "http://allrecipes.com/recipe/215351/chilled-minty-coconut-melon-soup/"
 }

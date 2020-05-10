@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large glass bowl, stir together the oats, raisins, honey, yogurt and soy milk. Cover and refrigerate overnight before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/191795.jpg",
+    "ingredients": [
+        "2 cups rolled oats",
+        "3 tablespoons raisins",
+        "3 tablespoons honey",
+        "1 1/2 cups plain yogurt",
+        "1 1/4 cups soy milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Bircher Muesli",
     "url": "http://allrecipes.com/recipe/106721/best-bircher-muesli/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef, about half the sweet onion, and garlic powder in the hot skillet until completely browned, 5 to 7 minutes.",
+        "Mix tomato chunks, chili beans, tomato sauce, kidney beans, ketchup, and tomato paste in a large pot; bring to a boil and reduce heat to low. Stir the ground beef mixture and mushrooms into the tomato mixture; season with chili powder, sugar, salt, and black pepper. Cook chili at a simmer, stirring occasionally, until the flavors blend, about 45 minutes. Top individual servings with diced sweet onion to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1924&h=1007&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2748861.jpg",
+    "ingredients": [
+        "2 pounds lean ground beef",
+        "1 large sweet onion (such as Vidalia\u00ae), diced",
+        "1 tablespoon garlic powder",
+        "2 (15 ounce) cans whole tomatoes, cut into chunks",
+        "2 (15 ounce) cans mild chili beans",
+        "1 (15 ounce) can tomato sauce",
+        "1 (15 ounce) can kidney beans, drained and rinsed",
+        "1 cup ketchup",
+        "1 (6 ounce) can tomato paste",
+        "2 (6 ounce) jars mushrooms, drained",
+        "\u00bc cup chili powder, or to taste",
+        "2 teaspoons white sugar (optional)",
+        "1\u2009\u00bd teaspoons salt",
+        "1 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Thick and Savory Chili",
     "url": "http://allrecipes.com/recipe/234074/thick-and-savory-chili/"
 }

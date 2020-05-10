@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place beef into a bowl; cover with vinegar and salt.",
+        "Heat oil in a large skillet over medium-high heat; cook and stir onion until softened, 3 to 5 minutes. Add meat to the onions; cook and stir until onions are soft and meat has begun to brown, about 5 minutes.",
+        "Mix corn, peas, and mushrooms into the skillet; cook and stir until flavors combine, about 10 minutes. Stir in tomato sauce and cream. Cook and stir until meat is cooked through and a salmon pink color, about 3 minutes. Season with salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7623883.jpg",
+    "ingredients": [
+        "1 pound stew beef, tenderized and diced",
+        "\u00bd teaspoon vinegar",
+        "salt to taste",
+        "1 teaspoon oil, or as needed",
+        "1  onion, diced",
+        "1 (15 ounce) can corn, drained",
+        "1 (15 ounce) can sweet peas, drained",
+        "1 (4.5 ounce) can mushrooms, drained and diced",
+        "1 (6 ounce) can tomato sauce",
+        "\u00bd quart heavy whipping cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brazilian Stroganoff",
     "url": "http://allrecipes.com/recipe/254353/brazilian-stroganoff/"
 }

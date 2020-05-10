@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F.",
+        "Add the cream cheese, milk, wing sauce, and chicken base to a medium sized mixing bowl.  Stir to incorporate.  Add the chicken and mix well.",
+        "Spread the chicken mixture into an 11x7-inch baking dish. Sprinkle the chicken with the cracker crumbs. Place the baking dish directly into the oven and bake for 15 to 20 minutes or until the cracker crumbs are golden brown.",
+        "Carefully remove the baking dish from the oven and let cool for 5 minutes. Serve immediately with crackers or vegetables."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6442732.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups cream cheese, softened",
+        "2 tablespoons milk",
+        "\u00bd cup Buffalo-style hot pepper sauce",
+        "1 tablespoon Better Than Bouillon\u00ae Roasted Chicken Base",
+        "2 cups chopped rotisserie chicken",
+        "\u00bd cup cracker crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Buffalo Chicken Bake",
     "url": "http://allrecipes.com/recipe/244113/spicy-buffalo-chicken-bake/"
 }

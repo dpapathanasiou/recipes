@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix 1/4 cup tomato sauce, Worcestershire sauce, spicy mustard, and honey together in a bowl; set aside.",
+        "Mix thoroughly ground beef, ground turkey, ground lamb, 2 1/4 cup tomato sauce, oats, egg, sweet onion, salt, and pepper in a large bowl; divide into halves and form 2 loaves. Put loaves into loaf pans.",
+        "Bake in the preheated oven for 45 minutes, brush tops with sauce, and continue baking until no longer pink in the center, about 15 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Cool slightly in pans before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1777&h=930&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4458047.jpg",
+    "ingredients": [
+        "\u00bc cup tomato sauce",
+        "2 tablespoons Worcestershire sauce",
+        "1 tablespoon spicy mustard",
+        "1 tablespoon honey",
+        "\u00bd pound ground beef",
+        "\u00bd pound ground turkey",
+        "\u00bd pound ground lamb",
+        "2\u2009\u00bc cups tomato sauce",
+        "1\u2009\u00bd cups rolled oats",
+        "1  egg",
+        "\u00bd  sweet onion, chopped",
+        "1 teaspoon salt",
+        "\u00bd teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Three Meat Loaf",
     "url": "http://allrecipes.com/recipe/235241/three-meat-loaf/"
 }

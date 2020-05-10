@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F.",
+        "To prepare the crust: Combine the flour, Truvia(R) natural sweetener and salt in a small bowl and place in the refrigerator to chill. Work the butter and shortening into the chilled flour mixture with a pastry blender or your fingers until the butter is about the size of peas. Add the ice water and mix until the dough comes together. Form dough into a flat disk, cover and chill for 30 minutes.",
+        "Roll dough on a floured surface, or between sheets of parchment paper to 0.5 cm thickness. Transfer to tart pan(s) with removable bottom without stretching dough or it will shrink during baking. Roll the rolling pin over the top of the tart pan to cut off extra pastry. Prick the bottom of the shells to prevent puffing during baking. Line the shells with parchment paper or aluminum foil and fill with pie weights, dried beans or rice. Bake for 25-30 minutes until crust is lightly browned. Remove the weights and cool crust completely before filling.",
+        "To prepare the pastry cream: In a medium bowl, beat Truvia(R) natural sweetener, flour, cornstarch and egg yolks on high speed until thick and pale yellow, about 2 minutes. Meanwhile, heat milk in a medium saucepan over medium heat and bring to a simmer.",
+        "While mixing on low speed, gradually pour the hot milk into the egg mixture. Transfer the mixture back to the sauce pan and cook, whisking constantly to prevent scorching. Continue to heat over medium heat until it begins to bubble, then continue cooking and whisking for about 30 seconds to thoroughly cook the eggs.",
+        "Transfer cooked pastry cream to a clean bowl and stir in vanilla. Cover the surface of the pastry cream with plastic wrap or parchment paper to prevent a skin from forming. Cool in the refrigerator.",
+        "To assemble the tart: Spread pastry cream in bottom of tart shell. Decoratively arrange sliced strawberries on top of the cream. Sprinkle with 1/2 teaspoon of Truvia(R) natural sweetener. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/989228.jpg",
+    "ingredients": [
+        "Crust:",
+        "1 1/4 cups flour",
+        "4 teaspoons Truvia\u00ae natural sweetener spoonable*",
+        "1/4 teaspoon salt",
+        "6 tablespoons unsalted butter",
+        "2 tablespoons cold shortening",
+        "1/4 cup ice water",
+        "Pastry Cream:",
+        "1 1/3 cups 1% low-fat milk",
+        "2 tablespoons Truvia\u00ae natural sweetener spoonable, plus",
+        "1/2 teaspoon Truvia\u00ae natural sweetener spoonable**",
+        "2 tablespoons cornstarch",
+        "2 tablespoons flour",
+        "4 large egg yolks",
+        "3/4 teaspoon vanilla",
+        "1/8 teaspoon salt",
+        "Fruit Topping:",
+        "1 pint fresh strawberries",
+        "1/2 teaspoon Truvia\u00ae natural sweetener spoonable***"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Tart with Truvia\u00ae Natural Sweetener",
     "url": "http://allrecipes.com/recipe/229476/strawberry-tart-with-truvia-natura/"
 }

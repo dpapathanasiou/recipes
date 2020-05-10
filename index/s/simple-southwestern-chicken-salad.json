@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, combine the chicken, mayonnaise, celery, cilantro and seasoning mix. Mix well.",
+        "Cover bowl and refrigerate for 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3061217.jpg",
+    "ingredients": [
+        "2  boneless chicken breast halves, cooked and cubed",
+        "\u00be cup mayonnaise",
+        "\u00bc cup chopped celery",
+        "chopped fresh cilantro to taste",
+        "1 (1 ounce) package taco seasoning mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simple Southwestern Chicken Salad",
     "url": "http://allrecipes.com/recipe/25930/simple-southwestern-chicken-salad/"
 }

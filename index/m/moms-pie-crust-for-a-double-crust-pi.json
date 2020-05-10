@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sift flour and salt together in a bowl. Cut in shortening until it looks like coarse crumbs. Add water until dough forms."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2894375.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1/2 cup vegetable shortening",
+        "1/2 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mom's Pie Crust for a Double Crust Pie",
     "url": "http://allrecipes.com/recipe/223599/moms-pie-crust-for-a-double-crust-pi/"
 }

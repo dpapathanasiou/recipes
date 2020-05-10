@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a large saucepan over medium heat. Add the onion, bell pepper and smoked sausage. Season with garlic powder, salt and pepper. Add the black-eyed peas and hog jowl for flavoring (and luck for the next year!) Pour in the water and bring to a boil. Simmer over low heat for 1 hour. When ready to serve, stir in cooked rice and cheese until cheese has melted."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2720&h=1424&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F973457.jpg",
+    "ingredients": [
+        "\u00bc cup butter",
+        "1 small onion, chopped",
+        "1 small green bell pepper, seeded and chopped",
+        "8 ounces smoked sausage, sliced",
+        "1 tablespoon garlic powder",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "2 (15.5 ounce) cans black-eyed peas",
+        "1 (1 inch) cube smoked hog jowl",
+        "\u00be cup water",
+        "\u00bd cup cooked white rice",
+        "\u00bd cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "New Years Black-Eyed Peas",
     "url": "http://allrecipes.com/recipe/57736/new-years-black-eyed-peas/"
 }

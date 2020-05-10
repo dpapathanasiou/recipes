@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend ice and sugar together in a blender until slushy, 1 to 2 minutes. Add watermelon and blend until smooth; pour into glasses and garnish with spearmint leaves."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5267073.jpg",
+    "ingredients": [
+        "2 cups ice cubes",
+        "1/2 cup white sugar, or to taste",
+        "1 watermelon, cut into cubes and seeded",
+        "2 spearmint leaves, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Watermelon Smoothie Cooler",
     "url": "http://allrecipes.com/recipe/237800/watermelon-smoothie-cooler/"
 }

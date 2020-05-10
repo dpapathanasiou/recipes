@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mince chicken.  Mix together with sherry, salt, and egg whites in a large mixing bowl.  Add cream style corn, and mix well to blend.",
+        "Preheat a wok or large frying pan to medium high.  Add chicken broth and soy sauce, and bring to a boil.  Add chicken mixture, and return to boil.  Reduce heat.  Simmer for 3 minutes, stirring frequently to prevent burning.",
+        "In a cup, mix together water and cornstarch until well blended.  Add cornstarch mixture to simmering soup, stirring constantly.  Cook for an additional 2 minutes; soup will thicken slightly.  Crumble cooked bacon over individual servings."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3181613.jpg",
+    "ingredients": [
+        "\u00bd pound skinless, boneless chicken breast meat - finely chopped",
+        "1 tablespoon sherry",
+        "\u00bc teaspoon salt",
+        "2  egg whites",
+        "1 (14.75 ounce) can cream-style corn",
+        "4 cups chicken broth",
+        "2 teaspoons soy sauce",
+        "\u00bc cup water",
+        "2 tablespoons cornstarch",
+        "4 slices crisp cooked bacon, crumbled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chinese Creamy Corn Soup",
     "url": "http://allrecipes.com/recipe/13193/chinese-creamy-corn-soup/"
 }

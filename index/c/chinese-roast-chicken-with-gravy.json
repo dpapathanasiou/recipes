@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Place chicken in a roasting pan. Coat with soy sauce and bake at 400 degrees F (200 degrees C) for 30 minutes; reduce heat to 350 degrees F (175 degrees C) and bake for 1 hour.",
+        "Drizzle oil over chicken and bake for another 10 minutes. Remove chicken from oven, place on a platter and keep warm.",
+        "To Make Gravy: Put roasting pan on stove; pour chicken stock into pan and bring to a boil, stirring frequently, scraping up bits of caramelized soy sauce. In a small bowl, combine cornstarch and water and mix; stir this mixture into roasting pan and stir until well combined and a nice, thick gravy is made. Serve with roasted chicken."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F259766.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken",
+        "\u00be cup soy sauce",
+        "\u2153 cup sesame oil",
+        "1 cup chicken stock",
+        "\u215b cup cornstarch",
+        "\u00bc cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chinese Roast Chicken with Gravy",
     "url": "http://allrecipes.com/recipe/17870/chinese-roast-chicken-with-gravy/"
 }

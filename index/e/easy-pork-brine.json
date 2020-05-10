@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix brown sugar, salt, mustard powder, and garlic powder in a large bowl. Pour in cider vinegar; stir until sugar and salt have dissolved. Add water; stir until well combined."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1108669.jpg",
+    "ingredients": [
+        "1 cup brown sugar",
+        "1/2 cup salt",
+        "1 tablespoon mustard powder",
+        "1 tablespoon garlic powder",
+        "1 cup cider vinegar",
+        "2 cups water, or as needed to cover"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Pork Brine",
     "url": "http://allrecipes.com/recipe/228998/easy-pork-brine/"
 }

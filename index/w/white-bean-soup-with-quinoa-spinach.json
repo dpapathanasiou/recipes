@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cannellini beans into a large container and cover with several inches of cool water; let stand 8 hours to overnight. Or, bring the beans and water to a boil in a large pot over high heat. Once boiling, turn off the heat, cover, and let stand 1 hour. Drain and rinse the beans before using.",
+        "Heat 1 tablespoon of the canola oil in a large pot over medium heat. Stir in the mushrooms, and cook until they soften and begin to give up their juices, about 4 minutes. Remove the mushrooms from the pot, and set aside. Heat the remaining tablespoon of canola oil in the pot, and stir in the sliced onions. Cook and stir until the onions have caramelized to a dark brown, about 15 minutes.",
+        "Pour in the wine and rosemary, and bring to a boil over high heat. Once boiling, add the drained beans, and enough water to cover the beans by 1 inch. Return to a boil, then reduce heat to medium-low, cover, and simmer for 30 minutes.",
+        "Stir in the cooked mushrooms and quinoa; continue cooking until the beans and the quinoa are tender, about 20 minutes more. Remove from the heat, and stir in the spinach leaves until wilted. Season to taste with salt and pepper before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1122111.jpg",
+    "ingredients": [
+        "1 pound dry cannellini beans",
+        "1 tablespoon canola oil",
+        "8 shiitake mushrooms, stemmed and sliced",
+        "1 tablespoon canola oil",
+        "1 large onion, sliced into thin rings",
+        "1/2 cup dry white wine (optional)",
+        "2 teaspoons dried rosemary",
+        "1/2 cup quinoa",
+        "1 (10 ounce) bag washed fresh spinach, chopped",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Bean Soup with Quinoa, Spinach, and Shiitakes",
     "url": "http://allrecipes.com/recipe/130737/white-bean-soup-with-quinoa-spinach/"
 }

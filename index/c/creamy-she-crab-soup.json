@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill the bottom of a double boiler halfway with water. Bring to a low boil. Melt butter in top of double boiler, add flour and stir until smooth.",
+        "Gradually add milk, stirring constantly until smooth. Add onion, mace, black pepper, Worcestershire sauce, salt, and crab meat with roe. Cook over simmering water for 20 minutes.",
+        "To serve, place 1 tablespoon of warmed sherry in each of 4 or 6 soup bowls (depends on how much soup you want). Ladle soup into bowls, top with a dollop of whipped cream, and sprinkle with fresh snipped parsley."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/657040.jpg",
+    "ingredients": [
+        "1 tablespoon butter",
+        "1 teaspoon all-purpose flour",
+        "1 quart milk",
+        "1/2 tablespoon grated onion",
+        "1/8 teaspoon ground mace",
+        "1/8 teaspoon ground black pepper",
+        "1/2 teaspoon Worcestershire sauce",
+        "1 teaspoon salt",
+        "3 tablespoons crab roe",
+        "2 cups fresh crabmeat",
+        "6 tablespoons dry sherry",
+        "1/2 cup heavy whipping cream, whipped",
+        "1 tablespoon chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy She-Crab Soup",
     "url": "http://allrecipes.com/recipe/13158/creamy-she-crab-soup/"
 }

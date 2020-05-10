@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend cornstarch, 3/4 cup sugar, and salt in a saucepan.  Gradually stir in the hot water.   Cook over medium heat, stirring constantly until thickened.  Reduce heat to low.  Cook and stir 5 minutes longer.  Remove from heat.",
+        "Mix butter or margarine, egg yolks, orange juice, and orange rind into the cornstarch mixture.  Cook one minute more.  Cover entire surface with clear plastic.  Let cool just slightly, and pour into the cooled pastry shell.  Cool to room temperature.",
+        "In a clean glass bowl, beat the egg whites with vanilla extract and cream of tartar until foamy.  Beat in 4 tablespoons sugar gradually, and continue beating until meringue forms stiff and glossy peaks.  Spread meringue in swirls over the filling; be sure to seal to the edge of the pastry.",
+        "Bake at 375 degrees F (190 degrees C) for 10  to 15 minutes, or till the meringue is tipped golden brown.  Cool to room temperature."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5444834.jpg",
+    "ingredients": [
+        "1 prepared 8 inch pastry shell, baked and cooled",
+        "3 1/2 tablespoons cornstarch",
+        "3/4 cup white sugar",
+        "1 pinch salt",
+        "1 1/4 cups boiling water",
+        "2 tablespoons butter",
+        "2 egg yolks, beaten",
+        "6 tablespoons frozen orange juice concentrate, thawed",
+        "4 teaspoons orange zest",
+        "2 egg whites",
+        "1/2 teaspoon vanilla extract",
+        "1/4 teaspoon cream of tartar",
+        "4 tablespoons white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Meringue Pie without Condensed Milk",
     "url": "http://allrecipes.com/recipe/12376/orange-meringue-pie/"
 }

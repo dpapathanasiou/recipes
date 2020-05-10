@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain.",
+        "Place eggs in a saucepan and cover completely with cold water. Bring water to a boil. Cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.",
+        "Whisk together the salad dressing, sugar, vinegar, salt and pepper.",
+        "In a large bowl, combine the pasta, eggs, peas, green onion, pickles, celery and cheese. Pour dressing over salad; mix well and chill before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/219683.jpg",
+    "ingredients": [
+        "1 cup macaroni",
+        "3 eggs",
+        "1/4 cup Ranch-style salad dressing",
+        "1 teaspoon white sugar",
+        "2 teaspoons white wine vinegar",
+        "salt to taste",
+        "1/4 teaspoon ground black pepper",
+        "2 cups frozen green peas, thawed",
+        "3 green onions, chopped",
+        "2 medium sweet pickles, chopped",
+        "2 stalks celery, chopped",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pea Salad II",
     "url": "http://allrecipes.com/recipe/14410/pea-salad-ii/"
 }

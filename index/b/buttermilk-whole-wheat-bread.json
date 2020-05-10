@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine buttermilk, honey, and butter in a microwave-safe bowl; heat in microwave in 30 second increments until temperature is just below 110 degrees F (43 degrees C).",
+        "Pour buttermilk mixture into the bowl of a stand mixer and add whole wheat flour, all-purpose flour, wheat gluten, yeast, lecithin, salt, ginger, and vitamin C powder; mix, using the dough hook attachment on low speed, until dough just holds together and sides of bowl are clean. Let dough rest in bowl for 2 minutes; mix again with the dough hook attachment for 2 minutes more.",
+        "Remove dough from bowl and knead by hand on a work surface until dough is warm and elastic, 2 to 3 minutes.",
+        "Spray a large bowl with cooking spray and place dough in the bowl, turning it to coat all sides with oil. Spray a piece of plastic wrap with cooking spray and cover bowl with sprayed-side down. Let dough rise until doubled in size, about 1 hour.",
+        "Gently deflate dough by pressing with your fingers and let rise 10 to 15 minutes more.",
+        "Turn dough onto a work surface and roll into an 8 1/2x11-inch rectangle. Starting with the short end, roll dough tightly into a roll, pinching the seams shut. Fold the ends underneath the loaf, pinching the edges to form a smooth top.",
+        "Spray a loaf pan with cooking spray and place loaf in the pan. Cover dough loosely with the sprayed-plastic wrap. Let dough rise 1 1/2 to 2 inches above the pan, 30 to 45 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Remove plastic wrap from loaf.",
+        "Bake in the preheated oven for 35 to 40 minutes. Flip bread out of pan using hot pads; internal temperature should read 190 degrees F (88 degrees C). Allow loaf to cool on wire rack before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2393&h=1253&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3589914.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups buttermilk",
+        "3 tablespoons honey",
+        "2 tablespoons butter",
+        "2\u2009\u2153 cups whole wheat flour",
+        "1 cup all-purpose flour",
+        "2\u2009\u00bd tablespoons vital wheat gluten",
+        "2 teaspoons active dry yeast",
+        "\u00bd teaspoon powdered lecithin",
+        "\u00bd teaspoon salt",
+        "1 pinch ground ginger",
+        "1 pinch vitamin C powder",
+        "cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buttermilk Whole Wheat Bread",
     "url": "http://allrecipes.com/recipe/239057/buttermilk-whole-wheat-bread/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Process dried beef, Italian-style dressing and cream cheese in a food processor until well blended. Transfer to a medium bowl. Chill until firm enough to form into a ball, about 2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3629&h=1900&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5236329.jpg",
+    "ingredients": [
+        "1 (8 ounce) jar dried beef",
+        "\u00bc cup Italian-style salad dressing",
+        "2 (8 ounce) packages cream cheese, softened"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "EZ Party Cheese Ball",
     "url": "http://allrecipes.com/recipe/19655/ez-party-cheese-ball/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the mangoes into a blender, and blend until smooth. Pour the mango puree, coconut milk, heavy cream, and lime juice into a saucepan and blend thoroughly; bring to a boil over medium heat. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7895039.jpg",
+    "ingredients": [
+        "2 mangoes, peeled, pitted, and cut into 1-inch chunks",
+        "3/4 cup coconut milk",
+        "3/4 cup heavy cream",
+        "2 tablespoons fresh lime juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango Coconut Sauce",
     "url": "http://allrecipes.com/recipe/146314/mango-coconut-sauce/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat eggs in large mixing bowl until very light.",
+        "Add sugar and butter. Cream together until light and fluffy.",
+        "Sift flour, baking powder, and salt. Add dry ingredients and combine.",
+        "Knead dough until smooth ... add more flour to get a smooth dough if necessary.",
+        "Cover dough and allow to chill in refrigerator for at least 2 hours.",
+        "Roll onto slightly floured  board to 1/2 inch thickness. Then roll again with springerle roller to make designs. Cut at border. Sprinkle anise seed on clean tea towel and place cookies on this. Allow to stand overnight (don't cover) to dry.",
+        "Bake 12 to 15 minutes at 325 degrees F (170 degrees C).",
+        "Cool completely. Store in tight tin container ... the longer they are stored, the more anise flavor they take up."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F309491.jpg",
+    "ingredients": [
+        "4  eggs",
+        "2 tablespoons butter",
+        "2 teaspoons baking powder",
+        "\u00bc teaspoon salt",
+        "2 cups white sugar",
+        "4 cups all-purpose flour",
+        "\u00bc cup anise seed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Springerle I",
     "url": "http://allrecipes.com/recipe/9922/springerle-i/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Cut 4 large squares of heavy-duty aluminum foil. Brush each fillet with olive oil and sprinkle with salt and black pepper. Place each fillet in the center of an aluminum foil square. Lay lemon slices down the length of each fillet and sprinkle garlic slices and chives over the top. Fold foil over the fish and turn the edges over 2 or 3 times; flatten to seal the packets.",
+        "Bake in the preheated oven until the fish is opaque and flakes easily with a fork, 15 to 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1163967.jpg",
+    "ingredients": [
+        "4 (6 ounce) cod fillets",
+        "4 teaspoons olive oil",
+        "salt and ground black pepper to taste",
+        "1 bunch fresh chives, coarsely chopped",
+        "2 lemons, sliced",
+        "2 cloves garlic, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cod with Lemon, Garlic, and Chives",
     "url": "http://allrecipes.com/recipe/231862/cod-with-lemon-garlic-and-chives/"
 }

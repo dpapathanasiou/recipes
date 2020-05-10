@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour the chicken stock into a large pot, and bring to a boil. Add the celery, carrots and onion to the pot.",
+        "Whisk together the flour, salt, pepper, and milk; add to the pot along with the margarine.",
+        "Boil for 10 minutes, then strain out the vegetables by pouring through a sieve, or if the vegetables are large enough, a colander may be used."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1039728.jpg",
+    "ingredients": [
+        "3 quarts chicken stock",
+        "3 pounds celery, coarsely chopped",
+        "1/2 pound carrots, julienned",
+        "1/2 pound onions, chopped",
+        "1 cup all-purpose flour",
+        "1 tablespoon salt",
+        "1 teaspoon ground white pepper",
+        "3 quarts hot milk",
+        "1 cup margarine"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cream of Celery Soup",
     "url": "http://allrecipes.com/recipe/74906/cream-of-celery-soup/"
 }

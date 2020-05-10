@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large pot over medium heat. Add the onion, and fry until transparent. Stir in the green pepper, ham, tomato paste, tomato, bacon, corned beef, and pigeon peas. Season with thyme, salt, and pepper. Bring to a simmer.",
+        "Stir in the coconut milk, water and browning sauce, and bring to a boil. Stir in the rice. Return to a boil, then stir, cover, and reduce the heat to low. Simmer for about 45 minutes, until rice is tender. Stir occasionally."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1  onion, chopped",
+        "\u00bd  green bell pepper, chopped",
+        "8 ounces cubed cooked ham",
+        "1 tablespoon tomato paste",
+        "1  tomato, chopped",
+        "2 slices bacon - cooked and crumbled (optional)",
+        "8 ounces corned beef, chopped",
+        "1 (15 ounce) can pigeon peas, drained",
+        "2 sprigs fresh thyme",
+        "salt and pepper to taste",
+        "1 (10 ounce) can coconut milk",
+        "6 cups water",
+        "1 teaspoon browning sauce",
+        "3 cups uncooked brown rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Authentic Bahamian Peas and Rice",
     "url": "http://allrecipes.com/recipe/76409/authentic-bahamian-peas-and-rice/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Chop enough reserved green pepper tops to equal 1/4 cup; discard remaining tops or use for another purpose. Set chopped pepper aside.",
+        "Place hollowed-out green peppers in a microwave-safe dish; cover and cook in microwave until bright green and steaming, about 3 minutes. Set peppers aside.",
+        "Cook and stir ground beef in a skillet with reserved chopped pepper tops and onion over medium heat until beef is browned, the juices run clear, and the onion is translucent, about 10 minutes; drain excess grease. Pour in diced tomatoes with their juice, rice, water, Worcestershire sauce, salt, and black pepper; bring to a boil. Reduce heat to low, cover skillet, and simmer until rice is tender, about 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Stir cheese into ground beef-rice mixture and spoon mixture into precooked peppers. Set peppers upright in an 8x8-inch baking dish.",
+        "Bake in the preheated oven until cheese is melted and the peppers are tender, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "4  green bell peppers, tops and seeds removed (reserve tops)",
+        "1 pound ground beef",
+        "\u00bd cup chopped onion",
+        "1 (14.5 ounce) can diced tomatoes with juice",
+        "\u00bd cup long grain white rice",
+        "\u00bd cup water",
+        "1 teaspoon Worcestershire sauce",
+        "1 pinch salt",
+        "1 pinch ground black pepper",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Stuffed Peppers",
     "url": "http://allrecipes.com/recipe/228806/baked-stuffed-peppers/"
 }

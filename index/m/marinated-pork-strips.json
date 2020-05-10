@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium dish or bowl, mix together soy sauce, sugar, onion, garlic, ginger, sesame seeds, and oil.  Add pork, and turn to coat.  Cover, and refrigerate for 3 hours, turning and basting often.",
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Remove pork from marinade, reserving marinade, and transfer to a lightly greased 9x13 inch baking dish. Bake for 45 minutes. Cut into 1/4 inch thick slices.",
+        "While the meat is roasting, boil reserved marinade for 3 to 5 minutes. Serve with pork strips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=320&h=168&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3012.jpg",
+    "ingredients": [
+        "\u00bd cup soy sauce",
+        "3 tablespoons white sugar",
+        "2 tablespoons minced onion",
+        "2 cloves garlic, minced",
+        "2 teaspoons ground ginger",
+        "\u00bc cup sesame seeds",
+        "2 tablespoons vegetable oil",
+        "1 pound pork tenderloin"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Pork Strips",
     "url": "http://allrecipes.com/recipe/14832/marinated-pork-strips/"
 }

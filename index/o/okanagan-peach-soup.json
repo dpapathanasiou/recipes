@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 275 degrees F. (135 degrees C). Roast garlic cloves on a baking sheet for about 30 minutes, or until golden but not burnt.",
+        "Heat the oil in a medium saucepan over medium heat, sweat the onions and peaches until softened. Season with curry powder, turmeric, roasted garlic, and sugar. Cook over medium to low heat until caramelized, about 30 minutes. Deglaze the pan with Chardonnay wine, then stir in the vegetable stock.",
+        "Remove from heat, and puree the soup in a blender or food processor, and strain through a fine sieve. Stir in the coconut milk, and season with salt and pepper. Reheat if desired, before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/33934.jpg",
+    "ingredients": [
+        "4 cloves garlic",
+        "1 tablespoon olive oil",
+        "2 1/4 cups fresh peaches - peeled, pitted and chopped",
+        "1/2 cup diced onion",
+        "1 tablespoon curry powder",
+        "1/8 teaspoon ground turmeric",
+        "1/4 cup packed brown sugar",
+        "1/4 cup Chardonnay wine",
+        "1 cup vegetable broth or stock",
+        "1/2 cup coconut milk",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Okanagan Peach Soup",
     "url": "http://allrecipes.com/recipe/42626/okanagan-peach-soup/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine gelatin mix and hot water until the gelatin dissolves. Stir in the can of cranberries and mix well. Add the room temperature sour cream and stir to combine. Place gelatin mixture in the refrigerator until almost set. Stir in the walnuts and return to the refrigerator until the mixture is completely set."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (6 ounce) package black cherry flavored Jell-O\u00ae mix",
+        "1 (16 ounce) container sour cream, room temperature",
+        "1 (16 ounce) can whole cranberry sauce",
+        "1 cup chopped walnuts",
+        "2 cups hot water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry-Black Cherry Gelatin Salad",
     "url": "http://allrecipes.com/recipe/13469/cranberry-black-cherry-gelatin-salad/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine green tomatoes, sugar, raspberries, and jalapeno peppers together in a saucepan; cook and stir until sugar is dissolved and raspberries and tomatoes are broken down, about 15 minutes. Remove saucepan from heat and stir in gelatin mix until well blended.",
+        "Pour tomato-raspberry mixture into a blender no more than half full. Cover and hold lid down; pulse a few times before leaving on to blend. Puree in batches until smooth.",
+        "Sterilize the jars and lids in boiling water for at least 5 minutes. Pack tomato-raspberry mixture into hot, sterilized jars, filling to within 1/4-inch of the top. Run a knife or thin spatula around the insides of the jars after they have been filled to remove any air bubbles. Wipe the rims of the jars with a moist paper towel to remove any food residue. Top with lids and screw on rings.",
+        "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars into the boiling water using a holder. Leave a 2-inch space between the jars. Pour in more boiling water if necessary to bring the water level to at least 1 inch above the tops of the jars. Bring the water to a rolling boil, cover the pot, and process for 10 minutes.",
+        "Remove the jars from the stockpot and place onto a cloth-covered or wood surface, several inches apart, until cool. Press the top of each lid with a finger, ensuring that the seal is tight (lid does not move up or down at all). Store in a cool, dark area."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4575521.jpg",
+    "ingredients": [
+        "5 cups finely chopped green tomatoes",
+        "4 cups white sugar",
+        "2 cups frozen raspberries",
+        "2 jalapeno peppers, finely chopped",
+        "1 (6 ounce) package raspberry-flavored gelatin mix (such as Jell-O\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Tomato Jelly",
     "url": "http://allrecipes.com/recipe/234714/green-tomato-jelly/"
 }

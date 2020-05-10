@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Arrange two banana halves in each of 4 ice cream dishes. Top each with three scoops ice cream.",
+        "Sprinkle with chopped Butterfinger, then drizzle with Nesquik.",
+        "Top with whipped cream and a cherry. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1000669.jpg",
+    "ingredients": [
+        "4 bananas, ripe, peeled, and halved lengthwise",
+        "12 scoops ice cream, different flavors",
+        "12 pieces NESTLE\u00ae BUTTERFINGER\u00ae Bites Candy, chopped, or more if desired",
+        "Chocolate Flavor NESTLE\u00ae NESQUIK\u2122 Syrup",
+        "whipped cream",
+        "4 maraschino cherries, stemmed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butterfinger Banana Split",
     "url": "http://allrecipes.com/recipe/232042/butterfinger-banana-split/"
 }

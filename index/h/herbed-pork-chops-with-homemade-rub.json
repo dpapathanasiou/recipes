@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix parsley, marjoram, thyme, sage, garlic powder, onion powder, salt, and cinnamon together in a bowl.",
+        "Rub 1/2 teaspoon of the herb mixture over each pork chop. Store remaining herb mix in an airtight container for later use.",
+        "Heat oil in a large skillet over medium heat. Cook pork chops in skillet until no longer pink in the center, 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2346&h=1228&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1132723.jpg",
+    "ingredients": [
+        "\u2153 cup dried parsley",
+        "\u00bc cup dried marjoram",
+        "\u00bc cup dried thyme",
+        "3 tablespoons rubbed sage",
+        "2 tablespoons garlic powder",
+        "2 tablespoons onion powder",
+        "1 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "4  boneless pork loin chops",
+        "2 teaspoons vegetable oil, or to taste",
+        "1 tablespoon canola oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Herbed Pork Chops with Homemade Rub",
     "url": "http://allrecipes.com/recipe/237667/herbed-pork-chops-with-homemade-rub/"
 }

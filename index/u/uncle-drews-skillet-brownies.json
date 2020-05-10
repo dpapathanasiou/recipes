@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch oven-proof skillet.",
+        "Place butter in a microwave-safe bowl; heat in microwave until melted, about 30 seconds. Add sugar and cocoa powder to butter and stir. Heat butter-cocoa mixture in microwave until sugar is dissolved and mixture is smooth, about 30 seconds.",
+        "Mix vanilla extract into butter-cocoa mixture. Stir eggs into butter-cocoa mixture; add flour and stir until batter is well mixed. Pour batter into the prepared skillet.",
+        "Bake in the preheated oven until a toothpick inserted in the center of the brownies comes out clean, 40 to 50 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4471680.jpg",
+    "ingredients": [
+        "\u00be cup butter",
+        "2 cups white sugar",
+        "\u00be cup cocoa powder",
+        "1 tablespoon vanilla extract",
+        "4  eggs, lightly beaten",
+        "\u00bd cup all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Uncle Drew's Skillet Brownies",
     "url": "http://allrecipes.com/recipe/239446/uncle-drews-skillet-brownies/"
 }

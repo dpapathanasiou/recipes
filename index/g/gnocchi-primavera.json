@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a nonstick skillet with cooking spray, and place over medium-low heat. Place about 2 tablespoons of Parmesan cheese at a time into the skillet. Cook until the cheese melts into a thin circle, begins to bubble, and browns at the edges, about 1 minute. Flip the crisp, and brown the other side for about 30 seconds. Remove the crisp to a plate to cool. Make 3 more cheese crisps the same way.",
+        "Heat 1 teaspoon of olive oil in a skillet over medium heat, and cook and stir the pine nuts until lightly toasted and fragrant, about 3 minutes. Remove the pine nuts from the skillet and set aside.",
+        "Cook the gnocchi according to the package directions, and drain them in a colander set in the sink.",
+        "Pour 1 tablespoon of olive oil in a large skillet over high heat, and cook and stir the zucchini just until seared, about 2 minutes; remove the zucchini from the pan. Reduce the heat to medium, and cook and stir the mushrooms in the same pan, until they begin to give up their juices but are still firm, about 5 minutes. Drain the juices. Return the zucchini to the pan; add the tomatoes, torn basil leaves, toasted pine nuts, drained gnocchi, and the remaining 1 tablespoon olive oil, and stir a few times to combine and heat through.",
+        "To serve, divide gnocchi among four plates, and serve each plate topped with a Parmesan cheese crisp."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6239544.jpg",
+    "ingredients": [
+        "1/2 cup freshly grated Parmesan cheese, divided",
+        "1 teaspoon olive oil",
+        "2 tablespoons pine nuts",
+        "1 (16 ounce) package potato gnocchi",
+        "2 tablespoons olive oil, divided",
+        "1 zucchini, chopped",
+        "12 fresh mushrooms, cleaned and stems trimmed",
+        "12 grape tomatoes",
+        "10 torn fresh basil leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gnocchi Primavera",
     "url": "http://allrecipes.com/recipe/203712/gnocchi-primavera/"
 }

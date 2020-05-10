@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Prepare a glass or stoneware 13x9-inch baking dish with cooking spray.",
+        "Mix sirloin, turkey, oats, onion, eggs, egg whites, 3 tablespoons chili sauce, basil, garlic, salt, and pepper together in a bowl; shape into a 9x5-inch loaf and put into the prepared baking dish.",
+        "Bake in the preheated oven for 50 minutes. Spoon remaining chili sauce over the top of the meatloaf and continue baking until no longer pink in the center, about 20 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Rest meatloaf for 10 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=8496&h=4448&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2268564.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 pound ground sirloin",
+        "1 pound ground turkey",
+        "1 cup quick-cooking oats",
+        "1 small onion, chopped",
+        "2  large eggs",
+        "2  large egg whites",
+        "7 tablespoons chili sauce, divided",
+        "1 tablespoon dried basil",
+        "1 teaspoon minced garlic from a jar",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon coarsely ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lighter Meatloaf",
     "url": "http://allrecipes.com/recipe/242039/lighter-meatloaf/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a large saucepan. Cook onions and beef cubes until beef is browned and onions are tender.",
+        "Add the beef stock, curry and bay leaves. Cook over low heat for 30 minutes.",
+        "Add the potatoes, vinegar and salt. Simmer for 45 minutes to 1 hour until all is tender. Remove bay leaves, and serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2926075.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "2  onions, chopped",
+        "1 pound cubed beef stew meat",
+        "6 cups beef stock",
+        "2 tablespoons curry powder",
+        "2  bay leaves",
+        "2  potatoes, sliced",
+        "2 tablespoons distilled white vinegar",
+        "2 teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Curry Beef Soup",
     "url": "http://allrecipes.com/recipe/13166/curry-beef-soup/"
 }

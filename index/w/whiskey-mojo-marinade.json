@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "To make the marinade, whisk together the canola oil, garlic, whiskey, orange juice, lime juice, cumin, and soy sauce.",
+        "To use the marinade, pour into a resealable plastic bag. Add up to two pounds of meat, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator at least 1 hour, preferably overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1003284.jpg",
+    "ingredients": [
+        "1/4 cup canola oil",
+        "4 cloves garlic, peeled and crushed",
+        "1/2 cup whiskey (such as Jack Daniel's\u00ae)",
+        "1/2 cup orange juice",
+        "1/2 cup lime juice",
+        "1 teaspoon ground cumin",
+        "1/2 cup reduced-sodium soy sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Whiskey Mojo Marinade",
     "url": "http://allrecipes.com/recipe/214690/whiskey-mojo-marinade/"
 }

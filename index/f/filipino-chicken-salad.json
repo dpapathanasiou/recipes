@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a pot of water to a simmer over low heat. Add the chicken breast to the water and cook until no longer pink in the center and the juices run clear, about 30 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove the chicken from the water and allow to cool before shredding the meat into a large bowl.",
+        "While the chicken cooks, bring a pot of lightly salted water to a boil. Cook the macaroni at a boil until cooked through, but is still firm to the bite, about 8 minutes. Drain and rinse with cool water to halt the cooking process until the pasta is cool to the touch. Add to the bowl with the chicken.",
+        "Stir the pineapple, apple, celery, carrot, and raisins to the bowl; toss to combine. Add the mayonnaise, sugar, and seasoned salt; gently stir the mixture until evenly coated. Refrigerate at least 30 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2460190.jpg",
+    "ingredients": [
+        "1  skinless, boneless chicken breast",
+        "\u2154 cup elbow macaroni",
+        "1 (20 ounce) can pineapple chunks, drained",
+        "1  apple, cored and diced",
+        "2 stalks celery, sliced",
+        "1  carrot, diced",
+        "2 (1.5 ounce) boxes raisins",
+        "1 cup mayonnaise",
+        "1 teaspoon white sugar",
+        "1 teaspoon seasoned salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Filipino Chicken Salad",
     "url": "http://allrecipes.com/recipe/212932/filipino-chicken-salad/"
 }

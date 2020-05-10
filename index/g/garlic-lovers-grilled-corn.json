@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for high heat.",
+        "Lay two ears of corn each on two separate pieces of aluminum foil large enough to wrap the ears completely. Place 1 teaspoon butter, 1 teaspoon garlic powder, and 2 teaspoons minced garlic on top of each bundle of corn. Season with salt and pepper. Tightly wrap the corn in the foil.",
+        "Cook on preheated grill for 10 minutes; turn. Continue to cook another 10 to 14 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F841904.jpg",
+    "ingredients": [
+        "4 ears frozen corn on the cob",
+        "2 teaspoons butter",
+        "2 teaspoons garlic powder",
+        "4 teaspoons minced garlic",
+        "salt and ground black pepper to taste",
+        "1 cup chopped whole kernel corn"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Lover's Grilled Corn",
     "url": "http://allrecipes.com/recipe/146176/garlic-lovers-grilled-corn/"
 }

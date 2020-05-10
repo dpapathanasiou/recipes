@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease or line 3 muffin pans.",
+        "Mix pumpkin, sugar, applesauce, oil, and eggs together in a bowl until well blended; fold in pumpkin seeds. Mix flour, baking soda, cinnamon, nutmeg, pumpkin pie spice, salt, and baking powder together in a separate bowl. Stir flour mixture into pumpkin mixture until just combined; pour batter among prepared muffin cups.",
+        "Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean, 20 to 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1488&h=779&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1049618.jpg",
+    "ingredients": [
+        "2 cups pumpkin puree",
+        "2 cups white sugar",
+        "\u2154 cup applesauce",
+        "\u2153 cup safflower oil",
+        "3  eggs, beaten",
+        "\u00bc cup shelled, raw pumpkin seeds (optional)",
+        "3 cups all-purpose flour",
+        "2 teaspoons baking soda",
+        "2 teaspoons ground cinnamon",
+        "2 teaspoons ground nutmeg",
+        "1 tablespoon pumpkin pie spice",
+        "1 teaspoon salt",
+        "\u00bd teaspoon baking powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Muffins with a Twist",
     "url": "http://allrecipes.com/recipe/229500/pumpkin-muffins-with-a-twist/"
 }

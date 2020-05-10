@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk 1 cup beef broth and chili seasoning mix together in a bowl.",
+        "Melt coconut oil in a pot over medium-high heat. Cook and stir quinoa in hot oil until fragrant and lightly toasted, 1 minute. Pour broth-seasoning mixture, remaining 1 cup beef broth, and tomatoes into quinoa mixture. Bring to a boil, stirring frequently. Reduce heat to low, cover, and simmer until quinoa has absorbed most of the liquid, 20 to 30 minutes.",
+        "Stir bean blend, green chilies, and corn into quinoa mixture; simmer until heated through, 5 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1627621.jpg",
+    "ingredients": [
+        "2 cups beef broth, divided",
+        "1 (1.25 ounce) package chili seasoning mix",
+        "1 tablespoon coconut oil",
+        "1 cup quinoa, rinsed",
+        "1 (14.5 ounce) can petite diced tomatoes",
+        "1 (15 ounce) can tri-bean blend",
+        "1 (7 ounce) can diced green chilies",
+        "1/2 cup frozen corn"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Quinoa Chili",
     "url": "http://allrecipes.com/recipe/234624/quick-quinoa-chili/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together sauce ingredients. Set aside while preparing stir fry.",
+        "Pat tofu dry with a towel to remove excess water. Cut into 1/2-inch cubes.",
+        "Heat a large skillet or wok over medium-high heat. Add oil and tofu; stir frequently until tofu is lightly browned, about 5 minutes. Add snow peas, carrots and onion. Stir-fry about 5 minutes until vegetables are cooked, but still crisp. Stir in prepared sauce and cook 1-2 minutes until sauce is slightly thickened. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7488317.jpg",
+    "ingredients": [
+        "Citrus Sake Sauce:",
+        "6 tablespoons Holland House\u00ae Sake Cooking Wine",
+        "1/4 cup orange juice",
+        "1 tablespoon light soy sauce",
+        "2 teaspoons toasted sesame oil",
+        "1 teaspoon grated or minced fresh ginger",
+        "1 teaspoon cornstarch",
+        "1 tablespoon chopped cilantro (optional)",
+        "1 tablespoon toasted sesame seeds",
+        "Stir Fry:",
+        "1 (14 ounce) package firm tofu, drained",
+        "1 tablespoon cooking oil",
+        "1 1/2 cups fresh or frozen sugar snap peas",
+        "3 medium carrots, thinly sliced",
+        "3/4 cup thinly sliced onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Vegetable Stir Fry",
     "url": "http://allrecipes.com/recipe/231924/tofu-vegetable-stir-fry/"
 }

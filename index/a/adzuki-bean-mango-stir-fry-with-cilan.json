@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "To make the sauce, blend the coconut milk, cilantro, lime juice, ginger, garlic, and agave nectar in a blender until smooth; set aside.",
+        "Heat the peanut oil in a wok or large skillet over medium-high heat. Cook the onion, bell pepper, and carrot in the hot oil until the carrot is tender, about 10 minutes. Add the adzuki beans and mango; cook and stir until the mango is hot. Pour the sauce overtop to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/649637.jpg",
+    "ingredients": [
+        "Sauce:",
+        "1 cup light coconut milk",
+        "1/2 cup chopped fresh cilantro",
+        "1 lime, juiced",
+        "1 inch piece fresh ginger root, minced",
+        "1 clove garlic, minced",
+        "1 tablespoon agave nectar",
+        "Stir Fry:",
+        "1 tablespoon peanut oil",
+        "1 red onion, cut into 1 inch long strips",
+        "1 green bell pepper, cut into 1 inch long strips",
+        "1/2 cup thinly sliced carrot",
+        "1 cup canned adzuki beans, drained",
+        "2 small mangos - peeled and cut into strips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Adzuki Bean Mango Stir Fry with Cilantro Lime Coconut Sauce",
     "url": "http://allrecipes.com/recipe/169811/adzuki-bean-mango-stir-fry-with-cilan/"
 }

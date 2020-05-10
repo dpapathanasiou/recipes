@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Rinse and dry cod fillets. Place fillets in a lightly greased casserole dish. Pour salsa over fish. Sprinkle with parsley, salt and pepper.",
+        "Bake in preheated oven for 30 minutes. Serve warm over rice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/612636.jpg",
+    "ingredients": [
+        "1 1/2 pounds cod fillets",
+        "2 cups salsa",
+        "2 tablespoons chopped fresh parsley",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easiest Spicy Cod",
     "url": "http://allrecipes.com/recipe/19478/easiest-spicy-cod/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).  Grease cookie sheets.",
+        "Cream the sugar and butter until light and fluffy. Stir in the egg yolk and vanilla. Mix in flour just until incorporated. Knead dough lightly on a board.  Place in a pastry bag using the star design. Cut off desired lengths and shape into rings or S's.",
+        "Bake 10 to 12 minutes in the preheated oven, or until edges are golden."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bc cup white sugar",
+        "\u00bd cup butter, softened",
+        "1  egg yolk",
+        "\u00bd teaspoon almond extract",
+        "1\u2009\u00bc cups sifted all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spritsar",
     "url": "http://allrecipes.com/recipe/9749/spritsar/"
 }

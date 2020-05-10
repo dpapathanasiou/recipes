@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix crushed digestive biscuits with melted butter in a bowl; press into the bottom of a 7-inch cake pan. Refrigerate until firm, about 30 minutes.",
+        "Dissolve cocoa powder in hot water in a small bowl.",
+        "Pour half of the heavy cream into a bowl; whisk with an electric mixer until soft peaks form. Fold in cocoa powder mixture and melted chocolate until well blended.",
+        "Beat half of the cream cheese and 2 1/2 teaspoons sugar together in a bowl. Fold in chocolate mixture until thoroughly combined. Spread over digestive biscuit crust. Chill until set, 2 to 3 hours.",
+        "Combine remaining cream cheese, remaining sugar, and Irish cream liqueur in a bowl; beat until blended.",
+        "Whisk remaining heavy cream in a separate bowl with an electric mixer until soft peaks form. Fold into the cream cheese mixture. Spread gently over chocolate layer in the pan.",
+        "Chill until set, 2 to 3 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 3/4 cups crushed digestive biscuits",
+        "3 tablespoons butter, melted",
+        "2 tablespoons unsweetened cocoa powder",
+        "2 teaspoons hot water",
+        "1 1/4 cups heavy whipping cream, divided",
+        "5 ounces dark chocolate, melted and cooled",
+        "14 ounces cream cheese, softened, divided",
+        "1 1/2 tablespoons white sugar, divided",
+        "1 (1.5 fluid ounce) jigger Irish cream liqueur (such as Baileys\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate and Baileys\u00ae Two-Tier Cheesecake",
     "url": "http://allrecipes.com/recipe/256993/chocolate-and-baileys-two-tier-che/"
 }

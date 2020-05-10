@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spray muffin cups with cooking spray.",
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Stir onion into ground beef and saute until translucent, about 5 minutes. Add cabbage and reduce heat to low; cook and stir until cabbage has wilted slightly, about 5 minutes more. Pour mixture into colander to strain excess liquid and cool slightly.",
+        "Spray a work surface with cooking spray. Flatten rolls into disc shape with a rolling pin; spoon 1 to 2 tablespoons of beef and cabbage filling onto each disc. Fold discs in half around filling, pressing edges together to seal. Gently place in muffin cups, spray tops with cooking spray, and poke with toothpick to allow venting.",
+        "Cook cabbage pockets in preheated oven until dough is browned, 25 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7614010.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 pound ground beef",
+        "1 large onion, chopped",
+        "1 head cabbage, shredded",
+        "salt and ground black pepper to taste",
+        "1 (2 pound) package frozen dinner rolls, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Cabbage Pockets",
     "url": "http://allrecipes.com/recipe/245483/easy-cabbage-pockets/"
 }

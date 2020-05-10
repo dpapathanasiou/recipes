@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the bacon, onion, and garlic in a large, deep skillet and cook over medium-high heat until the onions caramelize, 10 to 12 minutes.",
+        "Pour the chicken stock into the pan; add the Brussels sprouts. Bring the liquid to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Stir the mixture so the sprouts are coated in the liquid",
+        "Place a cover on the skillet and cook until the sprouts are cooked through yet firm, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7284812.jpg",
+    "ingredients": [
+        "6 slices bacon, diced",
+        "1  onion, diced",
+        "1 tablespoon minced garlic",
+        "1 cup chicken stock",
+        "2 (16 ounce) packages Brussels sprouts, trimmed and halved lengthwise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brussels Sprouts ala Angela",
     "url": "http://allrecipes.com/recipe/221311/brussels-sprouts-ala-angela/"
 }

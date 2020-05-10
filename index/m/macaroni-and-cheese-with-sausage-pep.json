@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Follow the recipe for Creamy Macaroni and Cheese.",
+        "Heat a 10-inch skillet over medium-high heat. Cook sausage, breaking it up as it fries, until it loses its raw color, 3 to 4 minutes. Add onion and pepper slices, and saute until soft, about 5 minutes. Add basil, then stir mixture into macaroni. Serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7525657.jpg",
+    "ingredients": [
+        "1 recipe Creamy Macaroni and Cheese",
+        "1 pound Italian sausage, removed from casings",
+        "1 medium-large onion, thinly sliced",
+        "1 bell pepper, thinly sliced",
+        "1/4 cup fresh basil, torn in pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Macaroni and Cheese with Sausage, Peppers and Onions",
     "url": "http://allrecipes.com/recipe/87871/macaroni-and-cheese-with-sausage-pep/"
 }

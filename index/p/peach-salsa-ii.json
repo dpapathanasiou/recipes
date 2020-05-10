@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sterilize jars and lids.",
+        "In a large saucepan, combine peaches, onion, pepper, cilantro, garlic, cumin, vinegar, and lime zest. Stir together pectin and 1/4 cup sugar. Bring to a boil, and stir in remaining 3 1/2 cups sugar. Boil for 1 minute, stirring constantly. Remove from heat, and stir for 5 minutes.",
+        "Pour peach salsa into prepared jars, leaving 1/4 inch air space. Seal, and process in a boiling water bath for 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F252342.jpg",
+    "ingredients": [
+        "4 cups fresh peaches - peeled, pitted and chopped",
+        "\u00bd cup chopped onion",
+        "\u00bd cup chopped red bell pepper",
+        "4  jalapeno peppers, minced",
+        "\u00bc cup chopped fresh cilantro",
+        "3 cloves garlic, minced",
+        "1\u2009\u00bd teaspoons ground cumin",
+        "\u00bc cup distilled white vinegar",
+        "1 teaspoon grated lime zest",
+        "\u00bc cup white sugar",
+        "1 (49 gram) package light fruit pectin crystals",
+        "3\u2009\u00bd cups white sugar",
+        "canning jars"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peach Salsa II",
     "url": "http://allrecipes.com/recipe/39988/peach-salsa-ii/"
 }

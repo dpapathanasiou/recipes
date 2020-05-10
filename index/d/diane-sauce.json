@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan, combine the tomato sauce, barbeque sauce, cream, Worcestershire sauce and garlic. Heat over medium-low setting, stirring, until it comes to a simmer. Allow to simmer for 10 minutes but do not let it boil."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4578164.jpg",
+    "ingredients": [
+        "3/4 cup canned tomato sauce",
+        "3/4 cup barbeque sauce",
+        "3/4 cup heavy cream",
+        "1 1/2 tablespoons Worcestershire sauce",
+        "2 tablespoons crushed garlic"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Diane Sauce",
     "url": "http://allrecipes.com/recipe/103879/diane-sauce/"
 }

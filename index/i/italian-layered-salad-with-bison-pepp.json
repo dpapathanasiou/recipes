@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In the bottom of a 3-quart clear bowl place 3 cups of the romaine. Layer in the following order: tomatoes, bell peppers, fennel, the remaining 3 cups romaine, the mozzarella cheese, and bison pepperoni. Spoon Basil-Sour Cream Dressing over salad. Serve immediately or cover tightly and chill for up to 24 hours before serving.",
+        "Basil-Sour Cream Dressing",
+        "Combine mayonnaise, sour cream, milk, basil, salt, and black pepper in a medium bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037648.jpg",
+    "ingredients": [
+        "6 cups shredded romaine lettuce",
+        "1 cup cherry or grape tomatoes, halved",
+        "1 cup chopped yellow bell pepper",
+        "1 cup chopped fennel bulb",
+        "1 1/2 cups cubed fresh mozzarella cheese",
+        "1 (8 ounce) package bison sausage with pepperoni seasoning",
+        "Basil-Sour Cream Dressing:",
+        "2/3 cup mayonnaise",
+        "2/3 cup sour cream",
+        "1/4 cup milk",
+        "1/4 cup chopped fresh basil",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Layered Salad with Bison Pepperoni",
     "url": "http://allrecipes.com/recipe/233867/italian-layered-salad-with-bison-pepp/"
 }

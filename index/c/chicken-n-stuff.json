@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Place chicken breasts in a 9x13 inch baking dish. Top each breast with 1 slice of cheese.",
+        "Mix together the soup and wine/water and pour mixture over the chicken and cheese. Sprinkle the bread crumbs from the stuffing mix over the soup mixture, then sprinkle the seasoning packet from the stuffing mix over the bread crumbs. Bake uncovered in the preheated oven for 50 to 60 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2219&h=1162&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3298823.jpg",
+    "ingredients": [
+        "8  skinless, boneless chicken breast halves",
+        "8 slices Monterey Jack cheese",
+        "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "\u2154 cup dry white wine",
+        "1 (6 ounce) package chicken-flavor stuffing mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken 'n' Stuff",
     "url": "http://allrecipes.com/recipe/8843/chicken-n-stuff/"
 }

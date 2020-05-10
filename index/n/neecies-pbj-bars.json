@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat 1/2 cup butter or margarine until smooth.  Add 1/4 cup white sugar and 1/2 cup brown sugar and beat well.  Add egg, milk, peanut butter and vanilla and beat well.  Stir in 1 cup flour, 1 cup oats, and 1/2 teaspoon baking soda.",
+        "Spread in a greased 13 x 9 inch pan.  Spread preserves all over top.   Sprinkle with crumb topping.",
+        "To Make Topping:  Mix together 1/2 cup flour,  1/2 cup quick oats,  1/4 cup brown sugar, 1/8 teaspoon baking soda, and 3 tablespoons softened butter or margarine until crumbly.  Sprinkle over the top of the preserves.",
+        "Bake at 350 degrees F (175 degrees C) for 18 - 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F231774.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 cup quick cooking oats",
+        "\u00bd teaspoon baking soda",
+        "\u00bd cup butter, softened",
+        "\u00bc cup white sugar",
+        "\u00bd cup packed brown sugar",
+        "1  egg",
+        "\u00bd cup peanut butter",
+        "\u00bc cup milk",
+        "\u00bd teaspoon vanilla extract",
+        "1\u2009\u00bc cups any flavor fruit jam",
+        "\u00bd cup all-purpose flour",
+        "\u00bd cup quick cooking oats",
+        "\u00bc cup packed brown sugar",
+        "\u215b teaspoon baking soda",
+        "3 tablespoons butter, softened"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Neecie's PBJ Bars",
     "url": "http://allrecipes.com/recipe/10818/neecies-pbj-bars/"
 }

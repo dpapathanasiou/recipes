@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a small skillet over medium heat; add ghee. Place prawns in the melted ghee and season with turmeric and pepper; cook for 30 seconds. Flip prawns and cook other side until pink and cooked through, 30 to 60 seconds. Remove skillet from heat.",
+        "Place spinach in a bowl and top with avocado, apple slices, and shrimp. Sprinkle feta cheese and almonds over salad. Drizzle olive oil over salad and top with salt."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5016686.jpg",
+    "ingredients": [
+        "1 teaspoon ghee (clarified butter)",
+        "7 prawns, peeled and deveined",
+        "1/4 teaspoon ground turmeric",
+        "1/4 teaspoon freshly ground black pepper",
+        "1 cup fresh baby spinach, or to taste",
+        "1/2 avocado - peeled, pitted, and sliced",
+        "1/2 apple - peeled, cored, and thinly sliced",
+        "2 tablespoons crumbled feta cheese",
+        "1 tablespoon sliced almonds, or to taste",
+        "1 tablespoon extra-virgin olive oil",
+        "1 pinch Himalayan pink salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turmeric Pepper Shrimp Spinach Salad",
     "url": "http://allrecipes.com/recipe/257164/turmeric-pepper-shrimp-spinach-salad/"
 }

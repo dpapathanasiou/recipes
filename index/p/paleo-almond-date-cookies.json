@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper.",
+        "Combine almond flour, dates, cherries, walnuts, chia seeds, baking soda, and sea salt in a large bowl; whisk to blend. Add coconut oil, egg, maple syrup, and vanilla extract; blend well with a spoon or fork until dough comes together.",
+        "Scoop dough onto prepared baking sheets with a small cookie scoop.",
+        "Bake in the preheated oven until edges are golden, about 15 minutes. Turn off oven and let cookies sit with oven door closed, about 10 minutes more. Remove from oven and let cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3316658.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups blanched almond flour",
+        "1 cup pitted and chopped dates",
+        "\u00bd cup chopped dried cherries",
+        "\u00bd cup chopped walnuts",
+        "2 tablespoons chia seeds, or more to taste",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon sea salt",
+        "\u00bd cup coconut oil",
+        "1  egg",
+        "2 tablespoons maple syrup",
+        "1 tablespoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paleo Almond Date Cookies",
     "url": "http://allrecipes.com/recipe/246422/paleo-almond-date-cookies/"
 }

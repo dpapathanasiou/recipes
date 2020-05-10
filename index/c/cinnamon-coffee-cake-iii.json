@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 10 inch tube pan. Sift together the flour, baking powder, baking soda and salt. Set aside.",
+        "In a large bowl, cream together the shortening and sugar until light and fluffy. Beat in the eggs one at a time, then stir in the sour cream and vanilla.  Beat in the flour mixture, just until incorporated. Pour half of batter into prepared pan. In a small bowl, combine brown sugar and cinnamon. Sprinkle half of mixture over batter. Add remainder of batter and sprinkle with rest of topping. With the tip of a knife, swirl lightly through the batter.",
+        "Bake in the preheated oven for 40 to 50 minutes, or until a toothpick inserted into the center of the cake comes out clean. Let cool in pan for 10 minutes, then turn out onto a wire rack and cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1618&h=847&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F633566.jpg",
+    "ingredients": [
+        "\u00bd cup shortening",
+        "1 cup white sugar",
+        "2  eggs",
+        "1 (8 ounce) container sour cream",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "\u00bc teaspoon salt",
+        "\u00bd cup brown sugar",
+        "2 teaspoons ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Coffee Cake III",
     "url": "http://allrecipes.com/recipe/26007/cinnamon-coffee-cake-iii/"
 }

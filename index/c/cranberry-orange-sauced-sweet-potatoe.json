@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 400 degrees F.",
+        "Wash sweet potatoes; pat dry. Prick with a fork; place in a shallow baking dish. Bake 40 to 50 minutes or until soft. During the last 10 minutes of baking, prepare sauce.",
+        "Melt shortening in medium saucepan (or place oil in saucepan). Add brown sugar, salt, orange juice and water, stirring over low heat until sugar dissolves. Add cranberries; bring to a boil. Reduce heat; simmer, covered, 5 minutes or until cranberries start to pop.",
+        "Stir cornstarch mixture into cranberries; cook, stirring constantly, until sauce comes to a boil. Reduce heat and cook 1 to 2 minutes or until mixture is slightly thickened.",
+        "Make a lengthwise cut in the center of each potato; press open from bottom. Place sweet potatoes on serving platter. Top each with cranberry sauce."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1456995.jpg",
+    "ingredients": [
+        "6 medium sweet potatoes or yams",
+        "1/4 cup Crisco\u00ae All-Vegetable Shortening or Crisco\u00ae Pure Vegetable Oil",
+        "1/4 cup packed light brown sugar",
+        "1/2 teaspoon salt",
+        "1/4 cup fresh orange juice",
+        "1/4 cup water",
+        "1 1/4 cups fresh cranberries, rinsed",
+        "1/2 teaspoon cornstarch mixed with",
+        "2 tablespoons cold water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Orange Sauced Sweet Potatoes",
     "url": "http://allrecipes.com/recipe/239354/cranberry-orange-sauced-sweet-potatoe/"
 }

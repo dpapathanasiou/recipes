@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large stockpot over medium heat; saute onion and garlic until onion is tender, about 4 minutes. Add 1/2 cup coconut milk and stir continuously for 2 minutes. Stir curry paste into onion mixture until smooth, about 2 minutes.",
+        "Pour chicken stock into onion mixture and increase heat to medium-high; cook until simmering, 3 to 4 minutes. Add soy sauce, fish sauce, and remaining 1/2 cup coconut milk; cook until heated through, 2 to 3 minutes. Add angel hair pasta, cover pot with lid, and cook until pasta is tender yet firm to the bite, about 10 minutes. Stir basil into soup."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3292&h=1724&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1322565.jpg",
+    "ingredients": [
+        "3 tablespoons peanut oil",
+        "1 cup diced onion",
+        "3 tablespoons minced garlic",
+        "1 cup coconut milk, divided",
+        "1 tablespoon red curry paste, or more to taste",
+        "2  cooked chicken breast halves, shredded",
+        "8 cups chicken stock",
+        "6 tablespoons soy sauce, or to taste",
+        "\u00bc cup fish sauce, or to taste",
+        "1\u2009\u00bd pounds angel hair pasta",
+        "\u00bc cup chopped fresh basil, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vietnamese La Sa Ga Soup",
     "url": "http://allrecipes.com/recipe/236178/vietnamese-la-sa-ga-soup/"
 }

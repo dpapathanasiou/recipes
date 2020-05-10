@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put rinsed rice into the pan of a rice cooker.",
+        "Stir coconut milk, water, about half of the coconut, turmeric, and salt together in a small saucepan and place over medium-high heat; cook until the turmeric is completely dissolved into the milk mixture and the color is even. Pour the coconut milk mixture over the rice.",
+        "Press Start and cook until the cycle completes and shifts to the Warm cycle, about 22 minutes. Leave rice on Warm for another 5 minutes.",
+        "Heat a small skillet over medium-high heat. Toast remaining coconut in hot skillet until golden brown, about 5 minutes.",
+        "Fluff cooked rice. Sprinkle toasted coconut over the rice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2112600.jpg",
+    "ingredients": [
+        "2 cups white rice, thoroughly rinsed",
+        "1 (14 ounce) can coconut milk",
+        "1 1/4 cups water",
+        "1/4 cup sweetened flaked coconut, divided",
+        "1 teaspoon ground turmeric",
+        "1/2 teaspoon kosher salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Toasted Coconut Yellow Rice for Rice Cookers",
     "url": "http://allrecipes.com/recipe/241226/toasted-coconut-yellow-rice-for-rice/"
 }

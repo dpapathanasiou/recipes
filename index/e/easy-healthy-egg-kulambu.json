@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt coconut oil in a pot over medium heat. Cook and stir onion, tomato, cardamom, coriander, cinnamon, ginger, garlic, cloves, curry powder, chili powder, turmeric, and cumin in hot oil until onions are tender, about 10 minutes. Remove from heat and cool briefly.",
+        "Pour onion mixture into a food processor; pulse a few times before leaving on to blend. Puree in batches until smooth.",
+        "Return pureed onion mixture to the same pot; add coconut milk. Season mixture with salt to taste, bring to a boil, reduce heat to low, and simmer until flavors combine, about 5 minutes. Stir in eggs; cook until eggs are heated through, about 5 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6748284.jpg",
+    "ingredients": [
+        "2 tablespoons coconut oil",
+        "1 large onion, chopped",
+        "1 tomato, chopped",
+        "2 teaspoons ground cardamom",
+        "2 teaspoons ground coriander",
+        "1 1/2 teaspoons ground cinnamon",
+        "1 teaspoon chopped fresh ginger root, or more to taste",
+        "1 teaspoon chopped fresh garlic, or more to taste",
+        "1 teaspoon ground cloves",
+        "1 teaspoon curry powder",
+        "1/2 teaspoon chili powder",
+        "1/2 teaspoon ground turmeric",
+        "1/2 teaspoon ground cumin",
+        "1 cup coconut milk",
+        "salt to taste",
+        "10 hard-boiled eggs, peeled and halved lengthwise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Healthy Egg Kulambu",
     "url": "http://allrecipes.com/recipe/241236/easy-healthy-egg-kulambu/"
 }

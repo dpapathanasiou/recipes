@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Working in batches, puree onions, celery, mushrooms, and garlic and 1/4 cup chicken broth in a food processor until smooth, adding more chicken broth as necessary.",
+        "Stir vegetable puree and remaining chicken broth together in large pot; bring to a boil, reduce heat to low, and simmer until flavors blend, about 45 minutes.",
+        "Stir tomato paste, oregano, black pepper, sugar, celery salt, basil, onion powder, and seasoned salt into broth mixture; bring to a boil, reduce heat to low, and simmer until flavors blend, about 45 minutes more.",
+        "Whisk oil and flour into tomato mixture until pizza sauce is smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1092868.jpg",
+    "ingredients": [
+        "4 onions, roughly chopped, or more to taste",
+        "3 stalks celery, roughly chopped",
+        "1 cup sliced fresh mushrooms (optional)",
+        "5 tablespoons minced garlic",
+        "3 (900 ml) cartons chicken broth, divided",
+        "3 (12 ounce) cans tomato paste",
+        "1/2 cup dried oregano",
+        "1/4 cup ground black pepper, or more to taste",
+        "1/4 cup white sugar",
+        "3 tablespoons celery salt",
+        "2 teaspoons basil",
+        "2 teaspoons onion powder",
+        "2 teaspoons seasoned salt",
+        "1 1/2 cups vegetable oil",
+        "1/2 cup all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mel's Brown Pizza Sauce",
     "url": "http://allrecipes.com/recipe/236309/mels-brown-pizza-sauce/"
 }

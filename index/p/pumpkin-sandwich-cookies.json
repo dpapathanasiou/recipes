@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 350 degrees F.",
+        "Combine flour, baking soda, pumpkin pie spice, baking powder and salt in bowl. Set aside.",
+        "Combine brown sugar and 1/2 cup butter in bowl; beat at medium speed until creamy. Add pumpkin, milk, egg and 1 teaspoon vanilla; beat until well mixed. Add flour mixture; beat at low speed until well mixed.",
+        "Drop batter by level measuring tablespoonfuls onto ungreased cookie sheets. Bake 9-10 minutes or until set and lightly browned around edges. Cool 2 minutes on cookie sheets; remove to cooling rack. Cool completely.",
+        "Combine all filling ingredients except powdered sugar in bowl. Beat at medium speed, scraping bowl often, until smooth. Gradually add 4 cups powdered sugar, beating well after each addition until creamy.",
+        "Spread 2 teaspoons filling onto bottom-side of 1 cookie. Top with another cookie, bottom-side down. Repeat with remaining cookies and filling. Sprinkle filled cookies with powdered sugar."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3512489.jpg",
+    "ingredients": [
+        "Cookie:",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon pumpkin pie spice",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 cup firmly packed brown sugar",
+        "1/2 cup LAND O LAKES\u00ae Butter, softened",
+        "1/2 cup mashed cooked pumpkin",
+        "1/4 cup milk",
+        "1 LAND O LAKES\u00ae Egg",
+        "1 teaspoon vanilla",
+        "Filling:",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 tablespoons LAND O LAKES\u00ae Butter, softened",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon vanilla",
+        "4 cups powdered sugar",
+        "Decoration:",
+        "Powdered sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Sandwich Cookies",
     "url": "http://allrecipes.com/recipe/247005/pumpkin-sandwich-cookies/"
 }

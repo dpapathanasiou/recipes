@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place fish in a bowl; add 1 tablespoon vegetable oil, 1 tablespoon chile powder, turmeric, and 1 1/2 teaspoons salt and allow to marinate for about 10 minutes.",
+        "Place tamarind pulp in a bowl and pour warm water over it. Squeeze tamarind to extract juice.",
+        "Heat 1/4 cup oil in a skillet over medium heat; add cumin seeds and stir. Add onion to cumin; cook and stir until onion is translucent, 5 to 10 minutes. Add garlic paste and cook for 3 minutes. Add carp, cover the skillet, and cook for 5 minutes.",
+        "Mix tamarind juice into fish mixture; bring to a boil. Turn carp pieces; add 2 tablespoons red chile powder, coriander, and salt. Cook over low heat until sauce thickens and oil separates, about 10 minutes. Garnish with coriander leaves."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7082168.jpg",
+    "ingredients": [
+        "2 pounds white carp, cut into large chunks",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon red chile powder",
+        "1 tablespoon ground turmeric",
+        "1 1/2 teaspoons salt",
+        "1/4 cup tamarind pulp",
+        "1 cup warm water",
+        "1/4 cup oil",
+        "1/2 teaspoon cumin seeds",
+        "1 large onion, minced",
+        "1 1/2 tablespoons garlic paste",
+        "2 tablespoons red chile powder",
+        "2 tablespoons ground coriander",
+        "1 pinch salt to taste",
+        "1 tablespoon chopped fresh coriander (cilantro), or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tamarind Sauce Fish Curry",
     "url": "http://allrecipes.com/recipe/245131/tamarind-sauce-fish-curry/"
 }

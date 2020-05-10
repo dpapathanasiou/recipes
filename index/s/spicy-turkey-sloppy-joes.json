@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook and stir ground turkey, onions, green bell pepper, red bell pepper, serrano chile pepper, fresh chile pepper, and garlic in a large skillet over medium heat until the turkey is no longer pink, about 10 minutes. Drain fat from the turkey mixture.",
+        "Stir ketchup, barbeque sauce, cider vinegar, brown sugar, mustard, Worcestershire sauce, Italian seasoning, onion powder, and black pepper into the turkey mixture. Bring the mixture to a boil, reduce heat to medium-low, and cook at a simmer until the vegetables are completely softened, about 20 minutes.",
+        "Serve on split hamburger buns."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5261882.jpg",
+    "ingredients": [
+        "2 pounds ground turkey",
+        "2 onions, chopped",
+        "1/2 cup chopped green bell pepper",
+        "1/2 cup chopped red bell pepper",
+        "1 serrano chile pepper, minced",
+        "1 fresh chile pepper, minced",
+        "2 cloves garlic, minced",
+        "2 cups ketchup",
+        "1 cup barbeque sauce",
+        "1/4 cup cider vinegar",
+        "1/4 cup packed brown sugar",
+        "2 tablespoons prepared mustard",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon Italian seasoning",
+        "1 teaspoon onion powder",
+        "1/2 teaspoon ground black pepper",
+        "hamburger buns, split"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Turkey Sloppy Joes",
     "url": "http://allrecipes.com/recipe/228301/spicy-turkey-sloppy-joes/"
 }

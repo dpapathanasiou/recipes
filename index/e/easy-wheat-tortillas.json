@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat butter in a bowl in a stand mixer until smooth and creamy.",
+        "Mix whole wheat flour, all-purpose flour, and salt together in a bowl. Slowly add flour mixture to butter and beat using the paddle attachment. Add just enough cold water to mixture until dough pulls away from the side of bowl.",
+        "Form dough into 3-inch balls and flatten each with a press or between 2 small plates covered in plastic wrap.",
+        "Heat a skillet over medium heat and cook dough until lightly browned, 1 to 2 minutes per side."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd cup butter, softened",
+        "1 cup whole wheat flour",
+        "1 cup all-purpose flour",
+        "\u00bd teaspoon salt",
+        "1 tablespoon cold water, or more as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Wheat Tortillas",
     "url": "http://allrecipes.com/recipe/244616/easy-wheat-tortillas/"
 }

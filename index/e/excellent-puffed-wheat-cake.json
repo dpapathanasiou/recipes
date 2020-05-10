@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line a 9x13-inch baking pan with parchment paper.",
+        "Place puffed wheat cereal in a large bowl.",
+        "Combine brown sugar, butter, corn syrup, and cocoa in a saucepan. Bring to a boil; cook, stirring constantly, until sugar is dissolved, about 2 minutes. Remove from heat. Stir in vanilla extract.",
+        "Pour sugar mixture over puffed wheat cereal in the bowl; stir until cereal is evenly coated. Spread evenly into the lined pan. Cool until set, about 30 minutes. Cut into squares."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "8 cups puffed wheat cereal",
+        "1 cup brown sugar, not packed",
+        "\u00bd cup butter",
+        "\u00bd cup corn syrup",
+        "3 tablespoons Dutch-process cocoa (such as Fry's\u00ae)",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Excellent Puffed Wheat Cake",
     "url": "http://allrecipes.com/recipe/246871/excellent-puffed-wheat-cake/"
 }

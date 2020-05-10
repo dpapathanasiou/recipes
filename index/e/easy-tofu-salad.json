@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place tofu cubes in a large bowl.",
+        "Combine soy sauce, rice wine vinegar, and roasted sesame seeds in a small bowl. Pour over tofu; toss to mix.",
+        "Chill tofu until flavors are combined, about 2 hours.",
+        "Remove from refrigerator. Scoop tofu into small servings bowls and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3291208.jpg",
+    "ingredients": [
+        "2 (14 ounce) packages extra-firm tofu, cut into cubes",
+        "3 tablespoons soy sauce",
+        "1 tablespoon rice wine vinegar",
+        "2 teaspoons roasted sesame seeds (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Tofu Salad",
     "url": "http://allrecipes.com/recipe/246267/easy-tofu-salad/"
 }

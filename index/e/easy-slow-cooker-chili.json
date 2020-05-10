@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Stir browned beef, chili beans in sauce, stewed tomatoes, diced tomatoes and green chilies, onion, tomato paste, brown sugar, chili seasoning mix, and barbeque sauce together in the crock of a slow cooker.",
+        "Cook on High for 3 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7284618.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground beef, or more to taste",
+        "3 (16 ounce) cans chili beans in sauce (such as Bush's\u00ae)",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "1 (10 ounce) can diced tomatoes and green chiles (such as RO*TEL\u00ae)",
+        "1  onion, chopped",
+        "1 (6 ounce) can tomato paste",
+        "\u00bc cup brown sugar",
+        "1 (1.25 ounce) package chili seasoning mix",
+        "1 dash barbeque sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Slow Cooker Chili",
     "url": "http://allrecipes.com/recipe/241736/easy-slow-cooker-chili/"
 }

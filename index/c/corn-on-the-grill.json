@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium heat, and lightly oil the grate.",
+        "Heat the garlic and butter in a small saucepan over low heat for 5 minutes to infuse the butter with the flavor of garlic. Do not let the butter simmer. Stir together the sugar, salt, black pepper, and cumin in a small dish. Stir into the butter mixture along with the lime juice and hot sauce until evenly blended. Brush the ears of corn generously with the garlic butter; reserve remaining butter.",
+        "Cook the corn on the preheated grill, rotating occasionally until the corn is hot and tender, 10 to 15 minutes. Brush the corn with the remaining butter as the corn cooks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F657854.jpg",
+    "ingredients": [
+        "5 cloves garlic, minced, or more to taste",
+        "\u00bd cup butter",
+        "1 tablespoon white sugar",
+        "1 teaspoon salt",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground black pepper",
+        "\u00bd  lime, juiced",
+        "2 tablespoons hot pepper sauce (such as Tapatio\u00ae)",
+        "6 ears fresh corn"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn on the Grill",
     "url": "http://allrecipes.com/recipe/215813/corn-on-the-grill/"
 }

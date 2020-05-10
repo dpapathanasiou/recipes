@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together Alfredo sauce with chipotle sauce. Add the chicken mix until well blended.",
+        "Place a slice of bacon on a tortilla. Spoon some of the chicken mixture on the tortilla and top with onion slices. Roll up the tortilla and secure with a toothpick. Fill and secure the other tortillas with the rest of the chicken and onions.",
+        "Heat oil in a heavy skillet over medium-high heat. Place rolled tortillas in the skillet in a single layer. Fry on each side until golden brown. Brown in batches if necessary.",
+        "Serve with guacamole and pico de gallo."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3144540.jpg",
+    "ingredients": [
+        "1 (15 ounce) jar Classico\u00ae Fresh Alfredo Sauce",
+        "\u00bd cup canned chipotle sauce",
+        "2 pounds rotisserie chicken, shredded",
+        "8 slices bacon, cooked and drained",
+        "8  flour tortillas",
+        "\u00bd  onion, thinly sliced",
+        "Toothpicks",
+        "1 tablespoon grapeseed oil",
+        "4 tablespoons Guacamole",
+        "Pico de gallo"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Alfredo Chicken Bacon Taquitos",
     "url": "http://allrecipes.com/recipe/238609/spicy-alfredo-chicken-bacon-taquitos/"
 }

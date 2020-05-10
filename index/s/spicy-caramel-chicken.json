@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk grated ginger, garlic, brown sugar, rice vinegar, fish sauce, hot sauce, and soy sauce together in a large bowl.",
+        "Place chicken chunks in a bowl. Pour 1/4 cup of the prepared sauce onto chicken chunks; mix until all chicken pieces are coated. Set aside 15 minutes.",
+        "Heat vegetable oil in a heavy skillet over high heat. As soon as oil starts to smoke, place chicken chunks in a single layer in the pan. Cook and stir until chicken pieces start to caramelize and turn deep brown, 8 to 10 minutes. Reduce heat to medium. Stir in sliced jalapeno and red peppers, peanuts, and green onions. Cook and stir one minute. Pour in remainder of sauce. Simmer until heated through, 1 or 2 minutes. Remove from heat.",
+        "Stir in cilantro. Serve over hot cooked rice and top with chopped green onions."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 tablespoons finely grated fresh ginger",
+        "4 cloves finely minced garlic",
+        "\u00be cup light brown sugar",
+        "\u2153 cup rice vinegar",
+        "\u2153 cup fish sauce",
+        "2 teaspoons hot pepper sauce, or to taste",
+        "1 teaspoon soy sauce",
+        "2 pounds boneless, skinless chicken thighs, cut into 1-inch pieces",
+        "1 tablespoon vegetable oil",
+        "\u00bd cup sliced, seeded jalapeno peppers",
+        "\u00bd cup sliced, seeded mild red chilies or bell peppers",
+        "\u00bd cup roasted peanuts",
+        "\u00bd cup chopped green onions, plus more for garnish",
+        "\u00bc cup chopped fresh cilantro leaves",
+        "4 cups cooked white rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Caramel Chicken",
     "url": "http://allrecipes.com/recipe/244813/spicy-caramel-chicken/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, and run under cold water to cool. Peel eggs, and cut into halves lengthwise.",
+        "Carefully remove the yolks from  the eggs, and place them into a medium bowl, scooping out a little bit of the white along with the yolk to make a more generous cup for filling. Mash the egg yolks with deviled ham, relish and enough mayonnaise to make a smooth mixture. Season with salt and pepper to taste.",
+        "Spoon the mixture into the egg whites, or pipe with a piping bag for a more elegant look. Garnish filling with a sprinkle of paprika, and top some of them with a slice of green olive stuffed with pimento. Chill until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F918.jpg",
+    "ingredients": [
+        "6  eggs",
+        "1 (4.5 ounce) can deviled ham spread",
+        "1 tablespoon sweet pickle relish",
+        "1 tablespoon mayonnaise, or as needed",
+        "salt and pepper to taste",
+        "1 pinch paprika",
+        "3  pimento-stuffed green olives, sliced (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Style Deviled Eggs",
     "url": "http://allrecipes.com/recipe/64406/southern-style-deviled-eggs/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, combine the mango, avocado, tomatoes, jalapeno, cilantro, and garlic. Stir in the salt, lime juice, red onion, and olive oil. To blend the flavors, refrigerate for about 30 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2444&h=1280&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1042823.jpg",
+    "ingredients": [
+        "1  mango - peeled, seeded and diced",
+        "1  avocado - peeled, pitted, and diced",
+        "4 medium tomatoes, diced",
+        "1  jalapeno pepper, seeded and minced",
+        "\u00bd cup chopped fresh cilantro",
+        "3 cloves garlic, minced",
+        "1 teaspoon salt",
+        "2 tablespoons fresh lime juice",
+        "\u00bc cup chopped red onion",
+        "3 tablespoons olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Avocado, Tomato and Mango Salsa",
     "url": "http://allrecipes.com/recipe/74694/avocado-tomato-and-mango-salsa/"
 }

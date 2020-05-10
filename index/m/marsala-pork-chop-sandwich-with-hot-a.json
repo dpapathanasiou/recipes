@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine wine, honey, and 4 minced garlic cloves in a bowl; add pork. Marinate pork in the refrigerator for 8 hours or overnight.",
+        "Bring vinegar to a boil in a saucepan; add sugar and cook until dissolved, 2 to 3 minutes. Add 2 minced garlic cloves, salt, and red pepper flakes; stir until dipping sauce is evenly mixed.",
+        "Transfer pork and marinade to a saucepan over medium heat; cook and stir until pork is cooked through, 5 to 10 minutes.",
+        "Spoon pork mixture into French rolls and layer lettuce on top. Serve sandwiches with dipping sauce."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4391088.jpg",
+    "ingredients": [
+        "1 cup Marsala wine",
+        "2 cups honey",
+        "4 cloves garlic, minced",
+        "4 small pork chops, cut into thin strips",
+        "Dipping Sauce:",
+        "1 cup rice vinegar",
+        "1 cup white sugar",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon red pepper flakes",
+        "6 French rolls, split",
+        "1/4 head lettuce, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marsala Pork Chop Sandwich with Hot and Sweet Dipping Sauce",
     "url": "http://allrecipes.com/recipe/255532/marsala-pork-chop-sandwich-with-hot-a/"
 }

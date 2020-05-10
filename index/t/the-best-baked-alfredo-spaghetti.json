@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until halfway cooked through, about 6 minutes. Drain.",
+        "Stir provolone cheese blend, 1 jar Alfredo sauce, drained spaghetti, ricotta cheese, Parmesan cheese, and eggs together in a bowl. Pour into prepared baking dish. Cover the dish with aluminum foil.",
+        "Bake in the preheated oven until hot and bubbling, 60 to 75 minutes. Remove foil from baking dish and top spaghetti with remaining Alfredo sauce.",
+        "Stir marinara sauce and meatballs together in a saucepan; bring to a simmer, reduce heat to medium-low, and cook until meatballs are heated through, 15 to 25 minutes. Spoon meatballs and marinara over baked spaghetti."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4436001.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 pound spaghetti",
+        "1 pound shredded mozzarella and provolone cheese blend",
+        "2 (16 ounce) jars Alfredo sauce (such as Ragu\u00ae)",
+        "1/2 cup ricotta cheese",
+        "1/2 cup grated Parmesan cheese",
+        "3 eggs",
+        "1 (16 ounce) jar marinara sauce, or to taste (optional)",
+        "1 (16 ounce) package frozen cooked meatballs, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Best Baked Alfredo Spaghetti",
     "url": "http://allrecipes.com/recipe/242035/the-best-baked-alfredo-spaghetti/"
 }

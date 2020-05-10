@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Blend Spreadables butter with ginger, lemon zest, cumin, garlic, salt, and pepper until well combined; set aside.",
+        "Place chicken, back-side-up, with neck facing away on a cutting board. Use a chef's knife or poultry shears to cut along each side of the backbone. Remove and discard backbone. Turn chicken over; turn legs drumsticks-inward and press on breastbone to flatten. Place chicken, cut-side-down in a roasting pan.",
+        "Melt 3 tablespoons (45 mL) butter mixture; toss with potatoes, carrots, parsnips, and green onions. Scatter around chicken.",
+        "Carefully loosen skin over breast meat, legs, and thighs using fingertips. Spread remaining butter mixture evenly under and over skin of chicken.",
+        "Roast, basting occasionally, for 60 to 75 minutes (or until an instant-read thermometer registers 165 degrees F/74 degrees C in thigh and breast meat).",
+        "Cover and rest for 10 minutes. Carve chicken into portions and serve with vegetables."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u2153 cup Gay Lea Spreadables Butter, Cinnamon & Brown Sugar",
+        "1 tablespoon minced fresh ginger",
+        "1 tablespoon finely grated lemon zest",
+        "2 teaspoons ground cumin",
+        "2 cloves garlic, minced",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "1 (2 1/2 to 3 pound) whole chicken",
+        "1 pound baby potatoes",
+        "2 large carrots, scrubbed and sliced",
+        "2 large parsnips, scrubbed and sliced",
+        "2  green onions, roughly chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spice Rubbed Flattened Roast Chicken",
     "url": "http://allrecipes.com/recipe/241596/spice-rubbed-flattened-roast-chicken/"
 }

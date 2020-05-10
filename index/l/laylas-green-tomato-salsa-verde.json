@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine green tomatoes, onions, green bell peppers, salsa mix, jalapeno peppers, garlic, cilantro, lime juice, and Worcestershire sauce in a large pot over medium-low heat. Cook, stirring occasionally, until most of the liquid has evaporated, 1 to 2 hours.",
+        "Ladle hot tomato mixture into clean pint jars. Let cool to room temperature, about 1 hour. Seal and refrigerate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5315437.jpg",
+    "ingredients": [
+        "5 pounds green tomatoes, chopped",
+        "2  white onions, chopped",
+        "2  green bell peppers, diced",
+        "1 (4 ounce) packet salsa tomato mix (such as Mrs. Wages\u00ae)",
+        "5  jalapeno peppers, diced, or more to taste",
+        "3 tablespoons minced garlic, or to taste",
+        "3 tablespoons chopped cilantro, or to taste",
+        "1  lime, juiced",
+        "3 dashes Worcestershire sauce",
+        "1-pint canning jars with lids and rings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Layla's Green Tomato Salsa Verde",
     "url": "http://allrecipes.com/recipe/254969/laylas-green-tomato-salsa-verde/"
 }

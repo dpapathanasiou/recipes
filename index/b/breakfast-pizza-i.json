@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sausage in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside. Preheat oven to 375  degrees F (190 degrees C).",
+        "Brown sausage and drain.  Separate crescent roll dough into 8 triangles. Place in an ungreased 12 inch pizza pan with points toward the center.  Press together to form a crust. Bottom of crust should be sealed and outside edge should be slightly raised. Spoon sausage over crust. Sprinkle with hash browns and top with cheddar cheese.",
+        "Beat together eggs, milk, salt and pepper; pour over crust. Sprinkle with parmesan cheese.",
+        "Bake in preheated oven until eggs are set, about 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2330263.jpg",
+    "ingredients": [
+        "1 pound ground breakfast sausage",
+        "1 (8 ounce) package refrigerated crescent rolls",
+        "1 cup frozen hash brown potatoes, thawed",
+        "1 cup shredded Cheddar cheese",
+        "5  eggs",
+        "\u00bc cup milk",
+        "\u00bd teaspoon salt",
+        "\u215b teaspoon ground black pepper",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breakfast Pizza I",
     "url": "http://allrecipes.com/recipe/20697/breakfast-pizza-i/"
 }

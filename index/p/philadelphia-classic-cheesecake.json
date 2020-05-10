@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F.",
+        "Mix crumbs, 3 tablespoons sugar and butter; press firmly onto bottom of pan.",
+        "Beat cream cheese, 1 cup sugar and vanilla with mixer until well blended. Add eggs, 1 at a time, mixing on low speed after each just until blended. Pour over crust.",
+        "55 min. or until center is almost set. Loosen cake from rim of pan; cool before removing rim. Refrigerate 4 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3751788.jpg",
+    "ingredients": [
+        "1 1/2 cups HONEY MAID Graham Cracker Crumbs",
+        "3 tablespoons sugar",
+        "1/3 cup butter or margarine, melted",
+        "4 (8 ounce) packages PHILADELPHIA Cream Cheese, softened",
+        "1 cup sugar",
+        "1 teaspoon vanilla",
+        "4 eggs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "PHILADELPHIA\u00ae Classic Cheesecake",
     "url": "http://allrecipes.com/recipe/155222/philadelphia-classic-cheesecake/"
 }

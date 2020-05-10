@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk brown sugar, soy sauce, hoisin sauce, honey, garlic, sriracha sauce, sherry, food coloring, sesame oil, Chinese five-spice powder, and liquid smoke together in a bowl; pour into a resealable plastic bag. Add chicken thighs, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 24 to 48 hours.",
+        "Preheat oven to 350 degrees F (175 degrees C). Line a roasting pan with aluminum foil and place a roasting rack in the bottom of the pan.",
+        "Remove chicken from marinade and place on the rack in the prepared roasting pan.",
+        "Pour marinade into a saucepan; bring to a boil, reduce heat to low, and simmer for 3 to 5 minutes. Remove from heat.",
+        "Bake chicken in the preheated oven, turning once and basting occasionally with marinade, until the juices run clear, about 1 hour. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4549868.jpg",
+    "ingredients": [
+        "1 cup brown sugar",
+        "\u00bc cup soy sauce",
+        "2 tablespoons hoisin sauce",
+        "2 tablespoons honey",
+        "1 clove garlic, minced",
+        "1 tablespoon sriracha sauce",
+        "1 tablespoon sherry",
+        "1 tablespoon red food coloring (optional)",
+        "1 teaspoon sesame oil",
+        "\u00bd teaspoon Chinese five-spice powder",
+        "\u215b teaspoon liquid smoke flavoring (optional)",
+        "12  skinless, boneless chicken thighs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Char Siu Chicken",
     "url": "http://allrecipes.com/recipe/237161/char-siu-chicken/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium heat, combine chocolate and cream. Cook, stirring, until chocolate is melted and mixture is smooth. Remove from heat and whisk in flavoring.  Pour into a small dish and refrigerate until set, but not hard, 1 1/2 to 2 hours. Use to fill candies or form balls and roll in toppings."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/529419.jpg",
+    "ingredients": [
+        "12 ounces bittersweet chocolate, chopped",
+        "1/3 cup heavy cream",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Truffles",
     "url": "http://allrecipes.com/recipe/24691/basic-truffles/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, mix white sugar, garlic powder, ground ginger and salt. Mix in Worcestershire sauce and reduced sodium teriyaki sauce. Stir until all dry ingredients have dissolved. Place desired meat into the mixture. Cover and marinate in the refrigerator at least 6 hours before grilling as desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3685351.jpg",
+    "ingredients": [
+        "1/4 cup white sugar",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon ground ginger",
+        "1 teaspoon salt",
+        "1 teaspoon Worcestershire sauce",
+        "1 (10 fluid ounce) bottle reduced sodium teriyaki sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Teriyaki Marinade IV",
     "url": "http://allrecipes.com/recipe/25446/teriyaki-marinade-iv/"
 }

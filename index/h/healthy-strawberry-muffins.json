@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line 6 muffin cups with paper liners; spray the inside of each paper liner with cooking spray.",
+        "Mix flour, sugar substitute, baking powder, and salt together in a bowl. Whisk almond milk, egg substitute, applesauce, butter, and vanilla extract together in a separate bowl; stir almond milk mixture into flour mixture. Fold in strawberries. Spoon batter into the prepared muffin cups.",
+        "Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean, 20 to 22 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6545536.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 cup whole wheat flour",
+        "2 tablespoons stevia sugar substitute (such as Truvia\u00ae)",
+        "1\u2009\u00bd teaspoons baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bd cup almond milk",
+        "\u00bc cup egg substitute (such as Egg Beaters\u00ae)",
+        "3 tablespoons unsweetened applesauce",
+        "1 tablespoon unsalted butter, melted",
+        "\u00bd teaspoon pure vanilla extract",
+        "1 cup sliced fresh strawberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Healthy Strawberry Muffins",
     "url": "http://allrecipes.com/recipe/232945/healthy-strawberry-muffins/"
 }

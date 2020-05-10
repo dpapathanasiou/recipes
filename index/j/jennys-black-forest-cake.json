@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 8 inch cake pans. Make sour milk by combining milk and vinegar.  Set aside.",
+        "Sift together the flour, sugar, cocoa powder, baking soda, baking powder and salt. Set aside. In a large bowl, whisk together the eggs, oil, coffee and vanilla.  Stir in the sour milk.  Gradually beat in the flour mixture, mixing just until incorporated.",
+        "Pour batter into prepared pans. Bake in the preheated oven for 30 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow cake layers to cool completely before filling.",
+        "To make the cherry filling: Combine the cherry pie filling and cherry liquor.  Refrigerate cherry mixture until chilled, then fill cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup milk",
+        "1 tablespoon vinegar",
+        "1\u2009\u00be cups all-purpose flour",
+        "2 cups white sugar",
+        "\u00be cup unsweetened cocoa powder",
+        "1 teaspoon baking powder",
+        "2 teaspoons baking soda",
+        "\u00bd teaspoon salt",
+        "2  eggs",
+        "\u00bd cup vegetable oil",
+        "1 cup strong brewed coffee, cold",
+        "1 teaspoon vanilla extract",
+        "1 (21 ounce) can cherry pie filling",
+        "\u00bd cup cherry liqueur"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jenny's Black Forest Cake",
     "url": "http://allrecipes.com/recipe/23398/jennys-black-forest-cake/"
 }

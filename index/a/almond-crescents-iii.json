@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together shortening and confectioner's sugar and water.  Stir in flour, salt, vanilla and almonds.  Mix well.",
+        "Form dough with hands into 3 inch lengths about pencil thin.",
+        "Bake on ungreased sheet in a preheated 300 degrees F oven (150 degrees C) for 20 minutes.",
+        "While cookies cool, melt chocolate chips in a double boiler or in a bowl in the microwave. When cookies are completely cool, dip one half in melted chocolate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3153&h=1651&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F53502.jpg",
+    "ingredients": [
+        "1 cup shortening",
+        "2 teaspoons vanilla extract",
+        "\u00bc cup confectioners' sugar",
+        "\u00bc teaspoon salt",
+        "1 tablespoon water",
+        "2 cups all-purpose flour",
+        "1 cup ground blanched almonds",
+        "1 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Almond Crescents III",
     "url": "http://allrecipes.com/recipe/11023/almond-crescents-iii/"
 }

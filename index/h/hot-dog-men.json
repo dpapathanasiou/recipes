@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Make a slit down the middle of one end of each hot dog; this will be the legs. At the other end, make a small slit each side; these will be the arms. Bring a saucepan of water to a boil, and add the hot dogs. Boil for about 5 minutes until the slits open up.",
+        "Place slices of cheese onto slices of bread. Set the hot dog men on top. Use ketchup and mustard to make a face, hair and clothes or buttons."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/361395.jpg",
+    "ingredients": [
+        "8 hot dogs",
+        "8 slices bread",
+        "8 slices American cheese",
+        "ketchup and mustard to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot Dog Men",
     "url": "http://allrecipes.com/recipe/88052/hot-dog-men/"
 }

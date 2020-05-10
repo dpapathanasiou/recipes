@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt 1 tablespoon coconut oil in a large skillet over medium-high heat. Cook and stir tempeh and curry powder in hot oil until fragrant, about 3 minutes. Add onion; cook and stir until slightly softened, about 2 minutes.",
+        "Reduced heat to medium and stir kale, remaining coconut oil, and garlic powder into tempeh mixture; cook and stir until kale wilts, about 10 minutes. Transfer to plates and top with goat cheese and sea salt."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 tablespoons coconut oil, divided",
+        "1 (8 ounce) package tempeh, cut into 1/2-inch cubes",
+        "2 tablespoons curry powder",
+        "1 yellow onion, chopped",
+        "1 bunch kale - stems removed and discarded, leaves torn into bite-size pieces",
+        "2 teaspoons garlic powder",
+        "3 ounces crumbled goat cheese",
+        "1 teaspoon sea salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Scooter's Tempeh Kale Curry",
     "url": "http://allrecipes.com/recipe/241457/scooters-tempeh-kale-curry/"
 }

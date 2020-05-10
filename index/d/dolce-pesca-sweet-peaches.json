@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C). Line a baking sheet with foil.",
+        "Place the figs and pine nuts in the bowl of a food processor and pulse until fine. Place the halved peaches onto the prepared baking sheet, cut side up. Sprinkle evenly with the white sugar. Pour the white wine over the peaches, and stuff them with the fig mixture. Pour the brandy over the peaches.",
+        "Bake in the preheated oven until browned, about 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5706410.jpg",
+    "ingredients": [
+        "4 fresh figs",
+        "1/2 cup pine nuts",
+        "4 peaches, halved and pitted",
+        "1/4 cup white sugar",
+        "1 cup white wine",
+        "1/2 cup brandy"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dolce Pesca (Sweet Peaches)",
     "url": "http://allrecipes.com/recipe/172369/dolce-pesca-sweet-peaches/"
 }

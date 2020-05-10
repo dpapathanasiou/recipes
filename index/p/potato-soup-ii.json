@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place hash browns, onions, carrots, celery, water, and chicken broth in large stock pot.  Simmer for 30 minutes.",
+        "Stir in undiluted cream soups, milk, and bacon.  Season with salt and pepper.  Let simmer for another 30 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 (16 ounce) packages frozen hash brown potatoes, thawed",
+        "1 cup chopped onion",
+        "1 cup grated carrots",
+        "1 cup chopped celery",
+        "5 slices bacon, diced",
+        "4 (14.5 ounce) cans chicken broth",
+        "3 cups water",
+        "1 (10.75 ounce) can condensed cream of celery soup",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "3 cups milk",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato Soup II",
     "url": "http://allrecipes.com/recipe/13257/potato-soup-ii/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a 7-inch round baking dish with parchment paper.",
+        "Beat 1 cup raw sugar and 1/2 cup butter together in a bowl using an electric mixer until smooth and creamy; beat in eggs, 1 at a time, beating well before adding the next egg. Stir flour, water, and lemon zest into creamed butter mixture until batter is smooth. Pour batter into the prepared baking dish.",
+        "Bake in the preheated oven until top of cake springs back when touched, about 30 minutes. Cool cake completely.",
+        "Beat confectioners' sugar, 2 tablespoons butter, and lemon juice together in a bowl using an electric mixer until topping is smooth and creamy. Mix 3 1/2 tablespoons raw sugar and remaining lemon juice together in a separate bowl to make the filling.",
+        "Slice the cooled cake horizontally, forming 2 round cakes. Poke holes into the bottom cake and pour lemon-sugar filling over cake. Place second cake over the bottom cake and spread the topping over the top cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2167499.jpg",
+    "ingredients": [
+        "1 cup raw sugar, or to taste",
+        "\u00bd cup butter",
+        "2  eggs",
+        "1 cup self-rising flour",
+        "1 tablespoon warm water",
+        "1  lemon, zested",
+        "3\u2009\u00bd tablespoons confectioners' sugar",
+        "2 tablespoons butter, softened",
+        "1  lemon, juiced, divided",
+        "3\u2009\u00bd tablespoons raw sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Triple Lemon Cake",
     "url": "http://allrecipes.com/recipe/241060/triple-lemon-cake/"
 }

@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix black-eyed peas, onion, red bell pepper, yellow bell pepper, green bell pepper, canola oil, ketchup, vinegar, jalapeno peppers, garlic, oregano, cumin, salt, basil, chili powder, paprika, celery salt, black pepper, and thyme together in a large bowl. together in a large bowl.",
+        "Cover bowl with plastic wrap and refrigerate to let the flavors mingle, at least 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1341153.jpg",
+    "ingredients": [
+        "4 (15 ounce) cans black-eyed peas, rinsed and drained",
+        "1 onion, chopped",
+        "1 red bell pepper, chopped",
+        "1 yellow bell pepper, chopped",
+        "1 green bell pepper, chopped",
+        "1/2 cup canola oil",
+        "1/2 cup ketchup",
+        "1/4 cup white wine vinegar",
+        "2 jalapeno peppers, minced",
+        "4 cloves garlic, minced",
+        "1 1/2 teaspoons dried oregano",
+        "1 teaspoon ground cumin",
+        "1 teaspoon salt",
+        "1/2 teaspoon dried basil",
+        "1/4 teaspoon chili powder",
+        "1/4 teaspoon paprika",
+        "1/4 teaspoon celery salt",
+        "1/4 teaspoon ground black pepper",
+        "1/4 teaspoon dried thyme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Texas Caviar",
     "url": "http://allrecipes.com/recipe/238474/texas-caviar/"
 }

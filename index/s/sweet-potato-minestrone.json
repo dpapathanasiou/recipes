@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a soup pot over medium-high heat.  Saute onion, celery, Italian seasoning, salt and pepper until tender, about 5 minutes.  Stir in tomatoes, with the juice, broth, sweet potatoes, carrots, green beans and garlic.  Bring to a boil; reduce heat to low and simmer, stirring occasionally, until vegetables are tender, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/561951.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 large onion, chopped",
+        "2 large stalks celery, chopped",
+        "2 1/2 teaspoons Italian seasoning",
+        "salt and pepper to taste",
+        "1 (28 ounce) can Italian-style diced tomatoes",
+        "5 cups vegetable broth",
+        "2 large sweet potatoes, peeled and diced",
+        "2 large carrots, sliced thin",
+        "6 ounces green beans, cut into 1 inch pieces",
+        "5 cloves garlic, minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Potato Minestrone",
     "url": "http://allrecipes.com/recipe/21013/sweet-potato-minestrone/"
 }

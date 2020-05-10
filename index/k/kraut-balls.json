@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown sausage in a medium skillet over medium high heat, stirring to break apart. Drain, and place in a bowl. Stir in softened cream cheese, drained sauerkraut, and mustard until thoroughly combined. Cover, and refrigerate for 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place beaten eggs and crushed crackers in separate bowls. Roll sausage mixture into small balls and dip first into egg, then roll in cracker crumbs to coat. Arrange on a sheet pan.",
+        "Bake in the preheated oven for 30 minutes, turning once for even browning. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F305715.jpg",
+    "ingredients": [
+        "1 pound ground pork sausage",
+        "2 (8 ounce) packages cream cheese, softened",
+        "1 (16 ounce) can sauerkraut, drained",
+        "1 tablespoon Dijon mustard",
+        "3  eggs, beaten",
+        "1 (8 ounce) package buttery round crackers, crushed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kraut Balls",
     "url": "http://allrecipes.com/recipe/76377/kraut-balls/"
 }

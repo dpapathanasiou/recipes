@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F.",
+        "Grease bottom of a 13x9-inch baking pan. Mix flour and butter; spread in pan.",
+        "Bake for 20 to 25 minutes or until golden. Let crust cool.",
+        "Mix cream cheese, powdered sugar, LUCKY LEAF Premium Lemon Pie Filling, vanilla and half of the whipped topping together. Spread over crust. Spread remaining whipped topping over pie filling mixture.",
+        "Cover and chill until ready to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/989229.jpg",
+    "ingredients": [
+        "1 (21 ounce) can LUCKY LEAF\u00ae Lemon Fruit Filling",
+        "1 1/2 cups all-purpose flour",
+        "1 1/2 sticks butter, softened",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 cup powdered sugar",
+        "1 teaspoon vanilla",
+        "1 (8 ounce) container frozen whipped dessert topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Layers of Lemony Love",
     "url": "http://allrecipes.com/recipe/229710/layers-of-lemony-love/"
 }

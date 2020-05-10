@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "In a small bowl combine butter, salt, pepper, parsley, mustard and horseradish; mix well.  Spread about 1 tablespoon of mixture evenly over each ear of corn.  Wrap tightly in heavy duty aluminum foil; seal well. Place on a baking sheet.",
+        "Bake for 40 to 45 minutes in the preheated oven, or until corn is tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F463213.jpg",
+    "ingredients": [
+        "\u00bd cup butter, softened",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "1 tablespoon fresh parsley, chopped",
+        "2 tablespoons prepared Dijon-style mustard",
+        "2 teaspoons prepared horseradish",
+        "8 ears corn, husked and cleaned"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Horseradish Corn on the Cob",
     "url": "http://allrecipes.com/recipe/21517/horseradish-corn-on-the-cob/"
 }

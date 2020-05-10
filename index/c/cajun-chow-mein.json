@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C).",
+        "Heat a large saucepan over medium-high heat and stir in the ground beef. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease. Stir in the garlic, onion, and green bell pepper; cook and stir until the onion has softened and turned translucent, about 7 minutes. Pour in the tomatoes, and simmer until the liquid has been absorbed, about 5 minutes.",
+        "Once the liquid from the tomatoes has been absorbed, stir in the kidney beans, rice, and water. Season with the chili powder and salt and pepper to taste. Pour into a 9x13-inch baking dish and cover tightly with aluminum foil.",
+        "Bake in the preheated oven until the rice has absorbed the liquid and is tender, 45 minutes to 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F642515.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "\u00bd teaspoon minced garlic",
+        "1  onion, finely chopped",
+        "1 small green bell pepper, finely chopped",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 (15 ounce) can dark red kidney beans, undrained",
+        "1 cup converted long-grain white rice",
+        "1 cup water",
+        "1\u2009\u00bd teaspoons chili powder",
+        "salt and black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cajun Chow Mein",
     "url": "http://allrecipes.com/recipe/213557/cajun-chow-mein/"
 }

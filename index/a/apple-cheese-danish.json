@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cottage cheese in a strainer lined with cheesecloth or heavy-duty paper towels. Pat dry with paper towels and set aside for 5 to 10 minutes.",
+        "Place apples in a bowl, and sprinkle with lemon juice to prevent browning.",
+        "Combine the cream cheese, drained cottage cheese, 1/2 cup sugar, egg, and vanilla extract in the bowl of an electric mixer, and mix 1 to 2 minutes on high speed, until almost smooth.",
+        "Preheat an oven to 400 degrees F (200 degrees C). Line two baking sheets with parchment paper.",
+        "Cut each of the puff pastry sheets into 9 pieces; you should have 18 total. Roll the pieces out, one at a time, to make 5 x 5-inch squares. To ensure the pastries puff up, avoid using too much pressure or rolling over the edges of the dough.",
+        "Place a square in front of you so that it looks like a diamond. Spoon a generous amount of cheese filling down the middle of each square, leaving 1/4 inch of room at the top and bottom edges. Fan out 4-5 slices of apple down the center of each cheese-filled square. Bring the left and right corners together to meet in the center and pinch to seal.",
+        "Transfer the Danish to a baking sheet and repeat with the remaining pastries. Sprinkle sugar over each bundle and bake in the preheated oven until the pastry is golden brown, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F591986.jpg",
+    "ingredients": [
+        "1 (24 ounce) carton cottage cheese",
+        "3  apples - peeled, cored and thinly sliced",
+        "1 teaspoon lemon juice",
+        "1 (8 ounce) package cream cheese, at room temperature",
+        "\u00bd cup white sugar",
+        "1  egg",
+        "1 teaspoon vanilla extract",
+        "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "3 tablespoons white sugar for decoration"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Cheese Danish",
     "url": "http://allrecipes.com/recipe/216783/apple-cheese-danish/"
 }

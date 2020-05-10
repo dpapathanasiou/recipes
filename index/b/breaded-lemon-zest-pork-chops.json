@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix bread crumbs, parsley, garlic, lemon zest, and black pepper in a large bowl; rub onto pork chops to coat completely.",
+        "Heat olive oil in a skillet over medium-high heat. Fry coated pork chops in hot oil until browned, 2 to 3 minutes per side; transfer to a baking sheet.",
+        "Bake in preheated oven for 25 minutes, flip, and continue baking until no longer pink in the center, about 25 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1300&h=681&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2254931.jpg",
+    "ingredients": [
+        "\u00bd cup bread crumbs, or to taste",
+        "1 tablespoon chopped fresh parsley",
+        "1 tablespoon minced garlic",
+        "1  lemon, zested",
+        "1 teaspoon ground black pepper",
+        "2  pork chops",
+        "olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breaded Lemon Zest Pork Chops",
     "url": "http://allrecipes.com/recipe/241479/breaded-lemon-zest-pork-chops/"
 }

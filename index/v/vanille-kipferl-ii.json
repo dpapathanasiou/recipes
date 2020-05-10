@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large mixing bowl, combine flour and salt. Cut in the butter until the size of small peas and mix in with your hands.",
+        "Mix 1/2 cup confectioners' sugar, the egg, 3 teaspoons of vanilla sugar, and ground almonds into the flour mixture. Place the dough in the refrigerator for 30 minutes.",
+        "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.",
+        "Divide the dough into several parts. Roll each section of dough into logs approximately 1/2 inch thick. Cut the logs into 1-inch pieces, and bend the pieces into a crescent shape (just like a croissant). Place the kipferl on the baking sheet and chill them for 15 minutes.",
+        "Bake in the preheated oven until the edges are golden brown, 10 to 15 minutes. Let cool slightly.",
+        "Combine 6 tablespoons confectioners' sugar and 1 1/2 teaspoons vanilla sugar and toss to mix.",
+        "While still warm, carefully remove kipferl from the baking sheet and dip them in sugar to coat."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2733304.jpg",
+    "ingredients": [
+        "2\u2009\u215b cups all-purpose flour",
+        "1 pinch salt",
+        "7 tablespoons unsalted butter",
+        "\u00bd cup confectioners' sugar",
+        "1  egg",
+        "3 teaspoons vanilla sugar",
+        "1\u2009\u00bc cups ground almonds",
+        "6 tablespoons confectioners' sugar",
+        "1\u2009\u00bd teaspoons vanilla sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vanille Kipferl II",
     "url": "http://allrecipes.com/recipe/10730/vanille-kipferl-ii/"
 }

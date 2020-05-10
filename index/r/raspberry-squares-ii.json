@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (180 degrees C).",
+        "Let butter soften, then mix all ingredients together except raspberry jam.",
+        "Reserve 1 1/2 cups of mixture.",
+        "Press pastry mixture into 8-inch square pan then place raspberry jam over it making sure there is 1/2 inch border on all sides.",
+        "Sprinkle reserved mixture of top.",
+        "Bake for 40-50 minutes or until light brown.  Let cool on wire rack before cutting into bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F36753.jpg",
+    "ingredients": [
+        "6 ounces raspberry jam",
+        "1 cup chopped walnuts",
+        "2\u2009\u00bc cups all-purpose flour",
+        "1 cup white sugar",
+        "1  egg",
+        "1 cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Raspberry Squares II",
     "url": "http://allrecipes.com/recipe/9931/raspberry-squares-ii/"
 }

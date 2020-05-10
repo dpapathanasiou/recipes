@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine watermelon, spinach, and avocados together in a bowl.",
+        "Whisk walnut oil, olive oil, lime juice, and paprika together in a bowl; pour over watermelon mixture. Toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2377423.jpg",
+    "ingredients": [
+        "4 cups cubed watermelon",
+        "4 cups fresh baby spinach, torn",
+        "2 large avocados - peeled, pitted, and diced",
+        "1/4 cup walnut oil",
+        "1/4 cup olive oil",
+        "1 lime, juiced",
+        "1/2 teaspoon sweet paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Avocado Watermelon Salad",
     "url": "http://allrecipes.com/recipe/242175/avocado-watermelon-salad/"
 }

@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the chicken, 1 tablespoon of cornstarch, salt, pepper, and 1 pinch of five-spice powder together in a bowl until the chicken is coated, and set aside.",
+        "Whisk together water, soy sauce, brown sugar, sesame oil, 1 tablespoon of cornstarch,  rice vinegar, and 1 pinch of five-spice powder in a bowl until the mixture is smooth, and set aside.",
+        "Place 1 tablespoon of oil in a wok or large skillet over medium-high heat, and cook and stir the chicken mixture until the chicken is browned, about 5 minutes. Remove the chicken from the wok, and set aside.",
+        "Pour 1 more tablespoon of oil into the heated wok, and stir in the onion, celery, garlic, and red pepper flakes. Cook and stir the vegetables until they start to become tender, about 3 minutes. Pour in the cornstarch mixture, and cook and stir until the sauce thickens, about 1 minute. Remove the wok from the heat, lightly stir in the cooked chicken and peanuts, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/828833.jpg",
+    "ingredients": [
+        "1 1/2 pounds skinless, boneless chicken breast halves, cut into cubes",
+        "1 tablespoon cornstarch",
+        "salt and pepper to taste",
+        "1 pinch Chinese five-spice powder, or to taste",
+        "3/4 cup water",
+        "2 tablespoons soy sauce",
+        "2 tablespoons brown sugar",
+        "1 tablespoon Asian (toasted) sesame oil",
+        "1 tablespoon cornstarch",
+        "1 1/2 teaspoons rice vinegar",
+        "1 pinch Chinese five-spice powder",
+        "2 tablespoons vegetable oil, divided",
+        "1 onion, diced",
+        "1 stalk celery, diced",
+        "4 cloves garlic, chopped",
+        "1 teaspoon red pepper flakes, or to taste",
+        "1/3 cup roasted peanuts, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kung Pao Chicken Stir-Fry",
     "url": "http://allrecipes.com/recipe/88163/kung-pao-chicken/"
 }

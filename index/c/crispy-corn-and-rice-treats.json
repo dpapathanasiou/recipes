@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium low heat, melt together semisweet chocolate chips, peanut butter and butter.",
+        "Place crispy corn and rice cereal in a large bowl. Pour the chocolate chip mixture over the cereal. Sift confectioners' sugar into the mixture. Cover bowl and shake vigorously until all cereal is fully coated. Allow the mixture to cool slightly before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3629&h=1900&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3485351.jpg",
+    "ingredients": [
+        "1 (6 ounce) package semisweet chocolate chips",
+        "\u00bd cup peanut butter",
+        "\u2153 cup butter",
+        "1 (12 ounce) package crispy corn and rice cereal",
+        "2 cups confectioners' sugar, sifted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crispy Corn and Rice Treats",
     "url": "http://allrecipes.com/recipe/20716/crispy-corn-and-rice-treats/"
 }

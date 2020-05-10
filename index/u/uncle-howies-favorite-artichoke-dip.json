@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, mix the cream cheese, artichoke hearts, mayonnaise, garlic, red bell pepper, Swiss cheese and green onions."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F933572.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "2 (6.5 ounce) jars marinated artichoke hearts, drained and chopped",
+        "\u00bd cup mayonnaise",
+        "2 cloves garlic, pressed",
+        "1  red bell pepper, chopped",
+        "\u00bd cup shredded Swiss cheese",
+        "\u2153 cup green onions, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Uncle Howie's Favorite Artichoke Dip",
     "url": "http://allrecipes.com/recipe/20856/uncle-howies-favorite-artichoke-dip/"
 }

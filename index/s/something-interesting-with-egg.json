@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk eggs and milk together in a bowl.",
+        "Heat butter in a skillet over medium heat; cook and stir eggs until about halfway-cooked, 2 to 3 minutes. Add ham and onion to eggs; cook and stir until eggs are set and ham and onion are lightly browned, about 5 minutes more. Remove skillet from heat and stir sour cream into egg mixture.",
+        "Layer bread cubes into 2 bowls; top with egg mixture, tomato, cucumber, and salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2323676.jpg",
+    "ingredients": [
+        "5  eggs",
+        "\u00bc cup whole milk",
+        "1\u2009\u00bd teaspoons butter",
+        "2 slices Black Forest ham, cut into 1/4-inch cubes",
+        "2 tablespoons diced onion",
+        "2 tablespoons sour cream",
+        "2 slices toasted thick-cut bread, cut into 1-inch squares",
+        "1 cup diced vine-ripened tomato",
+        "\u00bd cup diced cucumber",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Something Interesting with Egg",
     "url": "http://allrecipes.com/recipe/242246/something-interesting-with-egg/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in large saucepan over medium-high heat. Saute onion until softened. Add quinoa and garlic. Cook and stir until garlic is fragrant.",
+        "Add chicken broth, water, thyme and salt. Bring to boil. Reduce to simmer. Cover and cook 17 to 19 minutes or until grains are tender. Stir in parsley. Remove from heat. Let stand, covered, 5 minutes. Fluff with fork."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 tablespoons butter",
+        "1 cup finely minced yellow onion",
+        "2 cups truRoots\u00ae Organic Sprouted Quinoa",
+        "2 teaspoons minced garlic",
+        "1\u2009\u00be cups chicken broth",
+        "1\u2009\u00be cups water",
+        "\u00bc teaspoon ground thyme",
+        "\u00bd teaspoon sea salt",
+        "2 tablespoons finely minced fresh flat-leaf parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sprouted Quinoa Savory Pilaf",
     "url": "http://allrecipes.com/recipe/255061/sprouted-quinoa-savory-pilaf/"
 }

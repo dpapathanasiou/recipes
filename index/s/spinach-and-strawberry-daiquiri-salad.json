@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the lime juice, honey, poppy seeds, and mustard in a small bowl; slowly whisk in the oil.",
+        "Combine the almonds, salt, and sugar in a large skillet. Stir constantly over medium-low heat until almonds are light golden brown, about 5 minutes. Remove nuts from the skillet to cool.",
+        "Toss the spinach, strawberries, coconut, onions, and cooled almonds in a large bowl.  Top with prepared dressing, and toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/397006.jpg",
+    "ingredients": [
+        "1/4 cup lime juice",
+        "1/4 cup honey",
+        "1/4 teaspoon poppy seeds",
+        "1/4 teaspoon Dijon mustard",
+        "1/4 cup vegetable oil",
+        "1 cup sliced almonds",
+        "1/4 teaspoon salt",
+        "1/4 cup white sugar",
+        "1 (10 ounce) bag baby spinach, rinsed and dried",
+        "2 pints sliced fresh strawberries",
+        "1 cup toasted flaked coconut",
+        "1/2 red onion, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spinach and Strawberry Daiquiri Salad",
     "url": "http://allrecipes.com/recipe/55394/spinach-and-strawberry-daiquiri-salad/"
 }

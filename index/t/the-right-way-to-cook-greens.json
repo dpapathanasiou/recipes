@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat bacon drippings in a cast-iron skillet over medium heat. Add the greens. Stir-fry, I suppose, since you are stirring and frying, for 1 to 4 minutes (depends on how tough the greens are) or until greens are limp, tender, and have greatly reduced in size. Pork fat is good because it helps cover the bitterness of greens while bringing out their great flavor.",
+        "At this point, you have a choice. Either serve them straight from the pan with a sprinkling of salt, or add 3 to 4 cups of water and salt to taste, and boil the greens 1 hour for extra tender, probably-won't-even-have-to-chew greens. If you don't have teeth, clearly you see which way to go here."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1550&h=812&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2551356.jpg",
+    "ingredients": [
+        "\u00bc cup bacon drippings",
+        "4 bunches collard greens, tough stems removed",
+        "salt to taste",
+        "3 cups water (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The RIGHT WAY To Cook Greens!",
     "url": "http://allrecipes.com/recipe/218443/the-right-way-to-cook-greens/"
 }

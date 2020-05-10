@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until tender yet firm to the bite, 8 minutes. Drain and transfer to a 9x13-inch casserole dish.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Blend tofu in a food processor until smooth, about 2 minutes. Add Swiss cheese, Greek yogurt, and Dijon mustard; mix well to combine.",
+        "Heat oil in a large skillet over medium-high heat. Add mushrooms, spinach, green bell pepper, onion, and garlic; saute until tender, about 5 minutes. Stir tofu mixture into the skillet. Cook until flavors combine, 2 to 3 minutes. Season with salt and ground black pepper.",
+        "Spoon tofu and mushroom mixture over macaroni in the casserole dish; mix to combine. Cover with aluminum foil.",
+        "Bake in the preheated oven until bubbly and golden, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2994717.jpg",
+    "ingredients": [
+        "1 (16 ounce) package elbow macaroni",
+        "1 (12 ounce) package soft silken tofu",
+        "8 ounces shredded Swiss cheese",
+        "1/2 cup Greek yogurt",
+        "1 teaspoon Dijon mustard",
+        "1 tablespoon olive oil",
+        "8 ounces portobello mushrooms, stemmed and sliced",
+        "1 cup frozen spinach, thawed",
+        "1 green bell pepper, chopped",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom Spinach Mac and Cheese",
     "url": "http://allrecipes.com/recipe/245769/mushroom-spinach-mac-and-cheese/"
 }

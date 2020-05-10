@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet, brown and stir sausage until the meat is crumbled and no longer pink; drain.",
+        "In a small bowl, combine cooked sausage, cream cheese and Parmesan cheese.",
+        "Spoon mixture into prepared peppers.",
+        "Arrange filled peppers on an ungreased baking pan.  Bake in a preheated 400 degrees F oven for 12 to 15 minutes or until lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4096&h=2145&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3298157.jpg",
+    "ingredients": [
+        "1 (19 ounce) package Johnsonville\u00ae Original Bratwurst, removed from casing*",
+        "1 (8 ounce) package cream cheese, softened",
+        "1\u2009\u2153 cups shredded Parmesan cheese",
+        "20 large jalapeno peppers, cut in half lengthwise, seeds removed**"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Johnsonville Cheesy Pepper Poppers",
     "url": "http://allrecipes.com/recipe/246355/johnsonville-cheesy-pepper-poppers/"
 }

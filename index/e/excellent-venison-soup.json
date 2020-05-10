@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown venison and onions in a large pot over medium heat. Mix in onion, parsnip, potatoes, carrots, rutabagas, tomatoes, bouillon, water, cabbage, bay leaf, oregano, salt and pepper. Bring to a boil, reduce heat to low and simmer 1 to 2 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/169524.jpg",
+    "ingredients": [
+        "2 pounds ground venison",
+        "1 onion, chopped",
+        "1 parsnip, sliced",
+        "3 potatoes, cubed",
+        "3 carrots, sliced",
+        "1/2 rutabagas, peeled and cubed",
+        "1 (16 ounce) can whole peeled tomatoes, with liquid",
+        "3 cubes beef bouillon cube",
+        "3 cups water",
+        "1/2 medium head cabbage, coarsely chopped",
+        "1 bay leaf",
+        "1/2 teaspoon dried oregano",
+        "1 teaspoon salt",
+        "1/2 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Excellent Venison Soup",
     "url": "http://allrecipes.com/recipe/13122/excellent-venison-soup/"
 }

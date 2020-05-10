@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk water, soy sauce, coconut milk, brown sugar, green onions, white onion, sesame oil, and garlic together in a large glass or ceramic bowl. Add chicken thighs and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator, 4 hours to overnight.",
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Remove chicken from marinade and discard the marinade.",
+        "Cook chicken on the preheated grill until no longer pink in the center and the juices run clear, 5 to 7 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6752546.jpg",
+    "ingredients": [
+        "3 pounds skinless, boneless chicken thighs, trimmed",
+        "2 cups water",
+        "2 cups low-sodium soy sauce",
+        "1 (13.5 ounce) can coconut milk",
+        "1\u2009\u00bd cups brown sugar",
+        "1 bunch green onions, chopped",
+        "\u00bc cup white onion, chopped",
+        "1 teaspoon sesame oil",
+        "\u00bd teaspoon minced garlic"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Hawaiian Chicken",
     "url": "http://allrecipes.com/recipe/237162/grilled-hawaiian-chicken/"
 }

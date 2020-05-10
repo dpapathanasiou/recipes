@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a large skillet over medium heat, heat olive oil.  Saute garlic and onions in oil until tender.  Stir in tomato paste, black pepper, cumin, thyme, tomato juice, water, ketchup and salt.  Reduce heat to low, and simmer 15 minutes.",
+        "While sauce is simmering, bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "Stir the cooked pasta into the sauce.  Stir in 1 cup of the shredded mozzarella.  Pour all into a 9x13 inch baking dish.  Top with the remaining mozzarella, sliced olives and bell pepper.",
+        "Bake in preheated oven 20 to 30 minutes, until hot and bubbly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F165157.jpg",
+    "ingredients": [
+        "1 pound spaghetti",
+        "\u00bc cup olive oil",
+        "2 cloves garlic, minced",
+        "3  onions, chopped",
+        "1 tablespoon tomato paste",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon ground cumin",
+        "1 teaspoon dried thyme",
+        "4  tomatoes, juiced",
+        "1 cup water",
+        "\u00bc cup ketchup",
+        "1 pinch salt",
+        "2 cups shredded mozzarella cheese, divided",
+        "1 (2 ounce) can black olives, drained",
+        "1  green bell pepper, sliced in rings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Spaghetti III",
     "url": "http://allrecipes.com/recipe/22152/baked-spaghetti-iii/"
 }

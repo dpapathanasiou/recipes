@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add the zucchini and cook uncovered until tender, about 5 minutes. Drain and cool. Process cooled zucchini in a blender until smooth; measure out 2 cups zucchini puree.",
+        "Stir the 2 cups zucchini puree, evaporated milk, sugar, eggs, vanilla extract, cornstarch, salt, cinnamon, and nutmeg together in a bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1126128.jpg",
+    "ingredients": [
+        "1 large zucchini, peeled and diced",
+        "1 (12 ounce) can evaporated milk",
+        "3/4 cup white sugar",
+        "3 eggs, beaten",
+        "1 tablespoon vanilla extract",
+        "1 tablespoon cornstarch, or more as needed",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten-Free Zucchini Pie Filling",
     "url": "http://allrecipes.com/recipe/237289/gluten-free-zucchini-pie-filling/"
 }

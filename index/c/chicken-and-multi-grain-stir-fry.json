@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare Multi-Grain Medley according to package directions, substituting broth for water. In a small bowl, whisk together eggs and sesame oil.",
+        "In a large skillet, heat \u00bd tablespoon olive oil over medium-low heat.",
+        "Quickly soft scramble eggs. Remove from skillet and keep warm.  Heat remaining olive oil over medium heat. Add garlic, onions, peas, broccoli, bell peppers and five spice powder and saut\u00e9 for 3 minutes.",
+        "Add chicken, Multi-Grain Medley and eggs; saut\u00e9 2 more minutes or until vegetables are crisp-tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5213615.jpg",
+    "ingredients": [
+        "1 bag Minute\u00ae Multi-Grain Medley, uncooked",
+        "1 cup chicken broth",
+        "2 large eggs, lightly beaten",
+        "\u00bd teaspoon sesame oil",
+        "2 tablespoons olive oil, divided",
+        "2 cloves garlic, chopped",
+        "\u00bd cup red onion, thinly sliced",
+        "\u00bd cup snap peas",
+        "\u00bd cup broccoli florets",
+        "\u00bd cup red bell pepper, sliced",
+        "\u00bd teaspoon Chinese five-spice powder (optional)",
+        "2 cups cooked chicken, shredded"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken and Multi-Grain Stir Fry",
     "url": "http://allrecipes.com/recipe/237721/chicken-and-multi-grain-stir-fry/"
 }

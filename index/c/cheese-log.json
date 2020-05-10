@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the cream cheese, dried beef, Worcestershire sauce, green onions, and monosodium glutamate; mix well, and refrigerate until chilled.",
+        "Mix together the chopped pecans and parsley. Roll cheese into log or ball, and roll in pecans and parsley to cover."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F56208.jpg",
+    "ingredients": [
+        "2 (8 ounce) packages cream cheese",
+        "1 (2 ounce) package dried beef, chopped",
+        "1\u2009\u00bd tablespoons Worcestershire sauce",
+        "4  green onions, chopped",
+        "1 pinch monosodium glutamate (MSG)",
+        "1 cup chopped pecans",
+        "\u00bc cup chopped parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheese Log",
     "url": "http://allrecipes.com/recipe/9509/cheese-log/"
 }

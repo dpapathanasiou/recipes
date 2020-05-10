@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 6 quarts water, black beans, bay leaves, salt, and pepper in a large saucepan. Bring to boil; simmer for 50 minutes.",
+        "Bring remaining 2 quarts water to boil in a large saucepan. Stir in dried beef, pork ribs, and pig's feet; simmer until flavors combine, about 25 minutes. Add smoked sausage, spicy sausage, large bacon pieces, pork belly, pig's ear, and pig's tails; simmer until meat mixture is softened, about 25 minutes.",
+        "Stir meat mixture to the bean mixture; simmer until flavors combine, about 45 minutes.",
+        "Heat vegetable oil in a large skillet over medium heat; add garlic. Cook until warmed through, about 45 seconds; transfer to bean mixture. Add small bacon pieces to the skillet; cook and stir until lightly golden, about 2 minutes. Stir in onion; cook until onion is soft and browned, about 5 minutes. Stir in parsley.",
+        "Stir the onion mixture into the bean mixture; simmer until tender, about 25 minutes. Transfer meat mixture to a serving dish. Pour beans into a separate serving dish."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1920&h=1005&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4130102.jpg",
+    "ingredients": [
+        "8 quarts water, divided",
+        "2 pounds dried black beans, rinsed",
+        "4  bay leaves",
+        "salt and ground black pepper to taste",
+        "1 pound dried beef, cut into pieces",
+        "\u00bd pound smoked pork ribs",
+        "2  unsalted pig's feet",
+        "1  smoked sausage, cut into pieces",
+        "1 pound spicy sausage, cut into pieces",
+        "\u00bd pound bacon, cut into large pieces",
+        "\u00bc pound pork belly, cut in half",
+        "1  unsalted pig's ear, cut into thirds",
+        "2  unsalted pig's tails",
+        "2 tablespoons vegetable oil",
+        "4 cloves garlic, chopped",
+        "\u00bd pound bacon, cut into small pieces",
+        "2  onions, chopped",
+        "2 bunches fresh parsley, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Feijoada de Domingo (Sunday Bean Stew)",
     "url": "http://allrecipes.com/recipe/254723/feijoada-de-domingo-sunday-bean-stew/"
 }

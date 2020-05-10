@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Heat olive oil in a skillet over medium heat; cook and stir onion, bell pepper, garlic, and oregano in the hot oil until softened, 5 to 10 minutes. Remove skillet from heat.",
+        "Pour water into a pot and bring to a boil; add polenta and a pinch of salt. Whisk and cook polenta until thickened, 3 to 5 minutes. Remove from heat.",
+        "Spread and flatten polenta into a 9-inch pie plate, forming a crust. Cool to room temperature.",
+        "Layer diced tomatoes into the cooled crust; top with onion mixture. Sprinkle Parmesan cheese over filling.",
+        "Bake in the preheated oven until cheese is melted, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2970&h=1555&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F974095.jpg",
+    "ingredients": [
+        "1 tablespoon lemon-infused olive oil",
+        "\u2153 cup diced sweet onion",
+        "\u2153 cup diced green bell pepper",
+        "2 cloves garlic, chopped",
+        "2 sprigs fresh oregano, leaves stripped and finely chopped",
+        "2\u2009\u00bc cups water",
+        "\u00bd cup instant polenta",
+        "1 pinch salt",
+        "1 cup canned dice tomatoes, mostly drained",
+        "\u2153 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetarian Polenta Pie",
     "url": "http://allrecipes.com/recipe/231246/vegetarian-polenta-pie/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, mix together the artichoke hearts, mayonnaise, Parmesan cheese and chile peppers. Transfer the mixture to a 9x9 inch baking dish.",
+        "Bake in the preheated oven 20 to 25 minutes, or until lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F871790.jpg",
+    "ingredients": [
+        "2 (6.5 ounce) jars marinated artichoke hearts, drained and chopped",
+        "1 cup mayonnaise",
+        "1 cup grated Parmesan cheese",
+        "1 (4 ounce) can diced green chile peppers, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Artichoke Dip II",
     "url": "http://allrecipes.com/recipe/21586/artichoke-dip-ii/"
 }

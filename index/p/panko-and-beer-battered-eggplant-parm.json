@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggplant on paper towels; cover with 1 teaspoon salt. Let sit until moisture is drawn out, 10 to 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Heat canola oil in a deep fry pan over medium heat.",
+        "Heat olive oil in a skillet over medium heat; add the leek. Cook and stir until leek is slightly translucent, about 5 minutes. Stir in spinach; cook until slightly wilted, 3 to 5 minutes. Add garlic; cook and stir until spinach is fully wilted, about 3 minutes. Remove from heat.",
+        "Combine panko, Parmesan cheese, and parsley in a bowl. Whisk flour, paprika, salt, and pepper together in a separate bowl; pour in beer. Whisk until batter is loose, adding more beer if batter is too thick. Dredge eggplant in the batter, allowing excess to run off; coat in panko mixture.",
+        "Drop 1 pinch of panko into the canola oil to test the heat. It should bubble up without splattering out. Fry battered eggplant for 30 seconds; flip. Fry until golden brown, about 30 seconds. Place on a paper towel to drain.",
+        "Combine spinach mixture, ricotta cheese, salt, and pepper in a bowl; spread an even amount onto 4 of the fried eggplant slices. Sprinkle with mozzarella cheese; cover with a second slice of fried eggplant. Top with mozzarella cheese. Place onto a baking sheet.",
+        "Bake in the preheated oven until cheese is golden brown, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4564861.jpg",
+    "ingredients": [
+        "8 (1/4 inch thick) slices eggplant rounds",
+        "1 teaspoon salt",
+        "1 1/2 cups canola oil",
+        "1 tablespoon olive oil",
+        "1 leeks, chopped",
+        "6 ounces fresh spinach",
+        "1 clove garlic",
+        "1 cup panko bread crumbs",
+        "1/2 cup grated Parmesan cheese",
+        "1 tablespoon chopped fresh parsley",
+        "1/2 cup whole wheat flour",
+        "1 teaspoon paprika",
+        "salt and ground black pepper to taste",
+        "6 fluid ounces beer",
+        "1 cup ricotta cheese",
+        "2 cups shredded mozzarella cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Panko and Beer Battered Eggplant Parmesan Stacks",
     "url": "http://allrecipes.com/recipe/254981/panko-and-beer-battered-eggplant-parm/"
 }

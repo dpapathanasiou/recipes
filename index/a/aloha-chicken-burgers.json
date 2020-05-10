@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken breasts into a plastic zipper bag with soy sauce, seal the bag, and marinate in refrigerator for 30 minutes. While chicken is marinating, place the bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate, and set aside. Spread cut sides of hamburger buns with butter.",
+        "Preheat an outdoor grill for medium heat, and lightly oil the grate.",
+        "Remove the chicken from the soy sauce, and discard the excess soy sauce. Place the chicken breasts onto the preheated grill, and grill until chicken shows good grill marks, is no longer pink inside, and the juices run clear, 4 to 5 minutes per side. When chicken is almost done, brush each piece generously on both sides with teriyaki sauce to finish grilling.  Place a slice of Swiss cheese on each chicken breast, and cover with a lid to help the cheese melt onto the chicken.",
+        "While chicken is grilling, spread the buns open on the grill and cook until toasted and showing grill lines, about 2 minutes. Set the buns aside.",
+        "To assemble, spread the grilled sides of each bun with mayonnaise, and top each bottom bun with a cooked chicken breast, 1 1/2 slices of bacon, a slice of pineapple, a slice from a head of lettuce, a slice of tomato, and the top bun."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2  skinless, boneless chicken breast halves",
+        "\u00bc cup soy sauce",
+        "3 slices thick cut bacon",
+        "2  large hamburger buns, split",
+        "1 tablespoon softened butter",
+        "\u00bc cup teriyaki sauce",
+        "2 slices Swiss cheese",
+        "2 tablespoons mayonnaise",
+        "2 slices pineapple",
+        "2 slices tomato",
+        "2  slices of iceberg lettuce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aloha Chicken Burgers",
     "url": "http://allrecipes.com/recipe/214553/aloha-chicken-burgers/"
 }

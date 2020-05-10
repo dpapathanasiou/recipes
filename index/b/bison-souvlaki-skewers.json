@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut bison skirt steak across the grain into 1-inch wide strips. Place bison strips in a resealable plastic bag set in a shallow bowl.",
+        "For marinade, combine oil, lemon juice, lemon zest, the 3 cloves garlic, the 1 teaspoon salt, the oregano, and the 1/4 teaspoon pepper in a small bowl. Pour marinade over bison strips. Seal bag; turn to coat bison strips. Marinate in the refrigerator for 2 to 4 hours, turning bag occasionally.",
+        "Drain bison strips; discard marinade. Thread bison strips accordion-style onto skewers, trimming as necessary.",
+        "For a charcoal or gas grill, place bison skewers on the rack of a covered grill directly over medium heat. Grill for 4 to 6 minutes, turning once halfway through grilling. (Or place skewers on the unheated rack of a broiler pan. Broil for 3 to 4 inches from the heat for 5 to 7 minutes, turning once.) Serve with Yogurt-Cucumber Sauce.",
+        "Yogurt-Cucumber Sauce: Combine yogurt, cucumber, green onion, the 2 cloves minced garlic, the 1/2 teaspoon salt, and the 1/8 teaspoon pepper in a small bowl. Cover and chill until ready to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037642.jpg",
+    "ingredients": [
+        "1 1/2 pounds bison skirt steak",
+        "3 tablespoons olive oil",
+        "3 tablespoons lemon juice",
+        "3 teaspoons finely shredded lemon zest",
+        "3 cloves garlic, minced",
+        "1 teaspoon salt",
+        "1/2 teaspoon dried oregano",
+        "1/4 teaspoon black pepper",
+        "25 to 30 6- to 8-inch skewers*",
+        "Yogurt-Cucumber Sauce:",
+        "2 cups plain Greek yogurt",
+        "1 cup peeled, seeded, and diced cucumber",
+        "2 tablespoons thinly sliced green onion",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon salt",
+        "1/8 teaspoon black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bison Souvlaki Skewers",
     "url": "http://allrecipes.com/recipe/233860/bison-souvlaki-skewers/"
 }

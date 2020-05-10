@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 450 degrees F (230 degrees C). Grease a large baking sheet.",
+        "Sift the flour, salt and baking powder into a large bowl. Cut in butter using a pastry blender, or pinching between your fingers, until the mixture resembles coarse crumbs. In a cup or small bowl, whisk together the egg and sour cream. Mix into the dry ingredients a little at a time until a moist soft dough is achieved.",
+        "Place the dough on a floured surface, and shape into a slab about 3/4 inch thick and 4 inches wide. Cut the slab crosswise into 5 pieces. Place the pieces about 2 inches apart on the prepared baking sheet.",
+        "Bake for 20 minutes in the preheated oven, until well risen and light brown. Remove from the oven, and allow to cool. Slice each piece in half lengthwise, and return to the baking sheet. Turn off the oven.  Return rusks to the warm oven to dry out, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6296689.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "\u00bd teaspoon salt",
+        "2 teaspoons baking powder",
+        "\u2153 cup butter, softened",
+        "1  egg, beaten",
+        "5 tablespoons sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Cake Rusks",
     "url": "http://allrecipes.com/recipe/69683/swedish-cake-rusks/"
 }

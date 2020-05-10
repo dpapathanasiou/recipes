@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease or line 24 muffin cups.",
+        "In a large bowl, cream together butter and 1 1/2 cup sugar. Beat in eggs and vanilla. Combine flour, baking powder, baking soda and salt. Stir into the creamed mixture alternately with sour cream. Fold in apple pie filling and walnuts. Spoon batter into prepared muffin cups. Combine 1/4 cup sugar and cinnamon; sprinkle over the muffins.",
+        "Bake in preheated oven for 16 to 18 minutes, until a toothpick inserted into the center of a muffin comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1152&h=603&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2610393.jpg",
+    "ingredients": [
+        "\u00be cup butter",
+        "1\u2009\u00bd cups white sugar",
+        "3  eggs",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "3\u2009\u00bd cups all-purpose flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "1\u2009\u00bd teaspoons baking soda",
+        "\u00be teaspoon salt",
+        "1\u2009\u00bd cups sour cream",
+        "1 (21 ounce) can apple pie filling",
+        "1 cup chopped walnuts",
+        "\u00bc cup white sugar",
+        "\u00bd teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Nut Muffins",
     "url": "http://allrecipes.com/recipe/18506/apple-nut-muffins/"
 }

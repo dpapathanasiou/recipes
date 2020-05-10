@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Season lamb generously with salt and black pepper. Heat oil over medium-high heat in an oven-proof skillet. Sear lamb on all sides until well browned, 3 to 5 minutes per side. Turn off heat. Remove lamb to a platter.",
+        "Mix together Dijon mustard, rosemary, cinnamon, and cumin in a small bowl. Spread a thin layer of the mustard mixture on each rack of lamb.",
+        "Place chopped shallots and pinch of salt into the same skillet. Cook and stir over medium-heat until shallots begin to lose moisture and become browned and soft, about 5 minutes. Add blueberries and continue cooking for about 2 minutes. Stir in red wine, turn off heat, and stir mixture to deglaze the pan.",
+        "Place the racks of lamb into the skillet and interlace the rib bones together to push the lamb racks close together, leaving a lamb bone \"zipper\" in the center. Place the lamb racks into the center of the skillet. Season with a pinch of black pepper.",
+        "Place skillet in pre-heated oven and roast lamb until internal temperature reaches 125 degrees F (52 degrees C) for medium-rare, about 20 minutes.",
+        "Remove lamb to a cutting board to rest about 5 minutes.",
+        "Drizzle balsamic vinegar into the blueberry sauce; add a pinch of salt. Turn heat to medium-high and bring to a simmer to reduce sauce by half, about 4 minutes. Turn off heat and stir in butter. When butter is melted, check seasonings and add more salt if needed.",
+        "Slice racks into pieces of 2 ribs each. Serve topped with a spoonful of the blueberry sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 (8 bone) racks of lamb, fully trimmed",
+        "salt and ground black pepper to taste",
+        "1 tablespoon vegetable oil",
+        "2 teaspoons Dijon mustard",
+        "1 teaspoon minced fresh rosemary",
+        "\u215b teaspoon ground cinnamon",
+        "\u215b teaspoon ground cumin",
+        "\u2153 cup sliced shallot",
+        "1 pinch salt",
+        "1 cup fresh blueberries",
+        "1 cup dry red wine",
+        "1 pinch ground black pepper",
+        "1 tablespoon balsamic vinegar",
+        "1 tablespoon butter, or more as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rack of Lamb with Blueberry Sauce",
     "url": "http://allrecipes.com/recipe/232474/rack-of-lamb-with-blueberry-sauce/"
 }

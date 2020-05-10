@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place beets in a saucepan with enough water to cover. Bring to boil, cover, reduce heat and simmer for 20 minutes or until tender. Drain water, and allow beets to cool. Peel and dice.",
+        "Meanwhile, pour olive oil, red rice, water, and 1 teaspoon salt into a saucepan; place over medium heat. Bring to a boil; reduce heat to medium low, cover, and simmer gently until the rice is tender and all the water has been absorbed. Remove saucepan from heat, and let rice cool to room temperature.",
+        "In a large bowl, mix together beets,  kidney beans, bell pepper, onion, radishes, and chives. Season with salt and pepper.",
+        "In a medium bowl, whisk together horseradish, mustard, and sugar until well combined. Whisk in red wine vinegar and oil until smooth.",
+        "With a fork, fluff rice. Stir into vegetables, and mix with dressing. Cover, refrigerate about 1 hour. Spoon into a large, shallow serving bowl, and garnish with fresh chives."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1222457.jpg",
+    "ingredients": [
+        "2 small beets",
+        "1 tablespoon olive oil",
+        "8 ounces red rice",
+        "2 1/2 cups water",
+        "1 teaspoon salt",
+        "1 (14.5 ounce) can kidney beans, drained and rinsed",
+        "1 small red bell pepper, seeded and diced",
+        "1 small red onion, finely chopped",
+        "7 red radishes, thinly sliced",
+        "2 1/2 tablespoons chopped fresh chives",
+        "salt and pepper to taste",
+        "Dressing:",
+        "2 tablespoons horseradish",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon sugar",
+        "1/4 cup red wine vinegar",
+        "1/2 cup extra virgin olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Red Rice Salad",
     "url": "http://allrecipes.com/recipe/86935/red-rice-salad/"
 }

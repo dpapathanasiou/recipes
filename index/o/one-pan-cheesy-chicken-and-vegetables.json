@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil over medium-high heat in a non-stick skillet. Add chicken; cook and stir until cooked through (no longer pink in the center). Transfer chicken to a bowl.",
+        "Stir diced onion, carrot, and celery into the pan; cook, stirring occasionally until vegetables start to soften, about 5 minutes. Season with salt and pepper. Stir in water and Knorr\u00ae Rice Sides\u2122 - Chicken flavor. Bring to a simmer over high heat; reduce to medium-low; cover and simmer 7 minutes.",
+        "Stir in cooked chicken, basil, and shredded Cheddar cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7430114.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 pound skinless, boneless chicken thighs, cut into strips",
+        "1 medium onion, finely diced",
+        "2 medium carrots, peeled and diced",
+        "2 stalks celery, diced",
+        "1 (5.6 ounce) package Knorr\u00ae Rice Sides\u2122 - Chicken",
+        "2 cups water",
+        "1\u2009\u00bd teaspoons dried basil",
+        "\u00be cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "One Pan Cheesy Chicken and Vegetables",
     "url": "http://allrecipes.com/recipe/247309/one-pan-cheesy-chicken-and-vegetables/"
 }

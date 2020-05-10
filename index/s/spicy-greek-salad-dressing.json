@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix yogurt, lemon juice, and garlic together in a bowl. Slowly pour olive oil in a fine stream into yogurt mixture while constantly mixing with a whisk or in a food processor. Whisk Sriracha hot sauce into yogurt mixture; fold in feta cheese. Season dressing with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1762&h=923&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3431817.jpg",
+    "ingredients": [
+        "\u00bc cup plain Greek yogurt",
+        "\u00bd  lemon, juiced",
+        "1 clove garlic, minced",
+        "\u00bc cup olive oil",
+        "1 teaspoon Sriracha hot sauce, or more to taste",
+        "\u00bd cup crumbled feta cheese",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Greek Salad Dressing",
     "url": "http://allrecipes.com/recipe/241438/spicy-greek-salad-dressing/"
 }

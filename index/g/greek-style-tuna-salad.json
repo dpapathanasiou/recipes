@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the tuna, onion, salad dressing, olives, and feta cheese together in a bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/565399.jpg",
+    "ingredients": [
+        "1 (5 ounce) can chunk light tuna in water, drained",
+        "1 tablespoon chopped red onion",
+        "2 teaspoons prepared Greek vinaigrette salad dressing (such as Kraft\u00ae)",
+        "3 pitted Kalamata olives, chopped",
+        "1 tablespoon crumbled feta cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Greek-Style Tuna Salad",
     "url": "http://allrecipes.com/recipe/215899/greek-style-tuna-salad/"
 }

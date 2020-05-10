@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Prepare oranges by cutting tops off, 1/4 to 1/2 inch down.  Spoon out the flesh, leaving a shell.",
+        "In a large bowl combine sweet potatoes, sugar, orange juice, eggs, vanilla extract, 1/2 cup butter and grated orange peel.  Spoon mixture into orange shells.  Place in a deep casserole dish.",
+        "In a small saucepan over medium heat, combine remaining 1/2 cup butter, brown sugar, flour and pecans.  Cook until sugar dissolves in melted butter.  Spoon over oranges.  Fill casserole dish with water to reach 1/2 inch in depth.",
+        "Bake in preheated oven for 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2536&h=1328&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2303.jpg",
+    "ingredients": [
+        "6  oranges",
+        "3 cups cooked, mashed sweet potatoes",
+        "1 cup white sugar",
+        "\u00bc cup orange juice",
+        "2  eggs, lightly beaten",
+        "1 teaspoon vanilla extract",
+        "1 cup butter, softened, divided",
+        "1 tablespoon grated orange peel",
+        "1 cup brown sugar",
+        "\u00bd teaspoon all-purpose flour",
+        "1 cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Potato Oranges",
     "url": "http://allrecipes.com/recipe/23719/sweet-potato-oranges/"
 }

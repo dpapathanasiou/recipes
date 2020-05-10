@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine the margarine, sugars, eggs and vanilla. Stir in the flour baking soda, baking powder, raisin bran, oats, raisins, coconut, chopped nuts and chocolate chips. Mix until well combined. Drop large tablespoon sized scoops onto a baking sheet. Bake until golden approximately 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3096&h=1621&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1762447.jpg",
+    "ingredients": [
+        "2 cups margarine, melted",
+        "2 cups packed brown sugar",
+        "2 cups white sugar",
+        "2 cups raisin bran cereal",
+        "2 cups raisins",
+        "4 cups all-purpose flour",
+        "1 cup shredded coconut",
+        "1 cup chopped walnuts",
+        "4  eggs",
+        "2 cups rolled oats",
+        "2 teaspoons vanilla extract",
+        "2 teaspoons baking powder",
+        "2 teaspoons baking soda",
+        "1 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buffalo Chip Cookies",
     "url": "http://allrecipes.com/recipe/11090/buffalo-chip-cookies/"
 }

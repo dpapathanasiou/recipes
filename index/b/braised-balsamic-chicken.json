@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season both sides of chicken breasts with garlic salt and pepper.",
+        "Heat olive oil in a skillet over medium heat; cook seasoned chicken breasts until chicken is browned, 3 to 4 minutes per side. Add onion; cook and stir until onion is browned, 3 to 4 minutes.",
+        "Pour diced tomatoes and balsamic vinegar over chicken; season with basil, oregano, rosemary and thyme. Simmer until chicken is no longer pink and the juices run clear, about 15 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "6  skinless, boneless chicken breast halves",
+        "1 teaspoon garlic salt",
+        "ground black pepper to taste",
+        "2 tablespoons olive oil",
+        "1  onion, thinly sliced",
+        "1 (14.5 ounce) can diced tomatoes",
+        "\u00bd cup balsamic vinegar",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried rosemary",
+        "\u00bd teaspoon dried thyme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Braised Balsamic Chicken",
     "url": "http://allrecipes.com/recipe/8665/braised-balsamic-chicken/"
 }

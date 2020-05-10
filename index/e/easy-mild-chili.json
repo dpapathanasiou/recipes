@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef, sausage, and onion in the hot skillet until beef and sausage are completely browned, 7 to 10 minutes; drain and discard grease.",
+        "Stir stewed tomatoes, tomato sauce, light red kidney beans, dark red kidney beans, mild salsa, chili seasoning mix, and garlic powder into the beef mixture; bring to a boil, reduce heat to medium-low, and cook at a simmer until the flavors meld, 90 minutes to 2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6705479.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 pound ground sausage",
+        "1  yellow onion, chopped",
+        "2 (14.5 ounce) cans stewed tomatoes",
+        "1 (15 ounce) can tomato sauce",
+        "1 (15 ounce) can light red kidney beans, drained and rinsed",
+        "1 (15 ounce) can dark red kidney beans, drained and rinsed",
+        "1 (8 ounce) jar mild salsa",
+        "\u00bc cup chili seasoning mix",
+        "\u00bd teaspoon garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Mild Chili",
     "url": "http://allrecipes.com/recipe/231427/easy-mild-chili/"
 }

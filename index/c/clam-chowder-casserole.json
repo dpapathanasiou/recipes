@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Place macaroni in the pot, cook for 8 to 10 minutes, until al dente, and drain.",
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "In a large bowl, mix the cooked macaroni, 1 1/2 cups Cheddar cheese, potato soup, clams with juice, eggs, green onions, onion, Worcestershire sauce, lemon juice, and pepper. Transfer to a large casserole dish, and top with remaining cheese.",
+        "Bake 30 minutes in the preheated oven, until cheese is melted and bubbly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1365987.jpg",
+    "ingredients": [
+        "1 (8 ounce) package uncooked elbow macaroni",
+        "2 cups shredded sharp Cheddar cheese",
+        "2 (10.75 ounce) cans condensed cream of potato soup",
+        "3 (6.5 ounce) cans chopped clams with juice",
+        "2  eggs, beaten",
+        "1  green onions, diced",
+        "\u00bc cup diced onion",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon fresh lemon juice",
+        "1 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Clam Chowder Casserole",
     "url": "http://allrecipes.com/recipe/76513/clam-chowder-casserole/"
 }

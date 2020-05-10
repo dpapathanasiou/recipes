@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Spread rhubarb into a 1 1/2-quart casserole dish to cover the bottom completely. Sprinkle white sugar evenly over the rhubarb.",
+        "Mix flour, brown sugar, ginger, and cinnamon together in a large bowl. Blend butter into the sugar mixture with a pastry cutter until the mixture forms crumbs the size of a small pea; spread over the rhubarb.",
+        "Bake in preheated oven until the top is lightly browned, about 30 minutes. Cool crisp before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1195463.jpg",
+    "ingredients": [
+        "6 cups diced (1/2 inch) rhubarb",
+        "1 1/2 cups white sugar",
+        "1 cup all-purpose flour",
+        "1/2 cup brown sugar",
+        "2 teaspoons ground ginger",
+        "1 teaspoon ground cinnamon",
+        "1/4 cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ginger-Spiced Rhubarb Crisp",
     "url": "http://allrecipes.com/recipe/238058/ginger-spiced-rhubarb-crisp/"
 }

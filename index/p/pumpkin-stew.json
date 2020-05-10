@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 2 tablespoons oil in a large saucepan over medium-high heat. Place beef in the saucepan and cook until evenly brown. Mix in the water, potatoes, carrots, green bell pepper, garlic, onion, salt and pepper. Bring to a boil. Reduce heat and simmer approximately 2 hours.",
+        "Dissolve the bouillon into the beef mixture. Stir in the tomatoes.",
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Cut top off the pumpkin and remove seeds and pulp. Place the pumpkin in a heavy baking pan. Fill the pumpkin with the beef mixture. Brush outside of the pumpkin with remaining oil.",
+        "Bake in the preheated oven 2 hours, or until tender. Serve the stew from the pumpkin, scraping out some of the pumpkin meat with each serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4481020.jpg",
+    "ingredients": [
+        "2 pounds beef stew meat, cut into 1 inch cubes",
+        "3 tablespoons vegetable oil, divided",
+        "1 cup water",
+        "3 large potatoes, peeled and cubed",
+        "4  carrots, sliced",
+        "1 large green bell pepper, chopped",
+        "4 cloves garlic, minced",
+        "1  onion, chopped",
+        "2 teaspoons salt",
+        "\u00bd teaspoon ground black pepper",
+        "1 (14.5 ounce) can whole peeled tomatoes, chopped",
+        "2 tablespoons beef bouillon granules",
+        "1  sugar pumpkin"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Stew",
     "url": "http://allrecipes.com/recipe/22925/pumpkin-stew/"
 }

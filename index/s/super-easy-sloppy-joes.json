@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Crumble the ground beef into a large pot or Dutch oven over medium-high heat. Cook, stirring frequently until evenly browned. Drain off grease. Add the onion and celery, and cook until the onion is tender, about 3 minutes.",
+        "Reduce heat to medium and pour in the chili sauce. Stir in the vinegar and sugar. Add mustard if using. Simmer until the mixture is your desired thickness. Serve on buns."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 pounds ground beef",
+        "1 cup chopped yellow onion",
+        "1 cup finely chopped celery",
+        "1 (12 ounce) bottle tomato-based chili sauce",
+        "\u00bc cup apple cider vinegar",
+        "\u00bc cup packed brown sugar",
+        "1 teaspoon prepared yellow mustard (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Super Easy Sloppy Joes",
     "url": "http://allrecipes.com/recipe/75543/super-easy-sloppy-joes/"
 }

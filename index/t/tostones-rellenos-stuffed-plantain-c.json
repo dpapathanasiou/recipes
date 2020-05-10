@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat canola oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).",
+        "Fry the plantains in the preheated oil until golden, but not brown, 5 to 7 minutes. Smash each piece of plantain in a tostonero or with the bottom of a small dish to make a small disk, then shape the disk into a small cup. Return the plantain cups to the hot oil, and fry until golden and crisp, 5 to 7 minutes more. Season with garlic salt. Set aside.",
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Heat a large skillet over medium-high heat and stir in the ground beef. Season with salt. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease. Stir in the sofrito, tomato sauce, water, sazon seasoning, and olives. Reduce heat to medium-low, then simmer until liquid is reduced, about 15 minutes.",
+        "Fill the plantain cups with the beef mixture and top with Cheddar cheese. Arrange the cups on a baking sheet.",
+        "Bake in the preheated oven until the cheese is melted, 5 to 8 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2252660.jpg",
+    "ingredients": [
+        "3 cups canola oil for frying",
+        "2 green plantains, peeled and sliced crosswise into fourths",
+        "2 teaspoons garlic salt",
+        "1 pound lean ground beef",
+        "3/4 teaspoon salt",
+        "1/2 cup sofrito",
+        "1/2 cup tomato sauce",
+        "1/4 cup water",
+        "1 (1.41 ounce) package sazon seasoning",
+        "5 pitted green olives, chopped",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tostones Rellenos (Stuffed Plantain Cups)",
     "url": "http://allrecipes.com/recipe/217982/tostones-rellenos-stuffed-plantain-c/"
 }

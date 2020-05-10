@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook and stir ground beef, onions, bell peppers, garlic, chili seasoning, chili powder, ground cumin, onion powder, and garlic powder in a large pot over medium-high heat until meat is browned, 10 to 15 minutes.",
+        "Stir diced tomatoes, crushed tomatoes, stewed tomatoes, navy beans, chili beans, pinto beans, kidney beans, black beans, and black-eyed peas into beef mixture; bring to a boil, reduce heat, and simmer until flavors blend and chili is warmed through, at least 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7437402.jpg",
+    "ingredients": [
+        "2 pounds ground beef",
+        "2  onions, diced",
+        "2  green bell peppers, diced",
+        "3 cloves garlic, minced",
+        "2 (1.25 ounce) packages chili seasoning mix",
+        "1\u2009\u00bd tablespoons chili powder",
+        "1\u2009\u00bd tablespoons ground cumin",
+        "1\u2009\u00bd teaspoons onion powder",
+        "1\u2009\u00bd teaspoons garlic powder",
+        "4 (14.5 ounce) cans diced tomatoes",
+        "2 (28 ounce) cans crushed tomatoes",
+        "3 (14.5 ounce) cans stewed tomatoes",
+        "2 (16 ounce) cans navy beans, drained and rinsed",
+        "3 (16 ounce) cans seasoned chili beans, undrained",
+        "2 (15 ounce) cans pinto beans, drained and rinsed",
+        "2 (15 ounce) cans red kidney beans, drained and rinsed",
+        "2 (15 ounce) cans black beans, drained and rinsed",
+        "2 (15 ounce) cans black-eyed peas, drained and rinsed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Herd's Tailgate Chili",
     "url": "http://allrecipes.com/recipe/234467/the-herds-tailgate-chili/"
 }

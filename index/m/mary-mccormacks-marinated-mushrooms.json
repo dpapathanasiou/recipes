@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the garlic salt, seasoned salt, vinegar and olive oil. Pour over mushrooms and allow to marinate for 24 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6172891.jpg",
+    "ingredients": [
+        "1\u2009\u00bd teaspoons garlic salt",
+        "1\u2009\u00bd teaspoons seasoning salt",
+        "\u00bc cup distilled white vinegar",
+        "\u00bd cup olive oil",
+        "2 (8 ounce) cans mushrooms, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mary McCormack's Marinated Mushrooms",
     "url": "http://allrecipes.com/recipe/15845/mary-mccormacks-marinated-mushrooms/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Bake crust for 15 minutes, or until golden brown. Set aside to cool.",
+        "In a medium saucepan, whisk together milk, coconut milk and 1 cup sugar. In a separate bowl, dissolve the cornstarch in water. Bring coconut mixture to a boil. Reduce to simmer and slowly whisk in the cornstarch. Continue stirring mixture over low heat until thickened, about 3 minutes.",
+        "In a glass bowl, microwave chocolate chips for 1 minute or until melted.  Divide the coconut pudding evenly into two bowls. Mix chocolate into one portion. Spread on the bottom of the pie crust. Pour the remaining portion of pudding on top of the chocolate and spread smooth. Refrigerate for about an hour.",
+        "Whip cream with 1/4 cup sugar until stiff peaks form. Layer the cream on pie; if desired garnish with chocolate shavings."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F675769.jpg",
+    "ingredients": [
+        "1 (9 inch) unbaked pie crust",
+        "1 cup milk",
+        "1 (14 ounce) can coconut milk",
+        "1 cup white sugar",
+        "1 cup water",
+        "\u00bd cup cornstarch",
+        "1\u2009\u00bc cups semi-sweet chocolate chips",
+        "1\u2009\u00bd cups heavy cream",
+        "\u00bc cup white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coconut (Haupia) and Chocolate Pie",
     "url": "http://allrecipes.com/recipe/18374/coconut-haupia-and-chocolate-pie/"
 }

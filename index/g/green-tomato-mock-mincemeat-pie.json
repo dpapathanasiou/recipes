@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine tomatoes, apples, brown sugar, raisins, vinegar, butter, cinnamon, salt, nutmeg, and cloves together in a large saucepan; cook and stir over medium-low heat until bubbling and slightly reduced in volume, about 25 minutes. Remove saucepan from heat and cool slightly, about 15 minutes.",
+        "Preheat oven to 450 degrees F (230 degrees C). Press 1 pie crust into a 9-inch pie dish.",
+        "Pour green tomato filling into the pie crust; top with the second pie crust, crimping the edges together to seal.",
+        "Bake in the preheated oven for 15 minutes. Decrease oven temperature to 375 degrees F (190 degrees C) and continue baking until golden brown, 20 to 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4585575.jpg",
+    "ingredients": [
+        "2 cups chopped green tomato",
+        "2 cups peeled and chopped tart green apples",
+        "1 cup firmly packed brown sugar",
+        "\u00bd cup chopped raisins",
+        "3 tablespoons cider vinegar",
+        "1 tablespoon butter",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bc teaspoon ground cloves",
+        "1  pastry for a 9-inch double-crust pie"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Tomato Mock Mincemeat Pie",
     "url": "http://allrecipes.com/recipe/238380/green-tomato-mock-mincemeat-pie/"
 }

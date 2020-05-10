@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour olive oil into blender and add red wine vinegar, garlic, thyme, rosemary, oregano, and red pepper flakes. Blend until garlic marinade is smooth and creamy.",
+        "Cut several deep slashes into the meat of each chicken piece using a sharp knife. Place chicken into a large bowl, pour marinade over chicken, and stir to get marinade into the cuts and all over the chicken. Cover bowl with plastic wrap and refrigerate overnight.",
+        "Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil. Lightly grease the foil with 1 teaspoon olive oil.",
+        "Arrange chicken pieces onto the prepared baking sheet and season both sides of chicken with salt and black pepper.",
+        "Bake in the preheated oven until an instant-read meat thermometer inserted into the thickest piece of chicken reads 160 degrees F (70 degrees C), 40 to 45 minutes. Top with chopped Italian parsley."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u2154 cup olive oil",
+        "\u00bc cup red wine vinegar",
+        "20 cloves garlic",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried rosemary",
+        "1 teaspoon dried oregano",
+        "\u00bd teaspoon red pepper flakes",
+        "1  large whole chicken, cut into 6 serving pieces",
+        "1 teaspoon olive oil, or as needed",
+        "1 pinch salt and freshly ground black pepper to taste",
+        "2 tablespoons chopped fresh Italian parsley (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken with 20 Cloves of Garlic",
     "url": "http://allrecipes.com/recipe/234915/chicken-with-20-cloves-of-garlic/"
 }

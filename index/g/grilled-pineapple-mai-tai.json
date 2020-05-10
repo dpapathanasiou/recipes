@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Place sugar in a shallow bowl. Dip lime halves in sugar to coat.\n                                    Watch Now",
+        "Grill lime and pineapple wedges, turning occasionally, until lightly browned, 5 to 10 minutes. Remove from grill and let cool.\n                                    Watch Now",
+        "Fill a cocktail shaker and Old Fashioned glass with ice.",
+        "Squeeze 1/2 fluid ounce lime juice and 1 fluid ounce pineapple juice into the shaker. Add gold rum, silver rum, triple sec, and orgeat syrup. Cover and shake until the outside of shaker has frosted. Strain into the glass and garnish with a grilled pineapple wedge.\n                                    Watch Now"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3708595.jpg",
+    "ingredients": [
+        "1/4 cup white sugar",
+        "1 lime, halved, or more to taste",
+        "1/4 pineapple, cut into wedges",
+        "ice",
+        "1 fluid ounce gold rum",
+        "1/2 fluid ounce silver rum",
+        "1/2 fluid ounce triple sec",
+        "1/2 fluid ounce orgeat almond syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Pineapple Mai Tai",
     "url": "http://allrecipes.com/recipe/254444/grilled-pineapple-mai-tai/"
 }

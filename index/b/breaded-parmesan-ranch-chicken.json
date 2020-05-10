@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+        "Combine corn flakes, Parmesan cheese, and ranch dressing mix in a bowl. Dip chicken in melted butter; roll each chicken breast in corn flake mixture until evenly coated. Place coated chicken in the prepared baking dish.",
+        "Bake in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 45 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00be cup crushed corn flakes",
+        "\u00be cup grated Parmesan cheese",
+        "1 (1 ounce) envelope ranch salad dressing mix",
+        "8 (4 ounce) skinless, boneless chicken breast halves",
+        "\u00bd cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breaded Parmesan Ranch Chicken",
     "url": "http://allrecipes.com/recipe/229099/breaded-parmesan-ranch-chicken/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef, onion, red bell pepper, mushrooms, salt, and chili powder together in the hot skillet until the beef is completely browned, 7 to 10 minutes; drain and discard grease.",
+        "Spread spinach leaves into a salad bowl; top with beef mixture. Add black beans and chopped tomato."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3584211.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "\u00bd cup chopped onion",
+        "\u00bd cup chopped red bell pepper",
+        "\u00bd cup chopped mushrooms",
+        "1 teaspoon salt",
+        "1 teaspoon chili powder",
+        "1 (10 ounce) package spinach leaves",
+        "1 (15 ounce) can black beans, drained",
+        "1 large tomato, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Taco Salad with Spinach",
     "url": "http://allrecipes.com/recipe/242005/taco-salad-with-spinach/"
 }

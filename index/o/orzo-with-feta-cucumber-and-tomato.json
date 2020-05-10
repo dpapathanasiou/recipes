@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place orzo pasta, chicken broth, water, and half the chopped red bell pepper into a saucepan. Bring to a boil, reduce heat to low, and simmer until orzo are tender and liquid has been absorbed, about 10 minutes. Drain and rinse. Allow to cool.",
+        "Place orzo into a large salad bowl with remaining red bell pepper and 2 tablespoons olive oil; toss to coat. Mix in cucumbers, feta cheese, roma tomatoes, red onion, Kalamata olives, lemon juice, white wine vinegar, and cumin; toss salad well. Drizzle 2 more tablespoons olive oil over top of salad. Refrigerate 1 hour, tossing once or twice; season to taste with salt and black pepper before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5013223.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups orzo pasta",
+        "1 cup chicken broth",
+        "1 cup water",
+        "1  red bell pepper, seeded and chopped - divided",
+        "2 tablespoons olive oil",
+        "2  cucumbers, peeled and chopped",
+        "2 cups crumbled feta cheese",
+        "2  roma (plum) tomatoes, seeded and chopped",
+        "1  red onion, very thinly sliced and cut into 1-inch pieces",
+        "1 cup pitted Kalamata olives, coarsely chopped",
+        "3 tablespoons fresh lemon juice",
+        "1 tablespoon white wine vinegar",
+        "1 teaspoon ground cumin",
+        "2 tablespoons olive oil",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orzo with Feta, Cucumber and Tomato",
     "url": "http://allrecipes.com/recipe/228106/orzo-with-feta-cucumber-and-tomato/"
 }

@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Bake pie crust in preheated oven for 10 to 12 minutes.",
+        "Place broccoli in a steamer over 1 inch of boiling water, and cover. Cook until tender but still firm, about 2 to 6 minutes. Drain.",
+        "Heat oil in a large skillet over medium-high heat. Saute onion and garlic until golden. Stir in the cooked broccoli and heat through.",
+        "In a blender, combine tofu, soy milk, mustard, salt, nutmeg, ground red pepper, black pepper, parsley and  Parmesan soy cheese; process until smooth. In a large bowl combine tofu mixture with broccoli mixture. Pour into pie crust.",
+        "Bake in preheated oven until quiche is set, 35 to 40 minutes. Allow to stand for at least 5 minutes before cutting."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1016339.jpg",
+    "ingredients": [
+        "1 (9 inch) unbaked pie crust",
+        "1 pound broccoli, chopped",
+        "1 tablespoon olive oil",
+        "1   onion, finely chopped",
+        "4 cloves garlic, minced",
+        "1 pound firm tofu, drained",
+        "\u00bd cup soy milk",
+        "\u00bc teaspoon Dijon mustard",
+        "\u00be teaspoon salt",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bd teaspoon ground red pepper",
+        "black pepper to taste",
+        "1 tablespoon dried parsley",
+        "\u215b cup Parmesan flavor soy cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Quiche with Broccoli",
     "url": "http://allrecipes.com/recipe/25320/tofu-quiche-with-broccoli/"
 }

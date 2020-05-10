@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine pinto beans, cocoa powder, cashews, honey, and brown sugar in a high-powered blender; pulse until crumbly. Add almond milk and blend until dip is smooth. Transfer dip to a bowl and sprinkle with chocolate chips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3968&h=2077&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1136588.jpg",
+    "ingredients": [
+        "1\u2009\u2153 cups canned pinto beans",
+        "\u00bd cup unsweetened cocoa powder",
+        "\u00bc cup raw cashews",
+        "\u00bc cup honey",
+        "2 tablespoons brown sugar",
+        "2 tablespoons almond milk, or more as needed",
+        "2 tablespoons chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Healthier Brownie Batter Dip",
     "url": "http://allrecipes.com/recipe/237860/healthier-brownie-batter-dip/"
 }

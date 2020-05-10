@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk white sugar, paprika, kosher salt, brown sugar, garlic powder, black pepper, onion powder, cumin, chili powder, oregano, and cayenne pepper together in a bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2275748.jpg",
+    "ingredients": [
+        "2 tablespoons white sugar",
+        "2 tablespoons ground paprika",
+        "2 tablespoons kosher salt",
+        "2 tablespoons firmly packed brown sugar",
+        "2 tablespoons garlic powder",
+        "1 tablespoon ground black pepper",
+        "1 tablespoon onion powder",
+        "2 teaspoons ground cumin, or more to taste",
+        "2 teaspoons chili powder",
+        "1 teaspoon oregano",
+        "1/2 teaspoon cayenne pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick and Easy Barbecue Rub",
     "url": "http://allrecipes.com/recipe/241506/quick-and-easy-barbecue-rub/"
 }

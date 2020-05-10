@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix lemon juice, 3 tablespoons olive oil, and sage leaves in a large container and place turkey breast halves into the marinade. Allow meat to marinate for 30 minutes at room temperature, turning turkey breasts over occasionally.",
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Remove turkey breasts from marinade and reserve the marinade and sage leaves. Sprinkle turkey on both sides with sea salt and black pepper.",
+        "Grill turkey breasts on the preheated grill until they show grill marks, the meat is no longer pink inside, and an instant-read meat thermometer inserted into the thickest part of the breast reads at least 160 degrees F (70 degrees C), about 30 minutes. Turn turkey pieces over after 15 minutes.",
+        "While turkey is grilling, heat 2 tablespoons olive oil with unsalted butter in a large skillet over medium-high heat until hot and bubbling. Pour reserved marinade, including sage leaves, into the oil and butter and cook, stirring often, until the marinade has evaporated and the sage leaves are crisply fried, 10 to 15 minutes.",
+        "Transfer grilled turkey breasts to a cutting board and season again with salt and black pepper if desired; thickly slice the turkey on the diagonal and arrange on a platter, topped by fried sage leaves and garnished with lemon halves."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1036392.jpg",
+    "ingredients": [
+        "3 tablespoons freshly squeezed lemon juice",
+        "3 tablespoons extra-virgin olive oil",
+        "28 leaves fresh sage",
+        "4 skinless, boneless turkey breast halves",
+        "sea salt and freshly ground black pepper to taste",
+        "2 tablespoons extra-virgin olive oil",
+        "3 tablespoons unsalted butter",
+        "2 lemons, halved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Turkey Breast with Fresh Sage Leaves",
     "url": "http://allrecipes.com/recipe/228862/grilled-turkey-breast-with-fresh-sage/"
 }

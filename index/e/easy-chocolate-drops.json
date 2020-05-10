@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan, combine the margarine, peanut butter, and chocolate chips. Cook over low heat, stirring frequently until melted. Remove from the heat and stir in cereal. Drop by spoonfuls onto wax paper or greased cookie sheets, and refrigerate until set."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2856&h=1495&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F356510.jpg",
+    "ingredients": [
+        "3 tablespoons margarine",
+        "3 tablespoons peanut butter",
+        "1 cup semisweet chocolate chips",
+        "3 cups whole wheat flake cereal"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Chocolate Drops",
     "url": "http://allrecipes.com/recipe/15558/easy-chocolate-drops/"
 }

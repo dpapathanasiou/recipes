@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Place pumpkin halves cut side down on a medium baking sheet, and cover with foil. Bake 90 minutes, or until flesh is easily mashed with a fork. Cool, scoop pumpkin flesh from shell, and mash.",
+        "Increase oven temperature to 400 degrees F (200 degrees C).",
+        "In a medium bowl, mix mashed pumpkin, honey, cinnamon, ginger, cloves, nutmeg, and salt. Gradually blend in heavy cream and eggs. Pour into crusts, and top with pecans.",
+        "Bake pies in the preheated oven 50 minutes, or until a knife inserted in the center comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F331331.jpg",
+    "ingredients": [
+        "1 medium sugar pumpkin, seeded and halved",
+        "\u00be cup honey",
+        "1\u2009\u00bc teaspoons ground cinnamon",
+        "1 teaspoon ground ginger",
+        "1 teaspoon ground cloves",
+        "\u00bd teaspoon ground nutmeg",
+        "\u00bd teaspoon salt",
+        "2 cups heavy cream",
+        "3  eggs, beaten",
+        "2 (9 inch) unbaked deep dish pie crusts",
+        "\u00be cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Pecan Pumpkin Pie",
     "url": "http://allrecipes.com/recipe/42683/honey-pecan-pumpkin-pie/"
 }

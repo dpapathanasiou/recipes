@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a saucepan to 300 degrees F (150 degrees C).",
+        "Saute peppers, garlic, and ginger in hot oil until fragrant, 2 to 3 minutes.",
+        "Season pepper mixture with curry powder and salt. Reduce heat to low and cook to let the flavors blend, 1 to 2 minutes.",
+        "Transfer pepper mixture to a blender; add mango cubes and blend until smooth.",
+        "Pour blended mango mixture into the saucepan, bring to a simmer, and cook until slightly thickened, 5 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5741606.jpg",
+    "ingredients": [
+        "1 tablespoon sesame oil",
+        "5 habanero pepper, or more to taste, seeded and chopped",
+        "4 cloves garlic, chopped",
+        "2 tablespoons grated fresh ginger",
+        "1 teaspoon sweet curry powder, or more to taste",
+        "1 teaspoon salt",
+        "2 ripe mango - peeled, seeded, and cut into cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot Mango Peppa Sauce",
     "url": "http://allrecipes.com/recipe/239186/hot-mango-peppa-sauce/"
 }

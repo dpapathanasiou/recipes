@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, mix the Maille(R) Dijon Originale Mustard, oil, and lemon juice to prepare the marinating sauce.",
+        "Cut the chicken into small strips. Place chicken in marinade and coat both sides. Refrigerate for 15 minutes.",
+        "Preheat oven to 350 degrees F. Bake chicken until thoroughly cooked.",
+        "Meanwhile, cut the vegetables into small cubes. Place in heated skillet with oil and stir for 2-3 minutes.  Once the vegetables are cooked, retrieve the vegetables from the frying pan and add the sliced chicken."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/992149.jpg",
+    "ingredients": [
+        "2 tablespoons Maille\u00ae Dijon Originale Mustard",
+        "1 tablespoon oil",
+        "1 tablespoon lemon juice",
+        "4 boneless chicken breasts",
+        "1 pound seasonal vegetables"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Chicken with Maille\u00ae Dijon Originale Mustard",
     "url": "http://allrecipes.com/recipe/229539/marinated-chicken-with-maille-dijo/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F (190 degrees C).",
+        "Place the mushroom on a baking sheet, and bake for 5 minutes in the preheated oven. Remove from the oven, and spread spaghetti sauce in the cup of the cap. Top with cheese, olives, pepperoni and garlic.",
+        "Bake for an additional 20 minutes, or until cheese is melted and golden."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/149180.jpg",
+    "ingredients": [
+        "1 large portobello mushroom, stem removed",
+        "1 tablespoon spaghetti sauce",
+        "1/2 cup mozzarella cheese",
+        "1/2 tablespoon sliced black olives",
+        "4 slices pepperoni sausage",
+        "1 clove garlic, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Personal Portobello Pizza",
     "url": "http://allrecipes.com/recipe/55498/personal-portobello-pizza/"
 }

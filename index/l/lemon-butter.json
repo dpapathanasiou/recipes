@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan over medium heat, combine sugar, cornstarch, and lemon zest. Stir in water and lemon juice, and continue stirring. After the mixture thickens and bubbles, continue to heat and stir for another two minutes.",
+        "Remove the sauce from the heat and stir in the butter. Serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4410756.jpg",
+    "ingredients": [
+        "1/4 cup white sugar",
+        "1 tablespoon cornstarch",
+        "1/4 teaspoon grated lemon zest",
+        "1/2 cup water",
+        "1 tablespoon lemon juice",
+        "2 teaspoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Butter",
     "url": "http://allrecipes.com/recipe/19690/lemon-butter/"
 }

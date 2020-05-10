@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Saute onion in peanut oil in large skillet over medium-high heat 3 to 5 minutes or until onion starts to soften. Add turkey and saute 7 to 8 minutes or until cooked through.",
+        "Stir in 1/2 cup satay sauce, 1 tablespoon soy sauce and hoisin sauce. Add cucumber and chopped mint; heat until hot.",
+        "Whisk together remaining 1/2 cup satay sauce and 1 tablespoon soy sauce in small bowl.",
+        "Assemble each wrap by spooning about 3/4 cup turkey mixture on each tortilla and topping with salad and mint leaves if desired. Fold in sides of tortilla and roll up. Cut in half and serve with satay soy sauce mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3096&h=1621&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5491776.jpg",
+    "ingredients": [
+        "1 large DOLE\u00ae Onion, chopped",
+        "1 tablespoon peanut oil",
+        "1 (20 ounce) package ground turkey",
+        "1 cup bottled Thai peanut satay sauce, divided",
+        "2 tablespoons soy sauce, divided",
+        "1 tablespoon hoisin sauce",
+        "1 medium cucumber peeled and chopped",
+        "\u00bc cup coarsely chopped fresh mint",
+        "6 (10 inch) flour tortillas",
+        "1 (6 ounce) package DOLE Butter Bliss",
+        "small fresh mint leaves (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Asian Turkey Lettuce Wraps",
     "url": "http://allrecipes.com/recipe/217300/asian-turkey-lettuce-wraps/"
 }

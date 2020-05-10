@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Butter a 9x5-inch loaf pan.",
+        "Mix beef, onion, 1 cup ketchup, bread crumbs, eggs, salt, and pepper together in a bowl. Press beef mixture into a loaf in the prepared loaf pan.",
+        "Mix 1 1/2 cups ketchup, water, vinegar, brown sugar, mustard, and Worcestershire sauce together in a saucepan; cook and stir over medium heat until sauce is smooth and warm, about 10 minutes. Pour 1/3 the sauce over meatloaf.",
+        "Bake in the preheated oven, basting every 25 minutes with more sauce, until meatloaf is cooked through, 1 to 1 1/2 hours. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Cool in the pan for 10 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3024904.jpg",
+    "ingredients": [
+        "2 pounds ground beef",
+        "1  onion, chopped",
+        "1 cup ketchup",
+        "1 cup Italian-seasoned bread crumbs",
+        "2  eggs",
+        "1\u2009\u00bd teaspoons salt",
+        "\u00bc teaspoon ground black pepper",
+        "1\u2009\u00bd cups ketchup",
+        "\u00bc cup water",
+        "3 tablespoons white wine vinegar",
+        "3 tablespoons brown sugar",
+        "2 tablespoons Dijon mustard",
+        "2 teaspoons Worcestershire sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aunt Libby's Southern Meatloaf",
     "url": "http://allrecipes.com/recipe/237436/aunt-libbys-southern-meatloaf/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place chicken in a lightly greased 9x13 inch baking dish. Pour soy sauce and vinegar over chicken, then sprinkle with bell pepper and top with water chestnuts.",
+        "Bake at 350 degrees F (175 degrees C) for about 40 minutes or until chicken is cooked through and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3628417.jpg",
+    "ingredients": [
+        "6  skinless, boneless chicken breast halves",
+        "1 cup soy sauce",
+        "\u00bd cup vinegar",
+        "1  green bell pepper, chopped",
+        "2 (8 ounce) cans sliced water chestnuts, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Asian Baked Chicken",
     "url": "http://allrecipes.com/recipe/17340/easy-asian-baked-chicken/"
 }

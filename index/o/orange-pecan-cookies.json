@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 325 degrees F (165 degrees C). Stir together the flour and pecans; set aside.",
+        "In a large bowl, cream together the butter and confectioners' sugar until light and fluffy. Beat in 1 tablespoon of orange zest, vanilla and orange juice. Stir in the flour and nuts until well blended. Roll the dough into 1 inch balls, and place them 1 inch apart on ungreased cookie sheets.",
+        "Bake for 20 to 25 minutes, or until the edges are just starting to brown. Cool for about 10 minutes, then transfer to wire racks to cool completely.",
+        "Place the chocolate chips in a small glass or ceramic bowl, and place in the microwave. Heat for 1 minute, then stir. Continue heating and stirring at 20 second intervals until smooth.",
+        "Dip the cookies into the melted chocolate, and sprinkle the remaining orange zest over the top before the chocolate sets for decoration. Cool at room temperature or in the refrigerator until set, then store in an airtight container at room temperature."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F61738.jpg",
+    "ingredients": [
+        "1\u2009\u00be cups all-purpose flour",
+        "1 cup finely chopped pecans",
+        "\u00be cup butter, softened",
+        "\u00bd cup confectioners' sugar",
+        "2 tablespoons grated orange zest, divided",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bd teaspoon freshly squeezed orange juice",
+        "\u00bd cup semi-sweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Pecan Cookies",
     "url": "http://allrecipes.com/recipe/79155/orange-pecan-cookies/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+        "In a large serving bowl place a thin layer of 1/2 of the listed ingredients. Begin with the lettuce followed by onion, cauliflower, cheese, bacon and peas. Repeat.",
+        "Top the salad with mayonnaise and garnish with a sprinkle of crumbled bacon."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 pound bacon",
+        "1 head iceberg lettuce - rinsed, dried, and chopped",
+        "1 onion, chopped",
+        "1 head cauliflower, chopped",
+        "16 ounces shredded sharp Cheddar cheese",
+        "1 (32 ounce) jar mayonnaise",
+        "1 (16 ounce) package frozen green peas"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aunt Mary's Layered Salad",
     "url": "http://allrecipes.com/recipe/13641/aunt-marys-layered-salad/"
 }

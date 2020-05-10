@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a slow cooker, combine beef, onions, garlic, celery, carrots, green beans, mushrooms, and potatoes. Pour in the tomatoes and tomato sauce. Season with bay leaf, pepper, thyme, and marjoram. Stir together chicken broth and flour. Pour chicken broth mixture and beef consomme into slow cooker, and stir.",
+        "Cover, and cook on Low 6 to 10 hours. Remove bay leaf before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1523&h=797&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3257025.jpg",
+    "ingredients": [
+        "\u00be pound beef stew meat, cut into 1 inch cubes",
+        "2  onions, diced",
+        "3 cloves garlic, minced",
+        "1 large stalk celery, minced",
+        "2  carrots, finely chopped",
+        "\u00bc pound green beans, cut into 1 inch pieces",
+        "8 ounces fresh mushrooms, coarsely chopped",
+        "3  potatoes, peeled and diced",
+        "1 (14.5 ounce) can crushed tomatoes",
+        "1 (8 ounce) can tomato sauce",
+        "1  bay leaf",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon dried thyme",
+        "\u00bc teaspoon dried marjoram",
+        "2 (14.5 ounce) cans fat-free chicken broth",
+        "\u00bd cup all-purpose flour",
+        "2 (10.5 ounce) cans beef consomme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cozy Cottage Beef Stew Soup",
     "url": "http://allrecipes.com/recipe/25652/cozy-cottage-beef-stew-soup/"
 }

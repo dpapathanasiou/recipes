@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 13x9-inch baking dish.",
+        "Beat cake mix, water, eggs, and oil together in a bowl using a electric mixer until batter is smooth and well mixed, about 2 minutes. Mix bananas, cinnamon, and baking soda together in a separate bowl; stir into batter. Pour batter into the prepared baking dish.",
+        "Bake in the preheated oven until a toothpick inserted in the center of the cake comes out clean, 35 to 40 minutes. Cool cake completely.",
+        "Beat milk and pudding mix together in a bowl until smooth; fold in whipped topping until frosting is smooth. Spread frosting onto cooled cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1365467.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package vanilla cake mix",
+        "1 cup water",
+        "3  eggs",
+        "\u2153 cup oil",
+        "3  very ripe bananas, mashed",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon baking soda",
+        "1 cup milk",
+        "1 (3.5 ounce) package instant banana cream pudding mix",
+        "1 (8 ounce) container low-fat frozen whipped topping (such as Cool Whip\u00ae Lite), thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Banana Cream Cake",
     "url": "http://allrecipes.com/recipe/238874/cinnamon-banana-cream-cake/"
 }

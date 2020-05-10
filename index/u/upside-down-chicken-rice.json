@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Trim any fat off the chicken and wash with water. Place the chicken, onion, cinnamon sticks, and carrots in a pot; fill with water, and boil until the chicken and carrots are done. Reserve the broth, chicken, and carrots.",
+        "Remove bones from chicken. Warm 1 1/4 cup canola oil in a large pot over medium-high heat. Place chicken and carrots in the pot; fry for 2 minutes.",
+        "In a bowl, stir together the rice, ground cinnamon, pepper, and salt. Pour the rice mixture evenly across the top of the chicken without stirring into the chicken. Pour in the chicken broth. Bring to a boil. Cover, reduce heat to medium, and simmer until rice is tender, 20 to 35 minutes.",
+        "Heat 1/2 cup canola oil in a skillet over medium heat. Stir in chopped almonds, and fry until golden. Remove almonds to paper towels, and drain oil.",
+        "Heat 1/4 cup canola oil in a skillet over medium heat. Stir in pine nuts, and cook until golden. Drain oil, and remove pine nuts to paper towels.",
+        "Over a large dish or tray, flip the rice pot upside down, and release the contents onto the tray or dish. Arrange the almonds and pine nuts on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F61253.jpg",
+    "ingredients": [
+        "1 (6 pound) whole chicken, skin removed and cut into pieces",
+        "1 medium onion, chopped",
+        "2  cinnamon sticks",
+        "4  carrots, peeled and cut into large chunks",
+        "1\u2009\u00bc cups canola oil",
+        "4\u2009\u00bd cups long grain rice, rinsed and drained",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground black pepper",
+        "salt to taste",
+        "5 cups chicken broth",
+        "\u00be cup chopped almonds",
+        "\u00be cup canola oil, divided",
+        "\u00bc cup pine nuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Upside Down Chicken Rice",
     "url": "http://allrecipes.com/recipe/87059/upside-down-chicken-rice/"
 }

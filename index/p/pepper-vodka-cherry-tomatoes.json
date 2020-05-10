@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Poke 5 or 6 holes with a wooden pick or skewer in each tomato and put in a shallow bowl. Pour vodka over tomatoes. Cover bowl with plastic wrap and marinate until the flavors blend, 1 to 2 hours.",
+        "Mix sea salt and lemon pepper in a small bowl; serve with the marinated tomatoes for dipping."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2229573.jpg",
+    "ingredients": [
+        "1 pint ripe cherry tomatoes",
+        "\u00bd cup pepper-flavored vodka",
+        "3 tablespoons sea salt",
+        "1 tablespoon lemon pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pepper Vodka Cherry Tomatoes",
     "url": "http://allrecipes.com/recipe/229597/pepper-vodka-cherry-tomatoes/"
 }

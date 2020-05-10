@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line three baking sheets and three cooling racks with parchment paper.",
+        "Mix white sugar, brown sugar, and cinnamon together in a large resealable bag.",
+        "Cut each biscuit into four pieces. Dip each biscuit piece in melted butter; transfer to sugar mixture. Gently shake bag to coat biscuits in sugar mixture.",
+        "Thread three biscuit pieces onto a skewer; add a maraschino cherry. Repeat with three more biscuit pieces, ending with a maraschino cherry. Repeat with remaining ingredients to make 20 kabobs. Arrange kabobs on the prepared baking sheets.",
+        "Bake in the preheated oven until biscuits are cooked through, about 15 minutes. Flip kabobs halfway through cooking.",
+        "Transfer kabobs to prepared wire racks and let cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1304377.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups white sugar",
+        "1 cup brown sugar",
+        "2\u2009\u00bd teaspoons ground cinnamon",
+        "3 (7.5 ounce) packages refrigerated biscuit dough (such as Pillsbury\u00ae)",
+        "\u00bd cup butter, melted",
+        "40  maraschino cherries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Monkey Bread Kabobs",
     "url": "http://allrecipes.com/recipe/228564/monkey-bread-kabobs/"
 }

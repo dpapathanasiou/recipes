@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, cream the butter and confectioners' sugar together. Stir in the vanilla, then the flour, then the pecans.",
+        "Roll dough into walnut sized balls and insert a clove into each one. Place on an unprepared cookie sheet and bake for 15 to 18 minutes in the preheated oven. Roll the cookies in powdered sugar while they are still hot. Remove cloves before serving or warn guests to remove them."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=604&h=316&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F29952.jpg",
+    "ingredients": [
+        "1 cup unsalted butter",
+        "4 tablespoons confectioners' sugar",
+        "1 teaspoon vanilla extract",
+        "2 cups sifted all-purpose flour",
+        "1 cup chopped pecans",
+        "36  whole cloves",
+        "\u00bd cup confectioners' sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kourambiedes III",
     "url": "http://allrecipes.com/recipe/11663/kourambiedes-iii/"
 }

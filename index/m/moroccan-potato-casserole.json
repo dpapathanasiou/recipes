@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine garlic, 1/2 teaspoon salt, paprika, cumin, and cayenne in a food processor bowl.  Process until mixture forms a paste. Add herbs, and pulse a few times to blend. Add lemon juice, vinegar, and 2 to 3 tablespoons olive oil; blend.  Season to taste with salt.",
+        "In a large bowl, combine potatoes, peppers, and celery. Season with salt, and toss with herb sauce. Transfer to a large shallow baking dish.  Scatter tomatoes among the potato mixture. Drizzle 1 to 2 tablespoons oil over top, and cover with foil.",
+        "Bake for 35 minutes. Remove foil.  Continue baking until vegetables are tender, 20 to 30 minutes.  Serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/954160.jpg",
+    "ingredients": [
+        "6 cloves garlic",
+        "salt to taste",
+        "2 teaspoons paprika",
+        "1/2 teaspoon ground cumin",
+        "1/4 teaspoon ground cayenne pepper",
+        "3/4 cup chopped fresh cilantro",
+        "3/4 cup chopped parsley",
+        "1 lemon, juiced",
+        "3 tablespoons red wine vinegar",
+        "3 tablespoons olive oil",
+        "1 1/2 pounds red potatoes, sliced 1/2 inch thick",
+        "1 large red bell pepper, cut into 1 inch pieces",
+        "1 yellow bell pepper, cut into 1 1/2 inch squares",
+        "1 large green bell pepper, cut into 1 1/2 inch pieces",
+        "4 stalks celery, cut into 2 inch pieces",
+        "1 pound tomatoes, each cut into 8 wedges",
+        "2 tablespoons olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Moroccan Potato Casserole",
     "url": "http://allrecipes.com/recipe/13905/moroccan-potato-casserole/"
 }

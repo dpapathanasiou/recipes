@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an oven-proof cast iron Dutch oven or a deep baking dish.",
+        "Heat milk and cornmeal in the top of a double boiler over simmering water, stirring frequently, until thick and creamy, about 5 minutes. Remove cornmeal mixture from heat and stir in butter and 1 teaspoon salt until well combined.",
+        "Beat egg yolks, sugar, and 1/2 teaspoon cream of tartar together in a bowl until smooth; stir into cornmeal mixture.",
+        "Beat egg whites, 1/8 teaspoon cream of tartar, and 1 pinch salt together in a separate bowl using an electric mixer until soft peaks form. Lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak. Gently fold egg white mixture into cornmeal mixture until well mixed and fluffy; pour into prepared Dutch oven.",
+        "Bake in the preheated oven until golden brown with a moist center, about 30 minutes. Allow to rest for 10 to 15 minutes before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2\u2009\u00be cups milk",
+        "1 cup white cornmeal",
+        "2 tablespoons butter, softened",
+        "1 teaspoon salt",
+        "4 large eggs, separated",
+        "1 tablespoon white sugar",
+        "\u00bd teaspoon cream of tartar",
+        "\u215b teaspoon cream of tartar",
+        "1 pinch salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Traditional Appalachian Spoon Bread",
     "url": "http://allrecipes.com/recipe/234682/traditional-appalachian-spoon-bread/"
 }

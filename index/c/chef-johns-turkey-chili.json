@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the ancho chile powder, paprika, cumin, salt, chipotle pepper, oregano, cocoa powder, black pepper, cayenne pepper, and cinnamon in a bowl; set aside.",
+        "Heat the olive oil in a large heavy pot over medium heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the ground turkey and garlic. Cook and stir until turkey is no longer pink, breaking up any large chunks, 7 to 8 minutes. Stir in the spice mixture. Cook until fragrant, 3 to 4 minutes.",
+        "Stir in the tomato puree and water. Bring to a simmer, then reduce heat to low. Cook until the turkey meat is broken down, about 1 hour. Stir in the beans, and continue to simmer until flavors have blended, 20 to 30 more minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5426702.jpg",
+    "ingredients": [
+        "Secret Chili Spice Mix:",
+        "1/4 cup ancho chile powder",
+        "1 tablespoon paprika",
+        "1 tablespoon ground cumin",
+        "2 1/2 teaspoons salt",
+        "1 1/2 teaspoons ground dried chipotle pepper",
+        "1 teaspoon dried oregano",
+        "1 teaspoon unsweetened cocoa powder",
+        "1 teaspoon ground black pepper",
+        "1/4 teaspoon ground cayenne pepper",
+        "1/8 teaspoon ground cinnamon",
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "2 1/2 pounds ground turkey",
+        "3 cloves garlic, minced",
+        "1 cup tomato puree",
+        "2 cups water",
+        "2 (12 ounce) cans pinquito or pinto beans, drained and rinsed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Turkey Chili",
     "url": "http://allrecipes.com/recipe/219076/chef-johns-turkey-chili/"
 }

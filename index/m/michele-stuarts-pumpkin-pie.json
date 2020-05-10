@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 425 degrees F.",
+        "To prepare pie shell, on clean, lightly floured work surface, roll out dough with rolling pin until it forms a 10-inch circle. Fold circle in half, place it in 9-inch pie plate so that edges of circle drop over rim, unfold dough to completely cover pie plate. Using thumb and index finger, crimp edges of pie shell. Brush edges of pie shell with heavy cream to create a perfect, golden brown finish.",
+        "To prepare filling, in large bowl, combine pumpkin, condensed milk, eggs, cinnamon and salt. Make sure to scrape sides of bowl several times to fully incorporate all ingredients. Pour pumpkin filling into pie shell, distributing evenly.",
+        "To bake, place pie plate on baking sheet and bake 10 minutes. Reduce heat to 375 degrees F and continue baking approximately 35 minutes, or until pie is firm in the middle. Transfer pie plate to wire cooling rack and allow pie to cool and set 1 1/2 hours before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1457013.jpg",
+    "ingredients": [
+        "Crust:",
+        "1 Classic Crisco\u00ae Pie Crust, for 9-inch single-crust pie",
+        "1/4 cup heavy cream (to glaze crimped edges)",
+        "Filling:",
+        "2 cups fresh processed pumpkin*",
+        "1 (14 ounce) can sweetened condensed milk",
+        "2 large eggs",
+        "1 1/2 teaspoons ground cinnamon",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Michele Stuart's Pumpkin Pie",
     "url": "http://allrecipes.com/recipe/239359/michele-stuarts-pumpkin-pie/"
 }

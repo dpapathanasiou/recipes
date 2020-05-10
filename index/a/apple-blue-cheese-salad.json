@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the julienned apple into a bowl with the balsamic vinaigrette. Refrigerate for at least one hour to marinate.",
+        "Cook bacon in the microwave or in a skillet over medium-high heat until browned. Drain, and crumble.",
+        "In a salad bowl, combine the blue cheese, pecans, bacon and romaine lettuce, and toss to blend. When ready to serve, pour the apples and dressing over the top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1601&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1750887.jpg",
+    "ingredients": [
+        "1  Granny Smith apple, cored and julienned",
+        "1 cup balsamic vinaigrette salad dressing",
+        "1 cup crumbled blue cheese",
+        "\u00bd cup chopped pecans",
+        "4 slices turkey bacon",
+        "6 cups torn romaine lettuce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Blue Cheese Salad",
     "url": "http://allrecipes.com/recipe/74687/apple-blue-cheese-salad/"
 }

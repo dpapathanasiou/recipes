@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease cookie sheets.",
+        "Cream the butter and sugar until light and fluffy. Separate the egg and reserve the egg white.  Beat the egg yolk into the mixture. Mix in the flour. Beat the egg white until is stands in peaks.  Cut it into the dough.  Drop by teaspoonfuls 3 inches apart on cookie sheets.",
+        "Bake 12 to 15 minutes, or until edges are golden."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1552&h=813&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F964386.jpg",
+    "ingredients": [
+        "\u00bd cup butter, softened",
+        "\u00bd cup white sugar",
+        "1  egg",
+        "\u00be cup all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Wafers",
     "url": "http://allrecipes.com/recipe/9751/swedish-wafers/"
 }

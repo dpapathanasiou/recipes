@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Rinse and pat chicken thoroughly dry with paper towels. Mix margarine, garlic salt, black pepper, thyme, parsley, and rosemary in a bowl and rub the outside of the chicken thoroughly with the margarine mixture. Place any remaining margarine mixture into the cavity of the chicken. Place chicken into a glass baking dish.",
+        "Bake chicken in the preheated oven until browned and the juices run clear, about 2 hours. An instant-read meat thermometer inserted into the thickest part of a thigh, not touching bone, should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2176757.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken",
+        "1 cup margarine, softened",
+        "1 tablespoon garlic salt",
+        "1 teaspoon coarsely ground black pepper",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried parsley",
+        "1 pinch dried rosemary"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Perfect Roast Chicken",
     "url": "http://allrecipes.com/recipe/228845/perfect-roast-chicken/"
 }

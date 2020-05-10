@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil and grease lightly with cooking spray.",
+        "Place kabocha squash skin-side down on the baking sheet.",
+        "Roast in the preheated oven until fork-tender, 30 to 40 minutes. Cool until easily handled, about 10 minutes. Scoop squash flesh into a food processor; puree until smooth. Discard skin.",
+        "Reduce oven temperature to 350 degrees F (175 degrees C). Grease 2 mini muffin tins with cooking spray.",
+        "Stir white sugar, brown sugar, canola oil, and olive oil in a large bowl until smooth. Beat in eggs, 1 at a time. Stir in 3/4 cup pureed squash and vanilla extract.",
+        "Mix whole wheat flour, all-purpose flour, cinnamon, baking powder, baking soda, and salt together in a bowl. Stir gradually into the sugar mixture, alternating with apple cider, until smooth. Pour into muffin tins, filling each cup 3/4 full.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6285632.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 (2 pound) kabocha squash, seeded and cut into wedges",
+        "\u00bd cup white sugar",
+        "\u00bc cup brown sugar",
+        "2 tablespoons canola oil",
+        "1 tablespoon olive oil",
+        "2  eggs",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bd cup whole wheat flour",
+        "\u00bd cup all-purpose flour",
+        "2 teaspoons ground cinnamon",
+        "1\u2009\u00bd teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "\u215b teaspoon salt",
+        "\u00bc cup apple cider"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kabocha Squash Mini Muffins",
     "url": "http://allrecipes.com/recipe/254951/kabocha-squash-mini-muffins/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, dissolve yeast in warm water.  Allow yeast to sit until it begins to form bubbles.",
+        "Add honey, butter, and salt to the yeast mixture.  Stir in flours one cup at a time, beginning with the rye.  When the dough begins to stiffen, turn it out on to a well floured surface.  Knead for 5 minutes, adding flour as needed.  Place into a greased bowl, and turn once to oil the surface of the dough.  Cover with a damp cloth.  Allow to rise in a warm place until doubled, approximately 1 to 2 hours.",
+        "Punch down dough, and knead again until smooth.  Split into 3 loaves, and knead for a few more minutes.  Place loaves in three oiled pans.  Allow to rise until double, 1 to 2 hours.",
+        "Bake at 350 degrees F (175 degrees C) for 20 to 30 minutes, or until golden brown.  Cool in pans for 10 minutes, and then turn out onto counter or wire rack to completely cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2718&h=1423&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1002286.jpg",
+    "ingredients": [
+        "2 (.25 ounce) packages active dry yeast",
+        "\u00bd cup honey",
+        "3 cups warm water (110 degrees F/45 degrees C)",
+        "2 teaspoons salt",
+        "\u00bd cup butter, melted",
+        "1 cup rye flour",
+        "3 cups whole wheat flour",
+        "5 cups unbleached all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Milk and Honey Loaf",
     "url": "http://allrecipes.com/recipe/6785/milk-and-honey-loaf/"
 }

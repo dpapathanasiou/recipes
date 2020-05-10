@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sprinkle brisket with seasoned salt and black pepper.",
+        "Heat oil in a Dutch oven over medium-high heat. Sear brisket in hot oil until browned on both sides. Transfer brisket to a large plate. Cook and stir onions and garlic in the Dutch oven until vegetables are softened, about 6 minutes. Return brisket to the Dutch oven.",
+        "Whisk beef broth, ketchup, brown sugar, vinegar, chili powder, bay leaves, and cayenne pepper together in a bowl; drizzle broth mixture over brisket.",
+        "Bring beef mixture to a boil; reduce heat to low and cover. Simmer until beef is very tender and easily falls apart when pulled with a fork, 2 1/2 to 3 hours. Remove and discard bay leaves. Transfer beef to a platter, reserving liquid in the Dutch oven. Slice beef.",
+        "Whisk water and flour together in a small bowl; stir into the Dutch oven and bring to a boil until sauce is thickened. Serve sauce over sliced brisket."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4521855.jpg",
+    "ingredients": [
+        "1 (3 pound) beef brisket",
+        "\u00bd teaspoon seasoned salt",
+        "\u00bc teaspoon ground black pepper",
+        "2 tablespoons olive oil",
+        "2 large onions, sliced",
+        "3 cloves garlic, minced",
+        "1 cup beef broth",
+        "1 cup ketchup",
+        "\u2153 cup packed brown sugar",
+        "\u2153 cup cider vinegar",
+        "3 tablespoons chili powder",
+        "2  bay leaves",
+        "\u00bc teaspoon cayenne pepper",
+        "\u00bc cup cold water",
+        "3 tablespoons all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Beef Brisket in a Dutch Oven",
     "url": "http://allrecipes.com/recipe/233609/basic-beef-brisket-in-a-dutch-oven/"
 }

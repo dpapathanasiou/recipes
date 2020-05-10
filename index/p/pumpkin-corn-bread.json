@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Grease muffin cups or line with paper muffin liners.",
+        "In a large bowl, stir flour, cornmeal, baking powder, baking soda, and salt and make a well in the center. In a small bowl, stir together the eggs, pumpkin, sugar, and oil.",
+        "Make a well in the center of the dry ingredients and pour in the egg mixture. Stir just until blended; do not over mix. Fold in pecans. Divide the batter evenly among prepared muffin tin cups.",
+        "Bake in preheated oven for 15 to 18 minutes, until a toothpick inserted into center of a muffin comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=519&h=272&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F30652.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "\u00be cup yellow cornmeal",
+        "1 teaspoon baking powder",
+        "\u00bd teaspoon baking soda",
+        "\u00bc teaspoon salt",
+        "2  eggs, well beaten",
+        "1 cup canned unsweetened pumpkin puree",
+        "\u00bd cup packed dark brown sugar",
+        "\u00bc cup canola oil",
+        "1 cup coarsely chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Corn Bread",
     "url": "http://allrecipes.com/recipe/23414/pumpkin-corn-bread/"
 }

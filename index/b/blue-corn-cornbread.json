@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x9 inch baking dish.",
+        "Mix cornmeal, flour, baking powder, sugar, and salt in a bowl. Sift 3 times.",
+        "Stir the eggs and milk into the cornmeal mixture. Place the butter in the prepared baking dish, and melt in the preheated oven. Mix hot, melted butter into the cornmeal mixture. Transfer cornmeal mixture to the prepared baking dish.",
+        "Bake on center rack in the preheated oven for 30 to 35 minutes, until the edges of the cornbread pull away from the sides of the dish, and a toothpick inserted into the center comes out clean. Let cool 10 minutes before cutting."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6739919.jpg",
+    "ingredients": [
+        "1 cup blue cornmeal",
+        "1 cup all-purpose flour",
+        "5 teaspoons baking powder",
+        "\u00bc cup white sugar",
+        "1 pinch salt",
+        "2  eggs, beaten",
+        "1 cup milk",
+        "\u00bd cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Corn Cornbread",
     "url": "http://allrecipes.com/recipe/187199/blue-corn-cornbread/"
 }

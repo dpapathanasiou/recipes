@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut boneless pork shoulder crosswise into 1/4 inch slices. Partially freezing it will make slicing easier.",
+        "In the slow cooker, combine sliced pork, onion, garlic, brown sugar, dry mustard, salt, pepper, ketchup, and Worcestershire sauce; mix well, and cover. Cook on Low, stirring occasionally, for 6 to 8 hours or until the meat is tender.",
+        "OR : In a Dutch oven or large saucepan, combine pork, onion, garlic, brown sugar, dry mustard, salt, pepper, ketchup, and Worcestershire sauce; mix well.  Bring to a boil, reduce heat, and cover.  Simmer, stirring occasionally, for 2 1/2 to 3 hours or until pork is tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F380148.jpg",
+    "ingredients": [
+        "2\u2009\u00bd pounds pork shoulder",
+        "\u00bd cup chopped onion",
+        "1 clove garlic, minced",
+        "\u00bc cup brown sugar",
+        "1 teaspoon dry mustard",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "2 cups ketchup",
+        "\u00bc cup Worcestershire sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barbeque Pork Two Ways",
     "url": "http://allrecipes.com/recipe/21509/barbeque-pork-two-ways/"
 }

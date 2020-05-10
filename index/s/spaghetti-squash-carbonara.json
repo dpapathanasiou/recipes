@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Sprinkle sea salt and ground black pepper into the bottom of a baking dish. Put squash halves into the baking dish with the cut sides facing downward. Pour enough water into the pan to be about 1/4-inch deep.",
+        "Roast squash in preheated oven until flesh is tender, 60 to 90 minutes. Shred the flesh from the squash into strands and to a colander to drain excess liquid.",
+        "Beat eggs, Parmesan cheese, and 3 tablespoons parsley together in a bowl.",
+        "Put bacon into a skillet and place over medium heat; cook and stir until browned but not yet crisp, 5 to 7 minutes. Drain excess fat from the pan, retaining about 2 tablespoons. Cook and stir leek with the bacon until soft, about 2 minutes. Add garlic and continue to cook until fragrant, about 1 minute more.",
+        "Pour white wine over the bacon mixture; cook until most of the liquid evaporates, about 5 minutes. Stir squash into the bacon mixture; cook and stir until any remaining moisture from the squash evaporates, 2 to 3 minutes.",
+        "Gently stir the egg mixture into the squash mixture; cook until the liquid makes a creamy sauce and is heated through, 2 to 3 minutes more. Season with pepper. Garnish with parsley and Parmesan cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2540988.jpg",
+    "ingredients": [
+        "1 pinch sea salt, or to taste",
+        "1 pinch freshly ground black pepper, or to taste",
+        "1 large spaghetti squash, halved and seeded",
+        "3  eggs, beaten",
+        "1 cup freshly grated Parmesan cheese",
+        "3 tablespoons chopped fresh parsley, plus extra for garnish",
+        "\u00bc pound bacon, cut into 1/4-inch pieces",
+        "1  leek, cleaned and chopped",
+        "2 cloves garlic, minced",
+        "\u2153 cup white wine",
+        "1 tablespoon Parmesan cheese, or to taste, to garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaghetti Squash Carbonara",
     "url": "http://allrecipes.com/recipe/240065/spaghetti-squash-carbonara/"
 }

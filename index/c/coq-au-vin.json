@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a large non-stick skillet with cooking spray. Saute chicken over medium heat for about 15 minutes, or until lightly browned on both sides.",
+        "Add the mushrooms, carrot, wine, onions, bacon bits, parsley, garlic, marjoram, thyme, bouillon, pepper and bay leaf. Bring to a boil, then reduce heat to low; cover and simmer for 25 minutes, or until chicken is cooked through and no longer pink inside.",
+        "Using a slotted spoon, transfer chicken, mushrooms, carrot, and onions to a platter, discarding bay leaf; cover to keep warm and set aside.",
+        "In a small bowl combine flour and water and whisk together. Stir mixture into skillet and cook until thick and bubbly, 5 to 10 minutes. Cook and stir 1 minute more and pour mixture over chicken and veggies. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3799.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "2 cups small whole fresh mushrooms",
+        "1 cup thinly sliced carrots",
+        "1 cup Burgundy wine",
+        "16  pearl onions, peeled",
+        "1 tablespoon bacon bits",
+        "1 tablespoon chopped fresh parsley",
+        "2 cloves garlic, minced",
+        "\u00be teaspoon dried marjoram, crushed",
+        "\u00be teaspoon dried thyme, crushed",
+        "\u00bd teaspoon chicken bouillon granules",
+        "\u215b teaspoon ground black pepper",
+        "1  bay leaf",
+        "1\u2009\u00bd cups cold water",
+        "\u215b cup all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coq au Vin",
     "url": "http://allrecipes.com/recipe/16588/coq-au-vin/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a heavy-bottomed skillet or wok over medium-high heat; cook and stir the celery and garlic in the butter until the celery is soft, 5 to 7 minutes. Add the flour and stir, scraping the bottom of pan until flour is lightly toasted. Slowly add the milk and half-and-half to the roux, stirring constantly. Stir the onion powder, parsley, and salt into the mixture. Reduce heat to medium-low; continue cooking and stirring until the mixture bubbles and thickens, 5 to 7 minutes.",
+        "Add the oysters with the liquid from the container to the mixture; cook until the edges of the oysters curl, about 5 minutes more. Season with pepper just before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7587047.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "1 (6 inch) celery rib, finely chopped",
+        "1 small clove garlic, minced",
+        "1 tablespoon all-purpose flour",
+        "1 cup milk",
+        "1/4 cup half-and-half cream",
+        "1/4 teaspoon onion powder",
+        "1 pinch dried parsley",
+        "1/2 teaspoon salt",
+        "1 cup fresh shucked oysters, undrained",
+        "1 pinch ground black pepper, to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oyster Stew for One or Two",
     "url": "http://allrecipes.com/recipe/216747/oyster-stew-for-one-or-two/"
 }

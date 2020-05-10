@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix meatballs, sauerkraut, chili sauce, white sugar, brown sugar, hot water, and vinegar in a slow cooker, stirring to dissolve sugar. Cook on High for 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3969503.jpg",
+    "ingredients": [
+        "1 (16 ounce) package frozen cooked meatballs, thawed",
+        "1 (14 ounce) can sauerkraut, drained",
+        "1 (12 ounce) bottle ketchup-style chili sauce (such as Heinz\u00ae)",
+        "1 cup white sugar",
+        "1 cup brown sugar",
+        "\u00bc cup hot water",
+        "2 tablespoons vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meatballs and Kraut",
     "url": "http://allrecipes.com/recipe/231083/meatballs-and-kraut/"
 }

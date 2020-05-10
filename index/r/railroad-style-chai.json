@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water to a boil in a saucepan; add fennel, cloves, and cardamom. Continue boiling water for 3 minutes.",
+        "Stir milk into the water and return mixture to a low boil; add tea bags, reduce heat to low, and boil until the tea has a strong, but not bitter flavor, 2 to 3 minutes.",
+        "Strain tea into 4 tea mugs; sweeten with sugar to individual tastes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2023824.jpg",
+    "ingredients": [
+        "2 cups water",
+        "1 tablespoon fennel seed",
+        "4 whole cloves, or more to taste",
+        "1 1/2 teaspoons cardamom seeds",
+        "2 cups whole milk",
+        "4 black tea bags, or more to taste",
+        "1 tablespoon white sugar, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Railroad-Style Chai",
     "url": "http://allrecipes.com/recipe/143442/railroad-style-chai/"
 }

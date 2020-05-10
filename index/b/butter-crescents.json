@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Warm the milk in a small saucepan until bubbles form at the edges; remove from heat. Mix in the butter, sugar, and salt. Let cool until lukewarm. In a small bowl, dissolve yeast in warm water. Let stand until creamy, about 10 minutes.",
+        "In a large bowl, combine milk and yeast mixtures. Stir in 1 egg. Beat in flour 1 cup at a time until dough pulls together. Turn out onto a lightly floured surface, and knead until smooth and elastic, about 8 minutes. Lightly oil a large bowl, place the dough in the bowl, and turn to coat. Cover with a damp cloth, and let rise in a warm place until doubled in volume, about 1 hour.",
+        "Deflate the dough, and turn it out onto a lightly floured surface. Divide the dough into two equal pieces, and form into rounds. Cover, and let rest 10 minutes.",
+        "Using a floured rolling pin, roll each dough half into a 12 inch circle. Cut each circle into 6 wedges. Roll each wedge up towards the point.  Bend ends inward to form crescents, and place point side down on lightly greased baking sheets. Cover, and let rise until doubled, about 30 minutes. Meanwhile, preheat oven to 400 degrees F (200 degrees C).",
+        "Brush rolls with beaten egg, and bake for 12 to 15 minutes in the preheated oven, or until golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2239&h=1172&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2444086.jpg",
+    "ingredients": [
+        "\u00bd cup milk",
+        "\u00bd cup butter, softened",
+        "\u2153 cup white sugar",
+        "\u00bd teaspoon salt",
+        "1 (.25 ounce) package active dry yeast",
+        "\u00bd cup warm water (110 degrees F/45 degrees C)",
+        "1  egg",
+        "3\u2009\u00bd cups all-purpose flour",
+        "1  egg, beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butter Crescents",
     "url": "http://allrecipes.com/recipe/18114/butter-crescents/"
 }

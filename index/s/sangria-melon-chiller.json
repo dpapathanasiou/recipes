@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together sugar, water, and torn mint in a small saucepan. Bring to a simmer over low heat. Simmer 1 minute, then cool to room temperature, about 30 minutes. Strain syrup mixture through a fine-mesh sieve into a bowl, pushing on mint to extract as much liquid as possible. Discard mint leaves. Chill syrup until ready to use.",
+        "Stir together wine, orange juice, Triple Sec, and mint simple syrup in a pitcher or large bowl. Add cantaloupe and watermelon and chill at least 30 minutes and up to 4 hours.",
+        "Pour or ladle over ice, if desired, into 8 glasses and garnish each with a mint leaf or sprig."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3588641.jpg",
+    "ingredients": [
+        "1/4 cup sugar",
+        "1/3 cup water",
+        "1/4 cup packed torn fresh mint leaves",
+        "8 sprigs fresh mint for garnish",
+        "1 (750 milliliter) bottle Sauvignon Blanc, chilled",
+        "1 cup fresh orange juice, chilled",
+        "1/2 cup Triple Sec or other orange-flavored liqueur",
+        "3 cups bite-size wedges of cantaloupe",
+        "1 1/2 cups bite-size wedges of seedless watermelon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sangria Melon Chiller",
     "url": "http://allrecipes.com/recipe/247245/sangria-melon-chiller/"
 }

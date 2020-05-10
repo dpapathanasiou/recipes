@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil; add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain. Keep warm.",
+        "Heat olive oil and non-dairy butter in saucepan over medium-high heat. Add shrimp and scallops; cook until heated through, turning occasionally, about 5 minutes. Add garlic; cook 30 seconds. Stir in white wine, goat milk, and lemon juice. Cook until heated through, about 3 minutes. Add cilantro, oregano, lemon pepper, and seasoned salt.",
+        "Stir celery and mixed vegetables into shrimp mixture; cook another 3 or 4 minutes. Serve over hot penne pasta."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "12 ounces penne pasta",
+        "1/4 cup extra-virgin olive oil",
+        "1/4 cup non-dairy butter",
+        "6 ounces frozen cooked shrimp",
+        "6 ounces frozen cooked scallops",
+        "2 tablespoons chopped garlic",
+        "1/4 cup white wine",
+        "1/4 cup goat milk",
+        "3 tablespoons lemon juice",
+        "1 tablespoon dried cilantro",
+        "1 teaspoon dried oregano",
+        "lemon pepper to taste",
+        "seasoned salt to taste",
+        "1 stalk celery, diced",
+        "1 (12 ounce) package frozen mixed vegetables (carrots, green beans, red bell peppers)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp And Scallops in Goat Milk Sauce",
     "url": "http://allrecipes.com/recipe/256704/shrimp-and-scallops-in-goat-milk-sauc/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place shrimp in mixing bowl and squeeze lime juice on top, trying to coat shrimp evenly.",
+        "Heat butter in a stock pot and saute the green pepper with shallots or chives for 2 to 3 minutes. Mix in corn, okra, tomatoes, tomato paste, thyme, bay leaf and chili pepper.  Season with salt and pepper and  simmer for 10 minutes.",
+        "Add the shrimp, return to a boil and simmer for another 5 minutes.  Remove bay leaf and chili before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4496886.jpg",
+    "ingredients": [
+        "1 pound medium shrimp - peeled and deveined",
+        "1/2 lime, juiced",
+        "4 tablespoons margarine",
+        "2 green bell peppers, seeded",
+        "6 tablespoons minced shallots",
+        "1 cup frozen corn kernels",
+        "1 cup chopped okra",
+        "3 tomatoes - blanched, peeled and chopped",
+        "1 tablespoon tomato paste",
+        "1/4 teaspoon dried thyme",
+        "1 bay leaf",
+        "salt and pepper to taste",
+        "1 green chile pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Okra Stew with Shrimp",
     "url": "http://allrecipes.com/recipe/13265/okra-stew-with-shrimp/"
 }

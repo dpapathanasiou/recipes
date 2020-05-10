@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spread 2 Tbsp. peanut butter on each tortilla.",
+        "On each tortilla, place 1/2 sliced banana on top of peanut butter. Then, top each with 1/2 cup of strawberries, pineapple and coconut.",
+        "Fold in half.",
+        "Place Edible Disney(R) Decals on Tortillas and enjoy (instructions on back of Mission Kid Size Tortilla package)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/984045.jpg",
+    "ingredients": [
+        "2 Mission\u00ae Kid Size Flour Tortillas with Edible Disney\u00ae Tortilla Decals",
+        "4 tablespoons peanut butter",
+        "1 cup strawberries, hulled (cut off the green parts), sliced",
+        "1/2 (15 ounce) can crushed pineapple, well drained",
+        "1 medium banana, sliced",
+        "1/4 cup flaked coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Magical Peanut Butter Tacos",
     "url": "http://allrecipes.com/recipe/86012/magical-peanut-butter-tacos/"
 }

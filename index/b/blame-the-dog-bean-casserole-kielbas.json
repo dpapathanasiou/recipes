@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Combine sausages, baked beans, kidney beans, tomato sauce, ketchup, red wine, onion, celery, garlic, mustard, and Worcestershire sauce in a 3-quart baking dish. Bake in preheated oven until hot and bubbly, about 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/873290.jpg",
+    "ingredients": [
+        "1 pound fully cooked kielbasa or Polish sausage, cut into 1/4-inch slices",
+        "1 pound smoked sausage, sliced",
+        "1 (28 ounce) can baked beans",
+        "1 (15.5 ounce) can kidney beans, rinsed and drained",
+        "1 (8 ounce) can tomato sauce",
+        "1/2 cup ketchup",
+        "1/2 cup red wine",
+        "1/2 cup chopped onion",
+        "1/4 cup chopped celery",
+        "1 teaspoon minced garlic",
+        "1 teaspoon dry mustard powder",
+        "1 dash Worcestershire sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blame the Dog Bean Casserole (Kielbasa and Bean Dish)",
     "url": "http://allrecipes.com/recipe/213216/blame-the-dog-bean-casserole-kielbas/"
 }

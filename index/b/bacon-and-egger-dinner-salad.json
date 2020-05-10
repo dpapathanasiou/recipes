@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Reserving a small amount of the grease, drain the bacon, crumble, and set aside.",
+        "Using the same pan, heat the reserved bacon grease to medium-high. Fry the eggs until yolks are cooked through, but still tender, approximately 2 to 3 minutes. Remove from heat, cool slightly, and cut into long strips.",
+        "Divide lettuce among salad plates, and arrange bell pepper, green onion, cucumber, celery, and broccoli over lettuce. Top each salad with bacon, sliced eggs, and 1 tablespoon of mayonnaise. To be tossed on the plate once served."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1278&h=669&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2610194.jpg",
+    "ingredients": [
+        "8 slices bacon, cut into small pieces",
+        "4  eggs",
+        "6 cups iceberg lettuce, torn into bite-sized pieces",
+        "1  green bell pepper, diced",
+        "4  green onions, chopped",
+        "1  cucumber, peeled and diced",
+        "3  stalks celery, sliced",
+        "2 cups small broccoli florets",
+        "\u00bc cup mayonnaise"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon and Egger Dinner Salad",
     "url": "http://allrecipes.com/recipe/51961/bacon-and-egger-dinner-salad/"
 }

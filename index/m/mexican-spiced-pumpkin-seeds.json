@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with aluminum foil; spray with cooking spray.",
+        "Spread pumpkin seeds onto the prepared baking sheet; sprinkle with salt, cumin, chili powder, cayenne pepper, and oregano; toss to coat evenly.",
+        "Bake seeds in the preheated oven for 5 minutes; stir seeds. Return to oven and bake until seeds are toasted, about 15 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1601786.jpg",
+    "ingredients": [
+        "cooking spray",
+        "2 cups pumpkin seeds",
+        "1 teaspoon salt",
+        "1 teaspoon ground cumin",
+        "\u00bd teaspoon chili powder",
+        "\u00bd teaspoon cayenne pepper",
+        "1 pinch dried oregano, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican-Spiced Pumpkin Seeds",
     "url": "http://allrecipes.com/recipe/233478/mexican-spiced-pumpkin-seeds/"
 }

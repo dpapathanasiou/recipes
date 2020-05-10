@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large sauce pan and add the onions and garlic, sauteing them until golden brown. Add the spinach and sprinkle with salt and pepper.",
+        "Stir in in milk, cream cheese, mayo and Parmesan cheese; stir until ingredients are evenly incorporated. Reduce  heat to low. Allow the ingredients to simmer together, continuing to stir occasionally.",
+        "Serve warm with Snack Factory(R) Pretzel Crisps(R)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4457775.jpg",
+    "ingredients": [
+        "1 1/2 tablespoons olive oil",
+        "1 onion, minced",
+        "2 cloves garlic, minced",
+        "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "1/2 cup milk",
+        "1 (8 ounce) package cream cheese, softened",
+        "1/4 cup mayonnaise",
+        "1 cup Parmesan cheese",
+        "Salt and pepper to taste",
+        "1 (7.2 ounce) package Snack Factory\u00ae Original Pretzel Crisps\u00ae"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Snack Factory\u00ae Pretzel Crisps\u00ae with Creamy Spinach Dip",
     "url": "http://allrecipes.com/recipe/256711/snack-factory-pretzel-crisps-wi/"
 }

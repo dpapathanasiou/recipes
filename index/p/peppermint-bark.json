@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lightly grease a 9x9 inch pan and line with waxed paper, smoothing out wrinkles; set aside.",
+        "Place the semisweet chocolate and 1 teaspoon of the canola oil in the top of a double boiler over just barely simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching. When the chocolate is melted, stir in 1/4 teaspoon of the peppermint extract. Pour the melted chocolate into the prepared pan, and spread evenly over the bottom of the pan. Sprinkle half of the crushed peppermints over the chocolate layer. Refrigerate until completely hardened, about 1 hour.",
+        "Place the white chocolate and the remaining 1 teaspoon canola oil in the top of a double boiler over just barely simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching. When the chocolate is melted, stir in the remaining 1/4 teaspoon peppermint extract. Pour the white chocolate directly over the semisweet chocolate layer; spread evenly. Sprinkle the remaining crushed candy over the top and gently press in. Refrigerate until completely hardened. Remove from pan; break into small pieces to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/304913.jpg",
+    "ingredients": [
+        "8 ounces high-quality semisweet chocolate, broken into pieces",
+        "2 teaspoons canola oil, divided",
+        "1/2 teaspoon peppermint extract, divided",
+        "8 ounces high-quality white chocolate, broken into pieces",
+        "25 peppermint candies, crushed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "5-Ingredient Peppermint Bark",
     "url": "http://allrecipes.com/recipe/185194/peppermint-bark/"
 }

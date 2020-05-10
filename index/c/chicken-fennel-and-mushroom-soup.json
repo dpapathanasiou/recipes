@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil and butter in a saucepan over medium-high heat. Brown chicken on both sides then reduce heat to medium. Add lemon pepper, fennel and cream sherry. Simmer until chicken is cooked through but not dry. When chicken is cooked, remove it from the pan and set aside to cool.",
+        "While chicken is cooling, add mushrooms, red pepper, parsley, buttermilk, half and half, water and chicken soup base; stir. Tear chicken into bite sized pieces and return them to the soup. Heat until warmed through but do not boil, mushrooms and peppers should still be firm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2593&h=1358&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F995993.jpg",
+    "ingredients": [
+        "2  skinless, boneless chicken breast halves",
+        "1 tablespoon olive oil",
+        "1 teaspoon butter",
+        "1 teaspoon lemon pepper",
+        "1 bulb fennel, trimmed and thinly sliced",
+        "\u00bc cup cream sherry",
+        "1\u2009\u00bd cups sliced crimini mushrooms",
+        "\u00bc cup diced red bell pepper",
+        "3 tablespoons finely minced fresh parsley",
+        "1 cup buttermilk",
+        "\u00bd cup half-and-half cream",
+        "1\u2009\u00bd cups water",
+        "2 teaspoons chicken soup base"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken, Fennel and Mushroom Soup",
     "url": "http://allrecipes.com/recipe/20535/chicken-fennel-and-mushroom-soup/"
 }

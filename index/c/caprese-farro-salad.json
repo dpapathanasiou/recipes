@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix farro and Swanson\u00ae Chicken Broth together in a saucepan; bring to a boil. Reduce heat to medium-low and allow to simmer until tender, about 30 minutes. Drain; allow to cool completely.",
+        "Transfer cooled farro to a bowl. Stir in tomatoes, mozzarella, basil, almonds, and sliced onion. Add vinaigrette and  mix well."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7656575.jpg",
+    "ingredients": [
+        "1 cup farro, rinsed",
+        "3 cups Swanson\u00ae Chicken Broth",
+        "1 cup red cherry tomatoes, halved",
+        "1 cup shredded mozzarella cheese",
+        "\u00bd cup basil chiffonade (thinly sliced fresh basil leaves)",
+        "\u00bd cup slivered almonds",
+        "\u00bc cup thinly sliced red onion",
+        "3 tablespoons balsamic vinaigrette salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caprese Farro Salad",
     "url": "http://allrecipes.com/recipe/245108/caprese-farro-salad/"
 }

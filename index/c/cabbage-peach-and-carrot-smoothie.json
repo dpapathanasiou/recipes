@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend grapes, peaches, cabbage, carrot, ice cubes, and water in a high-powered blender (such as a Vitamix(R)) until desired consistency is reached."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1027428.jpg",
+    "ingredients": [
+        "1 cup grapes",
+        "1 cup sliced frozen peaches",
+        "3/4 cup chopped cabbage",
+        "1 large carrot",
+        "1/4 cup ice cubes, or as desired",
+        "1/4 cup water, or as desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cabbage, Peach, and Carrot Smoothie",
     "url": "http://allrecipes.com/recipe/233346/cabbage-peach-and-carrot-smoothie/"
 }

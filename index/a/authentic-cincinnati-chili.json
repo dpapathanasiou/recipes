@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the ground beef in a large pan, cover with about 1 quart of cold water, and bring to a boil, stirring and breaking up the beef with a fork to a fine texture. Slowly boil until the meat is thoroughly cooked, about 30 minutes, then remove from heat and refrigerate in the pan overnight.",
+        "The next day, skim the solid fat from the top of the pan, and discard the fat. Place the beef mixture over medium heat, and stir in the onions, tomato sauce, vinegar, Worcestershire sauce, garlic, chocolate, chili powder, salt, cumin, cinnamon, cayenne pepper, cloves, allspice berries, and bay leaf. Bring to a boil, reduce heat to a simmer, and cook, stirring occasionally, for 3 hours. Add water if necessary to prevent the chili from burning."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3771&h=1974&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2746439.jpg",
+    "ingredients": [
+        "2 pounds lean ground beef",
+        "1 quart water, or amount to cover",
+        "2  onions, finely chopped",
+        "1 (15 ounce) can tomato sauce",
+        "2 tablespoons vinegar",
+        "2 teaspoons Worcestershire sauce",
+        "4 cloves garlic, minced",
+        "\u00bd (1 ounce) square unsweetened chocolate",
+        "\u00bc cup chili powder",
+        "1\u2009\u00bd teaspoons salt",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon ground cayenne pepper",
+        "5  whole cloves",
+        "5  whole allspice berries",
+        "1  bay leaf"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Authentic Cincinnati Chili",
     "url": "http://allrecipes.com/recipe/206953/authentic-cincinnati-chili/"
 }

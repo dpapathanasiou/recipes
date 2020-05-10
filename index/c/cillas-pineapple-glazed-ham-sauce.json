@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan, mix together cornstarch and brown sugar. Stir in soy sauce, vinegar, pineapple juice and raisins. Cook over medium heat, stirring constantly, for 10 to 15 minutes or until sauce has thickened."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7371984.jpg",
+    "ingredients": [
+        "3 tablespoons cornstarch",
+        "3 tablespoons brown sugar",
+        "1 tablespoon soy sauce",
+        "1/3 cup vinegar",
+        "1 (6 ounce) can pineapple juice",
+        "1 (1.5 ounce) box raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cilla's Pineapple Glazed Ham Sauce",
     "url": "http://allrecipes.com/recipe/52523/cillas-pineapple-glazed-ham-sauce/"
 }

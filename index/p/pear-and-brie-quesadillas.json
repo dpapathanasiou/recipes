@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place slices of Brie cheese over a tortilla. Layer the cheese with pear slices. Sprinkle with nutmeg and salt as desired. Top with the second tortilla.",
+        "Spray a skillet with cooking spray. Place the quesadilla in the skillet over medium heat, and cook until golden brown and Brie melts, about 3 minutes on each side. Cut into four or eight triangles, and serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F39806.jpg",
+    "ingredients": [
+        "2 (10 inch) flour tortillas",
+        "2 ounces Brie cheese, sliced",
+        "\u00bd  pear, cored and thinly sliced",
+        "1 pinch ground nutmeg",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pear and Brie Quesadillas",
     "url": "http://allrecipes.com/recipe/142007/pear-and-brie-quesadillas/"
 }

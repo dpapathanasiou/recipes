@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "For the Poached Eggs: Fill pan with 2-inches of water and bring to a simmer, add vinegar. Gently crack eggs one at a time into the water, using a spoon to gather egg whites around egg yolks.",
+        "Allow eggs to simmer just until whites are set, approximately 2 minutes. Remove eggs from water, and set aside.",
+        "For the White Cheddar Hollandaise: While eggs are poaching begin hollandaise. In medium bowl whisk together egg yolks, lemon juice and water until light yellow. Set aside. In small saucepan melt butter over medium-low heat. Add 1 tablespoon melted butter at a time to egg yolk mixture, whisking constantly until fully incorporated. Pour mixture into saucepan and continue to whisk until warmed through and thickened. In last minute, whisk in white cheddar cheese until melted.",
+        "Toast English muffins until golden brown. Top each with avocado and sausage patty. Top sausages with fresh poached egg and drizzle with white cheddar hollandaise. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4093598.jpg",
+    "ingredients": [
+        "Poached Eggs:",
+        "1 teaspoon vinegar",
+        "4 eggs",
+        "White Cheddar Hollandaise:",
+        "2 egg yolks",
+        "2 tablespoons lemon juice",
+        "2 tablespoons water",
+        "1/2 cup butter",
+        "1/2 cup shredded white Cheddar cheese",
+        "Benedict:",
+        "4 English muffins",
+        "2 avocados - peeled, pitted, and thinly sliced",
+        "4 Jones Dairy Farm All Natural Golden Brown\u00ae Breakfast Sausage Patties, prepared",
+        "Salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage Avocado Benedict with White Cheddar Hollandaise",
     "url": "http://allrecipes.com/recipe/255974/sausage-avocado-benedict-with-white-c/"
 }

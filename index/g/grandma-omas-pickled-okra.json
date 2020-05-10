@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Divide the fresh okra evenly between 3 sterile (1 pint) jars. Place one dried chile, and one teaspoon of dill into each jar.",
+        "In a small saucepan, combine the water, vinegar and salt. Bring to a rolling boil. Pour over the ingredients in the jars, and seal in a hot water bath for 10 minutes. Refrigerate jars after opening."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1348078.jpg",
+    "ingredients": [
+        "1 1/2 pounds fresh okra",
+        "3 dried red chile peppers",
+        "3 teaspoons dried dill",
+        "2 cups water",
+        "1 cup vinegar",
+        "2 tablespoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Oma's Pickled Okra",
     "url": "http://allrecipes.com/recipe/35965/grandma-omas-pickled-okra/"
 }

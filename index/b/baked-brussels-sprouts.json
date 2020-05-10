@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Place the Brussels sprouts into a casserole or Dutch oven with a lid. Arrange pieces of butter on top of the sprouts. Season with salt, pepper and lemon juice. Cover with the lid.",
+        "Bake for 25 minutes in the preheated oven, or until sprouts are just barely tender. Stir now and then to keep them from sticking. During the last 10 minutes, sprinkle the pine nuts over the sprouts and remove the lid. When the sprouts are done, sprinkle blue cheese over them before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=720&h=377&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F742987.jpg",
+    "ingredients": [
+        "2 pounds Brussels sprouts, ends trimmed and yellow leaves removed",
+        "\u00bd cup butter, cut into pieces",
+        "1 teaspoon kosher salt",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bc cup fresh lemon juice",
+        "\u00bc cup pine nuts",
+        "\u00bd cup crumbled blue cheese (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Brussels Sprouts",
     "url": "http://allrecipes.com/recipe/150686/baked-brussels-sprouts/"
 }

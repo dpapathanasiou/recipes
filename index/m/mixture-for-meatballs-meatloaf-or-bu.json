@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine the ground beef, bread, eggs, cheese, parsley and onion and season with salt and pepper to taste.",
+        "For meatballs: Form mixture into golf size balls and brown in a large skillet over medium heat for 5 to 10 minutes, or until well browned. Add to your favorite spaghetti sauce and simmer until meatballs are completely cooked through, about 15 to 20 minutes.",
+        "For meatloaf: Preheat oven to 350 degrees F (175 degrees C). Add 3 tablespoons ketchup to mixture, mix well, form into a loaf and place in a 9x13 inch baking dish. Bake at 350 degrees F (175 degrees C) for 75 to 90 minutes.",
+        "For burgers: Add 3 to 4 tablespoons steak sauce to mixture, mix well and form into patties. Saute in a large skillet over medium heat for 10 to 15 minutes, or to desired doneness."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/365191.jpg",
+    "ingredients": [
+        "2 pounds ground beef",
+        "4 slices white bread - soaked with water, squeezed out and broken into tiny pieces",
+        "3 eggs",
+        "1/2 cup grated Romano cheese",
+        "1 teaspoon dried parsley",
+        "1/4 cup minced onion (optional)",
+        "salt and pepper to taste",
+        "3 tablespoons ketchup",
+        "4 tablespoons steak sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mixture for Meatballs, Meatloaf or Burgers",
     "url": "http://allrecipes.com/recipe/16550/mixture-for-meatballs-meatloaf-or-bu/"
 }

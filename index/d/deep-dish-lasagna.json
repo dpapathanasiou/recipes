@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Bring a large pot of lightly salted water to a boil. Add lasagna noodles and cook for 8 to 10 minutes or until al dente; drain.",
+        "In skillet over medium heat, brown the sausage with the onions, garlic and 1/2 the parsley; drain excess fat. Add tomato paste, tomato sauce, water, Italian seasoning, oregano, and basil; mix well. Simmer, covered, for 5 minutes; stirring occasionally.",
+        "In a bowl, combine remaining parsley and ricotta, spinach, Parmesan, eggs, garlic salt, and pepper; mix well.",
+        "Spread 2 cups sauce in the bottom of the prepared baking dish. Begin layering with 4 noodles, 1/2 cheese mix, 1/3 remaining sauce, and 1 cup mozzarella. Repeat this layer again; the last layer will be noodles, sauce and mozzarella cheese. Cover pan with aluminum foil.",
+        "Bake in the preheated oven for 45 minutes. Remove the foil; bake, uncovered, an additional 10 minutes, or until cheese is bubbly and starting to brown. Let cool 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "12  uncooked lasagna noodles",
+        "1 pound sweet Italian sausage",
+        "\u2154 cup chopped onions",
+        "\u00bd tablespoon minced garlic",
+        "\u2154 cup chopped fresh parsley, divided",
+        "3 (6 ounce) cans tomato paste",
+        "1 (15 ounce) can tomato sauce",
+        "2 cups water",
+        "1\u2009\u00bd teaspoons Italian seasoning",
+        "1\u2009\u00bd teaspoons dried oregano",
+        "1\u2009\u00bd teaspoons dried basil leaves",
+        "1 pound part-skim ricotta cheese",
+        "1 (10 ounce) package chopped spinach, thawed and squeeze dried",
+        "\u00bd cup grated Parmesan cheese",
+        "3  eggs",
+        "2 teaspoons garlic salt",
+        "\u00bc teaspoon ground black pepper",
+        "3 cups shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Deep Dish Lasagna",
     "url": "http://allrecipes.com/recipe/23710/deep-dish-lasagna/"
 }

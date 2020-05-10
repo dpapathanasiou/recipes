@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, mix the pineapple and the reserved juice from 1 can, mangos, peppers, cilantro, lime juice and pulp, orange juice, rum, and garlic. Let stand for one hour before adding chicken.",
+        "Strain the juice from the salsa to use for the marinade. Set aside enough salsa without the juice to use for topping the chicken. Marinate the chicken breast halves in the bowl with the remaining salsa and juice mixture for 2 to 6 hours.",
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Discard salsa used for marinating, and bake chicken for 30 minutes in the preheated oven, or until chicken juices run clear. Top with reserved salsa to serve."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 (15 ounce) cans pineapple tidbits, drained with juice reserved",
+        "2  mangos - peeled, seeded and diced",
+        "2  green chile peppers, diced",
+        "\u2153 cup chopped fresh cilantro",
+        "\u00bd cup freshly squeezed lime juice and pulp",
+        "\u00bd cup fresh orange juice",
+        "\u00bc cup dark rum",
+        "\u00bd clove garlic, minced",
+        "8  skinless, boneless chicken breasts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Island Chicken with Fruit Salsa",
     "url": "http://allrecipes.com/recipe/8711/island-chicken-with-fruit-salsa/"
 }

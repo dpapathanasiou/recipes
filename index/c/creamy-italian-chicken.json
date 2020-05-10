@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken breast pieces into the bottom of a slow cooker. Pour in water, and stir in the salad dressing mix. Cover the cooker, set on low, and cook 3 or more hours (see note).",
+        "With an electric mixer, beat the soup, cream cheese, and mushrooms in a bowl until thoroughly combined. Mix with the chicken and any juices in the slow cooker. Cover and cook 1 more hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F778459.jpg",
+    "ingredients": [
+        "3  skinless, boneless chicken breast halves, cubed",
+        "\u00bc cup water",
+        "1 packet dry Italian salad dressing mix (such as Kraft\u00ae Zesty Italian)",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (8 ounce) package cream cheese",
+        "1 (4.5 ounce) can mushroom pieces and stems, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Italian Chicken",
     "url": "http://allrecipes.com/recipe/219803/creamy-italian-chicken/"
 }

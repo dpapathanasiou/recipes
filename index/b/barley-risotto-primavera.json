@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 teaspoon vegetable oil in a large skillet over medium heat; cook and stir carrots 2 to 3 minutes. Add zucchini and yellow squash; cook until tender, 5 to 10 minutes.",
+        "Heat chicken broth in a large saucepan over medium heat; reduce heat to low and keep warm.",
+        "Heat 1 teaspoon vegetable oil in a separate large skillet over medium heat; cook and stir onion until lightly browned and tender, about 10 minutes. Add garlic and thyme; cook until fragrant, 1 to 2 minutes. Cook and stir barley into onion mixture until lightly toasted, 2 to 3 minutes.",
+        "Pour about 2 cups warm broth into barley mixture; reduce heat to low, and simmer, stirring occasionally, until broth is absorbed, 5 to 10 minutes. Add remaining broth, 1/2 cup at a time, allowing broth to absorb before each addition, until barley is tender, 15 to 20 minutes. Stir in carrot mixture, butter, and Parmesan cheese until cheese melts, 1 to 2 minutes. Season with salt and black pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F971417.jpg",
+    "ingredients": [
+        "1 teaspoon vegetable oil",
+        "2  carrots, diced",
+        "1  zucchini, diced",
+        "3 small yellow squash, diced",
+        "4\u2009\u00bd cups chicken broth or vegetable broth",
+        "1 teaspoon vegetable oil",
+        "1 small onion, diced",
+        "2 teaspoons minced garlic",
+        "1 teaspoon dried thyme",
+        "1 cup pearl barley",
+        "2 tablespoons butter (optional)",
+        "\u00bd cup grated Parmesan cheese",
+        "salt and freshly ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barley Risotto Primavera",
     "url": "http://allrecipes.com/recipe/228032/barley-risotto-primavera/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium heat, cook and stir the garlic in olive oil for approximately 3 minutes, until tender.",
+        "Place garbanzo beans in a blender or food processor with approximately 1 teaspoon reserved liquid. Process until smooth. Mix in the garlic, sesame seeds, salt and pepper. Blend to desired consistency, increasing the amount of reserved garbanzo bean liquid as desired. Chill in the refrigerator until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1050029.jpg",
+    "ingredients": [
+        "2 cloves garlic, peeled and crushed",
+        "2 tablespoons olive oil",
+        "1 (15 ounce) can garbanzo beans, drained, liquid reserved",
+        "1 tablespoon sesame seeds",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Hummus",
     "url": "http://allrecipes.com/recipe/26707/basic-hummus/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Slice the sausages lengthwise, leaving them attached along one side. Spread them out flat in a large skillet. Cook over medium heat for 15 minutes, turning once, until the sausages are browned and cooked through. Remove from skillet and set aside.",
+        "Place the ground beef, olive oil, onion, and garlic in the skillet, and cook and stir over medium heat for about 10 minutes, until the onion is translucent and the beef is browned and crumbly. Drain all but 2 tablespoons of fat. Stir in the tomatoes, tomato sauce, salt, pepper, basil, oregano, and bay leaf. Simmer uncovered over low heat for 1 hour, stirring occasionally, until the flavors have blended. Remove the bay leaf.",
+        "Preheat the oven to 350 degrees F (175 degrees C). Bring a large pot of lightly salted water to a boil, drop in the pasta, and cook for 8 to 10 minutes, stirring occasionally, until tender. Drain the pasta, and mix it into the sauce.",
+        "Place servings of hot pasta with sauce on oven-safe plates, place a cooked, opened sausage over each serving, and sprinkle with Parmesan cheese. Place plates in the preheated oven for 5 to 10 minutes, until the cheese has melted and begun to brown."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/403394.jpg",
+    "ingredients": [
+        "2 Italian sausage links, casings removed",
+        "1 pound lean ground beef",
+        "1 tablespoon olive oil",
+        "1 yellow onion, chopped",
+        "2 cloves garlic, chopped",
+        "1 (14.5 ounce) can whole peeled tomatoes",
+        "1 (15 ounce) can tomato sauce",
+        "1 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "1 teaspoon dried basil",
+        "1/4 cup chopped fresh oregano",
+        "1 bay leaf",
+        "1 (16 ounce) package uncooked spaghetti",
+        "1/2 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Camp David Spaghetti with Italian Sausage",
     "url": "http://allrecipes.com/recipe/148543/camp-david-spaghetti-with-italian-sau/"
 }

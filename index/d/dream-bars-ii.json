@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, cream together the butter and 1/2 cup brown sugar until smooth. Stir in the 1 1/2 cups of flour. Press the mixture firmly into the bottom of a 9x13 inch pan. Bake the crust for 15  minutes in the preheated  oven, until golden.",
+        "In a medium bowl, mix together the eggs and 1 1/2 cups brown sugar. Stir in the vanilla. Combine the 1/4 cup flour, cocoa (if desired), baking powder and salt; stir into the egg mixture. Fold in the coconut and walnuts. Pour into the pre-baked crust.",
+        "Bake for 25 to 30 minutes in the preheated oven, until firm. Cool and cut into squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F885722.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "\u00bd cup brown sugar",
+        "1\u2009\u00bd cups all-purpose flour",
+        "3  eggs, beaten",
+        "1\u2009\u00bd cups brown sugar",
+        "1 teaspoon vanilla extract",
+        "\u00bc cup all-purpose flour",
+        "\u00bc cup unsweetened cocoa powder (optional)",
+        "1 teaspoon baking powder",
+        "\u00bc teaspoon salt",
+        "1\u2009\u00bd cups flaked coconut",
+        "1 cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dream Bars II",
     "url": "http://allrecipes.com/recipe/19222/dream-bars-ii/"
 }

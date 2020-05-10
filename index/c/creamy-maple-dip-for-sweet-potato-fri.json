@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix mayonnaise with maple syrup in a bowl until thoroughly combined."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1001084.jpg",
+    "ingredients": [
+        "1/4 cup mayonnaise",
+        "1/4 cup maple syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Maple Dip For Sweet Potato Fries",
     "url": "http://allrecipes.com/recipe/228788/creamy-maple-dip-for-sweet-potato-fri/"
 }

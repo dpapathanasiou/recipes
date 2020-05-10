@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Roll out pastry to fit a 9 inch pie plate. Place bottom crusts in 2 pie plates. Roll out top crusts and set aside.",
+        "Cut sausage into 1 inch pieces. Heat a skillet over medium heat and cook sausage until brown. Place sausage in a large bowl, and add hard cooked eggs, Cheddar cheese, Provolone cheese, Ricotta cheese, and parsley. Mix together and season to taste with salt and pepper.",
+        "Add one raw egg to mixture. Mix well and check consistency - it should not be loose or runny, but should hold together well. Add one more raw egg if necessary.",
+        "Spoon filling into 2 pastry-lined pie pans, and cover with other 2 pastry shells. Seal edges and cut steam vents in top. Brush top pastry with melted butter or margarine.",
+        "Bake in preheated oven for 35 minutes, until golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1813431.jpg",
+    "ingredients": [
+        "2 recipes pastry for a 9 inch double crust pie",
+        "\u00be pound Italian sausage links",
+        "6  hard-cooked eggs, diced",
+        "1 cup diced Cheddar cheese",
+        "\u00bd cup diced provolone cheese",
+        "1\u2009\u00bd cups whole milk ricotta cheese",
+        "\u00bd bunch fresh parsley, chopped",
+        "salt and pepper to taste",
+        "1  egg",
+        "\u00bc cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easter Pie",
     "url": "http://allrecipes.com/recipe/15099/easter-pie/"
 }

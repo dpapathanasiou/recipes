@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Arrange pumpkin pieces on a baking sheet.",
+        "Bake in the preheated oven until pumpkin meat is tender, about 1 hour.",
+        "Scrape pumpkin meat from the peel and transfer meat to a blender; blend until smooth."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2237&h=1171&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1539376.jpg",
+    "ingredients": [
+        "1  sugar pumpkin - cut into eighths, seeded, and pulp removed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sugar Pumpkin Puree",
     "url": "http://allrecipes.com/recipe/239390/sugar-pumpkin-puree/"
 }

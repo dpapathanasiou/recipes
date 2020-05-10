@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes; drain.",
+        "Mix processed cheese, French-fried onions, bacon bits into potatoes and smash together using a potato masher. Stir milk into potatoes, increasing amount until desired consistency is reached."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=980&h=513&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1475503.jpg",
+    "ingredients": [
+        "4 large red potatoes, cut into 8 wedges",
+        "\u00be cup sliced processed cheese food (such as Velveeta\u00ae)",
+        "\u2154 cup crushed French-fried onions (such as French's\u00ae)",
+        "\u2153 cup bacon bits (such as Hormel\u00ae)",
+        "2 tablespoons milk, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Awesome Smashed Red Potatoes",
     "url": "http://allrecipes.com/recipe/239138/awesome-smashed-red-potatoes/"
 }

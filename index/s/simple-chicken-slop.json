@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "In a large mixing bowl, combine the chicken, soup, cheese, milk, salt, pepper and butter. Mix together and pour mixture into a 9x13 inch baking dish.",
+        "Bake at 400 degrees F (200 degrees C) for 5 to 10 minutes or until cheese is melted and bubbly, and casserole is hot in the center."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1732&h=907&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1637459.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves - cooked and shredded",
+        "2 (10.75 ounce) cans condensed cream of chicken soup",
+        "2 cups shredded Cheddar cheese",
+        "\u00bd cup milk",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1 tablespoon melted butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simple Chicken Slop",
     "url": "http://allrecipes.com/recipe/16692/simple-chicken-slop/"
 }

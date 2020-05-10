@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cucumbers in a colander and sprinkle with salt. Set aside until water is drawn out of cucumbers, about 30 minutes.",
+        "Pat cucumbers dry to remove excess salt. Mix cucumbers, onion, pistachios, lemon juice, lemon zest, garlic, black pepper, and cayenne pepper in a bowl; stir in yogurt.",
+        "Garnish a serving bowl with lettuce leaves; pour cucumber mixture into middle of the bowl. Surround cucumber mixture with tomatoes. Refrigerate for flavors to blend, at least 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1036957.jpg",
+    "ingredients": [
+        "2 cucumbers - peeled, seeded, and diced",
+        "1 pinch salt, or as needed",
+        "1 onion, diced",
+        "1/4 cup crushed pistachios, or to taste",
+        "1 lemon, juiced and zested",
+        "2 cloves garlic, pressed",
+        "1/8 teaspoon ground black pepper",
+        "1/8 teaspoon cayenne pepper",
+        "3 tablespoons low-fat Greek-style yogurt, or to taste",
+        "4 lettuce leaves",
+        "4 small tomatoes, quartered"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fabienne's Cucumber Salad",
     "url": "http://allrecipes.com/recipe/233946/fabiennes-cucumber-salad/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk bourbon, olive oil, vinegar, parsley, sage, rosemary, and thyme together in a bowl until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/4 cup bourbon whiskey (such as Jim Beam\u00ae)",
+        "1/4 cup olive oil",
+        "1/4 cup garlic wine vinegar",
+        "1 tablespoon dried parsley",
+        "1 teaspoon dried sage",
+        "1 teaspoon dried rosemary",
+        "1 teaspoon dried thyme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinade by Tiffany",
     "url": "http://allrecipes.com/recipe/239000/marinade-by-tiffany/"
 }

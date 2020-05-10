@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend water, blueberries, grapes, apple, strawberries, ginger, and agave nectar together in a blender until thick and slushy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1129049.jpg",
+    "ingredients": [
+        "1 cup water, or more as needed",
+        "1/4 cup frozen blueberries",
+        "1/4 cup seedless green grapes",
+        "1/2 green apple, cored and chopped",
+        "3 frozen strawberries, or more to taste",
+        "1 (1 inch) piece peeled fresh ginger, cut into thirds",
+        "1 tablespoon agave nectar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ginger Fruit Smoothie",
     "url": "http://allrecipes.com/recipe/237155/ginger-fruit-smoothie/"
 }

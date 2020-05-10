@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+        "Arrange tomatoes, peach, onion, red bell pepper, yellow bell pepper, and garlic on a baking sheet.",
+        "Broil in the preheated oven until vegetables and peach are browned and tender and tomato skins can be peeled off, 10 to 15 minutes.",
+        "Dice the roasted vegetable and peach and transfer to a bowl. Add lemon juice, sugar, salt, and parsley; toss to coat. Refrigerate at least 1 hour for flavors to blend."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2  tomatoes, halved",
+        "1 small peach, halved and pitted",
+        "\u00bd  white onion, halved",
+        "\u00bd  red bell pepper, halved",
+        "\u00bd  yellow bell pepper, halved",
+        "1 clove garlic, minced",
+        "1 tablespoon lemon juice",
+        "1 teaspoon white sugar, or to taste",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon chopped fresh parsley, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rita's Roasted Peach Salsa",
     "url": "http://allrecipes.com/recipe/231022/ritas-roasted-peach-salsa/"
 }

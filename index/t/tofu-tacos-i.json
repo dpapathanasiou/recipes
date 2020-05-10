@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Over a medium heat fry the tofu, oil, garlic and onion in a large skillet for 5 minutes. Add the chili powder, paprika, cayenne, cumin, salt, lime juice and tomato sauce to the skillet and stir. Cook for 3 minutes. Stir in the cilantro. Spoon mixture in a serving bowl.",
+        "Spoon the tofu mixture into taco shells. Top the mixture with lettuce, tomatoes, avocado, Cheddar cheese and salsa."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4516963.jpg",
+    "ingredients": [
+        "1 (16 ounce) package garden herb tofu, crumbled",
+        "2 tablespoons vegetable oil",
+        "1 clove garlic, minced",
+        "1/2 cup chopped onion",
+        "2 teaspoons chili powder",
+        "1/4 teaspoon paprika",
+        "1/4 teaspoon cayenne pepper",
+        "1/4 teaspoon ground cumin",
+        "1/4 teaspoon salt",
+        "1/2 lime, juiced",
+        "1/2 cup tomato sauce",
+        "1/4 cup chopped fresh cilantro",
+        "10 medium taco shells, heated",
+        "2 cups shredded lettuce",
+        "2 tomatoes, chopped",
+        "1 avocado - peeled, pitted and diced",
+        "1 cup shredded Cheddar cheese",
+        "1/4 cup salsa"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Tacos I",
     "url": "http://allrecipes.com/recipe/14045/tofu-tacos-i/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add potatoes, and cook until tender but still firm, about 10 minutes. Drain, and place in a large bowl.",
+        "Combine potatoes with butter, milk, sour cream, salt, and pepper. Mash together until smooth and creamy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 pounds small red potatoes, quartered",
+        "\u00bd cup butter",
+        "\u00bd cup milk",
+        "\u00bc cup sour cream",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Suzy's Mashed Red Potatoes",
     "url": "http://allrecipes.com/recipe/22986/suzys-mashed-red-potatoes/"
 }

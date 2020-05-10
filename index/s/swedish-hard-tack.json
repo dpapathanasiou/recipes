@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "Sift together the flour, sugar, baking soda, and salt into a large bowl. Rub in the shortening until the mixture appears sandy. Stir in the buttermilk until the dough holds together.  Roll out on a lightly floured surface to 1/8-inch thick.  Cut into 4-inch squares, then cut each square diagonally into triangles, and prick with a fork.",
+        "Bake the triangles in preheated oven on ungreased cookie sheets until dry and lightly browned, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4640&h=2429&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5865189.jpg",
+    "ingredients": [
+        "2\u2009\u00be cups all-purpose flour",
+        "\u00bc cup white sugar",
+        "\u00bd teaspoon baking soda",
+        "salt",
+        "\u00bd cup butter",
+        "1 cup buttermilk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Hard Tack",
     "url": "http://allrecipes.com/recipe/51724/swedish-hard-tack/"
 }

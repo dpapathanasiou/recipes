@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add the green beans and boil 3 to 4 minutes until just tender. Drain beans and immediately plunge into ice water. Allow to sit in ice water until cold, then drain well, and set aside.",
+        "Cook pancetta in a large skillet over medium-high heat until crispy, then set aside. Reduce heat to medium, stir shallots into the pancetta fat, and cook gently until the shallots have turned dark golden brown, about 10 minutes. Place pancetta and green beans in skillet; toss and cook until warmed through, about 2 minutes. Season to taste with salt and pepper before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F805933.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds fresh green beans, rinsed and trimmed",
+        "3 ounces coarsely chopped pancetta",
+        "1  shallot, thinly sliced",
+        "salt and black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Green Beans",
     "url": "http://allrecipes.com/recipe/140831/savory-green-beans/"
 }

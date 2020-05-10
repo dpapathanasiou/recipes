@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch baking pan with butter; dust with flour, shaking off excess.",
+        "Beat 2 cups sugar, oil, and eggs with an electric mixer until creamy. Beat in milk. Add 2 cups flour and baking powder; beat until batter is smooth.",
+        "Combine 3/4 cup sugar and water in a small saucepan. Simmer until sugar dissolves and syrup is clear and thick, 15 to 20 minutes.",
+        "Pour syrup into prepared baking pan. Arrange banana halves on top. Pour batter over bananas.",
+        "Bake cake in the preheated oven until top is golden brown and a toothpick inserted into the center comes out clean, about 40 minutes. Let cool for 10 minutes before inverting onto a platter."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3750735.jpg",
+    "ingredients": [
+        "1 teaspoon softened butter",
+        "1 dash all-purpose flour",
+        "2 cups white sugar",
+        "1 cup vegetable oil",
+        "3 eggs",
+        "1 cup milk",
+        "2 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "Syrup:",
+        "3/4 cup white sugar",
+        "1/2 cup water",
+        "4 large bananas, halved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bolo de Banana Caramelizada (Caramelized Banana Cake)",
     "url": "http://allrecipes.com/recipe/247382/bolo-de-banana-caramelizada-carameli/"
 }

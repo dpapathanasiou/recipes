@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Peel the sweet potatoes and cut them into slices.",
+        "Melt the butter in a heavy skillet and add the sliced sweet potatoes.",
+        "Mix the sugar, cinnamon, nutmeg and salt. Cover the sweet potatoes with sugar mixture and stir. Cover skillet, reduce heat to low and cook for about 1 hour or until potatoes are \"candied\". They should be tender but a little hard around the edges. Also the sauce will turn dark. You will need to stir occasionally during the cooking. Stir in the vanilla just before serving. Serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "6 large sweet potatoes",
+        "\u00bd cup butter",
+        "2 cups white sugar",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1 tablespoon vanilla extract",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Candied Sweet Potatoes",
     "url": "http://allrecipes.com/recipe/9209/southern-candied-sweet-potatoes/"
 }

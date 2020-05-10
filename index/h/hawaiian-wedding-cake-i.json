@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease one 9 x 13 inch pan.",
+        "In a large bowl, mix sugar, soda, and flour by hand.  Mix in eggs, pineapple with juice.  Stir in nuts, and coconut.  Pour into prepared pan.",
+        "Bake for 35 to 40 minutes.  Cool on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8028983.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups white sugar",
+        "1 teaspoon baking soda",
+        "2 cups all-purpose flour",
+        "2  eggs",
+        "1 (20 ounce) can crushed pineapple with juice",
+        "1 cup chopped walnuts",
+        "\u00be cup flaked coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hawaiian Wedding Cake I",
     "url": "http://allrecipes.com/recipe/8092/hawaiian-wedding-cake-i/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Spray a baking sheet with cooking spray.",
+        "Season the chicken pieces with salt and pepper to taste and place skin-side-up onto the prepared baking sheet. Bake in the preheated oven for 20 minutes.",
+        "While the chicken is baking, stir together the plum jam, 1 1/2 teaspoons pepper, ginger, and horseradish in a small bowl. After the chicken has baked 20 minutes, brush with the plum glaze and return to the oven.",
+        "Continue baking until no longer pink at the bone and the juices run clear, 20 to 30 minutes more.  An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F213484.jpg",
+    "ingredients": [
+        "1 (2.5 pound) whole chicken, cut into pieces",
+        "salt and ground black pepper to taste",
+        "\u2154 cup plum jam",
+        "1\u2009\u00bd teaspoons ground black pepper",
+        "1\u2009\u00bd teaspoons minced fresh ginger root",
+        "1\u2009\u00bc teaspoons prepared horseradish (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken with Plum Glaze",
     "url": "http://allrecipes.com/recipe/166258/chicken-with-plum-glaze/"
 }

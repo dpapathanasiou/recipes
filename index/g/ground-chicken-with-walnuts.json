@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan over medium heat, place chicken, potato, onion and carrot. Pour in water, and bring to a boil. Skim any foam from the surface, and season with 1 1/2 teaspoons salt. Reduce heat, and simmer for 1hour, or until chicken and vegetables are tender. Strain and reserve broth. Discard vegetables. Allow chicken to cool, then remove skin and bones, and shred meat into very small pieces.",
+        "Soften the bread in some of the chicken broth, then squeeze out. In a large bowl, combine bread, ground walnuts, garlic, red pepper, and 1 teaspoon salt. Using your hands, mix well like you're mixing meatballs. Place mixture in cheesecloth, and squeeze oil that the ground walnuts produce into a small bowl; set aside. Place walnut mixture into large bowl. Slowly blend in 1 cup of reserved chicken broth until consistency is like thick soup.",
+        "Place shredded chicken in a porcelain or glass serving dish. Stir in 2 to 3 tablespoons of walnut mixture. Cover chicken with remaining walnut mixture so the chicken is not visible. Smooth surface with the back of a spoon. Pour reserved walnut oil over the top."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (4 pound) chicken, cut into pieces",
+        "1 medium whole potato, peeled",
+        "1 small whole onion, peeled",
+        "1 small whole carrot, peeled",
+        "4 cups water",
+        "1\u2009\u00bd teaspoons salt",
+        "2 (1 inch thick) slices stale French bread, crusts removed",
+        "14 ounces walnuts, ground",
+        "2 cloves garlic, crushed",
+        "2 teaspoons ground red pepper",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ground Chicken With Walnuts",
     "url": "http://allrecipes.com/recipe/44288/ground-chicken-with-walnuts/"
 }

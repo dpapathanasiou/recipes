@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F.",
+        "Generously season tenderloin with salt and pepper. Set aside. In a small mixing bowl, whisk together mustard, brown sugar and thyme.",
+        "Place a large sheet of Reynolds Wrap(R) Aluminum Foil onto a baking sheet. Place onion slices in the center of the foil, in a single layer. Place pork over the onions and brush with 1/2 of the mustard mixture.",
+        "Bring up foil sides. Double fold top and ends to seal packet, leaving room for heat circulation inside. Bake for 40-45 minutes or until the internal temperature reads 130 degrees F.",
+        "Remove from oven. Open packet carefully by cutting along top fold with a sharp knife, allowing steam to escape. When uncovered, brush with remaining mustard mixture. Leaving the packet open, broil for about 1 minute or until a nice crust forms on top. Remove from the oven and allow tenderloin to rest for 10-15 minutes before slicing and serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2822031.jpg",
+    "ingredients": [
+        "2 pounds pork tenderloin",
+        "salt and pepper to taste",
+        "1/4 cup whole grain mustard",
+        "1/4 cup light brown sugar",
+        "2 teaspoons fresh thyme leaves, minced",
+        "1 yellow onion, thinly sliced",
+        "Reynolds Wrap\u00ae Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brown Sugar and Mustard Pork Tenderloin",
     "url": "http://allrecipes.com/recipe/245458/brown-sugar-and-mustard-pork-tenderlo/"
 }

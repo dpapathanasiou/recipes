@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place avocados, bananas, and cocoa powder in a blender; puree until smooth.",
+        "Pour pudding into serving bowls and sprinkle additional cocoa powder on top for garnish.",
+        "Chill in refrigerator for texture and flavor to develop, at least 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1043272.jpg",
+    "ingredients": [
+        "1 ripe avocado, peeled and pitted",
+        "4 very ripe bananas",
+        "1/4 cup unsweetened cocoa powder, plus more for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "ABC Pudding - Avocado, Banana, Chocolate Delight",
     "url": "http://allrecipes.com/recipe/220827/abc-pudding---avocado-banana-chocol/"
 }

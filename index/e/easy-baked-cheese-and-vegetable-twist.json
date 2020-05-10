@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 375 degrees F.",
+        "Mix first 3 ingredients in large bowl until well blended. Stir in next 4 ingredients.",
+        "Unroll dough; separate into 16 triangles. Arrange in 11-inch circle on foil-covered baking sheet, with short sides of triangles overlapping in center and points of triangles toward outside. (There should be a 5-inch diameter opening in center of circle.) Spoon cheese mixture onto dough near center of circle. Bring outside points of triangles up over filling, then tuck under dough in center of ring to cover filling.",
+        "Bake 35 to 40 min. or until crust is golden brown and filling is heated through."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4468162.jpg",
+    "ingredients": [
+        "2 eggs",
+        "4 ounces PHILADELPHIA Cream Cheese, softened",
+        "1/2 cup KRAFT 2% Milk Shredded Italian* Three Cheese Blend",
+        "3 cups frozen broccoli cuts, thawed, drained",
+        "1/2 cup fresh mushrooms, cut into quarters",
+        "1/2 cup cherry tomatoes, cut in half",
+        "4 green onions, sliced",
+        "2 (8 ounce) cans refrigerated crescent dinner rolls"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Baked Cheese and Vegetable Twist",
     "url": "http://allrecipes.com/recipe/230940/easy-baked-cheese-and-vegetable-twist/"
 }

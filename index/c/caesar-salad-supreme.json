@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mince 3 cloves of garlic, and combine in a small bowl with mayonnaise, anchovies, 2 tablespoons of the Parmesan cheese, Worcestershire sauce, mustard, and lemon juice.  Season to taste with salt and black pepper.  Refrigerate until ready to use.",
+        "Heat oil in a large skillet over medium heat. Cut the remaining 3 cloves of garlic into quarters, and add to hot oil. Cook and stir until brown, and then remove garlic from pan. Add bread cubes to the hot oil. Cook, turning frequently, until lightly browned. Remove bread cubes from oil, and season with salt and pepper.",
+        "Place lettuce in a large bowl. Toss with dressing, remaining Parmesan cheese, and seasoned bread cubes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "6 cloves garlic, peeled, divided",
+        "\u00be cup mayonnaise",
+        "5  anchovy fillets, minced",
+        "6 tablespoons grated Parmesan cheese, divided",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon Dijon mustard",
+        "1 tablespoon lemon juice, or more to taste",
+        "salt to taste",
+        "ground black pepper to taste",
+        "\u00bc cup olive oil",
+        "4 cups day-old bread, cubed",
+        "1 head romaine lettuce, torn into bite-size pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caesar Salad Supreme",
     "url": "http://allrecipes.com/recipe/14172/caesar-salad-supreme/"
 }

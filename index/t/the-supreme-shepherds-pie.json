@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place roast beef in an even layer in bottom of a 2 quart casserole dish. Cover with sliced onions, then gravy. Spread mashed potatoes over top.",
+        "Bake in preheated oven for 1 hour, until potatoes are browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2988&h=1564&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2946551.jpg",
+    "ingredients": [
+        "1 pound leftover roast beef, cubed",
+        "2  onions, thinly sliced",
+        "\u00bd cup homemade beef gravy",
+        "4 cups mashed cooked potatoes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Supreme Shepherd's Pie",
     "url": "http://allrecipes.com/recipe/16902/the-supreme-shepherds-pie/"
 }

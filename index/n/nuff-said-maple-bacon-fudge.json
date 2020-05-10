@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes. Drain on paper towels; set aside.",
+        "Stir milk and unsweetened chocolate in a large saucepan over low heat until chocolate melts and mixture is thoroughly combined, 2 to 3 minutes; stir in sugar all at once. Whisk mixture, trying to clean the sides of pan as much as possible.",
+        "Bring the mixture to a boil and cook, stirring constantly, until a candy thermometer inserted into the middle of the fudge reads 236 to 238 degrees F (110 to 115 degrees C), or candy forms a soft ball when dripped into cold water. Remove from heat as soon as candy hits the correct temperature; stir in bacon.",
+        "Place butter squares onto fudge mixture and pour vanilla extract over the top. Set aside with thermometer in the fudge; do not disturb pot until temperature has dropped to 110 to 115 degrees F (43 to 46 degrees C).",
+        "While fudge is cooling, line an 8x8-inch baking dish with aluminum foil and coat with butter. When fudge has reached 110 to 115 degrees F, stir in butter and vanilla extract thoroughly into the fudge; pour fudge into prepared pan.",
+        "Refrigerate fudge for 30 minutes, then score the fudge in desired piece sizes; return to refrigerator for 2 more hours. Cut into pieces to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1826&h=956&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1037521.jpg",
+    "ingredients": [
+        "\u2153 pound smoked maple bacon, cut into 1/4-inch pieces",
+        "\u00be cup milk",
+        "2 (1 ounce) squares unsweetened chocolate",
+        "2 cups white sugar",
+        "3 tablespoons butter, cut into 1-tablespoon chunks",
+        "2 tablespoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "'Nuff Said Maple Bacon Fudge",
     "url": "http://allrecipes.com/recipe/228780/nuff-said-maple-bacon-fudge/"
 }

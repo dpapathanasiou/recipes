@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a Dutch oven or large soup pot over medium heat. Cook bacon in hot oil until crispy and the fat is rendered, about 10 minutes. Remove bacon with a slotted spoon to a plate lined with paper towels.",
+        "Season beef with salt and pepper. Cook and stir about half the beef in the reserved drippings until completely browned, 5 to 7 minutes; remove browned beef with a slotted spoon to a bowl. Cook and stir remaining beef in the pot until completely browned, another 5 to 7 minutes; remove browned beef to the bowl.",
+        "Let the drippings retained in the pot get hot before stirring onions, carrots, celery, and bay leaves into the drippings; cook and stir until the vegetables are hot, 3 to 4 minutes. Add potatoes and garlic; continue cooking and stirring until the vegetables are tender, 3 to 4 minutes more. Stir Worcestershire sauce and tomato paste through the vegetable mixture; cook until the paste begins to blend into the mixture, 1 to 2 minutes.",
+        "Pour the bowl with the browned beef and its juices into the pot; stir to mix with the vegetables. Add beef stock, mushroom soup, and sour cream to the beef mixture; season with rosemary, paprika, and thyme. Stir the mixture to combine.",
+        "Bring the stew to a boil, cover the pot with a lid, and reduce heat to medium-low; cook the stew at a simmer for 90 minutes. Stir the peas into the stew and continue cooking until the beef is tender, about 30 minutes more. Remove and discard bay leaves. Garnish with the bacon to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1940&h=1016&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F968603.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "8 slices bacon, diced",
+        "2\u2009\u00bd pounds cubed beef stew meat, or to taste",
+        "1 pinch salt and ground black pepper to taste",
+        "2  onions, chopped",
+        "2  carrots, chopped",
+        "3 stalks celery, chopped",
+        "2  bay leaves",
+        "\u00bd pound small potatoes, chopped, or to taste",
+        "3 cloves garlic, chopped",
+        "2 tablespoons Worcestershire sauce",
+        "1 tablespoon tomato paste",
+        "1 (32 ounce) carton beef stock",
+        "1 (10.75 ounce) can cream of mushroom soup",
+        "\u00be cup sour cream",
+        "2 tablespoons chopped fresh rosemary",
+        "1 tablespoon paprika",
+        "1 teaspoon dried thyme",
+        "1 (10 ounce) package frozen peas"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef Stewganoff",
     "url": "http://allrecipes.com/recipe/230338/beef-stewganoff/"
 }

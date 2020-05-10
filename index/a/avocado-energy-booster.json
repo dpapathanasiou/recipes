@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ice, avocado, maple syrup, milk, sweetened condensed milk, and vanilla powder into a blender. Puree until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/880048.jpg",
+    "ingredients": [
+        "1/2 cup ice",
+        "2 avocados - peeled, pitted, and cubed",
+        "1/4 cup maple syrup",
+        "1/2 cup milk",
+        "1/4 (14 ounce) can sweetened condensed milk (optional)",
+        "2 cups vanilla flavored whey protein powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Avocado Energy Booster",
     "url": "http://allrecipes.com/recipe/139037/avocado-energy-booster/"
 }

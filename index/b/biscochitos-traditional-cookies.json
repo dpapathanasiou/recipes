@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Sift the flour, baking powder and salt into a bowl, and set aside.",
+        "In a large bowl, cream together the lard and 1 1/2 cups sugar until smooth. Mix in the anise seed, and beat until fluffy. Stir in the eggs one at a time. Add the sifted ingredients and brandy, and stir until well blended.",
+        "On a floured surface, roll the dough out to 1/2 or 1/4 inch thickness, and cut into desired shapes using cookie cutters. The traditional is fleur-de-lis. Place cookies onto baking sheets. Mix together the 1/4 cup of sugar and cinnamon; sprinkle over the tops of the cookies.",
+        "Bake for 10 minutes in the preheated oven, or until the bottoms are lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1845&h=966&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1786717.jpg",
+    "ingredients": [
+        "6 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "\u00bc teaspoon salt",
+        "2 cups lard",
+        "1\u2009\u00bd cups white sugar",
+        "2 teaspoons anise seed",
+        "2  eggs",
+        "\u00bc cup brandy",
+        "\u00bc cup white sugar",
+        "1 tablespoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Biscochitos Traditional Cookies",
     "url": "http://allrecipes.com/recipe/88027/biscochitos-traditional-cookies/"
 }

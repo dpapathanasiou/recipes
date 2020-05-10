@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan stir together rice, chicken stock, herbes de Provence, salt, and pepper. Set over high heat, and bring to a simmer; cover, and cook 20 minutes. Fluff with a fork, and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F384362.jpg",
+    "ingredients": [
+        "1 cup white rice",
+        "2 cups chicken stock",
+        "1\u2009\u00bd teaspoons herbes de Provence",
+        "1 pinch sea salt",
+        "1 pinch pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rice with Herbes de Provence",
     "url": "http://allrecipes.com/recipe/89408/rice-with-herbes-de-provence/"
 }

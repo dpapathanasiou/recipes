@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the pumpkin in a large, deep bowl.",
+        "In a large saucepan, mix the sugar, vinegar, cinnamon sticks and cloves. Boil 5 minutes. Pour the hot liquid  over the pumpkin in the bowl. Cover and set aside 8 hours, or overnight.",
+        "Strain the liquid into a large saucepan. Boil 5 minutes. Remove the cinnamon sticks and cloves, leaving a few bits for decoration. Place the pumpkin back into the liquid and return to boiling. Boil 5 minutes, or until pumpkin is transparent but crisp. Allow the mixture to cool. Transfer to sterile jars and refrigerate."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/917945.jpg",
+    "ingredients": [
+        "4 pounds peeled and diced pumpkin",
+        "5 cups white sugar",
+        "5 cups distilled white vinegar",
+        "4 cinnamon sticks",
+        "15 whole cloves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Elin's Pickled Pumpkin",
     "url": "http://allrecipes.com/recipe/21535/elins-pickled-pumpkin/"
 }

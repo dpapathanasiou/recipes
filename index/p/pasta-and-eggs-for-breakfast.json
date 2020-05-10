@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+        "Beat eggs, Parmesan cheese, salt, and black pepper together thoroughly in a bowl.",
+        "Heat olive oil in an oven-safe skillet over medium heat. Add cooked pasta; toss to coat in olive oil. Add beaten eggs, stir, and cook until eggs begin firming up on the sides of the skillet, about 3 minutes.",
+        "Broil in the preheated oven until eggs are set, 2 to 3 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2205&h=1154&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3143130.jpg",
+    "ingredients": [
+        "6  eggs",
+        "3 tablespoons grated Parmesan cheese",
+        "salt and ground black pepper to taste",
+        "1 tablespoon extra-virgin olive oil",
+        "8 ounces cooked pasta"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pasta and Eggs for Breakfast",
     "url": "http://allrecipes.com/recipe/245650/pasta-and-eggs-for-breakfast/"
 }

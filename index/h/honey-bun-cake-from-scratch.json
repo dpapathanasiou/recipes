@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Grease a fluted tube pan (such as Bundt\u00ae) with 2 tablespoons butter. Add 1/4 cup sugar; shake pan gently until sides are evenly coated with sugar.",
+        "Combine remaining 2/3 cup butter and 1 3/4 cup sugar in a large bowl; beat with an electric mixer until light and fluffy. Add eggs one at a time, beating well after each addition. Mix in vanilla extract.",
+        "Mix flour, baking powder, and salt together in a bowl. Beat flour mixture into the butter mixture alternately with sour cream, beginning and ending with flour mixture and beating batter well after each addition.",
+        "Mix brown sugar and cinnamon together in a small bowl.",
+        "Pour 1/3 of the batter into the prepared pan. Sprinkle 1/2 of the brown sugar-cinnamon mixture over the batter. Repeat once more. Pour remaining batter on top. Swirl batter with a butter knife.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour. Cool in the pan for 5 minutes; invert onto a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4472373.jpg",
+    "ingredients": [
+        "\u00be cup butter, softened, divided",
+        "2 cups white sugar, divided",
+        "3  eggs",
+        "1 tablespoon clear imitation vanilla extract",
+        "2\u2009\u00bd cups all-purpose flour",
+        "2\u2009\u00bd teaspoons baking powder",
+        "\u00bd teaspoon salt",
+        "1\u2009\u00bc cups sour cream",
+        "1 cup brown sugar",
+        "1 tablespoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Bun Cake from Scratch",
     "url": "http://allrecipes.com/recipe/257022/honey-bun-cake-from-scratch/"
 }

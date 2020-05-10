@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bulgur wheat and water in a medium saucepan, and bring to a boil. Reduce heat, cover, and simmer 15 minutes. Remove from heat, and fluff with a fork.",
+        "Place cumin seeds in a medium skillet over medium heat, and cook 1 to 2 minutes, until lightly toasted. Place oil in the skillet, and saute garlic and onions until tender. Stir in the tofu, and cook until lightly browned.",
+        "Mix the broccoli and green bell pepper into the skillet, and cook until tender. Stir in the kumquat slices and basil leaves. Sprinkle with lemon juice, and season with salt and cayenne pepper. Serve over the cooked bulgur wheat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5255066.jpg",
+    "ingredients": [
+        "1 cup dry bulgur wheat",
+        "2 cups water",
+        "1/4 teaspoon cumin seeds",
+        "1 teaspoon vegetable oil",
+        "3 cloves garlic, minced",
+        "1/2 onion, chopped",
+        "1/2 (16 ounce) package firm tofu, drained and cubed",
+        "1 cup chopped broccoli",
+        "1/2 green bell pepper, chopped",
+        "4 kumquats, thinly sliced",
+        "1/4 cup fresh basil leaves",
+        "1/2 lemon, juiced",
+        "salt to taste",
+        "cayenne pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bulgur Veggie Stir Fry",
     "url": "http://allrecipes.com/recipe/51006/bulgur-veggie-stir-fry/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Meanwhile, season salmon fillets with salt and pepper.",
+        "Spray a large skillet with cooking spray and heat over medium-high heat. Place salmon fillets into the skillet and cook until golden, about 3 minutes on each side. Cover and reduce heat to medium and continue cooking until the salmon flakes easily with a fork, 2 to 3 minutes longer. Remove salmon from the skillet and set aside. Stir orange juice and soy sauce into the same skillet. Cook on high heat until slightly thickened, 1 to 2 minutes. Remove from heat and stir in the sesame oil. Spoon sauce over the salmon and serve with rice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/375228.jpg",
+    "ingredients": [
+        "2 cups uncooked white rice",
+        "4 cups water",
+        "4 (5 ounce) salmon fillets",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "6 tablespoons orange juice",
+        "6 tablespoons soy sauce",
+        "1 teaspoon sesame oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Salmon with Rice",
     "url": "http://allrecipes.com/recipe/212773/orange-salmon-with-rice/"
 }

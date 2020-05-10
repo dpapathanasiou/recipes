@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place beans in a large pot, and cover with 3 inches of water. Bring to a boil, reduce heat, and simmer 1 1/2 hours, or until tender. Drain, reserving liquid.",
+        "Heat oil in a large skillet over medium heat. Saute shallot and garlic until fragrant. Stir in cooked beans, and cook for 2 minutes. Measure reserved liquid, and add water to equal 5 cups; stir into skillet. Stir in the uncooked rice. Season with bay leaves, adobo seasoning, salt, pepper, and cloves. Place sprigs of parsley and thyme, and scotch bonnet pepper on top, and bring to a boil. Reduce heat, cover, and simmer for 18 to 20 minutes. Remove thyme, parsley, and scotch bonnet pepper to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2816&h=1474&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1044563.jpg",
+    "ingredients": [
+        "1 (8 ounce) package dry kidney beans",
+        "4 tablespoons olive oil",
+        "1 bulb shallot, minced",
+        "3 cloves garlic, minced",
+        "1 cup uncooked long grain white rice",
+        "2  bay leaves",
+        "1 teaspoon adobo seasoning (optional)",
+        "1 tablespoon kosher salt",
+        "freshly ground black pepper to taste",
+        "\u00bc teaspoon ground cloves",
+        "3 sprigs fresh parsley",
+        "3 sprigs fresh thyme",
+        "1  scotch bonnet chile pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rice & Beans (Haitian Style)",
     "url": "http://allrecipes.com/recipe/53063/rice-beans-haitian-style/"
 }

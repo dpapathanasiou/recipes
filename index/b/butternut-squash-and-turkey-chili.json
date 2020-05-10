@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large pot over medium heat. Stir in the onion and garlic; cook and stir for 3 minutes, then add the turkey, and stir until crumbly and no longer pink.",
+        "Add the butternut squash, chicken broth, green chilies, tomatoes, kidney beans, hominy, and tomato sauce; season with chili powder, cumin, and garlic salt. Bring to a simmer, then reduce heat to medium-low, cover, and simmer until the squash is tender, about 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1590851.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 pound ground turkey breast",
+        "1 pound butternut squash - peeled, seeded and cut into 1-inch dice",
+        "1/2 cup chicken broth",
+        "1 (4.5 ounce) can chopped green chilies",
+        "2 (14.5 ounce) cans petite diced tomatoes",
+        "1 (15 ounce) can kidney beans with liquid",
+        "1 (15.5 ounce) can white hominy, drained",
+        "1 (8 ounce) can tomato sauce",
+        "1 tablespoon chili powder",
+        "1 tablespoon ground cumin",
+        "1 teaspoon garlic salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butternut Squash and Turkey Chili",
     "url": "http://allrecipes.com/recipe/131107/butternut-squash-and-turkey-chili/"
 }

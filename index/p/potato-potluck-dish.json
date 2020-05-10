@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large saucepan of salted water to a boil. Place potatoes in the saucepan and cook until tender but firm, about 15 minutes. Drain and cool.",
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+        "In a large bowl, mix the potatoes, onion powder, minced garlic, sour cream, cream of mushroom soup and Cheddar cheese. Pour into the baking dish. Sprinkle with mozzarella cheese.",
+        "Bake in the preheated oven 45 minutes, or until browned and bubbly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F618772.jpg",
+    "ingredients": [
+        "2 pounds potatoes, diced",
+        "2 teaspoons onion powder",
+        "2 teaspoons minced garlic",
+        "2 cups sour cream",
+        "2\u2009\u00bd cups condensed cream of mushroom soup",
+        "2 cups shredded Cheddar cheese",
+        "\u2154 cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato Potluck Dish",
     "url": "http://allrecipes.com/recipe/23587/potato-potluck-dish/"
 }

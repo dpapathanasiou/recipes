@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the split peas, water, smoked turkey legs, chicken broth, carrot, celery, potatoes, onion, garlic powder, oregano, and bay leaves in a slow cooker. Cover, set the cooker to High, and cook until the peas are tender and the soup is thickened, 4 to 5 hours. Discard bay leaves to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/772468.jpg",
+    "ingredients": [
+        "1 pound dried split peas",
+        "5 cups water, or more if needed",
+        "3 pounds smoked turkey legs",
+        "3 cups chicken broth",
+        "1 1/2 cups chopped carrot",
+        "1 cup chopped celery",
+        "2 potatoes, peeled and chopped",
+        "1 onion, chopped",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon dried oregano",
+        "2 bay leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Split Pea Smoked Turkey Soup",
     "url": "http://allrecipes.com/recipe/216100/split-pea-smoked-turkey-soup/"
 }

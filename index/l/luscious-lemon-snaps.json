@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F ( 175 degrees C ). Grease cookie sheets.",
+        "In a medium bowl, stir together the flour, sugar, baking soda, salt, and lemon zest. Make a well in the center and  fill it with the oil, lemon juice, and vanilla.  Stir everything together until it forms a dough. Alternate method: Put everything into the food processor and blend until dough forms.",
+        "Drop cookie dough by teaspoonfuls, about 2 inches apart, onto the prepared cookie sheet. Bake for 10 to 12 minutes in the preheated oven. Edges should be golden brown. For a softer cookie, bake for only 7 minutes. Cool on racks, and store in an airtight container."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4550046.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups all-purpose flour",
+        "1\u2009\u00bd cups white sugar",
+        "2 teaspoons baking soda",
+        "\u00bc teaspoon salt",
+        "2 tablespoons lemon zest",
+        "\u00be cup vegetable oil",
+        "\u00bd cup fresh lemon juice",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Luscious Lemon Snaps",
     "url": "http://allrecipes.com/recipe/11605/luscious-lemon-snaps/"
 }

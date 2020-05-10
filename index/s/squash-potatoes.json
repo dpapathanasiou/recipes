@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Place the potatoes on a baking sheet, and bake 45 minutes, until cooked through and tender.",
+        "Place the squash in a pot with enough water to cover, and bring to a boil. Cook 10 minutes, or until tender. Transfer to a colander, and allow to drain for 30 minutes.",
+        "Cut the baked potatoes in half, and scoop out the pulp, taking care to leave skins intact. In a large bowl, mash together the potato pulp, squash, and butter. Spoon the mixture into the potato skins, and place on a baking sheet. Sprinkle with seasoned salt.",
+        "Reduce oven temperature to 350 degrees F (175 degrees C). Bake stuffed potato skins 30 minutes, until surface of filling is lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F787908.jpg",
+    "ingredients": [
+        "4 large baking potatoes",
+        "1 pound banana squash, peeled and cubed",
+        "\u00bd cup butter",
+        "2 teaspoons seasoned salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Squash Potatoes",
     "url": "http://allrecipes.com/recipe/75089/squash-potatoes/"
 }

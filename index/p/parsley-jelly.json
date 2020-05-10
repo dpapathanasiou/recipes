@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Make a strong infusion by pouring the boiling water over the parsley. Let stand for 15 minutes. Strain out bits of parsley, and reserve liquid in a glass or stainless steel saucepan.",
+        "Stir the honey and vinegar into the parsley water. Bring to a boil over medium-high heat. Add the pectin, and continue to boil, stirring constantly, for 1 minute. Remove from heat, and skim off any foam from the top. Transfer to sterile jars, and seal in a hot water bath."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 1/2 cups boiling water",
+        "10 tablespoons chopped fresh parsley",
+        "1/4 cup cider vinegar",
+        "2 1/2 cups honey",
+        "1/2 (6 fluid ounce) container liquid pectin"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Parsley Jelly",
     "url": "http://allrecipes.com/recipe/46171/parsley-jelly/"
 }

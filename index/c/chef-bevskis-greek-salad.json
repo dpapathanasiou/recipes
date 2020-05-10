@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk olive oil, vinegar, dill, salt, and black pepper together in a bowl.",
+        "Mix cucumber, broccoli, cauliflower, plum tomatoes, red cabbage, red onion, red bell pepper, green bell pepper, olives, and feta cheese together in a large bowl. Drizzle dressing over vegetable mixture; toss to coat. Refrigerate at least 1 hour to allow flavors to marinate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5376&h=2815&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4459101.jpg",
+    "ingredients": [
+        "\u00be cup olive oil",
+        "\u00bc cup red wine vinegar",
+        "\u00bc cup chopped fresh dill",
+        "salt and ground black pepper to taste",
+        "1  cucumber, peeled and diced",
+        "1 cup chopped broccoli",
+        "1 cup chopped cauliflower",
+        "2  plum tomatoes, diced",
+        "\u00bc head red cabbage, shredded",
+        "\u00bc large red onion, diced",
+        "\u00bd  red bell pepper, chopped",
+        "\u00bd  green bell pepper, chopped",
+        "1 (5 ounce) jar pimento-stuffed green olives, sliced",
+        "1 (4 ounce) package feta cheese, crumbled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef Bevski's Greek Salad",
     "url": "http://allrecipes.com/recipe/228611/chef-bevskis-greek-salad/"
 }

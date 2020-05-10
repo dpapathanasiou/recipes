@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spray one 9x13 inch baking dish with non-stick spray.",
+        "Bring a pot of water to a boil; blanch zucchini, drain and cool.",
+        "In a shallow bowl, mix together 1 1/2 cups flour, 1 tablespoon garlic powder and salt and pepper to taste. In a separate bowl, combine the milk, 2 teaspoons garlic, salt and pepper to taste.",
+        "Cut ends off zucchini and then cut in thirds. Roll zucchini in flour mixture, then in milk and again in flour to cover completely. Set aside on parchment paper until all pieces are covered.",
+        "Heat large frying pan over medium high heat, add oil and brown zucchini on all sides. Remove and arrange in a 9x13 inch baking dish.  Spread sour cream over zucchini and top with cheese.",
+        "Bake for 20 to 25 minutes or until cheese is beginning to brown. Remove from oven and let sit for 10 minutes and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6661435.jpg",
+    "ingredients": [
+        "12 small zucchinis",
+        "1\u2009\u00bd cups all-purpose flour",
+        "1 tablespoon garlic powder",
+        "salt and pepper to taste",
+        "1 cup milk",
+        "2 teaspoons garlic powder",
+        "salt and pepper to taste",
+        "16 ounces sour cream",
+        "3 cups shredded sharp Cheddar cheese",
+        "\u2153 cup vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Zucchini Dish",
     "url": "http://allrecipes.com/recipe/13853/cheesy-zucchini-dish/"
 }

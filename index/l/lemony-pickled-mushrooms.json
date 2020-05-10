@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill four sterilized 8-ounce jars 3/4 of the way with mushrooms. Place 1 thyme sprig and some serrano pepper slices on top.",
+        "Combine white wine, water, kosher salt, sugar, garlic, peppercorns, coriander seeds, and lemon zest in a small saucepan over medium-low heat. Simmer, stirring occasionally, until sugar dissolves, about 5 minutes. Remove from heat and pour over mushroom mixture in each jar.",
+        "Tightly seal each jar and transfer to the refrigerator. Chill until flavors meld, 1 to 2 days."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4466884.jpg",
+    "ingredients": [
+        "3 cups sliced fresh mushrooms, or more to taste",
+        "4 sprigs fresh thyme",
+        "1/2 serrano pepper, thinly sliced, or more to taste",
+        "Brine:",
+        "1 cup white wine",
+        "1/2 cup water",
+        "2 1/2 tablespoons kosher salt",
+        "1 tablespoon white sugar",
+        "4 cloves garlic, thinly sliced",
+        "20 whole black peppercorns",
+        "12 coriander seeds",
+        "3 (1-inch) strips lemon zest, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemony Pickled Mushrooms",
     "url": "http://allrecipes.com/recipe/256819/lemony-pickled-mushrooms/"
 }

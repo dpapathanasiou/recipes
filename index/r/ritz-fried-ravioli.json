@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large frying pan, over medium heat, add the vegetable oil until it is about 2 inches deep. Heat to 325 degrees F.",
+        "While the oil is heating, place the RITZ Crackers in a food processor and pulse until the crackers are crushed into fine crumbs.  Pour the crumbs into a shallow dish.  Add the garlic powder, pepper, Italian seasoning and 2 tablespoons of the parmesan cheese. Stir until all spices are evenly distributed.",
+        "Whisk together the egg and milk in a bowl.",
+        "Dip each ravioli in the egg mixture, then into the RITZ cracker crumbs.  Be sure each ravioli is evenly coated with cracker crumbs.  Shake off any excess.",
+        "Once the oil is hot enough, add small batches of the RITZ cracker-coated ravioli into the oil. Fry for approximately 1 minute on each side.  Watch closely so they do not burn; they cook quickly.  When ravioli are golden brown on each side, remove from the oil and place on a paper towel-lined plate to drain.",
+        "Sprinkle the ravioli with remaining grated parmesan cheese and (optional) chopped parsley. Serve with warm marinara sauce for dipping."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7623266.jpg",
+    "ingredients": [
+        "3 cups vegetable oil for frying",
+        "20  RITZ Crackers",
+        "\u00bd teaspoon garlic powder",
+        "\u00bc teaspoon black pepper",
+        "1 teaspoon Italian seasoning",
+        "2 tablespoons milk",
+        "1  egg",
+        "1 (12 ounce) package large refrigerated cheese ravioli (about 24)",
+        "3 tablespoons grated Parmesan cheese, divided",
+        "1\u2009\u00bd cups warm marinara sauce for dipping (optional)",
+        "Chopped fresh parsley (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "RITZ Fried Ravioli",
     "url": "http://allrecipes.com/recipe/235904/ritz-fried-ravioli/"
 }

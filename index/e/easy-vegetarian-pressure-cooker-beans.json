@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place black beans into a large container and cover with 9 cups water; let stand 8 hours to overnight. Drain and rinse beans.",
+        "Combine beans, onion, olive oil, garlic, cumin seeds, mustard seeds, and salt in a pressure cooker; add enough water as suggested by pressure cooker manual.",
+        "Cook beans according to pressure cooker manual until tender; season with salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2130322.jpg",
+    "ingredients": [
+        "3 cups dried black beans",
+        "9 cups water",
+        "1  onion, diced",
+        "3 tablespoons olive oil",
+        "4 cloves garlic, diced",
+        "2 teaspoons cumin seeds",
+        "2 teaspoons black mustard seeds",
+        "salt to taste",
+        "1 cup water as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Vegetarian Pressure Cooker Beans",
     "url": "http://allrecipes.com/recipe/241511/easy-vegetarian-pressure-cooker-beans/"
 }

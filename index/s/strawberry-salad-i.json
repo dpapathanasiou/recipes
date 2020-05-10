@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, mix together salad dressing, milk, sugar, vinegar, and poppy seeds.  Refrigerate until ready to use.",
+        "Combine lettuce, onion, strawberries, pecans, and red bell pepper in a salad bowl.  Toss with dressing."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/716130.jpg",
+    "ingredients": [
+        "1/2 cup fat-free creamy salad dressing (ie: Fat Free Miracle Whip TM)",
+        "1/4 cup milk",
+        "1/4 cup white sugar",
+        "1/8 cup distilled white vinegar",
+        "1 tablespoon poppy seeds",
+        "1 head romaine lettuce, torn into bite-size pieces",
+        "1/2 red onion, sliced",
+        "1 cup sliced fresh strawberries",
+        "1/2 cup toasted pecans",
+        "1/4 cup red bell pepper, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Salad I",
     "url": "http://allrecipes.com/recipe/14149/strawberry-salad-i/"
 }

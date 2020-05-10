@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat Panasonic Countertop Induction Oven to Medium on the \"Grill\" setting.",
+        "Mix honey and sriracha sauce together in a bowl.",
+        "Spread chicken on the grill pan and set the timer for 4 minutes. Turn chicken after 2 minutes. Remove from the oven and stir into the honey mixture.",
+        "Unroll pizza crust flat onto the grill pan. Spread ranch dressing on top. Remove chicken from the honey mixture and place on top of the ranch dressing. Sprinkle Colby Jack cheese over chicken.",
+        "Place pizza in the oven and press \"Auto Cook.\" Select the frozen pizza setting, 12-inch size. Allow pizza to cook until timer goes off, about 13 minutes. Cut pizza into slices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2689&h=1408&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4463738.jpg",
+    "ingredients": [
+        "\u00bd cup honey",
+        "3 tablespoons sriracha sauce, or more to taste",
+        "2  skinless, boneless chicken breasts, cut into 3/4-inch pieces",
+        "1 (10 ounce) container refrigerated pizza crust",
+        "\u2154 cup ranch dressing",
+        "1 cup Colby Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sriracha Honey Chicken Pizza",
     "url": "http://allrecipes.com/recipe/256633/sriracha-honey-chicken-pizza/"
 }

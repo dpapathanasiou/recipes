@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon oil over medium heat in a large skillet. Add onions and brown sugar and cook, stirring often, until the onions are very tender and golden brown, about 15 minutes. Add broth, vinegar and 1/4 teaspoon salt and cook, stirring, until the liquid has almost evaporated, 3 to 4 minutes more. Transfer the onions to a bowl; cover to keep warm. Clean and dry the pan.",
+        "Sprinkle the remaining 1/4 teaspoon salt and pepper on both sides of each steak. Heat the remaining 1 tablespoon oil in the pan over medium-high heat. Add the steaks and cook until browned, 3 to 5 minutes. Turn them over and top with cheese. Reduce heat to medium-low, cover and cook until the cheese is melted and the steaks are cooked to desired doneness, 3 to 5 minutes for medium-rare. Serve the steaks with the caramelized onions."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1295592.jpg",
+    "ingredients": [
+        "2 tablespoons canola oil, divided",
+        "2 large onions, sliced",
+        "1 tablespoon brown sugar",
+        "1/2 cup reduced-sodium beef broth",
+        "1 tablespoon balsamic vinegar",
+        "1/2 teaspoon salt, divided",
+        "1/4 teaspoon freshly ground black pepper",
+        "1 pound beef tenderloin (filet mignon) or sirloin steak, 1 to 1 1/4-inch thick, trimmed and cut into 4 steaks",
+        "1/4 cup crumbled Gorgonzola or blue cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seared Steaks with Caramelized Onions and Gorgonzola",
     "url": "http://allrecipes.com/recipe/238779/seared-steaks-with-caramelized-onions/"
 }

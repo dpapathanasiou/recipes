@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+        "Combine ground turkey, chicken sausage, bread crumbs, basil, milk, garlic, Parmesan cheese, kosher salt, and black pepper in a bowl; mix gently with a fork. Drop mixture, about 1 1/4-inch diameter per meatball, onto the prepared baking sheet using a spoon.",
+        "Bake in the preheated oven until cooked through and lightly browned, about 30 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2212&h=1158&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3322508.jpg",
+    "ingredients": [
+        "\u00be pound ground turkey",
+        "\u00bd pound chicken sausage, casings removed",
+        "\u2154 cup gluten-free bread crumbs",
+        "3 tablespoons chopped fresh basil",
+        "3 tablespoons milk",
+        "2 teaspoons minced garlic",
+        "\u00bc cup grated Parmesan cheese",
+        "1 teaspoon kosher salt",
+        "\u00bd teaspoon ground black pepper",
+        "1  egg, lightly beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten-Free Turkey Meatballs",
     "url": "http://allrecipes.com/recipe/246456/gluten-free-turkey-meatballs/"
 }

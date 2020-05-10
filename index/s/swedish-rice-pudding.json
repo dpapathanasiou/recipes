@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the rice is tender and liquid has been absorbed, 20 to 25 minutes.",
+        "Preheat oven to 325 degrees F (165 degrees C). Grease an 8-inch square baking dish.",
+        "Stir milk into rice until evenly combined. Mix eggs, sugar, pudding mix, butter, vanilla extract, and salt into rice mixture; transfer to the prepared baking dish.",
+        "Bake in the preheated oven until a knife inserted in the pudding comes out clean, about 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1832879.jpg",
+    "ingredients": [
+        "2 cups water",
+        "1/2 cup white rice",
+        "2 2/3 cups whole milk",
+        "3 eggs, slightly beaten",
+        "1/2 cup white sugar",
+        "1 (4-serving size) package cook-and-serve vanilla pudding mix",
+        "1 tablespoon butter",
+        "1/2 teaspoon vanilla extract",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Rice Pudding",
     "url": "http://allrecipes.com/recipe/240493/swedish-rice-pudding/"
 }

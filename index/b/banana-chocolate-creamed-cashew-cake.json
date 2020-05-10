@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak cashews in a bowl with water to cover, 3 hours to overnight; drain.",
+        "Mix almonds, pecans, dates, 2 teaspoons coconut oil, cocoa powder, and salt together in the bowl of a food processor until finely ground and beginning to form a paste, 1 to 3 minutes. Press mixture into the bottom of a 9-inch springform pan. Refrigerate crust until ready to use.",
+        "Process cashews in the bowl of a food processor until finely ground. Add banana, cinnamon, nutmeg, and vanilla extract; blend until combined. Add 3/4 cup coconut oil in a thin stream through the feed tube while processor is running until smooth, thin filling forms. Pour filling into crust and place in the refrigerator until set, at least 4 hours.",
+        "Place chopped chocolate in a heatproof bowl. Heat coconut milk in a saucepan until near boiling; pour over chocolate. Whisk until smooth glaze forms. Pour over cake and refrigerate until set, at least 30 minutes more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5967370.jpg",
+    "ingredients": [
+        "3 cups raw cashews",
+        "1 cup almonds",
+        "1 cup pecans",
+        "4  Medjool dates, pitted",
+        "2 teaspoons coconut oil, melted",
+        "2 teaspoons cocoa powder",
+        "\u00bc teaspoon salt",
+        "4 cups banana, coarsely chopped",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon vanilla extract",
+        "\u00be cup coconut oil, melted",
+        "\u00bd cup chopped vegan dark chocolate",
+        "\u00bc cup coconut milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana Chocolate Creamed Cashew Cake",
     "url": "http://allrecipes.com/recipe/246514/banana-chocolate-creamed-cashew-cake/"
 }

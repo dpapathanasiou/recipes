@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a cocktail mixer full of ice, combine chocolate liqueur and vodka. Shake vigorously and strain into 2 chilled martini glasses. Garnish with chocolate shavings."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/970099.jpg",
+    "ingredients": [
+        "4 fluid ounces chocolate liqueur",
+        "3 fluid ounces vodka",
+        "1 (1 ounce) square semisweet chocolate, grated"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Martini a la Laren",
     "url": "http://allrecipes.com/recipe/32310/chocolate-martini-a-la-laren/"
 }

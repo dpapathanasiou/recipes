@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, combine rosemary, ground pepper, and salt; rub rosemary mixture on pork chops.",
+        "Melt butter in a large skillet over medium-high heat; stir the garlic into the melted butter, then place the pork chops in the skillet. Cook the pork chops 3 to 5 minutes per side, or until golden brown.",
+        "Turn the heat down to low, pour in the beef broth, and simmer for 35 to 45 minutes, or until pork chops are fully cooked and meat thermometer inserted into thickest chop reads 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/838297.jpg",
+    "ingredients": [
+        "2 teaspoons dried rosemary",
+        "1 teaspoon ground black pepper",
+        "1/2 teaspoon salt",
+        "2 tablespoons butter",
+        "4 (6 ounce) boneless center-cut pork loin chops, trimmed of fat",
+        "2 cloves garlic, chopped",
+        "1 cup low-sodium beef broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rosemary and Garlic Simmered Pork Chops",
     "url": "http://allrecipes.com/recipe/141124/rosemary-and-garlic-simmered-pork-cho/"
 }

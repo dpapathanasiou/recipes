@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 250 degrees F (120 degrees C). Trim off any excess fat from roast. Make several deep slits and insert a half clove of garlic in each slit.",
+        "Place roast in an aluminum oven pouch. Pour soup over roast. Then sprinkle soup mix over the roast followed by the Worcestershire sauce. Seal pouch tightly and place on a baking sheet.",
+        "Bake in a preheated oven for 8 to 9 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=974&h=510&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970714.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds beef sirloin roast",
+        "10 cloves garlic, halved",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (1 ounce) package dry onion soup mix",
+        "2 tablespoons Worcestershire sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Stuffed Roast",
     "url": "http://allrecipes.com/recipe/23391/garlic-stuffed-roast/"
 }

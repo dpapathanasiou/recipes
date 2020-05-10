@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Place the bacon in a large, deep skillet and cook over medium-high heat, turning occasionally, until crisp and evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate; crumble the drained bacon into a bowl. Stir in the cream cheese, 2 tablespoons Parmesan cheese, Worcestershire sauce, and pepper until evenly mixed. Spoon the filling into the mushroom caps and place into an 8x8-inch baking dish. Sprinkle with the remaining 2 tablespoons of Parmesan cheese.",
+        "Bake in the preheated oven until the mushrooms are tender and the filling is golden brown, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2060&h=1079&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F228922.jpg",
+    "ingredients": [
+        "3 slices bacon",
+        "\u00bd (8 ounce) package cream cheese, softened",
+        "2 tablespoons grated Parmesan cheese",
+        "3 drops Worcestershire sauce",
+        "2 dashes ground black pepper",
+        "1 pound mushrooms, stems removed",
+        "2 tablespoons grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Best Stuffed Mushrooms",
     "url": "http://allrecipes.com/recipe/169625/the-best-stuffed-mushrooms/"
 }

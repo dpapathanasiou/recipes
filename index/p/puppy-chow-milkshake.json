@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chocolate chips and peanut butter in a microwave-safe bowl; heat in microwave for 1 minute. Stir mixture and heat in microwave for 30 seconds more; stir.",
+        "Combine ice cream, milk, and chocolate mixture in a blender; blend on high for 40 seconds."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4449836.jpg",
+    "ingredients": [
+        "1/4 cup semisweet chocolate chips",
+        "2 tablespoons peanut butter",
+        "1 cup vanilla ice cream",
+        "1/4 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Puppy Chow Milkshake",
     "url": "http://allrecipes.com/recipe/255538/puppy-chow-milkshake/"
 }

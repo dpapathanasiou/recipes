@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a pot, bring the basmati rice and 3 cups water to a boil. Reduce heat to low, cover, and simmer 20 minutes.",
+        "Heat the oil in a large saucepan over medium heat. Brown the corned beef in the saucepan, and cook the onion and garlic until tender. Season with ginger, turmeric, coriander, salt, chili powder, cinnamon, and cardamom.",
+        "Place the bay leaves in the saucepan, and pour in 1 cup water. Bring to a boil. Mix in the potatoes, reduce heat to low, and simmer 30 minutes. Stir occasionally, and add more water as needed to keep the ingredients moist.",
+        "Cover the saucepan, and continue cooking 10 minutes, until potatoes are tender. Serve the beef and potato mixture over the basmati rice."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1\u2009\u00bd cups basmati rice",
+        "1 quart water, divided",
+        "\u2153 cup vegetable oil",
+        "1\u2009\u00bd pounds corned beef, cubed",
+        "\u00bd cup diced onion",
+        "2 cloves garlic, chopped",
+        "1 tablespoon ground ginger",
+        "2 teaspoons ground turmeric",
+        "2 teaspoons ground coriander",
+        "2 teaspoons salt",
+        "1\u2009\u00bd teaspoons chili powder",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bd teaspoon ground cardamom",
+        "2  bay leaves",
+        "4  potatoes, diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shelly's Meat Curry",
     "url": "http://allrecipes.com/recipe/73479/shellys-meat-curry/"
 }

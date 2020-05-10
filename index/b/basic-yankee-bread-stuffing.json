@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Lightly grease a 9x13 inch baking dish.",
+        "Place pork sausage in a large, deep skillet. Cook over medium high heat until evenly brown. Drain and set aside.",
+        "Melt the butter in a large saucepan over medium heat. Place the celery and onions in the saucepan, and slowly cook and stir until tender.",
+        "Mix together the sausage, celery, onions, bread, sage, salt and pepper in a large bowl.",
+        "Pour the eggs and chicken broth into the mixture. Use more broth if needed. The stuffing should be moist, not mushy.",
+        "Press the mixture into the baking dish. Bake 1 hour in the preheated oven, or until the top is brown and crisp."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3000&h=1571&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1080156.jpg",
+    "ingredients": [
+        "1 pound ground pork sausage",
+        "1 tablespoon butter",
+        "6 stalks chopped celery",
+        "2  onions, chopped",
+        "2 (1 pound) loaves day-old white bread, torn into small pieces",
+        "1\u2009\u00bd teaspoons sage seasoning mixture",
+        "salt and pepper to taste",
+        "2  eggs, lightly beaten",
+        "1 cup chicken broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Yankee Bread Stuffing",
     "url": "http://allrecipes.com/recipe/23584/basic-yankee-bread-stuffing/"
 }

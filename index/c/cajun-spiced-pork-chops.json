@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix paprika, cumin, black pepper, cayenne pepper, sage, and garlic salt on a plate. Liberally coat each pork chop with the spice mixture.",
+        "Heat olive oil and several pumps of non-stick, butter-flavored spray in a large skillet over high heat. Place pork chops in the skillet, reducing heat to medium. Cook until the pork is no longer pink in the center, 8 to 10 minutes. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 teaspoon paprika",
+        "\u00bd teaspoon ground cumin",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon cayenne pepper",
+        "\u00bd teaspoon rubbed dried sage leaves",
+        "\u00bd teaspoon garlic salt",
+        "1\u2009\u00bd teaspoons extra-virgin olive oil",
+        "4  center cut pork chops"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cajun Spiced Pork Chops",
     "url": "http://allrecipes.com/recipe/199581/cajun-spiced-pork-chops/"
 }

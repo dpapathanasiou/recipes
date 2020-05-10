@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 9-inch round pans, and line them with wax paper or parchment.",
+        "Sift flour with baking soda. Dissolve 1/3 cup instant coffee in the water.",
+        "In a large bowl, beat white sugar, 3 eggs, and vanilla until light and fluffy. Blend in mayonnaise and the melted chocolate. Add flour mixture alternately with the coffee to the batter, one-third at a time; mix with electric mixer on low speed after each addition. Pour batter into prepared pans.",
+        "Bake in preheated oven until cake tester inserted in center comes out clean, about 35 minutes. Cool cake in pans for 10 minutes. Remove, and cool completely on wire racks.",
+        "Melt 4 squares chocolate with milk and 2 tablespoons instant coffee in a double boiler; blend until smooth. Pour hot chocolate mixture into the beaten egg, whisking constantly. Allow to cool.",
+        "In a mixing bowl, cream butter and confectioners' sugar until light and fluffy. Add chocolate mixture to butter mixture, and blend frosting well.",
+        "When layers have cooled, cut each horizontally to make 4 layers. Fill and frost the cake with the frosting."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2\u2009\u00bc cups all-purpose flour",
+        "1\u2009\u00bd teaspoons baking soda",
+        "\u2153 cup instant coffee granules",
+        "1\u2009\u2153 cups water",
+        "1\u2009\u2154 cups white sugar",
+        "3  eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup mayonnaise",
+        "3 (1 ounce) squares unsweetened chocolate, melted",
+        "4 (1 ounce) squares unsweetened chocolate",
+        "\u00bd cup milk",
+        "2 tablespoons instant coffee powder",
+        "1  egg, beaten",
+        "1 cup butter",
+        "3 cups confectioners' sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mocha Magic Torte",
     "url": "http://allrecipes.com/recipe/7693/mocha-magic-torte/"
 }

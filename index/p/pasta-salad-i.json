@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook pasta according to package directions. Drain and rinse pasta under cold water.",
+        "Place pasta in a large serving bowl add the all the vegetables and toss to combine.",
+        "Combine the mayonnaise, vinegar and sugar together, whisk until smooth. Pour over salad and mix well. Season to taste with salt and pepper and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2544828.jpg",
+    "ingredients": [
+        "3 cups fusilli pasta",
+        "3/4 cup broccoli florets",
+        "3/4 cup cauliflower florets",
+        "1/2 cup red onion, sliced",
+        "1/2 cup thinly sliced carrots",
+        "1/2 cup red bell pepper, chopped",
+        "1/2 cup chopped green bell pepper",
+        "1/2 cup chopped mushrooms",
+        "1/2 cup chopped celery",
+        "3/4 cup light mayonnaise",
+        "1/4 cup distilled white vinegar",
+        "1/4 cup white sugar",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pasta Salad I",
     "url": "http://allrecipes.com/recipe/11813/pasta-salad-i/"
 }

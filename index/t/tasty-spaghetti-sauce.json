@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ground beef in a non-stick wok, or large deep skillet. Cook over medium heat until evenly brown. Drain excess fat. Add onion, and cook until soft and translucent. Season with salt and pepper. Stir in garlic, tomato paste, tomato sauce and diced tomatoes. Season with thyme, basil, rosemary, marjoram and bay leaf. Cover, and simmer on low heat for 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7700241.jpg",
+    "ingredients": [
+        "1 pound extra-lean ground beef",
+        "1 small onion, finely chopped",
+        "2 teaspoons salt",
+        "3 teaspoons pepper",
+        "2 cloves garlic, minced",
+        "1 (6 ounce) can tomato paste",
+        "1 (15 ounce) can tomato sauce",
+        "1 (28 ounce) can diced tomatoes",
+        "4 teaspoons dried thyme",
+        "2 teaspoons dried basil leaves",
+        "2 teaspoons dried rosemary",
+        "1 teaspoon dried marjoram",
+        "1 teaspoon crushed bay leaf"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tasty Spaghetti Sauce",
     "url": "http://allrecipes.com/recipe/46678/tasty-spaghetti-sauce/"
 }

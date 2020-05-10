@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in ziti and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 10 minutes. Drain.",
+        "Heat oil in a skillet over medium heat; add onion and green pepper. Cook and stir until soft, 5 to 7 minutes; remove from skillet. Place chicken into the skillet; cook and stir until no longer pink, 7 to 10 minutes.",
+        "Combine salsa, cream cheese, and taco seasoning in a saucepan over low heat: cook until cream cheese is melted, about 5 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine ziti, chicken, salsa mixture, black beans, corn, and onion mixture in a large bowl. Add 8 ounces Cheddar cheese; mix until combined. Pour into a baking pan.",
+        "Bake in the preheated oven for 20 minutes. Remove from oven; top with remaining Cheddar cheese. Bake until cheese is melted, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 pound ziti pasta",
+        "1 tablespoon vegetable oil",
+        "1  onion, sliced",
+        "1  green bell pepper, sliced",
+        "1 pound boneless chicken breast, cubed",
+        "1 (16 ounce) jar salsa",
+        "2 (8 ounce) packages cream cheese, softened",
+        "1 (1 ounce) package taco seasoning",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 (15 ounce) can corn, drained",
+        "1 (16 ounce) package shredded Cheddar cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Fajita Pasta Bake",
     "url": "http://allrecipes.com/recipe/254812/chicken-fajita-pasta-bake/"
 }

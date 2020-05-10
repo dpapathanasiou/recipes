@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix shrimp, imitation crab, tomatoes, avocados, cucumber, red onion, cilantro, lime juice, jalapeno peppers, and garlic together in a container with a lid; pour tomato and clam juice cocktail over the salad and mix. Season to taste with salt and black pepper.",
+        "Let the salad marinate overnight in the refrigerator; stir again before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5367229.jpg",
+    "ingredients": [
+        "1 (16 ounce) package cooked medium shrimp, peeled and deveined",
+        "2 (8 ounce) packages imitation crabmeat, cut into 1-inch pieces",
+        "5  tomatoes, diced",
+        "3  avocados, peeled and diced",
+        "1  English cucumber, peeled and cut into bite-size pieces",
+        "1  red onion, diced",
+        "1 bunch cilantro, chopped, or more to taste",
+        "4  limes, juiced",
+        "2  jalapeno peppers, seeded and finely diced",
+        "2 cloves garlic, pressed",
+        "1 (64 ounce) bottle tomato and clam juice cocktail",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "American Ceviche",
     "url": "http://allrecipes.com/recipe/222695/american-ceviche/"
 }

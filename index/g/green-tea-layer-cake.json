@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour 2 8-inch round pans. Sift together the all-purpose flour, cake flour, baking soda, salt, and green tea powder; set aside.",
+        "In a large bowl, beat together sugar, oil, and eggs until smooth. Stir in 1 1/2 teaspoons vanilla. Beat in the flour mixture alternately with the yogurt, mixing just until incorporated. Pour batter into prepared pans.",
+        "Bake in the preheated oven for 30 to 40 minutes, or until a toothpick inserted into the center of the cake comes out clean. Cool on wire rack for 30 minutes before turning out of the pans.",
+        "To make Green Tea Frosting: Sift together confectioners' sugar and green tea powder. In a medium bowl, combine tea mixture with butter, cream cheese, vanilla and milk. Beat with an electric mixer until smooth.",
+        "To assemble the cakes: when the cakes are completely cooled, put one layer on a flat serving plate. Spread a thin layer of frosting over it. Place the other layer of cake on top, and spread frosting to cover the top and sides of cake. Dust with green tea powder if desired. Serve cold or at room temperature."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F692310.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 cup cake flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "4 teaspoons powdered green tea",
+        "1\u2009\u00bc cups white sugar",
+        "1 cup vegetable oil",
+        "3  eggs",
+        "1 cup plain yogurt",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "1\u2009\u00bc cups confectioners' sugar",
+        "2 teaspoons powdered green tea",
+        "2 tablespoons butter, softened",
+        "1 (3 ounce) package cream cheese, softened",
+        "\u00bd teaspoon vanilla extract",
+        "1\u2009\u00bd teaspoons milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Tea Layer Cake",
     "url": "http://allrecipes.com/recipe/53655/green-tea-layer-cake/"
 }

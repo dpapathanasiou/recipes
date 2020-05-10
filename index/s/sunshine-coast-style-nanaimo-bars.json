@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt 1/2 cup of butter in a saucepan over low heat, and stir in the sugar and cocoa powder until the mixture is smooth. Whisk in egg and vanilla extract, remove from heat, and stir in the graham cracker crumbs, coconut, and walnuts until well combined. Press the mixture into a 9x9-inch square pan, and refrigerate until cold, about 1 hour.",
+        "Place 1/3 cup of room temperature butter into a mixing bowl, and stir custard powder and milk into the butter to make a smooth, creamy mixture. Stir in confectioners' sugar, about 1 cup at a time, until the mixture is very smooth, with no lumps. Lightly stir in the blackberries. Spread the filling on the chilled crust in an even layer, and refrigerate for at least 30 minutes to set up.",
+        "Melt chocolate and 2 tablespoons of butter in a saucepan over very low heat, stirring until the chocolate is completely melted and smooth. Remove from heat, and pour over the filling layer, spreading the topping over the filling to cover completely. Return to refrigerator, and allow to set until firm, at least 30 minutes. To cut, dip a very sharp knife into boiling water, and cut into squares with the hot knife."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1155385.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "\u00bc cup white sugar",
+        "5 tablespoons unsweetened cocoa powder",
+        "1  egg",
+        "2 teaspoons vanilla extract",
+        "1\u2009\u00bd cups graham cracker crumbs",
+        "1 cup shredded coconut",
+        "\u00bd cup chopped walnuts",
+        "\u2153 cup butter at room temperature",
+        "3 tablespoons custard powder (such as Bird's\u00ae Custard Powder)",
+        "\u00bc cup milk",
+        "3 cups confectioners' sugar",
+        "\u00bc cup blackberries",
+        "12 (1 ounce) squares semisweet chocolate",
+        "2 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sunshine Coast-Style Nanaimo Bars",
     "url": "http://allrecipes.com/recipe/213581/sunshine-coast-style-nanaimo-bars/"
 }

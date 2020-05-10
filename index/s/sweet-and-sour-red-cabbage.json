@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cabbage in a medium saucepan with water and salt, and bring to a boil. Stir in brown sugar and caraway seeds. Cook 12 minutes, or until cabbage is tender; drain.",
+        "In a medium bowl, toss cabbage with vinegar and butter until thoroughly coated."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4479690.jpg",
+    "ingredients": [
+        "1 medium head red cabbage, shredded",
+        "1 quart water",
+        "salt to taste",
+        "\u00bd cup brown sugar",
+        "1 tablespoon caraway seeds",
+        "\u00bd cup vinegar",
+        "\u00bc cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Sour Red Cabbage",
     "url": "http://allrecipes.com/recipe/38030/sweet-and-sour-red-cabbage/"
 }

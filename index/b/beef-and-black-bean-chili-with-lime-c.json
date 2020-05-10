@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook ground beef, onion, and garlic in a large skillet until meat is browned; drain off any fat.",
+        "Add black beans, undrained tomatoes, sweet pepper, water, and ground chipotle chile pepper to a 3 1/2- or 4-quart slow cooker. Stir in beef mixture. Cover and cook on low-heat setting for 4 to 5 hours or on high-heat setting for 2 to 2 1/2 hours. Serve topped with Lime Crema (see below) and chopped fresh mango.",
+        "Lime Crema: Stir together VOSKOS(R) Nonfat Honey Greek Yogurt, lime peel, and lime juice in a bowl. Serve immediately or chill up to 24 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1133463.jpg",
+    "ingredients": [
+        "1 1/2 pounds lean ground beef",
+        "1 cup chopped onion",
+        "3 cloves garlic, minced",
+        "2 (15 ounce) cans black beans, rinsed and drained",
+        "2 (14.5 ounce) cans fire-roasted diced tomatoes",
+        "1 cup chopped yellow or red sweet pepper",
+        "1 cup water",
+        "1/2 teaspoon ground dried chipotle pepper, or more to taste",
+        "1 fresh mango, peeled, seeded, and chopped",
+        "Lime Crema:",
+        "2 (5.3 ounce) containers VOSKOS\u00ae Nonfat Honey Greek Yogurt",
+        "2 teaspoons grated lime zest",
+        "2 tablespoons lime juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef and Black Bean Chili with Lime Crema",
     "url": "http://allrecipes.com/recipe/237932/beef-and-black-bean-chili-with-lime-c/"
 }

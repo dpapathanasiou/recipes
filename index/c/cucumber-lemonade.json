@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cucumber slices into a large pitcher. Pour the lemonade concentrate over the cucumber and let stand for 10 minutes. Pour in the lemon-lime soda and pour into glasses to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/674563.jpg",
+    "ingredients": [
+        "1 cucumber, thinly sliced",
+        "1 (12 ounce) can frozen lemonade concentrate",
+        "1 (2 liter) bottle lemon-lime flavored carbonated beverage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumber Lemonade",
     "url": "http://allrecipes.com/recipe/147904/cucumber-lemonade/"
 }

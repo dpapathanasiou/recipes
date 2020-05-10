@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef and onion in the hot skillet until beef is completely browned, 5 to 7 minutes. Drain and discard grease. Return skillet to heat.",
+        "Stir ketchup, vinegar, brown sugar, Worcestershire sauce, and mustard into the beef mixture; simmer, stirring occasionally, until the liquid is thick, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4160&h=2178&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3623439.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 small onion, chopped",
+        "1 cup ketchup",
+        "2 tablespoons cider vinegar",
+        "2 tablespoons brown sugar",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon mustard"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kid-Pleasing Sloppy Joes",
     "url": "http://allrecipes.com/recipe/236446/kid-pleasing-sloppy-joes/"
 }

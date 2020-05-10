@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Mix ground beef, tomato sauce, tomato paste, celery, diced tomatoes, onion, black beans, hot pepper sauce, and chili powder together in a slow cooker crock.",
+        "Cook on High, stirring frequently, for 1 hour. Reduce heat to Low and continue cooking, stirring occasionally, for 2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1604888.jpg",
+    "ingredients": [
+        "\u00bd pound lean ground beef",
+        "1 (14 ounce) can tomato sauce",
+        "2 (6 ounce) cans tomato paste",
+        "3 stalks celery, chopped",
+        "1 cup canned diced tomatoes",
+        "\u00bd  onion, chopped",
+        "\u00bd cup canned black beans, rinsed and drained",
+        "2 tablespoons hot pepper sauce (such as Tabasco\u00ae)",
+        "\u00bd teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Low-Carb Slow Cooker Chili",
     "url": "http://allrecipes.com/recipe/239520/low-carb-slow-cooker-chili/"
 }

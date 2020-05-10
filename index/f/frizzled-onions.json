@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a small saucepan placed over medium-low heat.  A slice of onion should just sizzle a bit when added to the hot oil.  Add 1/2 of the onions and cook, stirring occasionally, until the onions are a deep golden brown, about 7-10 minutes.  Remove with slotted spoon to paper towels to drain, and salt to taste.  Onions will be soft at first and will crisp as they cool.  Repeat with remaining onions."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/197686.jpg",
+    "ingredients": [
+        "2 small onions, very thinly sliced",
+        "2/3 cup vegetable oil for frying",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Frizzled Onions",
     "url": "http://allrecipes.com/recipe/189935/frizzled-onions/"
 }

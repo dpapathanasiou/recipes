@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Combine peaches, tapioca, almond extract, and 1/4 cup brown sugar in a bowl. Set mixture aside until tapioca pearls have softened, about 15 minutes. Whisk remaining 1/4 cup of brown sugar and flour in a separate bowl.",
+        "Process rolled oats with walnuts in a food processor, pulsing a few times to grind to coarse crumbs; stir walnuts and oats into flour mixture. Drizzle topping mixture with melted butter and stir with a fork to create large crumbs of topping. Pour peaches and their juice into an 8x8-inch baking dish; spread crumb topping atop peaches in an even layer.",
+        "Bake in the preheated oven until topping is golden brown and the peaches are bubbling, 35 to 40 minutes. Serve slightly warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/879789.jpg",
+    "ingredients": [
+        "5 cups sliced fresh peaches",
+        "2 tablespoons instant tapioca",
+        "1/4 teaspoon almond extract",
+        "1/2 cup packed brown sugar, divided",
+        "1 3/4 cups all-purpose flour",
+        "1/2 cup old-fashioned rolled oats",
+        "1/3 cup chopped walnuts",
+        "6 tablespoons unsalted butter, melted and cooled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peach Crisp with Oatmeal-Walnut Topping",
     "url": "http://allrecipes.com/recipe/228360/peach-crisp-with-oatmeal-walnut-toppi/"
 }

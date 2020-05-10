@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat sugar  and shortening  at medium speed of electric mixer until well blended.  Add eggs, syrup and vanilla; beat well.  Gradually add combined dry ingredients at low speed.  Mix until well blended.",
+        "Refrigerate dough 1 hour.",
+        "Roll out dough between two sheets of lightly floured wax paper.  Cut out with floured cutter.",
+        "Bake on ungreased cookie sheets at 375 degrees F (190 degrees C) for 5-9 minutes, depending on size and thickness of cookies.  Do not overbake.  Cool 2 minutes, then remove from cookie sheets to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3905972.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups white sugar",
+        "1 cup butter flavored shortening",
+        "2  eggs",
+        "\u00bc cup light corn syrup",
+        "1 tablespoon vanilla extract",
+        "3 cups all-purpose flour",
+        "\u00be teaspoon baking powder",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ultimate Sugar Cookies",
     "url": "http://allrecipes.com/recipe/10840/ultimate-sugar-cookies/"
 }

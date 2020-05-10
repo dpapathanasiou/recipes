@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch pan.",
+        "Bring water to a boil in a small saucepan. Dissolve 1 cup sugar in boiling water, then add 3 tablespoons butter. Remove from heat, and set syrup aside to cool.",
+        "In a large bowl, whisk together flour, baking powder, and salt.  Cut in 1/2 cup butter.  Stir in milk; mix lightly.  Roll out on a floured surface into a rectangle shape about 12 inches long.",
+        "In another bowl, combine rhubarb, cinnamon, and 1 cup sugar.  Spread evenly over roll, leaving a 1/2 inch edge.  Roll dough tightly lengthwise, and seal the seam.  Cut into twelve 1 inch sections.  Arrange rolls in prepared pan. Pour syrup over rolls.",
+        "Bake in preheated oven for 40 minutes, or until lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4518158.jpg",
+    "ingredients": [
+        "1 cup water",
+        "1 cup sugar",
+        "3 tablespoons butter",
+        "2 cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bd cup butter",
+        "\u00be cup milk",
+        "3 cups finely chopped rhubarb",
+        "\u00bd teaspoon ground cinnamon",
+        "1 cup sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rhubarb Rolls",
     "url": "http://allrecipes.com/recipe/52018/rhubarb-rolls/"
 }

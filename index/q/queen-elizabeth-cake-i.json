@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour boiling water over dates in a small bowl, and let stand until cool.",
+        "Measure flour, baking powder, soda, salt, and nuts into a small bowl.  Stir to mix.",
+        "Cream 1/4 cup butter or margarine and white sugar together in a mixing bowl; beat in egg and vanilla.  Add flour mixture to creamed mixture in three parts alternately with date mixture in two parts, beginning and ending with dry mixture.  Spread batter into a greased 9 x 13 inch pan.",
+        "Bake at 350 degrees F (175 degrees C) for 30 to 40 minutes, or until an inserted wooden pick comes out clean.",
+        "To Make Topping:  Mix coconut, brown sugar, 6 tablespoons butter and cream in a small saucepan over medium heat.  Boil for three minutes.  Spread over warm cake, and brown under broiler."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6748738.jpg",
+    "ingredients": [
+        "1 cup boiling water",
+        "1 cup dates, pitted and chopped",
+        "\u00bc cup butter, softened",
+        "1 cup white sugar",
+        "1  egg",
+        "1 teaspoon vanilla extract",
+        "1\u2009\u00bd cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon baking powder",
+        "\u00bd teaspoon salt",
+        "\u00bd cup chopped walnuts",
+        "1 cup flaked coconut",
+        "\u2154 cup packed brown sugar",
+        "6 tablespoons butter",
+        "\u00bc cup cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Queen Elizabeth Cake I",
     "url": "http://allrecipes.com/recipe/7666/queen-elizabeth-cake-i/"
 }

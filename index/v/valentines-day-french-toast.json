@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat eggs, milk, nutmeg, and cinnamon together with a fork in a bowl until somewhat smooth.",
+        "Heat a nonstick skillet over medium heat.",
+        "Dip a bread slice into egg mixture to evenly and generously coat each side and put into the hot skillet; cook until golden brown, 2 to 3 minutes per side. Repeat with each bread slice.",
+        "Cut each slice in half on a diagonal and arrange onto 2 plates. Arrange banana and strawberry slices on the plates around the French toast. Drizzle maple syrup over the French toast; dust with confectioners' sugar."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2260642.jpg",
+    "ingredients": [
+        "8 eggs",
+        "1 tablespoon milk, or to taste",
+        "3 dashes ground nutmeg, or to taste",
+        "2 dashes ground cinnamon, or to taste",
+        "4 slices bread",
+        "1 teaspoon butter, or to taste",
+        "1 banana, or more to taste, sliced",
+        "6 strawberries, or more to taste, sliced",
+        "2 tablespoons maple syrup, or to taste, warmed",
+        "1/2 teaspoon confectioners' sugar, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Valentine's Day French Toast",
     "url": "http://allrecipes.com/recipe/241298/valentines-day-french-toast/"
 }

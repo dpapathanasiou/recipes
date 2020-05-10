@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a muffin tin with paper liners.",
+        "Pulse sausage into small pieces a mini food processor, about 5 times.",
+        "Whisk eggs in a large bowl; season with salt and pepper. Fold in sausage, fontina cheese, scallions, parsley, basil, oregano, garlic powder, and red pepper flakes.",
+        "Fill lined muffin cups evenly with egg mixture.",
+        "Bake in the preheated oven until golden brown, 15 to 17 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4465791.jpg",
+    "ingredients": [
+        "3 cooked sausages, sliced",
+        "12 eggs",
+        "1 teaspoon sea salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/2 cup shredded fontina cheese (optional)",
+        "2 scallions, chopped, or more to taste",
+        "1 teaspoon dried parsley",
+        "1 teaspoon dried basil",
+        "1/2 teaspoon dried oregano",
+        "1/2 teaspoon garlic powder",
+        "1/4 teaspoon red pepper flakes (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage and Scallion Egg Muffins",
     "url": "http://allrecipes.com/recipe/256951/sausage-and-scallion-egg-muffins/"
 }

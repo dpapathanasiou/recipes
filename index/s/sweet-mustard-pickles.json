@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the water and salt in a large pot. Add the cauliflower, onion, and cucumber to the pot and allow to soak overnight.",
+        "Bring the mixture to a boil over medium-high heat; simmer until the vegetables are tender; drain. Add the vinegar, flour, sugar, mustard powder, curry powder, and turmeric to the vegetables and bring to a boil; reduce heat to medium-low and simmer until the mixture thickens, stirring occasionally.",
+        "Ladle into sterilized jars; seal. Process in a boiling-water canner for 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "3 3/4 quarts water",
+        "1 cup salt",
+        "1 large head cauliflower, chopped into bite size pieces",
+        "6 1/2 pounds onions, diced",
+        "2 cucumbers, diced",
+        "1 2/3 quarts cider vinegar",
+        "1 cup flour",
+        "4 cups white sugar",
+        "2 tablespoons mustard powder",
+        "1 tablespoon curry powder",
+        "1 tablespoon ground turmeric"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Mustard Pickles",
     "url": "http://allrecipes.com/recipe/158875/sweet-mustard-pickles/"
 }

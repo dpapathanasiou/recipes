@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Before baking ham, place pineapple slices on ham with toothpicks and place cherries in center of pineapple.",
+        "In a medium microwave safe bowl combine brown sugar and reserved pineapple juice. Mix together and microwave for about 5 minutes, until mixture is thick. Pour some of this glaze over the ham about every 15 minutes in the last hour of baking, until all is used."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2875688.jpg",
+    "ingredients": [
+        "1 (15.25 ounce) can sliced pineapple, drained with juice reserved",
+        "1 (4 ounce) jar maraschino cherries, drained",
+        "1 cup brown sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pineapple Glaze for Ham",
     "url": "http://allrecipes.com/recipe/17116/pineapple-glaze-for-ham/"
 }

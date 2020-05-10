@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chili powder, cumin, black pepper, garlic powder, sea salt, paprika, onion powder, cayenne pepper, and oregano together in a bowl.",
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with aluminum foil or parchment paper.",
+        "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Mix spice mixture into ground beef until evenly coated; add water. Simmer beef until liquid is evaporated, 10 to 15 minutes. Add kidney beans and simmer until beans are heated through, about 10 minutes.",
+        "Cut each tomato in half down the middle. Slice 1 of each half into thin, round cross sections. Chop the remaining halves.",
+        "Spread romaine lettuce onto the prepared baking sheet; top with green bell peppers and tomato slices. Sprinkle Parmesan cheese over tomato layer.",
+        "Bake in the preheated oven until edges of romaine lettuce are crisp but not burned, 10 to 20 minutes.",
+        "Top salad with taco meat mixture, Cheddar cheese, chopped tomato, and salsa. Transfer salad to a serving plate using a spatula."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 tablespoon chili powder",
+        "1\u2009\u00bd teaspoons ground cumin",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon sea salt",
+        "\u00bd teaspoon smoked paprika",
+        "\u00bd teaspoon onion powder",
+        "\u00bd teaspoon cayenne pepper",
+        "\u00bd teaspoon dried oregano",
+        "1 pound 93% lean ground beef",
+        "\u00bd cup water",
+        "1 (15 ounce) can no salt-added kidney beans",
+        "4  tomatoes",
+        "2 heads romaine lettuce, chopped",
+        "4 large green bell peppers, sliced",
+        "1 ounce finely grated Parmesan cheese",
+        "4 ounces coarsely grated extra-sharp Cheddar cheese",
+        "1 cup salsa"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Half-Baked Taco Salad",
     "url": "http://allrecipes.com/recipe/241631/half-baked-taco-salad/"
 }

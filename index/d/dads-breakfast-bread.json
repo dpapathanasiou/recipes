@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together the scalded milk, sugar, margarine and salt.  In a small bowl, stir together the yeast and warm water. Let stand 10 minutes, or until foamy.",
+        "Stir the yeast mixture into the milk mixture. Blend in the eggs.  Mix in the flour one cup at a time to make a soft dough. Cover bowl and let rise in a warm place until double.",
+        "Heat one inch of oil in a deep heavy skillet to 370 degrees F (180 degrees C). Form large handfuls of dough into flat pancake shapes and fry them in the hot oil, turning once, until golden brown on both sides. Remove from oil to drain on paper towels."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1358283.jpg",
+    "ingredients": [
+        "2 cups milk, scalded and cooled",
+        "1 cup white sugar",
+        "2 tablespoons margarine, melted",
+        "1 teaspoon salt",
+        "2 (.25 ounce) packages active dry yeast",
+        "\u00bd cup warm water",
+        "2  eggs, beaten",
+        "7 cups all-purpose flour",
+        "3 cups oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dad's Breakfast Bread",
     "url": "http://allrecipes.com/recipe/35628/dads-breakfast-bread/"
 }

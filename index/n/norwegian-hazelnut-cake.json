@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease the bottom of one 10 inch springform pan.",
+        "Reserve 8 whole nuts for garnish. Pulse the remaining nuts in a food processor until ground, and reserve 1 tablespoon of ground nuts for garnish.",
+        "Melt margarine or butter in a small saucepan over low heat, cool.",
+        "In a large bowl beat eggs, sugar, and 1 teaspoon vanilla extract until thick and lemon colored (about 2 to 3 minutes).  Add flour, baking powder, salt, and ground nuts, mix well. Continue to beat mixture while slowly adding the cooled melted butter or margarine until blended (mixture will be thick). Spread batter into prepared pan.",
+        "Bake at 350 degrees F (175 degrees C) for 35 to 40 minutes or until a toothpick inserted in the center comes out clean. Cool in pan for 15 minutes then remove sides of pan. Remove pan bottom and invert onto a serving plate. Cover with a cloth towel and cool for another 30 minutes before glazing.",
+        "To Make Glaze: In a medium saucepan bring whipping cream just to a boil, remove from heat and stir in the semi-sweet chocolate chips until melted and smooth. Stir in 1/2 teaspoon vanilla extract.  Spread glaze over top of cooled cake, allowing it to run down the sides. Sprinkle reserved ground nuts around top edge and arrange whole nuts over ground nuts. Enjoy!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F186888.jpg",
+    "ingredients": [
+        "\u00be cup hazelnuts",
+        "\u00bd cup butter",
+        "1\u2009\u00bd cups white sugar",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bd cup heavy whipping cream",
+        "1 cup semisweet chocolate chips",
+        "3  eggs",
+        "\u00bd teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Norwegian Hazelnut Cake",
     "url": "http://allrecipes.com/recipe/7354/norwegian-hazelnut-cake/"
 }

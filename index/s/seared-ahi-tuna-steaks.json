@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season the tuna steaks with salt and cayenne pepper.",
+        "Melt the butter with the olive oil in a skillet over medium-high heat. Cook the peppercorns in the mixture until they soften and pop, about 5 minutes. Gently place the seasoned tuna in the skillet and cook to desired doneness, 1 1/2 minutes per side for rare."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/762704.jpg",
+    "ingredients": [
+        "2 (5 ounce) ahi tuna steaks",
+        "1 teaspoon kosher salt",
+        "1/4 teaspoon cayenne pepper",
+        "1/2 tablespoon butter",
+        "2 tablespoons olive oil",
+        "1 teaspoon whole peppercorns"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seared Ahi Tuna Steaks",
     "url": "http://allrecipes.com/recipe/160099/seared-ahi-tuna-steaks/"
 }

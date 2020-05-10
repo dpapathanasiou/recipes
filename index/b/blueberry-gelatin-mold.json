@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, stir 2 cups boiling water into the raspberry gelatin until dissolved.  Mix in blueberries and pineapple and pour into a 2 quart mold.  Let set in refrigerator until firm (about 2 hours).",
+        "In a small bowl, mix together the cream cheese, sour cream, sugar and vanilla until well blended.  Spread over the set gelatin and sprinkle with chopped pecans, if desired.  Refrigerate until serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups boiling water",
+        "1 (6 ounce) package raspberry flavored Jell-O\u00ae mix",
+        "1 (15 ounce) can blueberries",
+        "1 (8 ounce) can crushed pineapple",
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bd pint sour cream",
+        "3 tablespoons white sugar",
+        "2 teaspoons vanilla extract",
+        "\u00bc cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry Gelatin Mold",
     "url": "http://allrecipes.com/recipe/18407/blueberry-gelatin-mold/"
 }

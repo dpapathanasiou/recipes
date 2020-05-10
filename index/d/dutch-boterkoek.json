@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 400 degrees F (200 degrees C). Lightly grease an 8-inch tart tin, or a 9-inch pie pan. Whisk together the flour and baking powder; set aside.",
+        "Beat the butter, sugar, lemon zest, and vanilla extract with an electric mixer in a large bowl until smooth. Mix in the flour mixture until the dough forms ball. Press the dough into the prepared tin, and brush with the milk.",
+        "Bake in the preheated oven until golden brown and still somewhat soft at the center, about 35 minutes. Cool in the pan for 10 minutes, then remove, and cut into 16 wedges. Cool completely on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F172709.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups all-purpose flour",
+        "1 teaspoon baking powder (optional)",
+        "1\u2009\u00bc cups butter",
+        "\u00be cup white sugar",
+        "1 tablespoon lemon zest",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon milk (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dutch Boterkoek",
     "url": "http://allrecipes.com/recipe/148048/dutch-boterkoek/"
 }

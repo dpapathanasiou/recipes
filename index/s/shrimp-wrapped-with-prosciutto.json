@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium-size pot bring water to a boil. Add butter, salt, and pepper. Mix in dry polenta and let cook until thickened, approximately 8 minutes.",
+        "When the polenta has thickened, gently blend mascarpone cheese into it. Remove the pan from heat. Spread polenta-cheese mixture to a 2-inch thickness on an oil-coated surface. When cool, cut a disk using a drinking glass as a cutter. Saute polenta disks in olive oil,  in a non-stick skillet. Set aside. (Can be prepared in advance).",
+        "Coat shrimp with hazelnuts and wrap each with a slice of ham. In a skillet, saute shrimp carefully in remaining olive oil. Remove shrimp from the pan and keep them warm.",
+        "Pour hazelnut liquor into another skillet (or the same skillet used to saute the shrimp, cleaned).  When hazelnut flavored liquor is hot (but well under the boiling point), carefully flambe (by touching the edge of the pan with the flame of a match or taper).  Be careful and stand back when cooking with open flame! When flames die down, add cream and remaining hazelnuts. Lower heat and continue cooking until mixture thickens.",
+        "To assemble, place a polenta disk in the center of a serving dish. Arrange shrimp around the plate. Drizzle sauce mixture on top. Garnish with green onions."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1891156.jpg",
+    "ingredients": [
+        "2 cups water",
+        "1 tablespoon butter",
+        "salt and pepper to taste",
+        "\u00bd cup polenta",
+        "6 ounces mascarpone cheese",
+        "2 tablespoons olive oil",
+        "6  large shrimp - peeled and deveined",
+        "1\u2009\u00bd cups finely chopped toasted hazelnuts",
+        "6 (1/2 ounce) slices prosciutto",
+        "2 fluid ounces hazelnut liqueur",
+        "\u2154 cup heavy cream",
+        "4  green onions, with tops flared"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shrimp Wrapped with Prosciutto",
     "url": "http://allrecipes.com/recipe/18160/shrimp-wrapped-with-prosciutto/"
 }

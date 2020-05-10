@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine brown sugar, soy sauce, cider vinegar, ginger, garlic powder, pepper, crushed pineapple and juice, and chicken stock in a bowl and stir until the brown sugar is dissolved.",
+        "Place chicken thighs in the pressure cooker and pour in the sauce. Stir gently to coat. Bring the pressure cooker up to high pressure over high heat, then reduce the heat to low, maintaining high pressure. Cook for 20 minutes.",
+        "Stir cornstarch into cold water and set aside.",
+        "Reduce the pressure using the rapid-release method. Use a slotted spoon to transfer the chicken to a serving dish; cover with foil and set aside. Whisk the cornstarch mixture into the sauce, bring the mixture to a boil, and cook, stirring frequently, until the sauce has thickened, about 3 minutes. Serve the chicken topped with the teriyaki sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3002&h=1572&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3804857.jpg",
+    "ingredients": [
+        "\u00be cup brown sugar",
+        "\u00be cup reduced-sodium soy sauce",
+        "\u00bc cup cider vinegar",
+        "2 tablespoons ground ginger",
+        "2 tablespoons garlic powder",
+        "1 teaspoon ground black pepper",
+        "1 (20 ounce) can crushed pineapple",
+        "1 cup chicken stock",
+        "3 pounds boneless, skinless chicken thighs",
+        "2 tablespoons cornstarch (optional)",
+        "2 tablespoons cold water (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pressure Cooker Teriyaki Chicken",
     "url": "http://allrecipes.com/recipe/220868/pressure-cooker-teriyaki-chicken/"
 }

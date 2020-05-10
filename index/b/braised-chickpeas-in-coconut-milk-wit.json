@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Place sweet potatoes cut-side down on a baking sheet. Coat with 1 teaspoon oil and 1 pinch salt.",
+        "Roast potatoes in the preheated oven until tender, turning halfway through, about 25 minutes.",
+        "Heat remaining 2 teaspoons oil in a heavy pot over medium-high heat. Add onion; cook and stir until starting to brown, about 5 minutes. Add tomatoes, garlic, red curry paste, ginger, and lemon zest. Cook, stirring frequently, until fragrant, about 3 minutes.",
+        "Stir chickpeas into the pot. Increase heat to high; cook until chickpeas start to turn golden and are coated with the onion mixture. Pour in lemon juice, coconut milk, and 1 teaspoon salt. Bring to a simmer; reduce heat and cook until flavors combine, about 10 minutes. Stir in kale, 1 handful at a time, until wilted, about 5 minutes.",
+        "Serve chickpea mixture over roasted sweet potatoes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5590074.jpg",
+    "ingredients": [
+        "2 large sweet potatoes, halved lengthwise",
+        "1 tablespoon vegetable oil, divided",
+        "1 pinch salt",
+        "1 small yellow onion, diced",
+        "1/2 cup canned tomatoes, drained",
+        "4 large cloves garlic, minced",
+        "1 tablespoon red curry paste",
+        "1 tablespoon grated ginger",
+        "1 lemon, zested and juiced",
+        "1 (15 ounce) can chickpeas, drained and rinsed",
+        "1 (14 ounce) can coconut milk",
+        "1 teaspoon salt, or to taste",
+        "1 pound kale, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Braised Chickpeas in Coconut Milk with Sweet Potatoes",
     "url": "http://allrecipes.com/recipe/254719/braised-chickpeas-in-coconut-milk-wit/"
 }

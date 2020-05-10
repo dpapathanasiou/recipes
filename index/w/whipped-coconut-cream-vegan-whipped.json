@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Refrigerate can of coconut milk, 8 hours or overnight.",
+        "Place metal mixing bowl and beaters in the refrigerator or freezer 1 hour before making whipped cream.",
+        "Open can of coconut milk, taking care not to shake it. Scoop coconut cream solids into cold mixing bowl. Reserve remaining liquid for another use.",
+        "Beat coconut cream using electric mixer with chilled beaters on medium speed; turn to high speed. Beat until stiff peaks form, 7 to 8 minutes. Add sugar and vanilla extract to coconut cream; beat 1 minute more. Taste and add more sugar if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2346919.jpg",
+    "ingredients": [
+        "1 (14 ounce) can unsweetened coconut milk",
+        "2 tablespoons white sugar, or to taste",
+        "1 teaspoon pure vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Whipped Coconut Cream (Vegan Whipped Cream)",
     "url": "http://allrecipes.com/recipe/240475/whipped-coconut-cream-vegan-whipped/"
 }

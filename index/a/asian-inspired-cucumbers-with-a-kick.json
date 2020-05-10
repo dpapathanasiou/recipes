@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk rice vinegar, lime juice, honey, ginger, peanut butter, garlic, sesame oil, red pepper flakes, and sriracha sauce together in a small bowl to make dressing.",
+        "Slice red onion into spirals with a spiralizer fitted with a straight-flat blade. Spiralize cucumbers into thin, curly ribbons; snip into serving-size lengths with kitchen shears or a knife. Transfer to a shallow bowl.",
+        "Drizzle dressing over onion and cucumbers; mix gently to combine. Garnish with peanuts and jalapeno pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3819293.jpg",
+    "ingredients": [
+        "Dressing:",
+        "1/3 cup rice vinegar",
+        "1/2 lime, juiced",
+        "1 1/2 teaspoons honey",
+        "1 1/2 teaspoons minced fresh ginger root",
+        "1 teaspoon peanut butter",
+        "1/2 teaspoon minced garlic",
+        "1/2 teaspoon sesame oil",
+        "1/4 teaspoon red pepper flakes",
+        "1/2 teaspoon sriracha sauce",
+        "1/2 large red onion",
+        "2 cucumbers, unpeeled",
+        "Garnish:",
+        "2 tablespoons chopped peanuts, or to taste",
+        "1/2 jalapeno pepper, seeded and sliced, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Asian-Inspired Cucumbers with a Kick",
     "url": "http://allrecipes.com/recipe/254915/asian-inspired-cucumbers-with-a-kick/"
 }

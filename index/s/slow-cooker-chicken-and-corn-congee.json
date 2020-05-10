@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, corn, chicken broth, jasmine rice, and chicken breast in a slow cooker.",
+        "Cook on Low until chicken is very soft and rice is creamy, about 8 hours. Season with salt and white pepper. Drizzle sesame oil over each serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4338072.jpg",
+    "ingredients": [
+        "5 cups water",
+        "1 (15 ounce) can whole kernel corn, drained",
+        "1 (14 ounce) can chicken broth",
+        "1 cup jasmine rice",
+        "1  skinless, boneless chicken breast, cubed",
+        "salt and ground white pepper to taste",
+        "2 tablespoons sesame oil, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Chicken and Corn Congee",
     "url": "http://allrecipes.com/recipe/256272/slow-cooker-chicken-and-corn-congee/"
 }

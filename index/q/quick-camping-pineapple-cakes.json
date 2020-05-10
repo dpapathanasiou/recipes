@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray the aluminum sheets with cooking spray, and place a sponge cake shell in the center of each sheet. Spoon the crushed pineapple into the cakes, dividing it equally, and sprinkle each cake with about 1 teaspoon of brown sugar and about 2 teaspoons of nuts. Top each cake with 3 maraschino cherries, and drizzle 1 to 2 teaspoons of the pineapple juice over each cake.",
+        "Wrap the cakes in the foil, leaving some room at the top for air circulation. Place the foil packs onto the embers of a campfire until the cakes are hot and bubbling, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/859858.jpg",
+    "ingredients": [
+        "6 sheets heavy duty aluminum foil (10x12-inch)",
+        "1 (12 ounce) package prepared sponge cake shells",
+        "cooking spray",
+        "1 (20 ounce) can crushed pineapple, drained, juice reserved",
+        "2 tablespoons brown sugar, divided",
+        "1/3 cup chopped pecans, divided",
+        "18 maraschino cherries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Camping Pineapple Cakes",
     "url": "http://allrecipes.com/recipe/205632/quick-camping-pineapple-cakes/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the turkey, water, salt and pepper in a medium saucepan and bring to a boil. Reduce heat and simmer 30 to 40 minutes, or until a broth has formed.",
+        "Spread flour on a medium cutting board or other flat surface. Roll out biscuit dough and cut it into 1x2 inch pieces. Drop the pieces into the broth and cook over low heat approximately 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F40073.jpg",
+    "ingredients": [
+        "1 pound cooked, chopped turkey meat",
+        "3 cups water",
+        "salt and pepper to taste",
+        "3 tablespoons all-purpose flour",
+        "1 (12 ounce) package refrigerated biscuit dough"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Dumplings",
     "url": "http://allrecipes.com/recipe/23582/turkey-dumplings/"
 }

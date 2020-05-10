@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a Dutch oven or large pot; cook and stir over medium-high heat until evenly browned, about 10 minutes. Stir onions and garlic into bacon and cook until onions are translucent, 5 to 10 minutes. Add beef; cook and stir until beef is thoroughly browned, 5 to 10 minutes.",
+        "Pour enough beer over beef mixture to almost fill the Dutch oven; add Worcestershire sauce, bay leaves, salt, and pepper. Cover Dutch oven and bring to a boil; reduce heat and simmer, adding more beer as needed, until beef is almost tender, about 2 hours. Add potatoes, carrots, green bell pepper, and enough beer to cover; simmer until potatoes are tender, 15 to 20 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 pound bacon, diced",
+        "2 large onions, chopped",
+        "3 tablespoons crushed garlic",
+        "2 pounds cubed beef stew meat",
+        "6 (12 fluid ounce) cans or bottles brown ale (such as Newcastle\u00ae Brown Ale), or as needed",
+        "\u00bc cup Worcestershire sauce",
+        "2  bay leaves",
+        "salt and ground black pepper to taste",
+        "2 pounds fingerling potatoes",
+        "1 pound baby carrots",
+        "1 cup diced green bell pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Alaskan Campfire Stew",
     "url": "http://allrecipes.com/recipe/234175/alaskan-campfire-stew/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a steamer insert into a saucepan, and fill with water to just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the cauliflower, recover, and steam until just tender, 2 to 6 minutes depending on thickness.",
+        "Cook and stir cream of chicken soup, mayonnaise, and lemon juice in a skillet over medium-high heat until heated through, about 10 minutes. Place cauliflower on a large plate and pour sauce over before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 head cauliflower, cut into florets",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "1 cup mayonnaise",
+        "1 tablespoon lemon juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Creamed Cauliflower",
     "url": "http://allrecipes.com/recipe/200656/easy-creamed-cauliflower/"
 }

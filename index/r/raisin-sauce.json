@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over low heat, combine brown sugar, mustard, flour, raisins, vinegar and water.  Simmer until thickened, about 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1710214.jpg",
+    "ingredients": [
+        "1 cup brown sugar",
+        "1 tablespoon dry mustard",
+        "1 tablespoon all-purpose flour",
+        "2/3 cup raisins",
+        "1/2 cup red wine vinegar",
+        "3 1/4 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Raisin Sauce",
     "url": "http://allrecipes.com/recipe/25232/raisin-sauce/"
 }

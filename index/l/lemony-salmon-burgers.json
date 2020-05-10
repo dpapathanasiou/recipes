@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place salmon chunks, parsley, bread crumbs, green onion, seafood seasoning, lemon juice, salt, and black pepper in a food processor. Pulse until salmon is chopped. Shape salmon mixture into four patties.",
+        "Heat olive oil in a large skillet over medium-high heat. Pan-fry patties until golden brown, about 4 minutes per side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2023895.jpg",
+    "ingredients": [
+        "1 1/2 pounds salmon fillet, cut into chunks",
+        "1/3 cup chopped fresh parsley",
+        "2 tablespoons dry bread crumbs",
+        "2 tablespoons chopped green onion",
+        "2 teaspoons seafood seasoning",
+        "1 lemon, juiced",
+        "salt and ground black pepper to taste",
+        "1 tablespoon olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemony Salmon Burgers",
     "url": "http://allrecipes.com/recipe/222372/lemony-salmon-burgers/"
 }

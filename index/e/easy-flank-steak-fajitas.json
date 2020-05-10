@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place steak in a large resealable plastic bag. Add lime juice, vegetable oil, chili powder, salt, and cayenne pepper to the steak in bag. Seal bag; turn to coat steak.",
+        "Marinate in the refrigerator 30 minutes to 1 hour.",
+        "Preheat oven to 400 degrees F. Drain meat; discard marinade. Center meat on a sheet (12x18 inches) of Reynolds Wrap\u00ae Heavy Duty Aluminum Foil. Bring up foil sides. Double fold top and ends to seal packet, leaving room for heat circulation inside. Center sweet peppers, onion, and garlic on another sheet (12x18 inches) of heavy duty aluminum foil. Repeat steps above to make another foil packet.",
+        "Wrap tortillas tightly in heavy duty aluminum foil.",
+        "Bake meat and vegetable foil packets 30 to 35 minutes or until meat is desired doneness (145 degrees F for medium rare) and vegetables are tender, adding tortillas to the oven for the last 10 minutes of baking or until heated through.",
+        "Open packets carefully by cutting along top fold with a sharp knife, allowing steam to escape; then open top of foil packet. Thinly slice the meat.",
+        "Fill warm tortillas with meat and pepper mixture to serve. If desired, top with guacamole, salsa, and/or sour cream."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1079&h=565&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3208669.jpg",
+    "ingredients": [
+        "1 pound beef flank steak, trimmed of fat",
+        "\u00bc cup lime juice",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon chili powder",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon cayenne pepper",
+        "Reynolds Wrap\u00ae Heavy Duty Aluminum Foil",
+        "2  red, yellow or green sweet peppers (or combination), thinly sliced",
+        "1 medium onion, thinly sliced",
+        "2 cloves garlic, minced",
+        "8  (6- to 7-inch) flour tortillas",
+        "Guacamole, salsa, and/or sour cream (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Flank Steak Fajitas",
     "url": "http://allrecipes.com/recipe/238499/easy-flank-steak-fajitas/"
 }

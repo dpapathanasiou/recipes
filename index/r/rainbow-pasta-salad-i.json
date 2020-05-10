@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil.  Add pasta and cook for 8 to 10 minutes or until al dente; drain and rinse twice in cold water.",
+        "In a large bowl, combine cooked pasta, pepperoni, broccoli, olives, cheese and dressing.",
+        "Refrigerate for at least 1 hour before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2919&h=1528&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1322347.jpg",
+    "ingredients": [
+        "1 (16 ounce) package tri-color rotini pasta",
+        "\u00bc pound sliced pepperoni sausage",
+        "1 cup fresh broccoli florets",
+        "1 (6 ounce) can black olives, drained and sliced",
+        "1 (8 ounce) package mozzarella cheese, shredded",
+        "1 (16 ounce) bottle Italian-style salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rainbow Pasta Salad I",
     "url": "http://allrecipes.com/recipe/19352/rainbow-pasta-salad-i/"
 }

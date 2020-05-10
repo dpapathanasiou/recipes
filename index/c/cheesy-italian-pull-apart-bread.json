@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 450 degrees F (230 degrees C). Lightly grease an 8 inch cake pan.",
+        "Flatten each piece of biscuit dough into a 4 inch circle.  Spoon 1 teaspoon of spaghetti sauce into center of each biscuit.  Place string cheese piece on the sauce. Fold the dough in half and pinch the seams together tightly to seal in the cheese. It will be in the shape of a half moon. Place the dough in the prepared cake pan starting at the outside edge of the cake pen and and moving towards the center in concentric circles.",
+        "Brush the dough with the melted butter and sprinkle with the Italian seasoning, parmesan cheese, and garlic powder over the top of the dough. Bake in preheated oven until golden brown, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2144&h=1123&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F645950.jpg",
+    "ingredients": [
+        "2 (7.5 ounce) packages refrigerated biscuit dough",
+        "\u00bd cup spaghetti sauce",
+        "6  string cheese sticks, cut into 1 inch pieces",
+        "2 tablespoons melted butter",
+        "1 tablespoon Italian seasoning",
+        "2 tablespoons Parmesan cheese",
+        "garlic powder to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Italian Pull Apart Bread",
     "url": "http://allrecipes.com/recipe/217326/cheesy-italian-pull-apart-bread/"
 }

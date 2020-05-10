@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ground beef in a Dutch oven or slow cooker. Cook over medium-high heat until evenly brown. Drain excess fat, and crumble. Add juice cocktail and mixed vegetables.",
+        "In a Dutch oven, simmer for 30 minutes.",
+        "In a slow cooker, cook 1 hour on High. Then reduce heat to Low and simmer 6 to 8 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F290155.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "48 ounces tomato-vegetable juice cocktail",
+        "2 (16 ounce) packages frozen mixed vegetables"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "V-Eight Vegetable Beef Soup",
     "url": "http://allrecipes.com/recipe/13085/v-eight-vegetable-beef-soup/"
 }

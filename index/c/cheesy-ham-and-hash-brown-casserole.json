@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking dish.",
+        "In a large bowl, mix hash browns, ham, cream of potato soup, sour cream, and Cheddar cheese. Spread evenly into prepared dish. Sprinkle with Parmesan cheese.",
+        "Bake 1 hour in the preheated oven, or until bubbly and lightly brown. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (32 ounce) package frozen hash brown potatoes",
+        "8 ounces cooked, diced ham",
+        "2 (10.75 ounce) cans condensed cream of potato soup",
+        "1 (16 ounce) container sour cream",
+        "2 cups shredded sharp Cheddar cheese",
+        "1\u2009\u00bd cups grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Ham and Hash Brown Casserole",
     "url": "http://allrecipes.com/recipe/20096/cheesy-ham-and-hash-brown-casserole/"
 }

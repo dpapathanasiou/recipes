@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Spray a baking sheet with cooking spray, and set aside.",
+        "Combine the flour, dry milk powder, baking powder, cardamom, and salt in a  bowl. In another  bowl, stir together warm milk, honey, oil, and vanilla extract. Pour the milk mixture into the flour mixture, and stir a few times, until just combined.",
+        "Gather the dough together and turn out onto a floured surface. Gently pat the dough into a 9x3 inch rectangle, and cut the dough into 3 3-inch squares with a sharp knife. Cut each square on the diagonal to make 6 triangles, and place the triangles onto the prepared baking sheet.",
+        "Bake for 6 minutes in the preheated oven, remove from oven, and sprinkle the tops of the biscuits with turbinado sugar. Return the biscuits to the oven, and bake for 8 more minutes. Let cool on rack before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1055181.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd cup nonfat dry milk powder",
+        "2 teaspoons baking powder",
+        "1 teaspoon ground cardamom",
+        "\u215b teaspoon salt",
+        "\u2153 cup warm milk",
+        "\u2153 cup honey",
+        "3 tablespoons canola oil",
+        "\u00bd teaspoon vanilla extract",
+        "1 tablespoon turbinado sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cardamom Biscuits",
     "url": "http://allrecipes.com/recipe/144172/cardamom-biscuits/"
 }

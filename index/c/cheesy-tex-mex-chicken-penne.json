@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook pasta as directed on package, omitting salt.",
+        "Meanwhile, cook chicken in large nonstick skillet on medium-high heat 2 min. Add salsa, peppers and corn; stir. Bring to boil; simmer on medium-low heat 10 min. or until chicken is done, stirring occasionally.",
+        "Drain pasta. Add to chicken mixture; mix lightly. Sprinkle with cheese. Remove from heat; cover. Let stand 1 min. or until cheese is melted."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3854825.jpg",
+    "ingredients": [
+        "3 cups penne pasta, uncooked",
+        "1 pound boneless skinless chicken breasts, cut into bite-size pieces",
+        "1\u2009\u00bc cups salsa",
+        "1 large green pepper, cut into thin strips",
+        "1 cup frozen corn",
+        "2 cups CRACKER BARREL\u00a0Shredded Tex Mex Cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Tex Mex Chicken Penne",
     "url": "http://allrecipes.com/recipe/255119/cheesy-tex-mex-chicken-penne/"
 }

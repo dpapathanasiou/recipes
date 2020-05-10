@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large skillet over medium-high heat. Add the ground beef, and cook, stirring to crumble, until no longer pink, about 8 minutes. Pour off any excess grease, then stir in the garlic, onions, and mushrooms. Reduce heat to medium, cover, and cook until the onion has softened and turned translucent, about 5 minutes. Stir in the nutmeg, oregano, spinach, salt, and pepper and cook until the spinach is heated through.",
+        "Reduce heat to medium-low, and make 6 egg-sized indentations into the beef and spinach mixture. Crack the eggs into the each indentation, then cover, and continue cooking until the eggs are done to your liking, about 5 minutes more for medium."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2145&h=1123&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F974918.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "2 pounds ground beef",
+        "2 cloves garlic, minced",
+        "2  onions, chopped",
+        "1 (8 ounce) package sliced fresh mushrooms",
+        "\u00bd teaspoon ground nutmeg",
+        "\u00bd teaspoon dried oregano",
+        "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "6  eggs",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Joe's Special Scramble",
     "url": "http://allrecipes.com/recipe/163602/joes-special-scramble/"
 }

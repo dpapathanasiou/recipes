@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cream cheese spread and dressing in medium bowl until blended. Stir in vegetables. Spread onto tortillas; roll up tightly.",
+        "Wrap individually in plastic wrap. Refrigerate 1 hour.",
+        "Unwrap roll-ups; trim and discard ends. Cut each roll-up into 6 diagonal slices."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd cup PHILADELPHIA Light Cream Cheese Product",
+        "2 tablespoons KRAFT Calorie-Wise Rancher's Choice Dressing",
+        "1 small carrot, finely chopped",
+        "\u2153 cup broccoli florets, finely chopped",
+        "4 small whole wheat tortillas"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "PHILLY Tortilla Roll-Ups",
     "url": "http://allrecipes.com/recipe/239579/philly-tortilla-roll-ups/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, lentils and onion in a saucepan over medium heat. Bring to a boil, and cook for about 15 minutes. Add sliced sausage, and season with cumin, salt and pepper. Simmer until lentils are tender, about 5 to 10 more minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1385163.jpg",
+    "ingredients": [
+        "3 cups water",
+        "1 cup dried lentils",
+        "1/2 cup chopped onion",
+        "8 ounces fully cooked kielbasa or Polish sausage, sliced",
+        "1 teaspoon ground cumin",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage and Lentils",
     "url": "http://allrecipes.com/recipe/57939/sausage-and-lentils/"
 }

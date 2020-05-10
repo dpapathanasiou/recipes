@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet or medium stock pot, brown the beef and onion over medium heat. Drain fat. Add rice, water, diced tomatoes, and stewed tomatoes. Season with salt and pepper. Simmer until rice is tender. Preheat oven to 325 degrees F (165 degrees C).",
+        "Cut the tops off the bell peppers and clean out the seeds and membrane. (Note: You may have to slightly slice the bottom of the peppers to make them stand up.) Fill peppers with meat mixture.",
+        "Place in a casserole dish and bake in a preheated oven for 20 minutes or until peppers are as tender as you like. Served topped with spaghetti sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2361.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds lean ground beef",
+        "1  onion, chopped",
+        "\u00be cup uncooked instant rice",
+        "\u00be cup water",
+        "1 (14.5 ounce) can peeled and diced tomatoes with juice",
+        "1 (14.5 ounce) can stewed tomatoes, chopped",
+        "salt and pepper to taste",
+        "6 large green bell peppers",
+        "1 (16 ounce) jar spaghetti sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Green Peppers II",
     "url": "http://allrecipes.com/recipe/23432/stuffed-green-peppers-ii/"
 }

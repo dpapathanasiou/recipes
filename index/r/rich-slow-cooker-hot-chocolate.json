@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine milk, condensed milk, chocolate chips, heavy cream, and vanilla extract in a slow cooker.",
+        "Cover and cook on Low, stirring occasionally, until chocolate chips are melted and mixture is smooth, about 2 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6003024.jpg",
+    "ingredients": [
+        "6 cups milk",
+        "1 (14 ounce) can sweetened condensed milk",
+        "2 cups semisweet chocolate chips",
+        "1 1/2 cups heavy whipping cream",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rich Slow Cooker Hot Chocolate",
     "url": "http://allrecipes.com/recipe/256112/rich-slow-cooker-hot-chocolate/"
 }

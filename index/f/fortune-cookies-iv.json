@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a mixing bowl, stir together flour, sugar, cornstarch and salt.  Add cooking oil and egg white; stir until smooth.  Add water; mix well.",
+        "Make 1 cookie at a time by pouring 1 tablespoon of batter on a lightly greased skillet or griddle; spread into a 3 1/2 inch circle.  Cook over low heat about 4 minutes, or until lightly browned.  Turn cookie with a wide spatula; cook 1 minute more.",
+        "Working quickly, place cookie on pot holder.  Place fortune in center of cookie.  Fold cookie in half, then fold again over edge of bowl.  place in muffin pan to cool.  Repeat with remaining batter."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bc cup all-purpose flour",
+        "2 tablespoons white sugar",
+        "1 tablespoon cornstarch",
+        "\u00bc teaspoon salt",
+        "2 tablespoons vegetable oil",
+        "1  egg white",
+        "1 tablespoon water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fortune Cookies IV",
     "url": "http://allrecipes.com/recipe/10621/fortune-cookies-iv/"
 }

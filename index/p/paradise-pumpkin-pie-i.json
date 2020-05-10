@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a small mixing bowl combine cream cheese, 1/4 cup sugar, and vanilla extract. Beat well, then add 1 egg and mix until thoroughly combined. Spread onto the bottom of pie shell and set aside.",
+        "In a medium bowl combine pumpkin, evaporated milk, 1/2 cup sugar, 2 eggs, cinnamon, ginger, nutmeg, and salt. Mix well, then pour the mixture over the cream cheese layer.",
+        "Bake in preheated oven for 1 hour or until set in center. Cool, then brush top with maple syrup."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1285&h=673&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4560015.jpg",
+    "ingredients": [
+        "1 (9 inch) pie shell",
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bc cup white sugar",
+        "\u00bd teaspoon vanilla extract",
+        "1  egg, beaten",
+        "1\u2009\u00bc cups pumpkin puree",
+        "1 cup evaporated milk",
+        "\u00bd cup white sugar",
+        "2  eggs, beaten",
+        "1 teaspoon ground cinnamon",
+        "\u00bc teaspoon ground ginger",
+        "\u00bc teaspoon ground nutmeg",
+        "1 pinch salt",
+        "\u00bc cup maple syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paradise Pumpkin Pie I",
     "url": "http://allrecipes.com/recipe/16052/paradise-pumpkin-pie-i/"
 }

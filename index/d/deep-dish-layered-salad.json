@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove the eggs from hot water, cool, peel and chop.",
+        "Layer 1/2 of the lettuce in the bottom of a large bowl. Follow with a layer of celery, bell pepper, green onion, mushrooms, peas and egg. Top with remaining lettuce.",
+        "Prepare the dressing by whisking together the mayonnaise, brown sugar, garlic powder and curry powder. Spread evenly over top of salad. Sprinkle with bacon bits and Parmesan cheese. Refrigerate until ready to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3503.jpg",
+    "ingredients": [
+        "2 eggs",
+        "1 1/2 heads iceberg lettuce - rinsed, dried, and shredded",
+        "1 cup chopped celery",
+        "1 cup chopped green bell pepper",
+        "1 cup chopped green onions",
+        "2 cups sliced fresh mushrooms",
+        "2 cups frozen green peas, thawed",
+        "2 tablespoons bacon bits",
+        "2 tablespoons grated Parmesan cheese",
+        "2 cups mayonnaise",
+        "2 tablespoons brown sugar",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon curry powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Deep Dish Layered Salad",
     "url": "http://allrecipes.com/recipe/16109/deep-dish-layered-salad/"
 }

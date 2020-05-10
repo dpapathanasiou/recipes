@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the cantaloupe, gin, sugar and ice in a blender, and blend until the ice is smooth. You may need to do two batches if your blender is small. Pour into tall glasses and serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1138947.jpg",
+    "ingredients": [
+        "1 cantaloupe - peeled, seeded and cubed",
+        "1 cup gin",
+        "1 1/2 cups ice cubes",
+        "2 tablespoons white sugar, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cantaloupe Fizz",
     "url": "http://allrecipes.com/recipe/61245/cantaloupe-fizz/"
 }

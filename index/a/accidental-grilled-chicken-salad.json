@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken breast halves in a large resealable plastic bag with lemon juice, olive oil, and lemon pepper. Shake to coat, and marinate in the refrigerator for at least 1 hour.",
+        "Preheat a grill for high heat.",
+        "Lightly oil the grill grate. Place the Vidalia onions and mushrooms on the grill, and cook until lightly charred on both sides; set aside. Place chicken onto the grill, and discard marinade. Cook for 15 minutes, turning once, or until juices run clear. Remove from heat, cool, and chop.",
+        "In a large bowl, thoroughly mix the onions, mushrooms, chicken, and mayonnaise. Season with hot sauce, salt, and pepper. Cover, and refrigerate until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F293813.jpg",
+    "ingredients": [
+        "4  boneless, skinless chicken breast halves",
+        "2 tablespoons lemon juice",
+        "2 tablespoons olive oil",
+        "2 teaspoons lemon pepper",
+        "2  Vidalia onions, thickly sliced",
+        "4 large mushroom caps, chopped",
+        "1 cup mayonnaise",
+        "hot sauce to taste (optional)",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Accidental Grilled Chicken Salad",
     "url": "http://allrecipes.com/recipe/30485/accidental-grilled-chicken-salad/"
 }

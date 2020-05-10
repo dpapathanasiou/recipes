@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot, mix the water, broccoli, mushrooms, and butter. Bring to a boil, reduce heat to low, and simmer 5 minutes, until broccoli is tender. Mix in milk powder, soup, hot sauce, pepper, and garlic powder. Continue cooking, stirring frequently, until heated through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1113224.jpg",
+    "ingredients": [
+        "3 cups water",
+        "2 cups chopped broccoli",
+        "8 ounces mushrooms, sliced",
+        "2 tablespoons butter",
+        "1 cup nonfat dry milk powder",
+        "1 (10.75 ounce) can  condensed Cheddar cheese soup",
+        "2 dashes hot sauce",
+        "\u215b teaspoon ground black pepper",
+        "1 dash garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamed Broccoli and Mushroom Soup",
     "url": "http://allrecipes.com/recipe/68933/creamed-broccoli-and-mushroom-soup/"
 }

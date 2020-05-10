@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cake mix, cherry pie filling, and three eggs.  Mix until well blended.",
+        "Bake in well greased and floured 9 x 13 pan. Bake at 350 degrees F (175 degrees C) for 35 to 40 minutes.",
+        "To Make Frosting:  Combine sugar, butter or margarine, and milk. Bring to a boil, stirring constantly, and cook 1 minute.",
+        "Remove from heat.",
+        "Stir in chocolate pieces until melted and smooth.",
+        "Frost when cake is cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7627140.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package chocolate cake mix",
+        "1 (21 ounce) can cherry pie filling",
+        "3  eggs",
+        "1 cup white sugar",
+        "5 tablespoons butter",
+        "\u2153 cup milk",
+        "1 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Cherry Cake I",
     "url": "http://allrecipes.com/recipe/7281/chocolate-cherry-cake-i/"
 }

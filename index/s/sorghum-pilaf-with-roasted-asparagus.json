@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small saucepan, boil 2 cups of water and add 1/2 cup of whole grain sorghum to make 1 1/2 cups of cooked sorghum. Cover with a tight-fitting lid, reduce heat to medium and simmer for 45 minutes or until tender. Fluff with a fork.",
+        "Preheat oven to 400 degrees F. Trim ends from the asparagus and cut into 1/2 inch pieces. Cut the shallots into thin slices and place the asparagus and shallots in a roasting pan. Toss with olive oil and salt. Roast for 20 minutes or until the asparagus is cooked and starts to char.",
+        "Once the asparagus is cooked, toss the sorghum with the asparagus, feta and parsley (use more or less sorghum if needed). Whisk together the dressing ingredients, pour over the sorghum mixture and toss until well combined. Toss and add more salt as desired.",
+        "Pair with white fish (cook however desired)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3679907.jpg",
+    "ingredients": [
+        "\u00bd cup whole grain sorghum, uncooked",
+        "2 cups water",
+        "1 pound asparagus",
+        "1 medium shallot",
+        "2 teaspoons olive oil",
+        "\u00bc teaspoon salt",
+        "\u2153 cup crumbled feta cheese",
+        "\u00bc cup chopped fresh flat-leaf parsley",
+        "3 tablespoons olive oil",
+        "2 tablespoons champagne vinegar",
+        "1 teaspoon honey",
+        "\u00bd teaspoon black pepper",
+        "\u00bc teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sorghum Pilaf with Roasted Asparagus",
     "url": "http://allrecipes.com/recipe/254272/sorghum-pilaf-with-roasted-asparagus/"
 }

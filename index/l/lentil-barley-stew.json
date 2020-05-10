@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat canola oil in a heavy pot or Dutch oven over medium-high heat. Cook and stir onion in hot oil until softened and translucent, about 5 minutes.",
+        "Stir in water, green bell pepper, carrot, potato, corn, celery, rutabaga, and barley; bring to a boil. Reduce heat to medium-low, cover, and simmer for 20 minutes.",
+        "Stir in lentils. Continue to simmer until lentils and vegetables are tender, about 30 minutes more.",
+        "Remove from heat. Stir in arugula and season with salt to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4532995.jpg",
+    "ingredients": [
+        "2 teaspoons canola oil",
+        "1/2 onion, chopped",
+        "3 cups water",
+        "1 green bell pepper, chopped",
+        "1 cup shredded carrot",
+        "1 cup cubed potato",
+        "1 cup corn kernels",
+        "1/2 cup chopped celery",
+        "1/2 cup chopped rutabaga",
+        "1/2 cup uncooked barley",
+        "3/4 cup dry lentils",
+        "2 cups chopped arugula",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lentil Barley Stew",
     "url": "http://allrecipes.com/recipe/220466/lentil-barley-stew/"
 }

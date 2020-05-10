@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Prepare a baking sheet with cooking spray.",
+        "Pour Buffalo wing sauce over tofu in a large bowl to cover completely and toss gently to coat; marinate tofu at least as long as it takes for your oven to reach temperature.",
+        "Remove tofu from the bowl and spread onto the prepared baking sheet. Coat top of the tofu cubes with extra sauce and spray with cooking spray.",
+        "Bake tofu in preheated oven for 10 minutes. Flip the cubes, spray tops again with cooking spray, and continue baking until firm, about 10 minutes more.",
+        "Put 1 slice Swiss cheese atop each tortilla; heat in microwave oven to melt the cheese, about 30 seconds.",
+        "Divide tomato slices between the tortillas; top with about 1/4 of the baked tofu and 1/4 of the spinach. Wrap tortillas around the fillings."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4458500.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 (12 fluid ounce) bottle Buffalo wing sauce (such as Frank's\u00ae), or to taste",
+        "1 (12 ounce) package extra-firm tofu, cut into cubes",
+        "4 slices Swiss cheese",
+        "4  honey-wheat tortillas",
+        "5  Campari tomatoes, sliced",
+        "1 cup fresh spinach, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Baked Tofu and Spinach Wrap",
     "url": "http://allrecipes.com/recipe/241801/spicy-baked-tofu-and-spinach-wrap/"
 }

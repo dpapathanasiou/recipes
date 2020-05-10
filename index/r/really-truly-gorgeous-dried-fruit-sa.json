@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the figs, apricots, prunes, cranberries, raisins, and golden raisins into a bowl. Pour in just enough water to cover. Cover the bowl and soak overnight, at least 8 hours.",
+        "Pour the fruit with the soaking water into a saucepan. Stir in the pine nuts and honey. Bring to a simmer; cook, stirring occasionally, until the fruit is tender but still holds its shape, about 30 minutes. Remove from the heat; return the fruit and liquid to the bowl, being careful not to break up the fruit. Cool to room temperature."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1011392.jpg",
+    "ingredients": [
+        "8 ounces dried figs",
+        "8 ounces dried apricots",
+        "8 ounces pitted prunes",
+        "1/2 cup dried cranberries",
+        "1/2 cup raisins",
+        "1/2 cup golden raisins",
+        "1/4 cup pine nuts",
+        "1 tablespoon honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Really, Truly Gorgeous Dried Fruit Salad",
     "url": "http://allrecipes.com/recipe/142113/really-truly-gorgeous-dried-fruit-sa/"
 }

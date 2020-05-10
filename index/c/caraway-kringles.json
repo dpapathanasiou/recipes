@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat butter and sugar until light and creamy.  Beat in egg.  Stir in the caraway seeds.",
+        "Sift the flour, salt, and baking powder together; add to the butter mixture alternately with the brandy. Chill the dough for 2 to 3 hours.",
+        "Drop by teaspoonfuls onto an ungreased baking sheet.  Dust tops of cookies with confectioner's sugar.",
+        "Bake at 375 degrees F (190 degrees C) for 10 to 12 minutes, or until light brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F886677.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "1 cup white sugar",
+        "1  egg",
+        "2 teaspoons caraway seed",
+        "2 cups sifted all-purpose flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "\u00bc teaspoon salt",
+        "3 tablespoons brandy",
+        "\u2153 cup confectioners' sugar for decoration"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caraway Kringles",
     "url": "http://allrecipes.com/recipe/11129/caraway-kringles/"
 }

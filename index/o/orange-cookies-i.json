@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat sugar and butter or margarine until light and fluffy.",
+        "Add sour cream and eggs, blend well.",
+        "Stir in sifted flour and remaining ingredients, mix well.",
+        "Drop dough by rounded teaspoonfuls onto ungreased cookie sheets.",
+        "Bake at 375 degrees F (190 degrees C) for 8 to 11 minutes, or until edges are light golden brown.   Immediately remove from cookie sheets."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1\u2009\u00bd cups white sugar",
+        "1 cup butter, softened",
+        "1 cup sour cream",
+        "2  eggs",
+        "4 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "\u2154 cup orange juice",
+        "3 tablespoons orange zest"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Cookies I",
     "url": "http://allrecipes.com/recipe/10317/orange-cookies-i/"
 }

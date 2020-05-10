@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Butter one 2 quart casserole dish.",
+        "In a saute pan, cook onion and celery in butter until soft.",
+        "In a mixing bowl, combine onion and celery, bread cubes, poultry seasonings, mushrooms, egg and stock. Mix well and add to casserole dish. Bake for 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F51621.jpg",
+    "ingredients": [
+        "\u00bc pound butter",
+        "1 cup chopped onion",
+        "1\u2009\u00bd cups chopped celery",
+        "9 cups soft bread cubes",
+        "\u00bd teaspoon poultry seasoning",
+        "1 (4.5 ounce) can sliced mushrooms",
+        "1  egg, beaten",
+        "1 cup chicken stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Winnie's Turkey Stuffing",
     "url": "http://allrecipes.com/recipe/13647/grandma-winnies-turkey-stuffing/"
 }

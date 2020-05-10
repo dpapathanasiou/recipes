@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, rice, carrot, peas, and salt in a saucepan. Bring to a boil; reduce heat and simmer until rice is tender but still firm to the bite, about 14 minutes. Drain excess water; let cool, 10 to 15 minutes.",
+        "Mix prosciutto cotto, Swiss cheese, button mushrooms, corn, green olives, black olives, pickle, artichoke hearts, olive oil, thyme, and oregano together in a large bowl. Stir in cooled rice mixture. Fold tuna into the salad.",
+        "Divide salad among 4 serving plates; garnish with hard-boiled eggs. Chill before serving, at least 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3012&h=1577&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3924402.jpg",
+    "ingredients": [
+        "3 cups water",
+        "1\u2009\u00bd cups long-grain rice",
+        "1 large carrot, diced",
+        "\u00bd cup frozen peas",
+        "salt to taste",
+        "\u00be cup cubed prosciutto cotto (cooked ham)",
+        "\u00be cup diced Swiss cheese",
+        "\u00bd cup button mushrooms in oil, drained",
+        "\u2153 cup canned corn, drained",
+        "\u2153 cup sliced green olives",
+        "\u2153 cup sliced black olives",
+        "\u2153 cup diced pickle",
+        "\u2153 cup sliced marinated artichoke hearts, drained",
+        "1\u2009\u00bd tablespoons extra-virgin olive oil",
+        "1 teaspoon thyme",
+        "1 teaspoon oregano",
+        "1 (3 ounce) can tuna, drained",
+        "4  hard-boiled eggs, quartered"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Insalata di Riso (Italian Rice Salad)",
     "url": "http://allrecipes.com/recipe/255288/insalata-di-riso-italian-rice-salad/"
 }

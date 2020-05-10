@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C).",
+        "Heat the vegetable oil in a large skillet over medium heat.",
+        "Season the mahi mahi fillets with the thyme, salt, and black pepper; lay the seasoned fillets in the hot skillet. Cover the skillet and cook the fillets for 7 minutes, turn the fillets, and continue cooking the other side until the flesh flakes easily with a fork, 5 to 7 minutes.",
+        "Remove the mahi mahi to a cutting board and cut into bite-size pieces, removing any visible bones as you notice them.",
+        "Stir the cream of potato soup, milk, and mixed vegetables together in a saucepan over medium heat; season with salt and pepper. Allow the mixture to simmer, stirring occasionally, 5 minutes.",
+        "Gently fold the mahi mahi pieces into the soup mixture.",
+        "Line a 9-inch deep-dish pie plate with one of the prepared pie crusts.",
+        "Pour the soup mixture with the mahi mahi into the pie crust.",
+        "Lay the remaining pie crust atop the assembled pie. Seal the edges with wet fingertips.",
+        "Bake in the preheated oven until the crust is a golden brown and the pie is heated through, 40 to 45 minutes. Allow to cool 10 to 15 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6232668.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 1/2 pounds mahi mahi fillets",
+        "1 teaspoon dried thyme",
+        "salt and ground black pepper to taste",
+        "1 (10.75 ounce) can condensed cream of potato soup",
+        "1/2 cup milk",
+        "1 (15 ounce) can mixed vegetables (with potatoes), drained",
+        "2 (9 inch) deep dish pie crusts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mahi Mahi Pot Pie",
     "url": "http://allrecipes.com/recipe/220096/mahi-mahi-pot-pie/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Boil water, sugar, oil, salt, orange rind, caraway seeds, and fennel seeds in a saucepan for 3 minutes.  Cool until warm",
+        "In a large bowl, whisk together 3 cups flour and yeast.  Stir in cooled orange rind mixture.  Beat with an electric mixer on medium speed for 2 minutes.  Blend in eggs.  Add 1 cup flour, and beat 1 minute on medium speed.  Add rye flour and enough additional white flour to make a stiff dough.",
+        "Turn dough onto a lightly floured surface.  Knead for 8 to 10 minutes, or until smooth and satiny.  Shape into a ball.  Place in lightly greased bowl, turning to grease  the surface.  Cover with a damp cloth, and place in a warm spot.  Allow to rise for 1 1/2 hours, or until doubled.",
+        "Punch dough down, and divide in half.  Shape into 2 balls.   Let rest for 10 min.  Shape into 2  loaves, and place into ungreased 9 x 5 inch loaf pans.  Brush with oil.  Allow to rise for 1 hour, or until doubled in size.",
+        "Bake at 400 degrees F (205 degrees C) for 30 to 35 minutes, or until done."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2856&h=1495&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F228855.jpg",
+    "ingredients": [
+        "5\u2009\u00bd cups all-purpose flour",
+        "2 (.25 ounce) packages active dry yeast",
+        "2 cups water",
+        "\u00bd cup packed brown sugar",
+        "2 tablespoons vegetable oil",
+        "2 teaspoons salt",
+        "2 teaspoons orange zest",
+        "1\u2009\u00bd teaspoons caraway seed",
+        "1\u2009\u00bd teaspoons fennel seed",
+        "2  eggs, room temperature",
+        "2 cups rye flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Limpu Bread",
     "url": "http://allrecipes.com/recipe/6975/swedish-limpu-bread/"
 }

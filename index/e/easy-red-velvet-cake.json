@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Prepare cake according to package directions, substituting half of the water called for with buttermilk (approximately 1/2 cup).  Stir in pudding mix and food coloring.",
+        "Pour into cake pan(s) and bake according to package directions."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F141283.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package white cake mix",
+        "1 (3.5 ounce) package non-instant chocolate pudding mix",
+        "red food coloring, as desired",
+        "\u00bd cup buttermilk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Red Velvet Cake",
     "url": "http://allrecipes.com/recipe/24280/easy-red-velvet-cake/"
 }

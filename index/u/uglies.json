@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Lightly grease 8 muffin cups.",
+        "In a large skillet or frying pan, cook ground chuck with onion and garlic powder until evenly brown; drain off the grease. Stir in the barbeque sauce and simmer for another 3 minutes.",
+        "Roll out each biscuit on a floured surface so that each biscuit is 6 inches across. Put the biscuit in the muffin tin and fold up sides to  create a cup shape. Fill each biscuit fill almost to the top with the meat mixture; top with cheddar cheese.",
+        "Bake in preheated oven until biscuits are baked, cheese is melted and tops are golden brown, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 pound ground beef chuck",
+        "\u00bd cup chopped onion",
+        "\u00bd teaspoon garlic powder",
+        "1\u2009\u00bd cups barbeque sauce",
+        "1 (10 ounce) package refrigerated biscuit dough",
+        "2 cups shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Uglies",
     "url": "http://allrecipes.com/recipe/22162/uglies/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the vegetable oil in a large skillet over medium heat, and pan-fry the turkey breast until the meat is no longer pink, about 10 minutes per side. Transfer the turkey breast into a bowl to cool; shred it with 2 forks. Set the turkey meat aside. In the same skillet, cook the onions and garlic over medium heat until the onion is translucent, about 5 minutes; scrape the onions and garlic, along with any drippings, into the bowl with the turkey.",
+        "Place 1 can of cannellini beans, the hominy, and the chicken broth into a slow cooker. With an immersion blender, blend the mixture until smooth. Transfer the shredded turkey, onions, garlic, 3 more cans of cannellini beans, the cilantro, cumin, and Cajun seasoning into the slow cooker, and stir to combine. Wearing gloves, cut off the serrano chile stems, split the chiles, and scrape the seeds and membranes from 2 of the chiles with a spoon. Mince all 3 chiles. For milder flavor, seed and remove membranes from all the chiles. Mix the serrano chiles into the soup.",
+        "Cover the cooker, and cook on Low setting for 4 to 6 hours or High setting for 2 to 3 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/650206.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "2 pounds boneless turkey breast",
+        "2 onions, chopped",
+        "4 cloves garlic, minced",
+        "1 (15 ounce) can cannellini (white) beans, drained",
+        "1 (29 ounce) can white hominy, drained",
+        "3 (14 ounce) cans low-sodium chicken broth",
+        "3 (15 ounce) cans cannellini (white) beans, drained",
+        "1/4 cup chopped fresh cilantro",
+        "1 1/2 tablespoons ground cumin",
+        "1 teaspoon Cajun seasoning",
+        "3 serrano chile peppers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Turkey and White Bean Chili",
     "url": "http://allrecipes.com/recipe/216089/slow-cooker-turkey-and-white-bean-chi/"
 }

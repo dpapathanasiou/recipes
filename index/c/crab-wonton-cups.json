@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Spray mini-muffin tins with nonstick cooking spray.",
+        "In a medium bowl, stir together crabmeat, green onion, mayonnaise, curry powder, salt, lemon juice, and Swiss cheese. Use kitchen scissors to trim off corners of individual wonton skins; place trimmed skins in wells of mini-muffin tins. Spoon about 1 tablespoon crabmeat mixture into each wonton cup. Top each with a slice of water chestnut.",
+        "Bake in preheated oven about 12 minutes, or until puffed and browned. Serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1346336.jpg",
+    "ingredients": [
+        "1 (6 ounce) can crabmeat, drained",
+        "1 tablespoon chopped green onions",
+        "\u00bd cup mayonnaise",
+        "\u00bd teaspoon curry powder",
+        "\u00bd teaspoon salt",
+        "1 teaspoon lemon juice",
+        "1 cup shredded Swiss cheese",
+        "1 (8 ounce) can sliced water chestnuts, drained",
+        "24  wonton wrappers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crab Wonton Cups",
     "url": "http://allrecipes.com/recipe/82124/crab-wonton-cups/"
 }

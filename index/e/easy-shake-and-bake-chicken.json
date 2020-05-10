@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Mix flour, salt, paprika, sage and pepper together in a bag. Add chicken parts in a bag and shake until well coated.",
+        "Melt butter/margarine in a 9x13 inch baking dish in the preheated oven. Place chicken in the baking dish skin side down and bake for 20 minutes. Turn pieces and bake another 20 minutes until tender and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 pounds chicken, cut into pieces",
+        "\u00bd cup all-purpose flour",
+        "1 teaspoon salt",
+        "1 teaspoon paprika",
+        "\u00bc teaspoon sage",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bd cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Shake and Bake Chicken",
     "url": "http://allrecipes.com/recipe/8944/easy-shake-and-bake-chicken/"
 }

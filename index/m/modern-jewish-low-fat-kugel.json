@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+        "Bring a large pot of lightly salted water to a boil. Cook egg noodles in the boiling water, stirring occasionally until cooked through but firm to the bite, about 5 minutes. Drain.",
+        "Gently stir egg noodles, sour cream, cottage cheese, pineapple with juice, eggs, orange juice, cranberries, melted butter, sugar, applesauce, orange zest, vanilla extract, and cinnamon together in a large bowl until thoroughly combined. Spoon the noodle mixture into prepared baking dish.",
+        "Bake in the preheated oven until kugel is set and browned on top, 60 to 75 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "cooking spray",
+        "1 (16 ounce) package yolk-free egg noodles",
+        "1 (16 ounce) container low-fat sour cream",
+        "1 (16 ounce) container low-fat cottage cheese",
+        "1 (8 ounce) can crushed pineapple in juice, undrained",
+        "3  eggs, lightly beaten",
+        "\u00bd cup orange juice",
+        "\u00bd cup dried cranberries",
+        "5 tablespoons butter, melted",
+        "\u00bc cup white sugar",
+        "\u00bc cup applesauce",
+        "\u00bd  orange, zested",
+        "2 teaspoons vanilla extract",
+        "2 teaspoons ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Modern Jewish Low Fat Kugel",
     "url": "http://allrecipes.com/recipe/230395/modern-jewish-low-fat-kugel/"
 }

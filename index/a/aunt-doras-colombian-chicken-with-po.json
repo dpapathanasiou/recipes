@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a deep skillet over high heat. Add onions and garlic; cook and stir until onions are softened, about 5 minutes. Stir in red and green bell peppers; cook and stir until peppers are firm but tender, 5 to 7 minutes. Mix in beef broth, cumin, curry powder, seasoning salt, garlic powder, turmeric, pimenton, oregano, and pepper.",
+        "Submerge chicken thighs, skin side down, half way into broth mixture; stir to coat chicken. Bring to a boil; cover and reduce heat to low. Simmer until chicken is no longer pink, about 40 minutes.",
+        "Stir potatoes into the chicken mixture until mostly submerged; check that chicken thighs are still skin side down. Bring to a boil; cover. Reduce heat; simmer until potatoes are soft and chicken is cooked through, about 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4549865.jpg",
+    "ingredients": [
+        "1 1/2 teaspoons olive oil",
+        "1 large onion, sliced",
+        "6 cloves garlic, chopped",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced",
+        "11 fluid ounces beef broth",
+        "1 1/2 tablespoons ground cumin",
+        "1 tablespoon curry powder",
+        "1 tablespoon seasoning salt",
+        "1 1/2 teaspoons garlic powder",
+        "1 1/2 teaspoons ground turmeric",
+        "1 1/2 teaspoons pimenton (paprika)",
+        "1 1/2 teaspoons dried oregano",
+        "1 1/2 teaspoons ground black pepper",
+        "6 chicken thighs",
+        "4 potatoes, peeled and quartered"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Aunt Dora's Colombian Chicken with Potatoes",
     "url": "http://allrecipes.com/recipe/254853/aunt-doras-colombian-chicken-with-po/"
 }

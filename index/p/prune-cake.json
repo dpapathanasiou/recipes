@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine prunes and water in a small saucepan over medium-high heat. Bring to a boil, reduce heat to low, and simmer until prunes are tender, about 5 minutes. Drain and set aside.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a fluted tube pan (such as a Bundt\u00ae).",
+        "Mix flour, 1 1/2 cups sugar, allspice, baking soda, nutmeg, cinnamon, and salt together in a mixing bowl. Combine vegetable oil, 1 cup buttermilk, and eggs in a separate bowl; pour them into the flour mixture. Mix until fully incorporated. Use an electric mixer to blend in the drained prunes; the mixer will break them up a bit. Stir in the chopped pecans.",
+        "Pour batter into prepared pan and bake in preheated oven until a tester comes out clean, about 45 minutes. Remove cake from oven and allow it to cool for at least 10 minutes on a wire rack.",
+        "To make icing, combine 1 cup sugar, margarine, 1/2 cup buttermilk, vanilla extract, and corn syrup in a saucepan and bring it to a boil over medium-high heat. Boil for a full 5 minutes, stirring occasionally.",
+        "Invert cake onto a platter and pour hot icing over the cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1066586.jpg",
+    "ingredients": [
+        "1 cup pitted prunes",
+        "\u00bd cup water",
+        "2 cups all-purpose flour",
+        "1\u2009\u00bd cups white sugar",
+        "1 tablespoon ground allspice",
+        "1 teaspoon baking soda",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon salt",
+        "1 cup vegetable oil",
+        "1 cup buttermilk",
+        "2  eggs, lightly beaten",
+        "1\u2009\u00bd cups chopped pecans",
+        "1 cup white sugar",
+        "\u00bd cup margarine",
+        "\u00bd cup buttermilk",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons corn syrup, such as Karo\u00ae"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Prune Cake",
     "url": "http://allrecipes.com/recipe/229642/prune-cake/"
 }

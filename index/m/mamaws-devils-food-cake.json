@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan.",
+        "In a medium bowl, cream together the sugar and butter. Beat in the eggs, one at a time. Stir in the vanilla. Sift together the flour, cocoa, baking soda, cloves and cinnamon. Add the dry ingredients to the creamed mixture alternately with the buttermilk. Pour the batter into the prepared pan.",
+        "Bake for 35 to 45 minutes in the preheated oven, until a toothpick inserted comes out clean. To make the frosting, use the second set of ingredients.",
+        "In a heavy saucepan, combine the cocoa, butter, milk and sugar. Cook over medium heat, stirring occasionally until the mixture comes to a boil. Cook to the soft ball stage (234 to 240 degrees F, 112 to 115 degrees C). Remove from heat and beat by hand until the mixture becomes thick. Stir in the flour, beat until blended. Poke holes in the cake and frost while the cake and icing are still hot so the icing will penetrate. Let cool before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2992&h=1566&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1669725.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups white sugar",
+        "1 stick butter",
+        "5  eggs",
+        "3 teaspoons vanilla extract",
+        "2\u2009\u00bd cups all-purpose flour",
+        "\u00bc cup unsweetened cocoa powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground cloves",
+        "1 cup buttermilk",
+        "\u00bc cup unsweetened cocoa powder",
+        "\u00bc cup butter",
+        "1 cup milk",
+        "2 cups white sugar",
+        "1 tablespoon all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mamaw's Devils Food Cake",
     "url": "http://allrecipes.com/recipe/15898/mamaws-devils-food-cake/"
 }

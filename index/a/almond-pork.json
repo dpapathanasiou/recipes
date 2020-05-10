@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "With a meat mallet, pound the tenderloin slices to 1/4-inch thick. Combine tarragon and garlic powder in a small bowl, and sprinkle the mixture over the cutlets. Rub the seasoning into the meat, cover, and refrigerate for 1 hour to blend the flavors.",
+        "Melt 1 tablespoon of butter in a skillet over medium heat until the foam disappears. Brown half of the tenderloin pieces in the butter, 3 to 4 minutes per side. Do not crowd pan. Repeat with the remainder of the pork pieces and 1 more tablespoon of butter. Set the pork pieces aside on a warm platter.",
+        "Melt remaining 2 tablespoons of butter in the skillet over medium heat; stir in the flour until smooth and the mixture starts to fry. Gradually whisk in wine, stirring constantly until the flour mixture and wine are blended; stir in chicken bouillon granules and Dijon mustard. Allow the sauce to boil for 1 minute; whisk in the cream. Bring the mixture almost to the boiling point, and stir in the almonds and green onions. Pour sauce over the pork, and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5576661.jpg",
+    "ingredients": [
+        "1 pound pork tenderloin, trimmed and cut into 1/2-inch thick medallions",
+        "1 teaspoon dried tarragon, crumbled",
+        "1 teaspoon garlic powder",
+        "4 tablespoons butter, divided",
+        "1 tablespoon all-purpose flour",
+        "\u00be cup white wine",
+        "1 teaspoon chicken bouillon granules",
+        "1 tablespoon Dijon mustard",
+        "\u00bc cup heavy cream",
+        "\u00bd cup toasted slivered almonds",
+        "\u00bc cup sliced green onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Almond Pork",
     "url": "http://allrecipes.com/recipe/216671/almond-pork/"
 }

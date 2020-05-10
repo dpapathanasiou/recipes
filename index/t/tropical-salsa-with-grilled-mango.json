@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for high heat. In a mixing bowl, toss mango slices with oil to coat.",
+        "Lightly oil grate, place mango slices on grill. Cook for 4 minutes on each side, until nicely browned with grill marks.",
+        "Remove mango from grill, cut into small cubes, and transfer to a mixing bowl. Stir in onion, red pepper, jalapeno pepper, lime juice, salt, sugar, and ginger. Serve at room temperature, chill until ready to serve, or serve hot by heating through in a nonstick skillet."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F74871.jpg",
+    "ingredients": [
+        "1  ripe mango, peeled and sliced 1/4 inch thick",
+        "2 teaspoons olive oil",
+        "\u00bc cup finely chopped red onion",
+        "2 tablespoons finely chopped red bell pepper",
+        "1  jalapeno pepper, finely chopped",
+        "1  lime, juiced",
+        "2 teaspoons white sugar",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tropical Salsa with Grilled Mango",
     "url": "http://allrecipes.com/recipe/59393/tropical-salsa-with-grilled-mango/"
 }

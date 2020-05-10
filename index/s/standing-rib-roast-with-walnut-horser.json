@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Place meat in a roasting pan. Spread mustard over the meat.",
+        "Roast at 425 degrees F (220 degrees C) for 45 minutes. Cover loosely with foil and continue roasting until internal temperature of roast reaches 125 degrees F (50 degrees C) for rare. Remove from oven keeping the foil loosely tented over the roast. Let stand 30 minutes. Transfer to a platter and garnish with kale, if desired.",
+        "In a separate medium bowl, combine the cream, horseradish, lemon juice and sugar. Beat with a mixer to medium peaks. Season with salt and pepper to taste. Continue to beat until firm peaks form. Fold in the walnuts, cover and chill until you're ready to serve the roast."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "8 pounds rib roast",
+        "3 tablespoons prepared mustard",
+        "1 bunch kale (optional)",
+        "1 1/2 cups heavy cream",
+        "1/4 cup prepared horseradish",
+        "1 1/2 teaspoons lemon juice",
+        "1/2 teaspoon white sugar",
+        "1 cup chopped and toasted walnuts",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Standing Rib Roast with Walnut Horseradish Cream",
     "url": "http://allrecipes.com/recipe/16436/standing-rib-roast-with-walnut-horser/"
 }

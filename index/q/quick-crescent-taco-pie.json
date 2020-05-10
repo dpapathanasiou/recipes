@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large fry pan, brown the ground chuck.  Drain off the oil.  Stir in seasoning mix, water, and olives.  Simmer for 5 minutes.",
+        "Separate crescent dough into 8 triangles.  Place triangles in an ungreased 10-inch pie pan, pressing to form a crust.  Sprinkle 1 cup corn chips over the bottom of crust.  Spoon meat mixture over crust and corn chips.  Spread sour cream over meat mixture, and cover with cheese.  Sprinkle remaining corn chips over the top.",
+        "Bake at 375 degrees F (190 degrees C) for 20 to 25 minutes, or until crust is golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5174599.jpg",
+    "ingredients": [
+        "1 (1.25 ounce) package taco seasoning mix",
+        "1 pound lean ground beef",
+        "\u00bd cup water",
+        "\u2153 cup black olives, pitted and sliced",
+        "1 (8 ounce) package refrigerated crescent rolls",
+        "2 cups crushed tortilla chips",
+        "1 cup sour cream",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Crescent Taco Pie",
     "url": "http://allrecipes.com/recipe/12475/quick-crescent-taco-pie/"
 }

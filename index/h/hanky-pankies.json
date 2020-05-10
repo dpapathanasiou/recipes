@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet, cook sausage over a medium heat until it is browned and cooked through. Stir onion, garlic powder, black pepper, and process cheese into the skillet. Stir until the cheese is melted and the ingredients are well combined.",
+        "Spread 1 tablespoon of mixture onto each slice of cocktail rye.  Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2057089.jpg",
+    "ingredients": [
+        "1 pound fresh, ground pork sausage",
+        "3 tablespoons minced onion",
+        "\u00bd teaspoon garlic powder",
+        "\u00bc teaspoon ground black pepper",
+        "1 cup process cheese sauce",
+        "16 ounces cocktail rye bread"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hanky Pankies",
     "url": "http://allrecipes.com/recipe/16696/hanky-pankies/"
 }

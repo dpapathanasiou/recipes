@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the venison, potatoes, onions, celery, carrots, bouillon, broth, and seasoning sauce in a slow cooker.  Pour in just enough water to cover.  Turn to High and cook until the stew comes to a boil.  Reduce heat to Low and continue cooking until the venison is tender, about 8 to 10 hours.",
+        "Ladle off any fat which has collected on the surface, then stir in the peas and mushrooms if using.  Season to taste with salt and pepper.  Whisk together the cornstarch and water.  Stir this into the stew, increase heat to High, and cook until the stew has thickened and the peas have warmed through."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/286901.jpg",
+    "ingredients": [
+        "2 pounds venison stew meat",
+        "8 medium potatoes, peeled and cubed",
+        "3 medium onions, diced",
+        "3 stalks celery, diced",
+        "8 large carrots, peeled and diced",
+        "3 cubes beef bouillon",
+        "2 (14.5 ounce) cans beef broth",
+        "2 tablespoons browning and seasoning sauce",
+        "2 cups frozen green peas (optional)",
+        "2 cups fresh mushrooms, sliced (optional)",
+        "salt and pepper to taste",
+        "1/2 cup cornstarch",
+        "1 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Maine Venison Stew",
     "url": "http://allrecipes.com/recipe/98768/maine-venison-stew/"
 }

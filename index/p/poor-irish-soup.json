@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the stock, ham hock, and cabbage in a large stockpot; bring to a boil. Reduce heat to low; cover and cook until the potatoes are soft,  about 30 minutes. Carefully separate the meat from the bone of the ham hock and dispose of the bone, adding the meat back to the soup. Stir in the cream; season with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5219202.jpg",
+    "ingredients": [
+        "4 cups chicken stock",
+        "1  ham hock",
+        "3 cups shredded cabbage",
+        "2 cups thinly sliced potatoes",
+        "1 teaspoon cream or milk (optional)",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Poor Irish Soup",
     "url": "http://allrecipes.com/recipe/157845/poor-irish-soup/"
 }

@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C). Spread peanuts out on a large baking sheet.",
+        "Bake for 15 to 20 minutes, or until the shells are browned. Watch carefully, the peanuts brown rather suddenly. When cool enough to touch, break open the shells and eat!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2221&h=1163&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2395717.jpg",
+    "ingredients": [
+        "1 pound raw peanuts, in shells"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "My Mom's Roasted Peanuts",
     "url": "http://allrecipes.com/recipe/68315/my-moms-roasted-peanuts/"
 }

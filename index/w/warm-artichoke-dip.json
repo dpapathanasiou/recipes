@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, mix together artichoke hearts, mayonnaise, Parmesan and garlic. Scoop the mixture into a medium baking dish.",
+        "Bake in the preheated oven 15 minutes, or until lightly brown on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F70648.jpg",
+    "ingredients": [
+        "1 (6.5 ounce) jar marinated artichoke hearts, chopped",
+        "1 cup mayonnaise",
+        "1 cup grated Parmesan cheese",
+        "1 clove garlic, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Warm Artichoke Dip",
     "url": "http://allrecipes.com/recipe/20985/warm-artichoke-dip/"
 }

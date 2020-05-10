@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat egg, brown sugar, self-rising flour, milk, white sugar, olive oil, and cinnamon together in a large mug.",
+        "Place mug in microwave; cook on high heat for 2 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3004&h=1573&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3695599.jpg",
+    "ingredients": [
+        "1  egg, beaten",
+        "2 tablespoons brown sugar",
+        "2 tablespoons self-rising flour",
+        "1\u2009\u00bd tablespoons milk",
+        "1 tablespoon white sugar",
+        "1 tablespoon olive oil",
+        "\u00bc teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Doughnut in a Mug",
     "url": "http://allrecipes.com/recipe/254376/doughnut-in-a-mug/"
 }

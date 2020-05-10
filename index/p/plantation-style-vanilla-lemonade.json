@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut the lemons in half and scoop the pulp into a blender. Add half of the rinds along with sugar, vanilla extract, and 2 cups of water. Blend until smooth, then strain into a serving pitcher and stir in the remaining water."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/417141.jpg",
+    "ingredients": [
+        "4 lemons",
+        "3/4 cup white sugar",
+        "1/4 teaspoon vanilla extract",
+        "6 cups cold water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern-Style Vanilla Lemonade",
     "url": "http://allrecipes.com/recipe/147010/plantation-style-vanilla-lemonade/"
 }

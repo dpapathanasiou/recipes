@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place water and cracked wheat in the pan of the bread machine; let soak for 1 hour.",
+        "Place remaining ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select cycle; press Start."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F187634.jpg",
+    "ingredients": [
+        "1\u2009\u2153 cups warm water",
+        "1 cup cracked wheat",
+        "3 tablespoons vegetable oil",
+        "2 tablespoons honey",
+        "\u00bd teaspoon salt",
+        "1 cup rolled oats",
+        "2 cups bread flour",
+        "2 teaspoons active dry yeast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cracked Wheat Oat Bread",
     "url": "http://allrecipes.com/recipe/20807/cracked-wheat-oat-bread/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender and the liquid has been absorbed, 20 to 25 minutes. Allow rice to stand covered while you finish the remaining steps.",
+        "Heat olive oil, garlic salt, black pepper, and parsley in a large skillet or wok over medium heat.",
+        "Cook and stir chicken strips in olive oil until no longer pink in the center and juices run clear, 5 to 7 minutes.",
+        "Stir in broccoli, carrots, and snap peas; cover the skillet, and cook until carrots are tender, 5 to 8 minutes.",
+        "Stir condensed Cheddar cheese soup into chicken and vegetables; mix well and bring to a simmer. Cook and stir until chicken and vegetables are coated with sauce.",
+        "To serve, mound cooked rice on a platter, and top with chicken and vegetables in sauce. Sprinkle with shredded Cheddar cheese to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6134889.jpg",
+    "ingredients": [
+        "2 cups uncooked white rice",
+        "4 cups water",
+        "1 tablespoon olive oil",
+        "1 teaspoon garlic salt",
+        "1 teaspoon black pepper",
+        "1 teaspoon dried parsley",
+        "3  skinless, boneless chicken breast halves, cut into strips",
+        "2 cups chopped broccoli",
+        "1 cup sliced carrots",
+        "1 cup sugar snap peas",
+        "1 (10.75 ounce) can condensed cheddar cheese soup, such as Campbell's\u00ae",
+        "\u00bd cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Chicken Stir Fry",
     "url": "http://allrecipes.com/recipe/220143/cheesy-chicken-stir-fry/"
 }

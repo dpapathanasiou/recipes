@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cover a large flat surface with waxed paper.  In a large bowl, stir together the popcorn, cereal, corn chips, almonds, and pretzels.",
+        "Melt the confectioners' coating in a glass bowl in the microwave for 1 minute. Continue to cook at 30 second intervals, stirring between each one, until the coating is smooth.",
+        "Pour melted coating over the cereal mixture. It's best to use a large metal spoon, and pour 1 or 2 spoonfuls at a time then mix to ensure even distribution. (A second person can be useful here - one to pour, one to mix.) Once everything is coated, spread the mixture out onto waxed paper in a thin layer. Let stand for about 1/2 hour, or until coating is dry. Transfer to a bowl to serve, or store in an airtight container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/11115.jpg",
+    "ingredients": [
+        "2 envelopes microwave popcorn without butter, popped",
+        "4 cups corn cereal puffs (e.g. Kix\u2122)",
+        "1 (10.5 ounce) bag extruded corn chips (e.g. Fritos\u2122)",
+        "2 (2.25 ounce) packages blanched slivered almonds",
+        "2 cups thin pretzel sticks",
+        "1 pound vanilla flavored confectioners' coating"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lip-Smacking Popcorn Concoction",
     "url": "http://allrecipes.com/recipe/73754/lip-smacking-popcorn-concoction/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). In a medium saucepan over low heat, melt together the caramels and heavy cream, stirring occasionally until smooth.",
+        "In a medium bowl, stir together the flour, oats, brown sugar, baking soda and salt. Stir in the melted butter until well blended. Press Half of the mixture into the bottom of a 9x13 inch baking pan. Reserve the rest.",
+        "Bake the crust for 8 minutes in the preheated oven. Remove and sprinkle with chocolate chips and walnuts. Pour the caramel mixture over the top and then crumble the remaining crust mixture over everything.",
+        "Return to the oven and bake for an additional 12 minutes, or until the top is lightly toasted. Cut into squares while it is still warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F18081.jpg",
+    "ingredients": [
+        "32  individually wrapped caramels, unwrapped",
+        "5 tablespoons heavy cream",
+        "1 cup all-purpose flour",
+        "1 cup rolled oats",
+        "\u00be cup brown sugar",
+        "\u00bd teaspoon baking soda",
+        "\u00bc teaspoon salt",
+        "\u00be cup butter, melted",
+        "\u00bd cup semisweet chocolate chips",
+        "\u00bd cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caramel Bars",
     "url": "http://allrecipes.com/recipe/25030/caramel-bars/"
 }

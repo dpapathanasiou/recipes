@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend berries and sugar together in a food processor or blender until smooth, scraping down sides of bowl if needed. Transfer berry mixture to a bowl.",
+        "Beat sweetened condensed milk and vanilla extract together in a bowl using an electric mixer until light and fluffy; fold into berry mixture. Pour mixture into a shallow pan and freeze for 1 hour; stir and return to freezer, 8 hours to overnight.",
+        "Remove from freezer and let stand 10 to 15 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "4 cups mixed fresh berries",
+        "1/2 cup white sugar",
+        "1 1/2 cups sweetened condensed milk",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Summer Berry Gelato",
     "url": "http://allrecipes.com/recipe/244377/summer-berry-gelato/"
 }

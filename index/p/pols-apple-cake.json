@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease and flour tube or bundt pan.",
+        "Blend eggs, oil, and sugar until creamy. Add flour, a little at a time.  Blend well.  Batter will be stiff. Fold in apples, coconut, and nuts.",
+        "Pour into prepared pan. Bake in preheated oven for 60 minutes, or until a toothpick inserted into the center comes out clean. Let cool 30 minutes in pan, then remove.",
+        "To Make Topping:  Melt  butter or margarine, sugar, and milk  in saucepan over high heat.  Bring to boil for 3 minutes. Pour over cooled cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2576&h=1349&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F23248.jpg",
+    "ingredients": [
+        "3  eggs",
+        "1\u2009\u00bc cups vegetable oil",
+        "2 cups white sugar",
+        "2\u2009\u00bd cups self-rising flour",
+        "2  apple - peeled, cored, and chopped",
+        "1 cup shredded coconut",
+        "1 cup chopped walnuts",
+        "\u00bc cup butter",
+        "\u00bd cup packed brown sugar",
+        "\u2153 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pol's Apple Cake",
     "url": "http://allrecipes.com/recipe/7257/pols-apple-cake/"
 }

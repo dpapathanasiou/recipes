@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place water, yeast, and molasses in a mixing bowl; stir to mix.  Let stand for a few minutes until mixture is creamy and foamy.",
+        "Add olive oil and salt; mix.  Add flour, about a cup at a time, until dough is too stiff to stir.  Add olives and fresh herbs.",
+        "Turn dough out onto a lightly floured board.  Knead, adding flour as needed to keep from being sticky, until smooth and elastic.  Place in well oiled bowl, and turn to coat the dough surface with oil. Allow to rise until doubled in bulk, about an hour or so.",
+        "Punch the dough down, split into two pieces, and form into two round loaves.  Place on greased baking sheet .  Spray with cold water and sprinkle with sesame seeds if desired.   Let loaves rise for 25 to 30 minutes.",
+        "Bake at 400 degrees F (205 degrees C) for about 45 minutes, or until they are brown and sound hollow when tapped on the bottom."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1397&h=731&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6475980.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups warm water (110 degrees F/45 degrees C)",
+        "2 tablespoons active dry yeast",
+        "1 teaspoon molasses",
+        "2 tablespoons olive oil",
+        "1 tablespoon salt",
+        "7\u2009\u00bd cups bread flour",
+        "1 cup kalamata olives, pitted and chopped",
+        "2 tablespoons chopped fresh rosemary",
+        "1 tablespoon sesame seeds (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Olive Bread",
     "url": "http://allrecipes.com/recipe/6804/olive-bread/"
 }

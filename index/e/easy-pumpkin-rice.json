@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the rice and water in a large saucepan over medium heat; bring to a boil; cover and reduce heat to medium-low; simmer until the water is completely absorbed, 15 to 20 minutes.",
+        "Stir together the pumpkin puree, pumpkin pie spice, brown sugar, butter, and salt in a separate saucepan over medium-low heat. Cook until warm. Stir pumpkin mixture into cooked rice."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F279507.jpg",
+    "ingredients": [
+        "4 cups instant rice",
+        "4 cups water",
+        "1 (29 ounce) can pumpkin puree",
+        "1\u2009\u00bd teaspoons pumpkin pie spice",
+        "1\u2009\u00bd cups brown sugar",
+        "\u00bd cup butter",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Pumpkin Rice",
     "url": "http://allrecipes.com/recipe/152212/easy-pumpkin-rice/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat oil in a skillet over medium heat; cook and stir onion, celery, bell pepper, and corn in the hot oil until softened, about 10 minutes.",
+        "Mix onion mixture, millet, quinoa, and salt together in an 8x8-inch casserole dish; pour in chicken stock. Cover dish with aluminum foil.",
+        "Bake in the preheated oven until grains are tender and have absorbed all the liquid, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2137620.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1  onion, chopped",
+        "3 stalks celery, chopped",
+        "\u00bd cup chopped bell pepper",
+        "\u00bd cup corn kernels",
+        "\u00be cup millet",
+        "\u00be cup quinoa",
+        "1 teaspoon salt",
+        "3 cups low-sodium chicken stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Grains Pilaf",
     "url": "http://allrecipes.com/recipe/234223/baked-grains-pilaf/"
 }

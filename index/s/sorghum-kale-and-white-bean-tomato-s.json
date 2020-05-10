@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring 3 cups of broth to a boil, add 1/2 cup of sorghum and allow to boil gently for approximately 20-25 minutes (liquid will remain, that's fine).",
+        "Meanwhile, heat a large saucepan with lid over medium to medium/high heat. Add olive oil and saute garlic, onion, salt and pepper until the onion softens (approximately 6-8 minutes).",
+        "Add kale and sriracha, cook until wilted (about 4 minutes).",
+        "Take 1/2 cup of white beans and either blend in a blender/small food processor or mash well with the back of a spoon or fork.",
+        "Add blended beans, remaining whole beans, canned tomatoes, sorghum/broth mixture and additional 4 cups low sodium chicken broth to kale mixture.",
+        "Bring to a boil, cover and reduce heat to simmer for approximately 20 minutes.",
+        "Top with grated Pecorino Romano or Parmesan cheese (approximately 1 teaspoon per bowl) and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3679879.jpg",
+    "ingredients": [
+        "1/2 cup whole grain sorghum, uncooked",
+        "3 cups low-sodium chicken broth",
+        "1 tablespoon extra virgin olive oil",
+        "2 large cloves garlic, finely chopped",
+        "1 small-medium onion, chopped",
+        "1/4 teaspoon kosher salt",
+        "1/4 teaspoon black pepper",
+        "12 ounces kale, thick stems removed, leaves chopped into 1-2-inch pieces",
+        "1 teaspoon sriracha or other hot sauce",
+        "2 (15 ounce) cans white cannellini beans or white kidney beans, drained and rinsed",
+        "1 (14.5 ounce) can diced tomatoes in juice",
+        "4 cups low-sodium chicken broth",
+        "Grated Pecorino Romano or Parmesan cheese for topping"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sorghum, Kale and White Bean Tomato Soup",
     "url": "http://allrecipes.com/recipe/254269/sorghum-kale-and-white-bean-tomato-s/"
 }

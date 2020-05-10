@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven on broiler setting.",
+        "In a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. Allow the mixture to sit for 10 minutes.",
+        "Cut the baguette into 3/4-inch slices. On a baking sheet, arrange the baguette slices in a single layer. Broil for 1 to 2 minutes, until slightly brown.",
+        "Divide the tomato mixture evenly over the baguette slices. Top the slices with mozzarella cheese.",
+        "Broil for 5 minutes, or until the cheese is melted."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "6  roma (plum) tomatoes, chopped",
+        "\u00bd cup sun-dried tomatoes, packed in oil",
+        "3 cloves minced garlic",
+        "\u00bc cup olive oil",
+        "2 tablespoons balsamic vinegar",
+        "\u00bc cup fresh basil, stems removed",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "1  French baguette",
+        "2 cups shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Double Tomato Bruschetta",
     "url": "http://allrecipes.com/recipe/20669/double-tomato-bruschetta/"
 }

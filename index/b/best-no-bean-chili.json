@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour coffee into a slow cooker and set slow cooker to High; add diced tomatoes, beer, tomato paste, beef broth, brown sugar, chili sauce, jalapeno peppers, cumin, cocoa powder, chile powder, oregano, cayenne pepper, coriander, and salt.",
+        "Heat oil in a large skillet over medium heat. Cook and stir ground beef, onions, and garlic in the skillet until the beef is browned completely, 7 to 10 minutes; add to mixture in the slow cooker.",
+        "Slowly pour cornmeal into the slow cooker while stirring to assure no lumps.",
+        "Reduce heat to Low and cook for 2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1093683.jpg",
+    "ingredients": [
+        "1 cup strong brewed coffee",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 (12 fluid ounce) can or bottle porter-style beer",
+        "2 (6 ounce) cans tomato paste",
+        "1 cup beef broth",
+        "\u00bd cup brown sugar",
+        "\u00bc cup ketchup-style chili sauce (such as Heinz\u00ae)",
+        "\u00bc cup chopped jalapeno peppers",
+        "1 tablespoon ground cumin",
+        "1 tablespoon cocoa powder",
+        "2 teaspoons ground ancho chile powder",
+        "1 teaspoon oregano",
+        "1 teaspoon cayenne pepper",
+        "1 teaspoon ground coriander",
+        "1 teaspoon salt",
+        "2 teaspoons vegetable oil",
+        "2 pounds extra lean ground beef",
+        "2  onions, chopped",
+        "3 cloves garlic, minced",
+        "\u00bd cup cornmeal"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best No-Bean Chili",
     "url": "http://allrecipes.com/recipe/236140/best-no-bean-chili/"
 }

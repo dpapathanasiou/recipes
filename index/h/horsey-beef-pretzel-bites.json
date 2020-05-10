@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Arrange Pretzel Crisps\u00ae onto a large tray. Top with roast beef and a piece of mozzarella cheese. Add a slice or 2 of red onion. Put a dollop (about 1/4 teaspoon) of horseradish on the onion. Garnish with chives."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4032&h=2111&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4121176.jpg",
+    "ingredients": [
+        "24  Original Snack Factory\u00ae Pretzel Crisps\u00ae",
+        "8 ounces thinly sliced deli roast beef, cut or torn into bite-size pieces",
+        "8 ounces sliced smoked mozzarella cheese, cut into 24 pieces",
+        "\u00bc cup thinly sliced red onion",
+        "2 tablespoons prepared horseradish",
+        "1 tablespoon chopped fresh chives (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Horsey Beef Pretzel Bites",
     "url": "http://allrecipes.com/recipe/247395/horsey-beef-pretzel-bites/"
 }

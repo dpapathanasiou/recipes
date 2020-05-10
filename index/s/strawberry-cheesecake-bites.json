@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line a baking sheet with waxed paper.",
+        "Beat together the cream cheese, confectioners' sugar, and vanilla extract in a bowl until smooth.",
+        "Spoon the mixture into a piping bag fitted with a large round tip.",
+        "With a sharp paring knife, cut a cone shape out of the top of each strawberry to leave a small hollow.",
+        "Pipe about 1 tablespoon of the cream cheese filling into each strawberry, making sure that the filling overflows a bit out of the top of the strawberry.",
+        "Place the graham cracker crumbs into a shallow bowl. Dip the filled side of the strawberry into the graham cracker crumbs, coating the exposed filling with crumbs.",
+        "Melt the chocolate and canola oil in a microwave-safe glass or ceramic bowl in 30-second intervals, stirring after each interval, until warm and smooth, 1 to 3 minutes (depending on your microwave).",
+        "Dip the unfilled ends of the strawberries into the melted chocolate and place on the prepared baking sheet; refrigerate until set."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2192&h=1148&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1341581.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese",
+        "\u00bd cup confectioners' sugar",
+        "2 teaspoons vanilla extract",
+        "12 large fresh strawberries, hulled",
+        "2 tablespoons graham cracker crumbs",
+        "2 (1 ounce) squares semisweet chocolate chips (optional)",
+        "1 teaspoon canola oil (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Cheesecake Bites",
     "url": "http://allrecipes.com/recipe/220104/strawberry-cheesecake-bites/"
 }

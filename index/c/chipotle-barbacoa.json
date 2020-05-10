@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over low heat, gradually increasing heat to medium-high. Add beef chuck pieces; cook until browned, about 10 seconds per side. Transfer beef to a slow cooker.",
+        "Combine apple cider, chipotle peppers, lime juice, garlic, cumin, serrano pepper, cayenne pepper, oregano, black pepper, garlic powder, salt, and ground cloves in a blender or food processor; blend until smooth. Pour over beef in the slow cooker.",
+        "Stir chicken broth, onion, and bay leaves into the slow cooker.",
+        "Cook on Low until beef is fork-tender, 6 to 8 hours. Shred beef using 2 forks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2437&h=1276&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3514952.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1 (2 pound) beef chuck roast, trimmed and cut into 4 to 6 pieces",
+        "\u2153 cup apple cider",
+        "4  chipotle peppers in adobo sauce",
+        "3 tablespoons lime juice",
+        "4 cloves garlic, peeled, or more to taste",
+        "4 teaspoons cumin",
+        "1  serrano chile pepper, chopped (optional)",
+        "1 tablespoon ground cayenne pepper, or more to taste (optional)",
+        "2\u2009\u00bd teaspoons dried oregano",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon garlic powder",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground cloves",
+        "1 cup chicken broth",
+        "1 small onion, finely chopped",
+        "3  bay leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chipotle Barbacoa",
     "url": "http://allrecipes.com/recipe/246836/chipotle-barbacoa/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the spinach over boiling water in a pot fitted with a steamer basket, and steam 2 to 3 minutes, until wilted. Remove spinach to a colander and cool with cold water.  Once cool to the touch, squeeze as much moisture from the spinach as possible.",
+        "In a saucepan, begin making a white sauce by heating 1/4 cup of butter over medium heat.  Once melted, stir in the flour and cook for one minute.  Then add half of the milk and whisk.  Once incorporated, add the rest of the milk, the nutmeg and salt and pepper to taste.  Bring the mixture to a boil, reduce to low and allow to simmer for eight to ten minutes, stirring frequently until sauce has thickened.",
+        "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Chop the cooled spinach and spread evenly into a lightly buttered, shallow baking dish. Place small dabs of the remaining butter on top of the spinach. Season lightly with salt, pepper and paprika. Pour white sauce over spinach.  Sprinkle Gruyere cheese evenly over the top.",
+        "Place in oven under broiler for ten minutes, or until top is browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F993597.jpg",
+    "ingredients": [
+        "2 (16 ounce) bags fresh spinach, rinsed and stemmed",
+        "\u00bc cup butter",
+        "4 tablespoons all-purpose flour",
+        "2\u2009\u00bd cups hot milk",
+        "1 pinch ground nutmeg",
+        "salt and pepper to taste",
+        "2 tablespoons butter",
+        "\u00bd cup Gruyere cheese, shredded",
+        "paprika to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gruyere Spinach Casserole",
     "url": "http://allrecipes.com/recipe/140593/gruyere-spinach-casserole/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "In a medium bowl, stir together the flour, baking powder and chopped pecans. Stir in the margarine and vanilla until a dough forms. Knead by hand for a few turns.",
+        "On a lightly floured surface, roll dough out to 1/4 inch thickness. Cut into triangles, and roll from the square end up to the point. Bend into a crescent shape, place on an unprepared cookie sheet, and bake for 15 to 18 minutes. Dust with confectioners' sugar for decoration."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F435439.jpg",
+    "ingredients": [
+        "2\u2009\u00bd cups sifted all-purpose flour",
+        "3 tablespoons white sugar",
+        "1 teaspoon baking powder",
+        "1 cup chopped pecans",
+        "1 cup butter",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons confectioners' sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crescent Cookies",
     "url": "http://allrecipes.com/recipe/11641/crescent-cookies/"
 }

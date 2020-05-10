@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F. Melt butter in large skillet on medium heat. Add celery and onion; cook and stir 5 minutes. Stir in thyme, poultry seasoning, seasoned salt and pepper.",
+        "Place bread cubes in large bowl. Add celery mixture and broth; toss gently until well mixed. Spoon into lightly greased 13x9-inch baking dish.",
+        "Bake 35 minutes or until heated through and lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7382155.jpg",
+    "ingredients": [
+        "1 cup butter",
+        "2 cups chopped celery",
+        "1 cup chopped onion",
+        "2 teaspoons McCormick\u00ae Thyme Leaves",
+        "1\u2009\u00bd teaspoons McCormick\u00ae Poultry Seasoning",
+        "1 teaspoon seasoned salt",
+        "\u00bd teaspoon McCormick\u00ae Black Pepper, Ground",
+        "12 cups dry unseasoned bread cubes",
+        "4 cups chicken broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Classic Herb Stuffing",
     "url": "http://allrecipes.com/recipe/229754/classic-herb-stuffing/"
 }

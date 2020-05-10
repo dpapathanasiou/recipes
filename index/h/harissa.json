@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chiles, garlic, ground coriander, cumin, salt mint and cilantro into a blender or food processor. If the mixture is too dry, add a bit of the olive oil. Store in a bowl or jar in the refrigerator with the remaining oil poured in a layer over the top.",
+        "Make sure that the surface is covered with a layer of oil each time you use some. When you run out of Harissa you can use the oil to add flavor to fried or baked dishes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7747987.jpg",
+    "ingredients": [
+        "6 ounces bird's eye chiles, seeded and stems removed",
+        "12 cloves garlic, peeled",
+        "1 tablespoon coriander, ground",
+        "1 tablespoon ground cumin",
+        "1 tablespoon salt",
+        "1 tablespoon dried mint",
+        "1/2 cup chopped fresh cilantro",
+        "1/2 cup olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Harissa",
     "url": "http://allrecipes.com/recipe/48857/harissa/"
 }

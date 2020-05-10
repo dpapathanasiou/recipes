@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "If you have time, place chicken in cayenne pepper, turmeric, garlic powder, salt and pepper for 2 to 3 hours. If not, mix these spices together and cover both sides of the chicken pieces with the mixture, then cover each piece of chicken completely with mayonnaise on both sides.",
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Place the sliced onions, potatoes and carrots in a lightly greased 9x13 inch baking dish. Put chicken pieces on top, then place the tomato and sweet potato slices around the chicken. Cover dish with aluminum foil and bake in the preheated oven for 15 minutes.",
+        "Lower heat to 325 degrees F (165 degrees C). Bake for another 45 to 60 minutes, turning chicken over once, until vegetables are soft and chicken juices run clear. Remove aluminum foil and grill in the oven for 5 to 7 minutes on each side of chicken, to give it a nice coloring. Enjoy!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1093837.jpg",
+    "ingredients": [
+        "1 (2 to 3 pound) whole chicken, cut into pieces",
+        "2  onion, sliced into thin rings",
+        "4  potatoes, sliced",
+        "2  carrots, sliced",
+        "1  sweet potato, sliced",
+        "1  tomato, sliced",
+        "5 tablespoons mayonnaise",
+        "\u00bd teaspoon cayenne pepper",
+        "\u00bd teaspoon ground turmeric",
+        "\u00bd teaspoon garlic powder",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Golden Vegetable Chicken",
     "url": "http://allrecipes.com/recipe/8905/golden-vegetable-chicken/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place garbanzo beans, arugula, tahini, lemon juice, and garlic in a food processor; pulse until garbanzo beans are chopped. Slowly drizzle olive oil into garbanzo bean mixture while blending until mixture is smooth. Season with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6804524.jpg",
+    "ingredients": [
+        "1 (15 ounce) can garbanzo beans, drained",
+        "\u00bc cup packed arugula",
+        "\u00bc cup tahini",
+        "\u00bc cup lemon juice",
+        "2 cloves garlic",
+        "2 tablespoons olive oil",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Arugula Hummus",
     "url": "http://allrecipes.com/recipe/222682/arugula-hummus/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare spaghetti according to package directions; drain.",
+        "In medium skillet, heat oil. Add Hillshire Farm Smoked Sausage and remaining ingredients, except spaghetti. Stir-fry until sausage is browned and vegetables are tender. Add spaghetti; toss to coat. Heat through.",
+        "Arrange on warm serving platter. Garnish as desired. Serve immediately. Refrigerate leftovers."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=400&h=209&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F695549.jpg",
+    "ingredients": [
+        "\u00bd (16 ounce) package spaghetti, uncooked",
+        "1 (1 pound) package Hillshire Farm\u00ae Lite Smoked Sausage (or any lite variety Hillshire Farm sausage), sliced",
+        "Dash cayenne pepper",
+        "1 teaspoon salt",
+        "1 teaspoon basil leaves",
+        "2 teaspoons chicken-flavor instant bouillon",
+        "1 clove garlic, minced",
+        "1 small zucchini, cut into julienne strips",
+        "1 small red bell pepper, cut into strips",
+        "3 tablespoons olive oil",
+        "1 small onion, cut into wedges"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lite Sausage Primavera",
     "url": "http://allrecipes.com/recipe/204324/lite-sausage-primavera/"
 }

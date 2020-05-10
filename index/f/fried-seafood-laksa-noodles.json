@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat vegetable oil in a wok or large skillet over medium-high heat. Add onions, green chile peppers, garlic, and ginger; cook and stir until golden, about 2 minutes. Stir in soy sauce, white pepper, and salt; cook for 1 minute.",
+        "Stir prawns and squid into the wok; cook and stir until prawns turn pink, 2 to 3 minutes. Add spinach and carrot; cook until spinach is wilted, 2 to 3 minutes. Add noodles; toss to fully incorporate."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3662782.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "2 red onions, minced",
+        "3 green chile peppers, sliced",
+        "3 cloves garlic, minced",
+        "1 teaspoon crushed ginger",
+        "1 tablespoon light soy sauce",
+        "1 tablespoon ground white pepper, or to taste",
+        "salt to taste",
+        "7 ounces fresh prawns",
+        "1 squid, cleaned and sliced into rings, or more to taste",
+        "4 ounces fresh spinach, finely chopped",
+        "1 carrot, sliced",
+        "18 ounces fresh rice noodles, rinsed and drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Seafood Laksa Noodles",
     "url": "http://allrecipes.com/recipe/247224/fried-seafood-laksa-noodles/"
 }

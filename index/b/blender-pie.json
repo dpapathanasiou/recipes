@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9 inch pie plate.",
+        "Place lemon-lime beverage, powdered milk, vanilla, baking mix, butter or margarine, sugar, coconut, and eggs in a blender. Process for 3 minutes. Pour mixture into greased pie plate and allow to sit for 5 minutes.",
+        "Bake in preheated oven for 40 minutes. Makes its own crust."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F701561.jpg",
+    "ingredients": [
+        "2 cups lemon-lime flavored carbonated beverage",
+        "\u2154 cup dry milk powder",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "\u00bd cup baking mix",
+        "\u00bc cup butter, softened",
+        "\u00be cup white sugar",
+        "1 cup shredded coconut",
+        "4  eggs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blender Pie",
     "url": "http://allrecipes.com/recipe/16376/blender-pie/"
 }

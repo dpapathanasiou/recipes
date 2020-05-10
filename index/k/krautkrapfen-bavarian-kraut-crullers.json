@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine flour, salt, eggs and water. Stir until dough has pulled together, then turn it out onto a lightly floured surface and knead until smooth and elastic. If it sticks, add a little oil to your hands. Cover with plastic wrap, and set aside in refrigerator for about 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place bacon in a skillet over medium heat. Cook until bacon starts to brown. Stir in chopped onion, and cook for about 5 minutes. Stir in sauerkraut, chopped apple, water, bouillon cube, salt and pepper. Reduce heat, cover, and simmer for 15 to 20 minutes. Remove from heat, and let cool.",
+        "Divide the dough into 2 portions. Lightly oil your work surface, and roll out the dough into thin sheets about 8 by 16 inches. Pour liquid from sauerkraut into a 9x13 inch baking dish, and spread bits of butter into it. Spread kraut mixture evenly over the sheets of dough. Roll sheets up widthwise. Cut slices about 2 inches wide, and place them flat and close together in the baking dish.",
+        "Bake in preheated oven for 45 minutes, or until dough is lightly browned, and liquid has evaporated."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F888871.jpg",
+    "ingredients": [
+        "4 cups all-purpose flour",
+        "2 teaspoons salt",
+        "2  eggs",
+        "\u00bd cup water",
+        "1 pound bacon, cut into small pieces",
+        "1  onion, chopped",
+        "1 (32 ounce) jar sauerkraut",
+        "1  apple - peeled, cored, and chopped",
+        "1 cup water",
+        "1 cube beef bouillon",
+        "2 teaspoons salt",
+        "\u00bd teaspoon ground black pepper",
+        "2 teaspoons butter, cut into small pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Krautkrapfen (Bavarian Kraut Crullers)",
     "url": "http://allrecipes.com/recipe/52103/krautkrapfen-bavarian-kraut-crullers/"
 }

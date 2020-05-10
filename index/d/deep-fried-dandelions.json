@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wash dandelions under cool running water and dry on paper towels. Remove the green tendrils behind each flower.",
+        "Mix flour, curry powder, and salt together in a bowl or measuring cup. Beat egg in a bowl; stir in flour mixture until smooth. Add beer to mixture until batter is similar to runny pancake batter. Add more beer if batter is too thick.",
+        "Heat oil in a small saucepan to 375 degrees F (190 degrees C). If you don't have a thermometer, heat the oil until it begins to shimmer.",
+        "Dip dandelion flowers in the batter and gently drop in the hot oil, working in batches. Fry flowers until golden, about 3 minutes. Transfer cooked flowers to crumpled paper towels or on a wire rack; serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3522810.jpg",
+    "ingredients": [
+        "30  dandelion flowers",
+        "1 cup all-purpose flour",
+        "1 teaspoon curry powder",
+        "\u00bd teaspoon salt",
+        "1  egg",
+        "\u00bd cup lager-style beer, or more if needed",
+        "2 cups canola oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Deep-Fried Dandelions",
     "url": "http://allrecipes.com/recipe/246973/deep-fried-dandelions/"
 }

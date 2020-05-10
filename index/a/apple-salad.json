@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Freeze candy bars, transfer to a resealable plastic bag, and crush into small pieces with a hammer or mallet.",
+        "Whisk pudding mix into whipped topping. Add apples and crushed candy bars; stir together and serve cold."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1467785.jpg",
+    "ingredients": [
+        "4 (2.16 ounce) bars chocolate-coated caramel-peanut nougat candy (such as Snickers\u00ae)",
+        "4 Granny Smith apples, cut into bite-size pieces",
+        "1 (5.1 ounce) package instant vanilla pudding mix",
+        "1 (12 ounce) container frozen whipped topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Salad",
     "url": "http://allrecipes.com/recipe/233560/apple-salad/"
 }

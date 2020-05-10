@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour bread into a large skillet and drizzle with 1/4 cup olive oil, working in batches if necessary. Cook and stir bread over medium heat, adding more oil as needed, until bread cubes are golden and crispy on the outside, 7 to 12 minutes.",
+        "Sprinkle Parmigiano-Reggiano over the top of the bread cubes; cook and stir until cheese is melted onto bread, and bread is crispy on the outside but still chewy on the inside, 3 to 4 minutes more. Cool completely.",
+        "Combine tomatoes, red wine vinegar, extra virgin olive oil, garlic, sugar, salt, and black pepper together in a bowl until well-mixed. Cover bowl with plastic wrap and let sit at room temperature until flavors combine, about 20 minutes.",
+        "Toss basil into tomato mixture; add bread cubes and stir. Let salad sit at room temperature 3 to 4 minutes; if the liquid is completely absorbed, add more vinegar and extra virgin olive oil to taste. Season with salt and black pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2323043.jpg",
+    "ingredients": [
+        "2 cups 1/2-inch stale bread cubes, or more to taste",
+        "1/4 cup olive oil, or to taste",
+        "1/4 cup finely grated Parmigiano-Reggiano cheese, or to taste",
+        "1 pint cherry tomatoes, halved",
+        "2 tablespoons red wine vinegar, or more to taste",
+        "2 tablespoons extra-virgin olive oil, or more to taste",
+        "1/2 teaspoon minced garlic, or to taste",
+        "1 pinch white sugar",
+        "salt and freshly ground black pepper to taste",
+        "4 leaves fresh basil, thinly sliced, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Panzanella",
     "url": "http://allrecipes.com/recipe/239053/chef-johns-panzanella/"
 }

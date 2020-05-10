@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease 24 muffin cups or line with paper muffin liners.",
+        "Whisk 3 cups flour, cinnamon, baking soda, and salt together in a large bowl. Stir white sugar, applesauce, and eggs together in another bowl. Add sugar mixture to flour mixture and stir until batter is just combined. Fold peaches and cranberries into batter. Spoon batter into prepared muffin cups.",
+        "Stir brown sugar and 2 tablespoons flour together in a small bowl. Sprinkle brown sugar mixture over the tops of the muffins.",
+        "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, about 25 minutes. Cool for 10 minutes before transferring muffins to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6772897.jpg",
+    "ingredients": [
+        "3 cups all-purpose flour",
+        "1 tablespoon ground cinnamon",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "2 cups white sugar",
+        "1\u2009\u00bc cups applesauce",
+        "3  eggs, lightly beaten",
+        "2 cups peeled, pitted, and chopped peaches",
+        "1\u2009\u00bd (12 ounce) packages fresh cranberries",
+        "2 tablespoons brown sugar",
+        "2 tablespoons all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peach and Cranberry Muffins",
     "url": "http://allrecipes.com/recipe/237312/peach-and-cranberry-muffins/"
 }

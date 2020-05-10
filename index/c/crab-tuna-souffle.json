@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, stir together the crabmeat and tuna. Place a layer of bread cubes in the bottom of a 1 1/2 quart casserole dish. Cover with a layer of the crab and tuna, then a layer of cheese and a sprinkle of parsley. Repeat layers 2 more times ending with cheese and parsley on top.",
+        "In a medium bowl, whisk together the eggs, milk, butter, mustard powder and onion. Pour over the layers in the dish. Cover and refrigerate for at least 3 hours, or overnight.",
+        "Preheat the oven to 350 degrees F (175 degrees C). Let the dish come to room temperature while the oven preheats.",
+        "Bake uncovered for 1 hour and 15 minutes in the preheated oven, or until puffed and golden."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/308324.jpg",
+    "ingredients": [
+        "1 (6 ounce) can crabmeat, drained and flaked",
+        "1 (5 ounce) can tuna, drained and flaked",
+        "4 cups cubed French bread",
+        "8 ounces Muenster cheese, cubed",
+        "2 tablespoons chopped fresh parsley",
+        "4 eggs",
+        "3 cups milk",
+        "3 tablespoons butter",
+        "2 teaspoons mustard powder",
+        "1 teaspoon grated onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crab Tuna Souffle",
     "url": "http://allrecipes.com/recipe/80957/crab-tuna-souffle/"
 }

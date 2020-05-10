@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes and chicken in a casserole dish. Drizzle with olive oil and lemon juice. Then sprinkle with rosemary, garlic, salt, and pepper. Cover, and refrigerate for at least 30 minutes.",
+        "Preheat oven to 400 degrees F (200 degrees C). Sprinkle green onions over chicken.",
+        "Bake, covered, in preheated oven for 30 minutes. Remove, and add olives and mushrooms. Return to oven, and bake for 30 minutes. Transfer chicken and vegetables to platter, and pour pan juices on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2816&h=1474&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6741.jpg",
+    "ingredients": [
+        "6 medium new potatoes, quartered",
+        "4 (6 ounce) skinless, boneless chicken breast halves",
+        "2 teaspoons olive oil",
+        "\u00bc cup fresh lemon juice",
+        "2 teaspoons fresh rosemary, minced",
+        "1 teaspoon minced garlic",
+        "salt and pepper to taste",
+        "\u215b cup green onions, chopped",
+        "\u215b cup pitted black olives, sliced",
+        "\u00bd cup mushrooms, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Vesuvio",
     "url": "http://allrecipes.com/recipe/82816/chicken-vesuvio/"
 }

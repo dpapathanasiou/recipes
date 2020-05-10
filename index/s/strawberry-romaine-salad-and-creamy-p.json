@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine romaine, onion and strawberries in a large bowl.",
+        "In a separate small bowl, whisk together the mayonnaise, milk, Truvia(R) natural sweetener, vinegar and poppy seeds.",
+        "Drizzle dressing over salad and toss.  Sprinkle with almonds."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/993266.jpg",
+    "ingredients": [
+        "Salad Ingredients:",
+        "1 bunch romaine lettuce, torn",
+        "1/2 small red onion, thinly sliced",
+        "2 cups fresh strawberries, halved",
+        "1/4 cup slivered almonds",
+        "Creamy Poppy Seed Dressing:",
+        "3/4 cup light mayonnaise (not salad dressing)",
+        "1/4 cup skim milk",
+        "2 tablespoons Truvia\u00ae natural sweetener, plus",
+        "1 teaspoon Truvia\u00ae natural sweetener*",
+        "1 teaspoon vinegar",
+        "1 teaspoon poppy seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Romaine Salad and Creamy Poppy Seed Dressing with Truvia\u00ae Natural Sweetener",
     "url": "http://allrecipes.com/recipe/229466/strawberry-romaine-salad-and-creamy-p/"
 }

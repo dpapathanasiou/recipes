@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a skillet over medium-high heat. Crumble sausage into skillet; add the onions and cilantro. Cook and stir until evenly browned, 6 to 8 minutes. Add diced tomatoes and crushed red peppers to the chorizo mixture, stirring until heated throughout.",
+        "Heat olive oil in a separate skillet over medium-high heat. Add squash noodles; cook and stir 2 minutes. Add garlic and cook 2 to 3 more minutes.",
+        "Transfer squash noodles to plates and top with the chorizo mixture."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4258878.jpg",
+    "ingredients": [
+        "12 ounces uncooked chorizo sausage",
+        "1/4 cup diced onion",
+        "1 tablespoon chopped fresh cilantro leaves",
+        "1 (14.5 ounce) can Hunt's\u00ae Diced Tomatoes, drained",
+        "1 tablespoon extra-virgin olive oil",
+        "3 Mexican squash, spiralized",
+        "1 teaspoon chopped garlic",
+        "1/2 teaspoon crushed red pepper flakes, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chorizo Ragu with Spiralized Mexican Squash",
     "url": "http://allrecipes.com/recipe/256297/chorizo-ragu-with-spiralized-mexican/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Thread a strawberry, pineapple and cake on a skewer, repeating two more times per skewer. Heat the honey and lime juice in the microwave for 30 seconds and brush on each skewer.",
+        "Line the Reynolds Wrap(R) Aluminum Foil on the grill, dull side facing the food and punch holes all over to allow the juices to drip through. Cook on low, turning the skewers to evenly brown all of the sides.",
+        "Once they are browned, remove them from the grill. Melt the chocolate chips in the microwave, for 45 seconds, and drizzle the melted chocolate on the fruit skewers.",
+        "Serve and enjoy some yourself!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2377347.jpg",
+    "ingredients": [
+        "Reynolds Wrap\u00ae Aluminum Foil",
+        "Fruit Skewers:",
+        "1 (9 inch) angel food cake, cut into 2-inch cubes",
+        "1 pint strawberries, hulled",
+        "1 pineapple, cut into 2-inch cubes",
+        "1/3 cup dark chocolate chips",
+        "Honey-Lime Glaze:",
+        "1/4 cup honey",
+        "1/2 lime, juiced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Fruit Skewers",
     "url": "http://allrecipes.com/recipe/244443/grilled-fruit-skewers/"
 }

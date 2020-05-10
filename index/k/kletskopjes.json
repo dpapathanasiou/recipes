@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Mix together butter, flour, brown sugar, almonds and salt. Form the dough into marble-size balls. Place each ball on an ungreased cookie sheet 1-1/2 inches apart.",
+        "Bake cookies for 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F54603.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "1 cup sifted all-purpose flour",
+        "1\u2009\u00bd cups packed brown sugar",
+        "\u00bd cup chopped almonds",
+        "\u215b teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kletskopjes",
     "url": "http://allrecipes.com/recipe/11405/kletskopjes/"
 }

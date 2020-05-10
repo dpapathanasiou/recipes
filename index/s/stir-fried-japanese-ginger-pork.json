@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine daikon radish, soy sauce, sake, sesame oil, ginger, garlic, and mirin in a large bowl. Add sliced pork; let marinate for 5 minutes.",
+        "Heat vegetable oil in a wok or large skillet over medium heat. Add onion; cook and stir until softened, 3 to 5 minutes. Remove pork from marinade and add to the wok; cook and stir until evenly browned, 3 to 5 minutes. Pour in remaining marinade; cover and cook until bubbling, about 5 minutes. Season with salt and black pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3644407.jpg",
+    "ingredients": [
+        "1  daikon radish, peeled and cut into 2-inch sticks",
+        "2 tablespoons soy sauce",
+        "2 tablespoons sake (Japanese rice wine)",
+        "1\u2009\u00bd teaspoons sesame oil",
+        "1 tablespoon fresh grated ginger",
+        "2 cloves garlic, minced",
+        "1 teaspoon mirin (Japanese sweet rice wine)",
+        "11 ounces pork fillet, thinly sliced",
+        "1 tablespoon vegetable oil",
+        "1  onion, thinly sliced",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stir-Fried Japanese Ginger Pork",
     "url": "http://allrecipes.com/recipe/247029/stir-fried-japanese-ginger-pork/"
 }

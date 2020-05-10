@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine tahini, olive oil, lemon juice, garlic, cayenne pepper, cumin, salt, sesame oil, and hot sauce in a food processor or blender; blend until very smooth, about 3 minutes. Add garbanzo beans and blend for 2 minutes. Add water and blend for 3 minutes more. Chill in refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1328&h=695&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2916630.jpg",
+    "ingredients": [
+        "\u00bc cup tahini",
+        "2 tablespoons olive oil",
+        "1 tablespoon lemon juice",
+        "1 tablespoon minced garlic",
+        "1 teaspoon cayenne pepper",
+        "\u00bd teaspoon ground cumin",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon sesame oil",
+        "5 dashes hot pepper sauce (such as Cholula\u00ae)",
+        "1 (15 ounce) can garbanzo beans, drained and rinsed",
+        "2 tablespoons cold water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Supremely Spicy Hummus",
     "url": "http://allrecipes.com/recipe/244269/supremely-spicy-hummus/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine banana, orange juice, lime juice, jalapeno, oil, vinegar, ginger and salt and pepper in a blender or food processor and puree until smooth.  Transfer to a container with a tight lid, cover, and refrigerate until ready to serve.  Shake before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3409443.jpg",
+    "ingredients": [
+        "1 small banana, thinly sliced",
+        "1/2 cup orange juice",
+        "1 tablespoon lime juice",
+        "1/2 jalapeno pepper, seeded and minced",
+        "1/4 teaspoon sesame oil",
+        "1 teaspoon rice wine vinegar",
+        "1 teaspoon minced fresh ginger root",
+        "1 pinch salt and pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Fruit Vinaigrette",
     "url": "http://allrecipes.com/recipe/23797/fresh-fruit-vinaigrette/"
 }

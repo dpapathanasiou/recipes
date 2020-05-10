@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, combine the salt, sugar and water. Whisk vigorously until all the salt and sugar is dissolved. Then pour this mixture over the meat, poultry, or fish that you are preparing. Soak for several hours, or overnight. (Note: Make certain the meat is fully submerged in the brine, and make more brine as needed to fully cover the meat.)"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3789167.jpg",
+    "ingredients": [
+        "1/4 cup kosher salt",
+        "1/4 cup packed brown sugar",
+        "4 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Brine for Smoking Meat",
     "url": "http://allrecipes.com/recipe/17945/basic-brine-for-smoking-meat/"
 }

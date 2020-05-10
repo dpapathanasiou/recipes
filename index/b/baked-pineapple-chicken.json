@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Place flour into a large oven roasting bag, inflate the bag slightly, and shake to distribute flour around the inside of the bag. Place pineapple rings, potatoes, carrots, spring onions, salt, and black pepper into the oven bag. Rinse the chicken pieces but don't dry them; add them to the bag. Shake to evenly distribute the ingredients and flour. Tie the top of the bag closed, and place on a baking sheet.",
+        "Bake the chicken, vegetables, and pineapple in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 50 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 teaspoons all-purpose flour",
+        "1 (20 ounce) can pineapple rings, drained",
+        "4  potatoes, cubed",
+        "6  carrots, cubed",
+        "1 bunch spring onions, sliced",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "4  pieces of boneless chicken, such as thighs or breasts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Pineapple Chicken",
     "url": "http://allrecipes.com/recipe/218953/baked-pineapple-chicken/"
 }

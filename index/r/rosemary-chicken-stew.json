@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Into a large stock pot over medium heat, place chicken, mushrooms, and onions. Mix in tomatoes, carrots, and celery. Then stir in beans, garlic, rosemary, and enough water to not quite cover. Bring to a low simmer, and cook until chicken is soft, about 2 to 3 hours. Season with salt and pepper to taste. To thicken, stir in cornstarch, if necessary."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2188&h=1146&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F506342.jpg",
+    "ingredients": [
+        "2 pounds boneless skinless chicken breasts, cut into bite-size pieces",
+        "1 (10 ounce) package fresh mushrooms, sliced",
+        "3 medium onions, sliced",
+        "1 (16 ounce) can diced tomatoes with juice",
+        "1 pound carrots, sliced",
+        "4  celery ribs, sliced",
+        "1 pound dried great Northern beans, soaked overnight",
+        "6 cloves garlic, chopped",
+        "1\u2009\u00bd teaspoons dried rosemary",
+        "water",
+        "salt and pepper to taste",
+        "cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rosemary Chicken Stew",
     "url": "http://allrecipes.com/recipe/84685/rosemary-chicken-stew/"
 }

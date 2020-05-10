@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Sprinkle chicken with salt and ground black pepper. Wrap in aluminum foil and place on a baking sheet.",
+        "Place butternut squash pieces cut-side down in a 9x13-inch baking dish. Add about 1/2-inch water to the dish and cover with aluminum foil.",
+        "Bake chicken and squash in the preheated oven until butternut squash is tender and chicken breasts are no longer pink in the center, about 30 minutes. An instant-read thermometer inserted into the center of the chicken should read at least 165 degrees F (74 degrees C).",
+        "Heat oil in a skillet over medium heat. Add onion and garlic; cook and stir until softened, about 5 minutes.",
+        "Scoop cooked squash flesh into a large pot. Pour in chicken broth and mash together until smooth using an immersion blender or potato masher.",
+        "Cube cooked chicken and add to the pot. Stir in onion, garlic, canned tomatoes, quinoa, oregano, and 1/2 teaspoon salt. Bring soup to a gentle boil; reduce heat and simmer until quinoa is tender and flavors are well-blended, about 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7847210.jpg",
+    "ingredients": [
+        "1 1/2 pounds whole skinless, boneless chicken breasts",
+        "salt and ground black pepper to taste",
+        "1 1/2 pounds butternut squash, quartered and seeded",
+        "2 teaspoons olive oil",
+        "1 onion, minced",
+        "4 cloves garlic, crushed",
+        "3 1/2 cups chicken broth",
+        "1 (14 ounce) can canned diced tomatoes",
+        "2/3 cup quinoa",
+        "1 1/2 teaspoons dried oregano",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butternut Squash, Chicken, and Quinoa Soup",
     "url": "http://allrecipes.com/recipe/245333/butternut-squash-chicken-and-quinoa/"
 }

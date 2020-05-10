@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir water and sugar together in a bowl until sugar dissolves; chill in refrigerator.",
+        "Cut ends off of each lime and cut each lime into 8 segments.",
+        "Working in batches, pulse sugar-water and lime wedges together in a blender several times. Pour mixture through a strainer into a pitcher.",
+        "Stir cream of coconut into lime mixture."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1079125.jpg",
+    "ingredients": [
+        "6 cups cold water",
+        "1 cup white sugar",
+        "4 limes",
+        "6 tablespoons cream of coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Brazilian Lemonade",
     "url": "http://allrecipes.com/recipe/235933/quick-brazilian-lemonade/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mash dates together in a bowl until a paste-like consistency. Add peanut butter; mix well. Stir almonds, coconut, cocoa powder, and salt into date mixture. Roll date mixture into balls."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6418424.jpg",
+    "ingredients": [
+        "15  dates, pitted",
+        "2 tablespoons peanut butter",
+        "2 tablespoons chopped almonds, or to taste (optional)",
+        "2 tablespoons shredded unsweetened coconut, or to taste (optional)",
+        "1 tablespoon unsweetened cocoa powder",
+        "1 pinch salt (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Delicious Vegan Date Fudge Balls",
     "url": "http://allrecipes.com/recipe/257213/delicious-vegan-date-fudge-balls/"
 }

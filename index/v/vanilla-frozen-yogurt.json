@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir the yogurt, sugar, and vanilla extract together until the sugar has dissolved. Cover. Refrigerate 1 hour.",
+        "Pour the chilled mixture into an ice cream maker and freeze according to manufacturer's directions until it reaches \"soft-serve\" consistency. Transfer to a one- or two-quart plastic container with a lid; cover surface with plastic wrap and seal. For best results, frozen yogurt should ripen in the freezer for at least 2 hours or overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1227447.jpg",
+    "ingredients": [
+        "3 cups nonfat Greek yogurt",
+        "2/3 cup white sugar",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vanilla Frozen Yogurt",
     "url": "http://allrecipes.com/recipe/214953/vanilla-frozen-yogurt/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Combine venison and ground beef together in a bowl. Add bourbon; set aside until liquid is absorbed, about 10 minutes. Add bacon and black pepper; mix until thoroughly combined. Form into 4 equal-sized burger patties.",
+        "Cook burgers on preheated grill, basting with barbeque sauce throughout cooking, until no longer pink in the center and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Top burgers with pepper jack cheese and cook until cheese is melted, about 1 minute."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2623&h=1373&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3407966.jpg",
+    "ingredients": [
+        "\u00be pound ground venison",
+        "\u00bc pound ground beef",
+        "6 fluid ounces cherry-flavored Kentucky bourbon whiskey (such as Evan Williams\u00ae), or more as desired",
+        "5 slices bacon, cooked and crumbled",
+        "1 teaspoon freshly cracked black pepper",
+        "1 cup barbeque sauce",
+        "4 slices pepper Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cherry Bourbon Burgers",
     "url": "http://allrecipes.com/recipe/246211/cherry-bourbon-burgers/"
 }

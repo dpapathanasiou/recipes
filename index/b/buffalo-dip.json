@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Beat cream cheese in a deep baking dish until smooth. Add ranch dressing, Buffalo wing sauce, and mozzarella cheese to cream cheese and stir until smooth. Stir in chicken.",
+        "Bake in the preheated oven until heated through and bubbling, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2180&h=1141&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1981539.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bd cup ranch salad dressing, or to taste",
+        "\u00bd cup Buffalo wing sauce (such as Sweet Baby Ray's\u00ae)",
+        "\u00bd cup shredded mozzarella cheese, or to taste",
+        "2 (12.5 fl oz) cans chicken chunks, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buffalo Dip",
     "url": "http://allrecipes.com/recipe/240342/buffalo-dip/"
 }

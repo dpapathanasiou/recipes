@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour ale into a pint glass; slowly stir apple cider into ale."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1060350.jpg",
+    "ingredients": [
+        "6 fluid ounces pumpkin ale",
+        "4 fluid ounces apple cider"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fall Apple Pumpkin Shandy",
     "url": "http://allrecipes.com/recipe/234846/fall-apple-pumpkin-shandy/"
 }

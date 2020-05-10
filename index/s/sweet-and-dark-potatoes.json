@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a large resealable bag, combine the brown sugar, seasoned salt and whole wheat flour. Add potatoes to the bag, in batches if necessary, seal and shake to coat. Place the coated potato cubes on a greased baking sheet.",
+        "Adjust the oven rack to the lowest position. Bake for 40 minutes in the preheated oven. Stir occasionally. Turn the oven to the broil setting, and broil for an additional 15 minutes or so, with the potatoes still in the low position, until the potatoes are tender and browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3454240.jpg",
+    "ingredients": [
+        "1 cup brown sugar",
+        "2 tablespoons seasoned salt",
+        "1 cup whole wheat flour",
+        "6  russet potatoes, cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Dark Potatoes",
     "url": "http://allrecipes.com/recipe/86648/sweet-and-dark-potatoes/"
 }

@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Season ground beef with garlic powder. Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease.",
+        "Pour spaghetti sauce, tomato sauce, and oregano into a large saucepan. Set aside.",
+        "Heat olive oil in a large skillet over medium-high heat. Saute garlic and onions until softened and translucent, about 5 minutes. Place cooked onion-garlic mixture and cooked ground beef into the sauce mixture. Cover and let simmer for 15 to 20 minutes.",
+        "Combine mozzarella and provolone cheeses in a medium bowl.  Mix ricotta cheese, eggs, milk, and 1/2 teaspoon oregano together in a separate bowl.",
+        "Layer a 9x13-inch baking pan with just enough sauce to cover the bottom of the pan. Lay three lasagna noodles in the pan over the sauce. Cover with more sauce, then with ricotta mixture then sprinkle with mozzarella/provolone mixture; repeat layering. Finish with a layer of noodles and remaining sauce.  Sprinkle top with Parmesan cheese.",
+        "Bake, covered, in the preheated oven for 30 minutes. Uncover and continue to bake until cheese is melted and top is golden, about 15 minutes more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F748630.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground beef",
+        "1 teaspoon garlic powder",
+        "1 (28 ounce) jar sausage flavored spaghetti sauce",
+        "1 (8 ounce) can tomato sauce",
+        "1 teaspoon dried oregano",
+        "1 tablespoon olive oil",
+        "4 cloves garlic, minced",
+        "1 small onion, diced",
+        "1 (8 ounce) package mozzarella cheese, shredded",
+        "8 ounces provolone cheese, shredded",
+        "1 (15 ounce) container ricotta cheese",
+        "2  eggs",
+        "\u00bc cup milk",
+        "\u00bd teaspoon dried oregano",
+        "9  lasagna noodles",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Alysia's Basic Meat Lasagna",
     "url": "http://allrecipes.com/recipe/24074/alysias-basic-meat-lasagna/"
 }

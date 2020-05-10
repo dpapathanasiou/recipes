@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend milk, spinach, and candies together in a blender until smooth; add ice cream, working in batches, and blend until smooth and evenly green."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3834837.jpg",
+    "ingredients": [
+        "1 1/2 cups milk",
+        "1/2 cup baby spinach",
+        "4 hard peppermint candies",
+        "3 cups vanilla ice cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sneaky Shamrock Shake",
     "url": "http://allrecipes.com/recipe/236949/sneaky-shamrock-shake/"
 }

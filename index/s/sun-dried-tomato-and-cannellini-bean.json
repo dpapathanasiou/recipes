@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend cannellini beans, sun-dried tomatoes, olive oil, red wine vinegar, lime juice, rosemary, garlic, chile-garlic sauce, and honey together in a food processor or blender until smooth. Gradually add water while blending for a thinner dip."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3433422.jpg",
+    "ingredients": [
+        "1 (15 ounce) can cannellini beans, drained and rinsed",
+        "8 sun-dried tomatoes packed in oil, drained",
+        "1/4 cup olive oil",
+        "2 tablespoons red wine vinegar",
+        "1 tablespoon lime juice",
+        "1 tablespoon chopped fresh rosemary",
+        "2 cloves garlic, chopped",
+        "1 teaspoon chile-garlic sauce (such as sriracha)",
+        "1 teaspoon honey",
+        "1 teaspoon water, or as needed (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sun-Dried Tomato and Cannellini Bean Dip",
     "url": "http://allrecipes.com/recipe/244271/sun-dried-tomato-and-cannellini-bean/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt 1 tablespoon I Can't Believe It's Not Butter!\u00ae Spread in medium nonstick skillet over medium-high heat and cook vegetables and bacon, stirring occasionally, until vegetables are tender and bacon is crisp, about 4 minutes.",
+        "Meanwhile, combine eggs and water in small bowl with wire whisk. Add eggs into skillet and stir until eggs are set. Remove egg and vegetable mixture from skillet and evenly divide between tortillas. Top with cheese; then roll.",
+        "To seal and toast burritos, wipe skillet with paper towels and melt remaining 1/2 tablespoon Spread over medium heat. Arrange burritos, seam-side-down and cook, turning once, until golden brown, about 2 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6975974.jpg",
+    "ingredients": [
+        "1\u2009\u00bd tablespoons I Can't Believe It's Not Butter!\u00ae Spread, divided",
+        "\u00bd cup finely chopped assorted fresh vegetables (peppers, tomatoes and/or green onions)",
+        "2 slices turkey bacon, chopped (optional)",
+        "2  eggs",
+        "1 tablespoon water",
+        "1 tablespoon shredded low-fat Cheddar cheese",
+        "2 (6 inch) fajita size whole wheat tortillas"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Toasted Breakfast Burritos",
     "url": "http://allrecipes.com/recipe/244830/toasted-breakfast-burritos/"
 }

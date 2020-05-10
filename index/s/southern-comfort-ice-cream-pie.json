@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C.) In a medium bowl, mix graham cracker crumbs, 1/4 cup finely chopped peanuts, sugar and melted butter until well blended . Press mixture into a 9 inch pie plate. Bake in preheated oven for 8 to 10 minutes, or until lightly browned. Allow to cool completely.",
+        "Combine chopped cashews and 1/4 cup coarsely chopped peanuts; set aside. In a large bowl, mix ice cream with peanut butter; set aside.",
+        "Spread half of hot fudge topping in bottom of crust. sprinkle with 1/3 of nut mixture. Spread half of ice cream in an even layer. Repeat layers. Drizzle with shell topping and sprinkle with remaining nuts. Freeze for at least 5 hours before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/305755.jpg",
+    "ingredients": [
+        "2 cups graham cracker crumbs",
+        "1/4 cup finely chopped peanuts",
+        "1/4 cup white sugar",
+        "6 tablespoons melted butter",
+        "3/4 cup coarsely chopped cashews",
+        "1/4 cup coarsely chopped peanuts",
+        "6 cups vanilla ice cream, softened",
+        "2/3 cup creamy peanut butter",
+        "2/3 cup hot fudge topping",
+        "1/4 cup chocolate shell topping"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Comfort Ice Cream Pie",
     "url": "http://allrecipes.com/recipe/19451/southern-comfort-ice-cream-pie/"
 }

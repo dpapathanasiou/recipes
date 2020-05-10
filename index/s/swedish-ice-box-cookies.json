@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, cream the butter and sugar together until light. Stir in the eggs and vanilla.",
+        "In another medium bowl, combine the caraway seeds, flour and nuts. Add to the butter mixture and blend well.",
+        "Form dough into a long roll and wrap with plastic wrap or waxed paper. Chill for 2 hours.",
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease baking sheet.",
+        "Thinly slice the chilled dough and bake for 10 to 12 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=704&h=369&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F630515.jpg",
+    "ingredients": [
+        "1 cup butter, softened",
+        "2  eggs, beaten",
+        "4 tablespoons caraway seed",
+        "1\u2009\u00bd cups confectioners' sugar",
+        "2 teaspoons vanilla extract",
+        "3 cups sifted all-purpose flour",
+        "2 cups chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Ice Box Cookies",
     "url": "http://allrecipes.com/recipe/11476/swedish-ice-box-cookies/"
 }

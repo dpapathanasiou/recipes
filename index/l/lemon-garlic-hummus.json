@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine garbanzo beans, lemon juice, olive oil, tahini, garlic, and salt in a food processor and pulse several times to mix. Process until hummus is smooth, about 1 minute."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1109570.jpg",
+    "ingredients": [
+        "2 cups garbanzo beans (chickpeas), rinsed and drained",
+        "5 tablespoons fresh lemon juice",
+        "\u00bc cup olive oil, or more to taste",
+        "1\u2009\u00bd tablespoons tahini (sesame seed paste)",
+        "4 cloves garlic, minced, or more to taste",
+        "1 pinch coarse salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Garlic Hummus",
     "url": "http://allrecipes.com/recipe/229012/lemon-garlic-hummus/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Generously grease a 9x13-inch baking dish.",
+        "Bring water, brown sugar, and 1/4 cup butter to a boil in saucepan until the sugar dissolves and the mixture is syrup-like; reduce heat to low and keep warm.",
+        "Beat 2 tablespoons butter and white sugar together with an electric mixer in a large bowl until smooth.",
+        "Sift flour, baking soda, salt, nutmeg, and cinnamon together in a separate bowl; add gradually to the butter mixture alternately with the milk, beating to integrate each addition before adding the next until you have a moist batter. Fold raisins and walnuts into the batter; pour into prepared baking dish. Drizzle the syrup over the batter.",
+        "Bake in preheated oven until firm, 40 to 45 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "4 cups hot water",
+        "2 cups brown sugar",
+        "1/4 cup butter",
+        "2 tablespoons butter",
+        "1 cup white sugar",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking soda",
+        "1/4 teaspoon salt",
+        "1/2 teaspoon ground nutmeg",
+        "1/2 teaspoon ground cinnamon",
+        "1 cup milk",
+        "1 cup raisins",
+        "1 cup walnuts (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sister Lemon's Inexpensive Christmas Pudding",
     "url": "http://allrecipes.com/recipe/230581/sister-lemons-inexpensive-christmas/"
 }

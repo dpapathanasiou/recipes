@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F. Brush the 1 tablespoon oil over bison tenderloin roast. For rub, stir together salt, thyme, and coarsely ground black pepper in a small bowl. Sprinkle mixture evenly over bison tenderloin; rub in with your fingers.",
+        "Place bison tenderloin on a rack set in a shallow roasting pan. Insert an oven-going meat thermometer into center of the bison tenderloin. Roast, uncovered, for 1 hour 10 minutes or until meat thermometer registers 135 degrees F for medium rare. (For medium, roast for 45 to 50 minutes or until meat thermometer registers 150 degrees F.)",
+        "Transfer bison tenderloin to a cutting board. Cover bison tenderloin with foil; let stand for 15 minutes. Temperature of the bison tenderloin after standing should be 145 degrees F to 160 degrees F.",
+        "Slice bison tenderloin across the grain and arrange on a serving platter. Serve with Cherry-Onion Chutney.",
+        "Cherry-Onion Chutney: Heat the 1 tablespoon oil over medium-high heat in a large skillet. Cook onions in hot oil for 8 to 10 minutes or until golden brown. Remove onions from skillet; set aside. Add brown sugar, vinegar, cinnamon, cloves and cayenne pepper to skillet. Bring to boiling; reduce heat. Add cherries. Simmer, uncovered, for 15 minutes. Add pears and cook for 5 more minutes or until pears are softened. Stir in cooked onion. Season to taste with salt and black pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037660.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 (3 pound) bison tenderloin roast",
+        "1 teaspoon kosher salt",
+        "1 teaspoon dried thyme",
+        "1/2 teaspoon coarsely ground black pepper",
+        "Cherry-Onion Chutney:",
+        "1 tablespoon olive oil",
+        "1 1/2 cups chopped onion",
+        "3/4 cup packed brown sugar",
+        "1/4 cup balsamic vinegar",
+        "1/2 teaspoon ground cinnamon",
+        "1/8 teaspoon ground cloves",
+        "Dash cayenne pepper",
+        "3 cups frozen tart red pitted cherries",
+        "1 medium pear, cored and chopped",
+        "Salt and black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bison Tenderloin with Cherry-Onion Chutney",
     "url": "http://allrecipes.com/recipe/233877/bison-tenderloin-with-cherry-onion-ch/"
 }

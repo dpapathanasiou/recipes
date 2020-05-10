@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C). Chill the pie crust at least 20 minutes before baking to prevent shrinkage.",
+        "Prick the pie crust with a fork and line with a double layer of aluminum foil and a layer of pie weights or dried beans. Bake in the preheated oven until edge of crust is golden, about 10 minutes. Carefully remove the foil and weights and bake until the crust has set, about 5 minutes more.",
+        "Cook and stir the ground beef and onion in a large skillet over medium-high heat until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease. Beat the eggs in a mixing bowl with the salt, pepper, and nutmeg until smooth. Whisk in the heavy cream, followed by the spinach and the beef mixture. Pour into the prepared pie crust and sprinkle with Cheddar cheese.",
+        "Bake in the preheated oven until a knife inserted into the center comes out clean, 35 to 45 minutes. Let stand 5 to 10 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F533837.jpg",
+    "ingredients": [
+        "1 (9 inch) unbaked deep dish pie crust",
+        "1 pound ground beef",
+        "\u00bd cup diced onion",
+        "2  large eggs",
+        "\u00be teaspoon salt",
+        "\u00bc teaspoon pepper",
+        "\u215b teaspoon ground nutmeg",
+        "1 cup heavy cream",
+        "2 (10 ounce) boxes frozen chopped spinach, thawed and drained",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hamburger Spinach Quiche",
     "url": "http://allrecipes.com/recipe/154317/hamburger-spinach-quiche/"
 }

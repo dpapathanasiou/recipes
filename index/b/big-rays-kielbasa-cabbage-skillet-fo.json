@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes in a microwave-safe bowl; cook in microwave until partially tender, about 8 minutes.",
+        "Heat 2 tablespoons butter in a Dutch oven or large cast iron skillet over medium heat; cook and stir sausage and onions until browned, about 5 minutes. Transfer sausage and onions to a bowl.",
+        "Heat remaining 2 tablespoons butter in the same Dutch oven; cook and stir cabbage until tender, about 5 minutes.",
+        "Combine tomatoes, sugar, and paprika in a bowl; pour over cabbage and bring to a boil. Reduce heat and add potatoes and sausage-onion mixture. Cover Dutch oven and simmer until potatoes are tender, about 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4475779.jpg",
+    "ingredients": [
+        "3 large potatoes, cubed",
+        "1/4 cup butter, divided",
+        "1 pound Polish kielbasa sausage, cut into 1/2-inch slices",
+        "2 onions, chopped",
+        "1 large head cabbage, coarsely chopped",
+        "2 (15 ounce) cans diced tomatoes",
+        "1/4 cup white sugar",
+        "1 tablespoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Big Ray's Kielbasa Cabbage Skillet for a Crowd",
     "url": "http://allrecipes.com/recipe/257054/big-rays-kielbasa-cabbage-skillet-fo/"
 }

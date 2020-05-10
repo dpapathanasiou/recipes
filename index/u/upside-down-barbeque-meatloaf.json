@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Mix ground beef, salt, garlic powder, onion powder, black pepper, celery salt, chipotle chile powder, and cayenne pepper together in a bowl with your hands.",
+        "Stir breadcrumbs, egg, ketchup, mustard, and Worcestershire sauce into meat mixture until thoroughly combined; form into a loaf shape.",
+        "Spread barbeque sauce out into the bottom of a loaf pan; place meatloaf on top of barbeque sauce and press into pan.",
+        "Bake meatloaf in the preheated oven until no longer pink in the center, about 1 hour, 15 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Drain the fat from the loaf pan and invert pan over a plate to transfer meatloaf. Let rest for 5 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1\u2009\u00be pounds very cold ground beef",
+        "1\u2009\u00bd teaspoons salt",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon celery salt",
+        "\u00bc teaspoon chipotle chile powder",
+        "1 pinch cayenne pepper",
+        "\u00bd cup fine, dry breadcrumbs",
+        "1  egg, beaten",
+        "2 tablespoons ketchup",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon Worcestershire sauce",
+        "\u00bc cup barbeque sauce (such as SFQ\u00ae), or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Upside-Down Barbeque Meatloaf",
     "url": "http://allrecipes.com/recipe/238847/upside-down-barbeque-meatloaf/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend tofu, olives, lemon juice, and vinegar together in a blender until smooth."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (12 ounce) package silken firm tofu",
+        "12  pitted black olives",
+        "lemon, juiced",
+        "1 teaspoon apple cider vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Sour Cream",
     "url": "http://allrecipes.com/recipe/242082/tofu-sour-cream/"
 }

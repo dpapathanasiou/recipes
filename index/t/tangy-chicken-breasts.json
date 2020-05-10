@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in a single layer in a bowl or pan.  Mix together Worcestershire sauce, oil, lemon juice, and garlic; pour over chicken.   Cover.  Refrigerate for at least 6 hours.",
+        "Take chicken out of marinade, and place on broiler pan or grill.  Broil until done, approximately 7 minutes on each side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F565455.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "1 cup Worcestershire sauce",
+        "1 cup vegetable oil",
+        "1 cup lemon juice",
+        "1 teaspoon garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy Chicken Breasts",
     "url": "http://allrecipes.com/recipe/8498/tangy-chicken-breasts/"
 }

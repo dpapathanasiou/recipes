@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir the watermelon, cilantro, onion, jalapeno peppers, garlic, vinegar, and salt together in a bowl until evenly mixed. Cover, and refrigerate overnight for best flavor."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=800&h=419&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F885296.jpg",
+    "ingredients": [
+        "8 cups cubed seeded watermelon",
+        "1 bunch fresh cilantro, chopped",
+        "\u00bd large white onion, chopped",
+        "2 large jalapeno peppers - stemmed, seeded and minced",
+        "2 cloves garlic, minced",
+        "1 cup white wine vinegar",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Uncle Jon's Watermelon Salsa",
     "url": "http://allrecipes.com/recipe/215040/uncle-jons-watermelon-salsa/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Butter a casserole dish.",
+        "Whisk milk, sugar, and flour together in a large bowl. Add eggs, vanilla extract, thyme leaves, black pepper, and salt; whisk until batter is smooth.",
+        "Spread blackberries and peach slices out in the prepared casserole dish. Pour batter over the top.",
+        "Bake in the preheated oven until fruit is hot and batter is set, about 45 minutes. Cool completely."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3789451.jpg",
+    "ingredients": [
+        "1 1/4 cups milk",
+        "2/3 cup white sugar",
+        "1/2 cup whole wheat flour",
+        "3 eggs",
+        "1/2 teaspoon vanilla extract",
+        "1/2 teaspoon fresh thyme leaves",
+        "1/4 teaspoon ground black pepper",
+        "1 pinch salt",
+        "1 pint fresh blackberries",
+        "1 fresh peach, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Peach Blackberry Flognarde",
     "url": "http://allrecipes.com/recipe/237500/chef-johns-peach-blackberry-flognard/"
 }

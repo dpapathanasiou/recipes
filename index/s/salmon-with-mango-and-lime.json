@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine melted butter, garlic salt, white pepper, lime zest, and half of the lime juice, reserving remainder for later.",
+        "Place 2 tablespoons of water in the rear and front of a Panasonic Countertop Induction Oven grill pan. Place salmon skin-side down on the grill pan, with the thickest part of the salmon toward the center of the pan.",
+        "Brush butter mixture over salmon and slide grill pan into position. Close the oven door and press \"Auto Cook.\" Select the fish setting, 3, and press \"Start.\" Turn the dial to select 2 pounds and press \"Start\" again.",
+        "Stir remaining lime juice, mango chutney, and sriracha sauce together in a bowl.",
+        "Slide the grill pan out when there are 4 minutes remaining on the timer. Pour mango mixture evenly over the salmon. Slide the grill pan back in place, close the door, and continue cooking until salmon flakes easily with a fork, 2 to 4 minutes more.",
+        "Remove the salmon from the oven and transfer to a plate. Garnish with cilantro."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4427431.jpg",
+    "ingredients": [
+        "1 tablespoon butter, melted",
+        "1/2 teaspoon garlic salt, or to taste",
+        "1 pinch ground white pepper, or to taste",
+        "1 lime, zested and juiced",
+        "2 pounds fresh salmon fillet",
+        "1/2 cup mango chutney",
+        "3/4 teaspoon sriracha sauce, or more to taste",
+        "2 tablespoons chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salmon with Mango and Lime",
     "url": "http://allrecipes.com/recipe/256628/salmon-with-mango-and-lime/"
 }

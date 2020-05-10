@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt unsalted butter in a skillet over medium heat. Add shallot, red onion, garlic, and mushrooms; cook and stir until mushrooms begin to give up their liquid, about 10 minutes.",
+        "Pour beer into skillet; simmer until liquid is reduced by half, about 10 minutes. Add rosemary sprigs and stir in Cajun seasoning. Simmer another 5 minutes. Stir in honey. Turn heat off and allow sauce to cool slightly before using."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/996093.jpg",
+    "ingredients": [
+        "1 tablespoon unsalted butter",
+        "1 teaspoon diced shallot",
+        "1 tablespoon diced red onion",
+        "1 clove garlic, finely diced",
+        "5 baby portobello mushrooms, sliced - or more to taste",
+        "1/2 (12 fluid ounce) bottle lager beer (such as Sam Adams\u00ae Winter)",
+        "3 sprigs fresh rosemary",
+        "1 pinch Cajun seasoning",
+        "1 tablespoon honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom Honey Lager Sauce",
     "url": "http://allrecipes.com/recipe/231464/mushroom-honey-lager-sauce/"
 }

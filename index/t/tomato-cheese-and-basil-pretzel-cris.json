@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Arrange Pretzel Crisps(R) on a baking sheet. Top with basil, Parmesan cheese, and tomato slices.",
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+        "Place baking pan in preheated oven. Broil until cheese has melted, 2 or 3 minutes. Let cool and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3467928.jpg",
+    "ingredients": [
+        "1 (7.2 ounce) package Original Snack Factory\u00ae Pretzel Crisps\u00ae",
+        "1 pint cherry tomatoes, sliced",
+        "1 (4 ounce) package fresh basil, thinly sliced",
+        "1/2 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato, Cheese and Basil Pretzel Crisps\u00ae Bites",
     "url": "http://allrecipes.com/recipe/246597/tomato-cheese-and-basil-pretzel-cris/"
 }

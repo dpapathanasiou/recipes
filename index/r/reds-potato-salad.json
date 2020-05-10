@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until fork-tender, about 20 minutes. Drain, cool, and cut into quarters.",
+        "Stir potatoes, diced egg whites, whole egg yolk, celery, green onions, and minced radishes together in a large bowl. Add mayonnaise, pickle relish, mustard, chives, mustard-mayonnaise sandwich sauce, parsley, kosher salt, basil, and white pepper; carefully stir until well-combined and coated. Cover the bowl with plastic wrap and refrigerate until flavors blend, 8 hours to overnight.",
+        "Garnish potato salad with radish roses and egg slices."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2317035.jpg",
+    "ingredients": [
+        "40 baby russet potatoes",
+        "6 large hard-boiled eggs - whites diced, yolks whole",
+        "3 stalks celery with leaves, diced",
+        "5 green onions, sliced",
+        "4 radishes, minced",
+        "2 cups mayonnaise",
+        "3 tablespoons sweet pickle relish",
+        "3 tablespoons whole grain mustard",
+        "2 tablespoons dried chives",
+        "2 tablespoons mustard-mayonnaise sandwich sauce (such as Durkee\u00ae Famous Sauce\u00ae)",
+        "1 tablespoon dried parsley",
+        "1 teaspoon kosher salt",
+        "1/2 teaspoon dried basil",
+        "1/4 teaspoon ground white pepper",
+        "6 radishes, cut into roses",
+        "3 large hard-boiled eggs, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Red's Potato Salad",
     "url": "http://allrecipes.com/recipe/240676/reds-potato-salad/"
 }

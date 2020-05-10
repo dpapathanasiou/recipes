@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix butter, flour, and white sugar.   Spread in an 8 x 12 inch baking pan.",
+        "Bake in pre-heated oven at 325 degrees F (165 degrees C) for 15 minutes.",
+        "Beat eggs.  Add brown sugar, nuts and coconut.  Spread over baked crust.",
+        "Bake for another 30 minutes.    When completely cool, dust with confectioners' sugar."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 cup butter, softened",
+        "2 cups all-purpose flour",
+        "4 tablespoons white sugar",
+        "4  eggs",
+        "1\u2009\u00bd cups packed brown sugar",
+        "1 cup chopped walnuts",
+        "\u00bd cup flaked coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chinese Chews II",
     "url": "http://allrecipes.com/recipe/10718/chinese-chews-ii/"
 }

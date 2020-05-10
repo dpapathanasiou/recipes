@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place apples, oranges, grapes, bacon, carrot, and salad greens in a large bowl.  Toss well with dressing, adding more, or less to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F122623.jpg",
+    "ingredients": [
+        "2  red apples, cored and sliced",
+        "2  green apples, cored and sliced",
+        "2 (11 ounce) cans mandarin oranges, drained",
+        "1 cup seedless grapes",
+        "6 slices turkey bacon, cooked and crumbled",
+        "1 cup shredded carrot",
+        "1 (10 ounce) package mixed salad greens",
+        "\u00bd cup honey Dijon salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruit and Bacon Salad",
     "url": "http://allrecipes.com/recipe/104921/fruit-and-bacon-salad/"
 }

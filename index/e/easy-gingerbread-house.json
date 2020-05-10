@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cover a piece of heavy cardboard with aluminum foil or freezer paper, dull-side up, to make a base for the gingerbread house.",
+        "Cut templates for the gingerbread house out of heavy cardboard or cardstock; label each piece.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease 3 rimless baking sheets (or the back of rimmed baking sheets).",
+        "Combine butter, brown sugar, molasses, and dark corn syrup in a large, heavy saucepan over medium heat; stir until melted, about 3 minutes. Stir in lemon zest, cinnamon, nutmeg, ginger, salt, and mace until blended, about 2 minutes. Remove from heat.",
+        "Sift flour into a large bowl. Stir into the butter mixture 2 cups at a time, mixing the last 2 cups by hand to create a warm, firm mass of dough. Place a large handful of dough on a greased baking sheet; roll out to 1/8-inch thickness. Keep remaining dough covered.",
+        "Dust cardboard templates lightly with flour and place on top of dough; cut around templates with a sharp knife. Cut out doors or windows as desired. Cut shutters, door knobs, or other features from the scraps. Return remaining scraps to the covered pan.",
+        "Bake in the preheated oven until firm and slightly browned at the edges, 5 to 7 minutes for small pieces and 12 to 15 minutes for large pieces. Remove from the oven and place templates over the baked pieces; trim excess with a sharp knife to produce clean edges.",
+        "Cool pieces on the baking sheet until firm, 5 to 10 minutes; transfer to a wire rack to cool completely, 15 to 30 minutes.",
+        "Combine confectioners' sugar, egg whites, cream of tartar, and white vinegar in the bowl of a stand mixer fitted with the paddle attachment; beat until icing is stiff and shiny, 7 to 10 minutes.",
+        "Stick candies and decorations over gingerbread pieces using royal icing. Let icing dry until hardened, about 5 minutes. Assemble gingerbread house pieces using icing. Let stand until icing is dry, about 5 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups butter",
+        "2 cups brown sugar",
+        "1 cup molasses",
+        "1 cup dark corn syrup",
+        "2 tablespoons lemon zest (optional)",
+        "4 teaspoons ground cinnamon",
+        "2 teaspoons ground nutmeg",
+        "2 teaspoons ground ginger",
+        "1 teaspoon salt",
+        "1 teaspoon ground mace (optional)",
+        "12 cups all-purpose flour",
+        "1 (16 ounce) package confectioners' sugar",
+        "3  egg whites",
+        "1 teaspoon cream of tartar",
+        "1 drop white vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Gingerbread House",
     "url": "http://allrecipes.com/recipe/256075/easy-gingerbread-house/"
 }

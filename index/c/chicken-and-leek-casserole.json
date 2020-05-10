@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium size frying pan, brown the chicken pieces over medium high heat. Add the chopped leeks. Once the leeks are soft, add the soup and wine and sprinkle the cornstarch over the top. Mix in. Simmer for about 20 minutes or until the mixture starts to really thicken.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Pour the mixture into a 2 quart casserole dish and cover with the pie pastry. Use a fork to make 'breathing' holes in the pastry. Bake in the preheated oven for about 30 minutes or until the pastry is brown. Let cool and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5220206.jpg",
+    "ingredients": [
+        "4  whole skinless, boneless chicken breasts",
+        "2  leeks, chopped",
+        "1 (10.5 ounce) can condensed vegetable soup",
+        "1 cup white wine",
+        "1 tablespoon cornstarch",
+        "1 recipe pastry for a 9 inch single crust pie"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken and Leek Casserole",
     "url": "http://allrecipes.com/recipe/8699/chicken-and-leek-casserole/"
 }

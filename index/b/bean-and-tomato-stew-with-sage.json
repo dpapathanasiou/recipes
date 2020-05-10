@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large saucepan over medium heat. Add garlic, and saute until lightly browned. Pour in the white wine, and simmer for a minute. Pour in the tomatoes with juice and water, and season with pepper, sage, thyme, and the bay leaf. Bring to a boil, and let simmer for about 20 minutes.",
+        "Pour in the beans, and simmer for another 20 minutes or so, until the stew is thickened and flavors have blended. Remove the bay leaf, taste, and season with salt and pepper before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2797.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "4 cloves garlic, quartered",
+        "1/4 cup white wine",
+        "1 (14.5 ounce) can diced tomatoes in juice",
+        "2 tablespoons water",
+        "1/4 teaspoon ground black pepper",
+        "1 1/2 teaspoons ground sage",
+        "1/2 teaspoon dried thyme",
+        "1 bay leaf",
+        "1 (16 ounce) can cannellini beans",
+        "salt and pepper (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bean and Tomato Stew with Sage",
     "url": "http://allrecipes.com/recipe/77902/bean-and-tomato-stew-with-sage/"
 }

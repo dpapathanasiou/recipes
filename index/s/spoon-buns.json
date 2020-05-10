@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sprinkle the yeast over the warm water in a small bowl. Let stand for a few minutes so the yeast can dissolve. In a separate bowl, combine sugar, shortening, caraway, salt, and nutmeg. Heat the milk in a small saucepan just until a skin forms on the top. Remove from the heat and stir into the shortening mixture. Allow to cool to lukewarm so that it will not kill the yeast.",
+        "Stir the egg and yeast into the bowl with the milk and gradually mix in the flour using a sturdy wooden spoon until the you get a stiff batter. Cover loosely and set aside in a warm place to rise until doubled in size, about 45 minutes.",
+        "Grease the cups of  a muffin tin, and spoon batter into the cups filling half way full. Let rise again in a warm place until the dough rises above the top of the cups, about 1 hour.",
+        "Preheat the oven to 400 degrees F (200 degrees C).",
+        "Bake the rolls in the preheated oven until golden brown on top, 12 to 15 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (.25 ounce) envelope active dry yeast",
+        "\u2153 cup warm water (100 to 110 degrees)",
+        "2 tablespoons white sugar",
+        "2 tablespoons shortening",
+        "1 teaspoon caraway seed",
+        "1 teaspoon salt",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00be cup milk",
+        "1  egg",
+        "3\u2009\u00bc cups all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spoon Buns",
     "url": "http://allrecipes.com/recipe/153896/spoon-buns/"
 }

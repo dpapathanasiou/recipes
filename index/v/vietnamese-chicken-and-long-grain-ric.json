@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in a stock pot. Pour in enough water to cover chicken. Add ginger, lemon grass, and salt; bring to a boil. Reduce heat, cover, and gently simmer for 1 hour to 1 1/2 hours.",
+        "Strain broth, and return broth to stock pot. Let chicken cool, then remove bones and skin, and tear into bite-size pieces; set aside.",
+        "Stir rice into broth, and bring to a boil. Reduce heat to medium, and cook for 30 minutes, stirring occasionally. If necessary, adjust with water or additional salt. The congee is done, but can be left to cook an additional 45 minutes for better consistency.",
+        "Ladle congee into bowls, and top with chicken, cilantro, chives, and pepper. Squeeze lime juice to taste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6750773.jpg",
+    "ingredients": [
+        "1/8 cup uncooked jasmine rice",
+        "1 (2.5 pound) whole chicken",
+        "3 (2 inch) pieces fresh ginger root",
+        "1 stalk lemon grass, chopped",
+        "1 tablespoon salt, or to taste",
+        "1/4 cup chopped cilantro",
+        "1/8 cup chopped fresh chives",
+        "ground black pepper to taste",
+        "1 lime, cut into 8 wedges"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vietnamese Chicken and Long-Grain Rice Congee",
     "url": "http://allrecipes.com/recipe/37707/vietnamese-chicken-and-long-grain-ric/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix oats, flour, 3/4 cup brown sugar, and butter together in a bowl until crumbly.",
+        "Mix apples, pears, 3/4 cup brown sugar, and cinnamon together in a separate bowl; spread into the bottom of a 9x9-inch glass pan. Sprinkle oat mixture atop apple-pear mixture; top with almonds.",
+        "Bake in the preheated oven until the top is golden brown, about 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2686900.jpg",
+    "ingredients": [
+        "1 1/2 cups rolled oats",
+        "1/2 cup all-purpose flour",
+        "3/4 cup brown sugar",
+        "1/2 cup butter, softened",
+        "2 cups peeled and diced apples",
+        "2 cups peeled and diced pears",
+        "3/4 cup brown sugar",
+        "1 teaspoon ground cinnamon",
+        "1/2 cup sliced almonds, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple and Pear Crumble",
     "url": "http://allrecipes.com/recipe/229252/apple-and-pear-crumble/"
 }

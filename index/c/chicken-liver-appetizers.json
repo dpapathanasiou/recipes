@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to Broil/Grill.",
+        "Sprinkle each 1/2 chicken liver with garlic salt to taste. Wrap 1/2 slice bacon around each chicken piece and fasten with a toothpick. Place on a broiling pan.",
+        "Broil for 5 to 7 minutes. Turn pieces over and broil another 5 to 7 minutes, or until chicken livers are cooked through and no longer pink inside. Serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F709382.jpg",
+    "ingredients": [
+        "12  fresh chicken livers, halved",
+        "1 teaspoon garlic salt",
+        "12 slices bacon, cut in half"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Liver Appetizers",
     "url": "http://allrecipes.com/recipe/8884/chicken-liver-appetizers/"
 }

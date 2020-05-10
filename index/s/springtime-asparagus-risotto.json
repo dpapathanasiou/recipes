@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wash asparagus and break off the tough ends. Cut spears into 1-inch pieces; set aside.",
+        "In a 6-quart pot, melt butter with olive oil. Add onion, garlic and rice. Over medium-high heat, cook and stir 3-4 minutes; do not brown. Add cooking wine and broth. Increase heat to high and bring to a boil. Immediately reduce heat to low, cover and cook 10 minutes. No need to stir.",
+        "Add asparagus and continue to cook and stir, uncovered, about 3 minutes. Taste rice to ensure it does not overcook. Rice should be al dente and rather soupy. Stir in cheese, lemon peel and marjoram. Remove from heat and serve immediately. Sprinkle with additional cheese, if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/997968.jpg",
+    "ingredients": [
+        "1 pound thin asparagus spears",
+        "2 tablespoons butter",
+        "2 tablespoons extra-virgin olive oil",
+        "1 medium onion, chopped",
+        "2 large cloves garlic, minced",
+        "2 cups Arborio rice",
+        "1 cup Holland House\u00ae White Cooking Wine",
+        "4 cups reduced-sodium chicken broth",
+        "1/3 cup grated Parmigiano-Reggiano or Pecorino Romano cheese",
+        "1 tablespoon grated lemon peel (optional)",
+        "1/4 teaspoon dried marjoram, tarragon, or sage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Springtime Asparagus Risotto",
     "url": "http://allrecipes.com/recipe/231922/springtime-asparagus-risotto/"
 }

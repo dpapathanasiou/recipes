@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix Cheddar cheese, pecans, bacon bits, mayonnaise, and grated onion in a bowl. Shape into a ball and wrap in plastic wrap. Refrigerate over night."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1024&h=536&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F657387.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups shredded Cheddar cheese",
+        "\u00bc cup chopped pecans",
+        "\u00bc cup bacon bits",
+        "\u00be cup mayonnaise",
+        "1 teaspoon grated onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Smeezy Cheese Ball",
     "url": "http://allrecipes.com/recipe/199572/easy-smeezy-cheese-ball/"
 }

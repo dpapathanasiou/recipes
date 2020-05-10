@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Cut each zucchini in half lengthwise and hollow out the center using a spoon to create a \"boat\". Lay each half, face-up, on a baking sheet and season with salt and pepper.",
+        "Bake in the preheated oven until hot and slightly tender, about 10 minutes.",
+        "Stir tomatoes, crackers, corn, olives, mushrooms, salsa, garlic, Italian seasoning, and oregano together in a bowl. Season with salt and pepper.",
+        "Cook and stir tomato mixture in a skillet over medium heat until all liquid evaporates, 5 to 10 minutes. Spoon tomato mixture into zucchini \"boats\". Top each \"boat\" with Gouda cheese.",
+        "Bake stuffed zucchini \"boats\" in the oven until tender and cheese is melted, about 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2499082.jpg",
+    "ingredients": [
+        "4 zucchinis",
+        "salt and ground black pepper to taste",
+        "2 tomatoes, chopped",
+        "1/2 cup crushed crackers",
+        "1/2 cup fresh corn kernels",
+        "1/4 cup finely chopped black olives (optional)",
+        "2 mushrooms, finely chopped, or more to taste (optional)",
+        "2 tablespoons mild pineapple salsa",
+        "1 large clove garlic, minced",
+        "1 teaspoon Italian seasoning",
+        "1/2 teaspoon dried oregano, or more to taste",
+        "1/4 cup shredded smoked Gouda cheese, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian-Style Stuffed Zucchini  (Kid-Friendly)",
     "url": "http://allrecipes.com/recipe/237778/italian-style-stuffed-zucchini-kid-/"
 }

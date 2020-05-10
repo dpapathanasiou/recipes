@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a mixing bowl, combine cream cheese and milk; mix until blended. Spoon spinach into 1-quart casserole, top with cream cheese mixture and sprinkle with Parmesan cheese.",
+        "Bake in a preheated 350 degrees F (175 degrees C) oven for 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7215319.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bc cup milk",
+        "2 (10 ounce) packages frozen chopped spinach",
+        "\u2153 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Spinach Casserole",
     "url": "http://allrecipes.com/recipe/18326/savory-spinach-casserole/"
 }

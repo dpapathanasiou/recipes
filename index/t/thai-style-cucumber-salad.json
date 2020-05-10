@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the tamarind juice, cilantro, peanuts, rice vinegar, brown sugar, fish sauce, red pepper flakes, sesame oil, and ginger in a large bowl. Stir in the cucumber. Cover and refrigerate for 10 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/662718.jpg",
+    "ingredients": [
+        "1/4 cup tamarind juice",
+        "1 tablespoon chopped fresh cilantro",
+        "1 tablespoon chopped peanuts",
+        "1 tablespoon rice vinegar",
+        "1 1/2 teaspoons brown sugar",
+        "1 teaspoon fish sauce",
+        "3/4 teaspoon red pepper flakes",
+        "1 teaspoon toasted Asian sesame oil",
+        "3/4 teaspoon minced fresh ginger root",
+        "1 cucumber, thinly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Thai-style Cucumber Salad",
     "url": "http://allrecipes.com/recipe/214968/thai-style-cucumber-salad/"
 }

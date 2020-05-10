@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 2 tablespoon oil in a large, nonstick skillet over medium-low heat. Fry potatoes and onion in oil for about 15 minutes. Stir in chorizo, if desired; cook for five more minutes, or until potatoes are soft and lightly browned and meat is cooked.  Season with salt and pepper to taste.",
+        "Beat eggs together in a large bowl. Pour potato and onion mixture into eggs, and mix together.",
+        "Heat 1 tablespoon oil in a large, nonstick skillet over medium-low heat.  Carefully spread mixture evenly over the bottom of the pan. Cook without stirring for about 10 minutes. Then place a large plate over the pan, flip the pan to transfer the eggs onto the plate. Cooked side should be golden brown. Carefully slide tortilla back into pan, and cook the other side for 5 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1211908.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "4 large potatoes, peeled and cubed",
+        "1 white onion, chopped",
+        "1/2 pound chorizo sausage, casings removed and crumbled (optional)",
+        "salt and pepper to taste",
+        "5 eggs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Perfect Tortilla Espanola",
     "url": "http://allrecipes.com/recipe/33152/tortilla-espanola/"
 }

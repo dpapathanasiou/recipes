@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Arrange ribs in a single layer in a roasting pan.",
+        "Stir pineapple, jam, soy sauce, vinegar, brown sugar, garlic, ginger, salt, black pepper, and cayenne pepper together in a bowl; pour over ribs.",
+        "Bake in the preheated oven, basting every 15 minutes, until ribs are glazed and pull away easily from the bone, about 1 1/2 hours. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4039350.jpg",
+    "ingredients": [
+        "3 pounds pork back ribs, separated and fat trimmed",
+        "1 (12.5 ounce) can pineapple tidbits, drained",
+        "1 cup apricot jam",
+        "\u00bc cup soy sauce",
+        "2 tablespoons white wine vinegar",
+        "2 tablespoons brown sugar",
+        "2 cloves garlic, minced",
+        "1 teaspoon ground ginger",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bc teaspoon cayenne pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pineapple Sticky Ribs",
     "url": "http://allrecipes.com/recipe/255220/pineapple-sticky-ribs/"
 }

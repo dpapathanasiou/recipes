@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a large pot over medium heat. Stir in the onion and garlic; cook until softened and transparent, about 10 minutes. Turn off the heat.",
+        "Add the peanuts and salt to the onion mixture. Fill the pot with water until the peanuts are submerged, and use a large colander fitted into the pot to hold them under water. Bring to a boil, then lower the heat to medium, and simmer. Check the water level, and when it reaches the level of the peanuts, add more. Turn up the heat to medium-high and bring the peanuts to a boil; the lower heat to medium, and simmer. Repeat steps until peanuts are soft, 4 to 6 hours. Drain, and serve hot or cold."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F689875.jpg",
+    "ingredients": [
+        "1 tablespoon butter",
+        "1 large onion, cut into wedges",
+        "30 cloves garlic",
+        "1\u2009\u00bd pounds raw peanuts, in shells",
+        "\u00bd pound salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic and Onion Boiled Peanuts",
     "url": "http://allrecipes.com/recipe/143160/garlic-and-onion-boiled-peanuts/"
 }

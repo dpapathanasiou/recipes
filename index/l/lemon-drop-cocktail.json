@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place shot glass in the freezer until chilled, about 1 hour.",
+        "Pour vodka into the chilled shot glass. Dip lemon wedge in sugar. Shoot the vodka and immediately take a draw on the lemon."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/856189.jpg",
+    "ingredients": [
+        "1 1/2 fluid ounces chilled vodka",
+        "1 lemon wedge",
+        "1 tablespoon sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Drop Cocktail",
     "url": "http://allrecipes.com/recipe/222528/lemon-drop-cocktail/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Place squash, cut-side down, in a baking dish; add water.",
+        "Bake in the preheated oven until squash is tender, about 30 minutes.",
+        "Heat a large skillet over medium-high heat. Cook and stir chorizo in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Heat olive oil in a separate skillet over medium heat; cook and stir onion and garlic until onion is softened and browned, 10 to 15 minutes. Add green bell pepper and cook until softened, 3 to 4 minutes. Add tomato, chicken stock, black beans, and corn; cook and stir until liquid is evaporated, about 10 minutes. Stir chorizo into mixture.",
+        "Flip squash over and fill each half with chorizo mixture; top with Cheddar cheese.",
+        "Bake in the preheated oven until cheese is melted, about 5 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2417313.jpg",
+    "ingredients": [
+        "1  large pattypan squash, halved and seeded",
+        "1 cup water",
+        "\u00bd (1 pound) chorizo sausage",
+        "1 tablespoon olive oil",
+        "1 cup chopped onion",
+        "1 clove garlic, minced",
+        "\u00bd  green bell pepper, chopped",
+        "1 large tomato, chopped",
+        "1 cup chicken stock",
+        "1 cup black beans",
+        "\u00bd cup corn",
+        "1 ounce shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chorizo Stuffed Summer Squash",
     "url": "http://allrecipes.com/recipe/244467/chorizo-stuffed-summer-squash/"
 }

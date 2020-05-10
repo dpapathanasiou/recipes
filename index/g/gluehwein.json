@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour the wine into a large pot and set over medium heat. Let it warm up until steam rises from the surface, but do not allow it to boil. Add the cinnamon sticks, cloves, lemon juice and sugar, stirring to dissolve the sugar. Float the orange slices on the surface. Warm over medium heat for another 5 minutes, being careful not to let it come to a boil. Remove from the heat and let stand for 1 hour.",
+        "Pour through a colander to remove to oranges and spices. Serve hot, or refrigerate and reheat gently just before serving in mugs."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7101121.jpg",
+    "ingredients": [
+        "1 gallon red wine",
+        "8 (3 inch) cinnamon sticks",
+        "12 whole cloves",
+        "3/4 cup white sugar",
+        "1/2 cup fresh-squeezed lemon juice",
+        "1 orange, sliced into rounds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluehwein (German Mulled Wine)",
     "url": "http://allrecipes.com/recipe/140472/gluehwein/"
 }

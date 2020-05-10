@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place rice in a large bowl. Season with garlic powder, onion powder, salt, and black pepper.",
+        "Heat oil in a large skillet over medium heat. Add red bell pepper, carrot, and celery; cook and stir until tender, about 5 minutes. Add seasoned rice and water; cook until rice is heated through, about 5 minutes. Add French-fried onions; toss to combine."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2787&h=1459&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3327032.jpg",
+    "ingredients": [
+        "3 cups cooked rice",
+        "2 teaspoons garlic powder",
+        "2 teaspoons onion powder",
+        "salt and ground black pepper to taste",
+        "2 tablespoons grapeseed oil",
+        "\u00bd  red bell pepper, chopped",
+        "\u00bd  carrot, chopped",
+        "\u00bd stalk celery, chopped",
+        "\u00bc cup water",
+        "\u00bd cup French-fried onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Funfetti&reg; Rice",
     "url": "http://allrecipes.com/recipe/246064/funfetti-rice/"
 }

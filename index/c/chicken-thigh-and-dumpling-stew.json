@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium-high heat, melt the butter and cook the chicken thighs until the meat is just cooked through. Remove the chicken pieces from the skillet and allow to cool. Using forks, pull meat from the bones and cut into small pieces or shred. Set aside.",
+        "Meanwhile, in a medium skillet, cook the bacon over medium heat until nicely browned and crispy. Remove strips from bacon grease and drain on a paper towel. Crumble the drained and cooled bacon and set aside. Reserve 1 tablespoon of the bacon drippings.",
+        "Scrape the chicken drippings from the large skillet into a large stock pot or Dutch oven. Cook the celery, carrots, red onion, and garlic over medium heat until the red onions are soft and transparent. Add the vegetable broth, chicken, and 1 tablespoon reserved bacon grease. Simmer over medium heat for 12 minutes, then  stir in paprika, heavy cream, cream of chicken soup, and water. Heat through, stirring regularly, about 5 minutes. Stir in the sweet corn and ground pepper.",
+        "Tear each buttermilk biscuit into quarters and drop into the chicken stew. Reduce heat to medium-low; stir occasionally until dough is cooked though, forming dumplings at the top of the stew, about 10 minutes. Remove from heat and serve with a garnish of crumbled bacon."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3128&h=1638&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F888186.jpg",
+    "ingredients": [
+        "3 tablespoons butter",
+        "2 pounds chicken thighs",
+        "8 slices bacon",
+        "2 stalks celery, chopped",
+        "3  carrots, chopped",
+        "1  red onion, finely chopped",
+        "3 cloves garlic, finely chopped",
+        "1 (14 ounce) can vegetable broth",
+        "\u00bd teaspoon paprika",
+        "\u00bd cup heavy cream",
+        "1 (26 ounce) can condensed cream of chicken soup",
+        "1 cup water",
+        "1 (8.75 ounce) can sweet corn, drained",
+        "ground black pepper to taste",
+        "1 (10 ounce) can buttermilk biscuits"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Thigh and Dumpling Stew",
     "url": "http://allrecipes.com/recipe/141158/chicken-thigh-and-dumpling-stew/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the beef, onion, and garlic in a skillet over medium heat. Cook until beef is evenly brown and onion is tender. Drain grease.",
+        "Transfer beef, onion, and garlic to a large pot. Mix in tomatoes, tomato sauce, water, peas, carrots, spinach, bouillon cube, and pepper. Bring to a boil. Reduce heat to low, and cook 1 hour, stirring occasionally. Add more water or tomato sauce as needed.",
+        "Stir macaroni into the soup. Season with Italian seasoning. Continue cooking 10 minutes, or until macaroni is tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=672&h=352&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F48706.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground beef",
+        "1  onion, finely chopped",
+        "1 tablespoon chopped garlic",
+        "2 (14 ounce) cans stewed tomatoes",
+        "1 (15 ounce) can tomato sauce",
+        "2 cups water",
+        "1 (15 ounce) can baby peas",
+        "1 cup finely chopped carrots",
+        "1 (14 ounce) can chopped spinach, drained",
+        "1  beef bouillon cube",
+        "1 teaspoon ground black pepper",
+        "1 cup uncooked elbow macaroni",
+        "2 tablespoons Italian seasoning"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mama Kathy's Minestrone",
     "url": "http://allrecipes.com/recipe/83201/mama-kathys-minestrone/"
 }

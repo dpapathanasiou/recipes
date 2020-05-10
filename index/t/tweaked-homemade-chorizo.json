@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Use your hands to thoroughly mix the ground beef, ground pork, salt, chili powder, coriander, cumin, black pepper, garlic, and lemon juice together in a bowl. Transfer to an air-tight container; store in refrigerator for 4 days until using or freezing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F666416.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "2 pounds ground pork",
+        "2 teaspoons salt",
+        "\u00bc cup chili powder",
+        "1 pinch ground coriander",
+        "\u00bd teaspoon ground cumin",
+        "1 teaspoon ground black pepper",
+        "3\u2009\u00bd tablespoons lemon juice",
+        "2 cloves garlic, crushed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tweaked Homemade Chorizo",
     "url": "http://allrecipes.com/recipe/216716/tweaked-homemade-chorizo/"
 }

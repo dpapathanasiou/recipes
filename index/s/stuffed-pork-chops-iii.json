@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Make slits in pork chops to form a pocket in fat end.  Combine bread crumbs, sugar, pepper, salt, 3 tablespoons of the melted butter, onions, and parsley; mix well.  Stuff chops generously and skewer shut with toothpicks.",
+        "Heat the remaining 2 tablespoons of melted butter in a skillet.  Brown chops slowly over medium heat for 5 minutes on each side.  Add beef broth and simmer over low heat for 30 minutes until tender, turning chops at least once. Remove toothpicks and pour pan juices over pork chops before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=864&h=452&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F15274.jpg",
+    "ingredients": [
+        "4  thick cut pork chops",
+        "1 cup dry bread crumbs",
+        "1 teaspoon white sugar",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon salt",
+        "5 tablespoons melted butter, divided",
+        "1 small yellow onion, chopped",
+        "2 tablespoons dried parsley",
+        "1 cup beef broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Pork Chops III",
     "url": "http://allrecipes.com/recipe/21685/stuffed-pork-chops-iii/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season turkey with salt and pepper. Heat oil in a large, non-stick skillet over medium-high heat and cook turkey, turning the pieces carefully to cook evenly. Add lime juice, stir and set aside.",
+        "Prepare Knorr(R) Fiesta Sides(TM) Yellow Rice according to package instructions.",
+        "Stir in turkey, garbanzo beans and tomato and cover. Cook for 1 minute. Add avocado and parsley, remove from heat and serve. Enjoy!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3955772.jpg",
+    "ingredients": [
+        "1 tablespoon grapeseed oil",
+        "1 pound boneless, skinless turkey breast, chopped into bite-size pieces",
+        "salt and pepper to taste",
+        "2 tablespoons lime juice",
+        "1 (5.4 ounce) package Knorr\u00ae Fiesta Sides\u2122 - Yellow Rice",
+        "2/3 cup canned garbanzo beans, drained",
+        "2/3 cup chopped tomato",
+        "1 avocado - peeled, pitted, chopped",
+        "2 tablespoons finely chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Garbanzo Rice",
     "url": "http://allrecipes.com/recipe/255455/turkey-garbanzo-rice/"
 }

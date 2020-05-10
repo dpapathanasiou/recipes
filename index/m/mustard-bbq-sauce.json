@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix mustard, honey, brown sugar, cider vinegar, garlic powder, paprika, mustard, salt, black pepper, and cayenne pepper in a jar with a tight-fitting lid. Cover jar and shake until sauce is well combined."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4520767.jpg",
+    "ingredients": [
+        "1/2 cup yellow mustard",
+        "1/2 cup honey",
+        "1/4 cup brown sugar",
+        "1/4 cup cider vinegar",
+        "2 tablespoons garlic powder",
+        "2 tablespoons paprika",
+        "1 tablespoon ground mustard",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon cayenne pepper, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mustard BBQ Sauce",
     "url": "http://allrecipes.com/recipe/244770/mustard-bbq-sauce/"
 }

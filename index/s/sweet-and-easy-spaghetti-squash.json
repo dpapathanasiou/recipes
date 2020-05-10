@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F ( degrees C).",
+        "Place spaghetti squash halves in glass baking dish, cut sides up. Place one tablespoon butter in each half. Divide the cinnamon, cloves, nutmeg, allspice, and brown sugar between the two halves.",
+        "Bake until a fork pierces squash easily, about 50 minutes.",
+        "Use a fork to shred and separate the strands from the peel and transfer squash to a bowl. Mix the brown sugar into the squash, tossing lightly until well incorporated."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F890374.jpg",
+    "ingredients": [
+        "1  spaghetti squash, halved and seeded",
+        "2 tablespoons butter, divided",
+        "1 tablespoon ground cinnamon",
+        "2 teaspoons ground cloves",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon ground allspice",
+        "1 tablespoon brown sugar, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Easy Spaghetti Squash",
     "url": "http://allrecipes.com/recipe/228539/sweet-and-easy-spaghetti-squash/"
 }

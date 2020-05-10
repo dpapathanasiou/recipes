@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk the gelatin into the boiling water until dissolved. Allow to cool for 10 minutes, then stir in the orange sherbet until completely melted. Once the gelatin begins to thicken, stir in the drained mandarin oranges. Pour into a  gelatin mold, and refrigerate until set, about 6 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2415957.jpg",
+    "ingredients": [
+        "2 (3 ounce) packages orange flavored gelatin (such as JELL-O\u00ae)",
+        "2 cups boiling water",
+        "1 pint orange sherbet",
+        "1 (10 ounce) can mandarin oranges, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Sherbet Salad",
     "url": "http://allrecipes.com/recipe/132465/orange-sherbet-salad/"
 }

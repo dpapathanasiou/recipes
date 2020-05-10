@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt white chocolate in the top of a double boiler, stirring constantly.",
+        "Dip pretzel halfway into the white chocolate, completely covering half of the pretzel.  Roll in topping if desired, and lay on wax paper.",
+        "Continue the process until all of the white chocolate is finished.  Place in refrigerator for 15 minutes to harden.  Store in airtight container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4467635.jpg",
+    "ingredients": [
+        "6 (1 ounce) squares white chocolate",
+        "1 (15 ounce) package mini twist pretzels",
+        "1/4 cup red and green candy sprinkles (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Chocolate Covered Pretzels",
     "url": "http://allrecipes.com/recipe/9320/white-chocolate-covered-pretzels/"
 }

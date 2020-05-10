@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the refried beans.",
+        "In a large skillet, brown the ground beef. Stir in the seasoning packet.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place a small amount of vegetable oil in a large skillet. Let the oil heat, then place one corn tortilla in the skillet. After 15 seconds, flip the tortilla over and let it fry another 15 seconds. Repeat this process with the remaining tortillas, letting them drain on paper towels once they have been heated. When the tortillas have drained, arrange them on a cookie sheet.",
+        "Spread a thin layer of beans on the tortillas, followed by a layer of beef, and cheese.",
+        "Bake the tortillas in the preheated oven for 20 to 30 minutes. Slice the tortillas into wedges and arrange them on plates or a serving platter and garnish them with the sour cream, tomatoes, green onions, chiles, avocado, and olives."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3056&h=1600&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F377465.jpg",
+    "ingredients": [
+        "1 (16 ounce) can refried beans",
+        "1 pound ground beef",
+        "1 (1.25 ounce) package taco seasoning mix",
+        "1 tablespoon vegetable oil",
+        "4 (6 inch) corn tortillas",
+        "8 ounces shredded Cheddar cheese",
+        "8 tablespoons sour cream",
+        "2  roma (plum) tomatoes, chopped",
+        "2  green onion, chopped",
+        "1 (4 ounce) can diced green chiles, drained",
+        "\u00bd  avocado, diced",
+        "1 tablespoon black olives, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Pizza I",
     "url": "http://allrecipes.com/recipe/17368/mexican-pizza-i/"
 }

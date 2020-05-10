@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large punch bowl combine the drink mix, sugar and water. Stir until sugar is dissolved. Stir in the orange juice and pineapple juice concentrates. Just before serving stir in the ginger ale and slide in the sherbet."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/714397.jpg",
+    "ingredients": [
+        "2 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder",
+        "2 1/2 cups white sugar",
+        "4 quarts cold water",
+        "2 (6 ounce) cans frozen orange juice concentrate",
+        "2 (6 ounce) cans frozen pineapple juice concentrate",
+        "3 oranges, sliced into rounds",
+        "1 liter ginger ale",
+        "1/2 gallon orange sherbet"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandmother's Punch",
     "url": "http://allrecipes.com/recipe/18939/grandmothers-punch/"
 }

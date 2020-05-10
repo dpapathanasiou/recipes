@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Run carrots, celery, beet, green bell pepper, apple, and ginger through a juicer according to manufacturer's instructions."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4014313.jpg",
+    "ingredients": [
+        "2 large carrots, ends trimmed",
+        "2 large celery stalks",
+        "1/2 beet",
+        "1/4 green bell pepper",
+        "1/4 apple",
+        "1/2 teaspoon chopped fresh ginger (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Super Veggie Juice With A Kick",
     "url": "http://allrecipes.com/recipe/234326/super-veggie-juice-with-a-kick/"
 }

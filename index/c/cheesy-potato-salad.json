@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes into a pot, and fill with enough water to cover. Bring to a boil, and cook for about 10 minutes, or until easily pierced with a fork. Drain, and set aside to cool.",
+        "In a large bowl, mix together the sour cream, mayonnaise, sugar, half of the onions, and half of the cheese. Gently stir in the cooled potatoes. Top with remaining cheese and onions, and sprinkle bacon bits over the top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1125436.jpg",
+    "ingredients": [
+        "2\u2009\u00bd pounds red potatoes, cubed",
+        "1 cup sour cream",
+        "\u00bd cup mayonnaise",
+        "\u00bc cup white sugar",
+        "\u00bd bunch green onions, chopped",
+        "1 cup shredded Cheddar cheese",
+        "1 tablespoon real bacon bits"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Potato Salad",
     "url": "http://allrecipes.com/recipe/70785/cheesy-potato-salad/"
 }

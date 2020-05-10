@@ -1,9 +1,14 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut each tomato  in half through the middle, not the ends. Put the tomato halves in a food dehydrator, cut side up. Dry for at least 12 hours.  When the tomatoes are totally dry and firm, put them in a plastic bag, and store in the freezer."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F433007.jpg",
+    "ingredients": [
+        "24  cherry tomatoes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sun-dried Tomatoes II",
     "url": "http://allrecipes.com/recipe/14093/sun-dried-tomatoes-ii/"
 }

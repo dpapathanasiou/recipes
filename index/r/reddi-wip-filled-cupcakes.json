@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Spray 24 medium muffin cups with baking spray. Do NOT use cupcake liners. Prepare cake mix according to package directions. Spoon batter evenly into prepared muffin cups. Bake according to package directions.",
+        "Cool cupcakes in pan 5 minutes. Remove from pan and cool completely on wire rack.",
+        "Assemble selected toppings and sprinkles, if desired. When ready to serve, fill each cupcake to be eaten immediately with Reddi-wip according to the Cook's Tips. Immediately 'frost' with a topping and 'sprinkle' if desired. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3742256.jpg",
+    "ingredients": [
+        "PAM\u00ae Baking Spray",
+        "1 (18.25 ounce) package extra moist cake mix, any flavor",
+        "1 (6.5 ounce) can Reddi-wip\u00ae Original Dairy Whipped Topping",
+        "Topping Suggestions:",
+        "Reddi-wip, prepared frosting, ice cream toppings (optional)",
+        "'Sprinkle' Suggestions:",
+        "Candy sprinkles, chopped nuts, toasted coconut, fresh fruit, candy pieces (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Reddi-wip Filled Cupcakes",
     "url": "http://allrecipes.com/recipe/254300/reddi-wip-filled-cupcakes/"
 }

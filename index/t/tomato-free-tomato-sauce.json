@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large pot over medium heat. Cook and stir leeks, onion, shallots, and garlic until translucent, 7 to 8 minutes. Add carrots, celery, and beet; cook and stir until starting to brown, about 5 minutes. Season with salt and pepper.",
+        "Pour beef broth, water, and white wine into the pot. Simmer sauce until carrots and beet are tender, about 1 hour 30 minutes. Stir in soy sauce, umeboshi paste, and tamarind paste.",
+        "Blend sauce with an immersion blender until consistency is slightly chunky."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 tablespoon canola oil",
+        "3 large leeks, sliced 1/8-inch thick",
+        "1 large sweet onion, diced",
+        "2 shallots, sliced",
+        "4 cloves garlic, sliced",
+        "12 carrots, chopped",
+        "6 stalks celery, chopped",
+        "1 small beet, chopped",
+        "salt and ground black pepper to taste",
+        "1 (14 ounce) can beef broth",
+        "1 1/2 cups water",
+        "1/2 cup white wine",
+        "1 tablespoon sweet soy sauce",
+        "1 1/2 teaspoons umeboshi paste",
+        "1 teaspoon tamarind paste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato-Free Tomato Sauce",
     "url": "http://allrecipes.com/recipe/256929/tomato-free-tomato-sauce/"
 }

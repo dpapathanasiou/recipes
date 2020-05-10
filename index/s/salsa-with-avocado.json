@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine tomato sauce, water, hot tomato sauce, 3 quartered tomatoes, green onions, cilantro, jalapeno, and salt in a blender; blend until combined, 10 to 15 seconds.",
+        "Pour tomato sauce mixture into a bowl. Stir in avocados and 2 diced tomatoes.",
+        "Cover salsa with plastic wrap and refrigerate for 1 hour before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060560.jpg",
+    "ingredients": [
+        "1 (8 ounce) can tomato sauce",
+        "1 cup water",
+        "1 (7.75 ounce) can Mexican-style hot tomato sauce (such as El Pato\u00ae)",
+        "3  tomatoes, quartered",
+        "2  green onions, trimmed",
+        "1 bunch fresh cilantro, stems trimmed",
+        "1 (1/2 inch) piece jalapeno pepper with seeds, or more to taste",
+        "1 teaspoon salt, or to taste",
+        "2  avocados, diced",
+        "2  tomatoes, diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salsa with Avocado",
     "url": "http://allrecipes.com/recipe/233769/salsa-with-avocado/"
 }

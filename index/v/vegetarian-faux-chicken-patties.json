@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Process the 'chicken' in a food processor and then transfer it to a medium mixing bowl.  Run the celery, onion and green pepper through the processor.  Add the vegetables to the mixing bowl and stir in the eggs, stuffing, salt and pepper; mix well.  Form into patties.",
+        "In a medium frying pan heat olive oil over medium-high heat.  Fry patties on each side until browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F398660.jpg",
+    "ingredients": [
+        "1 (12.5 ounce) can vegetarian fried chicken (e.g., FriChik)",
+        "1  celery",
+        "\u00bd small onion",
+        "\u00bc large green bell pepper",
+        "4  eggs, beaten",
+        "\u00bd cup dry bread stuffing mix",
+        "salt and pepper to taste",
+        "1 tablespoon olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetarian Faux Chicken Patties",
     "url": "http://allrecipes.com/recipe/21117/vegetarian-faux-chicken-patties/"
 }

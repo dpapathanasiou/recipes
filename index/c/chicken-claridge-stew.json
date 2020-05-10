@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a large skillet with cooking spray. Saute the chicken in the oil. Add the onion and saute until translucent. Add the celery and carrots and saute briefly.",
+        "Add the chicken soup, mushroom soup, water or broth, salt and pepper, sage and garlic. Do not add the tomatoes yet as they retard cooking time. Bring all to a boil, then cover and simmer for about 20 minutes. Add the tomatoes and simmer for 10 more minutes, uncovered. Serve over hot cooked rice if desired. Delicious!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F120446.jpg",
+    "ingredients": [
+        "3  skinless, boneless chicken breast halves - cut into cubes",
+        "1  onion, chopped",
+        "2 stalks celery, chopped",
+        "4  carrots, chopped",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 cup chicken broth",
+        "salt and pepper to taste",
+        "\u00bc teaspoon dried sage",
+        "1 clove garlic, minced",
+        "1 (14.5 ounce) can diced tomatoes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Claridge Stew",
     "url": "http://allrecipes.com/recipe/8704/chicken-claridge-stew/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pierce skin of sweet potatoes in several spots with a fork.",
+        "Cook sweet potatoes in microwave oven until just tender, 12 to 15 minutes. Refrigerate sweet potatoes until cooled completely, at least 20 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Prepare a shallow 1 1/2-quart baking dish with cooking spray.",
+        "Peel sweet potatoes and cut into cubes; spread into prepared baking dish.",
+        "Mix sugar, cornstarch, salt, and ginger together in a glass measuring cup; pour orange juice into the cup while stirring with a whisk.",
+        "Heat orange juice mixture in microwave oven for 1 minute, stir, and continue to heat until thickened and smooth, 30 to 60 seconds more; add butter and stir until melted. Pour the liquid over the sweet potatoes.",
+        "Bake in preheated oven until sweet potatoes are heated through, 15 to 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2270201.jpg",
+    "ingredients": [
+        "2 1/2 pounds sweet potatoes",
+        "cooking spray",
+        "2 tablespoons white sugar",
+        "2 teaspoons cornstarch",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground ginger",
+        "1/2 cup orange juice",
+        "3 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gingered Sweet Potatoes with Orange Juice",
     "url": "http://allrecipes.com/recipe/242285/gingered-sweet-potatoes-with-orange-j/"
 }

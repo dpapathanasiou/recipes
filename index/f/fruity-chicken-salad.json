@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put the chicken in a large pot with enough water to cover. Bring to a boil; reduce heat to medium. Allow the chicken to simmer until no longer pink at the bone and the juices run clear, about 1 hour.  An instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 180 degrees F (82 degrees C). Remove the chicken to a cutting board. Use a pair of forks to remove and shred the meat from the chicken. Discard the remains. Place shredded chicken in a single layer on a plate and allow to cool completely in refrigerator, about 15 minutes.",
+        "Stir together the salad dressing and sugar in a large bowl. Stir the chicken and raisins into the salad dressing. Add the mango and gently fold into the mixture. Refrigerate overnight or 8 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F974395.jpg",
+    "ingredients": [
+        "1 (2 1/2 pound) fryer chicken or equivalent pieces",
+        "\u00bd cup creamy salad dressing (such as Miracle Whip\u00ae)",
+        "2 tablespoons white sugar, or to taste",
+        "\u00bc cup raisins",
+        "1  ripe mango, peeled and diced (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruity Chicken Salad",
     "url": "http://allrecipes.com/recipe/34102/fruity-chicken-salad/"
 }

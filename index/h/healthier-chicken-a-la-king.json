@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place onion in a medium saucepan over low heat and sprinkle with flour and salt. Stir together and add milk. Bring to a boil and cook until thickened.",
+        "Mix in chicken, egg and spinach. Heat through and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5838831.jpg",
+    "ingredients": [
+        "3 tablespoons chopped onion",
+        "2 tablespoons all-purpose flour",
+        "1 teaspoon salt",
+        "1 cup milk",
+        "\u00bd pound cooked, cubed chicken meat",
+        "1  hard-boiled egg, sliced",
+        "1\u2009\u2153 cups cooked spinach",
+        "3 tablespoons chopped onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Healthier Chicken a la King",
     "url": "http://allrecipes.com/recipe/17254/healthier-chicken-a-la-king/"
 }

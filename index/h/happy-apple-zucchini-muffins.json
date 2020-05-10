@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease 12 muffin cups, or line with paper muffin liners.",
+        "Sift flour, oat bran, baking soda, baking powder, and cinnamon together in a large bowl; set aside. Beat eggs for 1 minute, then beat in yogurt, brown sugar, and vanilla extract. Stir flour mixture into egg mixture until batter is just blended. Fold apples, zucchini, and carrot into batter until evenly distributed. Spoon batter into prepared muffin cups, filling cups about 2/3 full.",
+        "Bake in preheated oven for 15 minutes and rotate muffin cups 180 degrees. Continue baking until a toothpick inserted into the center comes out clean, about 10 more minutes. Cool in the pans for 10 minutes before removing to cool completely on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3743804.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups wheat flour",
+        "\u00bd cup oat bran",
+        "\u00bd teaspoon baking soda",
+        "1\u2009\u00bd teaspoons baking powder",
+        "\u00bd teaspoon ground cinnamon",
+        "2  eggs",
+        "\u00be cup nonfat plain yogurt",
+        "\u00be cup packed brown sugar",
+        "\u00bd teaspoon vanilla extract",
+        "1\u2009\u00bc cups peeled and chopped apples",
+        "1 cup shredded zucchini",
+        "\u00bd cup grated carrot"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Happy Apple Zucchini Muffins",
     "url": "http://allrecipes.com/recipe/222690/happy-apple-zucchini-muffins/"
 }

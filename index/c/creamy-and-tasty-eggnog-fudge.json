@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line 9-inch square pan with aluminum foil and spray foil with cooking spray. Prepare insides of a large saucepan with cooking spray.",
+        "Stir eggnog and sugar together in prepared saucepan over medium-high heat; bring to a rolling boil while stirring constantly with a wooden spoon. Boil mixture for 2 minutes.",
+        "Fold marshmallows and nutmeg into the eggnog mixture. Bring mixture again to a boil, stirring continually; boil for 6 minutes, remove immediately from heat, and add butterscotch chips and butter. Beat the mixture rapidly with a whisk or a hand mixer until thoroughly mixed and loses its gloss; pour into the prepared saucepan.",
+        "Set fudge aside at room temperature until set, at least 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1828701.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 cup eggnog",
+        "3 cups white sugar",
+        "1 1/2 cups miniature marshmallows",
+        "1/2 teaspoon ground nutmeg",
+        "1 (6 ounce) package butterscotch chips",
+        "2 tablespoons cold butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy and Tasty Eggnog Fudge",
     "url": "http://allrecipes.com/recipe/235775/creamy-and-tasty-eggnog-fudge/"
 }

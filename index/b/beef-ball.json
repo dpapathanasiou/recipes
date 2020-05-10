@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over medium heat, cook and stir the dried chipped beef in butter until evenly browned.",
+        "In a medium bowl, whip the cream cheese, horseradish, green bell pepper, red bell pepper and pepper until well blended. Mix in 2/3 of the beef. Roll into a ball.",
+        "Roll the ball in the remaining beef and the Cheddar cheese. Wrap in plastic and chill in the refrigerator at least 1 hour before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F490582.jpg",
+    "ingredients": [
+        "3 (8 ounce) jars dried chipped beef",
+        "2 tablespoons butter",
+        "2 (8 ounce) packages cream cheese, softened",
+        "1 tablespoon prepared horseradish",
+        "\u00bc cup chopped green bell pepper",
+        "\u00bc cup chopped red bell pepper",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bc cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef Ball",
     "url": "http://allrecipes.com/recipe/23957/beef-ball/"
 }

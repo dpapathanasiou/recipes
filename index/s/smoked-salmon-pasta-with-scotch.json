@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Place penne pasta in the pot, cook 8 to 10 minutes, until al dente, and drain.",
+        "Heat the olive oil in a skillet over medium heat, and cook the onion until tender. Pour in the fish stock and white wine, and cook until reduced by 1/2.",
+        "Remove the skillet from heat, and pour in the Scotch whiskey. Using a long match, carefully ignite the Scotch. Once the flame had subsided, return the skillet to medium heat, and mix in the salmon. Stir in the cream, and bring the mixture to a boil. Continue to cook and stir until thickened.",
+        "In a large bowl, toss the cooked penne pasta with the salmon mixture. Season with pepper, and top with Parmesan cheese and parsley to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/788538.jpg",
+    "ingredients": [
+        "1 (16 ounce) package dry penne pasta",
+        "1 tablespoon olive oil",
+        "1 medium onion, finely chopped",
+        "2 cups fish stock",
+        "2 cups white wine",
+        "3 tablespoons Scotch whiskey",
+        "1/2 pound chopped smoked salmon",
+        "2 cups heavy cream",
+        "freshly ground black pepper to taste",
+        "1/2 cup grated Parmesan cheese for topping",
+        "1 bunch Italian flat leaf parsley, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Smoked Salmon Pasta with Scotch",
     "url": "http://allrecipes.com/recipe/72896/smoked-salmon-pasta-with-scotch/"
 }

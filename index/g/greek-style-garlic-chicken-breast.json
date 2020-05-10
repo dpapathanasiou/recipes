@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut 3 slits in each chicken breast to allow marinade to penetrate. In a small bowl, whisk together olive oil, lemon juice, garlic, salt, pepper, and paprika for about 30 seconds. Place chicken in a large bowl, and pour marinade over. Using your hands, work marinade into chicken. Cover, and refrigerate overnight.",
+        "Preheat grill for medium heat, and lightly oil grate.",
+        "Cook chicken on grill until meat is no longer pink and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F687379.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "1 cup extra virgin olive oil",
+        "1  lemon, juiced",
+        "2 teaspoons crushed garlic",
+        "1 teaspoon salt",
+        "1\u2009\u00bd teaspoons black pepper",
+        "\u2153 teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Greek Style Garlic Chicken Breast",
     "url": "http://allrecipes.com/recipe/54202/greek-style-garlic-chicken-breast/"
 }

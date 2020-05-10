@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet, brown chicken on both sides. In the meantime, in a medium bowl combine the soup, milk and cheese. Mix together. When chicken is browned, pour mixture over chicken pieces. Cook over medium low heat until chicken is done and juices run clear. Serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F138056.jpg",
+    "ingredients": [
+        "6  skinless, boneless chicken breast halves",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (12 fluid ounce) can evaporated milk",
+        "6 slices American processed  cheese, cut into 1-inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Cheesy Skillet Chicken",
     "url": "http://allrecipes.com/recipe/8936/easy-cheesy-skillet-chicken/"
 }

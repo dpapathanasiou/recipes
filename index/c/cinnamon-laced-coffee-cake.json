@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking dish with cooking spray. Sprinkle cinnamon sugar into the bottom of prepared baking dish.",
+        "Combine brown sugar, walnuts, softened butter, 1/4 cup flour, and cinnamon in a bowl using a fork until streusel is crumbly.",
+        "Mix 3 cups flour, baking powder, and salt together in a separate bowl. Beat eggs in a third bowl using an electric mixer until frothy; add white sugar and melted butter and beat until creamy. Add milk, sour cream, and vanilla extract and beat until smooth. Stir flour mixture into milk-butter mixture until batter is well blended.",
+        "Spread 1/2 of the batter into the prepared baking dish; top with 1/2 of the streusel mix. Spread remaining batter over streusel layer and top with remaining streusel.",
+        "Place dish on the center rack in the preheated oven; bake until a fork inserted in the center comes out clean, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=7344&h=3845&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2201078.jpg",
+    "ingredients": [
+        "cooking spray",
+        "\u00bc cup cinnamon sugar",
+        "1 cup firmly packed light brown sugar",
+        "\u00be cup chopped walnuts",
+        "\u00bc cup butter, softened",
+        "\u00bc cup all-purpose flour",
+        "2\u2009\u00bd teaspoons ground cinnamon",
+        "3 cups all-purpose flour",
+        "3\u2009\u00bd tablespoons baking powder",
+        "1 teaspoon salt",
+        "2  eggs",
+        "1\u2009\u00bd cups white sugar",
+        "\u2154 cup butter, melted",
+        "1 cup milk",
+        "\u00bc cup sour cream",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon-Laced Coffee Cake",
     "url": "http://allrecipes.com/recipe/241942/cinnamon-laced-coffee-cake/"
 }

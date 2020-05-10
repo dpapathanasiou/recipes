@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend grapes, water, cranberries, ice cubes, and apple in a blender until smooth. Adjust by adding additional water a little at a time to achieve the consistency desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1066365.jpg",
+    "ingredients": [
+        "1 cup seedless red grapes",
+        "1/2 cup water, more if needed",
+        "1/2 cup fresh cranberries",
+        "1/2 cup ice cubes",
+        "1 small red apple, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Holiday Sweet Tart Smoothie",
     "url": "http://allrecipes.com/recipe/235403/holiday-sweet-tart-smoothie/"
 }

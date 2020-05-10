@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the tomatillos, tomatoes, serrano peppers, chile de arbol peppers, and 3 whole garlic cloves into a saucepan over medium-low heat, and cool until the mixture is juicy and the peppers are tender, about 10 minutes. Remove and discard the garlic cloves. Pour the mixture into a blender, and blend until smooth, about 1 minute; set sauce aside. Mince 1 clove of garlic, or amount to taste, and mix into the sauce; season to taste with salt.",
+        "Mince 1 more clove of garlic, and place into a skillet with the pork over medium heat. Cook covered until the pork is no longer pink and the juices run clear, stirring often, about 30 minutes. Pour the blended sauce over the meat, and reduce heat to a simmer; cook, stirring often, until the pork is tender, 5 to 10 more minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F681074.jpg",
+    "ingredients": [
+        "20  fresh tomatillos, husks removed",
+        "2 large tomatoes, chopped",
+        "7  serrano chile peppers, chopped (wear gloves)",
+        "10  fresh chile de arbol peppers, chopped (wear gloves)",
+        "5 cloves garlic, divided",
+        "salt to taste",
+        "2 pounds pork stew meat, coarsely chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carne con Chile",
     "url": "http://allrecipes.com/recipe/217165/carne-con-chile/"
 }

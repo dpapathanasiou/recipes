@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sprinkle chicken breasts lightly with salt, pepper, and paprika to taste. Place in slow cooker.",
+        "In a mixing bowl, combine the wine, condensed soup, and mushrooms. In another bowl, mix together sour cream and flour. Stir sour cream mixture into the mushrooms and wine. Pour over chicken in slow cooker. Sprinkle with additional paprika, if desired.",
+        "Cover, and cook on Low for 6 to 8 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F476727.jpg",
+    "ingredients": [
+        "6  skinless, boneless chicken breast halves",
+        "salt and pepper to taste",
+        "paprika to taste",
+        "\u00bd cup dry white wine",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (4.5 ounce) can sliced mushrooms, drained",
+        "1 cup sour cream",
+        "\u00bc cup all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Chicken Parisienne",
     "url": "http://allrecipes.com/recipe/24786/slow-cooker-chicken-parisienne/"
 }

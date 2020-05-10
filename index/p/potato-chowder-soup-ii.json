@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan over medium heat, cook bacon until crisp.  Remove bacon from pan, leaving drippings.  Cook onion in drippings until tender.  Stir in celery salt, potatoes, carrot and broth.  Bring to a boil, then reduce heat and simmer until vegetables are tender, 20 minutes.  Stir in milk, seasoning salt, dill and pepper.  Heat through and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1955911.jpg",
+    "ingredients": [
+        "4 slices bacon, chopped",
+        "\u00bd large onion, diced",
+        "\u00bd teaspoon celery salt",
+        "4 large potatoes, cubed",
+        "\u00bd large carrot, diced",
+        "5 cups vegetable broth",
+        "3 cups milk",
+        "\u00bd teaspoon seasoning salt",
+        "3 pinches dried dill weed",
+        "1 tablespoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato Chowder Soup II",
     "url": "http://allrecipes.com/recipe/23868/potato-chowder-soup-ii/"
 }

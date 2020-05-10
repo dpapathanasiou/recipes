@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Spray 13x9-inch baking dish with baking spray. Combine flour, ginger, cinnamon, baking soda and salt in medium bowl; set aside.",
+        "Combine sugar, oil and eggs in large bowl; mix well. Gradually pour molasses into sugar mixture; stir until well blended. Alternately add flour mixture and buttermilk to sugar mixture; beat well. Spread batter evenly in prepared baking dish.",
+        "Bake 30 to 35 minutes or until wooden pick inserted in center comes out clean. Cool 10 minutes before serving. Cut into 12 pieces. Dust with confectioners' sugar and garnish with Reddi-wip."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3686990.jpg",
+    "ingredients": [
+        "PAM\u00ae Baking Spray",
+        "2 3/4 cups Ultragrain\u00ae All Purpose Flour",
+        "1 tablespoon ground ginger",
+        "2 teaspoons ground cinnamon",
+        "2 teaspoons baking soda",
+        "1/2 teaspoon salt",
+        "1 cup firmly packed brown sugar",
+        "2/3 cup Pure Wesson\u00ae Vegetable Oil",
+        "2 large eggs, beaten",
+        "3/4 cup molasses",
+        "1 cup lowfat buttermilk",
+        "1 tablespoon confectioners' sugar",
+        "Reddi-wip\u00ae Original Dairy Whipped Topping"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Old-Fashioned Gingerbread",
     "url": "http://allrecipes.com/recipe/254297/old-fashioned-gingerbread/"
 }

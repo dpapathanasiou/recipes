@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease and flour a 9x13-inch baking dish.",
+        "Beat baking mix, eggs, and sugar together into a smooth batter. Fold coconut and pecans through the batter.",
+        "Bake in preheated oven until set in the center, 30 to 35 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3314188.jpg",
+    "ingredients": [
+        "2 cups baking mix (such as Bisquick \u00ae)",
+        "4  eggs, beaten",
+        "1 (16 ounce) package brown sugar",
+        "1 cup flaked coconut",
+        "1 cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bisquick&reg; Bars",
     "url": "http://allrecipes.com/recipe/237402/bisquick-bars/"
 }

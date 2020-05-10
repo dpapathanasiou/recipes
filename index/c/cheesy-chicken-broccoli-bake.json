@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C), and grease a 9x12-inch baking dish.",
+        "Pour the condensed soups into a bowl and mix well. Place the chicken breast meat, broccoli, and carrots into the baking dish, mix well, and pour the soup mixture over. Sprinkle with basil, thyme, oregano, and paprika, and spread the Cheddar cheese and bread crumbs evenly over the top.",
+        "Bake in the preheated oven for 45 minutes, until the casserole is bubbling and the cheese and crumbs are lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2380514.jpg",
+    "ingredients": [
+        "1 (10.75 ounce) can  condensed cream of chicken soup",
+        "1 (10.75 ounce) can  condensed cream of mushroom soup",
+        "1 pound skinless, boneless chicken breast halves, chopped",
+        "2 large heads  broccoli, chopped",
+        "10   baby carrots, chopped",
+        "1 teaspoon dried basil",
+        "\u00bd teaspoon dried thyme",
+        "\u00bd teaspoon dried oregano",
+        "\u00bc teaspoon ground paprika",
+        "\u00bd cup shredded Cheddar cheese",
+        "\u00bc cup dry bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheesy Chicken Broccoli Bake",
     "url": "http://allrecipes.com/recipe/81939/cheesy-chicken-broccoli-bake/"
 }

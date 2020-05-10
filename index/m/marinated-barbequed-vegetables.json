@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggplant, red bell peppers, zucchinis and fresh mushrooms in a medium bowl.",
+        "In a medium bowl, whisk together olive oil, lemon juice, basil and garlic. Pour the mixture over the vegetables, cover and marinate in the refrigerator at least 1 hour.",
+        "Preheat an outdoor grill for high heat.",
+        "Place vegetables directly on the grill or on skewers. Cook on the prepared grill 2 to 3 minutes per side, brushing frequently with the marinade, or to desired doneness."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2544&h=1332&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F230982.jpg",
+    "ingredients": [
+        "1  small eggplant, cut into 3/4 inch thick slices",
+        "2 small red bell peppers, seeded and cut into wide strips",
+        "3  zucchinis, sliced",
+        "6  fresh mushrooms, stems removed",
+        "\u00bc cup olive oil",
+        "\u00bc cup lemon juice",
+        "\u00bc cup coarsely chopped fresh basil",
+        "2 cloves garlic, peeled and minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Barbequed Vegetables",
     "url": "http://allrecipes.com/recipe/25474/marinated-barbequed-vegetables/"
 }

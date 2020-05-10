@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Combine the sirloin, tomato, mushrooms, green bell pepper, red bell pepper, orange bell pepper, garlic, green onion, 1/2 cup bread crumbs, egg, cilantro, and Worcestershire sauce in a large mixing bowl; mix together with your hands until evenly incorporated. Shape the mixture into a cylinder about the size of a loaf pan. Create a center channel in the loaf; load the goat cheese and diced habanero pepper into the middle of the channel and roll it up, folding the cheese and pepper into the center of the loaf. Place the loaf into a loaf pan. Sprinkle 1/4 cup bread crumbs over the top of the loaf. Place the Cheddar cheese slices around the edges of the pan. Arrange the jalapeno pepper slices on the top of the loaf.",
+        "Bake the meat loaf in the preheated oven until cooked completely through and no longer pink, about 1 hour. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C). Allow to rest 7 to 10 minutes before slicing to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1448&h=758&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2761997.jpg",
+    "ingredients": [
+        "1 pound ground sirloin",
+        "1  tomato, diced",
+        "4  mushrooms, diced",
+        "1 small green bell pepper, diced",
+        "1 small red bell pepper, diced",
+        "1 small orange bell pepper, diced",
+        "3 cloves garlic, minced",
+        "1 bunch green onions, diced",
+        "\u00bd cup bread crumbs",
+        "1  egg",
+        "1 bunch cilantro, chopped",
+        "\u00bc cup Worcestershire sauce",
+        "3 ounces goat cheese",
+        "1  habanero pepper, diced",
+        "\u00bc cup bread crumbs",
+        "\u00bd (8 ounce) package extra sharp Cheddar cheese, sliced",
+        "2  jalapeno peppers, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Habanero and Goat Cheese Meat Loaf",
     "url": "http://allrecipes.com/recipe/187799/habanero-and-goat-cheese-meat-loaf/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Lightly butter a large baking dish.",
+        "Whisk honey and milk together in a bowl until smooth.",
+        "Place sweet potatoes in a large bowl. Add honey-milk mixture to sweet potatoes and toss to coat; soak for 10 minutes. Drain 1/2 of the liquid from the bowl.",
+        "Mix ginger, rosemary, grapeseed oil, cardamom, black pepper, cloves, and salt with the sweet potatoes until coated. Spread potatoes in a single layer in the prepared baking dish.",
+        "Bake in the preheated oven for 20 minutes. Flip potatoes and continue cooking until tender and browned, about 20 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3295970.jpg",
+    "ingredients": [
+        "butter for greasing",
+        "1/2 cup honey",
+        "2 tablespoons milk",
+        "9 sweet potatoes, peeled and cut into 1/4-inch slices",
+        "1/4 cup grated fresh ginger",
+        "3 tablespoons grapeseed oil",
+        "1 tablespoon chopped fresh rosemary, or more to taste",
+        "1 1/2 teaspoons ground cardamom",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon ground cloves",
+        "1/2 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rosemary Sweet Sweet Potatoes with Ginger",
     "url": "http://allrecipes.com/recipe/240222/rosemary-sweet-sweet-potatoes-with-gi/"
 }

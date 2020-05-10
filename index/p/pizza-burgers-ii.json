@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a large skillet over medium-high heat, cook the ground beef until evenly browned, stirring to crumble. Drain fat, and set aside.",
+        "Process the luncheon meat, cheese and onion in a food processor or run through a grinder until finely chopped. Transfer to a large bowl. Stir in the browned beef, tomato soup, tomato paste, garlic salt, and oregano until well blended. Spread a couple of spoonfuls of the meat mixture onto each bun half, and place them on a baking sheet.",
+        "Bake for 10 to 15 minutes in the preheated oven, until the meat is hot and the bun is crisp."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3319379.jpg",
+    "ingredients": [
+        "2 pounds ground beef",
+        "1 (12 ounce) container fully cooked luncheon meat (e.g. Spam), cubed",
+        "12 ounces processed cheese food, cubed",
+        "2 small onions, chopped",
+        "1 (10.75 ounce) can condensed tomato soup",
+        "1 (6 ounce) can tomato paste",
+        "\u00bd teaspoon garlic salt",
+        "1\u2009\u00bd teaspoons dried oregano",
+        "8  hamburger buns, split"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pizza Burgers II",
     "url": "http://allrecipes.com/recipe/68534/pizza-burgers-ii/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan, combine beans, tomatoes, olive oil, garlic and red pepper flakes. Stir over medium heat until mixture begins to bubble. Remove from heat and mix in the feta cheese and cilantro."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1441&h=754&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5131421.jpg",
+    "ingredients": [
+        "2 (15.5 ounce) cans cannellini beans, drained",
+        "1 (14.4 ounce) can petite diced tomatoes",
+        "1 tablespoon extra-virgin olive oil",
+        "2 cloves garlic, chopped",
+        "1 pinch red pepper flakes, or to taste (optional)",
+        "\u00bc cup crumbled feta cheese",
+        "\u00bc cup chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tuscan Bean 'Goppel'",
     "url": "http://allrecipes.com/recipe/140611/tuscan-bean-goppel/"
 }

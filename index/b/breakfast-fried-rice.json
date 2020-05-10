@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid is absorbed, 20 to 25 minutes.",
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Transfer bacon slices to a paper-towel lined plate to drain and crumble into bite-size pieces; reserve rendered bacon fat in skillet.",
+        "Cook and stir eggs in the same skillet over medium heat until slightly set, 1 to 3 minutes. Stir yellow onion, peas, green onion, and 1 1/2 teaspoons soy sauce into eggs; cook and stir until yellow onion is translucent, about 5 minutes more. Reduce heat to low; stir rice, crumbled bacon, and remaining soy sauce into egg mixture until well-combined and heated through, 1 to 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1886979.jpg",
+    "ingredients": [
+        "4 cups water",
+        "2 cups uncooked white rice",
+        "6 slices bacon",
+        "4 eggs, beaten",
+        "1 large yellow onion, chopped",
+        "1 cup frozen peas",
+        "4 green onions, chopped",
+        "1 1/2 tablespoons soy sauce, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breakfast Fried Rice",
     "url": "http://allrecipes.com/recipe/240520/breakfast-fried-rice/"
 }

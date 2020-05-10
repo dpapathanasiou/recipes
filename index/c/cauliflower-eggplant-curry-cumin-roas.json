@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Prepare a baking sheet with parchment paper.",
+        "Place eggplant and cauliflower in a large bowl with a lid.",
+        "Whisk olive oil, curry powder, ground cumin, garlic salt, and basil together in a bowl; pour over eggplant and cauliflower. Place lid on bowl with eggplant mixture and shake until well coated. Arrange eggplant and cauliflower on prepared baking sheet.",
+        "Bake in preheated oven until browned and caramelized, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/8057668.jpg",
+    "ingredients": [
+        "1 eggplant, peeled and sliced",
+        "1 small head cauliflower, chopped",
+        "1/4 cup olive oil",
+        "1 teaspoon curry powder",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon garlic salt",
+        "6 fresh basil leaves, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cauliflower Eggplant Curry-Cumin Roast",
     "url": "http://allrecipes.com/recipe/244822/cauliflower-eggplant-curry-cumin-roas/"
 }

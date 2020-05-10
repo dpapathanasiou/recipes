@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour water over navy beans in a large container to cover by several inches; soak 8 hours to overnight.",
+        "Combine soaked beans, chicken broth, water, onion, celery, garlic, and bay leaf in a large pot; bring to a boil. Reduce heat to low and simmer, partially covered, until beans are almost tender, about 1 hour.",
+        "Stir tomato paste and sea salt into bean mixture; simmer soup another 45 minutes. Remove and discard bay leaf.",
+        "Ladle about half the soup into a large bowl; pour soup into a blender, working in batches, filling blender no more than half full. Hold lid down; pulse a few times before leaving on to blend until smooth. Pour pureed soup into pot with unblended soup; stir in parsley and adjust salt and pepper to taste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/971244.jpg",
+    "ingredients": [
+        "1 (16 ounce) package dried navy beans",
+        "6 cups reduced-sodium chicken broth",
+        "4 cups water",
+        "1 onion, finely chopped",
+        "2 stalks celery, chopped",
+        "4 cloves garlic, minced",
+        "1 bay leaf",
+        "3 tablespoons tomato paste",
+        "1 1/2 teaspoons sea salt",
+        "1/2 teaspoon ground black pepper",
+        "1/4 cup chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hearty Bean Soup",
     "url": "http://allrecipes.com/recipe/231111/hearty-bean-soup/"
 }

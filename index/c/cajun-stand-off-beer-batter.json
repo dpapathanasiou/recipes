@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat flour, cornmeal, lemon pepper, garlic powder, black pepper, oregano, cayenne pepper, cumin, paprika, thyme, onion powder, and both types of light beer together in a large mixing bowl with a whisk until smooth with the consistency of beer batter; add lemon juice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1454890.jpg",
+    "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1 cup cornmeal",
+        "1/4 cup lemon pepper",
+        "3 tablespoons garlic powder",
+        "2 tablespoons ground black pepper",
+        "1 tablespoon dried oregano",
+        "1 tablespoon cayenne pepper",
+        "2 teaspoons ground cumin",
+        "2 teaspoons ground paprika",
+        "2 teaspoons dried thyme",
+        "2 teaspoons onion powder",
+        "2 cups light beer (such as Coors\u00ae)",
+        "2 cups light beer (such as Bud Light\u00ae)",
+        "2 tablespoons lemon juice, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cajun Stand-Off Beer Batter",
     "url": "http://allrecipes.com/recipe/239058/cajun-stand-off-beer-batter/"
 }

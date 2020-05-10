@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of water to boil. Immerse cabbage in the boiling water, boil for 3 to 5 minutes. Drain well. Remove the 10 largest leaves and cabbage and set aside. Reserve enough cabbage leaves to line the bottom of a large saucepan.",
+        "Bring the 2 1/4 cups of water to a boil. Add rice and return water to a boil. Reduce heat to a simmer, cover rice and let cook until tender. Let rice cool.",
+        "In a large skillet, brown the onion in the 3 tablespoons of butter or margarine.",
+        "In a medium-sized mixing bowl, combine rice, onion, and raw pork. Season with salt and pepper. Divide the filling into 10 parts and spread evenly onto the 10 large cabbage leaves.  Roll firmly, tucking the edges inside.  Arrange a layer of the reserved cabbage leaves on the bottom of a saucepan and place the cabbage rolls over them. Place the mushrooms in the saucepan with the cabbage rolls.  Add 1/4 cup boiling water to the saucepan, sprinkle with salt and let the cabbage rolls simmer over a medium heat until tender, approximately 30 minutes.  If the water boils off, add more water while cooking.",
+        "When the stuffed cabbage is tender, prepare the sauce.  In a skillet, melt remaining butter or margarine and brown flour over a low heat.  Dilute the roux with the remaining cabbage stock from the cabbage roll saucepan.  Bring this mixture to a boil.  Season with tomato paste. Pour the sauce over the stuffed cabbage immediately before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F831596.jpg",
+    "ingredients": [
+        "2 medium heads cabbage",
+        "2\u2009\u00bc cups water",
+        "\u00be cup white rice",
+        "salt and pepper to taste",
+        "3 tablespoons butter",
+        "1  onion, chopped",
+        "\u00be cup ground pork",
+        "2  dried shiitake mushrooms",
+        "\u00bc cup boiling water",
+        "3 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "3 tablespoons tomato paste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Cabbage/Golabki",
     "url": "http://allrecipes.com/recipe/17026/stuffed-cabbagegolabki/"
 }

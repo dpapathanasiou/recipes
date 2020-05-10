@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare the mascarpone glaze by whisking together the mascarpone cheese, 1/4 cup creme fraiche, 2 tablespoons white sugar, 1/2 teaspoon vanilla extract, and lemon zest in a bowl until smooth. Set aside.",
+        "Prepare the pancake batter by whisking the flour, baking powder, baking soda, salt, 3 tablespoon sugar, and cocoa powder together in a bowl; set aside. Beat the egg in a separate bowl with the buttermilk, 1/4 cup creme fraiche, red food coloring, and 1 teaspoon vanilla extract until smooth. Stir in the flour mixture until moistened, then add the melted butter, and continue stirring until only small lumps of flour remain. If batter appears a little thick, add more buttermilk.",
+        "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle, and cook until bubbles form and the edges are dry. Flip, and cook until browned on the other side. Repeat with remaining batter. Drizzle pancakes with the mascarpone glaze to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1504&h=787&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F748258.jpg",
+    "ingredients": [
+        "\u00bd cup mascarpone cheese",
+        "\u00bc cup creme fraiche",
+        "2 tablespoons white sugar",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bd teaspoon lemon zest",
+        "1 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "\u00bc teaspoon baking soda",
+        "\u00bc teaspoon salt",
+        "3 tablespoons white sugar",
+        "2 tablespoons unsweetened cocoa powder",
+        "1  large egg",
+        "\u00be cup buttermilk",
+        "\u00bc cup creme fraiche",
+        "1 tablespoon red food coloring",
+        "1 teaspoon vanilla extract",
+        "3 tablespoons unsalted butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Red Velvet Pancakes",
     "url": "http://allrecipes.com/recipe/218306/red-velvet-pancakes/"
 }

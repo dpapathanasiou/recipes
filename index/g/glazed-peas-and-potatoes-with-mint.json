@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Put peas in a bowl.",
+        "Place potatoes in a pot and cover with lightly salted cold water. Bring to a boil; cook until crisp-tender, 1 to 2 minutes. Drain, pouring enough hot cooking liquid over peas to cover. Let peas stand 30 seconds, then drain and rinse peas under cold water.",
+        "Melt butter in a large skillet over high heat. Add peas, potatoes, broth, and salt. Cook, stirring, until liquid reduces to a glaze, 5 to 7 minutes.",
+        "Stir in parsley and mint."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3678637.jpg",
+    "ingredients": [
+        "2 cups shelled fresh peas",
+        "\u00be pound new or red potatoes, unpeeled, cut into 1/2-inch cubes",
+        "2 tablespoons unsalted butter",
+        "\u00bd cup low-sodium vegetable or chicken broth",
+        "\u00bd teaspoon salt",
+        "1 tablespoon chopped fresh parsley",
+        "1 tablespoon thinly sliced fresh mint"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Glazed Peas and Potatoes with Mint",
     "url": "http://allrecipes.com/recipe/246447/glazed-peas-and-potatoes-with-mint/"
 }

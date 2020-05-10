@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 425 degrees F (220 degrees C).",
+        "Heat the butter in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Reduce heat to medium-low, and continue cooking and stirring until the onion is very tender and dark brown, 15 to 20 minutes more. Stir in the flour; cook and stir for a few minutes, then gradually add the beef broth and water. Bring to a boil, then simmer for 20 minutes.",
+        "Arrange French bread slices on a baking sheet, and sprinkle with Parmesan and Swiss cheese.",
+        "Bake in the preheated oven until the cheese is lightly browned and melted, about 10 minutes. Divide the soup into 6 bowls, and top with the cheesy bread."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5190410.jpg",
+    "ingredients": [
+        "\u00bc cup butter",
+        "2 large red onions, thinly sliced",
+        "2 tablespoons all-purpose flour",
+        "2 (10.5 ounce) cans beef broth",
+        "2\u2009\u00bd cups water",
+        "6  slices French bread, toasted",
+        "\u00bd cup grated Parmesan cheese",
+        "\u00bd cup shredded Swiss cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marielle's French Onion Soup",
     "url": "http://allrecipes.com/recipe/218727/marielles-french-onion-soup/"
 }

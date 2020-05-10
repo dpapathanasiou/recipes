@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the pork chops, lemon juice, Worcestershire sauce, vegetable oil, and garlic in a large resealable plastic bag. Squeeze as much excess air from bag as possible. Marinate in refrigerator 4 to 24 hours.",
+        "Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+        "Remove the pork chops from the marinade directly to the grill. Discard the marinade.",
+        "Cook until the pork is no longer pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1900&h=995&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2531184.jpg",
+    "ingredients": [
+        "4  boneless pork chops",
+        "\u00bd cup lemon juice",
+        "\u00bd cup Worcestershire sauce",
+        "\u00bd cup vegetable oil",
+        "1 tablespoon minced garlic (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Delicious Tangy Pork Chops",
     "url": "http://allrecipes.com/recipe/218085/delicious-tangy-pork-chops/"
 }

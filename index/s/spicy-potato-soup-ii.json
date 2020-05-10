@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown beef and onion, drain.",
+        "Add water, pepper, potatoes, tomato sauce, salt, and Tabasco sauce. Bring to boil. Reduce heat to medium and simmer one hour or until potatoes are tender and soup is thick."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2995&h=1568&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3355808.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1  onion, chopped",
+        "4 cups water",
+        "1\u2009\u00bd teaspoons ground black pepper",
+        "4 cups cubed potatoes",
+        "3 (8 ounce) cans tomato sauce",
+        "2 teaspoons salt",
+        "\u00bd teaspoon hot pepper sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Potato Soup II",
     "url": "http://allrecipes.com/recipe/13025/spicy-potato-soup-ii/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the garlic, balsamic vinegar, olive oil, red pepper flakes, rosemary, and salt and pepper into a shallow bowl in that order. To serve, spoon small amount onto bread."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/582109.jpg",
+    "ingredients": [
+        "3 large cloves garlic, minced",
+        "2 tablespoons balsamic vinegar",
+        "5 tablespoons extra-virgin olive oil",
+        "1/2 teaspoon crushed red pepper flakes",
+        "1 teaspoon fresh rosemary, chopped",
+        "1 pinch salt and black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "A-Plus Italian Olive Oil Balsamic Bread Dip",
     "url": "http://allrecipes.com/recipe/214601/a-plus-italian-olive-oil-balsamic-bre/"
 }

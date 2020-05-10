@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium heat; add diced pork, cumin, and salt and pepper to taste.  Cook, stirring frequently, until evenly browned.",
+        "Transfer pork to a large pot. Stir in hominy and 3 cups water.  Cook over medium heat for 1 hour.",
+        "While pork and hominy are cooking, place chiles in a small saucepan with 2 cups water.  Boil for 45 minutes, covered. Drain, and remove stems. Place chiles in a blender with 1/4 cup water, onion, and garlic.  Blend until smooth (you may still see seeds).  Set aside.",
+        "Serve pork and hominy soup in bowls, garnished with lime juice, cilantro, cabbage. For spicy soup, stir one teaspoon of chile into each bowl of soup."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4461023.jpg",
+    "ingredients": [
+        "1 (2 pound) pork roast, diced",
+        "1 tablespoon ground cumin",
+        "salt and pepper",
+        "1 tablespoon olive oil",
+        "2 (15.5 ounce) cans white hominy",
+        "20  dried chile de arbol peppers",
+        "water",
+        "1\u2009\u00bc cups finely chopped onion",
+        "1 teaspoon minced garlic",
+        "12  corn tortillas, warmed",
+        "2  limes, quartered",
+        "1 bunch fresh cilantro, chopped",
+        "1\u2009\u00bd cups shredded cabbage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork and Hominy Stew",
     "url": "http://allrecipes.com/recipe/45048/pork-and-hominy-stew/"
 }

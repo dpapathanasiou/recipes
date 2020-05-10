@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8x8 inch baking dish.",
+        "Soak farfel in water 10 minutes. Drain.",
+        "Add beaten eggs into the bowl of farfel,  and let stand 10 minutes. Stir in raisins, salt, sugar, cinnamon, and butter. Transfer mixture to prepared dish.",
+        "Bake at 350 degrees F (175 degrees C) for 50 to 60 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F34818.jpg",
+    "ingredients": [
+        "2 cups farfel",
+        "6  eggs, beaten",
+        "\u00bd cup raisins",
+        "\u00bd teaspoon salt",
+        "1 cup white sugar",
+        "2 tablespoons ground cinnamon",
+        "4 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Raisin Farfel Kugel",
     "url": "http://allrecipes.com/recipe/16071/raisin-farfel-kugel/"
 }

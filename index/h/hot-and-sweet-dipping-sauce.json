@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the vinegar to a boil in a small, non-reactive pot, and mix in sugar until dissolved. Reduce heat to low, simmer 5 minutes, and remove from heat. Mash the garlic and salt into a smooth paste, and mix into the pot. Stir in the red pepper flakes.  Cool to room temperature before using, or store up to 2 days in the refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2539&h=1329&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F370691.jpg",
+    "ingredients": [
+        "\u00bd cup rice vinegar",
+        "\u00bd cup white sugar",
+        "1 clove garlic, minced",
+        "\u00bc teaspoon salt",
+        "1\u2009\u00bd teaspoons dried red pepper flakes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot and Sweet Dipping Sauce",
     "url": "http://allrecipes.com/recipe/79735/hot-and-sweet-dipping-sauce/"
 }

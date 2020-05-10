@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl dissolve sugar in 1/2 cup warm water. To proof yeast, stir in yeast and let stand for 5 to 10 minutes in a warm place.",
+        "Preheat oven to 105 degree F (40 degrees C). Warm an oven-safe bowl in the oven.",
+        "Place flour in bowl of food processor. Add salt and pulse for a few seconds.",
+        "Start food processor. Pour proofed yeast into flour through hole. Immediately add the additional 3/4 cup warm water, then the olive oil. Process for about 1 minute or until dough ball cleans the sides of the processor bowl. If dough is too wet add a little flour through the top while processing, or if too dry, add a little more water.",
+        "Turn off food processor. Remove lid and transfer dough to the heated bowl. Cover with a plate or plastic wrap.",
+        "Let rise for a half hour in a warm place, like the lukewarm oven.",
+        "In a small bowl, combine minced garlic and chopped olives. Set aside.",
+        "Once dough has risen, transfer dough to a lightly floured board. Make an indentation in the dough and place olive mixture inside. Knead dough 10 times. Bulk of mixture should remain in middle of dough. Form dough into a log or round loaf shape.",
+        "Grease a pie pan (for a round loaf) or a baking sheet (for a log) and dust with cornmeal. Place loaf on prepared pan, cover with greased plastic wrap, and let rise until doubled, about 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Bake bread in preheated oven until browned and loaf sounds hollow when tapped, about 30 minutes. Remove from oven and cool on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F870418.jpg",
+    "ingredients": [
+        "4 cups all-purpose flour",
+        "\u00bd cup warm water (110 degrees F/45 degrees C)",
+        "1 tablespoon white sugar",
+        "1 tablespoon active dry yeast",
+        "1 tablespoon non-iodized salt",
+        "\u00be cup warm water (110 degrees F/45 degrees C)",
+        "3 tablespoons olive oil",
+        "5 cloves garlic, minced",
+        "\u00bd cup pitted Kalamata olives, chopped",
+        "1 tablespoon cornmeal"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kalamata Olive and Garlic Bread",
     "url": "http://allrecipes.com/recipe/7209/kalamata-olive-and-garlic-bread/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Season seitan slices with parsley, 1/2 of the lemon juice, garlic powder, salt, and black pepper. Fold each slice in half, seasoned-side facing inwards, and place in a 9x13-inch baking dish.",
+        "Sprinkle remaining lemon juice over artichoke hearts; spread artichokes out between seitan slices.",
+        "Stir spicy tomato sauce and wine together in a bowl; pour over seitan and artichokes. Toss croutons and olive oil together in another bowl. Spread croutons and mozzarella cheese over tomato sauce.",
+        "Bake in the preheated oven until golden brown and bubbly, 30 to 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2141807.jpg",
+    "ingredients": [
+        "1 1/2 pounds seitan, cut into 1/4-pound, hand-size slices",
+        "1/2 cup finely chopped fresh parsley",
+        "1 lemon, juiced, divided",
+        "1 pinch garlic powder, or to taste",
+        "salt and ground black pepper to taste",
+        "16 ounces drained artichoke hearts",
+        "1 (26 ounce) jar spicy tomato sauce (such as diavolo)",
+        "1/2 cup red wine",
+        "1 1/2 cups onion and garlic-flavored croutons",
+        "1 tablespoon olive oil",
+        "2 cups shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seitan Diavolo",
     "url": "http://allrecipes.com/recipe/238664/seitan-diavolo/"
 }

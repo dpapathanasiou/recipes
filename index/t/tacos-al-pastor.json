@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak pasilla chiles and guajillo chiles in a bowl with hot water until chiles are softened, about 10 minutes; drain. Mash chiles, garlic, achiote powder, cumin, and cloves in a saucepan with a fork.",
+        "Pour vinegar into sauce pan and bring to a boil; cook and stir until mixture becomes a thick paste. Season with salt. Rub chile paste over sliced pork, stacking meat on a plate. Cover and marinate in the refrigerator for 8 hours to overnight.",
+        "Heat a large skillet over medium-high heat; cook and stir marinated pork and pineapple until pork is browned, 7 to 10 minutes. Divide pork over stacks of two corn tortillas and serve with onion, cilantro, and lime wedges."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5315431.jpg",
+    "ingredients": [
+        "8  dried pasilla chiles, seeded and torn to pieces",
+        "8  dried guajillo chiles, seeded and torn to pieces",
+        "8 cloves garlic, chopped",
+        "1 teaspoon achiote powder",
+        "\u00bd teaspoon ground cumin",
+        "5  whole cloves",
+        "1 cup white vinegar",
+        "salt to taste",
+        "2 pounds pork tenderloin, thinly sliced",
+        "\u00bd cup chopped pineapple",
+        "32 (5 inch) corn tortillas",
+        "1 small onion, chopped",
+        "\u00bd cup chopped fresh cilantro",
+        "4  limes, cut in wedges"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tacos al Pastor",
     "url": "http://allrecipes.com/recipe/223172/tacos-al-pastor/"
 }

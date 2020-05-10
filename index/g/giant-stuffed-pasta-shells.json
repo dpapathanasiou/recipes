@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook pasta shells in boiling water, stirring occasionally, until cooked through but firm to the bite, about 8 minutes; drain.",
+        "Heat olive oil in a large skillet over medium-high heat. Cook and stir mushrooms and garlic in hot oil until mushrooms are soft, about 7 minutes. Stir spinach and thyme into the mushroom mixture; season with salt and pepper. Cook and stir the mixture until the spinach wilts. Remove the skillet from heat and drain any excess liquid; transfer drained mixture to a large bowl.",
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Mix ricotta cheese, 3/4 cup mozzarella cheese, and 1/2 cup Parmesan cheese with the spinach mixture; season again with salt and pepper and stuff into pasta shells.",
+        "Arrange stuffed shells into a 9x11-inch baking dish. Pour pasta sauce over the shells; top with 1/4 cup mozzarella cheese and 1/4 cup Parmesan cheese.",
+        "Bake in preheated oven until the cheese is melted and the shells are hot, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6575664.jpg",
+    "ingredients": [
+        "24  lumaconi pasta shells",
+        "3 tablespoons olive oil",
+        "1 (8 ounce) package button mushrooms, chopped",
+        "3 cloves garlic",
+        "1 (10 ounce) bag baby spinach",
+        "2 teaspoons ground thyme",
+        "salt and ground black pepper, to taste",
+        "2 cups ricotta cheese",
+        "\u00be cup shredded mozzarella cheese",
+        "\u00bd cup grated Parmesan cheese",
+        "1 (28 ounce) jar pasta sauce",
+        "\u00bc cup shredded mozzarella cheese",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Giant Stuffed Pasta Shells",
     "url": "http://allrecipes.com/recipe/228497/giant-stuffed-pasta-shells/"
 }

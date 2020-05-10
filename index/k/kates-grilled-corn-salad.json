@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Bring a large pot of water to a boil. Add corn; cook until tender, about 6 minutes. Drain.",
+        "Cook corn on the preheated grill until lightly golden, about 5 minutes. Cool until easily handled, 5 to 10 minutes.",
+        "Cut corn kernels off the cob with a sharp knife. Transfer to a large bowl; add tomato, Monterey Jack cheese, orange bell pepper, cucumber, and cilantro. Stir in balsamic vinegar, sea salt, pepper, and garlic powder; mix to combine."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5832&h=3053&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3818996.jpg",
+    "ingredients": [
+        "6 ears corn",
+        "1  tomato, finely chopped",
+        "5 ounces Monterey Jack cheese, cut into small cubes",
+        "1  orange bell pepper, finely chopped",
+        "\u00bd  cucumber, finely chopped",
+        "2 tablespoons finely chopped cilantro",
+        "1 tablespoon balsamic vinegar",
+        "1\u2009\u00bd teaspoons coarse sea salt",
+        "freshly cracked black pepper to taste",
+        "1 pinch garlic powder, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kate's Grilled Corn Salad",
     "url": "http://allrecipes.com/recipe/254768/kates-grilled-corn-salad/"
 }

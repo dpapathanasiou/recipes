@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F.",
+        "In 12-inch oven-proof or cast-iron skillet over medium heat, in hot oil, cook onion, red pepper and garlic about 5 minutes until tender-crisp, stirring occasionally. Stir in cumin and hot pepper sauce; cook 1 minute.",
+        "Add crushed tomatoes, green chilies, salt and pepper. Over high heat, heat to boiling; simmer 6 to 8 minutes until mixture has thickened and flavors are blended.",
+        "Make 6 indentations in tomato sauce. Gently crack eggs into indentations. Place skillet in oven; bake 5 to 10 minutes, just until eggs are just set. Sprinkle with chopped parsley."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3111896.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 medium onion, diced",
+        "1 red bell pepper - cored, seeded and diced",
+        "2 garlic cloves, minced",
+        "1 teaspoon ground cumin",
+        "1/8 teaspoon hot pepper sauce (such as Tabasco\u00ae)",
+        "1 (28 ounce) can crushed tomatoes",
+        "1 (4.5 ounce) can chopped green chiles, drained",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "6 large eggs",
+        "1 tablespoon chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggs in Purgatory (Shakshuka)",
     "url": "http://allrecipes.com/recipe/245881/eggs-in-purgatory-shakshuka/"
 }

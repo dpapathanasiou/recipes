@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Add water, oil, brown sugar, bread flour, gluten flour, milk powder, mixed spice, and yeast into the bread machine pan in the order suggested by the manufacturer.  Select Fruit setting or the setting for Basic White Bread.  Press Start.",
+        "If your machine has a Fruit setting, add the golden raisins and peel at the signal, or around 5 minutes before the kneading cycle has finished."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F229388.jpg",
+    "ingredients": [
+        "1.063 cups water",
+        "1\u2009\u00bd tablespoons vegetable oil",
+        "2 tablespoons brown sugar",
+        "3\u2009\u00bc cups bread flour",
+        "2 tablespoons bread flour",
+        "3 tablespoons dry milk powder",
+        "1 tablespoon pumpkin pie spice",
+        "2 teaspoons active dry yeast",
+        "\u00be cup golden raisins",
+        "2\u2009\u2154 tablespoons candied mixed fruit peel"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruit Loaf",
     "url": "http://allrecipes.com/recipe/6949/fruit-loaf/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Set the oven rack about 6 inches from the heat source and preheat the oven's broiler. Remove all meat from cooked turkey carcass and set aside. Arrange bones in a roasting pan and broil until browned on both sides.",
+        "Transfer browned bones to large stock pot and cover with 6 quarts of water. Trim, peel, and chop the onions, carrots, and celery; add peels and ends of raw onions, celery, and carrots to the stock pot and reserve the cleaned vegetables for the soup. Simmer bones and vegetable scraps for 1 hour.  Turn off the heat and allow stock to cool for 20 minutes. Strain the stock, discarding the bones and vegetable scraps. Remove the fat from the stock by refrigerating the stock overnight and removing the hardened fat layer from the top or by skimming the fat from the top of the liquid with a ladle.",
+        "Combine leftover stuffing and egg whites in a large bowl. Form the stuffing mixture into small balls and place on a microwave-safe plate. Microwave the dumplings on High for 1 1/2 to 2 minutes. Heat a large skillet over medium heat, and coat with cooking spray. Add the dumplings and cook until the are golden brown on all sides. Remove from pan and set aside.",
+        "Add the reserved and chopped turkey meat, onions, celery, and carrots to the strained soup stock; simmer for 1 hour. Stir in the peas, corn, green beans, and turnips; simmer until the vegetables are tender. Pour in the jellied and whole berry cranberry sauces, poultry seasoning, salt, and pepper; stir. When the cranberry sauce has dissolved into the soup add the cooked dumplings and heat through."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/807253.jpg",
+    "ingredients": [
+        "1 roast turkey carcass",
+        "6 quarts water",
+        "4 medium onions",
+        "6 medium carrots",
+        "5 stalks celery",
+        "6 cups leftover stuffing",
+        "6 egg whites",
+        "cooking spray",
+        "1 cup peas",
+        "1 cup corn kernels",
+        "1 cup cubed turnips",
+        "1 cup fresh green beans, trimmed",
+        "1 (16 ounce) can jellied cranberry sauce",
+        "1 (16 ounce) can whole berry cranberry sauce",
+        "1 tablespoon poultry seasoning, such as Bell's",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Soup with Dressing Dumplings",
     "url": "http://allrecipes.com/recipe/95012/turkey-soup-with-dressing-dumplings/"
 }

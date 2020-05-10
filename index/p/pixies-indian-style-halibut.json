@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the water and 1 tablespoon salt in a shallow container. Soak the fish in the salt water for 10 minutes.",
+        "Mix the turmeric, coriander, paprika, and 1/2 teaspoon salt in a small bowl. Remove fish from the salt water and pat dry with paper towels. Coat fish on both sides with spice mixture.",
+        "Heat the olive oil in a small skillet over medium heat. Cook fish in hot oil until it flakes easily with a fork, about 3 minutes per side. Serve garnished with cilantro."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1025307.jpg",
+    "ingredients": [
+        "2 cups water",
+        "1 tablespoon kosher salt",
+        "2 (4 ounce) fillets halibut",
+        "1 1/2 teaspoons ground turmeric",
+        "2 tablespoons ground coriander",
+        "1 1/2 teaspoons paprika",
+        "1/2 teaspoon kosher salt",
+        "2 tablespoons olive oil",
+        "1 sprig cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pixie's Indian Style Halibut",
     "url": "http://allrecipes.com/recipe/207346/pixies-indian-style-halibut/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the cucumber, tomato, and radish in a bowl with the green onion, mint, and parsley.  In a small bowl, stir together the garlic, tahini, lemon juice, and olive oil until smooth; season to taste with salt.",
+        "Toss the vegetables with the dressing until combined.  Cover, and refrigerate for 30 minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/581950.jpg",
+    "ingredients": [
+        "2 pickle-size Persian cucumbers, diced",
+        "1 large tomato, diced",
+        "3 radishes, diced (optional)",
+        "1 green onion, sliced",
+        "10 mint leaves, sliced",
+        "1/3 bunch parsley, chopped",
+        "1 clove garlic, minced",
+        "3/4 cup tahini",
+        "1/4 cup lemon juice",
+        "2 tablespoons olive oil",
+        "Salt, to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tahini Salad",
     "url": "http://allrecipes.com/recipe/105926/tahini-salad/"
 }

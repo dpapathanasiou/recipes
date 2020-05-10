@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C) , halve all peppers (remove seeds)  and peel garlic.",
+        "Place halved peppers, cut side up in shallow baking dish.  Place one garlic clove in each half and squeeze lemon juice generously over peppers. Roast for 1 hour.",
+        "Meanwhile pour vegetable broth into a 2 quart sauce pan and add fennel seeds.  Bring to boil, cover and simmer.",
+        "When peppers are done, remove from oven and set aside to cool.  When cool enough to touch peel skin from peppers.",
+        "Strain fennel seeds from broth and return to a boil.  Add thyme and simmer 15 minutes, reducing amount of broth.",
+        "Slice a 1 inch section from each color of pepper and cut into pieces.  Set aside for later garnishing.",
+        "In a blender, place remaining peppers, garlic  and a 1/2 cup broth on blend just long enough to shred the peppers, but not puree them.  You want to see the different colors.  Pour the blended peppers into the broth and stir well.  Add garlic salt and black pepper to taste, then add garnishing pepper pieces and enjoy.  Do not boil or cook any longer as the colors will fade."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3596854.jpg",
+    "ingredients": [
+        "1 green bell pepper",
+        "1 large red bell pepper",
+        "1 large orange bell pepper",
+        "1 yellow bell pepper",
+        "8 cloves garlic",
+        "1/2 lemon",
+        "3 cups vegetable broth",
+        "1/4 teaspoon garlic salt",
+        "ground black pepper to taste",
+        "1 teaspoon fennel seed",
+        "1/4 teaspoon dried thyme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rainbow Roasted Pepper Soup",
     "url": "http://allrecipes.com/recipe/13263/rainbow-roasted-pepper-soup/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large, heavy nonstick skillet over medium heat. Add bell pepper and onion and stir-fry for 3-4 minutes. Add sausage and stir-fry for 2 minutes. Add zucchini, mushrooms, Italian seasoning and 1/4 tsp black pepper. Stir-fry only until crisp. Remove from heat, add vinegar and toss to coat all ingredients.",
+        "Meanwhile, microwave polenta rounds in covered container for 1 to 2 minutes or until hot throughout. Portion 2 to 3 polenta rounds on each plate and top with sauteed vegetables."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4513585.jpg",
+    "ingredients": [
+        "2 teaspoons garlic oil",
+        "1 large yellow bell pepper, seeded and cut in 2 to 3-inch strips",
+        "1 cup Vidalia, Texas Sweet or other sweet onion variety, cut in thin strips",
+        "1 (12 ounce) package al fresco\u00ae All Natural Roasted Garlic Chicken Sausage, sliced on diagonal in 1/4-inch slices",
+        "1 cup zucchini, sliced on diagonal in 1/4-inch slices",
+        "1 cup packaged sliced button mushrooms",
+        "1 teaspoon Italian seasoning",
+        "2 tablespoons balsamic vinegar",
+        "1 (18 ounce) package pre-cooked sun-dried tomato and garlic polenta, drained and cut into 1/2-inch rounds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Chicken Sausage and Summer Vegetable Saute",
     "url": "http://allrecipes.com/recipe/213087/garlic-chicken-sausage-and-summer-veg/"
 }

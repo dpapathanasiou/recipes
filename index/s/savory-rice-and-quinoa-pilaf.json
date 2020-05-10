@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring vegetable broth to a boil in a large saucepan. Stir in basmati rice, quinoa, tomatoes, raisins, parsley, salt, pepper, allspice, and sage. Reduce heat and simmer until broth is absorbed and quinoa is tender, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3629&h=1900&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4554826.jpg",
+    "ingredients": [
+        "6 cups vegetable broth",
+        "2 cups basmati rice",
+        "1 cup quinoa",
+        "2  tomatoes, chopped (optional)",
+        "\u00bc cup raisins (optional)",
+        "1 tablespoon chopped fresh parsley",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "\u00bd teaspoon ground allspice",
+        "\u00bd teaspoon dried sage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Rice and Quinoa Pilaf",
     "url": "http://allrecipes.com/recipe/255697/savory-rice-and-quinoa-pilaf/"
 }

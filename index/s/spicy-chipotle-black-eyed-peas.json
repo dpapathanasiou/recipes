@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil and balsamic vinegar in a skillet; cook and stir the orange bell pepper, celery, carrot, onion, and garlic in the hot oil until the onion is translucent, 5 to 8 minutes. Transfer the mixture to a slow cooker; mix in the black-eyed peas, water, and vegetable base, stirring to dissolve the vegetable base. Stir in the chipotle peppers, about 1 tablespoon of the reserved adobo sauce (or to taste), liquid smoke, cumin, and black pepper.",
+        "Cook in the slow cooker on Low until the black-eyed peas are very tender and the flavors are blended, about 8 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1620&h=848&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F425006.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 tablespoon balsamic vinegar",
+        "1 cup chopped orange bell pepper",
+        "1 cup chopped celery",
+        "1 cup chopped carrot",
+        "1 cup chopped onion",
+        "1 teaspoon minced garlic",
+        "2 (16 ounce) packages dry black-eyed peas",
+        "4 cups water",
+        "4 teaspoons vegetable bouillon base (such as Better Than Bouillon\u00ae Vegetable Base)",
+        "1 (7 ounce) can chipotle peppers in adobo sauce, chopped, sauce reserved",
+        "2 teaspoons liquid mesquite smoke flavoring",
+        "2 teaspoons ground cumin",
+        "\u00bd teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Chipotle Black-Eyed Peas",
     "url": "http://allrecipes.com/recipe/213028/spicy-chipotle-black-eyed-peas/"
 }

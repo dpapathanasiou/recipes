@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, place the small shrimp. Mash with a fork. Mix in creamy salad dressing, e.g. Miracle Whip \u2122, curry powder and onion. Thoroughly blend. Garnish with paprika. Cover and chill in the refrigerator at least 45 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F263852.jpg",
+    "ingredients": [
+        "1 (6.5 ounce) can small shrimp, drained",
+        "3 tablespoons creamy salad dressing, e.g. Miracle Whip \u2122",
+        "1 tablespoon minced onion",
+        "\u215b teaspoon curry powder",
+        "paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Arlene's Shrimp Dip",
     "url": "http://allrecipes.com/recipe/25520/arlenes-shrimp-dip/"
 }

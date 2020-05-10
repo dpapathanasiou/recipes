@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook the bacon pieces in a large skillet over medium heat until the fat has rendered, and the bacon is crispy, about 8 minutes. Remove the bacon, leaving the grease in the pan. Stir the carrot, celery, and bay leaf into the bacon grease; cook for 5 minutes.",
+        "Meanwhile, melt the butter in a large pot over medium-low heat. Whisk in the flour, and cook for 5 minutes, stirring constantly. Slowly whisk in the milk, and bring to a simmer over medium-high heat. Once simmering, cook for 5 minutes, whisking frequently. Add the bacon, cooked vegetables, potatoes, and corn. Return to a simmer, then reduce heat to medium-low, and cook until the potatoes are tender, about 20 minutes more. Use additional milk as needed to to achieve desired consistency. Garnish with paprika to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4602827.jpg",
+    "ingredients": [
+        "\u00bd pound thick sliced bacon, cut into 1/2-inch pieces",
+        "2  carrots, diced",
+        "4 stalks celery, chopped",
+        "1  bay leaf",
+        "2 tablespoons butter",
+        "2 tablespoons flour",
+        "4 cups milk",
+        "2 large potatoes, peeled and diced",
+        "1 (15.25 ounce) can whole kernel corn, drained",
+        "1 pinch paprika (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato, Bacon, and Corn Chowder",
     "url": "http://allrecipes.com/recipe/165756/potato-bacon-and-corn-chowder/"
 }

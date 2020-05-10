@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Top each cake with about 2 tablespoons whipped topping. Distribute strawberries, raspberries, and blackberries on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7894608.jpg",
+    "ingredients": [
+        "12  packaged sponge cake shells",
+        "1 (8 ounce) container frozen whipped topping (such as Cool Whip\u00ae), thawed",
+        "1 quart fresh strawberries, hulled and halved",
+        "1 pint fresh raspberries",
+        "1 pint fresh blackberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Berries and Cream Shortcake On The Go",
     "url": "http://allrecipes.com/recipe/254245/berries-and-cream-shortcake-on-the-go/"
 }

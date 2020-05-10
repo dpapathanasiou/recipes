@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). In a medium bowl, combine cookie crumbs and butter. Press onto bottom of 9 inch springform pan. Bake in preheated oven for 10 minutes.",
+        "In large bowl combine cream cheese, sugar, and flour. Mix at medium speed until well blended. Stir in eggs one at a time. Blend in sour cream and vanilla. Stir in chocolate chips. Pour batter over baked crust.",
+        "Bake in preheated oven for 55 minutes. Allow to cool completely before removing from pan. Store in refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2128402.jpg",
+    "ingredients": [
+        "1 cup chocolate cookie crumbs",
+        "3 tablespoons butter, melted",
+        "3 (8 ounce) packages cream cheese, softened",
+        "\u00be cup white sugar",
+        "\u00bc cup all-purpose flour",
+        "3  eggs",
+        "\u00bd cup sour cream",
+        "1 teaspoon vanilla extract",
+        "1 cup miniature semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Chip Cheesecake II",
     "url": "http://allrecipes.com/recipe/17833/chocolate-chip-cheesecake-ii/"
 }

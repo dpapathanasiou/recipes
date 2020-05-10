@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together hummus and TABASCO\u00ae Chipotle Sauce until well combined. Serve immediately with pita chips or raw vegetables or refrigerate until ready to use."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (16 ounce) container store-bought hummus",
+        "2 tablespoons TABASCO\u00ae brand Chipotle Pepper Sauce",
+        "Pita chips or raw vegetables"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "1-Step Chipotle Hummus",
     "url": "http://allrecipes.com/recipe/239397/1-step-chipotle-hummus/"
 }

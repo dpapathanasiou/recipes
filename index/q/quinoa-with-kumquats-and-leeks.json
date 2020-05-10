@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a skillet over medium heat; cook and stir leek, garlic, and kumquats until brown, 5 to 10 minutes. Season with salt.",
+        "Cook and stir quinoa into kumquat mixture until quinoa is toasted, about 1 minute; add chicken stock and bring to a boil. Reduce heat to low, cover, and simmer until quinoa has absorbed the chicken stock, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1110263.jpg",
+    "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "1  leek, thinly sliced",
+        "3 cloves garlic, thinly sliced",
+        "8  kumquats, thinly sliced",
+        "salt to taste",
+        "1 cup quinoa",
+        "2 cups chicken stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quinoa with Kumquats and Leeks",
     "url": "http://allrecipes.com/recipe/221921/quinoa-with-kumquats-and-leeks/"
 }

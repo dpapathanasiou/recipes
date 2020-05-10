@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat a large nonstick skillet over medium-high heat. Stir in the ground beef, and cook until brown and crumbly. Pour off excess grease, then stir in garlic, onion, and tomatoes. Cook and stir until the onions soften just a bit, about 3 minutes. Stir the cheese into the mixture, and set aside.",
+        "Cut the tops off of the peppers, and remove the veins and seeds. Fill each pepper with the ground beef mixture and pour in some of the chicken broth. Place into the cups of a muffin tin, and replace the tops.",
+        "Bake in preheated oven 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5071001.jpg",
+    "ingredients": [
+        "1\u2009\u00bc pounds ground beef",
+        "3 cloves garlic, minced",
+        "1  onion, diced",
+        "1 (15.5 ounce) can diced tomatoes",
+        "1 cup shredded Cheddar cheese",
+        "1\u2009\u00bd cups chicken broth",
+        "6  red bell peppers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Simple and Easy Stuffed Peppers",
     "url": "http://allrecipes.com/recipe/105016/simple-and-easy-stuffed-peppers/"
 }

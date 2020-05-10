@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small saucepan, dissolve 2 teaspoons of the bouillon granules in 1/4 cup boiling water. In a large bowl, combine ground beef, bread crumbs, onion, and egg. Mix in the dissolved bouillon. Shape into meatballs, about 1 to 2  inches in diameter.",
+        "In a large saucepan over medium heat, brown the meatballs on all sides. In a small bowl, combine 1/4 cup of the reserved pineapple juice, lemon juice, brown sugar, soy sauce, remaining beef bouillon granules, and ginger. Pour into the pan with meatballs. Cover, and simmer for 25 minutes.",
+        "In a small bowl, combine remaining pineapple juice and cornstarch. Stir into meatball mixture, and simmer until thickened. Add green pepper and pineapple chunks; heat thoroughly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1184024.jpg",
+    "ingredients": [
+        "5 teaspoons beef bouillon granules, divided",
+        "\u00bc cup boiling water",
+        "1\u2009\u00bd pounds lean ground beef",
+        "1 cup dry bread crumbs",
+        "\u00be cup minced onion",
+        "1  egg",
+        "1 (20 ounce) can pineapple chunks, drained with juice reserved",
+        "\u2153 cup fresh lemon juice",
+        "3 tablespoons packed brown sugar",
+        "2 tablespoons soy sauce",
+        "1 teaspoon grated fresh ginger root",
+        "2 tablespoons cornstarch",
+        "1  green bell pepper, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Sour Meatballs IV",
     "url": "http://allrecipes.com/recipe/26664/sweet-and-sour-meatballs-iv/"
 }

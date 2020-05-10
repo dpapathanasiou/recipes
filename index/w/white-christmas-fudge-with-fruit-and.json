@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line a 9-inch square pan with a piece of aluminum foil long enough to extend over the sides of the pan by several inches and generously grease the foil with butter.",
+        "Mix confectioners' sugar with milk and 1/4 cup butter in a large, heavy saucepan over medium heat, stirring until combined; bring to a full rolling boil. Boil fudge for 5 minutes without stirring. Reduce heat to low and stir in white chocolate until melted and combined.",
+        "Remove from heat and stir in almond extract, sliced almonds, dried apricots, dried cherries, and dried cranberries. Spread fudge into the prepared pan and refrigerate until set, about 2 hours. Lift the fudge out of the pan using the foil and peel foil from fudge. Discard foil; cut fudge into 1-inch pieces. Store in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 1/2 cups confectioners' sugar",
+        "2/3 cup milk",
+        "1/4 cup butter",
+        "2 (6 ounce) packages white chocolate, chopped",
+        "1/4 teaspoon almond extract",
+        "3/4 cup toasted sliced almonds",
+        "1/4 cup chopped dried apricots",
+        "1/4 cup dried cherries",
+        "1/4 cup sweetened dried cranberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Christmas Fudge With Fruit and Nuts",
     "url": "http://allrecipes.com/recipe/228783/white-christmas-fudge-with-fruit-and/"
 }

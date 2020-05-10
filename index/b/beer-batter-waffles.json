@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat a waffle iron according to manufacturer's instructions. Combine flour, beer, butter, milk, egg yolks, honey, and vanilla in a large bowl; stir until the mixture is smooth. In a separate bowl, beat egg whites until stiff peaks form. Gently fold egg whites into batter.",
+        "Spray preheated waffle iron with non-stick cooking spray. Ladle the batter into waffle iron. Cook the waffles until golden and crisp. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1843345.jpg",
+    "ingredients": [
+        "2 cups self-rising flour",
+        "1 (12 fluid ounce) can or bottle beer",
+        "1/2 cup unsalted butter, melted",
+        "1/4 cup milk",
+        "2 eggs, separated",
+        "1 tablespoon honey",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beer Batter Waffles",
     "url": "http://allrecipes.com/recipe/179991/beer-batter-waffles/"
 }

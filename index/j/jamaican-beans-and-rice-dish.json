@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine beans and coconut milk in a large saucepan; cook for 2 hours on low heat.",
+        "Stir in thyme, garlic, onions and 3 slices chile pepper; simmer for 7 minutes.  Stir in rice and bring to a boil.  Reduce heat, cover and simmer for 25 minutes, or until all liquid is absorbed and rice is tender."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/542510.jpg",
+    "ingredients": [
+        "1 1/4 cups dry kidney beans",
+        "1 cup coconut milk",
+        "1 sprig fresh thyme",
+        "1 teaspoon minced garlic",
+        "1/8 cup chopped green onions",
+        "1 hot red chile pepper, sliced",
+        "2 1/4 cups uncooked brown rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jamaican Beans and Rice Dish",
     "url": "http://allrecipes.com/recipe/25343/jamaican-beans-and-rice-dish/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine the cucumbers, onion, salad dressing and salt and pepper. Mix together and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/19461.jpg",
+    "ingredients": [
+        "5 cucumbers, peeled and thinly sliced",
+        "1 red onion, thinly sliced",
+        "3/4 cup creamy salad dressing",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumber Salad II",
     "url": "http://allrecipes.com/recipe/14327/cucumber-salad-ii/"
 }

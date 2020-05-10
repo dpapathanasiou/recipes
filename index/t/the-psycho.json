@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour vodka into an 8 ounce glass. Fill glass nearly to brim with cola. Add absinthe. Do not stir."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/624915.jpg",
+    "ingredients": [
+        "4 (1.5 fluid ounce) jiggers vodka, chilled",
+        "1 (12 fluid ounce) can cola-flavored carbonated beverage",
+        "3/4 fluid ounce absinthe"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Psycho",
     "url": "http://allrecipes.com/recipe/47106/the-psycho/"
 }

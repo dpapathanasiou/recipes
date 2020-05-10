@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a large skillet over medium heat. Stir in the apple and onion; cook and stir until the onion has softened and turned translucent, about 10 minutes. Stir in the flour, chicken broth, and half-and-half, cooking until the sauce has thickened, about 5 minutes. Season with curry powder, salt, ground ginger, and cayenne pepper. Add the chicken, then cover and cook until the chicken is longer pink in the center, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F663319.jpg",
+    "ingredients": [
+        "\u00bc cup butter",
+        "1  apple - peeled, cored and finely chopped",
+        "\u00bc cup chopped onion",
+        "3 tablespoons all-purpose flour",
+        "1\u2009\u00bd cups chicken broth",
+        "\u00bd cup half-and-half cream",
+        "4 teaspoons curry powder",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground ginger",
+        "\u215b teaspoon cayenne pepper",
+        "3 cups cubed skinless, boneless chicken"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Ribbon Curry Chicken",
     "url": "http://allrecipes.com/recipe/217830/blue-ribbon-curry-chicken/"
 }

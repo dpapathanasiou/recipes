@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease 36 muffin cups.",
+        "Whisk self-rising flour, 2 1/2 cups sugar, and pumpkin pie spice in a large bowl; stir pumpkin, eggs, and vegetable oil into dry ingredients until batter is smooth. Scoop batter into prepared muffin cups. Stir 2 tablespoons sugar with cinnamon in a small bowl and sprinkle the cinnamon sugar over the muffins.",
+        "Bake in the preheated oven until muffins are lightly golden brown and a toothpick inserted into the center of a muffin comes out clean, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1036245.jpg",
+    "ingredients": [
+        "3 cups self-rising flour",
+        "2\u2009\u00bd cups white sugar",
+        "2 tablespoons pumpkin pie spice",
+        "1 (15 ounce) can pumpkin puree",
+        "4  eggs",
+        "\u2154 cup vegetable oil",
+        "2 tablespoons white sugar",
+        "1 tablespoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Judy's Pumpkin Muffins",
     "url": "http://allrecipes.com/recipe/229968/judys-pumpkin-muffins/"
 }

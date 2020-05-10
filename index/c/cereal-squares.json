@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine oat cereal, corn flake cereal, and peanuts together in a large bowl.",
+        "Mix brown sugar, corn syrup, and butter together in a saucepan; bring to a boil. Remove from heat and stir in peanut butter and vanilla extract until smooth. Pour peanut butter mixture over cereal mixture; stir to coat. Press coated cereal mixture into a 9x13-inch casserole dish. Refrigerate until set, at least 1 hour. Cut into squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2176&h=1139&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F972120.jpg",
+    "ingredients": [
+        "3 cups toasted oat cereal (such as Cheerios\u00ae)",
+        "3 cups corn flake cereal",
+        "1 cup peanuts",
+        "1 cup brown sugar",
+        "\u00bd cup corn syrup",
+        "\u00bd cup butter",
+        "\u00bd cup peanut butter",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cereal Squares",
     "url": "http://allrecipes.com/recipe/230518/cereal-squares/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Use a metal skewer to poke some holes throughout beef rib roast so marinade can penetrate the muscle.",
+        "Whisk together beer, honey, soy sauce, Montreal steak seasoning, and garlic in a bowl; pour into a large resealable plastic bag. Add the rib roast, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in refrigerator at least 24 hours.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Remove rib roast from the marinade. Discard remaining marinade. Place roast into a roasting pan with a rack.",
+        "Cook the roast until hot and slightly pink in the center, about 2 1/2 hours. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C). Remove from oven, cover with aluminum foil, and let rest on top of stove for 20 minutes before slicing and serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4503807.jpg",
+    "ingredients": [
+        "5 pounds beef rib roast",
+        "1 (12 fluid ounce) can or bottle beer (such as Rickard's\u00ae Red)",
+        "\u00bd cup honey",
+        "\u00bd cup soy sauce",
+        "\u00bc cup Montreal steak seasoning",
+        "2 teaspoons minced garlic"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy, Mouthwatering Roast Beef",
     "url": "http://allrecipes.com/recipe/228506/easy-mouthwatering-roast-beef/"
 }

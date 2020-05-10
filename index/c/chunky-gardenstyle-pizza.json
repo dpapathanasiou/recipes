@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F. Arrange pizza crust on ungreased baking sheet. Evenly spread Sauce on crust, then top with pizza toppings and cheese.",
+        "Bake 10 minutes or until cheese is melted."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1  (10-inch) prebaked pizza crust",
+        "1 cup Ragu\u00ae Sauce",
+        "Your favorite pizza toppings (optional)",
+        "1 cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chunky Gardenstyle Pizza",
     "url": "http://allrecipes.com/recipe/241773/chunky-gardenstyle-pizza/"
 }

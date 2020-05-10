@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook ground beef and onion in a skillet over medium heat until beef is completely browned, 7 to 10 minutes. Drain excess grease from the skillet.",
+        "While beef cooks, stir taco seasoning mix into water in a small saucepan; bring to a boil, reduce heat to low, and simmer for 10 minutes.",
+        "Stir taco seasoning mixture into ground beef and onion mixture; simmer on medium-low heat while preparing the remaining ingredients.",
+        "Stir refried beans and cubed process cheese food together in a separate small saucepan over medium-low heat; cook and stir until cheese food has melted completely into the beans, about 10 minutes.",
+        "Divide refried bean mixture between flour tortillas; spread into an even layer to cover one side completely.",
+        "Wrap tortillas around the crisp taco shells, using bean mixture to stick the tortillas to the shells.",
+        "Spoon seasoned ground beef into the taco shells."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=976&h=511&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F993988.jpg",
+    "ingredients": [
+        "1\u2009\u00bc pounds ground beef",
+        "\u00bd  onion, chopped",
+        "1 (1.25 ounce) package dry taco seasoning mix",
+        "\u00be cup water",
+        "1 (14 ounce) can refried beans",
+        "4 ounces process cheese food (such as Velveeta\u00ae), cut into small cubes",
+        "10 (6 inch) flour tortillas, warmed",
+        "10  crisp taco shells, warmed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Double Tacos",
     "url": "http://allrecipes.com/recipe/220773/double-tacos/"
 }

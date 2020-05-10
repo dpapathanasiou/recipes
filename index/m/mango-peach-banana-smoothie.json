@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine mango nectar, peach yogurt, and frozen yogurt in pitcher of a blender; add peach slices and banana chunks. Blend until smooth, 30 seconds to 1 minute."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4513844.jpg",
+    "ingredients": [
+        "1 (16 ounce) can mango nectar",
+        "1 cup peach yogurt",
+        "1 cup vanilla frozen yogurt",
+        "1 1/2 cups frozen peach slices",
+        "1 frozen banana, cut into chunks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango Peach Banana Smoothie",
     "url": "http://allrecipes.com/recipe/232028/mango-peach-banana-smoothie/"
 }

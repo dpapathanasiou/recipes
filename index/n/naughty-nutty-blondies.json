@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking pan with cooking spray.",
+        "Stir cake mix and brown sugar together in a large bowl. Mix in milk and egg until well blended. Fold in butterscotch chips, chocolate chips, and walnuts. Spread dough evenly in the prepared baking pan.",
+        "Bake in the preheated oven until edges start to pull away from the sides of the pan, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4461269.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 (18.25 ounce) package yellow cake mix",
+        "\u2153 cup brown sugar",
+        "\u2154 cup milk",
+        "1  egg",
+        "\u00bd cup butterscotch chips",
+        "\u00bc cup chocolate chips",
+        "\u00bc cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Naughty Nutty Blondies",
     "url": "http://allrecipes.com/recipe/256132/naughty-nutty-blondies/"
 }

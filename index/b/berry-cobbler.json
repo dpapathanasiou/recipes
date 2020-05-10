@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease a 9x9 inch baking dish.",
+        "In a large bowl combine flour, sugar, baking powder and salt.  Stir in butter, milk, vanilla and egg until smooth.  Fold in raspberries.  Pour into prepared pan.",
+        "Bake in preheated oven 35 to 40 minutes, until top is firm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1960279.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup white sugar",
+        "2 1/2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "3 tablespoons butter, melted",
+        "2/3 cup milk",
+        "1 teaspoon vanilla extract",
+        "1 egg, beaten",
+        "2 cups raspberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Berry Cobbler",
     "url": "http://allrecipes.com/recipe/21594/berry-cobbler/"
 }

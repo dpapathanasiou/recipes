@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir water, sugar, citric acid, and lemon extract together in a punch bowl until sugar and acid are completely dissolved; add ice and lemon slices."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1210144.jpg",
+    "ingredients": [
+        "5 quarts water",
+        "3 cups sugar",
+        "2 tablespoons citric acid powder",
+        "1 tablespoon lemon extract",
+        "1/2 bag of ice cubes",
+        "3 lemon slices"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Good Water",
     "url": "http://allrecipes.com/recipe/237257/good-water/"
 }

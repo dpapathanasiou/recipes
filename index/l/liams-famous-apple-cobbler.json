@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8x8-inch baking pan.",
+        "Mix apple slices and applesauce together in a bowl. Whisk 1/2 cup melted butter and eggs together in a separate bowl; pour into apple mixture. Stir in brown sugar until well incorporated. Pour apple mixture into prepared baking pan.",
+        "Mix bread crumbs, 1/2 cup butter, white sugar, and vanilla extract together in a bowl; sprinkle over apple mixture.",
+        "Bake in the preheated oven until apples are tender and topping is lightly browned, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2166954.jpg",
+    "ingredients": [
+        "12 slices apple",
+        "1 cup applesauce",
+        "1/2 cup butter, melted",
+        "2 eggs",
+        "3/4 cup brown sugar",
+        "1 cup bread crumbs, or as needed",
+        "1/2 cup butter, cut into small chunks",
+        "1/4 cup white sugar",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Liam's Famous Apple Cobbler",
     "url": "http://allrecipes.com/recipe/229209/liams-famous-apple-cobbler/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the rice and 3 cups water to a boil in a pot. Cover, reduce heat to low, and simmer 20 minutes.",
+        "Place the ground beef in a large skillet over medium heat, and cook until evenly brown. Drain grease. Mix in onion, refried beans, and green chiles. Stir in water, mustard, soy sauce, Worcestershire sauce, and hot sauce. Season with cumin, seasoned salt, and salt. Reduce heat to low, and cook 25 minutes, stirring often. Serve over rice."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F579002.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups uncooked long grain white rice",
+        "3 cups water",
+        "1 pound ground beef",
+        "1 medium onion, chopped",
+        "1 (14 ounce) can refried beans",
+        "1 (4.5 ounce) can chopped green chiles, drained",
+        "\u00bd cup water",
+        "1 tablespoon prepared yellow mustard",
+        "1 teaspoon soy sauce",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon hot sauce",
+        "1\u2009\u00bd tablespoons ground cumin",
+        "1 tablespoon seasoned salt",
+        "\u00bc teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beans and Rice",
     "url": "http://allrecipes.com/recipe/84720/beans-and-rice/"
 }

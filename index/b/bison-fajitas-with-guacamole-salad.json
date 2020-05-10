@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "If desired, partially freeze bison flank steak for easier slicing (about 30 minutes). Thinly slice across the grain into bite-size strips. Sprinkle sliced bison flank steak with 1 teaspoon of the fajita seasoning. Cover and chill for 30 minutes.",
+        "Heat 1 tablespoon of the oil over medium-high heat in a large skillet. Cook garlic and the 1 jalapeno pepper in the hot oil for 2 minutes. Add onion. Cook and stir for 6 to 8 minutes or until onions are tender and begin to caramelize. Remove onion mixture to a medium bowl; cover and keep warm. Add bell peppers and remaining 1/2 teaspoon of fajita seasoning to skillet. Cook and stir for 6 to 8 minutes or until peppers are tender. Add peppers to onion mixture; cover and keep warm.",
+        "Add the remaining 1 tablespoon oil to the skillet. Add 1/2 of the bison flank steak strips to skillet. Cook and stir for 1 to 2 minutes or until bison flank steak is browned. Remove from skillet and cook remaining bison flank steak.",
+        "Serve bison flank steak and vegetables in tortillas topped with salsa and sour cream. Serve with lime wedges and Guacamole Salad",
+        "Guacamole Salad: Combine tomatoes, green onions, the 1 jalapeno pepper, the 2 cloves garlic, the salt, and pepper in a medium bowl. Gently stir in avocado. Serve on shredded romaine."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037656.jpg",
+    "ingredients": [
+        "1 pound bison flank steak",
+        "1 1/2 teaspoons fajita seasoning",
+        "2 tablespoons vegetable oil",
+        "2 cloves garlic, minced",
+        "1 fresh jalapeno pepper, seeded and chopped",
+        "1 large onion, thinly sliced",
+        "1 large green bell pepper, thinly sliced",
+        "1 large red or yellow bell pepper, thinly sliced",
+        "6 (8 inch) flour tortillas, warmed",
+        "Salsa",
+        "Sour cream",
+        "Lime wedges",
+        "Guacamole Salad:",
+        "2 Roma tomatoes, seeded and chopped",
+        "3 tablespoons sliced green onions",
+        "1 fresh jalapeno pepper, seeded and chopped",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "2 large ripe avocados, halved, seeded, peeled, and coarsely mashed",
+        "Shredded romaine lettuce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bison Fajitas with Guacamole Salad",
     "url": "http://allrecipes.com/recipe/233884/bison-fajitas-with-guacamole-salad/"
 }

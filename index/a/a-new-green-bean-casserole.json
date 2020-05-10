@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil; cook green beans at a boil until tender yet firm to the bite, 5 to 10 minutes; drain and transfer to a 9x13-inch dish.",
+        "Cook and stir onions, vinegar, garlic, sugar, basil, and oregano in a skillet over medium heat until onions are softened and translucent, about 5 minutes. Reduce heat to medium-low, and continue cooking and stirring until onions are very tender and dark brown, 15 to 20 minutes more.",
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Spread onion mixture over green beans and top with Parmesan cheese. Arrange tomatoes, cut sides down, atop Parmesan cheese layer.",
+        "Bake in the preheated oven until cheese is melted and bubbling, about 35 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4234258.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds fresh green beans, trimmed",
+        "4 cups sliced onions",
+        "2 tablespoons balsamic vinegar, or more if needed",
+        "3 cloves garlic, chopped",
+        "2 teaspoons white sugar",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "\u00bc cup shredded Parmesan cheese, or to taste",
+        "halved grape tomatoes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "A New Green Bean Casserole",
     "url": "http://allrecipes.com/recipe/229808/a-new-green-bean-casserole/"
 }

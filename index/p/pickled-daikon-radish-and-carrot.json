@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat vinegar and sugar in a saucepan over low heat until sugar is dissolved. Remove from heat, and refrigerate to cool. Place daikon and carrot in a glass jar with the cilantro and chile peppers. Pour the cooled vinegar mixture over, submerging the vegetables. Cover and refrigerate for at least 4 hours, or overnight."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1229492.jpg",
+    "ingredients": [
+        "\u00bd cup distilled white vinegar",
+        "\u00bc cup white sugar",
+        "1 small carrot, peeled and cut into matchsticks",
+        "1  daikon radish, peeled and cut into matchsticks",
+        "2 tablespoons chopped fresh cilantro",
+        "1  Thai chile pepper, seeded and chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pickled Daikon Radish and Carrot",
     "url": "http://allrecipes.com/recipe/214722/pickled-daikon-radish-and-carrot/"
 }

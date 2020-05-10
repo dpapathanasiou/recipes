@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a cocktail mixer full of ice, combine tequila, Blue Curacao, coconut rum and sour mix. Shake vigorously and strain into glass. Garnish with a wedge of lime."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1893443.jpg",
+    "ingredients": [
+        "1 1/4 fluid ounces tequila",
+        "3/4 fluid ounce Blue Curacao",
+        "1/2 fluid ounce coconut rum",
+        "4 fluid ounces sour mix",
+        "1 slice lime wedge"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Rita",
     "url": "http://allrecipes.com/recipe/21458/blue-rita/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for high heat, and lightly oil grate.",
+        "Cut a slit in steak to create a pocket that is open on one side only. In a cup, mix together 1 tablespoon olive oil and lemon juice; brush over both sides of fish. Set aside.",
+        "In a small skillet, heat 1 teaspoon olive oil and garlic over medium heat. Cook spinach in oil until wilted. Remove from heat, and stuff into pocket. Place feta in pocket over spinach.",
+        "Arrange fish on grill, and cook for 8 minutes. Turn over, and continue cooking until cooked through."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7195308.jpg",
+    "ingredients": [
+        "1 (8 ounce) swordfish steak (about 2 inches thick)",
+        "1 tablespoon olive oil",
+        "1 tablespoon fresh lemon juice",
+        "2 cups fresh spinach - rinsed, dried and torn into bite size pieces",
+        "1 teaspoon olive oil",
+        "1 clove garlic, minced",
+        "1/4 cup crumbled feta"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mediterranean Stuffed Swordfish",
     "url": "http://allrecipes.com/recipe/152264/mediterranean-stuffed-swordfish/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the cottage cheese in a food processor and blend until creamy. Whisk in the flavored gelatin powder, then fold in the thawed whipped topping. Refrigerate until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3613906.jpg",
+    "ingredients": [
+        "3 cups low-fat cottage cheese",
+        "2 (0.3 ounce) packages sugar-free lemon flavored Jell-O\u00ae mix",
+        "1 (8 ounce) container lite frozen whipped topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cottage Cheese Fluff",
     "url": "http://allrecipes.com/recipe/87198/cottage-cheese-fluff/"
 }

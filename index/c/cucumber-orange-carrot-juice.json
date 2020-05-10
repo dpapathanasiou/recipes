@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Peel orange and save a 1x1-inch piece of the peel. Place orange, orange peel piece, carrots, and cucumber in a blender; pour in water. Blend until desired consistency is reached; add sugar and lemon juice. Blend until smooth, 1 to 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1126628.jpg",
+    "ingredients": [
+        "1 large navel orange",
+        "2 carrots, roughly chopped",
+        "1/2 cucumber, roughly chopped",
+        "1/2 cup water, or as needed",
+        "1/4 cup white sugar, or to taste",
+        "1 teaspoon lemon juice (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumber Orange Carrot Juice",
     "url": "http://allrecipes.com/recipe/234302/cucumber-orange-carrot-juice/"
 }

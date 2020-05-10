@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a swanky punch bowl (a MUST), combine the vodka, grapefruit juice, pineapple juice, lemon-lime soda and ice, or ice ring. This punch is too good for the little punch glasses that come with the punch bowl so use your highball glasses, stand around the punch bowl and have a good time!"
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (750 milliliter) bottle vodka",
+        "1 (46 fluid ounce) can grapefruit juice",
+        "1 (46 fluid ounce) can pineapple juice",
+        "1 (2 liter) bottle lemon-lime flavored carbonated beverage",
+        "2 trays ice cubes, or an ice ring"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dads' Gather Around Christmas Punch",
     "url": "http://allrecipes.com/recipe/77231/dads-gather-around-christmas-punch/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large stock pot over medium heat, pour in the vegetable broth, apple cider, apple juice, and water; stir in  kosher salt, poultry seasoning, onion powder, black pepper, rosemary, sage, and thyme. Bring the mixture to a boil, stirring until all salt has dissolved, and boil for 30 minutes to extract flavors from herbs. Remove from heat, and allow to cool to room temperature before using as a turkey brine; allow brined turkey to marinate overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4209299.jpg",
+    "ingredients": [
+        "1 gallon low-sodium vegetable broth",
+        "1/2 gallon apple cider",
+        "1/2 gallon apple juice",
+        "2 quarts water",
+        "1 1/2 cups kosher salt",
+        "3 tablespoons poultry seasoning",
+        "3 tablespoons onion powder",
+        "1 tablespoon ground black pepper",
+        "1 tablespoon crushed dried rosemary",
+        "1 tablespoon rubbed dried sage",
+        "1 tablespoon dried thyme leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Joe's Turkey Brine",
     "url": "http://allrecipes.com/recipe/219473/joes-turkey-brine/"
 }

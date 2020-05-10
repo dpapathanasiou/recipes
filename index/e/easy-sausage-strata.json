@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and set aside.",
+        "Layer bread cubes, sausage, and Cheddar cheese in a lightly greased  7x11 inch baking dish. In a bowl, beat together the eggs, milk, salt, and mustard. Pour the egg mixture over the bread cube mixture. Cover, and refrigerate at least 8 hours or overnight.",
+        "Remove the casserole from the refrigerator 30 minutes before baking. Preheat oven to 350 degrees F (175 degrees C).",
+        "Bake 50 to 60 minutes in the preheated oven, or until a knife inserted in the center comes out clean. Let stand 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 pound pork sausage",
+        "6 (1 ounce) slices bread, cubed",
+        "2 cups shredded Cheddar cheese",
+        "6  eggs",
+        "2 cups milk",
+        "1 teaspoon salt",
+        "1 teaspoon ground dry mustard"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Sausage Strata",
     "url": "http://allrecipes.com/recipe/20913/easy-sausage-strata/"
 }

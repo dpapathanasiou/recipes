@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix flour, garlic powder, salt, and pepper together in a resealable plastic bag. Add cubed chicken to the bag and shake until well coated.",
+        "Heat the oil in a large skillet over medium heat. Add the chicken; cook and stir until the chicken is no longer pink, about 5 minutes. Stir in the bell pepper, onion, zucchini, mushrooms, chicken broth, and Italian dressing. Cover and simmer until vegetables and meat are tender, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/260376.jpg",
+    "ingredients": [
+        "2 tablespoons all-purpose flour",
+        "1 teaspoon garlic powder",
+        "salt and pepper to taste",
+        "1 pound skinless, boneless chicken breast meat - cut into cubes",
+        "1 teaspoon vegetable oil",
+        "1 red bell pepper, sliced",
+        "1 small onion, chopped",
+        "1 cup sliced zucchini",
+        "1 cup sliced fresh mushrooms",
+        "1/4 cup chicken broth",
+        "1/4 cup Italian salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No-Tomatoes-Required Italian Seasoned Stir Fry",
     "url": "http://allrecipes.com/recipe/152906/no-tomatoes-required-italian-seasoned/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with foil, and place a baking rack on the foil-lined sheet.",
+        "In a bowl, mix together the condensed milk and mustard until thoroughly combined. Cut the crusts off the bread and discard crusts or save for another use. Roll a slice of bread out flat with a rolling pin. Place 2 pieces of bacon down onto a work surface, side by side, and lay the bread slice on top of the bacon. Spread about 1 tablespoon of the milk-mustard mixture over the bread. Sprinkle about 1 tablespoon of Cheddar cheese in a line down the center of the bread.",
+        "Roll the bacon and bread into a firm roll, working from the short ends of the bacon so they wrap horizontally around the roll. Secure the roll with a toothpick. Repeat for remaining ingredients. Place the bacon rolls onto the baking rack over the pan.",
+        "Bake in the preheated oven until the bacon is crisp and brown, about 20 minutes, turning the rolls over once or twice during baking to crisp the bacon uniformly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1106753.jpg",
+    "ingredients": [
+        "1 (14 ounce) can sweetened condensed milk",
+        "1\u2009\u00bd teaspoons prepared yellow mustard",
+        "1 (1 pound) loaf sliced white bread",
+        "1 pound maple-flavored bacon, strips cut in half crosswise",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Savory Bacon Wraps",
     "url": "http://allrecipes.com/recipe/217932/sweet-and-savory-bacon-wraps/"
 }

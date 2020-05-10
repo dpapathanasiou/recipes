@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a large bowl, mix together the mushrooms, onion, butter, eggs, parsley, garlic powder, and Parmesan cheese until creamy. Gradually mix in bread crumbs until the mixture is stiff enough to shape into balls. Form into 2 inch balls, and place on cookie sheets.",
+        "Bake for 18 minutes in the preheated oven, until the bottoms are lightly browned. Arrange on a serving tray and serve hot or warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1012112.jpg",
+    "ingredients": [
+        "8 ounces fresh mushrooms, chopped",
+        "1 medium onion, chopped",
+        "\u00bd cup butter, melted",
+        "4  eggs, beaten",
+        "2 teaspoons dried parsley flakes",
+        "\u215b teaspoon garlic powder",
+        "\u00bd cup grated Parmesan cheese",
+        "2\u2009\u00bd cups seasoned dry bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mushroom Stuffing Balls",
     "url": "http://allrecipes.com/recipe/78439/mushroom-stuffing-balls/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil; cook linguine at a boil until tender yet firm to the bite, about 11 minutes; drain and transfer linguine to a serving bowl.",
+        "Heat butter and olive oil in a saucepan over medium-low heat until bubbling; cook and stir onion and yellow bell pepper in the bubbling butter mixture until softened, 5 to 10 minutes. Stir cream cheese into onion mixture until melted. Add salmon and milk; simmer until cooked through, about 3 minutes.",
+        "Pour salmon sauce over linguine and toss to coat; garnish with dill and lemon slices."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/839608.jpg",
+    "ingredients": [
+        "1 (8 ounce) package linguine",
+        "2 tablespoons butter",
+        "2 tablespoons extra-virgin olive oil",
+        "1/4 cup diced onion",
+        "1/2 cup chopped yellow bell pepper",
+        "1 tablespoon reduced-fat cream cheese",
+        "6 ounces cooked salmon, flaked into bite-sized pieces",
+        "6 tablespoons skim milk",
+        "1 teaspoon chopped fresh dill, or to taste",
+        "1/2 lemon, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Grilled Salmon Pasta",
     "url": "http://allrecipes.com/recipe/232846/easy-grilled-salmon-pasta/"
 }

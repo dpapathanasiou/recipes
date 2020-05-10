@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Melt 3 tablespoons of butter in a large skillet over medium heat. Add the mushrooms, and saute until tender, about 10 minutes. Layer half of the mushrooms in the bottom of a casserole dish. Sprinkle with half of the olives, half of the cheese, and 1 tablespoon of flour. Repeat the layers then top with the bread crumbs. Drizzle 2 tablespoons of melted butter over the crumbs.",
+        "Bake for 30 minutes in the preheated oven, until bubbly and browned on the top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3824406.jpg",
+    "ingredients": [
+        "3 tablespoons butter",
+        "2\u2009\u00bd pounds sliced fresh mushrooms",
+        "1 (4 ounce) can sliced black olives, drained",
+        "3 cups shredded Cheddar cheese",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons butter, melted",
+        "\u00bd cup fine dry bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Debbie's Ultimate Mushroom Dish",
     "url": "http://allrecipes.com/recipe/70324/debbies-ultimate-mushroom-dish/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Empty hot chocolate mix into a cup. Stir hot water gradually into the mix. Chill hot chocolate to room temperature, about 10 minutes.",
+        "Mix chilled hot chocolate, vanilla-flavored vodka, peppermint schnapps, and creme de cacao together in a bowl. Pour into a glass filled with ice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4233293.jpg",
+    "ingredients": [
+        "1 (.55 ounce) package instant hot chocolate mix",
+        "1/2 cup hot water",
+        "2 fluid ounces vanilla-flavored vodka",
+        "1 fluid ounce peppermint schnapps",
+        "1 fluid ounce creme de cacao",
+        "ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Cane Cocktail",
     "url": "http://allrecipes.com/recipe/256090/christmas-cane-cocktail/"
 }

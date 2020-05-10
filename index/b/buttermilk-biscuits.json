@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F (190 degrees C).",
+        "In a large bowl, stir together the self-rising flour and baking powder. Pour in the melted lard and mix until blended. Stir in the buttermilk and milk just until the dough comes together.",
+        "Pat the dough out on a lightly floured surface and roll to 3/4 inch thickness. Cut into biscuits using a biscuit cutter or round cookie cutter. Place on baking sheets, spacing about 1 inch apart. Brush the tops with bacon drippings.",
+        "Bake for 10 to 12 minutes in the preheated oven, until the bottoms and tops are lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F672025.jpg",
+    "ingredients": [
+        "5 pounds self-rising flour",
+        "2 tablespoons baking powder",
+        "1 cup lard, melted",
+        "2 quarts buttermilk",
+        "1 cup 2% milk",
+        "\u00bc cup bacon drippings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buttermilk Biscuits",
     "url": "http://allrecipes.com/recipe/50415/buttermilk-biscuits/"
 }

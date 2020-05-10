@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a baking sheet.",
+        "Place plantain chunks and salt into a saucepan, and add water to cover plantains. Bring to a boil over high heat, then reduce heat to medium, and simmer until a fork will easily pierce the plantains, about 20 minutes. Reserve 1/4 cup of the cooking water, then drain the plantains. Allow to steam for a few minutes.",
+        "Mash the plantain with the peanut butter and reserved water until fine. Allow to cool until you can handle it, then roll into 24 golf ball-sized pieces. Place onto prepared baking sheet.",
+        "Bake in preheated oven until the balls firm up, and turn golden brown, about 45 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/290778.jpg",
+    "ingredients": [
+        "4 green plantains, peeled, and cut into 1-inch pieces",
+        "1 teaspoon salt",
+        "1 cup chunky peanut butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bolas de Mani (Peanut and Plantain Balls)",
     "url": "http://allrecipes.com/recipe/65486/bolas-de-mani-peanut-and-plantain-ba/"
 }

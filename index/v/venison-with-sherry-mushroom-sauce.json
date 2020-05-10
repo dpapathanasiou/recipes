@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1/2 cup flour, sage, salt, and pepper in a resealable bag, set aside.  Melt 1 tablespoon of butter in a large pan over medium heat.  Stir in onion and cook until almost soft.  Add mushrooms, and continue cooking until soft.  Remove from pan.",
+        "Turn heat to medium-high and melt 2 tablespoons of butter in pan.  Toss the venison steaks in the seasoned flour and shake off the excess.  Sear venison in butter for 6 to 7 minutes per side and remove.",
+        "Reduce heat to medium-low, and melt the remaining tablespoon of butter.  Whisk in 1 tablespoon of flour, followed by the sherry and water.  Return the vegetables and meat to the pan.  Increase heat, and simmer for 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/42621.jpg",
+    "ingredients": [
+        "1/2 cup all-purpose flour",
+        "1/2 teaspoon ground sage",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "4 tablespoons butter, divided",
+        "1 cup chopped Vidalia onion",
+        "2 cups sliced mushrooms or baby bellas",
+        "6 (3 ounce) venison tenderloin steaks",
+        "1 tablespoon all-purpose flour",
+        "3/4 cup sherry",
+        "1/4 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Venison with Sherry-Mushroom Sauce",
     "url": "http://allrecipes.com/recipe/102765/venison-with-sherry-mushroom-sauce/"
 }

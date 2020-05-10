@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend the apricots, banana, milk, sugar, and ice in a blender until smooth, thick, and frosty."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1003207.jpg",
+    "ingredients": [
+        "3 fresh apricots, pitted and diced",
+        "1 banana, diced",
+        "1 cup milk",
+        "4 teaspoons white sugar",
+        "13 cubes ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Max's Fresh Fruit Smoothie",
     "url": "http://allrecipes.com/recipe/215119/maxs-fresh-fruit-smoothie/"
 }

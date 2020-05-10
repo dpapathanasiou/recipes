@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, thoroughly mix mayonnaise and dry Italian-style salad dressing mix.",
+        "Arrange the cocktail rye bread slices in a single layer on a serving platter.",
+        "Place mayonnaise mixture in a pastry bag and squeeze an approximately 1 inch dollop of the mixture onto each cocktail rye bread slice.",
+        "Top each cocktail rye bread slice with a cucumber slice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/197890.jpg",
+    "ingredients": [
+        "1 cup mayonnaise",
+        "1 (.7 ounce) package dry Italian-style salad dressing mix",
+        "1 (1 pound) loaf cocktail rye bread",
+        "1 cucumber, peeled and thinly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Cucumber Sandwiches",
     "url": "http://allrecipes.com/recipe/24640/italian-cucumber-sandwiches/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, mix the milk, coffee flavored liqueur, amaretto liqueur, and chocolate flavored syrup. Mix in ice cream, and gradually blend in the ice. If mixture is too thin, add more ice cream. Or if mixture gets too thick, add more milk or liqueur. Pour into tall glasses, grab 2 straws, and enjoy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/947355.jpg",
+    "ingredients": [
+        "1/2 cup milk",
+        "2 tablespoons coffee flavored liqueur",
+        "2 1/2 tablespoons amaretto liqueur",
+        "1/4 cup chocolate flavored syrup",
+        "1 cup vanilla ice cream",
+        "1 cup crushed ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Frozen Almond",
     "url": "http://allrecipes.com/recipe/32582/frozen-almond/"
 }

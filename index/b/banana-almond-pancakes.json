@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix whole wheat flour, ground almonds, ground flax seeds, sugar, baking powder, salt, and baking soda together in a bowl.",
+        "Whisk almond milk, bananas, egg, vegetable oil, and vanilla extract together in a separate bowl. Mix into the whole wheat flour mixture until batter is just combined.",
+        "Melt butter on a griddle over medium heat. Drop 1/3 cup batter onto the griddle and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5547813.jpg",
+    "ingredients": [
+        "3/4 cup whole wheat flour",
+        "1/4 cup ground almonds",
+        "1/4 cup ground flax seeds",
+        "1 tablespoon sugar",
+        "2 teaspoons baking powder",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon baking soda",
+        "1 cup almond milk",
+        "2 bananas, mashed",
+        "1 egg",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana Almond Pancakes",
     "url": "http://allrecipes.com/recipe/257017/banana-almond-pancakes/"
 }

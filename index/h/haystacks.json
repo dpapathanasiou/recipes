@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan, combine the kidney beans,  salt, chili powder and pepper.  Cook over medium heat until heated through.",
+        "To assemble the haystacks put a hand full of corn chips on a plate, follow with a spoonful of heated bean mixture, lettuce, tomato, green pepper, onions, olives, carrot, and cheddar cheese. Top with salsa and sour cream."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2640&h=1382&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F573493.jpg",
+    "ingredients": [
+        "2 cups kidney beans, cooked",
+        "1 teaspoon salt",
+        "2 tablespoons chili powder",
+        "1 teaspoon ground black pepper",
+        "1 (14.5 ounce) package corn tortilla chips",
+        "1 head iceberg lettuce - rinsed, dried, and shredded",
+        "2 large tomatoes, chopped",
+        "1  green bell pepper, chopped",
+        "1  onion, chopped",
+        "1 (10 ounce) can chopped black olives",
+        "1  carrot, shredded",
+        "1 cup shredded Cheddar cheese",
+        "\u00bd cup sour cream",
+        "1 cup salsa"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Haystacks",
     "url": "http://allrecipes.com/recipe/14114/haystacks/"
 }

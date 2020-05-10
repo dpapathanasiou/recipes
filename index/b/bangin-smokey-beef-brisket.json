@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the beef broth, 2 tablespoons of liquid smoke, 1/4 cup Worcestershire sauce, garlic salt, and onion powder in a bowl, and pour into a resealable plastic bag. Add the brisket, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 24 hours. Turn the bag over a few times to ensure the meat is evenly marinated.",
+        "Preheat an oven to 275 degrees F (135 degrees C). Place the garlic, 1 tablespoon liquid smoke, and 1 tablespoon Worcestershire sauce in a 9x13-inch baking dish. Pour in the beer.",
+        "Remove the brisket from the marinade, and shake off excess. Place the brisket into the baking dish, and top with onion rings. Cover the dish tightly with aluminum foil, and discard the remaining marinade.",
+        "Bake in the preheated oven until very tender, about 5 hours. An instant-read thermometer inserted into the center should read 150 degrees F (65 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3888&h=2036&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3129028.jpg",
+    "ingredients": [
+        "1 (14 ounce) can beef broth",
+        "2 tablespoons liquid smoke flavoring (not concentrated), or to taste",
+        "\u00bc cup Worcestershire sauce",
+        "2 tablespoons garlic salt",
+        "2 tablespoons onion powder",
+        "1 (5 pound) beef brisket",
+        "3 tablespoons bottled minced garlic",
+        "1 tablespoon liquid smoke flavoring (not concentrated), or to taste",
+        "1 tablespoon Worcestershire sauce",
+        "1 (12 ounce) can beer",
+        "1  onion, cut into rings"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bangin' Smokey Beef Brisket",
     "url": "http://allrecipes.com/recipe/216763/bangin-smokey-beef-brisket/"
 }

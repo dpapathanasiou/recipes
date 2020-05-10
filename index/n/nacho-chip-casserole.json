@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium skillet over high heat, brown the ground beef and season with salt and pepper to taste; drain fat. Stir in diced tomatoes with green chile peppers and condensed cream of mushroom soup.",
+        "Cover the bottom and sides of a 9x13 inch baking dish with nacho-flavor tortilla chips. Pour in the meat mixture. Top with remaining tortilla chips and about 12 slices of processed cheese food, or enough to cover the entire surface of the dish.",
+        "Bake in the preheated oven 15 to 20 minutes, or until cheese is lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F62973.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "salt to taste",
+        "ground black pepper to taste",
+        "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (8 ounce) bag nacho-flavor tortilla chips",
+        "6 ounces processed cheese food, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nacho Chip Casserole",
     "url": "http://allrecipes.com/recipe/26630/nacho-chip-casserole/"
 }

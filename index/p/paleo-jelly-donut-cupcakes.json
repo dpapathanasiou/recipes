@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line 12 muffin cups with paper liners.",
+        "Blend applesauce, coconut oil, eggs, honey, and vanilla extract in a food processor or using an immersion blender. Transfer mixture to a large bowl; stir in coconut flour, salt, and baking soda until batter is solid, yet easily spooned. Thin mixture with almond milk if needed. Fill prepared muffin cups about 2/3-full with batter; spoon and swirl raspberry jam into each cup.",
+        "Bake in the preheated oven until a toothpick inserted into a cupcake comes out clean, about 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bd cup applesauce",
+        "\u00bd cup coconut oil, melted",
+        "3  eggs",
+        "3 tablespoons honey",
+        "1 tablespoon vanilla extract",
+        "\u00bd cup coconut flour",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon baking soda",
+        "1 tablespoon almond milk, or as needed (optional)",
+        "\u00bd cup raspberry jam, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paleo Jelly Donut Cupcakes",
     "url": "http://allrecipes.com/recipe/233452/paleo-jelly-donut-cupcakes/"
 }

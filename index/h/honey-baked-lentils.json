@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the lentils, bay leaf, 2 cups water, chicken broth, and salt together in a dutch oven or oven-proof saucepan; bring the mixture to a boil. Place a cover on the pan, reduce heat to medium-low, and allow the lentils to simmer for 30 minutes. Remove and discard the bay leaf.",
+        "Preheat an oven to 350 degrees F (175 degrees C).",
+        "Stir the dry mustard, ginger, soy sauce, onion, and 1 cup water together in a bowl; stir the mixture into the lentils. Drizzle the honey over the mixture. Return the cover to the pan.",
+        "Bake in the preheated oven until the lentils are tender, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4000&h=2094&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F862351.jpg",
+    "ingredients": [
+        "1 pound dry lentils",
+        "1  small bay leaf",
+        "2 cups water",
+        "2 (14.5 ounce) cans chicken broth",
+        "2 teaspoons salt",
+        "1 teaspoon dry mustard",
+        "\u00bc teaspoon ground ginger",
+        "1 tablespoon soy sauce",
+        "\u00bd cup chopped onion",
+        "1 cup water",
+        "\u00bd cup honey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Baked Lentils",
     "url": "http://allrecipes.com/recipe/216737/honey-baked-lentils/"
 }

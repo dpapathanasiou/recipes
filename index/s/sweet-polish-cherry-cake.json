@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). In a mixing bowl, whisk 1 cup sugar, flour, baking powder, and baking soda together until evenly combined.",
+        "Melt butter in a skillet over medium heat. Cook and stir the pitted cherries in the butter until they are tender, sprinkling them with 1 tablespoon of sugar, 8 to 10 minutes. Set aside.",
+        "Form a well in the center of the dry ingredients, and pour in 1/2 cup olive oil, eggs, and yogurt; use your fingers to lightly stir the liquid ingredients into the flour mixture to make a soft dough. Scrape the batter into a 9x12-inch baking dish. Drizzle the batter with 1 tablespoon of olive oil, and top with the cherries.",
+        "Bake in the preheated oven until the cake is set and golden on top, about 40 minutes. A toothpick inserted into the center of the cake should come out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2197&h=1150&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F668077.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "2\u2009\u00bd cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "1 teaspoon baking soda",
+        "1 tablespoon butter",
+        "2 cups pitted sweet cherries",
+        "1 tablespoon white sugar",
+        "\u00bd cup olive oil",
+        "4  eggs",
+        "1 (6 ounce) container plain yogurt",
+        "1 tablespoon olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Polish Cherry Cake",
     "url": "http://allrecipes.com/recipe/218433/sweet-polish-cherry-cake/"
 }

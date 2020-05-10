@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat.",
+        "Melt the butter in a saucepan over medium-low heat. Whisk in the flour, salt, seasoned pepper, and celery seed; cook and stir for 1 minute. Gradually whisk the milk into the flour mixture, and bring to a simmer over medium heat. Cook and stir until the mixture is thick and bubbly, 5 to 10 minutes.",
+        "Stir in the potatoes, onion, and green bell pepper. Pour the potato mixture onto a large sheet of heavy duty foil. Sprinkle with paprika. Fold the foil loosely around the potato mixture and seal tightly. Grill on covered grill, turning the packets every 15 minutes, until the potatoes are tender, about 45 to 50 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4288&h=2245&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F469173.jpg",
+    "ingredients": [
+        "3 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "1 teaspoon salt",
+        "\u00bd teaspoon seasoned pepper",
+        "\u00bc teaspoon celery seed",
+        "1\u2009\u00bd cups milk",
+        "4  medium potatoes, peeled and cubed",
+        "1 cup chopped onion",
+        "\u00bd cup chopped green bell pepper",
+        "\u00bc teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Potato Casserole",
     "url": "http://allrecipes.com/recipe/215672/grilled-potato-casserole/"
 }

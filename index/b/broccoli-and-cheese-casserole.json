@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan bring water to a boil. Add rice, reduce heat, cover and simmer for 20 minutes.",
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "While the rice is cooking, place frozen broccoli in large skillet. Heat stove to low-medium and defrost broccoli  When the broccoli is 90% defrosted add processed cheese sauce to the broccoli and let melt. When rice has completed cooking add broccoli-cheese mixture and rice to 9x13 baking dish and mix well.",
+        "Place casserole in the preheated 400 degrees F (200 degrees C) oven for 10 minutes; or until heated through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2304&h=1206&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F428685.jpg",
+    "ingredients": [
+        "3 cups water",
+        "1 (10 ounce) package yellow rice",
+        "1 (16 ounce) package frozen chopped broccoli",
+        "1 (16 ounce) jar process cheese sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Broccoli and Cheese Casserole",
     "url": "http://allrecipes.com/recipe/16528/broccoli-and-cheese-casserole/"
 }

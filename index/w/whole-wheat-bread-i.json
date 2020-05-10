@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a  two quart saucepan, combine the cracked wheat, salt, and 3/4 cup water.  Cook until the cracked wheat is soft, and water is absorbed.  Add molasses or honey, lard, and 1 1/2 cups water to the cracked wheat.  Heat, or cool, until the temperature is 125 degrees F (50 degrees C).",
+        "Combine whole wheat flour and yeast in a large mixing bowl.  Add the cracked wheat mixture; beat with an electric mixer at low speed for 30 seconds, scraping bowl.  Beat 3 minutes longer on high speed.  Stir in enough all purpose flour to make a stiff dough.",
+        "Knead on a floured, cloth covered board until dough is smooth and elastic, 8 to 10 minutes.  Divide and shape into 2 loaves; roll up tightly to prevent air pockets from forming while rising.  Place into two greased 9 x 5 inch loaf pans.  Cover with a clean cloth.  Allow to rise until doubled, about 1 hour.",
+        "Bake at 375 degrees F (190 degrees C) for 15 minutes.  Cover loaf with aluminum foil, and continue to bake for 30 minutes.  Remove bread to wire rack to cool.  Let cool for at least 30 minutes before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=240&h=126&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F583464.jpg",
+    "ingredients": [
+        "\u215c cup cracked wheat",
+        "\u00be cup water",
+        "2 cups whole wheat flour",
+        "3\u2009\u00bc cups bread flour",
+        "1 tablespoon active dry yeast",
+        "1\u2009\u00bd cups water",
+        "\u2153 cup honey",
+        "3 tablespoons lard",
+        "2 teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Whole Wheat Bread I",
     "url": "http://allrecipes.com/recipe/6781/whole-wheat-bread-i/"
 }

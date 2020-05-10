@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Stir water and half the pizza sauce together in the bottom of a 13x9-inch baking dish. Lie spaghetti atop the sauce mixture. Arrange chicken atop the noodles. Pour remaining sauce over the chicken breasts and spaghetti; top with pepperoni and mozzarella cheese. Cover the baking dish with aluminum foil.",
+        "Bake in preheated oven for 45 minutes. Remove foil and continue baking until chicken is no longer pink in the center and cheese is bubbling, 5 to 10 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1300&h=681&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1068343.jpg",
+    "ingredients": [
+        "1 cup water",
+        "1 (16 ounce) jar pizza sauce, divided",
+        "1 (16 ounce) package spaghetti",
+        "3 pounds skinless, boneless chicken breast halves",
+        "1 pound sliced turkey pepperoni",
+        "\u00bd pound shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pizza Chicken Bake",
     "url": "http://allrecipes.com/recipe/235060/pizza-chicken-bake/"
 }

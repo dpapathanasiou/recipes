@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spray a 9-inch fluted tube pan (such as Bundt\u00ae) with cooking spray and dust with flour.",
+        "Mix milk and lemon juice together in a bowl.",
+        "Beat egg whites together in a bowl using an electric mixer until stiff peaks form; beat in sucanat until fluffy. Mix olive oil into beaten egg whites mixture until smooth.",
+        "Mix whole wheat flour, all-purpose flour, lemon zest, baking soda, salt, and vanilla extract together in a separate bowl.",
+        "Stir egg white mixture, alternating with milk mixture, into the flour mixture until batter is smooth; pour into the prepared pan.",
+        "Bake in the preheated oven until a knife inserted in the center of the cake comes out clean, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2276445.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 cup fat free milk",
+        "1 tablespoon lemon juice",
+        "6  egg whites",
+        "2 cups sucanat",
+        "1 cup light olive oil",
+        "1 cup whole wheat flour",
+        "1 cup all-purpose flour",
+        "1 tablespoon lemon zest",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Olive Oil Lemon Cake",
     "url": "http://allrecipes.com/recipe/240267/olive-oil-lemon-cake/"
 }

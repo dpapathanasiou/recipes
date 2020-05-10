@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken stock in a small saucepan over medium heat; bring to a simmer.",
+        "Heat 2 tablespoons olive oil and 1 tablespoon butter in a large saucepan over medium-high heat until butter starts to bubble. Add asparagus and morel mushrooms; saute until tender, about 4 minutes. Transfer to a plate with any accumulated juices.",
+        "Heat remaining 2 tablespoons olive oil and 1 tablespoon butter in the same saucepan. Add shallot; cook and stir until softened, about 1 minute. Stir in arborio rice and cook until it starts to toast, about 1 minute. Pour in wine and cook until evaporated. Stir in thyme.",
+        "Pour 1/4 cup of the simmering stock over the rice. Cook, stirring constantly, until stock is absorbed. Repeat with remaining stock until rice is tender yet firm to the bite, about 12 minutes. Stir in asparagus and mushrooms with their juices and continue until flavors combine, about 3 minutes more.",
+        "Remove rice from the heat. Stir in remaining 2 tablespoons butter, Parmigiano-Reggiano cheese, and parsley. Season with salt and black pepper. Garnish with balsamic vinegar and additional olive oil before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2008&h=1051&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4479643.jpg",
+    "ingredients": [
+        "3\u2009\u00bd cups chicken stock",
+        "\u00bc cup olive oil, or more to taste, divided",
+        "\u00bc cup unsalted butter, divided",
+        "\u00bd pound asparagus, cut into 1-inch pieces on the bias",
+        "\u2153 pound fresh morel mushrooms, halved",
+        "1  shallot, minced",
+        "1 cup Arborio rice",
+        "\u00bc cup dry white wine",
+        "1 teaspoon fresh thyme leaves",
+        "\u2153 cup freshly grated Parmigiano-Reggiano cheese, or to taste",
+        "1 tablespoon finely chopped fresh parsley",
+        "salt and ground black pepper to taste",
+        "1\u2009\u00bd tablespoons high-quality balsamic vinegar (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Asparagus and Morel Risotto",
     "url": "http://allrecipes.com/recipe/246302/asparagus-and-morel-risotto/"
 }

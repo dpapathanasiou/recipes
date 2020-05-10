@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in large 4 to 6-quart saucepan over medium heat and add turkey. Brown turkey for 5 to 7 minutes, breaking apart.",
+        "Add onions, garlic, chili powder, cumin and bouillon powder and cook for 3 to 5 minutes or until onions soften. Stir in vegetables, tomatoes, water and ketchup. Bring to a boil; reduce heat to low and simmer for 10 minutes. To serve, ladle into bowls and top with desired garnishes.",
+        "Recipe note: If using fresh butternut squash, microwave for 1 to 2 minutes before adding to the chili or allow extra cooking time to ensure tenderness."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1105009.jpg",
+    "ingredients": [
+        "1/4 cup Mazola\u00ae Corn Oil",
+        "1 pound ground turkey",
+        "1 cup diced onion",
+        "1 teaspoon minced garlic",
+        "2 tablespoons chili powder",
+        "1 tablespoon ground cumin",
+        "1 tablespoon chicken-flavored bouillon powder or tomato-flavored bouillon",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 (11 ounce) can Mexi-corn, drained",
+        "1 (12 ounce) package frozen diced butternut squash, thawed",
+        "1 (28 ounce) can crushed tomatoes or tomato sauce",
+        "1 cup water",
+        "1/3 cup ketchup",
+        "Garnishes:",
+        "Shredded Mexican cheese, fresh cilantro, lime wedges, avocado slice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tex-Mex Turkey Chili with Black Beans, Corn and Butternut Squash",
     "url": "http://allrecipes.com/recipe/236710/tex-mex-turkey-chili-with-black-beans/"
 }

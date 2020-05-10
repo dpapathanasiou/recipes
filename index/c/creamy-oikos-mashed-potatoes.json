@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Peel potatoes and cut into 2-inch cubes. Place potatoes in a heavy saucepan (equipped with a tight fitting lid). Add about 2 inches of cold water and sprinkle with kosher salt and pepper.",
+        "Cover the saucepan and place over high heat. When you see steam escaping from the lid (no peaking!) immediately reduce flame to low and cook the potatoes about 20-22 minutes or until fork tender.",
+        "Drain any excess water from the potatoes and place back on heat to dry (30 seconds). Using a potato masher or ricer; mash potatoes until smooth. Add chicken broth and yogurt and continue to mash. Season potatoes, add chives and serve with roasted meats or chicken. Potatoes can be kept warm in a very low oven (275 degrees F.) or dotted with butter and reheated in a 350 degrees F oven for 20-25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2780&h=1455&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970164.jpg",
+    "ingredients": [
+        "3 pounds Yukon Gold or russet-style potatoes",
+        "1 cup chicken broth, heated",
+        "1\u2009\u2153 cups Dannon Oikos Plain Greek Nonfat Yogurt",
+        "Salt and pepper to taste",
+        "2 tablespoons chopped chives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Oikos&reg; Mashed Potatoes",
     "url": "http://allrecipes.com/recipe/229634/creamy-oikos-mashed-potatoes/"
 }

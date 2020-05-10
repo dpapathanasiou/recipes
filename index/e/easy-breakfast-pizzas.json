@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Arrange bagels onto a baking sheet with the cut sides up. Arrange bacon pieces atop the bagel halves. Spoon gravy lightly atop the bacon. Sprinkle mozzarella cheese over the gravy.",
+        "Bake in preheated oven until the cheese melts, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2010891.jpg",
+    "ingredients": [
+        "5 plain bagels, split",
+        "1 (14 ounce) package cooked bacon, cut into 1/4-inch pieces",
+        "1 cup prepared sausage gravy",
+        "1 (8 ounce) package shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Breakfast Pizzas",
     "url": "http://allrecipes.com/recipe/240166/easy-breakfast-pizzas/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes and balsamic vinegar into a large pot and cover with 2 to 3 inches of water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer for about 12 minutes. Place cabbage in a metal colander, then place the colander into the pot with the potatoes. Continue simmering until the potatoes are tender, about 8 minutes more. Remove the colander of cabbage, drain, and set aside. Drain potatoes and allow to steam dry for a minute or two. Place potatoes in a large bowl. Mash the potatoes with butter and milk until smooth. Set aside.",
+        "Heat the olive oil in a skillet over medium-high heat. Stir in the carrot and onion; cook and stir until the onion has softened and browned, about 10 minutes. Stir in the cabbage, and season with garlic salt and pepper. Mix the cabbage mixture into the mashed potato. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F776529.jpg",
+    "ingredients": [
+        "6  potatoes, quartered",
+        "2 tablespoons balsamic vinegar",
+        "4 cups shredded green cabbage",
+        "\u00bd cup butter",
+        "1 cup milk",
+        "2 tablespoons extra-virgin olive oil",
+        "1 large carrot, grated",
+        "1 small onion, quartered and sliced",
+        "1 tablespoon garlic salt",
+        "1 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yuppie Kolcannon",
     "url": "http://allrecipes.com/recipe/213397/yuppie-kolcannon/"
 }

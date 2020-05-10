@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a punch bowl, combine sugar, orange juice, and lemon juice. Stir until sugar dissolves. Add cherries, triple sec, light rum, orange slices, lemon slices, and pineapple chunks. Refrigerate for 1 to 2 hours to allow flavors to blend.",
+        "Pour in carbonated water, and add ice just before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4587792.jpg",
+    "ingredients": [
+        "1/2 cup white sugar",
+        "2 cups orange juice",
+        "2/3 cup lemon juice",
+        "1 (4 ounce) jar maraschino cherries, with juice",
+        "1 fluid ounce triple sec liqueur",
+        "1 (750 milliliter) bottle light rum",
+        "1 orange, sliced into rounds",
+        "1 lemon, sliced into rounds",
+        "1 (8 ounce) can pineapple chunks",
+        "1 liter carbonated water",
+        "ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Punch",
     "url": "http://allrecipes.com/recipe/20529/christmas-punch/"
 }

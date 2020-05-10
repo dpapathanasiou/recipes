@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a 9x13-inch baking dish with parchment paper, and lightly grease the paper.",
+        "Beat spice cake mix, 1 can apple pie filling, eggs, and vegetable oil with an electric mixer on medium speed for 2 minutes in a large bowl.",
+        "Pour batter into the prepared baking dish and bake in the preheated oven until a toothpick inserted into the center comes out clean, about 30 minutes. Cool in the pans for 10 minutes before removing to cool completely on a wire rack. Slice in half horizontally to create two layers.",
+        "Whisk milk, cream, French vanilla pudding mix, butterscotch pudding mix, cinnamon, and nutmeg for 2 minutes in a large bowl. Transfer to refrigerator to chill.",
+        "Place one layer of cake in the bottom of a large 8-quart rectangular plastic container. Poke holes in the cake with a skewer or toothpick and pour 1 cup caramel ice cream topping over the top of the cake. Sprinkle 1/3 cup pecans over the caramel and spread half of the pudding mixture on top.",
+        "Spoon 1 can apple pie filling over pudding mixture and spread 1 container whipped topping over the filling. Place second cake layer on top of whipped topping and repeat the layering process.",
+        "Drizzle assembled trifle with remaining 1/4 cup caramel topping and sprinkle with remaining 1/3 cup pecans. Refrigerate until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4504741.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package spice cake mix",
+        "3 (21 ounce) cans apple pie filling",
+        "3 eggs",
+        "3 tablespoons vegetable oil",
+        "5 cups milk",
+        "1/2 cup heavy cream",
+        "1 (3.5 ounce) package instant French vanilla pudding mix",
+        "2 (3.4 ounce) packages instant butterscotch pudding mix",
+        "1 teaspoon cinnamon",
+        "1/8 teaspoon nutmeg",
+        "2 1/4 cups caramel ice cream topping, divided",
+        "1 cup finely chopped pecans, toasted, divided",
+        "2 (8 ounce) containers frozen whipped topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caramel Apple Box Trifle",
     "url": "http://allrecipes.com/recipe/233558/caramel-apple-box-trifle/"
 }

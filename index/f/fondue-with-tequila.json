@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a skillet over medium heat. Add the onions, and cook until tender, stirring occasionally. Add the garlic, and cook for about a minute. Whisk in the flour with a fork so no lumps form. Cook and stir with the fork until browned. Remove from heat and set aside.",
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Place the avocado into a blender or food processor, and pour in the milk, cream, lemon juice, salt and pepper. Puree until smooth. Pour into a heat proof bowl or casserole dish, and stir in the onion and garlic mixture.",
+        "Bake in the oven for 20 minutes, or until thickened. Stir in the tequila and cheese, and return to the oven for about 5 minutes to melt the cheese. Stir and serve as a fondue."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "6 tablespoons butter",
+        "1 clove garlic, minced",
+        "2 small onions, chopped",
+        "2 tablespoons all-purpose flour",
+        "1  avocado, peeled and pitted",
+        "\u00bd cup cream",
+        "1 cup milk",
+        "3 tablespoons lemon juice",
+        "2 tablespoons tequila",
+        "\u00bd cup crumbled cotija cheese",
+        "1 pinch salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fondue with Tequila",
     "url": "http://allrecipes.com/recipe/78181/fondue-with-tequila/"
 }

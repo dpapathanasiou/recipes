@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1/4 cup butter, egg yolks, lemon juice, and water in a saucepan over low heat. Cook, stirring constantly, until butter is melted, about 5 minutes. Add remaining 1/4 cup butter and continue to cook, stirring constantly, until butter is melted and incorporated, about 5 minutes. Season with cayenne pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3212144.jpg",
+    "ingredients": [
+        "1/2 cup very cold butter, divided",
+        "2 egg yolks",
+        "1 1/2 tablespoons fresh lemon juice",
+        "1 1/2 tablespoons water",
+        "1 pinch ground cayenne pepper, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy, Tangy Hollandaise Sauce",
     "url": "http://allrecipes.com/recipe/246060/easy-tangy-hollandaise-sauce/"
 }

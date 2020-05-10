@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Brown the chicken breasts in the butter or margarine and 1 tablespoon of the Italian-style dressing mix. Place browned chicken breasts in a 9x13 inch baking dish.",
+        "Mix together the cream cheese and soup and stir in the wine. Pour mixture over the chicken, and bake in the preheated oven for 45 to 60 minutes. Meanwhile, prepare the rice according to package directions, using the remaining dressing mix in the cooking water. Serve the hot rice and chicken together."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F34417.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "1 (8 ounce) package cream cheese",
+        "\u2154 cup white wine",
+        "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "2 tablespoons Italian-style dressing mix",
+        "2 tablespoons butter",
+        "2 cups uncooked white rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Bake and Rice",
     "url": "http://allrecipes.com/recipe/8747/chicken-bake-and-rice/"
 }

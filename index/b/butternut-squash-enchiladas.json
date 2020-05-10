@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 400 degrees F (200 degrees C).",
+        "Lay the tortillas flat onto a baking sheet. Bake in the preheated oven until crispy, about 10 minutes. Remove and allow to cool. Meanwhile, place the butternut squash half into a microwave-safe dish cut-side-down, and pour in the water. Cook in the microwave until tender, 12 to 15 minutes. Once cool enough to handle, scoop out the flesh and dice; place into a mixing bowl and set aside.",
+        "Heat the olive oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Add the spinach and sun-dried tomatoes. Continue cooking until the spinach wilts. Gently fold the spinach mixture into the diced butternut squash.",
+        "Arrange four crispy tortillas on the baking sheet. Divide the squash mixture among the tortillas. Sprinkle 1 tablespoon of goat cheese over each tortilla, then top with the remaining tortillas. Pour the enchilada sauce over top, and sprinkle each with 1 tablespoon of cotija cheese.",
+        "Bake in the preheated oven until hot, about 10 minutes. Garnish each enchilada with chopped cilantro leaves and a dollop of sour cream to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2027840.jpg",
+    "ingredients": [
+        "8 (5 inch) corn tortillas",
+        "\u00bd  unpeeled butternut squash, seeded",
+        "\u00bd cup water",
+        "2 tablespoons olive oil",
+        "1 clove garlic, minced",
+        "\u00bc  onion, chopped",
+        "2 cups chopped fresh spinach",
+        "4  sun-dried tomatoes, chopped",
+        "1 cup enchilada sauce",
+        "\u00bc cup crumbled goat cheese",
+        "\u00bc cup crumbled cotija cheese",
+        "2 tablespoons chopped cilantro leaves, for garnish (optional)",
+        "\u00bc cup sour cream, for topping (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butternut Squash Enchiladas",
     "url": "http://allrecipes.com/recipe/213089/butternut-squash-enchiladas/"
 }

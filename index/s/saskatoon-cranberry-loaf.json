@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan.",
+        "Whisk flour, baking powder, and baking soda together in a small bowl.",
+        "Beat sugar and cream cheese together until smooth; stir in cranberries, saskatoon berries, and eggs until well combined. Stir flour mixture into cream cheese mixture to make a silky batter; pour batter into prepared pan and level the top with a spatula.",
+        "Bake in the preheated oven until a toothpick inserted near the center comes out clean, about 1 hour 15 minutes. Allow to cool in the pan 10 minutes; run a knife around edges of the pan to loosen, and invert onto a serving plate to cool completely before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1133327.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "\u00bd teaspoon baking soda",
+        "1 cup white sugar",
+        "\u00bd cup cream cheese, softened",
+        "1 cup cranberries, halved",
+        "\u00bd cup saskatoon berries",
+        "2  eggs, beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Saskatoon Cranberry Loaf",
     "url": "http://allrecipes.com/recipe/236757/saskatoon-cranberry-loaf/"
 }

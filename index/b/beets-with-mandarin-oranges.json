@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together sugar, vinegar, apple pie spice, and cornstarch in a large, microwave safe bowl until combined.",
+        "Cook in microwave on High until the mixture is boiling and has thickened, stirring occasionally, about 2 minutes. Stir the drained beets and mandarin orange segments into the thickened sauce. Allow the beets to reheat in the sauce, do not microwave further, or the mandarin oranges will come apart. Serve either warm or cold."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3364&h=1761&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3284977.jpg",
+    "ingredients": [
+        "\u00bc cup white sugar",
+        "\u00bc cup apple cider vinegar",
+        "\u00bd teaspoon apple pie spice",
+        "2 tablespoons cornstarch",
+        "1 (15 ounce) can sliced beets, drained",
+        "1 (15 ounce) can mandarin orange segments, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beets with Mandarin Oranges",
     "url": "http://allrecipes.com/recipe/159649/beets-with-mandarin-oranges/"
 }

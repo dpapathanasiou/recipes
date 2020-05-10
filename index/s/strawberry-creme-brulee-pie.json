@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss strawberries with brown sugar in a bowl and let stand while you complete remaining steps, about 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Whisk flour, 1 tablespoon white sugar, and 1/4 teaspoon salt in a bowl until thoroughly combined. Cut butter into the flour mixture until it resembles coarse crumbs, and drizzle in milk. Mix just until the dough holds together. Turn dough out onto a floured surface and roll out into a 10-inch circle. Fit dough into a 9-inch pie dish. Prick the dough several times on the bottom and sides; fill with dry beans or pie weights.",
+        "Bake the crust in the preheated oven until golden brown, about 25 minutes. Remove crust and let cool.",
+        "Bring cream just barely to a simmer in a saucepan over low heat. Whisk egg yolks thoroughly in a bowl with 1/4 teaspoon salt and add about 1 tablespoon of the hot cream to the beaten yolks, whisking constantly. Continue to add and whisk hot cream into the yolks until about 2/3 cup of cream has been added, then whisk the yolk mixture into the remaining hot cream in the saucepan, pouring it in a thin stream. Continue whisking until cream mixture is thick and smooth, about 5 more minutes; do not let boil or custard will curdle. Remove custard from heat and let stand until it reaches room temperature, about 30 minutes.",
+        "Drain juice from strawberries and layer them into the bottom of the baked pie shell. Spread cream custard over the berries; refrigerate until set, about 4 hours.",
+        "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+        "Sprinkle 1/4 cup white sugar evenly over top of pie and broil until the sugar is browned, about 5 minutes. Let pie stand 5 minutes for sugar topping to cool before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1364978.jpg",
+    "ingredients": [
+        "12 large strawberries, hulled and halved",
+        "\u2153 cup brown sugar",
+        "1 cup all-purpose flour",
+        "1 tablespoon white sugar",
+        "\u00bc teaspoon salt",
+        "\u00bd cup butter, softened",
+        "2 tablespoons milk",
+        "1 pint heavy whipping cream",
+        "6  egg yolks",
+        "\u00bc teaspoon salt",
+        "\u00bc cup white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Creme Brulee Pie",
     "url": "http://allrecipes.com/recipe/228961/strawberry-creme-brulee-pie/"
 }

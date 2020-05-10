@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pitcher, mix together the lemon juice and sugar. Stir in the orange juice, milk, and pineapple juice. Pour into a plastic container, and freeze until stiff."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/664120.jpg",
+    "ingredients": [
+        "1 cup lemon juice",
+        "1 1/2 cups sugar",
+        "1 cup orange juice",
+        "1 cup milk",
+        "1/2 cup pineapple juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruit Sherbet",
     "url": "http://allrecipes.com/recipe/52457/fruit-sherbet/"
 }

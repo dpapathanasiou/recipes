@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the milk and vinegar in a bowl; set aside until the milk sours, about 5 minutes.",
+        "Stir the egg, cornmeal, salt, and baking soda into the milk mixture until evenly mixed.",
+        "Melt some of the butter in a large skillet over medium heat. Pour 1/2 cup of the cornmeal mixture onto the skillet and cook until bubbles appear on the surface, 2 to 3 minutes. Flip with a spatula and cook until browned on the other side, 1 to 2 minutes more. Repeat until all batter is used."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/761088.jpg",
+    "ingredients": [
+        "1 1/4 cups milk",
+        "1 tablespoon vinegar",
+        "1 egg",
+        "1 cup cornmeal",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon baking soda",
+        "1 tablespoon butter, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kentucky Lace Cakes",
     "url": "http://allrecipes.com/recipe/219653/kentucky-lace-cakes/"
 }

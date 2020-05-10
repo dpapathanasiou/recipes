@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place beef and green onion in a large skillet over medium heat. Season with garlic powder and Old Bay seasoning. Cook, stirring, until browned. Stir in cream of potato soup, milk, and butter. Bring to a boil, stirring constantly; simmer for 15 minutes. If the sauce appears too soupy, whisk in flour to thicken.",
+        "Meanwhile, bring a large pot of lightly salted water to boil. Add olive oil and pasta, and cook until al dente, about 8 to 10 minutes. Drain.",
+        "To serve, place fettuccine on plates and ladle sauce over the top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=980&h=513&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2276369.jpg",
+    "ingredients": [
+        "\u00bd pound beef roast, cut into 1/4-inch cubes",
+        "\u00bc cup chopped green onion",
+        "1 pinch garlic powder",
+        "4 pinches Old Bay seasoning",
+        "1 (10.75 ounce) can condensed cream of potato soup",
+        "1\u2009\u00bd cups nonfat milk",
+        "1 tablespoon butter",
+        "1 pinch salt",
+        "1 tablespoon all-purpose flour",
+        "1 tablespoon olive oil",
+        "\u00bd pound dry fettuccini pasta"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fettuccini con Rinforza e Patata",
     "url": "http://allrecipes.com/recipe/87899/fettuccini-con-rinforza-e-patata/"
 }

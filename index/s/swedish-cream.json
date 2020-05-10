@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the cream, water, sugar, and gelatin in a saucepan over low heat.  Stir constantly until the gelatin has dissolved.  Remove from the heat and let cool slightly until thickened, about 10 minutes; it should be the consistency of beaten eggs. Fold in the sour cream, vanilla extract, and almond extract.  Pour into a mold, cover, and refrigerate until set, at least 4 hours, preferably overnight.",
+        "Loosen from mold by dipping into hot water.  Invert onto a serving plate to unmold.  Pour lingonberries over top."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1074928.jpg",
+    "ingredients": [
+        "1 cup heavy cream",
+        "3 tablespoons water",
+        "1/2 cup sugar",
+        "1 (.25 ounce) envelope unflavored gelatin",
+        "1 cup sour cream",
+        "1/2 teaspoon vanilla extract",
+        "1/2 teaspoon almond extract",
+        "1 cup frozen lingonberries, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Cream",
     "url": "http://allrecipes.com/recipe/55044/swedish-cream/"
 }

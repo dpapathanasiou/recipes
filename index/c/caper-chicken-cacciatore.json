@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet heat oil over medium heat. Season chicken pieces with salt and pepper to taste and brown chicken in hot oil. Remove chicken from skillet. Set aside.",
+        "In same skillet saute onions and mushrooms until translucent. Return chicken to skillet and add the tomatoes, soup and wine. When liquids start to simmer add the green olives, black olives, capers and pepperoni. Cover skillet and let simmer for 30 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Remove skillet cover, pour skillet mixture into a 9x13 inch baking dish and bake in preheated oven for about 15 minutes, until chicken is tender and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1996687.jpg",
+    "ingredients": [
+        "1 (4 pound) chicken, cut into pieces",
+        "salt and pepper to taste",
+        "\u00bc cup olive oil",
+        "2  onions, thinly sliced",
+        "\u00bd cup fresh sliced mushrooms",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 cup white wine",
+        "\u00bc cup pitted green olives",
+        "\u00bc cup black olives",
+        "2 tablespoons capers",
+        "8 ounces pepperoni sausage, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caper Chicken Cacciatore",
     "url": "http://allrecipes.com/recipe/8993/caper-chicken-cacciatore/"
 }

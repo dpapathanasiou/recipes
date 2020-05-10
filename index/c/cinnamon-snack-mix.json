@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "In a large bowl, mix honey graham cereal, bear-shaped graham cookies, ramen noodles, almonds, and golden raisins.",
+        "In a small saucepan over low heat, melt butter, and blend in honey and orange juice. Spread over the honey graham cereal mixture, and toss to coat.",
+        "Spread mixture onto a large baking sheet. Bake 10 minutes in the preheated oven."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F249311.jpg",
+    "ingredients": [
+        "5 cups honey graham cereal",
+        "3 cups cinnamon-flavored bear-shaped graham cookies",
+        "2 cups ramen noodles, crushed",
+        "\u00be cup sliced almonds",
+        "1 cup golden raisins",
+        "\u2153 cup butter",
+        "\u2153 cup honey",
+        "1 teaspoon orange juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Snack Mix",
     "url": "http://allrecipes.com/recipe/24899/cinnamon-snack-mix/"
 }

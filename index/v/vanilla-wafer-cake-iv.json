@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease and flour a 10 inch fluted tube pan such as a Bundt\u00ae. Mix together the coconut and ground pecans; set aside.",
+        "In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs one at a time. Beat in the crushed wafers alternately with the milk. Mix in the coconut and ground pecans. Pour batter into prepared pan.",
+        "Bake in the preheated oven for 60 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F722618.jpg",
+    "ingredients": [
+        "1 (8 ounce) package flaked coconut",
+        "1 cup ground pecans",
+        "\u00be cup butter",
+        "1\u2009\u00bd cups white sugar",
+        "6  eggs",
+        "1 (12 ounce) package vanilla wafers, crushed very fine",
+        "\u00bd cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vanilla Wafer Cake IV",
     "url": "http://allrecipes.com/recipe/24988/vanilla-wafer-cake-iv/"
 }

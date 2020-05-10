@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, mix the crushed pineapple, cornstarch and ground ginger. Gradually stir in enough of the reserved pineapple juice to make the mixture smooth.",
+        "In a medium saucepan over medium heat, blend orange juice and maple syrup. Cook and stir 5 minutes, until clear and thickened. Mix in the pineapple mixture. Continue to cook and stir until well blended and thick, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=640&h=335&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F28484.jpg",
+    "ingredients": [
+        "1 (20 ounce) can crushed pineapple in heavy syrup, drained with syrup reserved",
+        "1 tablespoon cornstarch",
+        "1 teaspoon ground ginger",
+        "\u00be cup orange juice",
+        "2 tablespoons maple syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Pineapple Sauce",
     "url": "http://allrecipes.com/recipe/26969/spicy-pineapple-sauce/"
 }

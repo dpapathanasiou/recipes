@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Grease 10 muffin cups.",
+        "Place ground beef and onion in a large skillet over medium heat; cook and stir until the meat is browned and crumbly, about 10 minutes. Drain excess grease. Stir in the chili powder, cumin, salt, garlic powder, tomato sauce, carrot, and olives, and bring the mixture to a simmer. Cover the skillet, and cook until thickened and the carrot is tender, about 20 minutes. Stir occasionally.",
+        "Working on a floured surface, separate each biscuit, and roll out into 4-inch circles. Press the circles of biscuit dough into prepared muffin cups; bake in the preheated oven until the cups are lightly browned, about 10 minutes. Remove the biscuit cups from the pan, and place onto a baking sheet.",
+        "Cut the 10 slices of American cheese into 3-inch circles, and cut jack-o'-lantern faces into the circles with a sharp paring knife. Chop remnants of cheese, and mix into the meat mixture. Fill the biscuit cups with meat mixture, and place a cheese face on top of each.",
+        "Return to the oven, and bake just until cheese begins to soften, 3 to 5 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1\u2009\u00bd pounds ground beef",
+        "1  onion, chopped",
+        "1 tablespoon chili powder",
+        "1 teaspoon ground cumin",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon garlic powder",
+        "1 (15 ounce) can tomato sauce",
+        "1 cup shredded carrot",
+        "1 (6 ounce) can chopped black olives, drained",
+        "1 (12 ounce) can refrigerated biscuit dough",
+        "10 slices American cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Halloween Jack-o'-Lantern Beef Pies",
     "url": "http://allrecipes.com/recipe/219294/halloween-jack-o-lantern-beef-pies/"
 }

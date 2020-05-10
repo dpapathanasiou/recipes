@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine peanut butter, sugar, butter, vanilla extract, and salt in a mixer; beat until mixed. Whisk heavy cream in a separate bowl until frothy; add to peanut butter mixture and beat until smooth and creamy. Pour peanut butter mixture into prepared chocolate cookie pie crust. Cover and chill in refrigerator until set, at least 12 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6426637.jpg",
+    "ingredients": [
+        "1 1/2 cups creamy peanut butter",
+        "1 1/4 cups white sugar",
+        "1/4 cup unsalted butter, softened",
+        "1 1/2 teaspoons vanilla extract",
+        "1 teaspoon salt",
+        "1 cup heavy whipping cream",
+        "1 (9 inch) prepared chocolate cookie pie crust (such as Oreo\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rich and Easy No Cook Peanut Butter Pie",
     "url": "http://allrecipes.com/recipe/223013/rich-and-easy-no-cook-peanut-butter-p/"
 }

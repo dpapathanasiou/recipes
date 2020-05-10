@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a shallow plate or bowl, mix the flour, seasoned salt, garlic powder, salt and pepper. Roll or shake the chicken pieces in the flour mixture and place on a platter. Then dip each chicken piece in the egg and roll again in flour mixture.",
+        "Heat oil in a deep-fryer or large skillet to 375 degrees F (190 degrees C).",
+        "Fry coated chicken pieces in hot oil for about 5 minutes on each side. Cover skillet  and cook on lower heat for about 10 minutes. Remove cover, turn up heat and fry for 5 minutes on each side to make chicken crispy. Chicken is done when it is no longer pink inside and its juices run clear. Drain fried chicken on paper towels and keep warm in oven until ready to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1987003.jpg",
+    "ingredients": [
+        "2 (2 to 3 pound) whole chickens, cut into pieces",
+        "3 cups all-purpose flour",
+        "5 tablespoons seasoned salt",
+        "3 tablespoons garlic powder",
+        "salt and pepper to taste",
+        "4  eggs, beaten",
+        "1 quart vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Millie Pasquinelli's Fried Chicken",
     "url": "http://allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/"
 }

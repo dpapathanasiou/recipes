@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F. Arrange bacon in a Reynolds(R) Bakeware Bacon Pan.",
+        "Bake for 8 minutes, until almost crisp. Drizzle the bacon with 1 tablespoon maple syrup and bake 4 to 6 minutes more or until glazed. Cook longer for crispier bacon. Cool and chop.",
+        "Stir together the cornmeal, flour, baking powder, and salt in a medium bowl. In a small bowl, whisk together milk, eggs, butter and remaining 4 tablespoons maple syrup. Add the milk mixture all at once to the cornmeal mixture. Add the chopped bacon. Stir just until moistened. Pour the batter into an 8x8-inch Reynolds(R) Bakeware Pan.",
+        "Bake 20 to 25 minutes or until edges are golden brown. Let cool slightly before serving.",
+        "Drizzle with additional maple syrup, if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1298768.jpg",
+    "ingredients": [
+        "Reynolds\u00ae Bakeware Bacon Pan",
+        "4 slices bacon",
+        "5 tablespoons maple syrup, divided, plus additional for serving (optional)",
+        "1 cup yellow cornmeal",
+        "3/4 cup all-purpose flour",
+        "2 1/2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "1 cup milk",
+        "2 eggs",
+        "1/4 cup butter, melted",
+        "Reynolds\u00ae Bakeware Pan"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Bacon Corn Bread",
     "url": "http://allrecipes.com/recipe/238762/sweet-bacon-corn-bread/"
 }

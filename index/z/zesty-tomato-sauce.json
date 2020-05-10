@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper or aluminum foil.",
+        "Toss tomatoes, butter, garlic, and thyme together in a bowl; pour onto prepared baking sheet.",
+        "Roast in the preheated oven until tomatoes are slightly charred and have reduced in size, about 1 hour.",
+        "Transfer tomato mixture to a blender; add black pepper and kosher salt. Blend until smooth."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1724&h=903&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2077634.jpg",
+    "ingredients": [
+        "4 pounds roma (plum) tomatoes, chopped",
+        "1 cup butter, cubed",
+        "6 cloves garlic, chopped",
+        "\u00bc cup chopped fresh thyme",
+        "2 tablespoons cracked black pepper",
+        "2 teaspoons kosher salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zesty Tomato Sauce",
     "url": "http://allrecipes.com/recipe/228387/zesty-tomato-sauce/"
 }

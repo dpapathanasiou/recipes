@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Warm the oil in a large saucepan over medium heat. Stir in the garlic, celery, and green onions. Cook, stirring frequently, until tender, about 3 minutes. Stir in beans, tomatoes, cream of mushroom soup, and water. Bring to a boil. Stir in dill, reduce heat to medium, and simmer 10 minutes. Stir in shrimp, and simmer until shrimp are pink, about 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/576008.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "3 cloves garlic, chopped",
+        "1 medium celery rib, chopped",
+        "2 green onions, chopped",
+        "1 (15 ounce) can red kidney beans, drained",
+        "1 (10 ounce) can tomatoes with green chilies",
+        "1 (10 ounce) can condensed cream of mushroom soup",
+        "3/4 cup water",
+        "1 sprig fresh dill",
+        "12 ounces medium shrimp - peeled and deveined"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Shrimp and Red Bean Soup",
     "url": "http://allrecipes.com/recipe/88128/spicy-shrimp-and-red-bean-soup/"
 }

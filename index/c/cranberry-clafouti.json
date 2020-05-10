@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Butter a 9x13-inch casserole dish.",
+        "Spread cranberries out in the bottom of the prepared casserole dish.",
+        "Whisk milk, cream, eggs, and egg yolks together in a bowl; add white sugar, orange liqueur, vanilla, and salt. Gradually add flour, whisking constantly. Pour egg mixture through a sieve over cranberries in casserole dish.",
+        "Bake in the preheated oven until cranberries are set and clafouti is set, about 45 minutes. Dust with confectioners' sugar."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1706&h=893&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1071023.jpg",
+    "ingredients": [
+        "1 tablespoon butter, or as needed",
+        "1 (12 ounce) package fresh cranberries",
+        "1 cup whole milk",
+        "1 cup heavy whipping cream",
+        "4 large eggs",
+        "2 large egg yolks",
+        "\u00be cup white sugar",
+        "\u00bc cup brandy-based orange liqueur (such as Grand Marnier\u00ae)",
+        "2 teaspoons vanilla extract",
+        "1 pinch salt",
+        "3 tablespoons all-purpose flour",
+        "2 tablespoons confectioners' sugar, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Clafouti",
     "url": "http://allrecipes.com/recipe/235288/cranberry-clafouti/"
 }

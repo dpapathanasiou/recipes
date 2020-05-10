@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease baking sheet with vegetable oil.",
+        "Put bread crumbs and ranch dressing into separate bowls.",
+        "Dip chicken into ranch dressing and press into bread crumbs to coat. Gently toss between your hands so any bread crumbs that haven't stuck can fall away. Arrange onto prepared baking sheet.",
+        "Bake in preheated oven until no longer pink in the center and the juices run clear, about 30 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4459242.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "2 cups dry bread crumbs",
+        "1 cup ranch-style salad dressing (such as Hidden Valley\u00ae Original Ranch\u00ae)",
+        "4  skinless, boneless chicken breast halves - lightly pounded to an even thickness"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Ranch Chicken",
     "url": "http://allrecipes.com/recipe/229486/baked-ranch-chicken/"
 }

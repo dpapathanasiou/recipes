@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large saucepan or Dutch oven over medium heat; cook and stir onion in the hot oil until softened, 3 to 5 minutes. Add sweet potatoes and enough vegetable broth to cover sweet potatoes; bring to a boil. Reduce heat, partially cover saucepan, and simmer until sweet potatoes are tender enough to easily pierce with a fork, about 30 minutes.",
+        "Stir chipotle peppers into the sweet potato mixture.",
+        "Blend sweet potato mixture with an immersion blender until soup is smooth. Whisk heavy cream and lime juice into soup until smooth and heated through; season with salt.",
+        "Serve each portion of soup topped with 2 tablespoons sour cream and a sprinkle of cilantro."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2735494.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 large yellow onion, chopped",
+        "3 1/2 pounds sweet potatoes, peeled and cut into 2-inch chunks",
+        "4 1/2 cups vegetable broth, or as needed",
+        "1 (7 ounce) can chipotle peppers in adobo sauce, drained",
+        "1/2 cup heavy cream",
+        "2 limes, juiced",
+        "salt to taste",
+        "1 cup sour cream",
+        "1/2 cup chopped fresh cilantro, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Chipotle Sweet Potato Soup",
     "url": "http://allrecipes.com/recipe/230369/spicy-chipotle-sweet-potato-soup/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Once cooked, spread the rice into a shallow dish, and refrigerate until cold, or use 1 1/2 cups leftover cooked rice.",
+        "Heat the oil in a wok or large skillet over medium-high heat. Stir in the garlic and cook a few seconds until fragrant, then stir in the carrots and onion, and continue cooking until the onion begins to soften. Add the cold rice, and cook and stir until hot. Pour in the soy sauce, soy seasoning, green onions, cashews, raisins, salt, and white pepper. Cook and stir until hot, then stir in the quartered lychees to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1944008.jpg",
+    "ingredients": [
+        "1 cup uncooked jasmine rice",
+        "1/2 cup water",
+        "3 tablespoons vegetable oil",
+        "2 cloves garlic, minced",
+        "2 tablespoons chopped carrot",
+        "1 tablespoon chopped onion",
+        "3 tablespoons soy-based liquid seasoning (such as Maggi\u00ae)",
+        "1/4 cup reduced-sodium soy sauce",
+        "2 tablespoons chopped green onion",
+        "1 tablespoon chopped cashews",
+        "1 teaspoon raisins",
+        "1/4 teaspoon white sugar",
+        "1/4 teaspoon white pepper",
+        "5 canned lychees, drained and quartered"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Rice with Lychees (Koa Pad Lin Gee)",
     "url": "http://allrecipes.com/recipe/125388/fried-rice-with-lychees-koa-pad-lin/"
 }

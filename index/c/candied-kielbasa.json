@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a slow cooker combine the sugar, ketchup and horseradish. Add the sausage, and mix well. Cook on High until it starts to boil.  Reduce heat to Low, and cook until sauce thickens, about 45 minutes to 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1132791.jpg",
+    "ingredients": [
+        "1 cup packed brown sugar",
+        "\u00bd cup ketchup",
+        "\u00bc cup prepared horseradish",
+        "2 pounds kielbasa sausage, sliced thin"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Candied Kielbasa",
     "url": "http://allrecipes.com/recipe/14809/candied-kielbasa/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cream the butter and sugar in a mixing bowl. Stir in the vanilla, water, flour, chocolate chips, and walnuts, if desired, and mix until well blended. Roll dough into bite-sized balls (or use a small ice cream scoop). Place on a baking sheet and freeze until firm, about 2 hours. Store balls in resealable plastic bags in the freezer."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/519627.jpg",
+    "ingredients": [
+        "1 cup butter, softened",
+        "1 1/2 cups brown sugar, packed",
+        "2 teaspoons vanilla extract",
+        "1 tablespoon water",
+        "2 cups all-purpose flour",
+        "3/4 cup mini semisweet chocolate chips",
+        "3/4 cup chopped walnuts, if desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Frozen Chocolate Chip Cookie Dough Balls",
     "url": "http://allrecipes.com/recipe/143255/frozen-chocolate-chip-cookie-dough-ba/"
 }

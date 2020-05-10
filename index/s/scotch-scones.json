@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together the flour, sugar, baking powder, and salt.  Cut in  butter by rubbing the mixture between your fingers until the mixture is fine and crumbly; stir in the raisins. In a small bowl, mix together the egg and milk; mix with dry ingredients to form a soft dough.",
+        "On a lightly floured surface, roll the dough out to 1/4 inch in thickness. Dip cutter into flour, and stamp out scones. You may need to re roll the dough to get 12.",
+        "Heat dry non-stick griddle over medium heat. Cook each side of the scone until slightly raised and golden brown in color. Transfer to a wire rack to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4577612.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "\u00be cup white sugar",
+        "1 tablespoon baking powder",
+        "salt",
+        "\u00be cup butter",
+        "\u00bd cup raisins",
+        "1  egg",
+        "\u00bc cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Scotch Scones",
     "url": "http://allrecipes.com/recipe/90053/scotch-scones/"
 }

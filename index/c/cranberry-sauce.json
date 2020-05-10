@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium sized saucepan over medium heat, dissolve the sugar in the orange juice. Stir in the cranberries and cook until the cranberries start to pop (about 10 minutes). Remove from heat and place sauce in a bowl. Cranberry sauce will thicken as it cools."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/743657.jpg",
+    "ingredients": [
+        "12 ounces cranberries",
+        "1 cup white sugar",
+        "1 cup orange juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Sauce",
     "url": "http://allrecipes.com/recipe/9111/cranberry-sauce/"
 }

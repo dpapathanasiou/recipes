@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large skillet over medium-high heat. Add the venison chunks, and cook until nicely browned on the outside and almost cooked through.",
+        "Prepare the beef flavored rice mix according to package directions. While the rice is cooking, add the venison, green pepper, red pepper and onion. Simmer until rice is done and peppers are tender."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/58710.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 pound venison stew meat",
+        "1 green bell pepper, seeded and sliced into strips",
+        "1 red bell pepper, seeded and sliced into strips",
+        "1 small onion, chopped",
+        "1 (6.8 ounce) package beef flavored rice mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Venison Tips and Rice",
     "url": "http://allrecipes.com/recipe/83744/venison-tips-and-rice/"
 }

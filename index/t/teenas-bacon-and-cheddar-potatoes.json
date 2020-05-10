@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Grease a 2-quart baking dish.",
+        "Place the potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two. Return potatoes to pot and roughly mash them with 1/4 cup butter.",
+        "Meanwhile, place the bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Remove all but 1 teaspoon of bacon drippings from the skillet. Drain the bacon slices on a paper towel-lined plate, and allow to cool. Crumble the bacon and set aside.",
+        "Place chopped onion in the skillet and cook and stir over medium-low heat until the onion has softened and turned translucent, about 5 minutes. Scrape onion out of the skillet over the potatoes.",
+        "Stir reserved bacon, cottage cheese, green onion, 1/2 cup of shredded Cheddar cheese, salt, and pepper into the potato mixture and mix lightly to combine. Spoon into the prepared baking dish, dot with 2 tablespoons of butter, and sprinkle with 1/4 cup of Cheddar cheese. Garnish top with paprika for color, and bake, uncovered, in oven for 30 minutes, until the top begins to brown and the cheese is melted and bubbling."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3496914.jpg",
+    "ingredients": [
+        "4 large russet potatoes, scrubbed and cut into pieces",
+        "\u00bc cup butter",
+        "4 slices thick sliced bacon",
+        "\u2153 cup chopped onion",
+        "1 cup cottage cheese",
+        "1\u2009\u00bd cups chopped green onion",
+        "\u00bd cup shredded Cheddar cheese",
+        "salt and pepper to taste",
+        "2 tablespoons butter, cut into pieces",
+        "\u00bc cup shredded Cheddar cheese",
+        "\u00bc teaspoon paprika, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Teena's Bacon and Cheddar Potatoes",
     "url": "http://allrecipes.com/recipe/76462/teenas-bacon-and-cheddar-potatoes/"
 }

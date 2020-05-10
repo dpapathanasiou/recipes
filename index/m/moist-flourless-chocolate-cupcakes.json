@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 275 degrees F (135 degrees C). Line 2 muffin tins with liners.",
+        "Combine chocolate chips and butter in a saucepan over medium-low heat. Stir until melted and smooth, about 3 minutes. Remove from heat. Let cool slightly, about 5 minutes. Whisk in egg yolks.",
+        "Beat egg whites in a large bowl with an electric mixer until soft peaks form. Gradually add sugar with mixer running, beating until peaks are stiff and glossy.",
+        "Stir some of the egg whites into the chocolate mixture to lighten it. Pour chocolate mixture into the bowl of egg whites and fold until batter is well-mixed.",
+        "Scoop batter into prepared muffin tin, filling each cup 3/4 of the way full.",
+        "Bake in the preheated oven until cupcakes are just set in the center, about 25 minutes. Place muffin tin on a wire rack to cool, about 5 minutes. Remove cupcakes from the tin and let cool completely, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1944&h=1018&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3638166.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups semisweet chocolate chips",
+        "6 tablespoons butter",
+        "6  eggs, separated",
+        "\u00bd cup white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Moist Flourless Chocolate Cupcakes",
     "url": "http://allrecipes.com/recipe/247335/moist-flourless-chocolate-cupcakes/"
 }

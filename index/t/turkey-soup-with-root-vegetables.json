@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the turkey carcass and water to a boil in a large pot over high heat. Skim off and discard any scum that forms. Add the chopped celery, chopped carrots, chopped Spanish onion, 1/4 bunch parsley, bay leaves, and peppercorns and return to a simmer. Reduce heat to medium-low and simmer uncovered for 3 hours. Strain the turkey broth through a mesh sieve and skim off any fat that floats to the surface.",
+        "Heat the olive oil in a large pot over medium heat. Stir in the red onion; cook until the onion has softened and turned translucent, about 5 minutes. Add the diced celery, diced carrots, parsnip, and rutabaga; cook 5 minutes more. Stir in the garlic and chopped parsley, and cook for 1 minute more. Pour in the turkey broth, season to taste with salt and pepper, and bring to a simmer over high heat.",
+        "Reduce heat to medium-low and simmer until the vegetables are nearly tender, 15 to 20 minutes. Stir in the orzo and cook until just tender, about 7 minutes. Cover and remove the pot from the heat. Let stand until the orzo is tender, about 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/692795.jpg",
+    "ingredients": [
+        "1 roast turkey carcass, cut into pieces",
+        "12 cups cold water",
+        "3 stalks celery, chopped",
+        "2 carrots, chopped",
+        "1 Spanish onion, chopped",
+        "1/4 bunch Italian parsley",
+        "2 bay leaves",
+        "12 whole black peppercorns",
+        "2 tablespoons olive oil",
+        "1 red onion, chopped",
+        "2 stalks celery, diced",
+        "2 carrots, diced",
+        "1 large parsnip, peeled and diced",
+        "1/2 pound rutabagas, peeled and diced",
+        "2 cloves garlic, minced",
+        "2 tablespoons minced Italian parsley",
+        "salt and black pepper to taste",
+        "1 cup uncooked orzo pasta"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey Soup with Root Vegetables",
     "url": "http://allrecipes.com/recipe/180516/turkey-soup-with-root-vegetables/"
 }

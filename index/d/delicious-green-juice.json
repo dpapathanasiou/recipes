@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend coconut milk, banana, mango, and spinach together in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2912647.jpg",
+    "ingredients": [
+        "1 cup coconut milk",
+        "1 banana",
+        "1 mango - peeled, seeded, and chopped",
+        "3/4 cup fresh spinach, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Delicious Green Juice",
     "url": "http://allrecipes.com/recipe/244820/delicious-green-juice/"
 }

@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking pan.",
+        "In a small mixing bowl combine flour, cocoa, baking powder and salt.",
+        "In a large bowl cream butter and sugar; beat in eggs and vanilla. Stir flour mixture into the creamed egg mixture. Spread batter into the greased 9x13 inch pan.",
+        "Bake for 15 to 20 minutes.",
+        "Sprinkle marshmallows over top of the baked bars; bake 3 minutes more. Cool.",
+        "Place chocolate chips and peanut butter in a microwave safe bowl. Melt chocolate chips and peanut butter in a microwave on high until melted together. Cook one minute at a time, stirring after each minute.",
+        "Stir cereal into the chocolate mixture. Spread the chocolate mixture over the cooled bars. Chill, cut into bars and refrigerate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F188267.jpg",
+    "ingredients": [
+        "\u00be cup all-purpose flour",
+        "2 tablespoons unsweetened cocoa powder",
+        "\u00bc teaspoon baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bd cup butter",
+        "\u00be cup white sugar",
+        "2  eggs",
+        "1 teaspoon vanilla extract",
+        "2 cups miniature marshmallows",
+        "1 cup semisweet chocolate chips",
+        "1 cup peanut butter",
+        "1\u2009\u00bd cups crisp rice cereal"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Double Chocolate Crumble Bars",
     "url": "http://allrecipes.com/recipe/11437/double-chocolate-crumble-bars/"
 }

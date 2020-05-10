@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place sweet potato cubes on a large microwave-safe plate. Cook in the microwave until softened, about 10 minutes.",
+        "Heat 2 tablespoons oil in a large saucepan over medium-high heat. Add half of the chopped onion; cook and stir until tender, 3 to 5 minutes. Add chicken; cook and stir until lightly browned, about 5 minutes. Transfer to a bowl.",
+        "Heat remaining 1 tablespoon oil in the saucepan. Cook and stir remaining onion with garlic until tender, 3 to 5 minutes. Add sweet potato, goat's milk, apples, yogurt, ginger, curry powder, cumin, turmeric, salt, and pepper; bring to a simmer. Return chicken to the saucepan. Simmer until flavors combine, about 10 minutes.",
+        "Stir chicken stock into the saucepan. Cook until heated through, about 1 minute."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4949616.jpg",
+    "ingredients": [
+        "1  sweet potato, cubed",
+        "3 tablespoons canola oil, divided",
+        "1 large onion, chopped, divided",
+        "4 large skinless, boneless chicken breasts, cut into 1-inch pieces",
+        "4 cloves garlic, minced",
+        "2 cups goat's milk",
+        "2 large apples, cubed",
+        "1 cup goat's milk yogurt",
+        "1 tablespoon grated fresh ginger",
+        "1 tablespoon curry powder",
+        "1 teaspoon ground cumin",
+        "\u00bd teaspoon ground turmeric",
+        "salt and ground black pepper to taste",
+        "\u00bc cup chicken stock (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Curry with Goat's Milk",
     "url": "http://allrecipes.com/recipe/257230/chicken-curry-with-goats-milk/"
 }

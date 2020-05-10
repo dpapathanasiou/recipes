@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cucumber and onion slices in a large bowl, layering with salt: cover with ice cubes. Let stand 11/2 hours. Drain; rinse; drain again.",
+        "Combine remaining ingredients except Pickle Crisp in a large saucepot; bring to a boil. Add drained cucumbers and onions and return to a boil.",
+        "Pack hot pickles and liquid into hot jars, 1/2-inch headspace. Add rounded 1/8 tsp Pickle Crisp(R) Granules to each jar. Remove air bubbles. Adjust two-piece caps.",
+        "Process 10 minutes in a boiling-water canner, adjusting for altitude."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/976866.jpg",
+    "ingredients": [
+        "4 pounds 4- to 6-inch cucumbers, cut into 1/4-inch slices",
+        "2 pounds onions, thinly sliced",
+        "1/2 cup canning salt",
+        "2 cups sugar",
+        "2 tablespoons mustard seed",
+        "2 teaspoons turmeric",
+        "2 teaspoons celery seed",
+        "1 teaspoon ginger",
+        "1 teaspoon peppercorns",
+        "3 cups vinegar",
+        "Ball\u00ae Pickle Crisp\u00ae Granules",
+        "7 Ball\u00ae or Kerr\u00ae Pint (16 oz) Jars with lids and bands"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Classic Crisp Bread and Butter Pickles",
     "url": "http://allrecipes.com/recipe/217933/classic-crisp-bread-and-butter-pickle/"
 }

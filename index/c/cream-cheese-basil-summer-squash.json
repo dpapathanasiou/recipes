@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a glass serving dish, combine the squash pieces and garlic. Season with salt, cover with plastic wrap, and microwave for 5 to 8 minutes on high, or until tender. Stir after every 3 to 4 minutes.",
+        "Sprinkle the cream cheese over the top, and return to the microwave, uncovered for about 1 minute, or until the cheese is melted. Stir until the cheese is smooth and blended into the squash. Let set for a minute or two before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3993123.jpg",
+    "ingredients": [
+        "3  yellow squash, cubed",
+        "1 clove garlic, minced",
+        "1 (8 ounce) package cream cheese, cubed",
+        "1 tablespoon dried basil leaves",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cream Cheese Basil Summer Squash",
     "url": "http://allrecipes.com/recipe/39460/cream-cheese-basil-summer-squash/"
 }

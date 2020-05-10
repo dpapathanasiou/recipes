@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rub pomfret with 1 teaspoon turmeric and a pinch of salt.",
+        "Mix remaining 1 teaspoon turmeric powder, red chile powder, and 2 teaspoons water in a small bowl to make a paste.",
+        "Combine 2 green chile peppers, tomato, mustard seeds, and salt in a food processor; grind into a paste. Thin paste with water if it appears too thick.",
+        "Heat oil in a large skillet over medium heat. Add fish; pan-fry until golden brown, 3 to 4 minutes per side. Transfer fish to a plate. Add remaining 2 green chile peppers and onion seeds; cook and stir until chile peppers darken, 1 to 2 minutes.",
+        "Pour turmeric paste into the skillet; cook and stir until mixture looks dry, about 1 minute. Pour in chile pepper paste; cook and stir until dry, about 1 minute. Pour in enough water to cover; bring to a simmer. Return fish to the skillet and continue simmering, covered, until fish flakes easily with a fork, about 6 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "4 (6 ounce) fillets pomfret fish, each cut in half",
+        "2 teaspoons ground turmeric, divided",
+        "salt to taste",
+        "1 teaspoon red chile powder",
+        "2 cups water, divided, or as needed",
+        "4 green chile peppers, slit, divided",
+        "1 tomato, chopped, or to taste",
+        "5 tablespoons mustard seeds",
+        "5 tablespoons vegetable oil",
+        "1 teaspoon onion seeds (kalonji)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pomfret Macher Jhaal (Pomfret Fish Curry)",
     "url": "http://allrecipes.com/recipe/247109/pomfret-macher-jhaal-pomfret-fish-cu/"
 }

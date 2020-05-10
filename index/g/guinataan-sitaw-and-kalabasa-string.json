@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cut the pork into bite-sized pieces. Whisk the thin coconut milk and shrimp paste together in a bowl. Pour into a large pot with the onion, ginger, and pork; bring the mixture to a boil, reduce the heat to medium-low, and simmer for 5 minutes.",
+        "Add the green beans, calabash, and green chile pepper; cover again and continue cooking until the mixture is nearly dry, about 10 minutes. Stir the thick coconut milk into the mixture. Add the prawns; reduce heat to medium, cover, and cook until nearly all the moisture is absorbed and prawns are pink, about 5 minutes. Serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1131669.jpg",
+    "ingredients": [
+        "8 ounces boneless pork loin chops",
+        "2 cups light coconut milk",
+        "2 tablespoons shrimp paste",
+        "1 onion, chopped",
+        "1 (2 inch) piece fresh ginger root, peeled and sliced",
+        "1/2 pound peeled and deveined prawns",
+        "1 pound fresh green beans, trimmed and cut into 2-inch pieces",
+        "1 (1 pound) calabash gourd, peeled and cut into cubes",
+        "1 green chile pepper, halved lengthwise",
+        "1 cup thick coconut milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Guinataan Sitar and Kalabasa (String Beans and Squash Stew)",
     "url": "http://allrecipes.com/recipe/212949/guinataan-sitaw-and-kalabasa-string/"
 }

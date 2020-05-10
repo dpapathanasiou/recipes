@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place corned beef in a 6-quart Dutch oven or heavy pot and pour in enough water to cover beef by 2 inches. Bring water to a boil, skimming the liquid occasionally to remove fat from top. Reduce heat to medium-low, cover Dutch oven with a lid, and simmer for 2 hours.",
+        "Arrange cabbage, potatoes, onions, and carrots around beef and return liquid to a boil. Lower heat to medium-low, cover Dutch oven, and simmer until vegetables are tender, about 40 minutes. Transfer beef to a serving platter, reserving 1 1/2 cups cooking liquid. Surround meat with the vegetables.",
+        "Melt butter in a small saucepan over medium heat. Whisk flour into melted butter until dissolved and bubbling, about 1 minute. Add reserved cooking liquid and vinegar to butter-flour mixture; cook, stirring frequently, until sauce is slightly thickened, about 4 minutes. Remove saucepan from heat and whisk sour cream and mustard into sauce. Serve sauce alongside corned beef and vegetables."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4440533.jpg",
+    "ingredients": [
+        "4 pounds corned beef brisket, or more to taste",
+        "water to cover",
+        "1 medium head cabbage, cored and cut into 6 wedges",
+        "12 small red potatoes, halved",
+        "1 pound small white onions, peeled",
+        "6 large carrots, peeled and cut in chunks",
+        "Sauce:",
+        "1 tablespoon unsalted butter",
+        "2 tablespoons all-purpose flour",
+        "1 tablespoon red wine vinegar",
+        "1/2 cup reduced-fat sour cream",
+        "2 tablespoons coarse Dijon mustard"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corned Beef Dinner for St. Patrick's Day",
     "url": "http://allrecipes.com/recipe/239927/corned-beef-dinner-for-st-patricks/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook pasta according to package directions.",
+        "Meanwhile, heat electric skillet or wok to high (400 degrees F.). Slice pork sirloin into thin strips; add to heated skillet with oil. Stir-fry until meat is browned, about 5 minutes.",
+        "Add vegetables, garlic and butter to meat in skillet; stir-fry until vegetables are crisp-tender, about 5 minutes.",
+        "Drain pasta and add to pork mixture with cheese and basil; toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2347765.jpg",
+    "ingredients": [
+        "1 (23 ounce) Smithfield\u00ae Garlic & Herb Seasoned Pork Sirloin",
+        "1 (8 ounce) package dry rotini pasta",
+        "2 tablespoons olive oil",
+        "2 small zucchini, sliced lengthwise and cut into 1/2-inch slices",
+        "1 small red onion, thinly sliced",
+        "8 ounces sliced fresh mushrooms",
+        "1/2 cup julienne sliced sun-dried tomatoes",
+        "1 teaspoon minced garlic",
+        "1/4 cup butter",
+        "1/2 cup grated Parmesan cheese",
+        "2 tablespoons chopped fresh basil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Stir Fried Pork & Pasta",
     "url": "http://allrecipes.com/recipe/244334/italian-stir-fried-pork-pasta/"
 }

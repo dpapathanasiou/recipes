@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot with boiling salted water cook angel hair pasta until al dente. Drain well.",
+        "In a large skillet over medium heat saute the chopped green bell peppers and onion in olive oil until tender. Stir in pepperoni slices until soft and heated through.",
+        "In a large bowl combine the drained pasta, sauteed vegetables ,and grated mozzarella and Parmesan cheese. Stir to evenly distribute ingredients. Pour out into a 2 quart microwave and oven safe dish.",
+        "Bake at 350 degrees C (175 degrees C) for 20 minutes. If using microwave, cook for 2 to 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1377225.jpg",
+    "ingredients": [
+        "2 (8 ounce) packages angel hair pasta",
+        "2 tablespoons olive oil",
+        "2 cups chopped green bell pepper",
+        "2 cups chopped onion",
+        "16 ounces sliced pepperoni sausage",
+        "2 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sauceless Spaghetti",
     "url": "http://allrecipes.com/recipe/11985/sauceless-spaghetti/"
 }

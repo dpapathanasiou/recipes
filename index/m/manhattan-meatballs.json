@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium-size mixing bowl, mix barbecue sauce and pineapple preserves together.",
+        "In a medium-size mixing bowl, combine meat, breadcrumbs, eggs, onions, salt, and parsley. Mix well and form into bite-size balls. Arrange the balls in a single layer in a 9x13 inch baking dish. Pour the barbecue sauce mixture evenly over the meatballs.",
+        "Bake for 30 to 45 minutes, until the meat is cooked."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F712287.jpg",
+    "ingredients": [
+        "2 pounds extra lean ground beef",
+        "2 cups dry bread crumbs",
+        "2  eggs",
+        "\u00bd cup minced onion",
+        "2 tablespoons chopped fresh parsley",
+        "2 teaspoons salt",
+        "1 cup barbecue sauce",
+        "1\u2009\u00bd (16 ounce) jars pineapple preserves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Manhattan Meatballs",
     "url": "http://allrecipes.com/recipe/16890/manhattan-meatballs/"
 }

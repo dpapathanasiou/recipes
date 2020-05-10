@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the pineapple in a large bowl, and toss with sweet and sour sauce. Cover, and marinate overnight in the refrigerator.",
+        "To prevent burning, place toothpicks in a small bowl of water and soak 10 minutes.",
+        "Place a paper towel over a microwave-safe dish and arrange part of the bacon on the towel; cover with another paper towel. Cook the bacon in a microwave oven on medium just until partially cooked and still pliable, 2 to 3 minutes. Repeat with remaining bacon. Cut bacon strips in half.",
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet and set aside.",
+        "Wrap half a bacon strip around each pineapple chunk. Secure bacon with a toothpick, and place on baking sheet. Repeat with remaining bacon and pineapple chunks.",
+        "Bake in preheated oven until bacon is crisp, 20 to 30 minutes. Cool 5 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4556944.jpg",
+    "ingredients": [
+        "2 (16 ounce) cans pineapple chunks, drained",
+        "1 (10 ounce) jar sweet-and-sour sauce",
+        "2 pounds bacon",
+        "1 box toothpicks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon-Wrapped Pineapple Bites",
     "url": "http://allrecipes.com/recipe/142584/bacon-wrapped-pineapple-bites/"
 }

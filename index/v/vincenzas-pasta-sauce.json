@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine ground beef, egg, Romano cheese, bread crumbs, parsley, salt, pepper, and water.  Mix until well blended. Roll meat mixture into balls about 1 inch to 1 1/2 inch in diameter. Set aside.",
+        "Place the pork ribs in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Transfer to a large stock pot. In the same skillet, cook the sausage until browned. Add to stock pot.",
+        "Fill the skillet with a mix of olive oil and vegetable oil to a level about 1 to 2 inches up the side of the pan. Heat over medium-high heat and place meatballs into the oil.  Do not attempt to turn the meatballs until they release from the bottom of the pan.  You want a nice crusty meatball. Once meatballs are done, add them to the stockpot, too. Pour 4 quarts of tomato puree into the stockpot and bring to a simmer over medium-high heat. Reduce heat and allow to simmer.",
+        "Drain most of the oil out of the skillet, but leaving enough to fry the onion.  Heat the oil over medium heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Reduce heat to medium-low, and continue cooking and stirring until the onion is very tender and dark brown, 15 to 20 minutes more. Stir in the can of tomato paste along with 3/4 cup of water, and the final quart of tomato puree into the skillet.  Let simmer for 5 to 10 minutes, then pour the sauce into stockpot. Simmer until the meats are tender, 1 to 3 hours, stirring occasionally."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2304&h=1206&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3636133.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1  egg",
+        "\u00be cup grated Romano cheese",
+        "\u00be cup dry bread crumbs",
+        "\u00bc cup chopped fresh parsley",
+        "salt and pepper to taste",
+        "\u00bd cup water",
+        "\u00bd pound pork spareribs",
+        "1 pound hot Italian sausage",
+        "1 cup olive oil for frying",
+        "1 cup vegetable oil for frying",
+        "5 quarts tomato puree, divided",
+        "\u00bc cup chopped onion",
+        "1 (6 ounce) can tomato paste",
+        "\u00be cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vincenza's Pasta Sauce",
     "url": "http://allrecipes.com/recipe/152257/vincenzas-pasta-sauce/"
 }

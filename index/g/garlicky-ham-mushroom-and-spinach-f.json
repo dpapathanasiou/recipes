@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat butter in a large ovenproof skillet over medium heat; cook and stir garlic and shallot in hot butter until shallot is softened, about 5 minutes. Stir mushrooms into shallot and garlic; cook and stir until mushrooms begin to brown, 8 to 10 minutes. Stir spinach into mushroom mixture, cover, and cook until spinach is wilted, about 5 more minutes, stirring occasionally.",
+        "Stir in ham, cook until ham begins to brown, about 5 minutes. Pour eggs evenly into skillet and cover.",
+        "Bake in the preheated oven until the frittata is set in the middle and lightly puffed, about 25 minutes. A knife inserted into the center of the frittata should come out clean. Sprinkle with Cheddar cheese, let stand until cheese has melted, about 5 minutes. Season with salt and black pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4052557.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "8 cloves garlic, smashed",
+        "1 shallot, sliced",
+        "1 (8 ounce) package sliced fresh mushrooms",
+        "4 cups bagged fresh spinach",
+        "3/4 cup diced cooked ham",
+        "9 eggs, beaten",
+        "1 cup shredded Cheddar cheese (optional)",
+        "salt and ground black pepper to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlicky Ham, Mushroom, and Spinach Frittata",
     "url": "http://allrecipes.com/recipe/230676/garlicky-ham-mushroom-and-spinach-f/"
 }

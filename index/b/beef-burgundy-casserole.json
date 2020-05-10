@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "In a large bowl combine the beef, dry soup mix, bouillon, onion and soup. Mix all together and pour mixture into a lightly greased 9x13 inch baking dish. Cover and bake in the preheated oven for 4 hours.",
+        "Add mushrooms and wine and bake for another 10 minutes. Add cooked egg noodles and mix all together. Serve with fresh bread and a green salad, if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2346&h=1228&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1044070.jpg",
+    "ingredients": [
+        "2 pounds beef roast, cut into cubes",
+        "\u00bd (1 ounce) package herb and lemon soup mix",
+        "1 cube beef bouillon",
+        "\u00bd cup chopped onion",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (4.5 ounce) can mushrooms, drained",
+        "\u00bd cup Burgundy wine",
+        "4 cups cooked egg noodles"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef Burgundy Casserole",
     "url": "http://allrecipes.com/recipe/14686/beef-burgundy-casserole/"
 }

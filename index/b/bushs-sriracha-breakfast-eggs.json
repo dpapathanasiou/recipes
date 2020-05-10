@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In 10-inch skillet, simmer tomatoes for 5 minutes.",
+        "With potato masher or back of spoon, crush tomatoes.",
+        "Add BUSH'S\u00ae Sriracha Beans and bring up to a simmer.",
+        "Using back of spoon or bottom of mug, make four wells in bean mixture and crack eggs into individual wells.",
+        "Cover and cook until egg whites are set, and yolks are still runny, about 5-8 minutes.",
+        "To serve, plate each egg and top with queso fresco. Serve with tortillas or on top of tostadas."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3955716.jpg",
+    "ingredients": [
+        "1 (15 ounce) can fire-roasted diced tomatoes",
+        "1 (21 ounce) can BUSH'S\u00ae Sriracha Beans",
+        "4 large eggs",
+        "4 tablespoons crumbled queso fresco, or to taste",
+        "Tortillas or tostadas",
+        "Sour cream (optional)",
+        "Sliced black olives (optional)",
+        "Shredded cheese of choice (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "BUSH'S&reg; Sriracha Breakfast Eggs",
     "url": "http://allrecipes.com/recipe/255414/bushs-sriracha-breakfast-eggs/"
 }

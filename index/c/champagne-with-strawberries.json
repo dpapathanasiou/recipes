@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Drop scoops of sherbet into 4 tall clear glasses. Top with strawberry slices, then pour in champagne until filled."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/786393.jpg",
+    "ingredients": [
+        "1 pint lemon sherbet",
+        "2 pints strawberries, hulled and sliced",
+        "2 cups champagne"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Champagne with Strawberries",
     "url": "http://allrecipes.com/recipe/105360/champagne-with-strawberries/"
 }

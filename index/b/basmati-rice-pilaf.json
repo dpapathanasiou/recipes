@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat chicken stock in a saucepan until boiling; keep hot until ready to use.",
+        "Heat vegetable oil in a 2 quart saucepan over medium-high heat. Cook and stir onion and bay leaf in the hot oil until onion is tender, about 5 minutes.",
+        "Stir basmati rice into onion mixture until rice is coated with oil.",
+        "Pour hot chicken stock into the rice mixture. Season with salt; stir.",
+        "Bring rice mixture to a boil; cover and reduce heat to medium-low. Continue simmering until rice is tender and liquid is absorbed, about 20 minutes.",
+        "Remove saucepan from heat and discard bay leaf. Add butter and fluff the rice with a fork."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F838569.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups chicken stock",
+        "1 tablespoon vegetable oil",
+        "\u00bc cup finely diced onion",
+        "1  bay leaf",
+        "1 cup uncooked basmati rice",
+        "salt to taste",
+        "1 tablespoon unsalted butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basmati Rice Pilaf",
     "url": "http://allrecipes.com/recipe/220673/basmati-rice-pilaf/"
 }

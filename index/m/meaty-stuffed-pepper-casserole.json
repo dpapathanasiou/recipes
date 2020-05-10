@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Melt butter in a large pot over medium heat; cook and stir green bell peppers, onion, and garlic in the hot butter until vegetables are slightly soft, 2 minutes. Stir sausage and ground beef into bell pepper mixture; cook until meat is crumbly and browned, stirring often, 10 to 12 minutes. Drain grease. Season mixture with  salt, black pepper, oregano, and garlic powder.",
+        "Mix diced tomatoes, rice, tomato paste, and Worcestershire sauce into meat mixture and bring to a simmer; cook until heated through, about 5 minutes, stirring occasionally. Pour mixture into a large baking dish.",
+        "Whisk tomato soup with water in a bowl until smooth; pour soup over meat mixture. Spread Cheddar cheese over casserole.",
+        "Bake in the preheated oven until casserole is heated through and Cheddar cheese is browned and bubbling, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2498772.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "6 small green bell peppers, chopped",
+        "1 large onion, chopped",
+        "2 cloves garlic, chopped",
+        "1 pound ground Italian sausage",
+        "1 pound ground beef",
+        "salt and ground black pepper to taste",
+        "1 pinch dried oregano, or to taste",
+        "1 pinch garlic powder, or to taste",
+        "2 (14.5 ounce) cans diced tomatoes",
+        "1 cup cooked white rice",
+        "1 (6 ounce) can tomato paste",
+        "2 teaspoons Worcestershire sauce",
+        "2 (10.75 ounce) cans condensed tomato soup",
+        "\u00bc (10.75 ounce) can water",
+        "2 cups shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meaty Stuffed Pepper Casserole",
     "url": "http://allrecipes.com/recipe/231565/meaty-stuffed-pepper-casserole/"
 }

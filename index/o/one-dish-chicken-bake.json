@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl combine the seasoning packet from the stuffing mix with the hot water and butter. Let stand until butter melts. Stir in the stuffing crumbs, just to moisten, and let stand for 5 minutes.",
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Place the chicken down the center of a 8x12 inch baking dish. Mix together the soup and milk and pour mixture over the chicken. Spoon some of the stuffing over the chicken breasts, then spoon the rest along the sides of the chicken. Bake in the preheated oven for 35 minutes or until the chicken is fully cooked and the juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F936341.jpg",
+    "ingredients": [
+        "1 (6 ounce) package chicken-flavor stuffing mix",
+        "1\u2009\u00bd cups hot water",
+        "\u00bc cup butter, cut into pieces",
+        "4  skinless, boneless chicken breasts",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "\u2153 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "One Dish Chicken Bake",
     "url": "http://allrecipes.com/recipe/8727/one-dish-chicken-bake/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large soup pot, saute apples with olive oil, onion, sage, nutmeg, cinnamon and cloves for 4-5 minutes or until slightly softened. Season with salt and pepper. Add milk, chicken broth and squash and bring the mixture to a simmer.",
+        "Cook for approximately 15 minutes or until the squash is nice and soft.",
+        "In a blender, puree the soup in small batches to achieve a nice, smooth consistency. When finished, transfer the soup back to the pot and bring it back to simmer. Season with salt and pepper.",
+        "Add the uncooked pasta to the soup and continue to cook for half the amount of time suggested on the pasta package - while stirring frequently.",
+        "Set the soup aside and let it rest for 25-30 minutes.",
+        "In a small skillet, toast the pumpkin seeds over medium heat for approximately 5 minutes, or until they are slightly golden.",
+        "Sprinkle the pumpkin seeds over each bowl before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2980205.jpg",
+    "ingredients": [
+        "1 (12 ounce) box Barilla\u00ae Gluten Free Elbows",
+        "4 tablespoons extra virgin olive oil",
+        "1 small onion, diced",
+        "2 Granny Smith apples, diced",
+        "1 tablespoon dried sage",
+        "1/4 teaspoon nutmeg",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground cloves",
+        "1 cup whole milk",
+        "3 quarts low-sodium chicken broth",
+        "1 small butternut squash, diced",
+        "1/4 cup unsalted pumpkin seeds",
+        "Salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten Free Autumn Squash Soup",
     "url": "http://allrecipes.com/recipe/245667/gluten-free-autumn-squash-soup/"
 }

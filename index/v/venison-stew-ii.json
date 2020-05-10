@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large soup pot, deeply brown the meat in oil.  Stir in onions, garlic. Worcestershire sauce, bay leaf, thyme, salt and 3 cups of water. Simmer, covered, for 1 1/2 to 2 hours, or until meat is tender.",
+        "Stir in  potatoes and parsnips; cook until tender. Combine flour and 1/4 cup water. Stir into the stew. Remove bay leaf before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4510193.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "2 pounds venison stew meat",
+        "3 onions, chopped",
+        "2 cloves garlic, minced",
+        "1 tablespoon Worcestershire sauce",
+        "1 bay leaf",
+        "1/2 teaspoon dried thyme",
+        "1 tablespoon salt",
+        "3 cups water",
+        "7 small potatoes, peeled and quartered",
+        "1 pound parsnip, chopped",
+        "1/4 cup all-purpose flour",
+        "1/4 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Venison Stew II",
     "url": "http://allrecipes.com/recipe/13449/venison-stew-ii/"
 }

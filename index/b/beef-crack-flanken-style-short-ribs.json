@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season short ribs with sugar and steak seasoning; rub over both sides.",
+        "Whisk soy sauce, vinegar, maple syrup, 2 tablespoons plus 2 teaspoon cayenne pepper, sesame oil, ginger, and red pepper flakes together in a small bowl to make marinade.",
+        "Pour marinade into a large resealable plastic bag. Add short ribs. Seal and let marinate in the refrigerator, 1 to 4 hours.",
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Remove short ribs from marinade; discard marinade. Grill short ribs until well-browned, about 3 minutes per side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4571835.jpg",
+    "ingredients": [
+        "2 pounds beef short ribs, cut flanken-style",
+        "2 tablespoons white sugar",
+        "2 tablespoons steak seasoning",
+        "\u2153 cup soy sauce",
+        "2 tablespoons white vinegar",
+        "2 tablespoons maple syrup",
+        "2 tablespoons cayenne pepper",
+        "2 teaspoons cayenne pepper",
+        "1 teaspoon sesame oil",
+        "\u00bd teaspoon ground ginger",
+        "\u00bd teaspoon red pepper flakes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef Crack (Flanken-Style Short Ribs)",
     "url": "http://allrecipes.com/recipe/254808/beef-crack-flanken-style-short-ribs/"
 }

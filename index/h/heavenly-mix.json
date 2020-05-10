@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl or disposable roasting pan, toss together the corn and rice cereal, rice cereal, almonds and coconut.",
+        "Combine the butter, sugar and corn syrup in a large saucepan and bring to a boil. Once boiling, continue to cook for 3 minutes. Pour over the cereals, using a large wooden spoon to stir the mixture until evenly coated. Spread out on a cookie sheet to cool. Store in an airtight container at room temperature."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 cups butter",
+        "2 cups white sugar",
+        "2 cups corn syrup",
+        "1 (17.5 ounce) package crispy corn and rice square cereal",
+        "1 (17.5 ounce) package crispy rice cereal squares",
+        "1\u2009\u00bd cups sliced almonds",
+        "1 cup sweetened flaked coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Heavenly Mix",
     "url": "http://allrecipes.com/recipe/153946/heavenly-mix/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix together cream cheese, sugar, and egg by hand.  Gradually mix in flour.  Stir in vanilla. Blend in milk until smooth; add more liquid if batter is too thick to pour.  Pour into graham or pastry shell.",
+        "Bake for 40 minutes, or until top is golden brown.  Refrigerate overnight."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2288&h=1198&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F21076.jpg",
+    "ingredients": [
+        "2 (8 ounce) packages cream cheese, softened",
+        "\u00be cup white sugar",
+        "1\u2009\u00bd tablespoons vanilla extract",
+        "1  egg",
+        "\u00bc cup all-purpose flour",
+        "\u00bd cup milk",
+        "1 (9 inch) graham cracker crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Daniel's Favorite Cheesecake",
     "url": "http://allrecipes.com/recipe/8104/daniels-favorite-cheesecake/"
 }

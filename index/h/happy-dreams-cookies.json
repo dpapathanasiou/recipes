@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees). Line baking sheets with foil.",
+        "Beat the egg whites until creamy. Gradually beat in the sugar and beat until stiff peaks form. Fold in the peanut butter chips, chocolate chips and walnuts. Fold in the vanilla. Drop by teaspoonfuls onto the prepared baking sheets.",
+        "Put them in the preheat 375 degrees F (190 degrees C) oven, turn off oven and go to bed. Cookies will be ready in the morning. Happy Dreams!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F622029.jpg",
+    "ingredients": [
+        "2  egg whites",
+        "\u2154 cup white sugar",
+        "\u00bd cup chopped walnuts",
+        "\u00bd cup peanut butter chips",
+        "\u00bd cup semi-sweet chocolate chips",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Happy Dreams Cookies",
     "url": "http://allrecipes.com/recipe/11300/happy-dreams-cookies/"
 }

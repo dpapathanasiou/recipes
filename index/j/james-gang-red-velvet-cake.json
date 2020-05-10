@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pre-heat oven to 350 degrees.  Grease and flour 2 9-inch or 3 8-inch round cake pans.",
+        "In a large bowl, mash together 1/2 cup of vegetable shortening with 1 1/2 cup of sugar until combined, then mix in the eggs, one at a time, stirring until the mixture is thoroughly blended. In a small bowl, stir the red food coloring with the cocoa powder to make a smooth paste, and stir the coloring into the shortening mixture.",
+        "Sprinkle in the salt, and mix in the flour in several additions, alternating with buttermilk. As you mix, sprinkle in the baking soda, then drizzle in the vinegar, butter extract, and vanilla extract. Stir just until the mixture is smooth. Pour batter into prepared cake pans.",
+        "Bake in the preheated oven until the cakes are set in the center and a toothpick inserted into the center of a cake comes out clean, about 30 minutes. Allow to cool.",
+        "In a saucepan over medium-low heat, whisk together 3 tablespoons of flour with milk until smooth. Bring just to a simmer, whisking constantly, and cook until thickened, about 30 seconds. Remove from heat, and let cool completely. In a bowl, mash together 1 cup of vegetable shortening with 1 cup of sugar and 1 teaspoon of vanilla extract until thoroughly combined, and slowly beat in the cooled milk mixture with an electric mixer, about 1 tablespoon at a time. Beat until the frosting is fluffy, 1 to 2 more minutes. Frost the cooled cake layers with the frosting, and sprinkle cake with coconut and chopped nuts to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F680532.jpg",
+    "ingredients": [
+        "\u00bd cup vegetable shortening",
+        "1\u2009\u00bd cups white sugar",
+        "2  eggs",
+        "2 ounces red food coloring",
+        "2 tablespoons unsweetened cocoa powder",
+        "1 teaspoon salt",
+        "2\u2009\u00bc cups all-purpose flour",
+        "1 cup buttermilk",
+        "1 teaspoon baking soda",
+        "1 tablespoon white vinegar",
+        "1 teaspoon butter flavored extract",
+        "1 teaspoon vanilla extract",
+        "3 tablespoons all-purpose flour",
+        "1 cup milk",
+        "1 cup vegetable shortening",
+        "1 cup white sugar",
+        "1 teaspoon vanilla extract",
+        "\u00bd cup flaked coconut, or as desired (optional)",
+        "1 tablespoon chopped nuts (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "James Gang Red Velvet Cake",
     "url": "http://allrecipes.com/recipe/218309/james-gang-red-velvet-cake/"
 }

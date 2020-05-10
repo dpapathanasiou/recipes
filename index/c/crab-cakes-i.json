@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan, boil potatoes in salted water to cover.  Drain, and set aside.",
+        "In a medium saute pan, heat 2 tablespoons oil over medium heat. Add onion and pepper; cook and stir until tender.",
+        "Transfer potatoes to a large bowl, and mash well.  Mix in cooked vegetables and crab meat.  Season to taste with salt and pepper.  Form into cakes about the size of hamburgers. Dip in beaten egg; roll in crumbs.",
+        "In a large, heavy skillet, heat oil over medium heat. Fry crab cakes in oil until golden brown, turning once."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1  onion, chopped",
+        "1  green bell pepper, chopped",
+        "2 tablespoons vegetable oil",
+        "2  potatoes",
+        "1 pound fresh Dungeness crabmeat",
+        "salt to taste",
+        "ground black pepper to taste",
+        "1  egg, beaten",
+        "1 cup cornflakes cereal, crumbled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crab Cakes I",
     "url": "http://allrecipes.com/recipe/12755/crab-cakes-i/"
 }

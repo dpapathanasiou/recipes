@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the orange juice, ginger ale, and champagne in the refrigerator to get them well chilled.",
+        "In a large punch bowl, place the block of sherbet in the center and pour the orange juice over the top. Next, pour the ginger ale over the sherbet. Finally, pour both bottles of champagne over the sherbet. Stir gently to mix the liquids, resulting in a foamy top. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/29471.jpg",
+    "ingredients": [
+        "1 quart orange sherbet",
+        "2 quarts fresh orange juice",
+        "1 (2 liter) bottle ginger ale, chilled",
+        "2 (750 milliliter) bottles champagne, chilled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "New Year's Champagne Punch",
     "url": "http://allrecipes.com/recipe/25853/new-years-champagne-punch/"
 }

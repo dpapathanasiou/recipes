@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F.",
+        "In a medium bowl, combine pie filling, raisins, lemon juice, one teaspoon of the vanilla, 1/2 teaspoon of the cinnamon and the salt.",
+        "Spread mixture evenly in the bottom of a 3-quart rectangular baking dish.",
+        "In a shallow dish whisk together eggs, milk, sugar, remaining 1/2 teaspoon of vanilla and remaining 1/4 teaspoon of cinnamon.",
+        "Dip bread slices in egg mixture, turning to coat both sides.",
+        "In a very large skillet, melt butter over medium heat. Add bread slices, half at a time, to hot skillet.",
+        "Cook for 3 to 5 minutes or until bread is lightly browned, turning once to brown both sides.",
+        "Arrange bread slices in a single layer atop apple mixture in dish.",
+        "Bake, uncovered, for 20 to 25 minutes or until heated through.",
+        "Cool slightly. Serve bread slices on serving plates and top with apple mixture."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/987648.jpg",
+    "ingredients": [
+        "1 (21 ounce) can LUCKY LEAF\u00ae Premium Apple Fruit Filling",
+        "1/4 cup golden raisins or dried cranberries",
+        "2 tablespoons lemon juice",
+        "3/4 teaspoon ground cinnamon",
+        "1/4 teaspoon salt",
+        "3 eggs",
+        "1/2 cup milk",
+        "1/4 cup sugar",
+        "6 (1 inch) thick slices brioche or challah"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "French Toast Apple Cobbler",
     "url": "http://allrecipes.com/recipe/229726/french-toast-apple-cobbler/"
 }

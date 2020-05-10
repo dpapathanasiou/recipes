@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease a cast iron skillet.",
+        "Mix together the cornmeal, flour, sugar, and salt in a bowl. Set aside.",
+        "In a separate bowl, whisk together the eggs and oil. Stir in the cottage cheese, onion, and zucchini.",
+        "Make a well in the dry ingredients and slowly pour in the wet ingredients. Mix until just combined. Pour into the skillet.",
+        "Bake until lightly browned and a toothpick inserted in the center comes out clean, 35 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F938115.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups self-rising cornmeal",
+        "\u00bc cup self-rising flour",
+        "1 tablespoon sugar",
+        "\u00bc teaspoon salt",
+        "2  eggs, beaten",
+        "\u00bd cup vegetable oil",
+        "\u00be cup cottage cheese",
+        "1  onion, chopped",
+        "1\u2009\u00bd cups grated unpeeled zucchini"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Skillet Zucchini Cornbread",
     "url": "http://allrecipes.com/recipe/171860/skillet-zucchini-cornbread/"
 }

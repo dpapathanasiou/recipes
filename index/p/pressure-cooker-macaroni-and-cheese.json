@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken broth, rotini, water, heavy cream, mild Cheddar cheese, sharp Cheddar cheese, extra-sharp Cheddar cheese, cream cheese, butter, Parmesan cheese, yellow mustard, salt, and black pepper in a pressure cooker. Seal and bring to high pressure according to manufacturer's instructions. Once full pressure is reached, cook for 7 minutes.",
+        "Release pressure using quick-release method according to manufacturer's instructions."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2787&h=1459&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3327791.jpg",
+    "ingredients": [
+        "3 cups chicken broth",
+        "1 pound rotini pasta",
+        "2 cups water",
+        "8 fluid ounces heavy whipping cream",
+        "1 cup shredded mild Cheddar cheese",
+        "1 cup shredded sharp Cheddar cheese",
+        "1 cup shredded extra-sharp Cheddar cheese",
+        "\u00bd (8 ounce) package cream cheese",
+        "3 tablespoons butter",
+        "1 tablespoon grated Parmesan cheese",
+        "1 teaspoon yellow mustard",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pressure Cooker Macaroni and Cheese",
     "url": "http://allrecipes.com/recipe/246122/pressure-cooker-macaroni-and-cheese/"
 }

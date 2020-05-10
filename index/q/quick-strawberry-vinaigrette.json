@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk oil, vinegar, and strawberry jam together in a bowl until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3221959.jpg",
+    "ingredients": [
+        "3/4 cup vegetable oil",
+        "1/4 cup white wine vinegar",
+        "1 1/2 tablespoons strawberry jam, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Strawberry Vinaigrette",
     "url": "http://allrecipes.com/recipe/237821/quick-strawberry-vinaigrette/"
 }

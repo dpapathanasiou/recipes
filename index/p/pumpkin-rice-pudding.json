@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the water to a boil in a saucepan over high heat and add the rice. Reduce heat to medium-low and simmer, uncovered, for 7 minutes; drain well.",
+        "Using the same saucepan, bring the milk to a boil over medium-high heat. Stir in the rice, vanilla bean, and salt. Reduce the heat to medium-low and simmer, stirring frequently, until the rice is very soft and absorbs most of the milk, 15 to 18 minutes. Remove the pan from the heat, discard the vanilla bean, and stir in the sugar.",
+        "Preheat an oven to 350 degrees F (175 degrees C). Grease a 2 quart baking dish.",
+        "Pour half of the rice pudding mixture into a large bowl. Add the pumpkin puree, ground cinnamon, ground ginger, and ground nutmeg. Spoon the pumpkin rice pudding into the prepared baking dish. Mix the raisins into the remaining rice pudding mixture, and spoon it over the pumpkin rice pudding.",
+        "Bake, uncovered until firm, about 30 minutes. Serve warm, sprinkled with cinnamon if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/974352.jpg",
+    "ingredients": [
+        "2 quarts water",
+        "1 cup Arborio rice",
+        "4 cups skim milk",
+        "1 vanilla bean, split lengthwise",
+        "1 pinch salt",
+        "1/3 cup white sugar",
+        "1 (15 ounce) can pumpkin puree",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground ginger",
+        "1/4 teaspoon ground nutmeg",
+        "1/2 cup raisins",
+        "ground cinnamon, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Rice Pudding",
     "url": "http://allrecipes.com/recipe/56139/pumpkin-rice-pudding/"
 }

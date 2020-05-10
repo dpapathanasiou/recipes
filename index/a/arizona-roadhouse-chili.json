@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place pinto beans in a large container and cover with several inches of cool water; let stand 8 hours to overnight.",
+        "Cook and stir beef in a large stockpot over medium-high heat until crumbly, evenly browned, and no longer pink, 7 to 10 minutes. Drain and discard grease from pot.",
+        "Drain pinto beans and add to stockpot; add onions, celery, carrots, garlic, red bell peppers, jalapeno peppers, Anaheim peppers, poblano peppers, diced tomatoes, guajillo chile powder, cumin, oregano, coriander, cinnamon, and hot pepper sauce. Reduce heat to medium-low and cook mixture at a simmer for about 3 hours.",
+        "Stir beef granules into the chili and continue simmering until beans are very tender and disintegrate easily, 1 to 3 hours more, adding water as needed to keep beans and vegetables immersed in liquid. Thicken the chili with masa harina if you prefer a thicker texture. Season with salt just before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2400&h=1257&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F959029.jpg",
+    "ingredients": [
+        "1 pound dried pinto beans",
+        "1 pound 90%-lean ground beef",
+        "2 large sweet onions, diced",
+        "3 cups diced celery",
+        "3  carrots, peeled and diced",
+        "6 cloves garlic, minced",
+        "2  red bell peppers, diced",
+        "4  jalapeno peppers, seeded and minced",
+        "2  Anaheim peppers, seeded and diced",
+        "2  poblano peppers, seeded and diced",
+        "1 quart diced tomatoes",
+        "2 tablespoons guajillo chile powder",
+        "1\u2009\u00bd tablespoons ground cumin",
+        "1 teaspoon dried oregano",
+        "1 teaspoon ground coriander",
+        "\u00bc teaspoon ground cinnamon",
+        "2 tablespoons hot pepper sauce",
+        "1 tablespoon beef bouillon granules",
+        "water, as needed",
+        "2 teaspoons masa harina flour (Mexican corn masa mix) (optional)",
+        "2 teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Arizona Roadhouse Chili",
     "url": "http://allrecipes.com/recipe/228924/arizona-roadhouse-chili/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk olive oil, soy sauce, red wine vinegar, lemon juice, Worcestershire sauce, garlic powder, salt, celery salt, pepper, onion powder, paprika, dill, sage, and rosemary together in a bowl until the mixture emulsifies and the salt is dissolved."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3582022.jpg",
+    "ingredients": [
+        "1/4 cup olive oil",
+        "3 tablespoons soy sauce",
+        "2 tablespoons red wine vinegar",
+        "1 tablespoon lemon juice",
+        "1 tablespoon Worcestershire sauce",
+        "1 1/2 teaspoons garlic powder",
+        "1 teaspoon salt",
+        "1/2 teaspoon celery salt",
+        "1/4 teaspoon ground black pepper",
+        "1/4 teaspoon onion powder",
+        "1/4 teaspoon ground paprika",
+        "1/4 teaspoon dried dill",
+        "1/4 teaspoon dried sage",
+        "1/4 teaspoon dried rosemary"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amazing Marinade",
     "url": "http://allrecipes.com/recipe/234899/amazing-marinade/"
 }

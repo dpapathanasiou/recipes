@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+        "Heat butterscotch chips and butter together in a saucepan, stirring frequently, over low heat until melted, about 5 minutes. Remove saucepan from heat and stir graham cracker crumbs into butterscotch mixture. Measure 2/3 cup graham cracker-butterscotch mixture and set aside; press remaining mixture into the prepared baking dish to form a crust.",
+        "Beat cream cheese in a bowl using an electric mixer until light and fluffy. Add sweetened condensed milk, egg, and vanilla extract; mix well. Pour cream cheese mixture over crust. Sprinkle reserved graham cracker-butterscotch mixture over cream cheese mixture layer.",
+        "Bake in the preheated oven until a knife inserted in the center comes out clean, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "cooking spray",
+        "1 (11 ounce) package butterscotch chips",
+        "\u00bd cup butter",
+        "2 cups graham cracker crumbs",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (14 ounce) can sweetened condensed milk (such as Eagle Brand\u00ae)",
+        "1  egg",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butterscotch Cheesecake Bars",
     "url": "http://allrecipes.com/recipe/239486/butterscotch-cheesecake-bars/"
 }

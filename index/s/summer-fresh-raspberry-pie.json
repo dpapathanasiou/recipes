@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 cup raspberries and 1/2 cup water in a saucepan over medium heat; cook and stir until raspberries soften, about 5 minutes. Strain raspberries into a bowl through a fine mesh sieve; discard seeds. Return mashed berries to the saucepan.",
+        "Stir cornstarch and 1/4 cup cold water in a bowl until dissolved and stir into mashed berries; add sugar.",
+        "Heat raspberry mixture over medium heat, stirring constantly, until thickened, about 5 minutes. Stir in lemon juice. Allow raspberry sauce to cool to room temperature.",
+        "Line the prepared pie crust with remaining 3 cups raspberries. Pour raspberry sauce over berries and chill until set. Serve garnished with whipped cream and lemon zest."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1051701.jpg",
+    "ingredients": [
+        "\u00bd cup water",
+        "4 cups fresh raspberries, divided",
+        "2 tablespoons cornstarch",
+        "\u00bc cup cold water",
+        "\u00bd cup white sugar",
+        "1 tablespoon lemon juice",
+        "1 (9 inch) baked pie crust",
+        "1 cup whipped cream for garnish",
+        "1 teaspoon lemon zest for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Summer Fresh Raspberry Pie",
     "url": "http://allrecipes.com/recipe/233072/summer-fresh-raspberry-pie/"
 }

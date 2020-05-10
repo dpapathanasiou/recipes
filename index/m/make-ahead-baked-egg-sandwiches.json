@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Spray a 9x13 inch baking dish with cooking spray.",
+        "Pour the beaten eggs into the prepared baking dish. Bake in the preheated oven until they set and are no longer runny, 8 to 10 minutes. Remove, allow to cool, and cut into 6 portions.",
+        "Butter the cut sides of the croissants and place one portion of the cooked egg onto each croissant bottom. Top each sandwich with two slices of ham and a slice of Colby-Jack cheese. Place the croissant tops on top of the sandwiches; wrap each sandwich well with plastic wrap. Place the sandwiches onto a baking sheet; freeze until solid, about 3 hours. Store frozen.",
+        "To reheat, cook a wrapped sandwich in a microwave on High until hot in the center, 1 to 2 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2856&h=1495&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F385273.jpg",
+    "ingredients": [
+        "12  eggs, beaten",
+        "\u00bc cup softened butter",
+        "6  croissants, split",
+        "12 slices smoked ham",
+        "6 slices Colby-Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Make-Ahead Baked Egg Sandwiches",
     "url": "http://allrecipes.com/recipe/167134/make-ahead-baked-egg-sandwiches/"
 }

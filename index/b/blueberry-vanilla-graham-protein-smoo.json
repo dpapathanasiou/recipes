@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine coconut water, banana, blueberries, kale, spinach, dates, almond butter, hemp seed hearts, flax seeds, oats, and protein powder in a blender. Cover and puree until smooth. Top with graham cracker crumbs."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4461645.jpg",
+    "ingredients": [
+        "1 cup coconut water, or to taste",
+        "1 banana, frozen",
+        "3/4 cup fresh blueberries",
+        "1/4 cup kale (optional)",
+        "1/4 cup spinach (optional)",
+        "2 Medjool dates, pitted and chopped",
+        "1 tablespoon almond butter",
+        "1 tablespoon hemp seed hearts",
+        "1 tablespoon flax seeds",
+        "1 tablespoon oats",
+        "1 scoop vanilla protein powder (optional)",
+        "2 tablespoons graham cracker crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry Vanilla Graham Protein Smoothie",
     "url": "http://allrecipes.com/recipe/254473/blueberry-vanilla-graham-protein-smoo/"
 }

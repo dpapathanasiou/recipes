@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "In a large plastic bag, combine the soup mix, red potatoes and olive oil. Close bag, and shake until potatoes are fully covered.",
+        "Pour potatoes into a medium baking dish; bake 40 minutes in the preheated oven, stirring occasionally."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (1 ounce) envelope dry onion soup mix",
+        "2 pounds red potatoes, halved",
+        "\u2153 cup olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oven Roasted Red Potatoes",
     "url": "http://allrecipes.com/recipe/13849/oven-roasted-red-potatoes/"
 }

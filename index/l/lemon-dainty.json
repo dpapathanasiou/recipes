@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Whisk sugar, flour, and salt together in a bowl; stir in milk, lemon juice, egg yolks, and lemon zest until smooth.",
+        "Beat egg whites in a glass or metal bowl until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks. Fold egg whites into flour mixture; pour into a 1-quart baking dish.",
+        "Set baking dish in a baking pan. Pour water into baking pan to make a 1-inch deep water bath around baking dish.",
+        "Bake in the preheated oven until set in the middle, about 50 minutes. Serve warm or cold."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1105822.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "1/4 cup all-purpose flour",
+        "1/4 teaspoon salt",
+        "1 cup skim milk",
+        "1/4 cup lemon juice",
+        "2 egg yolks, well beaten",
+        "1 1/2 teaspoons lemon zest",
+        "2 egg whites"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Dainty",
     "url": "http://allrecipes.com/recipe/235129/lemon-dainty/"
 }

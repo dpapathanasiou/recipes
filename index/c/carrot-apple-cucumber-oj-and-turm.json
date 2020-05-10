@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine orange juice, cucumber, carrots, apple, ice cubes, kale, lemon juice, flax seeds, chia seeds, and turmeric in a high-powered blender; blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4521680.jpg",
+    "ingredients": [
+        "1 1/2 cups orange juice",
+        "1/2 large cucumber",
+        "2 carrots",
+        "1 apple, cored",
+        "4 ice cubes",
+        "2 leaves kale",
+        "1/2 lemon, juiced",
+        "1 tablespoon flax seeds",
+        "1 tablespoon chia seeds",
+        "1 tablespoon ground turmeric"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carrot, Apple, Cucumber, OJ, and Turmeric Smoothie",
     "url": "http://allrecipes.com/recipe/247360/carrot-apple-cucumber-oj-and-turm/"
 }

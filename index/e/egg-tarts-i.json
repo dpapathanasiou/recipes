@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F (190 degrees C).",
+        "Cream butter and confectioners' sugar.  Mix in egg yolk, flour, and 2 tablespoons evaporated milk.  Roll dough out thinly, and cut out rounds with a fluted cutter.  Place into tart molds.",
+        "Bake for 12 minutes.",
+        "Beat eggs.  Mix in 1/5 cup evaporated milk, custard powder, and white vinegar.  Dissolve sugar in boiling water, and pour into custard mixture.  Mix well, and let stand to remove air bubbles.  Pour the egg custard into the baked tart shells.",
+        "Bake for 10 minutes.  Cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2197278.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "\u215d cup butter",
+        "1  egg yolk",
+        "7 tablespoons confectioners' sugar",
+        "2 tablespoons evaporated milk",
+        "5  eggs",
+        "\u00be cup white sugar",
+        "1\u2009\u215b cups boiling water",
+        "\u00bd cup evaporated milk",
+        "2 tablespoons custard powder",
+        "\u00bc teaspoon distilled white vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Egg Tarts I",
     "url": "http://allrecipes.com/recipe/12445/egg-tarts-i/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan or stockpot, combine the celery, onion, carrot, ginger, garlic, and a few of the mushrooms. Add chicken stock, beef bouillon, and water. Place the pot over high heat, and bring to a rolling boil. When the mixture reaches boiling, cover, reduce heat to medium, and cook for 45 minutes.",
+        "Place all of the remaining mushrooms into a separate pot. When the boiling mixture is done, place a strainer over the pot with the mushrooms in it. Strain the cooked soup into the pot with the mushrooms. Discard strained materials.",
+        "Serve the broth with mushrooms in small porcelain bowls, and sprinkle fresh chives over the top. Use Asian soup spoons for an elegant effect."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1066833.jpg",
+    "ingredients": [
+        "1/2 stalk celery, chopped",
+        "1 small onion, chopped",
+        "1/2 carrot, chopped",
+        "1 teaspoon grated fresh ginger root",
+        "1/4 teaspoon minced fresh garlic",
+        "2 tablespoons chicken stock",
+        "3 teaspoons beef bouillon granules",
+        "1 cup chopped fresh shiitake mushrooms",
+        "2 quarts water",
+        "1 cup baby portobello mushrooms, sliced",
+        "1 tablespoon minced fresh chives"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Japanese Onion Soup",
     "url": "http://allrecipes.com/recipe/49278/japanese-onion-soup/"
 }

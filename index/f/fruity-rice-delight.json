@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan bring water to a boil. Add rice and stir. Reduce heat, cover and simmer for 20 minutes.",
+        "In a medium bowl, blend 1/2 the fruit cocktail and the whipped cream. Drain any remaining fluid from the rice and mix 1/2 into the bowl. Continue mixing in the remaining fruit cocktail and rice until the desired consistency has been attained."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 cups water",
+        "1 cup uncooked white rice",
+        "1 (15.25 ounce) can fruit cocktail, drained",
+        "1 (8 ounce) container frozen whipped topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruity Rice Delight",
     "url": "http://allrecipes.com/recipe/22360/fruity-rice-delight/"
 }

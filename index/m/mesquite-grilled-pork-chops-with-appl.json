@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, combine applesauce, onion, jalapeno pepper, garlic, 1/2 teaspoon salt, and white pepper. Refrigerate several hours, or overnight.",
+        "Season chops with garlic powder, and salt and pepper to taste.",
+        "Preheat grill for medium-high heat.",
+        "Sprinkle soaked wood over coals, or place in the smoker box of a gas grill. Lightly oil grate, and place chops on grill. Cook for 6 to 8 minutes per side, or to desired doneness. Serve with applesauce salsa."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/875015.jpg",
+    "ingredients": [
+        "1 (16 ounce) jar applesauce",
+        "1 onions, quartered",
+        "1 jalapeno pepper, seeded and minced",
+        "1 clove garlic, minced",
+        "1/2 teaspoon salt",
+        "1 tablespoon ground white pepper",
+        "4 pork chops",
+        "1 1/2 teaspoons garlic powder",
+        "salt and pepper to taste",
+        "1 cup mesquite chips, soaked"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mesquite Grilled Pork Chops with Apple Salsa",
     "url": "http://allrecipes.com/recipe/14569/mesquite-grilled-pork-chops-with-appl/"
 }

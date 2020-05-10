@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a 9x13 inch casserole dish, mix the potatoes, onions, butter, and parsley. Season with salt and pepper.",
+        "Bake covered in the preheated oven for 45 minutes, stirring occasionally, or until potatoes are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2615574.jpg",
+    "ingredients": [
+        "8  potatoes, sliced",
+        "2 large sweet onions, sliced",
+        "\u00bd cup butter, sliced",
+        "1 tablespoon dried parsley",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Candie's Easy Potato and Onion Dish",
     "url": "http://allrecipes.com/recipe/24299/candies-easy-potato-and-onion-dish/"
 }

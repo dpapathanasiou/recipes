@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place chicken in a shallow baking dish and sprinkle with garlic powder. Cover and bake 1 hour at 350 degrees F (175 degrees C).",
+        "Remove baking dish from oven and drain any fat from dish. Pour the barbecue sauce evenly over the chicken and bake uncovered for 30 minutes at 350 degrees F (175 degrees C).  Remove and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F700228.jpg",
+    "ingredients": [
+        "1 (2 to 3 pound) whole chicken, cut into pieces",
+        "2 teaspoons garlic powder",
+        "1\u2009\u00bd cups prepared barbecue sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Bar-be-Que Chicken",
     "url": "http://allrecipes.com/recipe/8619/baked-bar-be-que-chicken/"
 }

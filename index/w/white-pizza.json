@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Crumble the sausage into a skillet over medium-high heat. Cook until evenly browned. Add onion, and cook for a few minutes. Drain excess grease, and stir in the Alfredo sauce. Spoon this mixture over the pre-baked pizza crust. Sprinkle cheese over the top.",
+        "Bake for 10 to 12 minutes in the preheated oven, until the cheese is melted. Allow to cool slightly before cutting to allow the toppings to set."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F93618.jpg",
+    "ingredients": [
+        "1 pound Italian sausage, casings removed",
+        "1 medium onion, chopped",
+        "\u00bd cup prepared Alfredo sauce",
+        "1 (12 inch) pre-baked pizza crust",
+        "1 (8 ounce) package shredded Italian cheese blend"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Pizza",
     "url": "http://allrecipes.com/recipe/43641/white-pizza/"
 }

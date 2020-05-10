@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease and flour a 9x13 inch pan. Mix together the sugar, flour, cocoa, baking powder, baking soda and salt. Set aside.",
+        "In a large saucepan bring butter and water to a boil. Remove from heat. Stir in flour mixture. Pour in buttermilk, eggs and vanilla; mix thoroughly.",
+        "Pour cake batter into prepared 9x13 inch baking pan.  Bake in preheated oven for 25 minutes or until a toothpick inserted in center comes out clean. Remove cake from oven and frost immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F46334.jpg",
+    "ingredients": [
+        "2 cups white sugar",
+        "2 cups all-purpose flour",
+        "\u00bc cup unsweetened cocoa powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon baking powder",
+        "1 teaspoon salt",
+        "\u00bd cup butter",
+        "1 cup water",
+        "\u00bd cup buttermilk",
+        "2  eggs, beaten",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot Water Chocolate Cake",
     "url": "http://allrecipes.com/recipe/17789/hot-water-chocolate-cake/"
 }

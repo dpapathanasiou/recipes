@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a deep skillet over low heat. Sprinkle sugar over the bottom. Season chicken thighs with salt and pepper; cook in batches until browned, about 5 minutes per side.",
+        "Transfer browned chicken to a plate. Remove skin.",
+        "Cook onion in the same skillet until softened, 5 to 10 minutes. Stir in tomatoes. Return chicken to the skillet. Pour in enough broth to cover the chicken halfway. Simmer, partially covered, until chicken is tender and no longer pink in the center, about 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3820452.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 tablespoon white sugar",
+        "2 pounds bone-in, skin-on chicken thighs, or more to taste",
+        "1 tablespoon salt",
+        "1 teaspoon ground black pepper",
+        "1 large onion, chopped",
+        "1/2 (14.5 ounce) can petite diced tomatoes, or more to taste",
+        "1 cup chicken broth, or more as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brazilian Chicken Stew (Galinha Ensopada)",
     "url": "http://allrecipes.com/recipe/254361/brazilian-chicken-stew-galinha-ensop/"
 }

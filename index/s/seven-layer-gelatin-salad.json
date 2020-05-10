@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Coat a 9x13 inch dish with cooking spray.",
+        "Dissolve one package of gelatin in 3/4 cup boiling water.  Stir in 3/4 cup cold water.  Spoon into pan and refrigerate until almost set, 45 minutes.",
+        "Dissolve another package of gelatin in 1/2 cup boiling water.  Stir in 1/2 cup cold water and 1/2 cup evaporated milk.  Spoon over first layer and refrigerate until almost set, 45 minutes.",
+        "Repeat steps 2 and 3 until all gelatin is used.  Just before serving, top with whipped topping."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/208871.jpg",
+    "ingredients": [
+        "7 (3 ounce) packages assorted fruit flavored Jell-O\u00ae mix",
+        "4 1/2 cups boiling water, divided",
+        "4 1/2 cups cold water, divided",
+        "1 (12 fluid ounce) can evaporated milk, divided",
+        "1 (8 ounce) container frozen whipped topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seven Layer Gelatin Salad",
     "url": "http://allrecipes.com/recipe/24704/seven-layer-gelatin-salad/"
 }

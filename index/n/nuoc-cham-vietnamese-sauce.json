@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix lime juice, fish sauce, sugar, water, red chile pepper, and garlic together in a bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3175279.jpg",
+    "ingredients": [
+        "3 tablespoons lime juice",
+        "2 tablespoons fish sauce, or more to taste",
+        "2 tablespoons white sugar, or more to taste",
+        "1 tablespoon water",
+        "1 red chile pepper, thinly sliced, or more to taste (optional)",
+        "1 clove garlic, thinly sliced (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nuoc Cham (Vietnamese Sauce)",
     "url": "http://allrecipes.com/recipe/245890/nuoc-cham-vietnamese-sauce/"
 }

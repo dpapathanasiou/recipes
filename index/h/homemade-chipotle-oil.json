@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil over medium heat in a saucepan until it reaches 165 degrees F (74 degrees C).",
+        "Pour ground chipotle peppers into a heatproof bowl. Pour oil over chipotle; whisk until chipotle is dissolved. Cover bowl with aluminum foil and seal tightly. Leave for a week, stirring once per day.",
+        "Pour chipotle oil through a fine mesh strainer into a bottle or glass container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3290042.jpg",
+    "ingredients": [
+        "2 cups vegetable oil",
+        "2 tablespoons ground dried chipotle pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Homemade Chipotle Oil",
     "url": "http://allrecipes.com/recipe/221955/homemade-chipotle-oil/"
 }

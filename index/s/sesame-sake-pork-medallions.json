@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine sake cooking wine, sugar, sesame oil and cornstarch. Stir to dissolve cornstarch; set aside.",
+        "Cut pork into 1/2-inch slices; season with salt and pepper to taste. Press half the sesame seeds onto one side of each medallion. Melt butter in 12-inch saute pan. Cook pork, seed side down, over medium-high heat until lightly browned, about 8 minutes. While cooking, press remaining sesame seeds onto tops of medallions. Turn over and continue to cook 4-6 minutes. Increase heat to high, add sauce and cook 2 minutes or until sauce bubbles and thickens slightly. Serve pork medallions drizzled with sake sauce. Sprinkle with any remaining sesame seeds and green onion."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/997969.jpg",
+    "ingredients": [
+        "1 cup Holland House\u00ae Sake Cooking Wine",
+        "2 tablespoons brown sugar, not packed",
+        "1 teaspoon toasted sesame oil",
+        "1 teaspoon cornstarch",
+        "1 1/2 pounds pork tenderloin",
+        "2 tablespoons toasted sesame seeds, or more if desired",
+        "2 tablespoons butter",
+        "Minced green onion (garnish)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sesame Sake Pork Medallions",
     "url": "http://allrecipes.com/recipe/231919/sesame-sake-pork-medallions/"
 }

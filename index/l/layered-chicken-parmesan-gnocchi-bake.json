@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly oil a 3-quart baking dish.",
+        "Cook gnocchi per package directions, but remove them from water before they are completely cooked. Drain well and set aside.",
+        "Whisk egg with a pinch of salt and pepper in a shallow bowl. Mix together in a separate shallow bowl Italian bread crumbs, 1/4 cup grated Parmigiano-Reggiano cheese, salt and pepper.",
+        "Butterfly chicken breasts and bread them: dip each breast first into bread crumb mixture, then into egg, then into bread crumb mixture again.",
+        "Heat oil in a large skillet over medium heat. Cook breaded chicken until golden brown and cooked through (internal temperature at least 165 degrees F), about 5 minutes on each side. Remove chicken from skillet.",
+        "Toss and quickly saute gnocchi in the same skillet for about 2 minutes.",
+        "Spread a layer of Ragu\u00ae Sauce on the bottom of a 3-quart baking dish. Spread gnocchi evenly over the sauce. Sprinkle some mozzarella and Parmigiano cheese over gnocchi.",
+        "Layer sliced mushrooms over the top. Spread half of the remaining sauce over the mushrooms and sprinkle some more mozzarella and Parmigiano over the top. Salt and pepper to taste.",
+        "Slice chicken and place pieces on top of mushrooms and cheese. Spoon the remaining sauce evenly over the top. Sprinkle with the remaining cheeses. Season to taste with salt and pepper, if desired.",
+        "Bake until sauce is bubbly and cheese is melted, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6009488.jpg",
+    "ingredients": [
+        "1 pound potato gnocchi, uncooked",
+        "1  egg",
+        "\u00be cup Italian bread crumbs",
+        "\u00bc cup freshly grated Parmigiano-Reggiano cheese",
+        "2 medium skinless, boneless chicken breast halves",
+        "1 tablespoon vegetable oil for frying, or as needed",
+        "2 cups shredded mozzarella cheese",
+        "1 cup freshly grated Parmigiano-Reggiano cheese",
+        "1 (24 ounce) jar Ragu\u00ae Chunky Tomato, Garlic & Onion Sauce",
+        "6 ounces baby bella (crimini) mushrooms, thinly sliced",
+        "Salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Layered Chicken Parmesan Gnocchi Bake",
     "url": "http://allrecipes.com/recipe/241970/layered-chicken-parmesan-gnocchi-bake/"
 }

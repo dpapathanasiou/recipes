@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse and drain the quinoa. Bring water and quinoa to a boil in a saucepan over high heat, stirring occasionally. Reduce heat, cover, and simmer for 15 minutes. Remove from the heat.",
+        "Blend together the milk, bananas, sugar, and salt in the bowl of a blender or food processor until smooth. Pour the milk mixture into the saucepan with the quinoa.",
+        "Place the pan over medium heat. Cook and stir until the mixture becomes thick and creamy, 5 to 10 minutes. Remove from the heat. Stir in the butter and vanilla and serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4517724.jpg",
+    "ingredients": [
+        "1 1/2 cups water",
+        "3/4 cup quinoa",
+        "2 cups whole milk",
+        "2 ripe bananas",
+        "2 tablespoons white sugar",
+        "salt to taste",
+        "1/2 tablespoon butter",
+        "1/2 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quinoa Pudding",
     "url": "http://allrecipes.com/recipe/142807/quinoa-pudding/"
 }

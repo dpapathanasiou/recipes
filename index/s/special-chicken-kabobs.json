@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, place the cubed chicken and onion juice. Mix in salt and pepper. Completely dissolve crushed saffron threads in the mixture. Cover and allow the chicken to marinate in the refrigerator 8 hours, or overnight.",
+        "Preheat an outdoor grill for high heat and lightly oil grate.",
+        "Place the marinated chicken on skewers. Frequently brush with butter while cooking on the prepared grill. Turning frequently, cook until meat is no longer pink and juices run clear, or to desired doneness."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1017&h=532&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4482823.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds skinless, boneless chicken breast halves - cubed",
+        "1 cup onion juice",
+        "salt and pepper to taste",
+        "1\u2009\u00bc teaspoons crushed saffron threads",
+        "\u00be cup melted butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Special Chicken Kabobs",
     "url": "http://allrecipes.com/recipe/21049/special-chicken-kabobs/"
 }

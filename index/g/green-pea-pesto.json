@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a small saucepan of water to a boil; add the peas and cook until softened. Drain.",
+        "Blend the peas, Parmesan cheese, garlic, lemon juice, basil, and pepper in a blender; while the it blends, stream the olive oil into the mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F566227.jpg",
+    "ingredients": [
+        "1 cup frozen peas",
+        "3 tablespoons grated Parmesan cheese",
+        "2 cloves garlic, minced",
+        "1 teaspoon lemon juice",
+        "\u00bd cup chopped fresh basil",
+        "ground black pepper to taste",
+        "2 tablespoons extra-virgin olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Pea Pesto",
     "url": "http://allrecipes.com/recipe/199126/green-pea-pesto/"
 }

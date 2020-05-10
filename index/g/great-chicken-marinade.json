@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken breasts between sheets of waxed paper and pound until thin. Remove breasts and place into a large resealable plastic bag.",
+        "In a medium mixing bowl, combine the oil, lemon juice, and Italian-style seasoning. Pour mixture into the plastic bag containing the chicken.",
+        "Seal the plastic bag and shake gently to ensure that all the chicken is in contact with the marinade. Refrigerate marinated chicken pieces overnight or up to two days.",
+        "When ready to cook, preheat grill and lightly oil grate. Place chicken breasts on the grill and cook for about 5 to 7 minutes per side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F372816.jpg",
+    "ingredients": [
+        "6  boneless, skinless chicken breast halves",
+        "\u2153 cup olive oil",
+        "\u2153 cup lemon juice",
+        "1 (.7 ounce) package Italian-style dressing mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Great Chicken Marinade",
     "url": "http://allrecipes.com/recipe/19623/great-chicken-marinade/"
 }

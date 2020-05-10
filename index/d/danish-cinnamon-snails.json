@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour the warm milk into a mixing bowl and mash in the fresh cake yeast. Mix in 6 1/2 tablespoons of soft butter, eggs, cardamom, 2 tablespoons sugar, salt, and 3 1/2 cups of the flour. Use a wooden spoon to mix the dough. If it's very sticky, mix in the remaining 1/2 cup of flour. Cover the bowl and let the dough rise for 30 minutes.",
+        "Cream together the 2/3 cup butter and 1/2 cup sugar. Stir in the cinnamon.",
+        "Transfer the dough to a floured surface and knead it until it's firm, about 3 minutes. Divide the dough in half; roll each half into a rectangle no more than 1/2 inch thick. Spread each rectangle with half the filling.",
+        "Stack one layer of dough and filling on top of the other rectangle of dough, filling-side up. Roll the dough up, starting with the edge closest to you, to form a long log. Cut the log into 1 inch-thick slices.",
+        "Preheat an oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper, or grease a baking dish or two cake pans.",
+        "Place the rolls on the prepared baking sheet, spacing them about 3 inches apart. If you like pull-apart rolls, arrange them in a greased baking dish or cake pans, spacing the rolls about 1 inch apart. Place the uneven end pieces on the baking sheet cut-side up for the best presentation. Let the rolls rest 20 minutes before baking.",
+        "Bake the snails in the preheated oven until golden brown, about 10 minutes. Pull-apart rolls will take longer to bake: after 10 minutes, reduce the oven temperature to 350 degrees F (175 degrees C) and bake the rolls until the sides are fully set, about 10 minutes longer. Cover the baking dish with foil if the rolls begin to get too brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup warm milk  (110 degrees F/45 degrees C)",
+        "3 (0.6 ounce) cakes cake yeast",
+        "6\u2009\u00bd tablespoons butter, room temperature",
+        "2  eggs",
+        "\u00bd teaspoon ground cardamom",
+        "2 tablespoons white sugar",
+        "\u00bc teaspoon salt",
+        "4 cups all-purpose flour, or as needed",
+        "\u2154 cup butter, softened",
+        "\u00bd cup white sugar",
+        "2 tablespoons ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Danish Cinnamon Snails",
     "url": "http://allrecipes.com/recipe/216784/danish-cinnamon-snails/"
 }

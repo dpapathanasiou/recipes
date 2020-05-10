@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 425 degrees F (220 degrees C).",
+        "In a saucepan over medium heat, stir together the potato, whole kernel corn, creamed corn, hard cooked eggs, salt, pepper and milk. Simmer for about 15 minutes.",
+        "Press one of the pie crusts in to the bottom and up the sides of a 9 inch pie plate. I like to use clear glass so I can check the bottom crust for doneness. Pour the hot filling into the crust. Dot with pieces of butter. Cover with the top crust, and flute the edges to seal. Cut a few slits in the top crust to vent steam. Place on a cookie sheet that has been lined with aluminum foil for easy clean up.",
+        "Bake for 30 minutes in the preheated oven, then reduce the temperature to 350 degrees F (175 degrees C). Bake for an additional 10 minutes, or until the crust is browned. Serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4032&h=2111&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3814084.jpg",
+    "ingredients": [
+        "1 large potato, peeled and chopped",
+        "1 (15 ounce) can whole kernel corn, drained",
+        "1 (15 ounce) can cream-style corn",
+        "3  hard-cooked eggs, chopped",
+        "salt and pepper to taste",
+        "\u00bd cup milk",
+        "1 tablespoon butter",
+        "1 (15 ounce) package double crust ready-to-use pie crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pennsylvania Dutch Corn Pie",
     "url": "http://allrecipes.com/recipe/85166/pennsylvania-dutch-corn-pie/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan over low heat, mix soy sauce, water and butter. Stir until the butter has melted, then gradually mix in the sugar until it is completely dissolved.",
+        "Place mushrooms in a slow cooker set to low, and cover with the soy sauce mixture. Cook 8 to 10 hours, stirring approximately every hour. Chill in the refrigerator until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F465588.jpg",
+    "ingredients": [
+        "2 cups soy sauce",
+        "2 cups water",
+        "1 cup butter",
+        "2 cups white sugar",
+        "4 (8 ounce) packages fresh mushrooms, stems removed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Marinated Mushrooms",
     "url": "http://allrecipes.com/recipe/25514/easy-marinated-mushrooms/"
 }

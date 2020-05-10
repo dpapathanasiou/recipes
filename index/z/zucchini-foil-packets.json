@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat a gas or charcoal grill over high heat.",
+        "Whisk together butter, Parmesan, basil and oregano; season with salt and pepper to taste.",
+        "Divide zucchini among 3 or 4 sheets of Reynolds Wrap\u00ae Heavy Duty Aluminum Foil. Spoon butter mixture over zucchini. Bring up foil sides. Double fold top and ends to seal packet, leaving room for heat circulation inside.",
+        "Place foil packets on the grill and cook until just cooked through, about 15 to 20 minutes.",
+        "Serve immediately, garnished with parsley, if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1069&h=560&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3799941.jpg",
+    "ingredients": [
+        "\u00bc cup unsalted butter, melted",
+        "\u00bc cup freshly grated Parmesan cheese",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "Kosher salt and freshly ground black pepper, to taste",
+        "4  zucchini, cut into 1/4-inch rounds",
+        "2 tablespoons chopped fresh parsley leaves",
+        "Reynolds Wrap\u00ae Heavy Duty Aluminum Foil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zucchini Foil Packets",
     "url": "http://allrecipes.com/recipe/247457/zucchini-foil-packets/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Bring a large pot of lightly salted water to a boil; add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain.",
+        "Heat olive oil in a skillet over medium-high heat. Saute onion in hot oil until tender, 5 to 7 minutes.",
+        "Mix penne pasta, onion, chicken, diced tomatoes, spinach, and cream cheese together in a baking dish until the cream cheese melts and coats everything. Sprinkle mozzarella cheese over the pasta mixture. Cover baking dish with aluminum foil.",
+        "Bake in the preheated oven for 30 minutes. Remove foil and continue baking until heated through and beginning to brown along the edges, about 15 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1118320.jpg",
+    "ingredients": [
+        "1 (8 ounce) package penne pasta",
+        "1 teaspoon olive oil",
+        "1 onion, chopped",
+        "3 cups chopped cooked chicken",
+        "1 (14 ounce) can Italian-style diced tomatoes",
+        "1 (10 ounce) package spinach",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 1/2 cups shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken, Spinach, and Cheese Pasta Bake",
     "url": "http://allrecipes.com/recipe/236586/chicken-spinach-and-cheese-pasta-ba/"
 }

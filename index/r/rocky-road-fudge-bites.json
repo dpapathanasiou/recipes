@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line 8-inch square pan with foil, with ends of foil extending over sides. Microwave half the chocolate, 6 Tbsp. butter and water in large microwaveable bowl on HIGH 2 min. or until butter is melted; stir with whisk until chocolate is completely melted and mixture is well blended.",
+        "Add dry pudding mix; stir 2 min. Add sugar, 1 cup at a time, stirring after each addition until blended. Press onto bottom of prepared pan.",
+        "Microwave remaining chocolate and butter in large microwaveable bowl 1-1/2 min. or until butter is melted; stir until chocolate is completely melted and mixture is well blended. Spread over fudge layer in pan; sprinkle with marshmallows and nuts. Refrigerate 2 hours or until firm. Use foil handles to lift fudge from pan before cutting into squares."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1611791.jpg",
+    "ingredients": [
+        "2 (4 ounce) packages BAKER'S Semi-Sweet Baking Chocolate, divided",
+        "1/2 cup butter or margarine, divided",
+        "1/3 cup water",
+        "1 (3.9 ounce) package JELL-O Chocolate Instant Pudding",
+        "3 cups powdered sugar",
+        "1/3 cup JET-PUFFED Miniature Marshmallows",
+        "1/3 cup PLANTERS COCKTAIL Peanuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rocky Road Fudge Bites",
     "url": "http://allrecipes.com/recipe/239974/rocky-road-fudge-bites/"
 }

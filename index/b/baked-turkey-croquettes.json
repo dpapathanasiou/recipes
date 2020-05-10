@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C). Line a baking sheet with parchment paper.",
+        "Stir panko bread crumbs and melted butter together in a shallow bowl; set aside to moisten.",
+        "Stir mashed potatoes, stuffing, and turkey together in a bowl. Roll about 1 1/2 tablespoons turkey mixture into a ball or log shapes; dip into beaten egg, roll in panko bread crumb mixture, and place on prepared baking sheet. Repeat with remaining turkey mixture.",
+        "Bake in the preheated oven until golden and crisp, about 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4896&h=2563&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3807633.jpg",
+    "ingredients": [
+        "\u00bd cup panko bread crumbs",
+        "1 teaspoon melted butter",
+        "1 cup mashed potatoes",
+        "1 cup prepared stuffing",
+        "1 cup chopped cooked turkey",
+        "1  egg, beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Turkey Croquettes",
     "url": "http://allrecipes.com/recipe/247369/baked-turkey-croquettes/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Roll out pizza dough, and place on a baking sheet. Mix mayonnaise, Parmesan, basil, and garlic in a small bowl. Spread mayonnaise mixture on pizza crust; top with sliced tomatoes. Sprinkle with mozzarella cheese.",
+        "Bake in preheated oven until crust is golden brown and cheese is bubbly, 15 to 20 minutes. Cut into squares to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2108&h=1104&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F962320.jpg",
+    "ingredients": [
+        "1 (10 ounce) container refrigerated pizza crust",
+        "\u00bc cup mayonnaise",
+        "\u00bc cup freshly grated Parmesan cheese",
+        "2 tablespoons chopped fresh basil",
+        "1 clove garlic, minced",
+        "3  roma (plum) tomatoes, sliced",
+        "1 cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato Basil Squares",
     "url": "http://allrecipes.com/recipe/134213/tomato-basil-squares/"
 }

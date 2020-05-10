@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix corn syrup and peanut butter in a large bowl until smooth; stir in rice cereal. Press cereal mixture into the bottom of a 9x13-inch baking dish. Cover and freeze until firm.",
+        "Cut cereal mixture in half, crosswise. Spread ice cream over half the cereal and press the second half over the ice cream to create a large sandwich. Cover and freeze again until firm.",
+        "Cut sandwich into bars and serve or wrap individually with aluminum foil."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4460039.jpg",
+    "ingredients": [
+        "1/2 cup corn syrup",
+        "1/2 cup peanut butter",
+        "3 cups crispy rice cereal (such as Rice Krispies\u00ae)",
+        "1 pint vanilla ice cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rice Crispy Ice Cream Sandwich Bars",
     "url": "http://allrecipes.com/recipe/231827/rice-crispy-ice-cream-sandwich-bars/"
 }

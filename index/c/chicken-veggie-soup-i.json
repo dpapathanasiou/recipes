@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan over medium high heat, combine the chicken stock, carrots and potatoes and simmer for 20 minutes, or until potatoes are tender. Add the mushrooms and simmer for 5 more minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 (14.5 ounce) cans chicken broth",
+        "1 cup baby carrots, halved",
+        "2  potatoes, peeled and cubed",
+        "\u00bd (4.5 ounce) can mushrooms, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Veggie Soup I",
     "url": "http://allrecipes.com/recipe/16011/chicken-veggie-soup-i/"
 }

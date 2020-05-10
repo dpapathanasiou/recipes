@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 250 degrees F (120 degrees C). Grease one baking sheet.",
+        "In a mixing bowl, whip together the egg white and water until frothy. In a separate bowl, mix together sugar, salt, and cinnamon.",
+        "Add pecans to egg whites, stir to coat the nuts evenly. Remove the nuts, and toss them in the sugar mixture until coated. Spread the nuts out on the prepared baking sheet.",
+        "Bake at 250 degrees F (120 degrees C) for 1 hour. Stir every 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1  egg white",
+        "1 tablespoon water",
+        "1 pound pecan halves",
+        "1 cup white sugar",
+        "\u00be teaspoon salt",
+        "\u00bd teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sugar Coated Pecans",
     "url": "http://allrecipes.com/recipe/13838/sugar-coated-pecans/"
 }

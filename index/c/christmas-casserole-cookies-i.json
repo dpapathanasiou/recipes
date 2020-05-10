@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a mixing bowl, beat eggs with an electric mixer. Add  1 cup sugar and beat well. Blend in nuts, dates, vanilla, coconut and almond extract. Transfer mixture to an ungreased 2 quart casserole.",
+        "Bake in a preheated 350 degrees F (175 degrees C) oven for 30 minutes. Remove the mixture from the oven while still hot and  beat well with a wooden spoon. Cool until the mixture can be handled then form into small balls and roll in the 1/4 cup remaining sugar."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5134880.jpg",
+    "ingredients": [
+        "2  eggs",
+        "1\u2009\u00bc cups white sugar",
+        "1 cup coarsely chopped walnuts",
+        "1 cup chopped dates",
+        "1 teaspoon vanilla extract",
+        "1 cup flaked coconut",
+        "\u00bc teaspoon almond extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Casserole Cookies I",
     "url": "http://allrecipes.com/recipe/18382/christmas-casserole-cookies-i/"
 }

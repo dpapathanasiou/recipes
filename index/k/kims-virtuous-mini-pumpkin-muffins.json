@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C). Grease 48 mini-muffin cups or line with paper muffin liners.",
+        "Stir the flour, sugar, baking powder, pumpkin puree, egg whites, milk, applesauce, salt, nutmeg, cinnamon, allspice, and ginger together in a large bowl until everything is just moistened; pour into prepared muffin cups.",
+        "Bake in the preheated oven until golden and the tops spring back when lightly pressed, about 15 minutes. Allow to cool completely on a wire rack before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F332526.jpg",
+    "ingredients": [
+        "3 cups all-purpose flour",
+        "1\u2009\u00bc cups white sugar",
+        "4 teaspoons baking powder",
+        "1 (15 ounce) can pumpkin puree",
+        "4  egg whites",
+        "1 cup milk",
+        "\u00bd cup applesauce",
+        "1\u2009\u00bd teaspoons salt",
+        "1 teaspoon ground nutmeg",
+        "\u00bc teaspoon ground cinnamon",
+        "\u00bc teaspoon ground allspice, or more to taste",
+        "\u00bc teaspoon ground ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kim's Virtuous Mini Pumpkin Muffins",
     "url": "http://allrecipes.com/recipe/186246/kims-virtuous-mini-pumpkin-muffins/"
 }

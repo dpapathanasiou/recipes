@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wrap a paper towel around the grated carrots and place in a microwave-safe bowl; heat in microwave until tender, about 1 minute. Cool carrots to room temperature and squeeze out as much juice as possible.",
+        "Rinse and thoroughly dry the shirataki noodles. Blend in a food processor until the consistency of small grains of rice is reached; transfer to a bowl.",
+        "Mix carrots, egg whites, chives, cilantro, curry powder, onion flakes, garlic powder, and salt with the ground noodles until evenly combined.",
+        "Coat a skillet with cooking spray and place skillet over high heat. Drop a heaping spoonful of the noodle mixture into the skillet and gently flatten with a metal spatula. Cook until lightly browned, about 3 to 4 minutes per side. Repeat with the remaining noodle mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1408062.jpg",
+    "ingredients": [
+        "2  carrots, grated",
+        "16 ounces tofu shirataki noodles",
+        "4  egg whites",
+        "\u00bc cup minced fresh chives",
+        "\u00bc cup minced fresh cilantro",
+        "1 tablespoon curry powder",
+        "1 teaspoon dried onion flakes",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon salt",
+        "cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shirataki-Carrot Curry Croquettes",
     "url": "http://allrecipes.com/recipe/238084/shirataki-carrot-curry-croquettes/"
 }

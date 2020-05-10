@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a large skillet over medium heat. Saute the onion and garlic until limp. Add the green pepper; cook and stir until tender. Drain the tomatoes, reserving juice, and pour them into the skillet. Season with thyme, parsley, cayenne, salt, and pepper. Simmer for 5 minutes over medium heat.",
+        "Add the frozen okra, and pour in enough of the reserved juice from the tomatoes to cover the bottom of the pan. Cover, and cook for 15 minutes, or until okra is tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F38435.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "\u00bd large onion, chopped",
+        "2 cloves garlic, minced",
+        "\u00bd  green bell pepper, chopped",
+        "1 (16 ounce) can diced tomatoes in juice",
+        "\u215c teaspoon dried thyme",
+        "2 tablespoons chopped fresh parsley",
+        "\u00bc teaspoon cayenne pepper",
+        "salt and pepper to taste",
+        "1 (16 ounce) package frozen cut okra"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creole Okra",
     "url": "http://allrecipes.com/recipe/77400/creole-okra/"
 }

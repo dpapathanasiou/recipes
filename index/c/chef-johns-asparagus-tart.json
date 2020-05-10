@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with a silicone baking mat.",
+        "Lay puff pastry out on the prepared baking sheet. Fold edges up to create a 1/2-inch wide border. Prick inside base of dough completely with a fork.",
+        "Bake in the preheated oven until golden and puffed, about 10 minutes. Press puffed center down with the back of a fork to deflate.",
+        "Bring a large pot of lightly salted water to a boil. Add asparagus and cook uncovered until bright green, about 1 minute. Drain in a colander and immediately immerse in ice water for several minutes until cold to stop the cooking process. Drain.",
+        "Stir mustard, creme fraiche, black pepper, and cayenne pepper together in a small bowl; spread into the bottom of the cooled tart shell. Lay asparagus spears, trimming as necessary to fit the tart shell, in the center of the tart on top of the mustard spread. Brush melted butter over the asparagus and crust and sprinkle Parmigiano-Reggiano cheese over the top.",
+        "Bake in the oven until pastry is browned and asparagus is tender, 10 to 12 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1  6x9-inch sheet frozen puff pastry, thawed",
+        "6 spears fresh asparagus, trimmed",
+        "1 tablespoon Dijon mustard",
+        "1\u2009\u00bd teaspoons creme fraiche",
+        "1 pinch ground black pepper",
+        "1 pinch cayenne pepper",
+        "2 teaspoons butter, melted",
+        "2 tablespoons freshly grated Parmigiano-Reggiano cheese, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Asparagus Tart",
     "url": "http://allrecipes.com/recipe/237176/chef-johns-asparagus-tart/"
 }

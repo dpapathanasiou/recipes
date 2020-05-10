@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cucumbers, 1 avocado (peeled and pitted), olive oil, lime juice, garlic, salt, and black pepper in a food processor. Puree until smooth. Transfer to a serving bowl.",
+        "Stir chopped avocado and tomatoes into soup. Serve at room temperature or chilled."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5692771.jpg",
+    "ingredients": [
+        "3 large cucumbers - peeled, seeded, and coarsely chopped",
+        "1 large avocado, peeled and pitted",
+        "2 tablespoons olive oil",
+        "2 limes, juiced",
+        "1 large clove garlic",
+        "salt and ground black pepper to taste",
+        "1 large avocado - peeled, pitted, and coarsely chopped",
+        "1 pint cherry tomatoes, halved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Avocado Cucumber Soup",
     "url": "http://allrecipes.com/recipe/220726/creamy-avocado-cucumber-soup/"
 }

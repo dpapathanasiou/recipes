@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 350 degrees F. Coat baking sheets with no-stick cooking spray.",
+        "Beat shortening and brown sugar in large bowl with electric mixer on medium speed until creamy. Beat in eggs, milk and vanilla. Combine flour, salt and baking soda in medium bowl. Add to egg mixture. Mix well. Stir in granola and chocolate chips. Drop by rounded tablespoonfuls onto prepared baking sheets.",
+        "Bake 9 to 10 minutes or until bottoms are lightly browned. Cool 2 minutes. Remove to wire rack to cool completely."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1456992.jpg",
+    "ingredients": [
+        "Crisco\u00ae Original No-Stick Cooking Spray",
+        "1/2 cup Crisco\u00ae Baking Sticks All-Vegetable Shortening",
+        "1 cup firmly packed brown sugar",
+        "2 large eggs",
+        "2 tablespoons milk",
+        "2 teaspoons vanilla extract",
+        "1 3/4 cups Pillsbury BEST\u00ae All Purpose Flour",
+        "3/4 teaspoon salt",
+        "1/2 teaspoon baking soda",
+        "2 1/2 cups prepared granola",
+        "1 cup semi-sweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Chip Granola Cookies",
     "url": "http://allrecipes.com/recipe/239353/chocolate-chip-granola-cookies/"
 }

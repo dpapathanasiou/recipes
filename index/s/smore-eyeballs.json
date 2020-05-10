@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Stir graham cracker crumbs, butter, and confectioners' sugar together in a bowl; mix until evenly moistened and press into an ungreased mini-muffin pan to form shallow cups.",
+        "Bake in the preheated oven until the edges are bubbling, about 5 minutes.",
+        "Break each chocolate bar into 12 equal pieces; place one piece into each graham cracker cup.",
+        "Paint red circles and lines to resemble blood-shot eyes on top of each marshmallow using red food coloring. Place painted marshmallows, painted-sides up, into graham cracker cups. Press 1 chocolate chip into the center of each marshmallow.",
+        "Bake in the preheated oven until marshmallows are slightly softened, 1 to 2 minutes. Cool in pan for 15 minutes before removing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1697041.jpg",
+    "ingredients": [
+        "8  whole graham crackers, crushed",
+        "6 tablespoons butter, melted",
+        "\u00bc cup confectioners' sugar",
+        "2 (1.5 ounce) bars milk chocolate candy bars (such as Hershey's\u00ae)",
+        "12  large marshmallows, cut in half crosswise",
+        "1 dash red food coloring, or as needed",
+        "24  semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "S'more Eyeballs",
     "url": "http://allrecipes.com/recipe/234421/smore-eyeballs/"
 }

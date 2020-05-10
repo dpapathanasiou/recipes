@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "The night before making the bread, in a medium sized mixing bowl, dissolve one packet of yeast and the sugar in 2 cups of water. Let stand until creamy, about 10 minutes. Stir in the rye flour until the mixture is smooth. Cover and let stand overnight.",
+        "The next day, dissolve the remaining package of yeast in the buttermilk. Add the rye flour mixture,  the baking soda, the salt, 4 cups of the bread flour and stir to combine. Add the remaining 4 cups of bread flour, 1/2 cup at a time, stirring well after each addition (you may not need to add all of the flour). When the dough has become a smooth and coherent mass, turn it out onto a lightly floured surface and knead until smooth and supple, about 8 minutes. Sprinkle the caraway seeds on the dough and knead them in until they are evenly distributed throughout the dough.",
+        "Lightly oil a large mixing bowl. Place the dough in the bowl and turn to coat with the oil. Cover with a damp cloth and let rise in a warm place for about 1 hour or until the volume has doubled.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Turn the dough onto a lightly floured surface and divide into three pieces. Form each piece into a loaf and place in 3 lightly greased 9x5 inch bread pans. Cover and let rise until nearly doubled, about 1 hour.",
+        "Bake at 350 degrees F (175 degrees C) for about 35 minutes or until the bottom of the loaves sound hollow when tapped."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F366263.jpg",
+    "ingredients": [
+        "2 (.25 ounce) packages active dry yeast",
+        "1 teaspoon white sugar",
+        "2 cups water",
+        "4 cups rye flour",
+        "1 cup buttermilk, room temperature",
+        "1 teaspoon baking soda",
+        "1 tablespoon salt",
+        "8 cups bread flour",
+        "1 tablespoon caraway seed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Polish Sourdough Rye Bread",
     "url": "http://allrecipes.com/recipe/16159/polish-sourdough-rye-bread/"
 }

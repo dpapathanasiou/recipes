@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large skillet over medium heat. Add the onion, garlic, green bell pepper, celery and oregano. Saute for 5 minutes, or until onion is tender. Transfer this mixture to a plate and reserve for later.",
+        "In the same skillet over medium high heat, combine the ground beef and sausage and saute for 10 minutes, or until well browned. Add reserved onion mixture, chili sauce, vinegar, Worcestershire sauce and brown sugar and mix well. Season with salt and pepper to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F197748.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "\u00bd cup chopped green bell pepper",
+        "1 stalk celery, chopped",
+        "\u00bd teaspoon dried oregano",
+        "1 pound ground beef",
+        "\u00bd pound Italian sausage",
+        "1 (12 fluid ounce) can or bottle chili sauce",
+        "2 tablespoons red wine vinegar",
+        "1 tablespoon Worcestershire sauce",
+        "2 teaspoons brown sugar",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jeff's Sloppy Joes",
     "url": "http://allrecipes.com/recipe/16365/jeffs-sloppy-joes/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Roll out pie crust lengthwise to fit into the bottom a 13x9-inch baking dish with a good 1/2-inch of the crust up all sides.",
+        "Mix apple pie filling, ricotta cheese, egg, and shredded Cheddar cheese together in a bowl; pour over the pastry and flatten into a smooth layer.",
+        "Mix flour, brown sugar, salt, and cinnamon together in a separate bowl. Mash butter into the flour mixture with a fork or pastry cutter until mixture is crumbly. Sprinkle over the apple pie mixture in the pan.",
+        "Bake in preheated oven until crust is a good caramel-brown color, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=7560&h=3958&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1856532.jpg",
+    "ingredients": [
+        "1  prepared pie pastry (such as Pillsbury\u00ae Pie Crust)",
+        "1 (21 ounce) can apple pie filling",
+        "7\u2009\u00bd ounces part-skim ricotta cheese",
+        "1  egg, beaten",
+        "1\u2009\u00bd ounces shredded Cheddar cheese",
+        "\u00bc cup all-purpose flour",
+        "3 tablespoons brown sugar",
+        "1 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1 tablespoon butter, softened"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple-Cheese Tart",
     "url": "http://allrecipes.com/recipe/239595/apple-cheese-tart/"
 }

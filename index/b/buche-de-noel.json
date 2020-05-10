@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C). Line a 10x15 inch jellyroll pan with parchment paper. In a large bowl, whip cream, 1/2 cup confectioners' sugar, 1/2 cup cocoa, and 1 teaspoon vanilla until thick and stiff. Refrigerate.",
+        "In a large bowl, use an electric mixer to beat egg yolks with 1/2 cup sugar until thick and pale. Blend in 1/3 cup cocoa, 1 1/2 teaspoons vanilla, and salt. In large glass bowl, using clean beaters, whip egg whites to soft peaks. Gradually add 1/4 cup sugar, and beat until whites form stiff peaks.  Immediately fold the yolk mixture into the whites. Spread the batter evenly into the prepared pan.",
+        "Bake for 12 to 15 minutes in the preheated oven, or until the cake springs back when lightly touched. Dust a clean dishtowel with confectioners' sugar. Run a knife around the edge of the pan, and turn the warm cake out onto the towel. Remove and discard parchment paper. Starting at the short edge of the cake, roll the cake up with the towel. Cool for 30 minutes.",
+        "Unroll the cake, and spread the filling to within 1 inch of the edge. Roll the cake up with the filling inside. Place seam side down onto a serving plate, and refrigerate until serving. Dust with confectioners' sugar before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 cups heavy cream",
+        "\u00bd cup confectioners' sugar",
+        "\u00bd cup unsweetened cocoa powder",
+        "1 teaspoon vanilla extract",
+        "6  egg yolks",
+        "\u00bd cup white sugar",
+        "\u2153 cup unsweetened cocoa powder",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "\u215b teaspoon salt",
+        "6  egg whites",
+        "\u00bc cup white sugar",
+        "confectioners' sugar for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buche de Noel",
     "url": "http://allrecipes.com/recipe/17345/buche-de-noel/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend kale, spinach, parsley, pineapple juice, and pineapple in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1108905.jpg",
+    "ingredients": [
+        "1 cup chopped fresh kale",
+        "1 cup baby spinach",
+        "1 cup fresh parsley",
+        "1 cup pineapple juice, or more to taste",
+        "1 fresh pineapple spear (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Liquid Green Platinum Drink",
     "url": "http://allrecipes.com/recipe/236797/liquid-green-platinum-drink/"
 }

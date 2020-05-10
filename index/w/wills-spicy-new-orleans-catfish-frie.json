@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lay catfish fillet horizontally on cutting board. Cut thin 1/4 inch wide strips from the filet at a 45 degree angle. This is easy if your knife is sharp, and the filet is partly frozen.",
+        "Dust fish strips moderately with cayenne pepper, and gently tumble together to evenly coat all strips. They should look pink all over when you are through. On the Bayou, this is called a dry marinade. Place catfish strips on a plate or pan, and set aside for a few minutes to thaw.",
+        "Heat oil in deep-fryer to 365 degrees F (185 degrees C). Place enough corn flour to bread your catfish on a bowl or plate, and season with salt and black pepper.",
+        "Place thawed catfish into seasoned corn flour, and tumble gently until all strips are evenly coated. Deep fry in hot oil for about 3 minutes, or until done. Fish should be golden brown, slightly crisp outside, and moist and flaky inside when done."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1132112.jpg",
+    "ingredients": [
+        "1 (10 ounce) fillet frozen catfish",
+        "1 teaspoon cayenne pepper, or to taste",
+        "1/2 cup corn flour",
+        "salt and pepper to taste",
+        "1 quart oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Will's Spicy New Orleans Catfish Fries",
     "url": "http://allrecipes.com/recipe/76132/wills-spicy-new-orleans-catfish-frie/"
 }

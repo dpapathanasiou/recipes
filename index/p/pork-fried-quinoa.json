@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse quinoa in cold water for about 1 minute and drain well.",
+        "Place in a saucepan and cover with 1 1/2 cup cold water and salt. Bring to a boil and reduce heat to low. Simmer, covered, until quinoa is tender, about 15 minutes. Remove from heat and let sit for 5 minutes.",
+        "Fluff quinoa with a fork and set aside.",
+        "Heat vegetable oil in a large skillet over medium heat. Cook and stir ham, red bell pepper, and the white parts of the green onion until the ham begins to brown, about 5 minutes. Set chopped green onion tops aside. Add garlic, remove from heat, and stir until garlic becomes aromatic, 1 or 2 minutes.",
+        "Stir in quinoa and return to stove over medium-low heat. Cook and stir until warmed through, 2 to 3 minutes. Remove from heat and add vinegar, soy sauce, chile-garlic sauce, and sesame seeds. Garnish with reserved green onion tops."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1088858.jpg",
+    "ingredients": [
+        "1 cup quinoa",
+        "1 1/2 cups cold water",
+        "salt to taste",
+        "1 tablespoon vegetable oil",
+        "1 cup cubed fully cooked ham",
+        "1/2 cup diced red bell pepper",
+        "1/2 cup chopped green onion, white and green parts separated",
+        "3 cloves garlic, minced",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon soy sauce, or to taste",
+        "1 teaspoon chile-garlic sauce (such as Sriracha\u00ae), or more to taste (optional)",
+        "1 teaspoon sesame seeds, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork Fried Quinoa",
     "url": "http://allrecipes.com/recipe/228533/pork-fried-quinoa/"
 }

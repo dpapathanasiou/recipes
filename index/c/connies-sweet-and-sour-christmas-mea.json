@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Beat egg and water in a bowl; add ground beef, bread crumbs, salt, and black pepper to eggs and mix thoroughly. Form ground beef mixture into bite-size meatballs; place meatballs into a large baking dish.",
+        "Bake in the preheated oven until meatballs are browned and no longer pink inside, 25 to 30 minutes.",
+        "Mix ketchup, beef bouillon, and vinegar in a large saucepan or Dutch oven. Combine brown sugar and cornstarch in a small bowl and stir brown sugar mixture into ketchup mixture. Bring to a boil, reduce heat to low, and stir until sauce is thickened and bubbling and brown sugar has dissolved, about 5 minutes. Add meatballs to sauce, stir until coated, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/967169.jpg",
+    "ingredients": [
+        "1 egg",
+        "1/4 cup water",
+        "1 pound ground beef",
+        "2 slices bread, crumbled",
+        "1 pinch salt and ground black pepper to taste",
+        "1 cup ketchup",
+        "1 cup beef bouillon",
+        "1/2 cup vinegar",
+        "1/2 cup brown sugar",
+        "2 tablespoons cornstarch"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Connie's Sweet and Sour Christmas Meatballs",
     "url": "http://allrecipes.com/recipe/230436/connies-sweet-and-sour-christmas-mea/"
 }

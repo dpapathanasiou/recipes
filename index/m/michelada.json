@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Moisten the rim of a large beer glass, then press it into salt. Place a few ice cubes in bottom of glass, followed by the lime juice. Pour in half of the beer, then season with steak sauce, cayenne pepper, black pepper, oregano and basil. Slowly pour in the remaining beer. Stir."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/941715.jpg",
+    "ingredients": [
+        "coarse salt",
+        "3 cubes ice",
+        "1 lime, juiced",
+        "1 (12 fluid ounce) can or bottle Mexican beer",
+        "1/2 teaspoon steak sauce",
+        "1 dash cayenne pepper",
+        "1 dash black pepper",
+        "1 pinch dried oregano",
+        "1 pinch dried basil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Michelada",
     "url": "http://allrecipes.com/recipe/44395/michelada/"
 }

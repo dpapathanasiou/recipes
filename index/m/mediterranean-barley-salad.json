@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring barley and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the barley is tender, but still slightly firm in the center, about 30 minutes. Drain and cool to room temperature in a bowl.",
+        "Puree the sun-dried tomatoes, garlic, 2 tablespoons olive oil, and balsamic vinegar in a blender until smooth. Pour over the barley. Fold in the cilantro, olives, and remaining olive oil until blended. Cover, and refrigerate until cold. Stir before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/482261.jpg",
+    "ingredients": [
+        "1 cup barley",
+        "2 1/2 cups water",
+        "7 sun-dried tomatoes",
+        "2 cloves garlic",
+        "2 tablespoons olive oil",
+        "1 tablespoon balsamic vinegar",
+        "1/2 cup finely chopped cilantro",
+        "1 (4 ounce) can chopped black olives",
+        "2 tablespoons olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mediterranean Barley Salad",
     "url": "http://allrecipes.com/recipe/163047/mediterranean-barley-salad/"
 }

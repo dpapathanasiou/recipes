@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, oats, and 1/8 teaspoon salt in a microwave-safe bowl. Cook on high in the microwave until the water is absorbed and oats are tender, 2 1/2 to 3 minutes.",
+        "Cook onion, red bell pepper, olives, and black beans in a nonstick skillet over medium heat, stirring occasionally, until softened, about 5 minutes. Season with salt and pepper. Stir onion mixture, salsa, and Cheddar cheese into cooked oatmeal.",
+        "Heat a nonstick skillet over medium heat; cook egg to desired doneness, 3 to 5 minutes. Top oatmeal with fried egg. Garnish with diced avocado and sour cream."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3161869.jpg",
+    "ingredients": [
+        "1 cup water",
+        "\u00bd cup rolled oats",
+        "\u215b teaspoon salt",
+        "\u00bc cup chopped onion",
+        "\u00bc cup chopped red bell pepper",
+        "2 tablespoons sliced black olives",
+        "2 tablespoons cooked black beans",
+        "salt and ground black pepper to taste (optional)",
+        "3 tablespoons salsa",
+        "\u00bc cup shredded Cheddar cheese",
+        "1  egg",
+        "\u00bd  avocado - peeled, pitted, and diced",
+        "1 tablespoon sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Savory Salsa Oatmeal",
     "url": "http://allrecipes.com/recipe/245895/savory-salsa-oatmeal/"
 }

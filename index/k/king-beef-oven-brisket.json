@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix chili powder, salt, garlic powder, onion powder, black pepper, sugar, mustard, and bay leaf together in a small bowl; season brisket with spice mixture. Arrange beef in a roasting pan or Dutch oven. Do not cover.",
+        "Bake in the preheated oven for 1 hour. Fill pan with enough beef stock to cover by 1/2 inch. Cover pan with lid or aluminum foil and reduce heat to 300 degrees F (150 degrees C).",
+        "Continue baking until beef is very tender, about 3 hours more. Slice beef thinly, across the grain and serve with juices from the pan."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2572001.jpg",
+    "ingredients": [
+        "2 tablespoons chili powder",
+        "2 tablespoons salt",
+        "1 tablespoon garlic powder",
+        "1 tablespoon onion powder",
+        "1 tablespoon freshly ground black pepper",
+        "1 tablespoon white sugar",
+        "2 teaspoons dry mustard",
+        "1  bay leaf, crushed",
+        "1 (4 pound) beef brisket",
+        "1\u2009\u00bd cups beef stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "King Beef Oven Brisket",
     "url": "http://allrecipes.com/recipe/236100/king-beef-oven-brisket/"
 }

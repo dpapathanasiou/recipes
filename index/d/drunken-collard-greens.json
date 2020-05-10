@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a large pot over medium-high heat. Add bacon, and fry until crisp. Remove bacon, and drain off excess fat. Add the onion; cook and stir until slightly browned. Add the pork chop, and season with cayenne pepper. Cook until pork is browned.",
+        "Add the collard greens, and pour in the chicken broth and beer. Cook over medium-low heat for 30 to 40 minutes, until collards are tender. Crumble bacon on top, and season with salt and pepper before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1213028.jpg",
+    "ingredients": [
+        "3 slices bacon",
+        "1 bunch collard greens - rinsed, trimmed and chopped",
+        "1  onion, diced",
+        "1 (6 ounce) smoked pork chop, diced",
+        "\u00bd teaspoon cayenne pepper",
+        "1 (14.5 ounce) can chicken broth",
+        "1 (12 fluid ounce) can beer",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Drunken Collard Greens",
     "url": "http://allrecipes.com/recipe/78150/drunken-collard-greens/"
 }

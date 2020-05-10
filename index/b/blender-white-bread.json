@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1 1/2 cups of the flour and yeast in the container of a blender. Cover and pulse until mixed. Measure the milk, shortening, sugar and salt into a saucepan. Warm over low heat until the shortening is melted. Remove from the heat and cool until just barely warm to the touch. Pour this into the blender with the flour. Add the egg; blend on the lowest setting to mix.",
+        "Pour the blended mixture into a bowl, and stir in enough flour to make a moderately stiff dough. Cover with a towel and let rise until doubled in size, about 45 minutes.",
+        "Punch down the dough and turn out of the bowl onto a lightly floured surface. Grease a 9x5 inch loaf pan while you allow the dough to rest for a few minutes. Shape the dough into a loaf and place into the pan. Let rise again until double in size, 30 to 40 minutes.",
+        "Preheat the oven to 375 degrees F (190 degrees C). Bake the loaf until deep golden brown, 40 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2992&h=1566&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1539568.jpg",
+    "ingredients": [
+        "3\u2009\u00bd cups all-purpose flour, divided",
+        "1 (.25 ounce) package active dry yeast",
+        "1 cup milk",
+        "\u00bc cup shortening",
+        "2 tablespoons white sugar",
+        "1 teaspoon salt",
+        "1  egg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blender White Bread",
     "url": "http://allrecipes.com/recipe/162638/blender-white-bread/"
 }

@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil; cook shell pasta at a boil until tender yet firm to the bite, about 8 minutes. Drain and rinse under cold water.",
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on paper towels; crumble.",
+        "Whisk creamy salad dressing, vinegar, Worcestershire sauce, olive oil, garlic, Dijon mustard, and oregano together in a bowl to make a creamy dressing.",
+        "Mix pasta, bacon, red onion, water chestnuts, eggs, green bell pepper, red bell pepper, celery, olives, Cheddar cheese, and Parmesan cheese together in a large bowl. Add dressing and stir to coat. Chill in refrigerator at least 1 hour before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5341688.jpg",
+    "ingredients": [
+        "1 (16 ounce) package seashell pasta",
+        "8 slices bacon",
+        "1 cup creamy salad dressing (such as Miracle Whip\u00ae)",
+        "\u00bc cup white wine vinegar",
+        "2 tablespoons Worcestershire sauce",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, crushed",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon dried oregano",
+        "1  red onion, finely diced",
+        "1 (8 ounce) can sliced water chestnuts, rinsed and drained",
+        "4  hard-cooked eggs, chopped",
+        "\u00bd  green bell pepper, diced",
+        "\u00bd  red bell pepper, diced",
+        "2 stalks celery, diced",
+        "\u00bd cup sliced black olives",
+        "\u00bd cup diced sharp Cheddar cheese",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Not Your Usual Pasta Salad",
     "url": "http://allrecipes.com/recipe/222811/not-your-usual-pasta-salad/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Slice cookie dough and arrange in the bottom of a 9x13-inch baking pan to make crust.",
+        "Bake cookie crust in the preheated oven until golden brown, 10 to 14 minutes. Remove from oven and allow to cool, about 30 minutes.",
+        "Spread ice cream over cookie crust. Sprinkle half of the toffee bits over the ice cream. Cover with a layer of chocolate shell topping. Sprinkle remaining toffee bits over the topping before it sets."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (16.5 ounce) package chocolate chip cookie dough (such as Pillsbury\u00ae)",
+        "1/2 gallon ice cream, softened",
+        "1 (8 ounce) package English toffee bits (such as Heath\u00ae Bits 'O Brickle\u2122)",
+        "1/2 cup chocolate shell topping (such as Magic Shell\u00ae), or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ultimate Toffee Ice Cream Cake",
     "url": "http://allrecipes.com/recipe/246377/ultimate-toffee-ice-cream-cake/"
 }

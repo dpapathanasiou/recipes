@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour water into a glass and place beneath the spigot of a juicer.",
+        "Process first the cucumber, waiting about 20 seconds between halves. Do the same with each apple quarter. Finally juice the lemon halves.",
+        "Stir juice vigorously to blend."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1105872.jpg",
+    "ingredients": [
+        "1/2 cup cool water",
+        "1 cucumber, halved",
+        "2 green apples, quartered",
+        "1 lemon, halved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zesty Lemon Apple Juice",
     "url": "http://allrecipes.com/recipe/228354/zesty-lemon-apple-juice/"
 }

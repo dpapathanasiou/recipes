@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch loaf pan.",
+        "Place the mango, water, sugar, milk powder, yogurt, and oil in a blender. Blend until smooth, then pour into a bowl. Sift together the wheat flour, baking powder, and baking soda in a bowl.  Fold the flour mixture into the mango puree. Pour resulting mixture into prepared pan.",
+        "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, about 30 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F666340.jpg",
+    "ingredients": [
+        "1 cup diced fresh mango",
+        "\u00bc cup hot water",
+        "\u00bd cup white sugar",
+        "\u00bd cup skim milk powder",
+        "\u00bd cup yogurt",
+        "\u00bd cup sunflower oil",
+        "2 cups whole wheat flour",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggless Mango Bread",
     "url": "http://allrecipes.com/recipe/143271/eggless-mango-bread/"
 }

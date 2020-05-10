@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Gently stir peaches, blueberries, and lemon juice together in an 8-inch square baking dish. Stir 2 tablespoons flour and white sugar into the fruit mixture.",
+        "Stir oats, brown sugar, 1/4 cup flour, almonds, cinnamon, and nutmeg together in a small bowl. Mash butter into the oats mixture with a pastry cutter or a fork until the mixture is crumbly; sprinkle over the fruit to cover.",
+        "Bake in preheated oven until the fruit is bubbling and the topping is golden brown, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3947440.jpg",
+    "ingredients": [
+        "Fruit:",
+        "2 (10 ounce) packages frozen sliced peaches(such as Cascadian Farm\u00ae), thawed and drained",
+        "1 (10 ounce) package frozen blueberries(such as Cascadian Farm\u00ae), thawed and drained",
+        "2 teaspoons lemon juice",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons white sugar",
+        "Topping:",
+        "1/2 cup old-fashioned oats",
+        "1/3 cup firmly packed brown sugar",
+        "1/4 cup all-purpose flour",
+        "1/4 cup chopped almonds",
+        "1/2 teaspoon ground cinnamon",
+        "1/8 teaspoon nutmeg",
+        "1/4 cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry and Peach Crisp",
     "url": "http://allrecipes.com/recipe/239090/blueberry-and-peach-crisp/"
 }

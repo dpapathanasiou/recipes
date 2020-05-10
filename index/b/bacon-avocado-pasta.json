@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta; cook, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain.",
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels; crumble into small pieces.",
+        "Mix basil, lemon juice, olive oil, garlic, pepper, and salt together in a small bowl.",
+        "Combine bacon pieces and avocado in a large bowl. Stir in basil mixture. Add pasta; toss to combine. Sprinkle Romano cheese on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3069&h=1607&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4332206.jpg",
+    "ingredients": [
+        "1 (8 ounce) package bow-tie pasta",
+        "6 slices bacon",
+        "\u2154 cup chopped basil",
+        "3 tablespoons lemon juice",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "\u00bc teaspoon ground black pepper",
+        "\u215b teaspoon salt",
+        "2  avocados, chopped",
+        "\u00bd cup grated Romano cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon Avocado Pasta",
     "url": "http://allrecipes.com/recipe/255379/bacon-avocado-pasta/"
 }

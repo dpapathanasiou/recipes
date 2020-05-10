@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together the white wine, balsamic vinegar, thyme, oregano, salt and pepper. Place the roast into the marinade, cover, and refrigerate for 4 hours.",
+        "Heat a grill for medium heat. Brush the grate with oil, once it is hot.",
+        "Place the tuna roast on the grill grate, and discard the marinade. Cook for about 30 minutes, turning frequently for even cooking. Serve immediately when the outer part flakes easily but the center is still slightly pink."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1070693.jpg",
+    "ingredients": [
+        "1 cup white wine",
+        "1/2 cup balsamic vinegar",
+        "1 cup crumbled dried thyme",
+        "1 cup dried oregano",
+        "1 tablespoon salt",
+        "2 teaspoons ground black pepper",
+        "2 pounds fresh tuna roast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Tuna Roast",
     "url": "http://allrecipes.com/recipe/83622/grilled-tuna-roast/"
 }

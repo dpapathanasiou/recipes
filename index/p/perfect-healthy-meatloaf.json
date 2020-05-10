@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with aluminum foil.",
+        "Heat olive oil in a large skillet over medium-high heat. Saute onion, red bell pepper, and green bell pepper in hot oil until soft and translucent, about 5 minutes. Add garlic to vegetable mixture; saute until fragrant, about 1 minute more. Season with salt and black pepper; remove from heat to cool.",
+        "Mix turkey, beef, quinoa, milk, eggs, 2 tablespoons Worcestershire sauce, sweet chili sauce, and ground ginger together in a bowl until well-combined. Add sauteed vegetable mixture; stir until completely incorporated. Gradually add bread crumbs to meat mixture until mixture is moist and holds together. Form into 6 mini loves and place loaves on prepared baking sheet.",
+        "Whisk brown sugar, ketchup, and 1 tablespoon Worcestershire sauce together in a bowl until sugar is dissolved and glaze is smooth.",
+        "Bake meat loaves in the preheated oven for 30 minutes. Spread glaze over each loaf and continue baking until no loaves are longer pink in the center, 10 to 15 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3449458.jpg",
+    "ingredients": [
+        "Meatloaf:",
+        "1 tablespoon olive oil, or as needed",
+        "1 onion, diced",
+        "1/2 red bell pepper, diced",
+        "1/2 green bell pepper, diced",
+        "1 clove garlic, minced, or to taste",
+        "salt and ground black pepper to taste",
+        "1 pound ground turkey",
+        "1 pound lean ground beef",
+        "2 cups cooked quinoa, or more to taste",
+        "1/2 cup milk",
+        "2 eggs, beaten",
+        "2 tablespoons Worcestershire sauce",
+        "2 tablespoons sweet chili sauce",
+        "3/4 teaspoon ground ginger",
+        "1/4 cup bread crumbs, or as needed (optional)",
+        "Glaze:",
+        "1/4 cup brown sugar",
+        "1/4 cup ketchup",
+        "1 tablespoon Worcestershire sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Perfect Healthy Meatloaf",
     "url": "http://allrecipes.com/recipe/240777/perfect-healthy-meatloaf/"
 }

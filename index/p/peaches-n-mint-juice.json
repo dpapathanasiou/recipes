@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Juice the peaches, apple, and lime with a juice extractor.  Transfer the juice to a blender with the mint leaves.  Blend quickly to combine the juice and mint thoroughly."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3207146.jpg",
+    "ingredients": [
+        "3 large peaches or nectarines, cubed",
+        "1 large apple, quartered",
+        "1 lime",
+        "2 sprigs fresh mint"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peaches 'n Mint Juice",
     "url": "http://allrecipes.com/recipe/107753/peaches-n-mint-juice/"
 }

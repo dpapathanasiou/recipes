@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sprinkle chicken with paprika, pepper, and curry powder.  Place in a roasting pan.",
+        "Combine mustard, honey, and jam in a small bowl.  Pour over chicken, and marinate for 1 hour or overnight.",
+        "Bake in a preheated 350 degrees F (175 degrees C) oven for 1 hour, basting often."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F418696.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken, cut into 8 pieces",
+        "1 teaspoon paprika",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bd teaspoon curry powder",
+        "3 tablespoons prepared Dijon-style mustard",
+        "\u00bc cup honey",
+        "2 tablespoons apricot jam"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Honey Mustard Chicken",
     "url": "http://allrecipes.com/recipe/8549/honey-mustard-chicken/"
 }

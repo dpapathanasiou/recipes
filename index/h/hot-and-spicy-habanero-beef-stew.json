@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine flour, paprika, and 1 teaspoon cayenne pepper in a large, resealable plastic bag; shake to mix. Add beef and shake to coat beef in flour mixture. Remove beef from bag and shake to remove any excess flour mixture.",
+        "Heat oil in a skillet over medium-high heat. Cook beef in hot oil until browned on all sides, 5 to 7 minutes. Remove beef with a slotted spoon to a slow cooker, retaining oil and drippings in the skillet.",
+        "Saute onion in retained drippings until soft and translucent, 5 to 7 minutes; add to beef in slow cooker.",
+        "Stir vegetable broth, potatoes, diced tomatoes with green chile peppers, carrots, tomato, chopped habanero pepper, habanero pepper halves, black pepper, and caraway seeds with the beef and onion in the slow cooker.",
+        "Cook on Low for 4 hours. Remove and discard the habanero pepper halves before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1106009.jpg",
+    "ingredients": [
+        "\u00bd cup all-purpose flour",
+        "3 tablespoons paprika",
+        "2 teaspoons cayenne pepper, divided",
+        "1 pound beef chuck, cut into cubes",
+        "2 tablespoons vegetable oil",
+        "1  onion, chopped",
+        "4 cups vegetable broth",
+        "4  potatoes, cut into cubes",
+        "1 (10 ounce) can diced tomatoes with green chile peppers (optional)",
+        "2  carrots, diced",
+        "1  tomato - peeled, seeded, and chopped (optional)",
+        "1  habanero pepper, seeded and chopped",
+        "1  habanero pepper, halved and seeded",
+        "1 tablespoon ground black pepper",
+        "\u00bd teaspoon caraway seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hot and Spicy Habanero Beef Stew",
     "url": "http://allrecipes.com/recipe/236612/hot-and-spicy-habanero-beef-stew/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix pink lemonade concentrate, vodka, rum, lime juice, and sugar substitute together in a pitcher. Add beer slowly; stir gently. Serve over ice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3172268.jpg",
+    "ingredients": [
+        "1 (12 fluid ounce) can frozen pink lemonade concentrate, thawed",
+        "9 fluid ounces vodka",
+        "3 fluid ounces lemon-flavored rum (such as Bacardi Limon\u00ae)",
+        "1/2 lime, juiced",
+        "1 packet sugar substitute (such as Truvia\u00ae)",
+        "5 (12 fluid ounce) cans beer",
+        "32 ice cubes, or as desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jess' Party Punch",
     "url": "http://allrecipes.com/recipe/245786/jess-party-punch/"
 }

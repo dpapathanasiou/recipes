@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken breasts into a slow cooker. Whisk the cream of chicken soup, cream of mushroom soup, sherry, garlic, celery flakes, and paprika in a mixing bowl. Stir in the Parmesan cheese and mushroom pieces; pour over the chicken.",
+        "Cook on Low for 8 hours until the chicken is tender, and the sauce has reduced slightly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4026548.jpg",
+    "ingredients": [
+        "6  skinless, boneless chicken breast halves",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "\u00bd cup cooking sherry",
+        "1 teaspoon minced garlic",
+        "1 teaspoon celery flakes",
+        "\u00bd teaspoon paprika",
+        "\u00bd cup grated Parmesan cheese",
+        "1 (8 ounce) can mushroom pieces, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crock Pot Cheesy Mushroom Chicken",
     "url": "http://allrecipes.com/recipe/126398/crock-pot-cheesy-mushroom-chicken/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Grease a cookie sheet with cooking spray.",
+        "Beat the butter and white sugar with an electric mixer in a bowl until smooth. Add the egg yolk and vanilla extract, then mix in the flour until just incorporated. Press the dough into the prepared cookie sheet, and spread with the beaten egg white. Sprinkle with brown sugar and pecans.",
+        "Bake in the preheated oven until golden and set, about 30 minutes. Cool completely before cutting into squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F566483.jpg",
+    "ingredients": [
+        "1 cup butter",
+        "\u00be cup white sugar",
+        "1  egg yolk",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1  egg white, stiffly beaten",
+        "\u00bc cup brown sugar",
+        "\u00bc cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Butter Crisps",
     "url": "http://allrecipes.com/recipe/213743/swedish-butter-crisps/"
 }

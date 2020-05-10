@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a cocktail shaker add all the ingredients together and fill halfway with ice.  Shake vigorously.",
+        "Double strain into glass filled with ice and garnish."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/970387.jpg",
+    "ingredients": [
+        "1 1/2 ounces tequila",
+        "3/4 ounce lime juice",
+        "1/4 ounce orange juice",
+        "3/4 ounce Truvia\u00ae Simple Syrup**",
+        "Sea salt and lime for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Skinny Margarita with Truvia\u00ae Natural Sweetener",
     "url": "http://allrecipes.com/recipe/229482/skinny-margarita-with-truvia-natur/"
 }

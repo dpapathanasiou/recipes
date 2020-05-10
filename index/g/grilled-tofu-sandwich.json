@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat your oven's broiler.",
+        "Split the pita breads in half so that you have 4 round pieces. Spread mayonnaise on one half of each one, and tahini on the other half. Place tomato slices onto the mayonnaise halves, and sprinkle with a pinch of salt. Place 2 slices of tofu onto the tahini halves, and sprinkle a few drops of soy sauce over. Place the open sandwiches on a large baking sheet.",
+        "Broil in the preheated oven until hot and bread is slightly toasted, about 4 minutes. Close the halves of each sandwich together, and cut into wedges to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2  pita bread rounds",
+        "3 tablespoons mayonnaise",
+        "3 tablespoons tahini (sesame-seed paste)",
+        "1  tomato, sliced",
+        "4 slices firm tofu",
+        "1 dash soy sauce",
+        "1 pinch salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Tofu Sandwich",
     "url": "http://allrecipes.com/recipe/63423/grilled-tofu-sandwich/"
 }

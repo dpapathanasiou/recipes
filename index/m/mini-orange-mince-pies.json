@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Sift together the flour, 1/4 cup confectioners' sugar, and cinnamon. Use a pastry cutter or two forks to mix in the butter until mixture resembles fine bread crumbs. Stir in the orange zest. Sprinkle with ice water, and gather dough into a ball. Roll out on a lightly floured surface to 1/4 inch thick. Cut out approximately 18 (3 inch) diameter circles, and 18 (2 inch) circles, rerolling dough as needed.",
+        "Line muffin cups or tart tins using the 3 inch pastry circles. Fill each pastry cup with about 1 tablespoon of mincemeat filling. Top with 2 inch pastry circles, pinching circles together to seal the edges. Brush the top of each pie with egg.",
+        "Bake pies in preheated oven until tops are golden brown, 15 to 20 minutes. Cool slightly on wire racks. Dust with 1/4 cup confectioners' sugar just before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1979&h=1036&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4572543.jpg",
+    "ingredients": [
+        "1\u2009\u00be cups all-purpose flour",
+        "\u00bc cup confectioners' sugar",
+        "2 teaspoons ground cinnamon",
+        "\u2154 cup butter, softened",
+        "2 tablespoons grated orange zest",
+        "\u00bc cup ice water",
+        "\u00be cup prepared mincemeat pie filling",
+        "1  egg, beaten",
+        "\u00bc cup confectioners' sugar for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mini Orange Mince Pies",
     "url": "http://allrecipes.com/recipe/153014/mini-orange-mince-pies/"
 }

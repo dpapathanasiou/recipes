@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon vegetable oil in a skillet over medium-high heat; cook and stir red onions and mushrooms until tender, about 10 minutes. Transfer onion-mushroom mixture to a bowl.",
+        "Coat hot skillet with 1 tablespoon vegetable oil over medium-high heat. Pat each steak dry with paper towels and season with salt and black pepper. Place steaks into hot skillet and cook until outsides are browned and insides are  cooked to desired doneness, about 5 minutes per side for medium. Remove steaks from skillet.",
+        "Pour red Zinfandel wine into skillet; scrape up and dissolve any bits of browned food in the skillet. Whisk beef broth and Dijon mustard into wine mixture and bring to a boil. Cook mixture, stirring often, until slightly reduced, about 5 minutes. Slowly whisk cream into sauce and let stand to thicken, about 5 more minutes. Transfer  mushrooms and steaks to sauce and serve steaks topped with sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3128&h=1638&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1455207.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "2  red onions, sliced",
+        "1 (8 ounce) package button mushrooms, sliced",
+        "1 tablespoon vegetable oil",
+        "6  New York strip steaks",
+        "salt and ground black pepper to taste",
+        "1 cup red Zinfandel wine",
+        "1 cup beef broth",
+        "2 tablespoons Dijon mustard",
+        "1 cup heavy whipping cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strip Steak with Red Wine Cream Sauce",
     "url": "http://allrecipes.com/recipe/231577/strip-steak-with-red-wine-cream-sauce/"
 }

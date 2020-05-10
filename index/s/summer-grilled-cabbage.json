@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat and lightly oil grate.",
+        "Arrange the cabbage wedges into the bottom of a large metal baking dish. Pour the water into the dish. Place a teaspoon of butter on each cabbage wedge. Season liberally with garlic powder, seasoned salt, and pepper. Cover the dish with aluminum foil.",
+        "Place the dish on the preheated grill; cook until cabbage is tender, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=995&h=521&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5577526.jpg",
+    "ingredients": [
+        "1 large head cabbage, cored and cut into 8 wedges",
+        "8 teaspoons butter",
+        "\u00bc cup water",
+        "\u00bd teaspoon garlic powder, or to taste",
+        "\u00bd teaspoon seasoned salt, or to taste",
+        "ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Summer Grilled Cabbage",
     "url": "http://allrecipes.com/recipe/157836/summer-grilled-cabbage/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large pot over medium heat. Add garlic and onion and saute for 3 minutes, or until tender. Add the sausage, browning well on all sides, about 5 minutes.",
+        "Add the chicken stock, oregano, basil and parsley. Bring to a boil, reduce heat to low and simmer for 1 hour.",
+        "Add the rice and simmer for 30 more minutes. Finally, add the cream, stirring well. Remove from heat and let soup rest for 5 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2097492.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "2 tablespoons chopped onion",
+        "4 (3.5 ounce) links Italian sausage, sliced",
+        "8 cups chicken stock",
+        "1 teaspoon dried oregano",
+        "1 tablespoon dried basil",
+        "\u00bc cup chopped fresh parsley",
+        "2 cups uncooked white rice",
+        "\u00bd cup heavy cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Style Winter Soup",
     "url": "http://allrecipes.com/recipe/16820/italian-style-winter-soup/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a large skillet over medium-high heat. Add onion; cook until softened, about 5 minutes. Stir in beer, mustard, and thyme. Lower heat and simmer until slightly thickened, about 2 minutes. Add cabbage and vinegar. Cover and cook, stirring occasionally, until cabbage is wilted and tender, about 8 minutes. Season with salt and black pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3187319.jpg",
+    "ingredients": [
+        "2 tablespoons unsalted butter",
+        "1  onion, minced",
+        "\u00bd cup light-bodied beer",
+        "1 tablespoon whole grain mustard",
+        "\u00bd teaspoon minced fresh thyme",
+        "1 small head cabbage - halved, cored, and thinly sliced",
+        "2 teaspoons cider vinegar",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beer Braised Cabbage",
     "url": "http://allrecipes.com/recipe/245995/beer-braised-cabbage/"
 }

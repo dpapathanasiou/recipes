@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, stir together the apples, almonds, cranberries, cherries and yogurt until evenly coated."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1049369.jpg",
+    "ingredients": [
+        "4 tart green apples, cored and chopped",
+        "1/4 cup blanched slivered almonds, toasted",
+        "1/4 cup dried cranberries",
+        "1/4 cup chopped dried cherries",
+        "1 (8 ounce) container vanilla yogurt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Autumn Apple Salad II",
     "url": "http://allrecipes.com/recipe/24832/autumn-apple-salad-ii/"
 }

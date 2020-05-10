@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix tapioca flour, brown rice flour, white rice flour, sugar, xanthan gum, and 1/2 teaspoon salt in the bowl of a stand mixer set with the whisk attachment; cut in butter using the whisk setting, starting on low and working up to medium, stopping occasionally to scrape down the sides and bottoms, until mixture resembles coarse crumbs.",
+        "Slowly pour milk into butter-flour mixture while mixer is on low. Gradually increase speed and mix until batter is well mixed. Cover bowl and let dough sit for 15 minutes.",
+        "Preheat oven to 325 degrees F (165 degrees C). Spray 2 pieces parchment paper with cooking spray.",
+        "Roll dough on 1 of the sprayed sheets parchment paper. Top with the other parchment sheet, spray-side down, and roll dough to 1/8-inch thickness. Remove the top sheet and pat any edges back toward the middle if they are thinner than the rest to prevent burnt edges on the crackers.",
+        "Cut dough into cracker shapes using a pizza cutter and prick each square with a fork. Place parchment paper with crackers on a baking sheet and place on the middle rack in the oven.",
+        "Bake in the preheated oven for 3 minutes. Sprinkle sea salt over crackers; continue baking until crackers are browned and crisp, 18 to 25 minutes. Cool on the baking sheet or transfer crackers to a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1080&h=565&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4461503.jpg",
+    "ingredients": [
+        "\u00bd cup tapioca flour",
+        "\u00bd cup brown rice flour",
+        "\u00bc cup white rice flour",
+        "1 teaspoon white sugar",
+        "\u00bc teaspoon xanthan gum",
+        "\u00bc teaspoon salt",
+        "\u00bc cup softened butter",
+        "5 tablespoons whole milk",
+        "sea salt to taste",
+        "cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten-Free Butter Crackers",
     "url": "http://allrecipes.com/recipe/255535/gluten-free-butter-crackers/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 2 cup water, almonds, and 1 pinch salt together in a bowl; let sit for 8 hours to overnight. Drain and rinse 2 times.",
+        "Blend drained almonds and 2 cups water together in a blender until smooth, about 2 minutes. Transfer to a large bowl.",
+        "Preheat oven to 350 degrees F (175 degrees C). Spray an 11x15-inch baking dish with cooking spray.",
+        "Mix flour, chocolate chips, olive oil, chia seeds, honey, powdered peanut butter, cinnamon, vanilla extract, and 2 teaspoons salt into almond mixture until dough is evenly combined. Transfer dough to the prepared baking dish, leveling dough with a fork or spatula.",
+        "Bake in the preheated oven until cooked through and lightly browned, 30 to 40 minutes. Allow to cool for 10 minutes before cutting into bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2503&h=1310&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4497394.jpg",
+    "ingredients": [
+        "4 cups water, divided",
+        "2 cups chopped almonds",
+        "1 pinch salt",
+        "cooking spray",
+        "3 cups all-purpose flour",
+        "\u2154 cup chocolate chips",
+        "\u2154 cup olive oil",
+        "\u2154 cup chia seeds",
+        "\u00bd cup honey",
+        "\u00bd cup powdered peanut butter (such as PB2\u00ae)",
+        "1 tablespoon ground cinnamon",
+        "2 teaspoons vanilla extract",
+        "2 teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Almond Chia Breakfast Bars",
     "url": "http://allrecipes.com/recipe/244257/almond-chia-breakfast-bars/"
 }

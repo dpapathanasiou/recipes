@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan, dissolve gelatin and hot water. Add lemon juice, pineapple juice and 1/4 cup water.",
+        "In a medium bowl, combine the cranberries, crushed pineapple, celery and apple. Stir into gelatin mixture and pour into a mold. Chill until firm."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (6 ounce) package fruit flavored Jell-O\u00ae mix",
+        "1 cup hot water",
+        "1 teaspoon lemon juice",
+        "3/4 cup unsweetened pineapple juice",
+        "1/4 cup water",
+        "1 1/2 cups cranberries, pureed",
+        "1/2 cup crushed pineapple, drained",
+        "1 stalk celery, diced",
+        "1 apple - peeled, cored and diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cranberry Apple Salad",
     "url": "http://allrecipes.com/recipe/13719/cranberry-apple-salad/"
 }

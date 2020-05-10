@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Slice the tomatoes in half horizontally, sprinkle each cut side with salt, and place cut sides down on paper towels for about 5 minutes. Hollow out the tomato halves, leaving sides 1/4 inch thick; remove seeds from pulp, and chop the pulp.",
+        "Place the chopped tomato pulp, squash, herb stuffing mix, basil, black pepper, and mozzarella cheese in a bowl, and mix until thoroughly combined. Stuff the mixture into the hollowed-out tomato halves.",
+        "Bake in the preheated oven until the squash is tender and the cheese has melted, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5633956.jpg",
+    "ingredients": [
+        "3  tomatoes",
+        "1 teaspoon salt, or as needed",
+        "1  summer squash, finely diced",
+        "\u00bd cup dry herb stuffing mix",
+        "2 teaspoons dried basil",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bc cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Summertime Baked Tomatoes",
     "url": "http://allrecipes.com/recipe/217994/summertime-baked-tomatoes/"
 }

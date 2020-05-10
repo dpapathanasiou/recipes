@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Beat egg, vegetable juice, sour cream, Worcestershire sauce, sage, parsley, oregano, salt, black pepper, and hot pepper sauce in a large bowl. Stir in oats and allow to soak.",
+        "Melt butter in a skillet over medium heat; cook and stir onion, bell pepper, and celery until softened, about 5 minutes. Stir vegetable mixture, mushrooms, and turkey into oat mixture; shape into a loaf and transfer to a broiling pan. Mix tomato sauce and chili sauce in a bowl; pour over turkey loaf.",
+        "Bake in the preheated oven until no longer pink in the center, about 1 hour. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6502077.jpg",
+    "ingredients": [
+        "1 egg, beaten",
+        "1/4 cup vegetable juice (such as V-8\u00ae)",
+        "1/4 cup sour cream",
+        "2 tablespoons Worcestershire sauce",
+        "1 teaspoon dried sage",
+        "1 teaspoon dried parsley",
+        "1 teaspoon dried oregano",
+        "1 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "2 dashes hot pepper sauce (such as Tabasco\u00ae)",
+        "1/2 cup rolled oats",
+        "2 tablespoons butter",
+        "1/2 sweet onion, diced",
+        "1/2 green bell pepper, diced",
+        "2 stalks celery, diced",
+        "1 (16 ounce) can sliced mushrooms, drained",
+        "1 pound ground turkey",
+        "1 (8 ounce) can tomato sauce",
+        "1/2 cup chili sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fabulous Ground Turkey Meatloaf",
     "url": "http://allrecipes.com/recipe/229527/fabulous-ground-turkey-meatloaf/"
 }

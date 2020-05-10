@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large microwave proof dish with a cover, place chicken and add water. Microwave on HIGH (full power) for 10 minutes. Turn chicken over and continue to microwave on HIGH for an additional 10 minutes. Let chicken cool slightly. Remove skin and discard. Remove all meat from bones. Chop chicken meat into bite size pieces and set aside.",
+        "In a heavy cooking pot heat butter/margarine. Saute onions until translucent. Add green and red bell peppers and saute for 3 minutes. Mash tomatoes and add to cooking pot with can liquids, salt and pepper. Cover and let simmer over low heat for 10 minutes. Add chopped chicken and let simmer for another 10 minutes.",
+        "To Prepare Mixture For Serving: Fill 8 microwave proof soup bowls to within 1/2 inch of top with cooked chicken mixture. Place 1slice Swiss cheese on top of each bowl. Cook each bowl uncovered on HIGH (full power) for 3 minutes or until cheese melts. Serve immediately."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (3 pound) whole chicken",
+        "\u00bc cup water",
+        "\u00bc cup butter",
+        "2  onions, thinly sliced",
+        "2  green bell pepper, thinly sliced",
+        "2 large red bell peppers, seeded and diced",
+        "1 (14.5 ounce) can whole peeled tomatoes",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "8 slices Swiss cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shir-Will Chicken Delight",
     "url": "http://allrecipes.com/recipe/8982/shir-will-chicken-delight/"
 }

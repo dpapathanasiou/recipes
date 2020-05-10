@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for high heat, and lightly oil the grate.",
+        "Place figs, skin-side down, on grill. Cook until figs start to swell and bubble, 2 to 4 minutes.",
+        "Whisk together balsamic vinegar and olive oil until completely combined, about 1 minute.",
+        "Place Burrata cheese on top of each piece of toast. Spread figs around bread and drizzle with balsamic vinegar mixture. Season with sea salt and black pepper to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "12  Black Mission figs, halved lengthwise",
+        "2 tablespoons balsamic vinegar",
+        "2 tablespoons extra virgin olive oil",
+        "6 ounces Burrata cheese, thickly sliced",
+        "6 (1/2 inch thick) slices Italian bread, toasted",
+        "sea salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Burrata Bruschetta with Figs",
     "url": "http://allrecipes.com/recipe/222338/burrata-bruschetta-with-figs/"
 }

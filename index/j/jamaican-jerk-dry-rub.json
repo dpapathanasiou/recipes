@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place allspice, salt, garlic powder, sugar, chipotle powder, cloves, thyme, black pepper, cayenne pepper, and cinnamon into a very large bowl. Mix together until well blended. Store in airtight containers.",
+        "To use, rub spice mix onto the meat of your choice, about 1 1/2 teaspoons per serving. For best results, marinate for at least an hour to allow the flavors of the rub to penetrate the meat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4184983.jpg",
+    "ingredients": [
+        "1 1/2 cups allspice",
+        "8 cups salt",
+        "5 1/2 cups garlic powder",
+        "4 cups white sugar",
+        "1 cup chipotle chile powder",
+        "1/2 cup ground cloves",
+        "2 cups dried thyme leaves",
+        "2 cups ground black pepper",
+        "4 cups cayenne pepper",
+        "1 cup ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jamaican Jerk Dry Rub",
     "url": "http://allrecipes.com/recipe/141962/jamaican-jerk-dry-rub/"
 }

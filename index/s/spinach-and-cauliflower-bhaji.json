@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat vegetable oil in a large saucepan over medium heat; cook and stir onions and cauliflower until slightly softened, about 3 minutes. Add garlic, ginger, coriander, cumin, turmeric, and cayenne pepper; stir to coat.",
+        "Stir tomatoes and vegetable broth into cauliflower mixture; season with salt and black pepper. Bring mixture to a boil, cover, and reduce heat. Simmer until flavors have blended, about 8 minutes. Stir spinach into mixture until it begins to wilt. Cover and simmer until spinach is completely wilted and cauliflower is tender, 8 to 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5152&h=2697&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1939839.jpg",
+    "ingredients": [
+        "\u00bc cup vegetable oil",
+        "2 large onions, coarsely chopped",
+        "1 head cauliflower, cut into florets",
+        "2 cloves garlic, crushed",
+        "1 (1 inch) piece fresh ginger, peeled and chopped",
+        "2 teaspoons ground coriander",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground turmeric",
+        "1\u2009\u00bc teaspoons cayenne pepper",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1\u2009\u00bc cups vegetable broth",
+        "salt and ground black pepper to taste",
+        "1 pound fresh spinach, chopped and stems removed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spinach and Cauliflower Bhaji",
     "url": "http://allrecipes.com/recipe/229079/spinach-and-cauliflower-bhaji/"
 }

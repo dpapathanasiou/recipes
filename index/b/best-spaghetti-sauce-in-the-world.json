@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan, melt butter over low heat.  Toss in garlic and saute 1 to 2 minutes, until slightly golden.  Mix chopped tomatoes into pan. Stir in chicken stock, thinning with 1 to 2 tablespoons water if necessary.  Cook over medium heat until bubbly.  Stir in Vermouth and cook 5 minutes more.  Mix in basil just before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F295816.jpg",
+    "ingredients": [
+        "3 tablespoons butter",
+        "1 teaspoon minced garlic",
+        "16  roma (plum) tomatoes, chopped",
+        "\u00bd cup chicken stock",
+        "\u2153 cup dry vermouth",
+        "2 tablespoons fresh basil, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Spaghetti Sauce in the World",
     "url": "http://allrecipes.com/recipe/18441/best-spaghetti-sauce-in-the-world/"
 }

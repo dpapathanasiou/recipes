@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Heat a large skillet over medium-high heat. Cook and stir beef, onion, and green bell pepper in the hot skillet until beef is browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+        "Stir beef mixture, diced tomatoes with green chile peppers, water, rice, chile sauce, olives, jalapeno peppers, garlic, salt, brown sugar, ground cumin, Worcestershire sauce, cayenne pepper, and black pepper together in a large pot over medium-low heat.",
+        "Bring beef-rice mixture to a simmer, stirring occasionally, until flavors blend, about 30 minutes. Stir in 1 cup Cheddar cheese. Transfer mixture to a 2 1/2 quart casserole dish and press down firmly. Top with remaining 1 cup Cheddar cheese.",
+        "Bake in the preheated oven until cheese is melted and bubbling, 10 to 15 minutes. Top with chopped cilantro."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4041993.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "\u00bd cup finely chopped onion",
+        "\u00bc cup chopped green bell pepper",
+        "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL\u00ae)",
+        "1 cup water",
+        "\u00be cup long-grain white rice",
+        "\u00bd cup chile sauce",
+        "1 (4 ounce) can sliced black olives, or to taste",
+        "2 tablespoons sliced jalapeno peppers, or to taste (optional)",
+        "2 cloves garlic, minced",
+        "1 teaspoon salt",
+        "1 teaspoon brown sugar",
+        "\u00bd teaspoon ground cumin",
+        "\u00bd teaspoon Worcestershire sauce",
+        "\u00bc teaspoon cayenne pepper (optional)",
+        "1 pinch ground black pepper",
+        "2 cups shredded Cheddar cheese, divided",
+        "2 tablespoons chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hearty Spanish Rice Bake",
     "url": "http://allrecipes.com/recipe/235331/hearty-spanish-rice-bake/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a bowl, mix the brown sugar and soy sauce. Stir in the cocoa, cilantro, sage, and almonds. Set aside.",
+        "In a separate bowl, toss together the green bell pepper, red bell pepper, tomatoes, and Swiss cheese.",
+        "Heat the oil in a skillet over medium heat. Place chicken in the skillet, and cook 15 minutes, until juices run clear. Reduce heat to low, and stir in the brown sugar and soy sauce mixture until heated through. Top with the peppers, tomatoes, and cheese to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3726250.jpg",
+    "ingredients": [
+        "\u2154 cup packed light brown sugar",
+        "1 cup light soy sauce",
+        "\u00bc cup unsweetened cocoa powder",
+        "1 tablespoon chopped cilantro",
+        "1 tablespoon dried sage",
+        "\u00bc cup finely ground almonds",
+        "\u00bc cup chopped green bell pepper",
+        "\u00bc cup chopped red bell pepper",
+        "\u00bc cup cubed tomatoes",
+        "\u2154 cup diced Swiss cheese",
+        "4  skinless, boneless chicken breast halves - cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dark Saucy Chicken",
     "url": "http://allrecipes.com/recipe/75333/dark-saucy-chicken/"
 }

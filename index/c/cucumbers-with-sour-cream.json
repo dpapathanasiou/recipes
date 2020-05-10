@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl combine cream, vinegar, salt, pepper, and dill.  Place cucumbers in a medium bowl and  pour sauce over them."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=800&h=419&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F16293.jpg",
+    "ingredients": [
+        "1 cup heavy cream",
+        "4 tablespoons distilled white vinegar",
+        "salt and pepper to taste",
+        "1 pinch dried dill, or to taste",
+        "2 large cucumbers, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumbers with Sour Cream",
     "url": "http://allrecipes.com/recipe/21086/cucumbers-with-sour-cream/"
 }

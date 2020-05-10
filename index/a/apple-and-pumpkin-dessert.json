@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sprinkle 1/3 packet of sugar substitute and 1/3 teaspoon pumpkin pie spice in the bottom of a microwave-safe bowl. Layer 1/4 of the apple pieces into the bowl; repeat. Spread the pumpkin over the apples. Sprinkle the remaining sugar substitute and pumpkin pie spice on the pumpkin. Top with the remaining apples. Pour the water over the mixture.",
+        "Cook in microwave on high for 3 1/2 minutes, stirring every minute."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/174243.jpg",
+    "ingredients": [
+        "2 (1 gram) packets sugar substitute",
+        "1 teaspoon pumpkin pie spice",
+        "1 Granny Smith apple - peeled, cored and chopped",
+        "1/4 cup canned pumpkin",
+        "2 tablespoons water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple and Pumpkin Dessert",
     "url": "http://allrecipes.com/recipe/150157/apple-and-pumpkin-dessert/"
 }

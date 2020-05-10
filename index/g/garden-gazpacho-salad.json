@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "Mix the pasta with the chicken, cucumber, bell pepper,  tomato, and garlic. Pour the tomato-vegetable juice cocktail and lemon juice over the salad; gently toss to coat. Season with black pepper and salt; serve warm or chilled."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (16 ounce) package fusilli (spiral) pasta",
+        "2 cups chopped cooked chicken",
+        "1 small cucumber, chopped",
+        "1  red bell pepper, chopped",
+        "1 large tomato, chopped",
+        "1 clove garlic, chopped",
+        "\u00be cup spicy tomato-vegetable juice cocktail (e.g., V-8)",
+        "\u00bc cup lemon juice",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bc teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garden Gazpacho Salad",
     "url": "http://allrecipes.com/recipe/143167/garden-gazpacho-salad/"
 }

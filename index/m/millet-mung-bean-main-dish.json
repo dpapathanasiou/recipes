@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring 4 cups water and mung beans to a boil in a pot; cover, reduce heat to medium-low, and simmer until beans are tender, 45 to 60 minutes.",
+        "Bring 5 cups water and millet to a boil in a separate pot; cover, reduce heat to medium-low, and simmer until water is absorbed and millet is tender, 10 to 20 minutes.",
+        "Heat oil in a skillet over medium heat; cook and stir onion, green bell pepper, celery, carrot, parsley, garlic, ginger, basil, oregano, cumin, curry powder, and cayenne pepper until vegetables are slightly tender, 5 to 10 minutes. Stir tomatoes, salt, and pepper into vegetable mixture.",
+        "Mix mung beans, millet, and Cheddar cheese into vegetable mixture; cook and stir until cheese is melted, 2 to 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4478531.jpg",
+    "ingredients": [
+        "9 cups water, divided",
+        "2 cups dried mung beans",
+        "2 1/2 cups millet",
+        "1 tablespoon vegetable oil",
+        "1 large onion, chopped",
+        "1 green bell pepper, chopped",
+        "1 stalk celery, chopped",
+        "1 carrot, shredded, or more to taste",
+        "2/3 bunch chopped flat-leaf parsley",
+        "2 cloves garlic, minced",
+        "1 (1 inch) piece fresh ginger, grated",
+        "2 teaspoons dried basil, or more to taste",
+        "1 teaspoon dried oregano",
+        "1 teaspoon ground cumin",
+        "1 teaspoon curry powder",
+        "1/2 teaspoon cayenne pepper",
+        "2 cups chopped tomatoes",
+        "2 teaspoons salt",
+        "ground black pepper to taste",
+        "2 cups shredded sharp Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Millet Mung Bean Main Dish",
     "url": "http://allrecipes.com/recipe/244873/millet-mung-bean-main-dish/"
 }

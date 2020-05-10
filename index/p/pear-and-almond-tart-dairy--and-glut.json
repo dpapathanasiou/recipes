@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease the bottom of tart pan with a removable bottom and line with parchment paper.",
+        "Mix almond meal, oat flour, and baking powder together in a bowl.",
+        "Whisk egg, maple syrup, coconut oil, vanilla extract, salt, and almond extract together in another bowl. Fold in almond meal mixture to form a sticky dough.",
+        "Press dough into the prepared tart pan. Arrange pears on top.",
+        "Bake in the preheated oven until golden brown, 22 to 25 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4467632.jpg",
+    "ingredients": [
+        "1 1/4 cups almond meal",
+        "1/4 cup gluten-free oat flour",
+        "1/2 teaspoon gluten-free baking powder",
+        "1 egg, beaten",
+        "1/4 cup maple syrup",
+        "2 tablespoons coconut oil, melted",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon sea salt",
+        "1/4 teaspoon almond extract",
+        "1 1/2 (16 ounce) cans pear halves, drained and patted dry"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pear and Almond Tart (Dairy- and Gluten-Free)",
     "url": "http://allrecipes.com/recipe/255594/pear-and-almond-tart-dairy--and-glut/"
 }

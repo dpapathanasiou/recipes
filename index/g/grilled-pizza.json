@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Start charcoal fire or preheat gas grill to medium-high heat.",
+        "Combine 2 cups flour, undissolved yeast, sugar and salt in a large bowl.  Add very warm water and oil; mix until well blended, about 1 minute.  Gradually add enough flour to make a soft dough.  Dough should form a ball and will be slightly sticky. Knead** on a floured surface, adding additional flour if necessary, until smooth and elastic but not sticky, about 5 minutes.",
+        "Divide dough into 8 portions. Pat or roll dough on a well-floured counter to about 8-inch circles; they do not need to be perfect.",
+        "Brush both sides of crust with additional oil.  Using hands, lift each crust carefully and place on grill.  Cook for 3 to 4 minutes until bottom is lightly browned and top looks set.  Using long handled tongs, remove crust from grill, grilled side up, to a platter or baking sheet.",
+        "Lightly add sauce and top the grilled side of each pizza crust.  Excess sauce or toppings makes the pizza hard to handle.  Repeat with remaining pizzas.",
+        "Carefully slide each pizza onto the grill.  Cook an additional 3 to 4 minutes until bottom of crust is browned and cheese is melted.  Remove from grill and serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4032&h=2111&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6662198.jpg",
+    "ingredients": [
+        "3\u2009\u00bd cups all-purpose flour, or as needed",
+        "1 envelope Fleischmann's\u00ae Pizza Crust Yeast",
+        "1 tablespoon sugar",
+        "1\u2009\u00bd teaspoons salt",
+        "1\u2009\u2153 cups very warm water (120 degrees to 130 degrees F)*",
+        "\u2153 cup oil",
+        "Additional flour for rolling",
+        "Additional oil for grilling",
+        "Pizza sauce",
+        "Other toppings as desired",
+        "Shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Pizza",
     "url": "http://allrecipes.com/recipe/205110/grilled-pizza/"
 }

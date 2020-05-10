@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the rum, limeade concentrate, and peaches into the container of a blender. Blend until smooth. Add the ice, and blend until finely ground, sweeten with sugar, if desired. Pour into margarita glasses, and enjoy!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1013399.jpg",
+    "ingredients": [
+        "3/4 cup spiced rum",
+        "1 (6 ounce) can frozen limeade concentrate",
+        "3 large ripe peaches, halved and pitted with skins on",
+        "2 cups ice cubes",
+        "1 teaspoon white sugar, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandmother's Peach Fuzz",
     "url": "http://allrecipes.com/recipe/74722/grandmothers-peach-fuzz/"
 }

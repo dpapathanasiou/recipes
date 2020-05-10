@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Place buttery crackers and cornmeal in a plastic resealable bag; seal and pound into fine crumbs.",
+        "Heat olive oil in a large skillet over medium heat. Add shallot; cook and stir until translucent, about 5 minutes. Add yellow squash and zucchini. Season with garlic powder, salt, and pepper. Cook until softened, about 10 minutes.",
+        "Stir milk and butter into the skillet. Increase heat to medium-high; cook until butter is melted, 2 to 3 minutes. Stir in crumb mixture and Mexican cheese blend. Remove from heat.",
+        "Spread yellow squash mixture evenly in an 8-inch square baking pan.",
+        "Bake in the preheated oven until bubbly, about 15 minutes. Increase heat to 450 degrees F (230 degrees C) and continue baking until lightly browned, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5634491.jpg",
+    "ingredients": [
+        "6  buttery crackers",
+        "1 tablespoon cornmeal",
+        "2 tablespoons olive oil",
+        "1  shallot, thinly sliced",
+        "2  yellow squash, sliced 1/4-inch thick",
+        "2  zucchini, sliced 1/4-inch thick",
+        "\u00bd teaspoon garlic powder",
+        "1 pinch salt and ground black pepper to taste",
+        "\u00bd cup 2% milk",
+        "2 tablespoons butter",
+        "\u00bd cup shredded Mexican cheese blend"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Summer Squash Gratin",
     "url": "http://allrecipes.com/recipe/254385/summer-squash-gratin/"
 }

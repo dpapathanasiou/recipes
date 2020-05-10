@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8x8 inch baking dish.",
+        "Mix the green beans with the mushroom soup, Cheddar cheese, garlic, and garlic and herb seasoning blend. Season to taste with salt and pepper. Spoon the bean  mixture into the prepared baking dish.",
+        "Bake in preheated oven until bubbly, about 30 minutes. Remove from oven, and sprinkle the top with French fried onions. Return to oven, and bake until onions are golden brown, about 5 minutes more."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4481982.jpg",
+    "ingredients": [
+        "2 (15.5 ounce) cans French cut green beans, drained",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1\u2009\u00bd cups shredded Cheddar cheese",
+        "1 tablespoon fresh minced garlic",
+        "1 tablespoon garlic and herb seasoning blend",
+        "salt and ground black pepper to taste",
+        "1 (6 ounce) can French fried onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amy's Cheesy Green Bean Casserole",
     "url": "http://allrecipes.com/recipe/130877/amys-cheesy-green-bean-casserole/"
 }

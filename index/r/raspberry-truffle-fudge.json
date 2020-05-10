@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a 9x9 inch pan with non-stick cooking spray, and line with wax paper.",
+        "In a microwave-safe bowl, combine 3 cups chocolate chips and sweetened condensed milk. Heat in microwave until chocolate melts, stirring occasionally. Be careful not to let it scorch. Stir in the vanilla and salt. Spread into pan, and cool to room temperature.",
+        "In a microwave-safe bowl, combine cream, liqueur, and 2 cups chocolate chips. Heat in microwave until the chocolate melts; stir until smooth. Cool to lukewarm, then pour over the fudge layer. Refrigerate until both layers are completely set, about 1 hour. Cut into 1 inch pieces."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/759460.jpg",
+    "ingredients": [
+        "3 cups semi-sweet chocolate chips",
+        "1 (14 ounce) can sweetened condensed milk",
+        "1 1/2 teaspoons vanilla extract",
+        "salt to taste",
+        "1/4 cup heavy cream",
+        "1/4 cup raspberry flavored liqueur",
+        "2 cups semi-sweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Raspberry Truffle Fudge",
     "url": "http://allrecipes.com/recipe/9557/raspberry-truffle-fudge/"
 }

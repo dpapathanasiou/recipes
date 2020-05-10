@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, cream together the cream cheese and sugar.  Fold in the pineapple, whipped topping and strawberries and mix well.  Stir in bananas and walnuts.",
+        "Freeze for 4 to 6 hours or overnight.  Remove from freezer 1 to 2 hours before serving.  Enjoy!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1901421.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "1 cup white sugar",
+        "1 (15 ounce) can crushed pineapple, drained",
+        "1 (16 ounce) container frozen whipped topping, thawed",
+        "1 (10 ounce) package frozen strawberries, thawed",
+        "3 bananas, diced",
+        "3/4 cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Champagne Salad",
     "url": "http://allrecipes.com/recipe/24834/champagne-salad/"
 }

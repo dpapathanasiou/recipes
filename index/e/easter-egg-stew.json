@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon of butter in a skillet over medium heat, and cook and stir the onion and green pepper until the onion is translucent, about 5 minutes; stir in ham, and cook until ham is hot, about 1 more minute. Transfer to a bowl, and set aside. Melt 1 more tablespoon of butter in skillet over medium heat, and cook and stir the mushrooms until they have given up their liquid and started to brown, about 10 minutes. Add the cooked mushrooms to the ham mixture.",
+        "Melt 2 tablespoons of butter in a saucepan over medium heat, and stir in flour, salt, and black pepper. Cook and stir until the flour lightens in color slightly, about 1 minute; gradually whisk in milk, and cook until thickened, whisking constantly. Do not boil. Mix in the Cheddar cheese, and stir until the cheese melts. Reduce heat to a bare simmer, and cook the sauce for about 10 more minutes. Whisk frequently.",
+        "Drain any juices from the ham and mushroom mixture, and stir the mixture into the sauce; mix in the chopped hard-cooked eggs. Bring mixture back to a simmer, and serve over toasted English muffins."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1699&h=890&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1124309.jpg",
+    "ingredients": [
+        "2 tablespoons butter, divided",
+        "1 small onion, chopped",
+        "1  green bell pepper, chopped",
+        "1\u2009\u00bc cups diced cooked ham",
+        "1 (8 ounce) package sliced fresh mushrooms (optional)",
+        "2 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "salt to taste",
+        "\u215b teaspoon ground black pepper",
+        "1 cup milk",
+        "1 cup shredded sharp Cheddar cheese",
+        "6  hard-cooked eggs, chopped",
+        "4  English muffins, split and toasted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easter Egg Stew",
     "url": "http://allrecipes.com/recipe/217161/easter-egg-stew/"
 }

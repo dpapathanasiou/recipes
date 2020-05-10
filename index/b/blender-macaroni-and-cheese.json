@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Butter a 2-quart casserole dish.",
+        "Bring a large pot of lightly salted water to a boil. Add macaroni and cook for 8 to 10 minutes or until al dente; drain well and pour into prepared casserole dish.",
+        "Meanwhile, place the Cheddar cheese, hot milk, flour, onion, Worcestershire sauce, pepper, salt, mustard powder, and garlic powder in the bowl of a blender. Blend until cheese is melted and onion is finely chopped.",
+        "Pour cheese mixture over macaroni. Sprinkle top with wheat germ and Parmesan cheese. Bake uncovered for 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F950470.jpg",
+    "ingredients": [
+        "\u2154 pound uncooked elbow macaroni",
+        "10 ounces extra-sharp Cheddar cheese, cubed",
+        "1\u2009\u00bd cups hot milk",
+        "\u00bc cup all-purpose flour",
+        "\u00bd small onion, cut into chunks",
+        "1 tablespoon Worcestershire sauce",
+        "\u00bc teaspoon black pepper",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon dry mustard powder",
+        "1 pinch garlic powder",
+        "\u00bc cup toasted wheat germ",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blender Macaroni and Cheese",
     "url": "http://allrecipes.com/recipe/125638/blender-macaroni-and-cheese/"
 }

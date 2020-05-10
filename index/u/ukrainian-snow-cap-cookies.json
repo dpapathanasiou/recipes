@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Grease baking sheets or line with parchment paper. Sift together the flour, baking powder and salt; set aside.",
+        "In a medium bowl, cream the butter and beat in egg yolks one at a time. Stir in cream, and then mix in the dry ingredients to form a light dough. If necessary, cover dough and chill for 30 minutes for easier handling.",
+        "On a lightly floured surface, roll the dough out to 1/4 inch thickness, and cut into small circles. Place the circles onto the prepared baking sheets. In a clean glass or metal bowl, whip egg whites to soft peaks. Gradually add confectioners' sugar while continuing to whip to stiff peaks. Fold in walnuts and coconut. Spoon some of the meringue mixture onto the top of each cookie.",
+        "Bake for 12 minutes in the preheated oven, or until delicately browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4568120.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "\u00bd teaspoon baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bd cup butter",
+        "3  egg yolks",
+        "1 tablespoon cream",
+        "3  egg whites",
+        "1\u2009\u00bc cups confectioners' sugar",
+        "1\u2009\u00bd cups chopped walnuts",
+        "1 cup flaked coconut,"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ukrainian Snow Cap Cookies",
     "url": "http://allrecipes.com/recipe/48814/ukrainian-snow-cap-cookies/"
 }

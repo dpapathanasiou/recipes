@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Slice the top 1/2 inch from the tops of peppers and cut out the stems from the tops. Cut the core from the inside of the peppers and strip away any seeds. Cut away a very thin slice of pepper from the bottoms so the peppers can stand upright. Poke about 4 tiny holes in the bottoms to let juices drain out.",
+        "Pour 2 1/2 cups tomato sauce into a 9x13-inch baking dish. Add onion, beef broth, and red pepper flakes; spread out mixture evenly over the bottom. Set prepared bell peppers upright in the dish.",
+        "Combine ground beef, cooked rice, Parmigiano-Reggiano cheese, 1/4 cup parsley, 2 tablespoons tomato sauce, garlic, salt, and black pepper in a large mixing bowl.",
+        "Lightly stuff peppers with meat mixture. Spread 1 tablespoon remaining tomato sauce on top of each portion of stuffing; place reserved tops onto peppers. Lay a piece of parchment paper loosely on top of peppers and cover dish tightly with foil. Lay dish on a baking sheet.",
+        "Bake in preheated oven for 1 hour. Peppers should be starting to soften. Remove foil and parchment paper. Continue to bake until meat filling is cooked through and the peppers are tender, 20 to 30 more minutes. Sprinkle each pepper with 1/2 teaspoon parsley and drizzle with a spoonful of pan juices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "6  bell peppers",
+        "2\u2009\u00bd cups chunky tomato sauce",
+        "\u00bd  onion, very thinly sliced",
+        "1 cup beef broth",
+        "\u00bc teaspoon red pepper flakes",
+        "1\u2009\u00bd pounds lean ground beef",
+        "1\u2009\u00bd cups cooked rice",
+        "\u00bd cup freshly shredded Parmigiano-Reggiano cheese",
+        "\u00bc cup chopped fresh flat-leaf parsley",
+        "\u00bd cup chunky tomato sauce, divided",
+        "4 cloves garlic, minced",
+        "2 teaspoons salt",
+        "\u00bd teaspoon freshly ground black pepper",
+        "1 tablespoon chopped fresh flat-leaf parsley, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef and Rice Stuffed Bell Peppers",
     "url": "http://allrecipes.com/recipe/236359/beef-and-rice-stuffed-bell-peppers/"
 }

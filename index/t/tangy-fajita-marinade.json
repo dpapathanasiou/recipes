@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the pineapple juice, soy sauce, lime juice, cumin, and garlic in a small bowl.",
+        "Marinate up to 2 pounds of meat in the marinade for at least 4 hours before using."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/93926.jpg",
+    "ingredients": [
+        "1 cup pineapple juice",
+        "1/2 cup soy sauce",
+        "2 tablespoons fresh lime juice",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon minced garlic"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy Fajita Marinade",
     "url": "http://allrecipes.com/recipe/162156/tangy-fajita-marinade/"
 }

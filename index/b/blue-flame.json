@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour schnapps into a small fluted glass. Put a teaspoon just above the schnapps, and slowly pour Southern Comfort onto the spoon, letting it run in a separate layer on top of schnapps. Do not mix, it must be layered.",
+        "Hold the glass away from face, and light the Southern Comfort with the flame of a match or lighter. Let it burn for 15 seconds. Blow it out and down it."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/619293.jpg",
+    "ingredients": [
+        "1/2 fluid ounce Southern Comfort",
+        "1 1/2 fluid ounces peppermint schnapps"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Flame",
     "url": "http://allrecipes.com/recipe/23681/blue-flame/"
 }

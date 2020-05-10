@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse the kidney beans, and set aside to drain. In a medium bowl, stir together the onion, mayonnaise, relish, dry mustard, Worcestershire sauce, horseradish, garlic powder, salt and pepper. Gently mix in kidney beans until coated with dressing. Refrigerate until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1427&h=747&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1071926.jpg",
+    "ingredients": [
+        "2 cups canned kidney beans, drained",
+        "1 small onion, minced",
+        "\u00bd cup mayonnaise",
+        "\u00bd cup sweet pickle relish",
+        "1 pinch dry mustard",
+        "1 dash Worcestershire sauce",
+        "\u00bd teaspoon white horseradish",
+        "\u215b teaspoon garlic powder",
+        "\u215b teaspoon salt",
+        "\u215b teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "New England Bean Dip",
     "url": "http://allrecipes.com/recipe/71221/new-england-bean-dip/"
 }

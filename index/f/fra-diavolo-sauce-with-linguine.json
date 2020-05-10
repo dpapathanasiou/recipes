@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat crushed garlic and 2 tablespoons olive oil in a large saucepan over medium heat until garlic starts to sizzle. Stir in tomatoes, red pepper flakes, oregano, basil, and salt. Bring to a boil, reduce heat to low, and simmer for 30 minutes, stirring occasionally.",
+        "Bring a large pot of lightly salted water to a boil. Cook linguine at a boil until tender yet firm to the bite, about 11 minutes; drain.",
+        "Heat 2 tablespoons olive oil in a large skillet over high heat. Stir in shrimp and scallops. Cook, stirring frequently, until shrimp turn pink, about 2 minutes. Remove from heat.",
+        "Stir shrimp, scallops, mussels, and parsley into tomato mixture. Cook until sauce begins to bubble and mussels open, about 7 minutes. Pour sauce over linguine and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7535238.jpg",
+    "ingredients": [
+        "6 cloves garlic, crushed",
+        "1/4 cup olive oil, divided",
+        "6 cups canned whole tomatoes with juice, chopped",
+        "2 teaspoons red pepper flakes",
+        "2 teaspoons chopped fresh oregano",
+        "2 teaspoons chopped fresh basil",
+        "1 1/2 teaspoons salt",
+        "1 (16 ounce) package linguine",
+        "1/2 pound small shrimp, peeled and deveined",
+        "1/2 pound bay scallops",
+        "1/2 pound mussels, cleaned and debearded",
+        "1 tablespoon chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fra Diavolo Sauce with Linguine",
     "url": "http://allrecipes.com/recipe/233751/fra-diavolo-sauce-with-linguine/"
 }

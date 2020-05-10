@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F. Lightly spray miniature muffin pans with vegetable cooking spray; set aside.",
+        "Beat SPLENDA\u00ae Granulated Sweetener, butter, and molasses at medium speed of an electric mixer 1 minute or until blended. Add eggs, one at a time, beating until blended after each addition; add apple juice concentrate and lemon peel, beating until blended.",
+        "Combine flour, cinnamon, nutmeg, soda, and salt; add to SPLENDA\u00ae Granulated Sweetener mixture, beating on low speed just until blended. Stir in apple, oats, and raisins.",
+        "Spoon batter into prepared pans; filling three-fourths full. Bake until edges are lightly browned, 12 minutes. Remove to wire racks to cool."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4558629.jpg",
+    "ingredients": [
+        "\u00be cup SPLENDA\u00ae No Calorie Sweetener, Granulated",
+        "1 cup butter, softened",
+        "2 teaspoons molasses",
+        "2  large eggs",
+        "\u2153 cup apple juice concentrate, thawed",
+        "2 teaspoons grated fresh lemon peel",
+        "2 cups all-purpose flour",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1 cup peeled, shredded fresh apple",
+        "\u2154 cup old-fashioned oats",
+        "\u00bd cup raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Miniature Apple Muffins",
     "url": "http://allrecipes.com/recipe/106438/miniature-apple-muffins/"
 }

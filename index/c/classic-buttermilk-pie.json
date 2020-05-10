@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium mixing bowl, combine the flour, salt and sugar. Use hands to cut in the butter until the mixture resembles coarse breadcrumbs and no pieces are larger than a pea. Stir in the cold buttermilk until mixture starts to clump together. Use hands to form the dough into a tight ball, pat it into a disk about 1 1/2-inch thick and wrap tightly in plastic wrap. Chill for a least an hour and up to a day.",
+        "Preheat oven to 425 degrees F. On a floured surface, roll pie crust into large circle. Press dough into a pie pan. Line the crust with a sheet of Reynolds Wrap(R) Aluminum Foil and fill the foil with pie weights or dried rice/beans. Make sure to get the weights into the corners of the pie and press into the bottom and sides. Chill the crust for 15 minutes and then bake for 15 minutes. Remove piecrust from the oven and remove the weights and foil. Reduce the oven to 350 degrees F and let the crust cool while you make the filling.",
+        "Beat egg whites in a stand mixer with whisk attachment until soft peaks form. Set aside. Using the whisk attachment, cream butter and sugar. Add yolks to butter-sugar mixture and combine well. Add the flour, lemon juice, nutmeg and salt to the mixture. Slowly add in buttermilk and mix for 1 minute. Buttermilk will curdle slightly but will smooth out upon baking.",
+        "Gently fold the egg whites into the buttermilk mixture. Pour mixture into the crust. Smooth with spatula and bake for 45-50 minutes or until golden and set in the middle. Cool thoroughly on a rack before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2822110.jpg",
+    "ingredients": [
+        "Crust:",
+        "1 cup all-purpose flour",
+        "1/2 teaspoon kosher salt",
+        "1 teaspoon sugar",
+        "1/2 cup unsalted butter, very cold, cut into 1-inch dice",
+        "1/4 cup ice-cold buttermilk",
+        "Reynolds Wrap\u00ae Aluminum Foil",
+        "Filling:",
+        "2 eggs, separated, room temperature",
+        "6 tablespoons unsalted butter, room temperature",
+        "1 cup sugar",
+        "3 tablespoons flour",
+        "1 tablespoon lemon juice",
+        "1/4 teaspoon nutmeg",
+        "1/4 teaspoon salt",
+        "1 cup buttermilk, room temperature",
+        "Powdered sugar for dusting (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Classic Buttermilk Pie",
     "url": "http://allrecipes.com/recipe/245229/classic-buttermilk-pie/"
 }

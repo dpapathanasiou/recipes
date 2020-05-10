@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place lime juice, vinegar, Worcestershire sauce, cilantro, green onions, and jalapeno peppers together in a blender or food processor. Process until well blended and smooth. Add sour cream and mayonnaise. Process again until smooth and creamy, scraping down the sides of the container as necessary. Season to taste with salt and pepper. Cover and refrigerate until ready to use."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/773885.jpg",
+    "ingredients": [
+        "2 tablespoons fresh lime juice",
+        "1 tablespoon white wine vinegar",
+        "1 tablespoon Worcestershire sauce",
+        "1/2 cup coarsely chopped fresh cilantro",
+        "2 whole green onions, coarsely chopped",
+        "2 fresh jalapeno peppers, seeded and chopped",
+        "1 cup sour cream",
+        "1 cup mayonnaise",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Cilantro Dressing",
     "url": "http://allrecipes.com/recipe/56709/spicy-cilantro-dressing/"
 }

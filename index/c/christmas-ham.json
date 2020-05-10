@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ham into a large pot, cover with water, and bring to a boil. Reduce heat to medium-low and simmer ham for 1 to 2 hours. Cut away and discard any rind and visible fat.",
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Score the ham in a diamond pattern and place into a roasting pan. Stir Dijon mustard and brown sugar in a bowl until thoroughly combined; brush mustard mixture onto the ham. Press a whole clove into the center of each scored diamond shape. Pour peach nectar into the roasting pan. Combine pineapple and maraschino liquid in a small bowl.",
+        "Bake ham in the preheated oven for 3 hours, basting frequently with the pineapple juice mixture and peach nectar.",
+        "Arrange pineapple rings over the ham and secure with toothpicks. Secure a maraschino cherry in the center of each pineapple ring with a toothpick.",
+        "Bake ham until browned, tender, and fragrant, 1 to 2 more hours, basting ham and fruit frequently with pineapple juice mixture and pan juices."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (5 pound) bone-in ham",
+        "\u00bd cup Dijon mustard",
+        "\u00bd cup packed brown sugar",
+        "\u00bc cup whole cloves",
+        "1 quart peach nectar",
+        "1 (20 ounce) can pineapple rings, juice drained and reserved",
+        "1 (4 ounce) jar maraschino cherries, juice drained and reserved"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Ham",
     "url": "http://allrecipes.com/recipe/230190/christmas-ham/"
 }

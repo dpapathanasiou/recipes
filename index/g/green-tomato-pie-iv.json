@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Roll pastry and line a 9 inch deep-dish pie plate.",
+        "In a large bowl, combine sliced tomatoes, sugar, lemon juice, flour, cinnamon, nutmeg and salt. Toss lightly to mix. Pour into pastry lined deep-dish pie plate.",
+        "Put little dabs of butter in about 4 or 5 places around the top of pie then cover with pastry. Make slits wherever you please.",
+        "Bake at 375 degrees F (190 degrees C) for 10  minutes then reduce heat to 350 degrees F (175 degrees C) and continue baking until golden and bubbly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4000&h=2094&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3908771.jpg",
+    "ingredients": [
+        "1 recipe pastry for a 9 inch double crust pie",
+        "4 cups sliced green tomatoes",
+        "1\u2009\u00bc cups white sugar",
+        "1 teaspoon lemon juice",
+        "2 tablespoons all-purpose flour",
+        "1 teaspoon ground cinnamon",
+        "1 pinch ground nutmeg",
+        "1 pinch salt",
+        "2 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Tomato Pie IV",
     "url": "http://allrecipes.com/recipe/12638/green-tomato-pie-iv/"
 }

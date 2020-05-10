@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 9x5 inch loaf pans. Whisk together the flour, salt, baking soda, baking powder, cinnamon, and nutmeg in a bowl; set aside.",
+        "Beat the eggs together with the sugar, buttermilk, vegetable oil, and vanilla extract in a bowl until smooth. Stir in the dry mixture until just moistened, then fold in the zucchini, carrots, pineapple, walnuts, and raisins until evenly combined. Divide the batter between the prepared loaf pans.",
+        "Bake in the preheated oven until a toothpick inserted into the center of the bread comes out clean, about 50 minutes. Cool in the pans for 10 minutes, then remove and finish cooling on a wire rack before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F399832.jpg",
+    "ingredients": [
+        "3 cups all-purpose flour",
+        "1 teaspoon salt",
+        "2 teaspoons baking soda",
+        "\u00bd teaspoon baking powder",
+        "1\u2009\u00bd teaspoons ground cinnamon",
+        "\u00be teaspoon ground nutmeg",
+        "3  eggs",
+        "2 cups sugar",
+        "\u00bd cup buttermilk",
+        "\u00be cup vegetable oil",
+        "2 teaspoons vanilla extract",
+        "2 cups coarsely shredded zucchini",
+        "1 cup shredded carrots",
+        "1 (8 ounce) can crushed pineapple, well drained",
+        "1 cup finely chopped walnuts",
+        "1 cup raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mom's Pineapple-Zucchini Bread",
     "url": "http://allrecipes.com/recipe/94035/moms-pineapple-zucchini-bread/"
 }

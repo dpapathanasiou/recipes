@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the tomatoes, apples, peaches, pears, onion, and celery into a heavy pot. Stir in the pickling spices, brown sugar, pickling salt, and vinegar. Bring to a boil, while continuing to stir. Reduce heat to medium, and simmer until thick, stirring occasionally to prevent sticking, or about 45 minutes.",
+        "Pour the fruit relish into hot jars, leaving 1/4 inch head space. Adjust caps. Process for 15 minutes in a boiling-water bath. Cool jars, and store in a cool, dry place."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "8 large medium-ripe tomatoes, peeled and chopped into 3/4 inch chunks",
+        "2 cups chopped firm apples",
+        "1 1/2 cups chopped peeled fresh peaches",
+        "1 1/2 cups chopped peeled pears",
+        "1 1/2 cups finely chopped onion",
+        "1 cup finely chopped celery",
+        "3 tablespoons whole pickling spices",
+        "2 1/2 cups lightly packed brown sugar",
+        "2 teaspoons pickling salt",
+        "1 1/2 cups apple cider vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruity Tamale Relish",
     "url": "http://allrecipes.com/recipe/76538/fruity-tamale-relish/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine coconut rum, orange juice, grapefruit juice and frozen strawberries. Blend until smooth. Pour into glass and serve.",
+        "In a cocktail mixer, combine coconut rum, orange juice and grapefruit juice. Mix well and pour into glasses. Garnish with frozen strawberries."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4431945.jpg",
+    "ingredients": [
+        "1 cup coconut flavored rum",
+        "1/2 cup orange juice",
+        "1/2 cup grapefruit juice",
+        "2 tablespoons frozen strawberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paradise Island",
     "url": "http://allrecipes.com/recipe/32622/paradise-island/"
 }

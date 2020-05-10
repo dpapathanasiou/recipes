@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook macaroni according to package directions, adding green pepper or peas during the last 3 minutes of cooking; drain. Cover and keep warm.",
+        "Meanwhile, for sauce, melt butter over medium heat in a large skillet. Cook onion in hot butter for 4 to 5 minutes or until onion is tender. Stir in flour, salt, and black pepper. Add milk all at once. Whisk constantly until thick and bubbly. Cook, whisking constantly, for 2 more minutes. Reduce heat to low.",
+        "Add American & cheddar cheese blend and mozzarella cheese, stirring until sauce is smooth and cheese is melted. Stir the sauce and bison pepperoni into the pasta. Heat through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1042448.jpg",
+    "ingredients": [
+        "2 cups dried elbow macaroni",
+        "\u00bd cup chopped green pepper or frozen peas",
+        "2 tablespoons butter",
+        "\u2153 cup finely chopped onion",
+        "2 tablespoons all-purpose flour",
+        "\u00bc teaspoon salt or to taste",
+        "\u215b teaspoon black pepper",
+        "2 cups milk",
+        "1\u2009\u00bd cups shredded American and Cheddar cheese blend",
+        "1 cup shredded part-skim mozzarella cheese",
+        "4 ounces bison sausage with pepperoni seasoning, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bison Pepperoni Macaroni",
     "url": "http://allrecipes.com/recipe/233885/bison-pepperoni-macaroni/"
 }

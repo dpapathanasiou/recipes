@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend watermelon, water, and sugar in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1132046.jpg",
+    "ingredients": [
+        "2 cups diced seedless watermelon",
+        "2 cups water",
+        "1 tablespoon white sugar, or more to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Watermelon Juice",
     "url": "http://allrecipes.com/recipe/228280/watermelon-juice/"
 }

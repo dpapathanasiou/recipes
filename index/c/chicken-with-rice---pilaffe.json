@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in a large soup pot and cover with water. Bring to a boil. Stir in the salt, pepper, and poultry seasoning; boil for 1 hour, skimming fat from water occasionally.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Melt the butter over low heat in a large skillet. Add the rice and cook, stirring, for 10 minutes. Transfer rice to a large roasting pan. Pour the broth from the chicken into the roasting pan; top with the chicken.",
+        "Bake in the preheated oven until rice is cooked, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3158652.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken, cut into pieces",
+        "3 cups uncooked white rice, rinsed",
+        "1/2 cup butter",
+        "1 teaspoon salt",
+        "1 teaspoon black pepper",
+        "1/2 teaspoon poultry seasoning"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken with Rice - Pilaffe",
     "url": "http://allrecipes.com/recipe/156253/chicken-with-rice---pilaffe/"
 }

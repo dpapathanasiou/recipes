@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a large skillet with non-stick cooking spray, and place over medium-high heat. Add corn to hot skillet. Cook, stirring occasionally, until browned but not burned. Place in a large bowl.",
+        "Stir the tomatoes, onion, bell pepper, and jalapeno peppers into the corn; sprinkle in some of the reserved jalapeno seeds. Stir in the chipotle peppers, lime juice, olive oil, and cilantro. Season with salt to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F228359.jpg",
+    "ingredients": [
+        "cooking spray",
+        "2 cups frozen corn",
+        "2  vine-ripened tomatoes, cut into 1/2 inch pieces",
+        "1 small red onion, diced",
+        "\u00be cup diced red bell pepper",
+        "2  jalapeno peppers - seeds removed and reserved, flesh minced",
+        "2 teaspoons finely chopped canned chipotle pepper",
+        "4 tablespoons fresh lime juice",
+        "1 tablespoon olive oil",
+        "\u00bc cup chopped fresh cilantro",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chipotle and Roasted Corn Salsa",
     "url": "http://allrecipes.com/recipe/189124/chipotle-and-roasted-corn-salsa/"
 }

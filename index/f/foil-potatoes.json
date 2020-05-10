@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C).",
+        "Lay out 4 squares of aluminum foil on the counter. Cut each potato in half lengthwise, and place onto a square of aluminum foil. Place 1/2 tablespoon of butter onto the cut side of each half, then season with garlic powder and salt. Close the potato halves together, and wrap tightly in the aluminum foil.",
+        "Bake potatoes directly on the oven rack for 40 minutes, or until tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1920&h=1005&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6479356.jpg",
+    "ingredients": [
+        "4 medium baking potatoes, scrubbed",
+        "4 tablespoons butter",
+        "4 teaspoons garlic powder",
+        "2 teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Foil Potatoes",
     "url": "http://allrecipes.com/recipe/80919/foil-potatoes/"
 }

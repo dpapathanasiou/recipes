@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Bring 2 1/2 quarts of water to a boil in a large pot. Cut the potatoes into thirds and drop them into the water. Gently boil the potatoes for 20 minutes or until they are tender.  Drain well and return the potatoes to the pot.",
+        "Place 2 tablespoons of the butter, 3/4 teaspoon salt and pepper into the potato-pot. Mash the potatoes with a potato masher, incorporating 1/2 cup of the warm milk, until they are fairly smooth.",
+        "In a saucepan, bring 1 1/2 cups water to a boil with 1/2 teaspoon salt and the kasha. Reduce the heat and simmer, uncovered, for 15 minutes.",
+        "Add 1 1/2 cups more water to the kasha, and bring the mixture to a boil. Then add the bulgur, cover the pan and take it off the heat. Let the grain stand undisturbed for 10 minutes. Transfer the contents to a large bowl.",
+        "In a large saucepan, heat the remaining 2 tablespoon butter. Mix in the onions, garlic, and carrots; saute them over medium heat, stirring frequently, until the onions soften. Mix in the mushrooms and continue cooking for 3 to 4 minutes; stirring frequently.",
+        "Sprinkle the flour over the vegetables, and stir constantly for 2 minutes or until the flour begins to brown. Pour the remaining 1 1/2 cups milk over the vegetables, and turn the heat to high. While the sauce boils stir it constantly with a whisk. Continue stirring until the mixture is smooth. Turn the heat to low and simmer for 5 minutes.",
+        "Mix the corn, 1/4 teaspoon salt, and black pepper to taste into the vegetable-flour mixture. Pour the vegetable-gravy mixture to the bowl of kasha and bugler. Stir well.",
+        "Grease  a 10 inch round pie pan or casserole dish, and spoon the vegetable-grain mixture into it. Smooth the mixture with a plastic spatula. Spoon on the mashed potatoes over the vegetable mixture leaving an uneven top surface.",
+        "Bake the pie uncovered for 30 minutes. Garnish with the chopped parsley. Cut the pie into pieces, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "5 medium potatoes, peeled",
+        "4 tablespoons butter",
+        "1 1/2 teaspoons salt",
+        "fresh ground black pepper to taste",
+        "2 cups milk, warmed",
+        "1/2 cup kasha (toasted buckwheat groats)",
+        "2/3 cup bulgar",
+        "2 cups minced onion",
+        "2 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "2 cups sliced mushrooms",
+        "1 1/2 tablespoons all-purpose flour",
+        "1 cup corn kernels, blanched"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lambless Shepherd's Pie",
     "url": "http://allrecipes.com/recipe/16500/lambless-shepherds-pie/"
 }

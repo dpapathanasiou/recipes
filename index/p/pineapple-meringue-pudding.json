@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cornstarch, 2/3 cup sugar and 1/2 teaspoon salt in top of double boiler over simmering water.  Pour in hot milk, stir and cover and cook, stirring occasionally, 10 minutes, or until thick.  Beat egg yolks in separate bowl.  Pour a little of hot milk mixture into egg yolks, and stir to combine.  Pour egg mixture back into rest of milk mixture and stir well.  Cook 2 minutes more, stir in orange zest, and remove from heat and let cool.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Layer vanilla wafers, cooled pudding and pineapple in six ovenproof serving dishes or large ramekins. In large bowl, whip egg whites with 1/3 cup sugar and 1/4 teaspoon salt until stiff peaks form. Top puddings with egg white mixture.",
+        "Bake 15 minutes, until meringue is golden brown.  Let cool and chill in refrigerator until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/3 cup cornstarch",
+        "2/3 cup white sugar",
+        "1/2 teaspoon salt",
+        "3 cups hot milk",
+        "3 egg yolks",
+        "1 1/2 teaspoons grated orange zest",
+        "2 cups pineapple chunks",
+        "1/2 (16 ounce) package vanilla wafers",
+        "3 egg whites",
+        "1/3 cup white sugar",
+        "1/4 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pineapple Meringue Pudding",
     "url": "http://allrecipes.com/recipe/20155/pineapple-meringue-pudding/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a medium casserole dish.",
+        "Evenly spread the apple slices in the prepared dish. In a small bowl, mix the lemon juice and water, and pour over the apples. Drizzle apples with honey, and sprinkle with cinnamon.",
+        "In a bowl, mix the brown sugar, flour, oats, and butter until the mixture resembles coarse crumbs. Sprinkle over the apples.",
+        "Bake 25 minutes in the preheated oven, until apples are tender and topping is lightly browned."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1073655.jpg",
+    "ingredients": [
+        "4 1/2 cups peeled, cored and sliced apples",
+        "2 teaspoons lemon juice",
+        "2 tablespoons water",
+        "1/2 cup honey",
+        "1 teaspoon ground cinnamon",
+        "3/4 cup brown sugar",
+        "3/4 cup all-purpose flour",
+        "3/4 cup rolled oats",
+        "4 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Apple Crisp with Honey",
     "url": "http://allrecipes.com/recipe/75314/easy-apple-crisp-with-honey/"
 }

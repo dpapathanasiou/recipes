@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch square baking dish.",
+        "Combine oats, oat flour, salt, and baking soda in a bowl. Add eggs, almond milk, brown sugar, and vanilla extract and mix well. Fold almonds, chocolate chips, and coconut into oats mixture; pour into the prepared baking dish.",
+        "Bake in the preheated oven until set in the middle, about 40 minutes. Cool before cutting into squares."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3913098.jpg",
+    "ingredients": [
+        "1 cup whole oats",
+        "1 cup oat flour",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon baking soda",
+        "2 eggs",
+        "1/2 cup dark chocolate-flavored almond milk",
+        "1/2 cup brown sugar",
+        "1 teaspoon vanilla extract, or to taste",
+        "1/2 cup dry-roasted cocoa almonds",
+        "1/2 cup semi-sweet chocolate chips",
+        "1/2 cup shredded coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Almond Coconut Breakfast Bars",
     "url": "http://allrecipes.com/recipe/241345/chocolate-almond-coconut-breakfast-ba/"
 }

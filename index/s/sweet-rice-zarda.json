@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the rice in a bowl with water to cover and soak one hour.",
+        "Bring a large pot of water to boil with food color and half the cardamom pods.  Stir in the rice, reduce heat, cover and simmer until tender, 20 minutes.",
+        "In a large skillet over low heat, cook remaining cardamom pods in oil 2 minutes.  Stir in cooked, drained rice, and sugar.  Cover and cook 5 minutes.  Remove from heat and stir in cream, raisins, walnuts, almonds and orange zest.  Serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1662003.jpg",
+    "ingredients": [
+        "4 cups uncooked white rice",
+        "1/4 teaspoon orange food color",
+        "10 pods whole cardamom",
+        "2 tablespoons vegetable oil",
+        "4 cups white sugar",
+        "3 tablespoons heavy cream",
+        "1 tablespoon raisins",
+        "1 tablespoon chopped walnuts",
+        "1 tablespoon chopped almonds",
+        "2 teaspoons grated orange zest"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Rice (Zarda)",
     "url": "http://allrecipes.com/recipe/22750/sweet-rice-zarda/"
 }

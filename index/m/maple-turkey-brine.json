@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place 2 quarts of water in a large pot over medium heat, and stir in brown sugar, soy sauce, maple syrup, sea salt, garlic cloves, bay leaves, thyme sprigs, peppercorns, and whiskey. Stir to dissolve brown sugar and salt; bring to a boil. Remove from heat, and stir in remaining 2 quarts of water. Allow brine to cool completely before using."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5961920.jpg",
+    "ingredients": [
+        "4 quarts water, divided",
+        "2 cups dark brown sugar",
+        "1 cup soy sauce",
+        "1 cup maple syrup",
+        "3/4 cup sea salt",
+        "8 cloves whole garlic cloves, peeled",
+        "6 bay leaves",
+        "3 large fresh thyme sprigs",
+        "2 teaspoons whole black peppercorns",
+        "1 cup sour mash whiskey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Maple Turkey Brine",
     "url": "http://allrecipes.com/recipe/219475/maple-turkey-brine/"
 }

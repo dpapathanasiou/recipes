@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a 3 quart soup pot heat oil. Add onions and saute 4-5 minutes. Add pumpkin puree and chicken broth and bring to a boil. Reduce heat and simmer soup 10-12 minutes. Season soup with salt and pepper.",
+        "Remove soup from heat (can be made in advance up to this point).",
+        "In a bowl combine yogurt, and spices, mix well. Whisk in 1 cup of the spiced yogurt into the soup.",
+        "Set 16 3-oz shot glasses (or votive candle holders) on a clean work surface.",
+        "Divide soup among the glasses and top each with a teaspoon of remaining yogurt.",
+        "Sprinkle with toasted seeds if desired and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/987966.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 cup minced onion",
+        "1 (14.5 ounce) can pumpkin puree",
+        "1 cup chicken stock",
+        "Salt and hot pepper to taste",
+        "1 1/2 cups Dannon Oikos Plain Greek Nonfat Yogurt, divided",
+        "1/2 teaspoon ground cinnamon",
+        "1/2 teaspoon ground smoked paprika",
+        "1/2 teaspoon toasted cumin",
+        "Toasted sunflower or pumpkin seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Pumpkin Puree Shooters",
     "url": "http://allrecipes.com/recipe/229636/spiced-pumpkin-puree-shooters/"
 }

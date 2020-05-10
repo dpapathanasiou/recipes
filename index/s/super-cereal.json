@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, beat the cream cheese until smooth. Add the cereal to the cheese then add the juice to the mixture until it holds together.  Stir in milk until the cereal is pasty but not lumpy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4476675.jpg",
+    "ingredients": [
+        "2 ounces cream cheese, softened",
+        "1/2 cup grape juice",
+        "1 cup crisp rice cereal",
+        "2 tablespoons milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Super Cereal",
     "url": "http://allrecipes.com/recipe/21723/super-cereal/"
 }

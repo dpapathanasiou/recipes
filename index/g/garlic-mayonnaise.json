@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Crush the garlic cloves with the salt into a paste using a mortar and pestle; transfer to a bowl. Stir the egg yolks and vinegar into the mashed garlic. Gradually whisk the olive oil into the mixture in small amounts until the mayonnaise is thick and glossy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3079195.jpg",
+    "ingredients": [
+        "6 cloves garlic",
+        "1/2 teaspoon sea salt",
+        "2 egg yolks",
+        "1 tablespoon white wine vinegar",
+        "1 1/4 cups olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Mayonnaise",
     "url": "http://allrecipes.com/recipe/208401/garlic-mayonnaise/"
 }

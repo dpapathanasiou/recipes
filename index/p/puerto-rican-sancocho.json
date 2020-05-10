@@ -1,9 +1,39 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large pot over medium-low heat; add onion, garlic, cilantro, white pepper, oregano, and salt. Cook and stir until onion is browned and very tender, about 20 minutes. Add stew meat; cook and stir until meat is browned on all sides, 5 to 7 minutes.",
+        "Pour enough water over meat mixture to fill pot 3/4 full; add tomato sauce and beef bouillon.",
+        "Mix green beans, carrots, celery, chayote squash, white beans, cabbage, green banana, yellow plantain, llautias, potatoes, pumpkin, corn, and green bell pepper (in this order), cooking and stirring after each addition. Cook until all the vegetables are tender and stew has formed a rich broth, 2 to 3 hours. Add more water or salt if needed."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2240&h=1173&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6296904.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 large onion, chopped",
+        "5 cloves garlic, chopped",
+        "3 sprigs fresh cilantro, chopped",
+        "\u00bc teaspoon ground white pepper",
+        "1 pinch dried oregano",
+        "salt to taste",
+        "1\u2009\u00bd pounds beef stew meat, cut into small pieces",
+        "water to cover",
+        "\u00bd (6.5 ounce) can tomato sauce",
+        "2 cubes beef bouillon",
+        "1 cup 1 1/2-inch cut fresh green beans",
+        "2  carrots, peeled and sliced",
+        "\u2153 cup chopped celery",
+        "1  large chayote squash - peeled, cored, and sliced lengthwise",
+        "1 (15.5 ounce) can small white beans, rinsed and drained",
+        "\u00bd head cabbage, chopped",
+        "1  green banana, peeled and sliced into 3/4-inch pieces",
+        "1  yellow plantain, peeled and cut into 1-inch pieces",
+        "5  large llautias (yautias), peeled and quartered",
+        "6  potatoes, peeled and quartered",
+        "\u00bd cup chopped peeled pumpkin",
+        "2 ears fresh corn, sliced into 6 pieces each",
+        "\u2153 cup chopped green bell pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Puerto Rican Sancocho",
     "url": "http://allrecipes.com/recipe/257186/puerto-rican-sancocho/"
 }

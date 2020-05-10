@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a large skillet, saute chicken in butter/margarine until browned. Remove chicken and place in a 9x13 inch baking dish.",
+        "Add sour cream and sherry to butter/margarine in skillet. Stir together until smooth. Season chicken with rosemary, thyme salt and pepper to taste. Then pour the sherry/cream mixture over the chicken. Bake in the preheated oven for 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2026&h=1061&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2382181.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breasts",
+        "1 cup sour cream",
+        "\u00bc cup sherry",
+        "4 tablespoons butter",
+        "1 tablespoon chopped fresh rosemary",
+        "2 tablespoons chopped fresh thyme",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sherry Sour Cream Chicken",
     "url": "http://allrecipes.com/recipe/8910/sherry-sour-cream-chicken/"
 }

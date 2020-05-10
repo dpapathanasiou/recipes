@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine apple juice, apple cider, white sugar, brown sugar, cinnamon sticks, vanilla extract, and cloves together in a large pot; bring to a boil. Reduce heat to medium-low and simmer until sugars are dissolved, about 20 minutes. Remove pot from heat and cool completely, about 1 hour.",
+        "Stir grain alcohol and vodka into apple juice mixture. Remove cinnamon sticks and set aside. Pour moonshine into bottles; add 1 cinnamon stick per bottle and seal. Store moonshine in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4011527.jpg",
+    "ingredients": [
+        "1 gallon apple juice",
+        "1 gallon apple cider",
+        "3 cups white sugar",
+        "1 cup brown sugar",
+        "12 cinnamon sticks",
+        "1 teaspoon vanilla extract",
+        "2 whole cloves",
+        "1 (1 liter) bottle 151 proof grain alcohol (such as Everclear\u00ae)",
+        "2 cups cake-flavored vodka (such as UV\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vanilla Apple Pie Moonshine",
     "url": "http://allrecipes.com/recipe/235450/vanilla-apple-pie-moonshine/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, combine fruit with fruit juice and spices. Cover, and allow to stand overnight.",
+        "The next day mix together soaked fruits, almonds, cream, and ice cream.  Pour mixture into a large mold, and cover with foil.  Freeze for at least one week to allow flavour to develop.",
+        "Unmold by quickly dipping into hot water, and inverting onto serving plate."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/2 cup raisins",
+        "1/2 cup sultana raisins",
+        "1/2 cup dried currants",
+        "1/4 cup candied cherries, chopped",
+        "1/4 cup candied mixed fruit peel",
+        "1/4 cup fruit juice",
+        "1/4 cup almonds",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon freshly grated nutmeg",
+        "1/2 cup heavy whipping cream",
+        "4 1/4 cups chocolate ice cream, softened"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Frozen Christmas Pudding",
     "url": "http://allrecipes.com/recipe/9354/frozen-christmas-pudding/"
 }

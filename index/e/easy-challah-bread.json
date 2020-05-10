@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir the yeast into the water, and let the mixture stand until a creamy layer forms on top, about 10 minutes. Stir in honey and salt until dissolved, and add the beaten eggs. Mix in the flour, a cupful at a time, until the dough is sticky. Sprinkle the dough with flour, and knead until smooth and elastic, about 5 minutes.",
+        "Form the dough into a compact round shape, and place in an oiled bowl. Turn the dough over several times in the bowl to oil the surface of the dough, cover the bowl with a damp cloth, and let rise in a warm area until doubled in size, 45 minutes to 1 hour.",
+        "Punch down the dough, and cut it into 3 equal-sized pieces. Working on a floured surface, roll the small dough pieces into ropes about the thickness of your thumb and about 12 inches long. Ropes should be fatter in the middle and thinner at the ends. Pinch 3 ropes together at the top and braid them. Starting with the strand to the right, move it to the left over the middle strand (that strand becomes the new middle strand.) Take the strand farthest to the left, and move it over the new middle strand. Continue braiding, alternating sides each time, until the loaf is braided, and pinch the ends together and fold them underneath for a neat look.",
+        "Place the braided loaf on a baking sheet lined with parchment paper, and brush the top with beaten egg yolk. (For a softer crust, brush with melted butter instead.)",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Bake the challah in the preheated oven until the top browns to a rich golden color and the loaf sounds hollow when you tap it with a spoon, 30 to 35 minutes.  Cool on a wire rack before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4752&h=2488&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1969090.jpg",
+    "ingredients": [
+        "1 (.25 ounce) package active dry yeast",
+        "1 cup warm water (100 degrees F/40 degrees C)",
+        "2 tablespoons honey",
+        "1 teaspoon salt",
+        "3  beaten eggs",
+        "3\u2009\u00bd cups all-purpose flour, plus more for kneading",
+        "1  beaten egg yolk, or more if needed",
+        "1 tablespoon melted butter (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Challah Bread",
     "url": "http://allrecipes.com/recipe/172633/easy-challah-bread/"
 }

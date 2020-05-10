@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a pan, simmer sun-dried tomatoes in 1 1/2 cups water until very soft; discard water.",
+        "In a large pot, saute onion and green pepper in oil until softened.",
+        "In a food processor or blender, combine sun-dried tomatoes and 1 bottle clam juice until smooth; add to pot. Stir in remaining clam juice, diced tomatoes, wine, garlic, herbs, bay leaves and olives. Simmer 20 minutes.",
+        "Add beans, fish, fennel seeds, salt and pepper. Simmer until fish is done, about 10 minutes. Remove bay leaves. Ladle into bowls; sprinkle with cheese."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6429852.jpg",
+    "ingredients": [
+        "3 1/2 ounces sun-dried tomatoes",
+        "2 tablespoons olive oil",
+        "1 large yellow onion, chopped",
+        "1 green bell pepper, chopped",
+        "2 (8 ounce) bottles clam juice",
+        "2 (14 ounce) cans diced tomatoes (no salt added)",
+        "1 cup dry red wine (or substitute broth or tomato juice)",
+        "4 garlic cloves, crushed",
+        "4 tablespoons fresh herbs (such as thyme, rosemary or basil)",
+        "2 bay leaves",
+        "1/2 cup kalamata olives, sliced",
+        "1 (15 ounce) can navy beans, drained and rinsed",
+        "1 pound firm fish (grouper, tilapia or tuna), cut in 2- to 3-inch chunks",
+        "2 teaspoons fennel seeds, lightly crushed",
+        "1 pinch Salt and pepper, to taste",
+        "1/2 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato-Rich Fish Stew",
     "url": "http://allrecipes.com/recipe/83448/tomato-rich-fish-stew/"
 }

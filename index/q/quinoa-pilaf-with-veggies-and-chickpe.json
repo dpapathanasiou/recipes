@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chicken stock and quinoa in a saucepan and bring to a boil. Reduce heat to medium-low, cover, and simmer until quinoa is tender, about 15 minutes. Remove from heat.",
+        "Heat olive oil in a large skillet over medium heat until shimmering. Add asparagus, bell peppers, and onion; cook and stir until softened, about 6 minutes. Stir in chickpeas. Pour in 2 tablespoons balsamic vinegar and cook until reduced, about 4 minutes. Add lemon juice, salt, and black pepper. Stir in cooked quinoa. Drizzle 1 tablespoon balsamic vinegar over pilaf before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6234951.jpg",
+    "ingredients": [
+        "4 cups chicken stock",
+        "2 cups quinoa",
+        "2 tablespoons olive oil",
+        "1 pound asparagus, chopped",
+        "2 green bell peppers, chopped",
+        "1 red onion, chopped",
+        "1 (14.5 ounce) can chickpeas, drained and rinsed",
+        "2 tablespoons balsamic vinegar",
+        "1 tablespoon lemon juice",
+        "salt and ground black pepper to taste",
+        "1 tablespoon balsamic vinegar, or more to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quinoa Pilaf with Veggies and Chickpeas",
     "url": "http://allrecipes.com/recipe/245549/quinoa-pilaf-with-veggies-and-chickpe/"
 }

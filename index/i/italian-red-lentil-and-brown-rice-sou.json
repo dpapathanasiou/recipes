@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large pot over medium heat. Add onion and garlic; cook and stir until softened, about 5 minutes. Stir in broth, diced tomatoes, red lentils, brown rice, Italian seasoning, celery flakes, white pepper, and marjoram. Bring soup to a boil; reduce heat, cover, and simmer until lentils break down and rice is tender, about 55 minutes.",
+        "Stir balsamic vinegar into the soup just before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6897550.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 red onion, coarsely chopped",
+        "3 cloves garlic, minced",
+        "4 cups vegetable broth",
+        "1 (14.5 ounce) can Italian-style diced tomatoes",
+        "1 1/4 cups red lentils, rinsed and drained",
+        "1/2 cup uncooked brown rice",
+        "1 tablespoon Italian seasoning",
+        "1 tablespoon dried celery flakes",
+        "1 teaspoon ground white pepper",
+        "1 teaspoon dried marjoram",
+        "1 1/2 tablespoons balsamic vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Italian Red Lentil and Brown Rice Soup",
     "url": "http://allrecipes.com/recipe/246565/italian-red-lentil-and-brown-rice-sou/"
 }

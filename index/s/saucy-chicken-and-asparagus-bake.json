@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Spray a 9x9-inch baking dish with cooking spray.",
+        "Heat vegetable oil in a skillet over medium heat and cook chicken breasts until browned, turning once, about 5 minutes per side. Season chicken with salt and black pepper.",
+        "Place asparagus into the prepared baking dish; arrange chicken breasts on top.",
+        "Mix cream of chicken soup, mayonnaise, and lemon juice in a bowl; pour over the chicken and asparagus.",
+        "Cover the dish with aluminum foil.",
+        "Bake in the preheated oven until the sauce is bubbling, the chicken is no longer pink inside, and the juices run clear, about 40 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Uncover the dish and sprinkle with Cheddar cheese; allow to stand until cheese has melted, about 5 minutes, before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7719735.jpg",
+    "ingredients": [
+        "cooking spray",
+        "2 tablespoons vegetable oil",
+        "4  skinless, boneless chicken breast halves",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "1\u2009\u00bd pounds fresh asparagus, trimmed",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "\u00bd cup mayonnaise",
+        "1 teaspoon lemon juice",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Saucy Chicken and Asparagus Bake",
     "url": "http://allrecipes.com/recipe/220438/saucy-chicken-and-asparagus-bake/"
 }

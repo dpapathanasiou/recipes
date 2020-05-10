@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dredge the beef heart in flour until coated. Heat the oil in a Dutch oven over medium-high heat. Fry the pieces of heart until browned. Stir in onions and water. Season with salt and seasoning salt. Cover, reduce heat to low, and simmer for 2 to 3 hours, or until the meat is very tender. Serve over noodles or mashed potatoes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4032&h=2111&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5025066.jpg",
+    "ingredients": [
+        "1  medium beef heart, rinsed and cubed",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons vegetable oil",
+        "1 large onion, peeled and sliced",
+        "1 cup water",
+        "2 teaspoons salt",
+        "\u00bd teaspoon seasoned salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef Heart Stew",
     "url": "http://allrecipes.com/recipe/46321/beef-heart-stew/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place yellow onions, red onions, and garlic in a large pot over medium heat; cook and stir until fragrant, 1 to 2 minutes. Add 1/2 cup plus 2 tablespoons berbere; cook and stir until incorporated, about 3 minutes. Pour in oil and stir until combined, about 3 minutes more.",
+        "Stir crushed tomatoes into the pot; cook until starting to break down into the stew, about 15 minutes. Add lentils; cook and stir, about 5 minutes. Pour in water. Reduce heat and simmer until lentils are cooked through, about 15 minutes. Season stew with cardamom, salt, and ground black pepper in the last few minutes of cooking."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3163417.jpg",
+    "ingredients": [
+        "5 yellow onions, minced",
+        "5 red onions, minced",
+        "24 cloves garlic, minced",
+        "1 1/4 cups canola oil",
+        "1/2 cup berbere seasoning",
+        "2 tablespoons berbere seasoning",
+        "2 1/2 cups crushed tomatoes",
+        "5 cups red lentils",
+        "10 cups water",
+        "1 1/2 teaspoons ground cardamom",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kik Wat (Ethiopian Red Lentil Stew)",
     "url": "http://allrecipes.com/recipe/245948/kik-wat-ethiopian-red-lentil-stew/"
 }

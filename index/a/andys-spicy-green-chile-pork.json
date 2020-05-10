@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Layer the chopped onion into the bottom of a slow cooker. Season the pork shoulder with salt and pepper; place atop the chopped onion. Pour the green salsa over the pork. Sprinkle the the cilantro over the salsa and pork. Drop the serrano chile peppers into the slow cooker.",
+        "Cook on Low until the meat falls apart easily, about 8 hours. Gently remove the pork to a cutting board. Strain and discard about half the remaining liquid from the slow cooker, reserving the rest. Discard the onions, peppers, and cilantro if desired.",
+        "Shred the pork shoulder with a pair of forks. Mix the pork with the reserved liquid from the slow cooker to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2316&h=1213&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F702343.jpg",
+    "ingredients": [
+        "1  white onion, chopped",
+        "salt and pepper to taste",
+        "2\u2009\u00bd pounds pork shoulder roast",
+        "1 (16 ounce) jar green salsa (such as Frontera\u00ae)",
+        "\u00bd cup chopped fresh cilantro",
+        "2  serrano chile peppers, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Andy's Spicy Green Chile Pork",
     "url": "http://allrecipes.com/recipe/214992/andys-spicy-green-chile-pork/"
 }

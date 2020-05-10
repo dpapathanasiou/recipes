@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a 9 inch pie pan with one pastry pie crust.",
+        "In a large bowl, stir together sugar, tapioca, salt, cinnamon, nutmeg and cornstarch. Add zucchini and lemon juice and blend well. Put mixture into pie crust. Dot with butter. Place second crust over pie crimping the edges together. Then brush top crust with milk and sprinkle with a little sugar if desired.",
+        "Bake in preheated oven for 15 minutes. Reduce oven temperature to 350 degrees F (175 degrees C) and bake for an additional 50 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4547953.jpg",
+    "ingredients": [
+        "2 (9 inch) unbaked pie crusts",
+        "4 cups zucchini, thinly sliced",
+        "\u00be cup white sugar",
+        "2 tablespoons tapioca",
+        "\u00bc cup lemon juice",
+        "\u00bd teaspoon salt",
+        "2 teaspoons ground cinnamon",
+        "\u00bd teaspoon ground nutmeg",
+        "2 teaspoons cornstarch",
+        "2 teaspoons butter",
+        "1 tablespoon milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zucchini Pie III",
     "url": "http://allrecipes.com/recipe/20319/zucchini-pie-iii/"
 }

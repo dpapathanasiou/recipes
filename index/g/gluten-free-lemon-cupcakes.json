@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line 12 muffin cups with paper liners.",
+        "Whisk milk and lemon juice together in a bowl. Beat vegetable oil, egg whites, lemon zest, and vanilla extract into milk mixture.",
+        "Combine gluten-free baking flour, sugar, baking powder, and salt together in a large bowl. Add milk mixture to flour mixture; beat on medium speed with an electric mixer until batter is well mixed, about 2 minutes. Spoon batter into lined cups to about 3/4-full.",
+        "Bake in the preheated oven until tops are a light golden brown and a toothpick inserted in the center of the cupcake comes out clean, 18 to 20 minutes. Cool cupcakes in the muffin tin for 10 minutes before transferring to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2212&h=1158&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3424834.jpg",
+    "ingredients": [
+        "\u215d cup milk, at room temperature",
+        "3\u2009\u00be teaspoons lemon juice",
+        "\u00bc cup vegetable oil",
+        "2  egg whites, room temperature",
+        "2  lemons, zested",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "1\u2009\u215b cups gluten-free flour (such as Jeanne's Gluten-Free All-Purpose Flour Mix; recipe in footnotes)",
+        "\u00be cup white sugar",
+        "2 teaspoons double-acting baking powder",
+        "\u00bc teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten-Free Lemon Cupcakes",
     "url": "http://allrecipes.com/recipe/238074/gluten-free-lemon-cupcakes/"
 }

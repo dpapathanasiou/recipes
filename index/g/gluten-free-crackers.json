@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.",
+        "Mix garbanzo bean flour, sorghum flour, rice bran, water, Italian seasoning, vegetable oil, baking powder, honey, and salt together in a bowl until smooth dough forms, adding more garbanzo bean flour as needed to roll.",
+        "Place dough on work surface between 2 sheets of parchment paper. Roll dough out to 1/8-inch thickness using a rolling pin. Remove top layer of parchment paper; cut dough using a 2-inch biscuit cutter and place 2 inches apart on prepared baking sheet.",
+        "Bake in the preheated oven until golden brown, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4417578.jpg",
+    "ingredients": [
+        "\u2153 cup garbanzo bean flour, or more as needed",
+        "\u2153 cup sorghum flour",
+        "\u2153 cup rice bran",
+        "\u2153 cup water",
+        "1 tablespoon Italian seasoning",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon baking powder",
+        "1 teaspoon honey",
+        "kosher salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gluten-Free Crackers",
     "url": "http://allrecipes.com/recipe/246431/gluten-free-crackers/"
 }

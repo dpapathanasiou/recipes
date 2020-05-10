@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix flour, chili powder, onion powder, oregano, and salt together in a small bowl.",
+        "Heat oil in a large saucepan over low heat. Whisk flour mixture into hot oil until smooth. Pour water into mixture in small amounts and whisk to incorporate smoothly between additions. Bring the gravy to a simmer for 5 minutes. Remove from heat and cool 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5121571.jpg",
+    "ingredients": [
+        "1/2 cup flour",
+        "2 tablespoons chili powder",
+        "2 teaspoons onion powder",
+        "1 teaspoon dried Mexican oregano",
+        "1 teaspoon salt",
+        "6 tablespoons vegetable oil",
+        "4 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Gravy",
     "url": "http://allrecipes.com/recipe/236796/mexican-gravy/"
 }

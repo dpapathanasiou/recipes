@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "In a shallow bowl, mix the peanuts, garlic powder, onion powder, and salt-free herb seasoning blend.",
+        "Dip the chicken thighs in the melted butter, then press into the peanuts to coat. Arrange on a baking sheet.",
+        "Bake 45 minutes in the preheated oven, or until chicken juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3187315.jpg",
+    "ingredients": [
+        "\u00bd cup crushed dry-roasted, salted peanuts",
+        "\u00bd teaspoon garlic powder",
+        "\u00bd teaspoon onion powder",
+        "1 teaspoon salt-free herb seasoning blend",
+        "6  chicken thighs, skinned",
+        "\u00bd cup melted butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "RC's Baked Peanut Chicken",
     "url": "http://allrecipes.com/recipe/83066/rcs-baked-peanut-chicken/"
 }

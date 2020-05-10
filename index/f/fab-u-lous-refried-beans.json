@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a nonstick pan; cook and stir red onion, cilantro, garlic, and chili powder until onion is softened, about 5 minutes.",
+        "Cook and stir pinto beans and about 2/3 cup chicken broth into onion mixture until heated through, about 5 minutes. Mash pinto beans with the back of a spoon. Add remaining chicken broth and simmer until desired consistency."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F854245.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "\u00bd  red onion, chopped",
+        "2 tablespoons chopped fresh cilantro, or more to taste",
+        "2 cloves garlic, chopped",
+        "2 teaspoons chili powder",
+        "1 (15 ounce) can pinto beans, drained and rinsed",
+        "1 cup chicken broth, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fab-u-lous Refried Beans!",
     "url": "http://allrecipes.com/recipe/222210/fab-u-lous-refried-beans/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a skillet over medium heat; add garlic and cook and stir until fragrant, about 2 minutes. Add walnuts to skillet, cook and stir until lightly toasted, about 2 minutes; stir in green beans, toss lightly to coat, and cook and stir until warmed through, 2 to 3 minutes.",
+        "Transfer green beans to serving bowl and immediately top with crumbled feta cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2610688.jpg",
+    "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "1 teaspoon chopped garlic",
+        "\u00bc cup chopped walnuts",
+        "1 pound fresh green beans, trimmed",
+        "3 tablespoons crumbled feta cheese, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Beans with Feta and Walnuts",
     "url": "http://allrecipes.com/recipe/242431/green-beans-with-feta-and-walnuts/"
 }

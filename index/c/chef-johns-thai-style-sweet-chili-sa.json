@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place 1/2 cup cold fresh water and vinegar in a saucepan. Whisk in Asian fish sauce, brown sugar, ketchup, sambal chili sauce, and cornstarch. Whisk until cornstarch disappears. Place over medium-high heat and bring up to a simmer stirring occasionally. As it bubbles, it will start to thicken up. Remove pan from heat.",
+        "Whisk garlic and chili into hot mixture. Add fresh lime juice; whisk again. Allow mixture to cool to room temperature before checking for seasonings.",
+        "If not using immediately, transfer to a glass jar with a lid. Refrigerate."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3699586.jpg",
+    "ingredients": [
+        "1/2 cup water",
+        "1/2 cup white distilled vinegar",
+        "2 tablespoons fish sauce",
+        "1/2 cup brown sugar",
+        "1 tablespoon ketchup",
+        "2 teaspoons sambal chili sauce",
+        "1 1/2 teaspoons cornstarch",
+        "6 cloves finely crushed garlic",
+        "2 tablespoons finely minced Thai chili peppers (bird's eye peppers)",
+        "1 tablespoon fresh lime juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Thai-Style Sweet Chili Sauce",
     "url": "http://allrecipes.com/recipe/254278/chef-johns-thai-style-sweet-chili-sa/"
 }

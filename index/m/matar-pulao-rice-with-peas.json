@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a deep heavy skillet over low heat. Add the cloves, cardamom seeds, peppercorns and cinnamon sticks. Cook for a few minutes to bring out the aroma of the spices. Stir the garlic powder and 2 tablespoons of water together to make a paste; mix into the pan with the spices.",
+        "Add the green peas to the pan, cover and cook for about 5 minutes.",
+        "Add the remaining 4 cups of water and rice to the pan. Season with a little salt. Bring to a boil, then cover, and cook for about 15 minutes, until the rice is tender and the water has been absorbed. Taste, and adjust the salt before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1639&h=858&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F199893.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "4  whole cloves",
+        "3  black cardamom seeds",
+        "6  whole black peppercorns",
+        "2 (3 inch) cinnamon sticks",
+        "2 teaspoons garlic powder",
+        "2 tablespoons water",
+        "1 cup frozen green peas, thawed",
+        "2 cups uncooked basmati rice, rinsed and drained",
+        "4 cups water",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Matar Pulao (Rice with Peas)",
     "url": "http://allrecipes.com/recipe/84038/matar-pulao-rice-with-peas/"
 }

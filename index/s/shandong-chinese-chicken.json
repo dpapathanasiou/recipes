@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with aluminum foil, and brush the foil with melted butter.",
+        "In a medium bowl, mix together the vinegar, water, mayonnaise, horseradish, sugar, salt and pepper until well blended. Coat each piece of chicken heavily with the sauce, and place onto the prepared baking sheet.",
+        "Bake, uncovered, for about 45 minutes in the preheated oven. Baste occasionally with remaining sauce. Chicken is done when the juices run clear, and the meat is no longer pink. Serve with rice or noodles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3202579.jpg",
+    "ingredients": [
+        "2 tablespoons melted butter",
+        "\u00bd cup white vinegar",
+        "\u00bc cup water",
+        "\u00bd cup mayonnaise",
+        "2 tablespoons prepared horseradish",
+        "1 tablespoon white sugar",
+        "\u00be teaspoon ground black pepper",
+        "1 pinch salt",
+        "4  chicken leg quarters"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shandong Chinese Chicken",
     "url": "http://allrecipes.com/recipe/46849/shandong-chinese-chicken/"
 }

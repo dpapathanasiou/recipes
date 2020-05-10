@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sprinkle the yeast over the water in a small bowl. Set aside.",
+        "Combine the rye flour with all-purpose flour in a large bowl. Stir in the salt. Mix in the yeast mixture to make a soft dough. Turn dough out onto a board floured with rye meal. Knead lightly, mixing in rye meal as needed. Shape dough into a fat roll, and cut into 12 sections. Roll each section into a ball; cover balls with a towel and let rise 20 minutes.",
+        "Preheat oven to 425 degrees F (220 degrees C). Lightly grease 2 baking sheets.",
+        "On a floured board, roll out each ball into a flat round about 4 inches in diameter. Place rounds on prepared baking sheets and prick with a fork.",
+        "Bake in preheated oven until lightly browned, 8 to 10 minutes. Cool on a rack."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/342075.jpg",
+    "ingredients": [
+        "1 tablespoon active dry yeast",
+        "1 cup warm water (105 to 115 degrees)",
+        "1 1/3 cups rye flour",
+        "1 1/3 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1/3 cup rye meal (pumpernickel flour)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Knaakkebrod or Nakkileipa (Scandinavian-Style Rye Crisp Bread)",
     "url": "http://allrecipes.com/recipe/129580/knaakkebrod-or-nakkileipa-scandinavi/"
 }

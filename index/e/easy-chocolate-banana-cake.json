@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease and flour one 9x13 inch pan.",
+        "Mix together cake mix, oil, eggs, sour cream, cocoa, chocolate chips, and banana, and beat for two minutes. Pour into prepared pan.",
+        "Bake at 350 degrees F (175 degrees C) for 35 minutes. Let cool in pan and dust with powdered sugar if desired. ENJOY!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=400&h=209&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F572316.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package white cake mix",
+        "\u2153 cup vegetable oil",
+        "4  eggs",
+        "8 ounces sour cream",
+        "8 tablespoons unsweetened cocoa powder",
+        "\u00bd cup semisweet chocolate chips",
+        "1  banana, peeled and mashed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Chocolate Banana Cake",
     "url": "http://allrecipes.com/recipe/8119/easy-chocolate-banana-cake/"
 }

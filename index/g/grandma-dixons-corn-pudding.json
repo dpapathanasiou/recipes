@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+        "Heat butter in a skillet over medium heat; cook and stir onion and green bell pepper in hot butter until soft, 5 to 10 minutes.",
+        "Mix whole kernel corn, cream-style corn, corn muffin mix, and eggs together in a bowl; pour into the prepared baking dish. Spoon sour cream evenly over corn mixture and top with onion mixture and Cheddar cheese.",
+        "Bake in the preheated oven until cheese is browned and middle is mostly set, 30 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6576553.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "1  onion, minced",
+        "1  green bell pepper, minced",
+        "1 (16 ounce) can whole kernel corn",
+        "1 (16 ounce) can cream-style corn",
+        "1 (8.5 ounce) package corn muffin mix (such as Jiffy\u00ae)",
+        "2  eggs",
+        "1 cup sour cream",
+        "3 cups shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Dixon's Corn Pudding",
     "url": "http://allrecipes.com/recipe/240120/grandma-dixons-corn-pudding/"
 }

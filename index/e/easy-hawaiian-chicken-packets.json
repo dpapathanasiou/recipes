@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat a grill for medium-high heat.",
+        "Lay out four squares of aluminum foil. Place one piece of chicken in the center of each square. Pour the teriyaki sauce over them, turning to coat. Distribute equal amounts of the green and red peppers, onion and pineapple chunks amongst the chicken pieces. Fold the foil up and seal tightly into packets.",
+        "Place the packets on the grill, and cook for about 20 minutes, or until chicken is no longer pink and juices run clear. I like to take one packet off the grill and check it before removing them all."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6648061.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "1 cup bottled teriyaki sauce or marinade",
+        "1  green bell pepper, seeded and sliced into strips",
+        "1  red bell pepper, seeded and sliced into strips",
+        "1  onion, chopped",
+        "1 (20 ounce) can pineapple chunks, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Hawaiian Chicken Packets",
     "url": "http://allrecipes.com/recipe/88807/easy-hawaiian-chicken-packets/"
 }

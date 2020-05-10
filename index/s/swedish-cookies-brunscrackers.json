@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Sift together the flour and baking soda.",
+        "In a separate bowl, cream together the butter, sugar, vanilla sugar, and golden syrup; mix well.  Stir in the flour and mix until just incorporated.  Form dough into two, 1 inch thick elongated rolls the length of your cookie pan.  Place them on the cookie pan with enough space in between for them to spread.",
+        "Bake in preheated oven until they are light golden brown and have flattened; about 20 to 22 minutes if using margarine, or 13 to 15 minutes if using butter.  Remove from oven and let cool slightly for about 3 minutes.  Cut diagonally into 1 to 2 inch strips while still warm.  Remove individual cookies to cool on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F339755.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "1 teaspoon baking soda",
+        "1 cup butter",
+        "1 cup sugar",
+        "1 teaspoon vanilla sugar",
+        "2 tablespoons golden syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Cookies (Brunscrackers)",
     "url": "http://allrecipes.com/recipe/41233/swedish-cookies-brunscrackers/"
 }

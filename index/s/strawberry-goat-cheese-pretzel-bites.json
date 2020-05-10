@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Arrange pretzel crackers on a serving platter. Spread goat cheese over crackers. Drizzle half of the balsamic glaze on top. Place 3 sliced strawberries on each cracker; scatter basil over strawberries. Drizzle remaining balsamic glaze on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4213937.jpg",
+    "ingredients": [
+        "16  thin pretzel crackers (such as Snack Factory\u00ae Pretzel Crisps\u00ae)",
+        "1 (4 ounce) log goat cheese",
+        "2 tablespoons balsamic glaze, or to taste, divided",
+        "\u00bd cup sliced fresh strawberries",
+        "4 leaves fresh basil, cut into strips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Goat Cheese Pretzel Bites",
     "url": "http://allrecipes.com/recipe/255135/strawberry-goat-cheese-pretzel-bites/"
 }

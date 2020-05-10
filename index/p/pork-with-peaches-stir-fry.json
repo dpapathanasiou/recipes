@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a glass bowl or casserole dish, combine the lemon juice, soy sauce, ground ginger, and garlic powder. Place the pork into the dish, cover and refrigerate for several hours or overnight.",
+        "Heat the oil in a wok over medium-high heat. Add the pork, marinade and onion, and cook stirring constantly until the meat is cooked through. Throw in the carrot and broccoli, and cook for a few minutes, then add the peaches with the juice, and bring the mixture to a boil. Sprinkle the flour over the mixture, and stir in. Cook, stirring, until the sauce thickens. Serve over rice or noodles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2445&h=1280&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F391639.jpg",
+    "ingredients": [
+        "\u00bc cup lemon juice",
+        "\u00bc cup soy sauce",
+        "\u00bd teaspoon ground ginger",
+        "\u00bd teaspoon garlic powder",
+        "1 pound cubed pork meat",
+        "2 teaspoons peanut oil, or sesame oil",
+        "1 large onion, diced",
+        "1 large carrot, sliced",
+        "1 cup broccoli florets",
+        "1 (15 ounce) can sliced peaches, with juice",
+        "1 tablespoon all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pork with Peaches Stir-Fry",
     "url": "http://allrecipes.com/recipe/42653/pork-with-peaches-stir-fry/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the jicama, red bell pepper, green bell pepper, red onion, green chile peppers, ginger, and carrot in a large bowl. Whisk the water, vinegar, sugar, and salt together in a separate bowl; pour over the vegetable mixture and toss to coat. Refrigerate at least 1 hour before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/412700.jpg",
+    "ingredients": [
+        "1 large jicama, peeled and cut into matchsticks",
+        "1 red bell pepper, cut into long thin strips",
+        "1 green bell pepper, cut into long thin strips",
+        "1 small red onion, sliced into thin lengthwise slivers",
+        "2 green chile peppers - halved lengthwise, seeded, and cut into strips",
+        "1 (2 inch) piece fresh ginger root, thinly sliced",
+        "1 carrot, cut into matchsticks",
+        "1 cup water",
+        "2/3 cup vinegar",
+        "2/3 cup white sugar",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Singkamas (Jicama) Salad",
     "url": "http://allrecipes.com/recipe/212984/singkamas-jicama-salad/"
 }

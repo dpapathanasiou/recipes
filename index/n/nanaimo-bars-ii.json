@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan, melt 1/2 cup butter or margarine with 2 squares chocolate. Remove from the heat, and stir in white sugar, egg, rolled oats, coconut, chopped nuts, and 1 teaspoon vanilla extract. Press mixture into a greased 9 inch square pan, and chill for 1 hour.",
+        "Combine confectioners' sugar with 3 tablespoons softened butter, 1/2 teaspoon of the vanilla, and milk. Mix until it has an icing-like consistency, and spread it over the oat mixture in the pan. Chill for 1/2 hour.",
+        "Melt remaining 1 tablespoon butter or margarine with remaining 2 squares chocolate. Spread over the top of the bars. Chill for 4 to 5 hours.",
+        "Cut into squares using a hot knife; dip knife in hot water, and let it melt through the chocolate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F200243.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "2 (1 ounce) squares semisweet chocolate",
+        "\u2153 cup white sugar",
+        "1\u2009\u00bd tablespoons pasteurized egg",
+        "1 cup rolled oats",
+        "1\u2009\u00bd cups flaked coconut",
+        "\u00bd cup chopped walnuts",
+        "1 teaspoon vanilla extract",
+        "2 cups confectioners' sugar",
+        "3 tablespoons butter, softened",
+        "\u00bd teaspoon vanilla extract",
+        "2\u2009\u00bd tablespoons milk",
+        "1 tablespoon butter",
+        "2 (1 ounce) squares semisweet chocolate"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nanaimo Bars II",
     "url": "http://allrecipes.com/recipe/11146/nanaimo-bars-ii/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 450 degrees F (230 degrees C).",
+        "Sift flour, salt, baking powder, and sugar together.  Use a fork to \"cut\" the lard into the flour until it looks like coarse meal.  Using a standing mixer, or a wooden spoon, mix the dough as you slowly add the cream.  Mix well to form the dough into a ball, adding water if needed.",
+        "Place the dough onto a tabletop, and knead slightly.  With a mallet or a one-piece rolling pin, beat the dough a few times to form it into a rough rectangle.  Fold the dough over, and then beat it out again. Repeat this process until the dough becomes white and blisters form on the surface, about 15 minutes.",
+        "Roll out the dough to about 1/4 inch thick.  Cut into 2 inch rounds, and prick the top a few times with the tines of a fork.  Place on greased baking sheets.",
+        "Bake for 15 minutes, or until golden."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F72988.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon baking powder",
+        "1\u2009\u00bd tablespoons white sugar",
+        "\u00bc cup lard, chilled and cut into small pieces",
+        "\u2153 cup light cream",
+        "2 tablespoons cold water (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beaten Biscuits",
     "url": "http://allrecipes.com/recipe/6927/beaten-biscuits/"
 }

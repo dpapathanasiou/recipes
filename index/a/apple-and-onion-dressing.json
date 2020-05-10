@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly butter a 2 quart casserole dish.",
+        "Cover raisins with boiling water and let sit for 5 minutes. Drain well then toss them with the bread cubes.",
+        "In a skillet melt the butter and saute the onions, garlic, and celery for about 4 to 5 minutes. Stir the sauteed onions into the bread cube mixture. Add the diced apples, parsley, salt and paprika and stir carefully. Place stuffing mix in  the prepared dish or you can alternately place it in a large roaster with your favorite uncooked meat (pork chops, turkey, chicken, etc.).",
+        "Bake the dressing for 30 to 40 minutes. If you are baking the dressing with meat cook it until the meat is completely done all the way through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F666358.jpg",
+    "ingredients": [
+        "7 cups white bread cubes",
+        "1 cup raisins",
+        "\u00be cup butter",
+        "1 cup chopped onion",
+        "1 cup chopped celery",
+        "1 clove garlic, minced",
+        "3 cups diced apple without peel",
+        "\u00bc cup chopped fresh parsley",
+        "1\u2009\u00bd teaspoons salt",
+        "\u00bc teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple and Onion Dressing",
     "url": "http://allrecipes.com/recipe/13472/apple-and-onion-dressing/"
 }

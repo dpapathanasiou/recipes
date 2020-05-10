@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, dissolve 2 packages of the raspberry gelatin in 3 1/4 cups boiling water.  Pour into a 9 by 13 inch pan and refrigerate until firm.",
+        "In a medium saucepan, whisk together unflavored gelatin and 1/2 cup cold water.  Whisk in the half and half, sugar and vanilla and cook over medium heat until hot but not boiling.  Remove from heat and stir in the softened cream cheese.  Spread over the raspberry gelatin layer.",
+        "In a medium bowl, dissolve the remaining package of raspberry gelatin in 1 cup boiling water.  Stir in the blueberry pie filling and pour over the cream cheese layer.  Chill until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F633245.jpg",
+    "ingredients": [
+        "3 (6 ounce) packages raspberry flavored Jell-O\u00ae mix",
+        "3\u2009\u00bc cups boiling water",
+        "1 (.25 ounce) package unflavored gelatin",
+        "\u00bd cup cold water",
+        "1 cup half-and-half",
+        "1 cup white sugar",
+        "1 teaspoon vanilla extract",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 cup boiling water",
+        "1 (21 ounce) can blueberry pie filling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry Party Salad",
     "url": "http://allrecipes.com/recipe/25173/blueberry-party-salad/"
 }

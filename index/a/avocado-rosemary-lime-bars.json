@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+        "Mix flour, 1/2 cup sugar, rosemary, and lime zest together in a bowl. Cut butter into flour mixture with a pastry cutter until clumps are small. Set aside 1 cup of the flour mixture for later use; press remaining flour mixture in an even layer into the bottom of the prepared baking dish.",
+        "Bake in preheated oven until the crust sets, about 10 minutes.",
+        "Mix 1/2 cup of the reserved flour mixture with 1 1/2 cup sugar, lime juice, eggs, and mashed avocado in a bowl until mostly smooth; spread over the baked crust. Top with the remaining 1/2 cup of the reserved flour mixture.",
+        "Bake in oven until set, about 25 minutes more. Cool completely before cutting into 48 bars. Cover with plastic and refrigerate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4557719.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "\u00bd cup white sugar",
+        "2 tablespoons minced fresh rosemary",
+        "2  limes, zested and juiced",
+        "\u00bd cup butter",
+        "1\u2009\u00bd cups white sugar",
+        "4  eggs",
+        "1  avocado - peeled, pitted, and mashed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Avocado Rosemary Lime Bars",
     "url": "http://allrecipes.com/recipe/223189/avocado-rosemary-lime-bars/"
 }

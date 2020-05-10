@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water in the bottom a double boiler to a simmer: hot water in double boiler base should not touch pan above. In the top of the double boiler, slightly beat egg yolks. Slowly whisk in butter, and then gradually whisk in water. Cook, stirring, until thickened. Remove double boiler top from base.",
+        "Gradually whisk in lemon juice, and season with salt and cayenne. Cover, and keep hot over warm water until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1296&h=679&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F838126.jpg",
+    "ingredients": [
+        "2  egg yolks",
+        "\u00bc cup butter or margarine, melted",
+        "\u00bc cup boiling water",
+        "1\u2009\u00bd tablespoons lemon juice",
+        "\u00bc teaspoon salt",
+        "1 pinch cayenne pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southern Hollandaise Sauce",
     "url": "http://allrecipes.com/recipe/130409/southern-hollandaise-sauce/"
 }

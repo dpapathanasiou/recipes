@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line 24 cupcake cups with paper liners.",
+        "Place cake mix into a large bowl, and pour in water, vegetable oil, and eggs. With an electric mixer on low speed, beat until moistened and combined, about 30 seconds. Increase mixer speed to medium, and beat for 2 minutes. Stir in the chopped apple, and fill the prepared cupcake cups about 2/3 full.",
+        "Bake in the preheated oven until lightly browned and a wooden toothpick inserted into the center of a cupcake comes out clean, about 20 minutes. Remove cupcake pans to a wire rack to cool.",
+        "When cupcakes have cooled, melt the caramels with evaporated milk in a saucepan over low heat, stirring constantly until smooth and combined, about 4 minutes. Spread the caramel icing over the cupcakes, and sprinkle with chopped peanuts. Insert a wooden stick into the center of each cupcake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F726989.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package spice cake mix",
+        "1\u2009\u2153 cups water",
+        "\u2153 cup vegetable oil",
+        "3  eggs",
+        "1 large Granny Smith apple, cored and chopped",
+        "35  caramels",
+        "\u00bc cup evaporated milk",
+        "\u00bd cup chopped peanuts",
+        "24  wooden craft sticks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caramel Apple Cupcakes",
     "url": "http://allrecipes.com/recipe/219119/caramel-apple-cupcakes/"
 }

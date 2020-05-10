@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a small skillet. Add sesame seeds; toast until fragrant, about 6 minutes.",
+        "Bring water to a boil in a saucepan. Stir in toasted sesame seeds, fonio, and salt. Bring water back to a boil. Reduce heat; simmer, covered, until water has been absorbed, about 5 minutes. Fluff fonio with a fork."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2212&h=1158&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4431407.jpg",
+    "ingredients": [
+        "\u00bc teaspoon vegetable oil",
+        "2 tablespoons black sesame seeds",
+        "1\u2009\u00bd cups water",
+        "\u00bd cup fonio",
+        "\u215b teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fonio with Black Sesame Seeds",
     "url": "http://allrecipes.com/recipe/256674/fonio-with-black-sesame-seeds/"
 }

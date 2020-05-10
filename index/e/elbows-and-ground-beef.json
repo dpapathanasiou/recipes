@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook pasta according to package directions.  Drain.",
+        "In a Dutch oven, brown ground beef over medium heat.  Add chopped onion, and cook until onion is soft.  Add green pepper and tomato sauce; cook until pepper is soft.",
+        "Serve sauce over pasta."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F498938.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds lean ground beef",
+        "1  green bell pepper, chopped",
+        "1  onion, chopped",
+        "2 (29 ounce) cans tomato sauce",
+        "1 (16 ounce) package macaroni"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Elbows and Ground Beef",
     "url": "http://allrecipes.com/recipe/11739/elbows-and-ground-beef/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil over medium heat, and cook the pasta for about 8 minutes, until tender. Drain, and return to pot over low heat.",
+        "Lightly mix in the ham, peas, and milk, and sprinkle in the pepper and garlic powder. Stir in the Cheddar and mozzarella cheeses, and cook about 5 minutes, until the cheese melts and the mixture is bubbling."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F688768.jpg",
+    "ingredients": [
+        "1 (16 ounce) package uncooked farfalle (bow tie) pasta",
+        "1 pound cooked ham, cut into bite-size pieces",
+        "1 (15 ounce) can peas, drained",
+        "\u00bd cup milk",
+        "ground black pepper to taste",
+        "garlic powder to taste",
+        "\u00bd cup shredded Cheddar cheese",
+        "\u00bd cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Farfalle with Ham and Peas",
     "url": "http://allrecipes.com/recipe/186959/farfalle-with-ham-and-peas/"
 }

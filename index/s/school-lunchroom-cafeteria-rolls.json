@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together the warm water and 1 tablespoon sugar. Sprinkle the yeast over the top, and let it stand for about 10 minutes, until the yeast is foamy.",
+        "Mix the milk, eggs and salt into the yeast. Measure the flour into a separate bowl, add 2/3 cup sugar, and crumble the shortening into it using your fingers until it is barely noticeable. Gradually stir the flour into the wet ingredients. Mix using a wooden spoon until the dough pulls away from the sides of the bowl and starts to form a ball around the spoon. Cover with a hot wet towel that has been wrung out, and set in a warm place to rise until double in bulk. This should take about 45 minutes.",
+        "When the dough has risen, pour the melted butter over it, and knead for about 2 minutes. Let the dough rest for a few minutes, then roll out on a lightly floured surface to 1 inch thick. Use a knife to cut into 2 inch squares. Roll squares into balls, and place into greased round pans, spacing about 1 inch apart. Let rise again until doubled in size. You could also refrigerate the dough, and let it rise overnight for baking the next day.",
+        "Preheat the oven to 400 degrees F (200 degrees C). Bake the rolls for about 12 minutes, until golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 cups warm water",
+        "1 tablespoon white sugar",
+        "\u2154 cup white sugar",
+        "3 (.25 ounce) envelopes active dry yeast",
+        "\u00bc cup milk",
+        "2  eggs",
+        "1 tablespoon salt",
+        "10 cups all-purpose flour",
+        "\u00bc cup shortening",
+        "\u00bc cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "School Lunchroom Cafeteria Rolls",
     "url": "http://allrecipes.com/recipe/71528/school-lunchroom-cafeteria-rolls/"
 }

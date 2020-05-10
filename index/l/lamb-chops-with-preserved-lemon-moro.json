@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir cilantro, parsley, and mint together in a small saucepan. Remove half of the herb mixture, and set aside. Stir the garlic, lemon, olives, olive oil, and black pepper into the remaining herbs. Spread 2 tablespoons of this mixture onto the lamb rack. Wrap the exposed bones with aluminum foil to keep them from burning. Stir the olives and bell pepper into the reserved mixture and keep warm over low heat.",
+        "Preheat an outdoor grill for medium heat.",
+        "Cook the lamb rack on the preheated grill until cooked to desired degree of doneness, about 4 minutes per side for medium-rare. Baste occasionally with the warmed relish. Once cooked, remove from grill, and allow to rest for 5 minutes before slicing into individual chops.",
+        "To serve, arrange lamb chops on a platter, spoon some of the warmed relish over them, and sprinkle with the reserved chopped herbs."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6574481.jpg",
+    "ingredients": [
+        "1/4 cup chopped fresh cilantro",
+        "1/4 cup chopped fresh parsley",
+        "1/4 cup chopped fresh mint",
+        "4 cloves garlic, minced",
+        "1/4 cup chopped Moroccan preserved lemon",
+        "1 tablespoon olive oil",
+        "ground black pepper to taste",
+        "1 (7 bone) rack of lamb, trimmed and frenched",
+        "1/4 cup slivered kalamata olives",
+        "1 red bell pepper, thinly sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lamb Chops with Preserved Lemon (Moroccan Style)",
     "url": "http://allrecipes.com/recipe/149756/lamb-chops-with-preserved-lemon-moro/"
 }

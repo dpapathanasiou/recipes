@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bologna in a medium bowl. Mix in mayonnaise a few tablespoons at a time until the desired consistency is reached. Stir in light corn syrup and sweet pickle relish. Cover and chill in the refrigerator at least 1 hour before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1003488.jpg",
+    "ingredients": [
+        "1 pound bologna, ground",
+        "1 cup mayonnaise",
+        "1 teaspoon light corn syrup",
+        "2 tablespoons sweet pickle relish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mom's Sandwich Spread",
     "url": "http://allrecipes.com/recipe/26867/moms-sandwich-spread/"
 }

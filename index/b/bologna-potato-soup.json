@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place water in a 6-quart (or larger) pot. Bring to a boil. Place whole onion and bologna into the water and boil for 30 minutes, adding more water as needed.",
+        "Add potatoes and cook until tender.",
+        "Remove onion and add the beans. Whisk the cornstarch and cold water together and also add. Cook until thickened."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1  onion, peeled",
+        "2 (15 ounce) cans cut green beans, with liquid",
+        "1\u2009\u00bd pounds bologna, cut into pieces",
+        "8  potatoes, peeled and cubed",
+        "4 quarts water",
+        "salt to taste",
+        "ground black pepper to taste",
+        "\u00bd cup cornstarch",
+        "\u00bd cup cold water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bologna Potato Soup",
     "url": "http://allrecipes.com/recipe/12977/bologna-potato-soup/"
 }

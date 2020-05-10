@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large resealable plastic bag, mix the lemon juice, olive oil, and rosemary. Place the chicken and lemon slices in the bag. Seal, and shake to coat. Marinate in the refrigerator 8 hours or overnight.",
+        "Preheat the grill for high heat.",
+        "Lightly oil the grill grate. Discard marinade, and grill chicken 8 minutes per side, or until juices run clear. Don't worry about the rosemary sticking to the chicken, it tastes great when it's grilled. If you use fresh rosemary sprigs, throw the stems onto the coals - they give the chicken even more of a smoky rosemary flavor!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F95843.jpg",
+    "ingredients": [
+        "\u00bd cup lemon juice",
+        "\u215b cup olive oil",
+        "2 tablespoons dried rosemary",
+        "4  skinless, boneless chicken breast halves",
+        "1  lemon, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Rosemary Lemon Chicken",
     "url": "http://allrecipes.com/recipe/8952/marinated-rosemary-lemon-chicken/"
 }

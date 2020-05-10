@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill sterile containers with garlic, chopped fresh dill and cayenne pepper to within an inch of the top.",
+        "Mix the distilled white vinegar and salt in a medium saucepan. Bring to a boil.",
+        "Pour the hot distilled white vinegar and salt mixture into the containers with the garlic mixture. Fill to approximately 1/4 inch from the top. Seal and store in the refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/250228.jpg",
+    "ingredients": [
+        "2 pounds garlic, peeled",
+        "1 sprig chopped fresh dill",
+        "cayenne pepper to taste",
+        "4 1/2 cups distilled white vinegar",
+        "4 tablespoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dilled Garlic",
     "url": "http://allrecipes.com/recipe/25493/dilled-garlic/"
 }

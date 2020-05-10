@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cream soda, pineapple juice, pink lemonade concentrate, orange juice concentrate, water, and lemon slices together in a punch bowl; add ice."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (2 liter) bottle cream soda",
+        "1 (46 fluid ounce) can pineapple juice",
+        "1 (6 ounce) can frozen pink lemonade concentrate",
+        "1 (6 ounce) can frozen orange juice concentrate",
+        "2 (6 ounce) cans water",
+        "1 lemon, or to taste, sliced",
+        "6 cups ice cubes, or as desired"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cream Soda Punch",
     "url": "http://allrecipes.com/recipe/237889/cream-soda-punch/"
 }

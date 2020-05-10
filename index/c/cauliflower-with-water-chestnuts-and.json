@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of water to a boil; add 1 teaspoon salt. Cook cauliflower chunks in the boiling water until slightly softened, about 2 minutes. Drain and rinse with cold water. Cut into bite-size chunks.",
+        "Heat olive oil in a large skillet over high heat. Cook and stir garlic until fragrant, about 30 seconds. Add cauliflower; cook and stir for 1 minute. Stir in water chestnuts and olives. Add water; cook until water evaporates, about 2 minutes. Season with salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4581948.jpg",
+    "ingredients": [
+        "1 teaspoon salt",
+        "1/2 head cauliflower, cut into big chunks",
+        "1 teaspoon olive oil",
+        "1 clove garlic, minced",
+        "1 (8 ounce) can sliced water chestnuts, drained",
+        "1 (3 ounce) can sliced black olives",
+        "1/2 cup water",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cauliflower with Water Chestnuts and Black Olives",
     "url": "http://allrecipes.com/recipe/256655/cauliflower-with-water-chestnuts-and/"
 }

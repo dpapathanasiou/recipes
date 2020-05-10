@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C). Spread french fries out on a baking sheet. Bake for 20 minutes in the preheated oven, or until golden brown.",
+        "Meanwhile, divide the ground beef into four equal parts and form into patties. Fry the patties in a large skillet over medium-high heat until well done, about 4 minutes per side.",
+        "Melt the butter in a saucepan over medium heat and whisk in the flour. Cook while stirring constantly for 4 minutes to cook out the flavor of raw flour. Gradually whisk in the half-and-half so that no lumps form. Bring to a simmer then remove from the heat and add the cheese; stir until melted. Season with salt, pepper, and hot sauce to taste.",
+        "Place 2 slices of toasted bread onto 2 dinner plates and top each slice with a hamburger patty. Top each patty with cooked french fries. Pour the cheese sauce on top of everything and serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2560&h=1340&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1052487.jpg",
+    "ingredients": [
+        "1 (9 ounce) bag frozen french fries",
+        "1 pound ground beef",
+        "4 slices bread, toasted",
+        "\u00bd cup butter",
+        "\u00bc cup all-purpose flour",
+        "2 cups half-and-half",
+        "2 cups shredded Cheddar cheese",
+        "salt and ground black pepper to taste",
+        "hot sauce to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Horseshoe",
     "url": "http://allrecipes.com/recipe/142040/horseshoe/"
 }

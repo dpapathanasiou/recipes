@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and reserve.",
+        "In a large skillet over medium heat, warm oil and cook pumpkin for about 10 minutes or until it begins to break apart.",
+        "Add tomato paste, sour cream and chili powder to taste; mix well. The mixture should be mushy and an even golden-orange color.",
+        "Scoop spoonfuls of the pumpkin mixture over the pasta; mix well to coat and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/520135.jpg",
+    "ingredients": [
+        "10 ounces dry fettuccini noodles",
+        "1 tablespoon vegetable oil",
+        "1 pound peeled, seeded and grated pumpkin",
+        "2 1/2 tablespoons tomato paste",
+        "4 tablespoons lite sour cream",
+        "1 teaspoon chili powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Classy Pumpkin Pasta",
     "url": "http://allrecipes.com/recipe/19317/classy-pumpkin-pasta/"
 }

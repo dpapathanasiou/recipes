@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the tomatoes with chiles and cheese food in a slow cooker; cook on High setting until melted, stirring occasionally, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F502332.jpg",
+    "ingredients": [
+        "2 (14.5 ounce) cans diced tomatoes with mild green chiles",
+        "1 pound processed cheese food, cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carrie's Southern Queso",
     "url": "http://allrecipes.com/recipe/55046/carries-southern-queso/"
 }

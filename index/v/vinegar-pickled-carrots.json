@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium saucepan, mix distilled white vinegar, white sugar, salt, pepper and water. Bring the mixture to a boil. Remove from heat and allow to cool slightly.",
+        "Place the carrots in sterile containers. Cover with the vinegar solution. Seal the containers, refrigerate and marinate carrots 12 hours or overnight before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3921198.jpg",
+    "ingredients": [
+        "1 cup distilled white vinegar",
+        "2 tablespoons white sugar",
+        "1 teaspoon salt",
+        "1/8 teaspoon ground black pepper",
+        "2/3 cup water",
+        "8 large carrots, diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vinegar Pickled Carrots",
     "url": "http://allrecipes.com/recipe/24230/vinegar-pickled-carrots/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place soy sauce, rice vinegar, garlic, sesame oil, tahini, molasses, apricot jam, brown sugar, miso, five-spice powder, and red pepper flakes in a jar with a tight-fitting lid. Seal jar and shake vigorously to combine."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3532517.jpg",
+    "ingredients": [
+        "6 tablespoons soy sauce",
+        "2 tablespoons seasoned rice vinegar",
+        "2 cloves garlic, pressed",
+        "2 teaspoons sesame oil",
+        "2 teaspoons tahini",
+        "1 teaspoon molasses",
+        "1 teaspoon apricot jam",
+        "2/3 teaspoon brown sugar",
+        "2/3 teaspoon miso paste",
+        "1/4 teaspoon Chinese five-spice powder",
+        "1/8 teaspoon red pepper flakes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hoisin Sauce Home Made",
     "url": "http://allrecipes.com/recipe/245801/hoisin-sauce-home-made/"
 }

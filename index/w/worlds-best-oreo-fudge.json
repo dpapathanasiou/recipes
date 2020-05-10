@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line a 13x9-inch baking pan with parchment paper.",
+        "Bring sugar, butter, and evaporated milk to a boil in a heavy-bottomed saucepan, stirring constantly; cook and stir at a boil until mixture is smooth, 3 to 5 minutes. Remove saucepan from heat; stir white chocolate chips and marshmallow creme into the sugar mixture until completely melted. Add vanilla extract; stir.",
+        "Gently fold 1/2 cup crumbled cookies into the white chocolate mixture until just incorporated; spread into the prepared pan. Sprinkle 1 cup crushed cookies evenly over the top. Press cookies lightly into the fudge. Cool at room temperature until set. Cut into small squares to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5589087.jpg",
+    "ingredients": [
+        "3 cups white sugar",
+        "3/4 cup butter",
+        "2/3 cup evaporated milk",
+        "2 cups white chocolate chips",
+        "1 (7 ounce) jar marshmallow creme",
+        "1 teaspoon vanilla extract",
+        "1/2 cup crumbled chocolate sandwich cookies (such as Oreo\u00ae)",
+        "1 cup crushed chocolate sandwich cookies (such as Oreo\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "World's Best Oreo\u00ae Fudge",
     "url": "http://allrecipes.com/recipe/230281/worlds-best-oreo-fudge/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the block of tofu onto a plate and place another plate on top. Set a 3 to 5 pound weight on top (a container filled with water works well). Press the tofu for 20 to 30 minutes, then drain off and discard the accumulated liquid. Slice the tofu lengthwise into 4 thick slabs or cut into cubes and thread on skewers. Place tofu pieces or skewers on a plate.",
+        "Whisk together the lime juice, olive oil, cilantro, garlic, chili powder, cayenne pepper, salt, and black pepper in a bowl. Brush the tofu with the marinade. Cover the plate with plastic wrap, and marinate tofu in the refrigerator for 2 hours  or overnight.",
+        "Preheat an outdoor grill for medium heat, and lightly oil the grate. Grill the tofu until almost blackened in spots, brushing occasionally with the marinade, about 10 to 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F701347.jpg",
+    "ingredients": [
+        "1 (14 ounce) package firm tofu",
+        "\u00bc cup lime juice",
+        "1 tablespoon olive oil",
+        "5 tablespoons chopped fresh cilantro",
+        "2 cloves garlic, minced",
+        "2 teaspoons chili powder",
+        "\u00bc teaspoon cayenne pepper",
+        "salt and black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cilantro Lime Grilled Tofu",
     "url": "http://allrecipes.com/recipe/218450/cilantro-lime-grilled-tofu/"
 }

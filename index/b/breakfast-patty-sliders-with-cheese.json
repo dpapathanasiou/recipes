@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Grease a nonstick muffin pan with cooking spray.",
+        "Remove biscuit dough from can.  Separate 8 uncooked biscuits. Divide each biscuit into two even layers, horizontally.",
+        "Place the bottom dough layers in the muffin pan; top each with cheese and a sausage patty.",
+        "Place the top dough layers on top of each sausage patty.",
+        "Bake for 18-20 minutes or until golden brown and the biscuit is fully baked."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4451048.jpg",
+    "ingredients": [
+        "1 (9.6 ounce) package Johnsonville\u00ae Fully Cooked Original Recipe or Turkey Breakfast Sausage",
+        "1 (12 ounce) can Pillsbury\u00ae Grands!\u00ae refrigerated biscuits",
+        "2 slices American cheese, quartered"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breakfast Pattie Sliders with Cheese",
     "url": "http://allrecipes.com/recipe/254864/breakfast-patty-sliders-with-cheese/"
 }

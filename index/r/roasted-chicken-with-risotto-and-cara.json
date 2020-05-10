@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 2 tablespoons of the oil in a medium saucepan over medium heat. Stir in the onions and saute for 15 to 20 minutes, or until the onions are a dark golden brown. Remove from heat, stir in the balsamic vinegar and set aside.",
+        "Heat the remaining oil in a separate large skillet over medium heat. Stir in the rice and mix well. Let heat for about 2 minutes, then pour in the wine. Reduce heat to medium low and start pouring in the broth about 1 cup at a time. Add more broth as each cup is absorbed. Continue in this manner until all the broth is absorbed and the rice is al dente, about 20 minutes.",
+        "Stir in the reserved onion mixture and allow to heat through. Remove from heat and stir in the butter and chicken. Season with salt and pepper to taste, and garnish each serving with fresh thyme."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7765340.jpg",
+    "ingredients": [
+        "4 tablespoons olive oil, divided",
+        "1 onion, chopped",
+        "1/4 cup balsamic vinegar",
+        "1 1/2 cups uncooked Arborio rice",
+        "1/4 cup dry white wine",
+        "7 cups hot chicken broth",
+        "2 tablespoons butter",
+        "2 cups chopped cooked chicken breast",
+        "salt and pepper to taste",
+        "2 tablespoons chopped fresh thyme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Chicken with Risotto and Caramelized Onions",
     "url": "http://allrecipes.com/recipe/18791/roasted-chicken-with-risotto-and-cara/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat cream in a small saucepan until small bubbles appear around edges. Remove from heat and stir sugar into cream until it dissolves. Transfer to a medium bowl and allow to cool.",
+        "Combine avocado and cream cheese in a food processor and blend until smooth. Add lime juice and process until smooth; whisk into the cooled cream mixture.",
+        "Fill an ice cream maker with the avocado mixture, and freeze according to the manufacturer's instructions for making ice cream.",
+        "Spoon avocado mixture into the prepared pie crust; smooth surface with a spatula. Freeze until solid, at least 2 hours. Let cheesecake sit at room temperature until slightly softened yet firm enough to slice before serving, 10 to 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5070&h=2654&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F437356.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups heavy whipping cream",
+        "\u00be cup white sugar",
+        "1\u2009\u00bd  ripe avocados, peeled and pitted",
+        "2 (3 ounce) packages cream cheese, softened",
+        "\u00bd cup fresh lime juice",
+        "1 (8 inch) prepared graham cracker crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Avocado Lime Cheesecake",
     "url": "http://allrecipes.com/recipe/134553/avocado-lime-cheesecake/"
 }

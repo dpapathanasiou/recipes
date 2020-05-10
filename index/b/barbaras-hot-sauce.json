@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large soup or stock pot, combine tomatoes, onion, jalapenos, cumin, salt, sugar, vinegar, garlic, tomato sauce, tomato paste, ketchup, and water (add enough water to bring the mixture to your desired consistency). Bring mixture to a slow boil, reduce heat and let simmer for at least 2 hours.",
+        "Let the mixture cool completely, then pour into individual jars. Store in refrigerator. Will keep for several weeks."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3502938.jpg",
+    "ingredients": [
+        "64 ounces canned crushed tomatoes",
+        "2 cups minced onion",
+        "6 jalapeno peppers, chopped",
+        "2 teaspoons ground cumin",
+        "2 tablespoons salt",
+        "2 tablespoons white sugar",
+        "1/2 cup white vinegar",
+        "1 teaspoon minced garlic",
+        "1 (15 ounce) can tomato sauce",
+        "1/2 (6 ounce) can tomato paste",
+        "1/2 cup ketchup",
+        "1 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barbara's Hot Sauce",
     "url": "http://allrecipes.com/recipe/18250/barbaras-hot-sauce/"
 }

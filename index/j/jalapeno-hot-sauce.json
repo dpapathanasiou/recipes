@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium glass or enamel lined sauce pan over high heat, combine oil, peppers, garlic, onion and salt; saute for 4 minutes.  Add the water and cook for 20 minutes, stirring often.  Remove from heat and allow mixture to cool to room temperature.",
+        "Transfer the mixture to a food processor and puree until smooth.  With the processor running, slowly add the vinegar.",
+        "Pour into a sterilized jar with a tight lid.  This sauce will keep for 6 months when stored in the refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5855823.jpg",
+    "ingredients": [
+        "1 teaspoon vegetable oil",
+        "20 fresh jalapeno peppers, sliced",
+        "3 cloves garlic, minced",
+        "1/2 cup minced onion",
+        "3/4 teaspoon salt",
+        "2 cups water",
+        "1 cup distilled white vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jalapeno Hot Sauce",
     "url": "http://allrecipes.com/recipe/20896/jalapeno-hot-sauce/"
 }

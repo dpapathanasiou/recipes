@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of water to a boil.  Cook pasta according to package directions; add mushrooms and pepper during last 2 minutes of cooking.",
+        "Combine vinegar, soy sauce, oil, and ginger to make dressing.",
+        "Drain pasta and vegetables.  Transfer to a serving bowl; combine with dressing.  Sprinkle with parsley before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4657.jpg",
+    "ingredients": [
+        "1 (8 ounce) package capellini pasta",
+        "\u00bd cup fresh shiitake mushrooms, stemmed and sliced",
+        "1  red bell peppers, sliced",
+        "\u00bc cup rice vinegar",
+        "3 tablespoons soy sauce",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon grated fresh ginger",
+        "1 tablespoon chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Asian Noodles",
     "url": "http://allrecipes.com/recipe/11702/asian-noodles/"
 }

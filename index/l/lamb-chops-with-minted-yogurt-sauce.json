@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place lamb chops and 1/4 cup mint sauce in large resealable plastic bag. Seal bag. Turn to coat chops. Chill 30 minutes.",
+        "Whisk yogurt, remaining 1/4 cup olive oil, parsley, garlic, salt, pepper and remaining 1/4 cup mint sauce in medium bowl until combined. Chill until ready to serve.",
+        "Heat remaining olive oil in large skillet over medium heat. Add lamb chops to skillet. Cook 3 to 5 minutes on each side until internal temperature reaches 145 degrees F. Cover. Let rest 3 minutes. Serve with minted yogurt sauce."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1035968.jpg",
+    "ingredients": [
+        "8 (3/4-inch thick) rib lamb chops",
+        "1/2 ounce Crosse & Blackwell\u00ae Mint Sauce, divided",
+        "1 cup Greek-style plain yogurt",
+        "6 tablespoons Crisco\u00ae 100% Extra Virgin Olive Oil, divided",
+        "1 tablespoon chopped fresh parsley",
+        "1 teaspoon minced garlic",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lamb Chops with Minted Yogurt Sauce",
     "url": "http://allrecipes.com/recipe/233803/lamb-chops-with-minted-yogurt-sauce/"
 }

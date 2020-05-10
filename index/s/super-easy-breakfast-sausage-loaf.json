@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Spray a 9x5-inch loaf pan with cooking spray.",
+        "Heat a large skillet over medium-high heat and stir in the sausage and brown sugar. Cook and stir until the meat is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease. Transfer sausage to a bowl; wipe the skillet clean.",
+        "Melt the butter in the clean skillet over low heat. In a bowl, whisk together the eggs, milk, salt, and black pepper. Pour the eggs into the skillet. Allow the eggs to cook undisturbed until they begin to set, then gently stir the eggs until the curds are separate and set but not dry, 5 to 7 minutes.",
+        "Roll out the crescent roll dough, and line the bottom and sides of the prepared pan with 3/4 of the dough. Layer the sausage, scrambled eggs, and Colby-Monterey Jack cheese into the pan, then top with the remaining 1/4 of dough. Pinch the corners and sides of the dough together.",
+        "Bake in the preheated oven until golden brown, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7525698.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 pound bulk pork sausage",
+        "\u00bc cup brown sugar",
+        "1 tablespoon butter",
+        "4  large eggs",
+        "2 tablespoons milk",
+        "salt and ground black pepper to taste",
+        "1 (8 ounce) package refrigerated crescent rolls",
+        "1 cup shredded Colby-Monterey Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Super Easy Breakfast Sausage Loaf",
     "url": "http://allrecipes.com/recipe/219186/super-easy-breakfast-sausage-loaf/"
 }

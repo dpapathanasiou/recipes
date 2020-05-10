@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring brown rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low; cover and simmer until rice is tender and the liquid has been absorbed, 45 to 50 minutes.",
+        "Place collard greens and 2 peeled whole garlic cloves in a pot; add enough water to cover. Boil until collards are tender, about 15 minutes. Drain.",
+        "Combine okra, tomatoes, chayote squash, and 2 crushed garlic cloves in a separate large pot; bring to a boil and cook until okra has thawed, about 5 minutes. Reduce to a simmer; season with ground ginger, dill weed, ground cumin, and cilantro to taste. Add collard greens; simmer until flavors have blended, at least 40 minutes (1 hour for best flavor).",
+        "Mash kidney beans together with tomato paste in a bowl; add to the stew. Stir in cooked rice and mix well. Add a spoonful of flour to thicken, if desired. Adjust seasonings to taste."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1008811.jpg",
+    "ingredients": [
+        "1 cup uncooked brown rice",
+        "water",
+        "1/2 pound collard greens, chopped",
+        "2 cloves garlic, peeled",
+        "1 (10 ounce) package frozen okra",
+        "1 (28 ounce) can whole peeled tomatoes, chopped, with liquid",
+        "1 chayote squash, diced",
+        "2 cloves garlic, crushed",
+        "1/4 teaspoon ground ginger, or more to taste",
+        "1/4 teaspoon dried dill weed, or more to taste",
+        "1/4 teaspoon ground cumin, or to taste",
+        "1 tablespoon chopped fresh cilantro, or to taste",
+        "1 (16 ounce) can kidney beans, rinsed and drained",
+        "1 (6 ounce) can tomato paste",
+        "all-purpose flour, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Caribbean Stew",
     "url": "http://allrecipes.com/recipe/231450/vegan-caribbean-stew/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Position rack in the center of the oven.",
+        "Cut out top of pumpkin, and set aside. Scoop out seeds with a metal spoon.",
+        "In a large bowl, stir together the apples, walnuts, cranberry sauce, pineapple, brown sugar, raisins, and rum. Season with ginger, nutmeg, and cinnamon, and mix well. Spoon the mixture into the cleaned pumpkin, and replace top.",
+        "Set pumpkin directly on a baking stone or a thick baking sheet. Bake for 1 hour in the preheated oven, or until pumpkin begins to soften. Remove from heat, and stir, scraping the sides gently, so that some pieces of pumpkin fall into the apple mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F33254.jpg",
+    "ingredients": [
+        "1 medium sugar pumpkin",
+        "6  Granny Smith apples - peeled, cored and chopped",
+        "1 cup chopped walnuts",
+        "1 (16 ounce) can whole berry cranberry sauce",
+        "1 (20 ounce) can pineapple chunks, drained",
+        "\u00be cup packed brown sugar",
+        "\u00bd cup golden raisins",
+        "\u00bd cup dark rum (optional)",
+        "2 teaspoons minced fresh ginger root",
+        "1 tablespoon freshly grated nutmeg",
+        "1 tablespoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Stuffed Pumpkin",
     "url": "http://allrecipes.com/recipe/13657/baked-stuffed-pumpkin/"
 }

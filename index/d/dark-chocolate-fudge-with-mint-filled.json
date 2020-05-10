@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line 8-inch-square baking pan with foil. Coarsely chop 1/4 cup DelightFulls morsels; set aside.",
+        "Combine dark chocolate morsels and sweetened condensed milk in medium, heavy-duty saucepan. Warm over lowest possible heat, stirring until smooth. Remove from heat; stir in vanilla extract. Gently stir in remaining 1/2 cup DelightFulls morsels just until morsels are covered.",
+        "Spread mixture evenly into prepared baking pan. Sprinkle with coarsely chopped DelightFulls morsels. Press gently into fudge. Refrigerate for 2 hours or until firm. Lift from pan; remove foil. Cut into pieces. Store refrigerated in airtight container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1501420.jpg",
+    "ingredients": [
+        "3/4 cup NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Mint Filled Morsels, divided",
+        "1 2/3 cups NESTLE\u00ae TOLL HOUSE\u00ae Dark Chocolate Morsels",
+        "1 (14 ounce) can NESTLE\u00ae CARNATION\u00ae Sweetened Condensed Milk",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dark Chocolate Fudge with Mint Filled DelightFulls\u2122",
     "url": "http://allrecipes.com/recipe/239559/dark-chocolate-fudge-with-mint-filled/"
 }

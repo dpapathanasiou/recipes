@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Arrange ribs in a shallow roasting pan; season with salt and black pepper.",
+        "Bake ribs in preheated oven for 1 hour.",
+        "Mix molasses, vinegar, mustard, water, Worcestershire sauce, instant coffee granules, and hot pepper sauce together in a bowl. Brush generously over the ribs.",
+        "Continue baking ribs, basting with sauce every 15 minutes, until the meat pulls away easily from the bone, about 1 additional hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2988&h=1564&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3301285.jpg",
+    "ingredients": [
+        "6 pounds pork spareribs, cut into serving-size pieces",
+        "1 pinch salt and ground black pepper to taste",
+        "\u00bd cup molasses",
+        "\u2153 cup vinegar",
+        "\u00bc cup prepared mustard",
+        "\u00bc cup water",
+        "2 tablespoons Worcestershire sauce",
+        "1 tablespoon instant coffee granules",
+        "\u00bd teaspoon hot pepper sauce (such as Tabasco\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dark Brown BBQ Ribs",
     "url": "http://allrecipes.com/recipe/228805/dark-brown-bbq-ribs/"
 }

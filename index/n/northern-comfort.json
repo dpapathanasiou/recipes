@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine apple schnapps and bourbon in a shaker with ice. Shake, and pour into a glass."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/353322.jpg",
+    "ingredients": [
+        "2 (1.5 fluid ounce) jiggers apple schnapps",
+        "1 (1.5 fluid ounce) jigger bourbon whiskey",
+        "ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Northern Comfort",
     "url": "http://allrecipes.com/recipe/55028/northern-comfort/"
 }

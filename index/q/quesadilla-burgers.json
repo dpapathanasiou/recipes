@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix sour cream, ranch dressing, and taco sauce together in a bowl until Southwest sauce is smooth. Cover bowl and refrigerate for flavors to blend.",
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Cook hamburger patties in the preheated grill for 5 minutes, seasoning with Worcestershire sauce. Flip patties. Arrange tortillas on the grill and lower heat to medium-low under tortillas. Add Cheddar cheese and Colby-Jack cheese to tortillas; cook until cheeses melt, 2 to 4 minutes. Continue cooking hamburger patties until cooked through, about 5 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C).",
+        "Spread Southwest sauce onto 1/2 of the tortillas; top with lettuce and picante sauce. Place 1 hamburger patty on top of picante sauce layer and top patty with a tortilla, creating a sandwich."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2205&h=1154&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2350602.jpg",
+    "ingredients": [
+        "\u00bd cup sour cream",
+        "\u00bc cup ranch dressing",
+        "\u00bc cup taco sauce",
+        "4 (4 ounce) hamburger patties",
+        "1 dash Worcestershire sauce, or to taste",
+        "8  flour tortillas",
+        "2 cups shredded sharp Cheddar cheese",
+        "2 cups shredded Colby-Jack cheese",
+        "\u00bd head lettuce, shredded, or to taste",
+        "3 tablespoons picante sauce, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quesadilla Burgers",
     "url": "http://allrecipes.com/recipe/244309/quesadilla-burgers/"
 }

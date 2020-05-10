@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 10x15 inch jellyroll pan.",
+        "Place the raisins and water into a small saucepan. Bring to a boil, and cook for 3 minutes. Drain, and reserve the liquid. Set aside to cool slightly.",
+        "In a large bowl, cream together the butter and sugar until smooth. Mix in the egg and vanilla until well blended. Combine the flour, baking soda, salt and cinnamon; stir into the batter alternately with the raisin water. Set aside 1/4 cup of the raisin liquid to use for the frosting. Mix in raisins last. Spread the batter evenly into the prepared pan.",
+        "Bake for 20 minutes in the preheated oven, or until the top is lightly browned. While the cake is baking, stir together the reserved raisin water, maple extract and confectioners' sugar to make a thin glaze. Pour over the cake while still hot. Cool, then cut into squares to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4552059.jpg",
+    "ingredients": [
+        "1 cup raisins",
+        "2 1/2 cups water",
+        "1/2 cup butter",
+        "1 cup white sugar",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon maple flavored extract",
+        "1 cup confectioners' sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spice Bars with Raisins",
     "url": "http://allrecipes.com/recipe/85985/spice-bars/"
 }

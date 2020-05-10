@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a cocktail shaker with ice cubes. Pour tequila, orange juice, triple sec, lemon juice, lime juice, and blue Curacao over the ice; shake. Strain into a pint glass filled with ice."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1042938.jpg",
+    "ingredients": [
+        "ice cubes",
+        "2 fluid ounces tequila (such as Sauza\u00ae)",
+        "1 1/2 fluid ounces orange juice",
+        "1 fluid ounce triple sec",
+        "1/2 fluid ounce lemon juice",
+        "1/2 fluid ounce lime juice",
+        "1/2 fluid ounce blue Curacao liqueur"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Meanies",
     "url": "http://allrecipes.com/recipe/234361/blue-meanies/"
 }

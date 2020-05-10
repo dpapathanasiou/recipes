@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine basil leaves, 2 1/2 tablespoons olive oil, walnuts, Parmesan cheese, and garlic in a food processor; process until pesto is smooth.",
+        "Heat 1 tablespoon olive oil in a large skillet over medium-high heat. Cook chicken until golden brown, about 5 minutes per side. Transfer to serving platter.",
+        "Cook and stir mushrooms in a single layer in the same skillet until tender, about 5 minutes. Add onion; cook until translucent, about 5 minutes. Add garlic and cook until fragrant, about 30 seconds. Add half of the Gorgonzola cheese; cook until slightly melted. Pour in wine and stir to scrape up brown bits from the bottom of the skillet. Stir lemon juice, chicken broth, brown sugar, salt, and black pepper into the sauce.",
+        "Bring chicken broth mixture to a boil; reduce heat and simmer until sauce is reduced by 1/4, 3 to 5 minutes. Stir in pesto and return chicken to the skillet. Cook until an instant-read thermometer inserted into the center reads at least 165 degrees F (74 degrees C), about 5 minutes more. Add remaining Gorgonzola cheese and chopped tomatoes.",
+        "Serve each chicken breast on a plate topped with sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1300&h=681&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4039712.jpg",
+    "ingredients": [
+        "1 cup fresh basil leaves",
+        "2\u2009\u00bd tablespoons extra-virgin olive oil",
+        "2\u2009\u00bd tablespoons chopped walnuts",
+        "2\u2009\u00bd tablespoons grated Parmesan cheese",
+        "3 cloves garlic, peeled",
+        "1 tablespoon extra-virgin olive oil",
+        "4  boneless, skinless chicken breasts",
+        "1 cup sliced baby bella mushrooms",
+        "\u00bd cup thinly sliced onion",
+        "2 cloves garlic, minced",
+        "\u00bd cup Gorgonzola cheese, divided",
+        "\u00bc cup white wine",
+        "\u00bd  lemon, juiced",
+        "2 tablespoons chicken broth",
+        "1 teaspoon brown sugar",
+        "salt and ground black pepper to taste",
+        "2  tomatoes, seeded and chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Gorgonzola",
     "url": "http://allrecipes.com/recipe/246148/chicken-gorgonzola/"
 }

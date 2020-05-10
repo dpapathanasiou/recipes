@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place mint leaves in a tall cocktail glass. Add sugar and warm water; muddle gently. Add crushed ice. Pour in cognac; stir. Top with sparkling wine."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7843518.jpg",
+    "ingredients": [
+        "10 fresh mint leaves",
+        "1 teaspoon white sugar",
+        "1 tablespoon warm water",
+        "1/2 cup crushed ice, or as needed",
+        "2 fluid ounces cognac",
+        "2 fluid ounces chilled dry sparkling wine, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Champagne Julep",
     "url": "http://allrecipes.com/recipe/232619/champagne-julep/"
 }

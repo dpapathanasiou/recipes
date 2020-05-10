@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt 2 tablespoons butter in a 6-quart pot. Add mushrooms and onion. Cook over medium-high heat 5 minutes. Add brown and wild rice only. Continue to cook, stirring often, 2 minutes or until bottom of pot starts to brown.",
+        "Stir in broth and white cooking wine. Increase heat to high; cover and bring to a boil. Reduce heat to low. Simmer, covered, 30 minutes.",
+        "Stir in white rice and carrots. Cover and continue to simmer 20 minutes more or until liquid is absorbed. Stir in thyme and remaining 2 tablespoons butter. Serve immediately or keep warm until ready to serve."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "4 tablespoons butter, divided",
+        "8 ounces sliced crimini mushrooms",
+        "\u00bd cup finely diced onion",
+        "\u00be cup long-grain brown rice",
+        "\u00bd cup wild rice",
+        "3 cups chicken broth",
+        "1 cup Holland House\u00ae White Cooking Wine",
+        "\u00be cup long-grain white rice",
+        "\u00bd cup diced carrots",
+        "\u00bc teaspoon dried thyme"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Multi Grain Pilaf",
     "url": "http://allrecipes.com/recipe/161968/multi-grain-pilaf/"
 }

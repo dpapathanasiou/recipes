@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place grated carrots in a large bowl.",
+        "Combine sugar, water, and vinegar in a saucepan and bring to a boil; cook until sugar is dissolved, about 5 minutes. Reduce heat to medium; add garlic, fish sauce, and curry paste to sugar mixture and simmer until flavors blend, 2 to 5 minutes. Remove saucepan from heat and cool dressing completely, about 30 minutes.",
+        "Stir lime juice and red pepper flakes into dressing and pour over carrots. Add peanuts and toss to coat. Refrigerate until chilled, at least 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1603188.jpg",
+    "ingredients": [
+        "1 pound carrots, coarsely grated",
+        "1 cup white sugar",
+        "1/2 cup water",
+        "1/2 cup rice vinegar",
+        "2 tablespoons minced garlic",
+        "2 tablespoons Thai fish sauce",
+        "1 1/2 teaspoons Thai red curry paste",
+        "2 tablespoons lime juice",
+        "1 tablespoon red pepper flakes (optional)",
+        "1/2 cup finely chopped unsalted peanuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Thai Carrot Salad",
     "url": "http://allrecipes.com/recipe/239964/thai-carrot-salad/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large punch bowl, combine champagne, ginger ale and strawberries. Gently stir and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/549686.jpg",
+    "ingredients": [
+        "1 (750 milliliter) bottle champagne",
+        "1 (2 liter) bottle ginger ale, chilled",
+        "2 (10 ounce) packages frozen strawberries, partially thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Champagne Punch",
     "url": "http://allrecipes.com/recipe/23023/strawberry-champagne-punch/"
 }

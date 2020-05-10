@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain.",
+        "In a large bowl, combine the pasta, black olives, tomatoes, pepperoni, green olives, green onions and ham or turkey. Before serving, add shredded mozzarella and dressing. Toss well and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/660427.jpg",
+    "ingredients": [
+        "1 1/2 pounds seashell pasta",
+        "1 (6 ounce) can pitted black olives, chopped",
+        "2 large tomatoes, chopped",
+        "4 ounces sliced pepperoni sausage, each slice cut in half",
+        "1/2 cup chopped green olives",
+        "3 bunches green onions, chopped",
+        "2 cups chopped ham",
+        "2 cups shredded mozzarella cheese",
+        "1 (16 ounce) bottle zesty Italian dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Patty's Pasta Salad",
     "url": "http://allrecipes.com/recipe/14443/pattys-pasta-salad/"
 }

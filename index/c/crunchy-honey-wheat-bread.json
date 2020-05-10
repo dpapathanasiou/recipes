@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ingredients in bread machine pan in the order suggested by the manufacturer.",
+        "Select whole wheat or dough cycle on bread machine. Start.",
+        "To bake bread in oven: select dough or manual cycle. Once cycle is complete, shape dough and place in a greased loaf pan. Allow to rise in a warm spot until doubled in size. Bake in a preheated 350 degrees F (175 degrees C) oven for 35 to 45 minutes or until a thermometer inserted in the center of the loaf reads 200 degrees F (95 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2992&h=1566&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1120911.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups warm water (110 degrees F/45 degrees C)",
+        "2 tablespoons vegetable oil",
+        "3 tablespoons honey",
+        "1\u2009\u00bd teaspoons salt",
+        "2 cups bread flour",
+        "1\u2009\u00bd cups whole wheat flour",
+        "1 tablespoon vital wheat gluten",
+        "\u00bd cup granola",
+        "1 (.25 ounce) package active dry yeast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crunchy Honey Wheat Bread",
     "url": "http://allrecipes.com/recipe/7203/crunchy-honey-wheat-bread/"
 }

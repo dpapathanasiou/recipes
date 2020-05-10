@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a food processor, place tomato, orange, kiwis, red onion, avocado, cilantro and jalapeno chile peppers. Process using pulse setting until finely chopped but not quite smooth. Transfer to a medium bowl, and garnish with desired amount of garlic salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1024&h=536&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1020427.jpg",
+    "ingredients": [
+        "1  tomato",
+        "1  orange, peeled and segmented",
+        "2  kiwis, peeled and sliced",
+        "1  red onion, coarsely chopped",
+        "1  avocado, peeled and pitted",
+        "1 bunch cilantro",
+        "2  jalapeno chile peppers",
+        "garlic salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fruit Salsa",
     "url": "http://allrecipes.com/recipe/24636/fruit-salsa/"
 }

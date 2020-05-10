@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together 2/3 cup white sugar and peanut butter.  Sprinkle 2/3 of the mixture into baked pie shell.",
+        "Combine 1/2 cup sugar, corn starch, salt, milk, and egg yolks in a medium saucepan.  Cook and stir over medium low heat until thick.  Pour filling over peanut butter mixture in pie shell.",
+        "In a clean glass bowl, beat  egg whites until very stiff.   Spread meringue on top of pie.  Sprinkle remaining peanut butter crumbs on top of the egg whites.",
+        "Bake at 400 degrees F (205 degrees C) for 5 to 7 minutes, or until the meringue is golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3204337.jpg",
+    "ingredients": [
+        "\u2154 cup white sugar",
+        "\u2153 cup peanut butter",
+        "\u00bd cup white sugar",
+        "3 tablespoons cornstarch",
+        "\u00bd teaspoon salt",
+        "2 cups milk",
+        "4  eggs, separated",
+        "1 (9 inch) pie shell, baked"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Pie VI",
     "url": "http://allrecipes.com/recipe/12296/peanut-butter-pie-vi/"
 }

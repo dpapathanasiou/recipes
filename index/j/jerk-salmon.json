@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place salmon in a large bowl with ice cold water and 1 pinch salt. Let soak, about 10 minutes. Run a knife along the skin to remove all scales.",
+        "Rinse salmon in ice cold water and lemon juice. Pat dry with a paper towel.",
+        "Preheat oven to 325 degrees F (165 degrees C).",
+        "Combine garlic powder and 1/4 teaspoon salt in a small bowl. Sprinkle lightly over both sides of each salmon fillet. Rub jerk marinade over both sides of salmon.",
+        "Place salmon fillets in a large bowl. Add scallions, onion, cilantro, and ginger; mix well to combine.",
+        "Heat oil in an ovensafe skillet over medium heat. Cook salmon fillets skin-side down, in batches if necessary, until skin is golden, about 2 minutes. Flip and continue cooking until flesh is pale pink, 1 to 2 minutes more. Place skillet in the oven.",
+        "Bake salmon in the preheated oven until flesh flakes easily with a fork, about 2 minutes. Remove skillet from oven and allow salmon to rest before serving, 3 to 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "4 (3 ounce) fillets salmon fillets, or more to taste",
+        "ice cold water to cover",
+        "1 pinch salt",
+        "4 drops lemon juice",
+        "1/4 teaspoon garlic powder",
+        "1/4 teaspoon salt",
+        "2 tablespoons jerk marinade, or more to taste",
+        "3 bunches scallions, chopped",
+        "1/2 yellow onion, thinly sliced",
+        "5 sprigs cilantro, chopped",
+        "1 teaspoon chopped ginger",
+        "2 tablespoons vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jerk Salmon",
     "url": "http://allrecipes.com/recipe/247220/jerk-salmon/"
 }

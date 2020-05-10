@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Line muffin cups with paper liners.",
+        "Whisk almond milk and vinegar together in a small bowl; set aside until curdled, about 10 minutes.",
+        "Mix whole wheat flour, all-purpose flour, baking powder, and baking soda together in a bowl. Combine carrots, pineapple, raisins, and walnuts together in a separate bowl.",
+        "Whisk 3/4 cup plus 2 tablespoons white sugar, olive oil, molasses, vanilla extract, cinnamon, nutmeg, salt, and cardamom together in a separate bowl. Mix curdled milk mixture and sugar mixture into flour mixture just until batter is mixed; fold in carrot mixture. Spoon batter into muffin cups until each is completely filled and domed.",
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4464994.jpg",
+    "ingredients": [
+        "1 cup almond milk",
+        "1\u2009\u00bd teaspoons apple cider vinegar",
+        "1\u2009\u00be cups whole wheat flour",
+        "\u00bd cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "1\u2009\u00bd cups grated carrots",
+        "\u00be cup chopped pineapple, drained",
+        "\u00be cup raisins",
+        "\u00be cup chopped walnuts",
+        "\u00be cup white sugar",
+        "2 tablespoons white sugar",
+        "\u00bd cup olive oil",
+        "2 tablespoons molasses",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon salt",
+        "\u00bd teaspoon ground cardamom"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Carrot Cake Muffins",
     "url": "http://allrecipes.com/recipe/242023/vegan-carrot-cake-muffins/"
 }

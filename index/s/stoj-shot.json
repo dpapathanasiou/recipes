@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a highball glass with ice cubes. Pour vodka, cherry brandy, and sweet and sour mix over the ice. Top with grenadine syrup."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/971561.jpg",
+    "ingredients": [
+        "1 fluid ounce vodka",
+        "1 fluid ounce wild cherry brandy",
+        "2 fluid ounces sweet and sour mix",
+        "1 dash grenadine syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stoj Shot",
     "url": "http://allrecipes.com/recipe/56790/stoj-shot/"
 }

@@ -1,9 +1,40 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak the bamboo skewers in water for 30 to 40 minutes.",
+        "Place shredded cucumber in a fine mesh sieve and press out excess liquid; allow to drain for 15 minutes.",
+        "Combine yogurt, 2 cloves minced garlic, shredded cucumber, dill, salt, and pepper in a small bowl. Set aside in the refrigerator to chill.",
+        "Place chicken in a bowl and add the oregano, 2 cloves minced garlic, lemon juice, 2 tablespoons olive oil, salt, and pepper in a large bowl; stir thoroughly and set aside in the refrigerator to chill for 20 minutes.",
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Combine tomatoes, diced cucumber, onion, 2 tablespoons olive oil, salt, and pepper in a bowl. Toss to combine.",
+        "Skewer the marinated chicken.",
+        "Grill the chicken skewers, squeezing with juice from 1/2 a lemon while cooking, until browned and no longer pink inside, about 5 minutes on each side.",
+        "Heat the pita bread on the grill until warmed through, 1 to 2 minutes on each side. Top each heated pita bread round with chicken from 1 skewer, 1 to 2 spoonfuls of yogurt sauce, and tomato salad. Top with feta cheese slices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "8  bamboo skewers",
+        "1  cucumber - peeled, seeded, and shredded",
+        "1 (12 ounce) container Greek-style yogurt",
+        "2 cloves garlic, minced",
+        "2 sprigs fresh dill, chopped",
+        "salt and freshly ground black pepper to taste",
+        "2  skinless, boneless chicken breasts, cut into 1/2-inch strips",
+        "2 sprigs fresh oregano, chopped",
+        "2 cloves garlic, minced",
+        "1  lemon, juiced",
+        "2 tablespoons extra-virgin olive oil",
+        "salt and freshly ground black pepper to taste",
+        "3  Roma tomatoes, diced",
+        "1  cucumber - peeled, seeded, and diced",
+        "\u00bd  red onion, cut into thin 1-inch-long strips",
+        "2 tablespoons extra-virgin olive oil",
+        "\u00bd  lemon, juiced",
+        "8  pita bread rounds",
+        "4 ounces feta cheese, cut into 1/4-inch slices"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "High Seas Chicken Souvlaki",
     "url": "http://allrecipes.com/recipe/223138/high-seas-chicken-souvlaki/"
 }

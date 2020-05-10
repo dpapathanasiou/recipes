@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small saucepan over a medium-low heat, whisk (using a metal whisk) together vinegar and cornstarch.  Add oil, pineapple juice, ketchup, brown sugar, and salt; whisking constantly until the mixture is heated through."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F400506.jpg",
+    "ingredients": [
+        "1 teaspoon cornstarch",
+        "\u2153 cup distilled white vinegar",
+        "2 teaspoons vegetable oil",
+        "\u2154 cup unsweetened pineapple juice",
+        "2 tablespoons ketchup",
+        "3 tablespoons brown sugar",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet and Sour Dipping Sauce",
     "url": "http://allrecipes.com/recipe/15493/sweet-and-sour-dipping-sauce/"
 }

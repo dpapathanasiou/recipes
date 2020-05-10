@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir the orange zest, orange juice, lemon zest, lemon juice, lime zest, lime juice, coriander, red pepper flakes, olive oil, and honey together in a shallow dish. Remove about 1/4 cup of the mixture and set aside for later. Add the chicken breasts to the remaining marinade, turning to coat both sides. Cover with plastic wrap and refrigerate, turning occasionally, 1 to 4 hours.",
+        "Preheat an outdoor grill for high heat, and lightly oil the grate. Remove the chicken breasts from the marinade; discard the marinade.",
+        "Basting frequently with the reserved sauce, cook the chicken on the preheated grill until no longer pink in the center and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F620268.jpg",
+    "ingredients": [
+        "2  oranges, zested and juiced",
+        "2  lemons, zested and juiced",
+        "2  limes, zested and juiced",
+        "1 teaspoon ground coriander",
+        "\u00bd teaspoon dried red pepper flakes",
+        "2 tablespoons olive oil",
+        "\u00bc cup wildflower honey",
+        "6  skinless, boneless chicken breast halves - pounded to about 3/4-inch thickness",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "San Diego Grilled Chicken",
     "url": "http://allrecipes.com/recipe/204952/san-diego-grilled-chicken/"
 }

@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 2 1/4-quart casserole dish.",
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Remove bacon slices to a plate lined with paper towel to drain.",
+        "Pour most of the bacon drippings from the skillet. Melt 1 tablespoon butter in the skillet with the drippings. Saute mushrooms and onion in the butter mixture until onion is golden brown, 5 to 7 minutes. Remove from heat and scrape into a bowl to cool.",
+        "Beat eggs and half-and-half together in a large bowl until smooth. Crumble bacon into the egg mixture; add mushroom mixture, wild rice, Swiss cheese, croutons, Monterey Jack cheese, salt, black pepper, and nutmeg. Pour the egg mixture into the prepared casserole dish.",
+        "Bake in preheated oven until a toothpick inserted into the center of the casserole comes out clean, 40 to 50 minutes.",
+        "Beat apple cider, sugar, cornstarch, lemon juice, and cinnamon together in a saucepan until smooth; bring to a boil and cook for 2 minutes. Remove saucepan from heat, add 2 tablespoons butter, and stir until butter is melted smoothly into the liquid. Serve with the casserole."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "8 thick-cut bacon slices",
+        "1 tablespoon butter",
+        "1 (8 ounce) package sliced fresh mushrooms",
+        "1/2 cup chopped onion",
+        "9 eggs, beaten",
+        "1 1/4 cups half-and-half",
+        "3/4 cup cooked wild rice",
+        "2/3 cup shredded Swiss cheese",
+        "1/2 cup croutons",
+        "1/3 cup shredded Monterey Jack cheese",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1/4 teaspoon ground nutmeg",
+        "Cider Sauce:",
+        "1 cup apple cider",
+        "1/2 cup white sugar",
+        "4 teaspoons cornstarch",
+        "1 tablespoon lemon juice",
+        "1/2 teaspoon ground cinnamon",
+        "2 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Egg Casserole with Bacon and Wild Rice",
     "url": "http://allrecipes.com/recipe/241358/egg-casserole-with-bacon-and-wild-ric/"
 }

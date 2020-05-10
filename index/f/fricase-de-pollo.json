@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a pressure cooker over medium heat. Stir in red bell pepper and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Add garlic and cook until golden.",
+        "Dissolve tomato paste in 1 cup water and pour it into the pressure cooker. Place chicken thighs and drumsticks in the pan so the pieces are evenly spaced. Add enough water so that the chicken is nearly covered.",
+        "Seal the pressure cooker and bring up to pressure over high heat. Reduce the heat to low, maintaining full pressure; cook for 15 minutes. Turn off the heat and allow the pressure to drop naturally, about 20 minutes. Season chicken with salt to taste."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1114792.jpg",
+    "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "\u00bd large red bell pepper, diced",
+        "\u00bd  red onion, diced",
+        "4 cloves garlic, smashed",
+        "2 tablespoons tomato paste",
+        "2 cups water, or as needed",
+        "6  skinless chicken leg quarters, separated into thighs and drumsticks",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fricase de Pollo",
     "url": "http://allrecipes.com/recipe/216618/fricase-de-pollo/"
 }

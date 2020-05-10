@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat.",
+        "Lay 4 sheets of aluminum foil on a work surface; place 1 crab leg on each sheet. Squeeze 1 lemon quarter on each crab leg; place squeezed lemon quarter next to each crab leg. Cut 1/4 cup butter into small cubes; dot crab legs. Sprinkle parsley and chopped garlic on each crab leg. Season each crab leg with sea salt and freshly ground black pepper.",
+        "Cover each crab leg with remaining sheets of aluminum foil; roll top and bottom edges together to create sealed packets.",
+        "Cook packets on preheated grill until crab legs are bright pink on the outside and the meat is opaque, about 20 minutes.",
+        "Melt remaining butter in a small saucepan over low heat; serve with crab."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3264499.jpg",
+    "ingredients": [
+        "8 sheets aluminum foil",
+        "3 1/2 pounds Alaskan king crab legs",
+        "1 lemon, quartered",
+        "1/2 cup butter, divided, or more to taste",
+        "1/2 cup chopped fresh parsley",
+        "5 cloves garlic, chopped",
+        "1 teaspoon sea salt, or more to taste",
+        "freshly ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled King Crab Legs",
     "url": "http://allrecipes.com/recipe/245699/grilled-king-crab-legs/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt the butter in a saucepan over medium heat. Slowly stir the brown sugar into the butter, allowing it to melt completely. Bring to a boil and cook until the sugar caramelizes and gives off a burnt smell, about 2 minutes. Remove from heat and pour the hot water into the saucepan; mix until combined. You will have a sauce that is very liquid. Pour over pieces of cake and serve immediately. Best for stale white cake."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 tablespoons butter",
+        "1/2 cup brown sugar",
+        "1 cup hot water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Burnt Brown Sugar Cake Sauce",
     "url": "http://allrecipes.com/recipe/203045/burnt-brown-sugar-cake-sauce/"
 }

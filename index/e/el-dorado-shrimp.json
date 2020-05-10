@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring coffee-flavored liqueur to a simmer in a small saucepan over medium heat. Simmer until liqueur is reduced by half, 5 to 10 minutes.",
+        "Set oven rack in the middle of the oven and preheat the oven's broiler.",
+        "Place a slice of Chihuahua cheese on the back of each shrimp and wrap shrimp and cheese with 1 bacon strip; set on a baking sheet. Repeat for remaining shrimp.",
+        "Broil on the middle rack in the preheated broiler until bacon cooks and cheese melts, about 5 minutes. Transfer cooked shrimp to a plate and drizzle with liqueur reduction."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1920104.jpg",
+    "ingredients": [
+        "1 cup coffee-flavored liqueur (such as Kahlua\u00ae)",
+        "4 ounces Chihuahua cheese, sliced into strips",
+        "10  large shrimp, peeled and deveined, or more to taste",
+        "10 slices smoked bacon, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "El Dorado Shrimp",
     "url": "http://allrecipes.com/recipe/235147/el-dorado-shrimp/"
 }

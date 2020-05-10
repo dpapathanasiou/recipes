@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cornmeal, flour, milk powder, baking powder, salt together in a bowl."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F856392.jpg",
+    "ingredients": [
+        "7 cups cornmeal",
+        "3 cups all-purpose flour",
+        "1\u2009\u2154 cups dry milk powder",
+        "5 tablespoons baking powder",
+        "2\u2009\u00bd teaspoons salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rita's Self-Rising Cornbread Mix",
     "url": "http://allrecipes.com/recipe/222634/ritas-self-rising-cornbread-mix/"
 }

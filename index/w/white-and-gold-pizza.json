@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 425 degrees F.",
+        "Heat 1 Tbsp. oil in large skillet on medium heat. Add onions; cook 15 to 20 min. or until tender and golden brown, stirring occasionally.",
+        "Place pizza dough on lightly floured baking sheet; stretch to fit 16 x 12-inch baking  sheet.  Mix garlic and remaining oil; spread onto dough.  Bake 10 min.",
+        "Spread crust with cream cheese; top with remaining cheeses, onions and red pepper. Bake 10 to 12 min. or until crust is lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7229562.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil, divided",
+        "1 large sweet onion, thinly sliced, separated into rings",
+        "1 pound frozen pizza dough, thawed",
+        "1 large clove garlic, minced",
+        "4 ounces PHILADELPHIA Cream Cheese, softened",
+        "\u00be cup KRAFT Shredded Mozzarella Cheese",
+        "\u00bd cup DIGIORNO Grated Romano Cheese",
+        "\u00bd teaspoon crushed red pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White and Gold Pizza",
     "url": "http://allrecipes.com/recipe/212730/white-and-gold-pizza/"
 }

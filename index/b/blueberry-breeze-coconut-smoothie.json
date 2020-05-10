@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine blueberries, coconut milk, green apple, flax seeds, vanilla extract, and stevia in a blender; blend until smooth, about 1 minute."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4459975.jpg",
+    "ingredients": [
+        "1 cup blueberries",
+        "1 cup coconut milk",
+        "1/2 green apple, cut into cubes",
+        "1 tablespoon flax seeds",
+        "1 teaspoon vanilla extract",
+        "4 drops liquid stevia"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry Breeze Coconut Smoothie",
     "url": "http://allrecipes.com/recipe/256706/blueberry-breeze-coconut-smoothie/"
 }

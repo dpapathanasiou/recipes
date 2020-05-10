@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon oil in a skillet over medium-high heat; saute seitan until cooked through and browned, about 5 minutes. Remove skillet from heat and cover with a lid.",
+        "Heat 1 1/2 teaspoons vegetable oil in a small saucepan over medium-high heat; saute mushrooms until lightly browned, about 3 minutes. Whisk flour into mushroom mixture using a fork until mushrooms are coated, 2 to 3 minutes.",
+        "Slowly pour water into mushroom-flour mixture while constantly stirring with a fork until smooth; add bouillon cubes. Decrease heat to medium-low and continue stirring until bouillon is dissolved and gravy is smooth, 5 to 10 minutes more. Season gravy with cayenne pepper, rosemary, and thyme.",
+        "Mix cauliflower into seitan; cook and stir over medium heat until cauliflower is slightly softened, 3 to 5 minutes. Add gravy; bring to a boil, reduce heat, cover skillet, and simmer, stirring occasionally, until seitan is softened, 7 to 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 (8 ounce) package seitan, sliced",
+        "1 1/2 teaspoons vegetable oil",
+        "1/2 cup mushrooms, cut into bite-size pieces, or to taste",
+        "1/4 cup all-purpose flour",
+        "1 cup water, or as needed",
+        "2 cubes vegetable bouillon",
+        "1 pinch cayenne pepper, or to taste (optional)",
+        "1 pinch dried rosemary, or to taste (optional)",
+        "1 pinch dried thyme, or to taste (optional)",
+        "1 small head cauliflower, cut into bite-size pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seitan and Cauliflower",
     "url": "http://allrecipes.com/recipe/237342/seitan-and-cauliflower/"
 }

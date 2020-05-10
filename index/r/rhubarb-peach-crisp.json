@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Mix the rhubarb, peach, white sugar, and 1/4 cup flour together in a large bowl until evenly combined; pour into the prepared baking dish and spread into an even layer.",
+        "Stir the brown sugar, quick oats, and 1 1/2 cups flour together in a separate bowl. Cut the butter into the flour mixture with a knife or pastry blender until the mixture resembles coarse crumbs; sprinkle evenly over the rhubarb and peach mixture.",
+        "Bake in the preheated oven until golden brown on top, about 45 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1002243.jpg",
+    "ingredients": [
+        "5 cups chopped rhubarb",
+        "1 cup chopped peach",
+        "1 1/2 cups white sugar, or to taste",
+        "1/4 cup all-purpose flour",
+        "1 cup brown sugar",
+        "1 cup quick oats",
+        "1 1/2 cups all-purpose flour",
+        "3/4 cup butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rhubarb-Peach Crisp",
     "url": "http://allrecipes.com/recipe/218574/rhubarb-peach-crisp/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the tamales, chili, diced tomatoes, and processed cheese into a slow cooker. Set heat on high, and cook, stirring occasionally until cheese is melted. Reduce heat to low to keep the dip warm while serving. Serve with corn chips or tortilla chips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1019663.jpg",
+    "ingredients": [
+        "12  beef tamales, husked and mashed",
+        "1 (15 ounce) can chili without beans",
+        "1 (14.5 ounce) can diced tomatoes and green chiles",
+        "1 (1 pound) loaf processed cheese, cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cowboy Mexican Dip",
     "url": "http://allrecipes.com/recipe/44831/cowboy-mexican-dip/"
 }

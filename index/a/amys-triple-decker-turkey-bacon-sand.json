@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toast the bread slices.",
+        "Spread a thin layer of mayonnaise on each slice. Layer bottom slice with lettuce, tomato, turkey bacon, and cheese. Spread another thin layer of mayonnaise on the cheese; repeat layers twice. Top with second slice of bread. Heat in microwave for 45 seconds to 1 minute, or until cheese is melted."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/837698.jpg",
+    "ingredients": [
+        "2 slices white bread",
+        "1/4 cup mayonnaise",
+        "3 lettuce leaves",
+        "1 tomato, thinly sliced",
+        "3 slices turkey bacon",
+        "3 slices Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amy's Triple Decker Turkey Bacon Sandwich",
     "url": "http://allrecipes.com/recipe/23827/amys-triple-decker-turkey-bacon-sand/"
 }

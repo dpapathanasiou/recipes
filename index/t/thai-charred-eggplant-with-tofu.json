@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the grill for high heat.",
+        "Oil the grill grate, and cook the eggplants on all sides until charred and black, about 15 minutes. Remove from heat, and place on a rack to cool. Peel, slice diagonally, and set aside.",
+        "In a food processor or blender, combine the chile peppers, garlic, cilantro, onion, sugar, and lime juice. Process until smooth.",
+        "Heat oil in a large skillet over high heat, and add the chile mixture. Reduce heat to medium, and cook for 1 minute. Gently stir in the tofu, 1/4 cup of basil, and the eggplant. Cook until heated through. Remove to a serving dish, and garnish with the remaining basil."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3002&h=1572&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4429018.jpg",
+    "ingredients": [
+        "5 small eggplants",
+        "3  fresh green chile peppers",
+        "4 cloves garlic, peeled",
+        "1 tablespoon chopped fresh cilantro",
+        "1 small onion, quartered",
+        "3 teaspoons light brown sugar",
+        "2 tablespoons lime juice",
+        "1 tablespoon vegetable oil",
+        "8 ounces tofu, diced",
+        "\u00bd cup chopped fresh basil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Thai Charred Eggplant with Tofu",
     "url": "http://allrecipes.com/recipe/21745/thai-charred-eggplant-with-tofu/"
 }

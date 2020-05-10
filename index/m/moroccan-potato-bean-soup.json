@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium-size cooking pot, add water and white kidney beans and bring to boil. Reduce heat and simmer for 15 minutes.",
+        "In a frying pan, saute onions in olive oil until lightly brown.",
+        "To cooking pot, add potatoes, sauteed onions, chicken soup base, turmeric, black pepper, white pepper, cayenne pepper, curry powder, and soy sauce, and cook until potatoes are tender.",
+        "Add whole milk and half and half cream and bring back to boil. Add instant potato flakes, stirring until well blended. Adjust seasonings to taste. Garnish with chopped chives or green onions."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1032796.jpg",
+    "ingredients": [
+        "6 cups water",
+        "1 (15 ounce) can kidney beans",
+        "3 tablespoons olive oil",
+        "2 onions, chopped",
+        "2 potatoes, peeled and cubed",
+        "3 tablespoons chicken bouillon powder",
+        "1/2 teaspoon ground turmeric",
+        "1/2 teaspoon ground black pepper",
+        "1/2 teaspoon ground white pepper",
+        "1/2 teaspoon cayenne pepper (optional)",
+        "2 teaspoons curry powder",
+        "2 tablespoons soy sauce",
+        "1/2 cup whole milk",
+        "1/2 cup half-and-half",
+        "1/2 cup dry potato flakes",
+        "1/4 cup chopped green onions"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Moroccan Potato Bean Soup",
     "url": "http://allrecipes.com/recipe/13123/moroccan-potato-bean-soup/"
 }

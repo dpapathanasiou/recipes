@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water and rice in a small saucepan, and bring to a boil. Cover, reduce heat, and simmer for 20 minutes.",
+        "Melt 3 tablespoons butter in a large saucepan over medium heat. Mix flour into the butter slowly, stirring constantly. Whisk in milk a small amount at time until smooth. Cook over a medium heat until thickened, stirring constantly. Stir in 1 1/2 cups shredded Swiss cheese, salt, pepper, and hot sauce; stir until the cheese melts. Stir in spinach.",
+        "Meanwhile, heat oil in a skillet over medium heat. Cook onion, garlic, bell pepper, and corn in oil until tender, stirring frequently.",
+        "Preheat oven to 350 degrees F (175 degrees C). In a large casserole dish, combine rice, spinach-cheese mixture, and onion mixture. Sprinkle breadcrumbs over the top of the casserole, dot with 2 tablespoons butter, and top with remaining 1/2 cup of cheese.",
+        "Bake, uncovered, in the preheated oven for approximately 20 minutes, or until cheese  topping melts."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6482692.jpg",
+    "ingredients": [
+        "1\u2009\u00be cups water",
+        "\u00be cup white rice",
+        "3 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "2 cups milk",
+        "2 cups shredded Swiss cheese",
+        "salt and pepper to taste",
+        "1 teaspoon hot pepper sauce",
+        "2 (10 ounce) packages frozen chopped spinach, thawed and drained",
+        "2 tablespoons vegetable oil",
+        "1  onion, chopped",
+        "2 cloves garlic",
+        "1  red bell pepper, chopped",
+        "1 (15 ounce) can white corn, drained",
+        "\u00bd cup dried bread crumbs, seasoned",
+        "2 tablespoons butter, diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spinach Veggie Casserole",
     "url": "http://allrecipes.com/recipe/14030/spinach-veggie-casserole/"
 }

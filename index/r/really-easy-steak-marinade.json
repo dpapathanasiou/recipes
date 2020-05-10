@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir salad dressing, barbeque sauce, garlic, soya sauce, lemon juice, steak seasoning, seasoned salt, onion powder, and sugar in a bowl until the seasonings dissolve into the liquids."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3479251.jpg",
+    "ingredients": [
+        "1/2 cup Italian salad dressing",
+        "1/4 cup barbeque sauce",
+        "3 cloves garlic, minced",
+        "2 tablespoons soya sauce",
+        "2 tablespoons lemon juice",
+        "1 1/2 tablespoons steak seasoning",
+        "1 teaspoon seasoned salt",
+        "1 teaspoon onion powder",
+        "1/2 teaspoon white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Really Easy Steak Marinade",
     "url": "http://allrecipes.com/recipe/236316/really-easy-steak-marinade/"
 }

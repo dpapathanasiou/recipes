@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet.",
+        "Stir together the egg, white sugar, butter, flour, cornstarch, powdered milk, baking powder, and salt in a bowl. Knead for a few minutes to make a soft dough. Divide the dough into 12 portions. Roll each portion into a ball and flatten slightly. Place on the prepared baking sheet 1 inch apart.",
+        "Bake in the preheated oven until light brown, about 10 minutes. Cool completely and store in an airtight container."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F323471.jpg",
+    "ingredients": [
+        "1  egg",
+        "\u2153 cup white sugar",
+        "\u00bc cup butter, softened",
+        "1 cup all-purpose flour",
+        "1 cup cornstarch",
+        "\u00bd cup powdered milk",
+        "\u00bd teaspoon baking powder",
+        "1 dash salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lipardo's Puto Seco",
     "url": "http://allrecipes.com/recipe/62585/lipardos-puto-seco/"
 }

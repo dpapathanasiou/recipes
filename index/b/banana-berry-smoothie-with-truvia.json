@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Add all ingredients to blender. Blend on high until smooth.",
+        "Enjoy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1076728.jpg",
+    "ingredients": [
+        "1 cup strawberries",
+        "1 cup blueberries",
+        "1 banana",
+        "1 cup fat-free plain yogurt",
+        "1 cup orange juice",
+        "1 cup ice",
+        "1 tablespoon Truvia\u00ae natural sweetener spoonable, plus",
+        "1/2 teaspoon Truvia\u00ae natural sweetener spoonable*"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana Berry Smoothie with Truvia\u00ae Natural Sweetener",
     "url": "http://allrecipes.com/recipe/235892/banana-berry-smoothie-with-truvia/"
 }

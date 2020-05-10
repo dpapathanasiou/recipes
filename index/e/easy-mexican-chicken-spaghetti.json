@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until tender yet firm to the bite, about 12 minutes. Drain.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat olive oil in an oven-proof skillet over medium heat; cook and stir garlic until fragrant, about 1 minute. Add onion; cook and stir until onion begins to soften, about 2 minutes. Add chicken; cook and stir until chicken is no longer pink in the center, about 5 minutes.",
+        "Mix cream of mushroom soup and diced tomatoes with green chile peppers into chicken mixture. Mix spaghetti into chicken mixture and top with Colby-Monterey Jack cheese.",
+        "Place the skillet in the preheated oven and bake until cheese is melted and slightly brown, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2548986.jpg",
+    "ingredients": [
+        "1 pound spaghetti",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 small yellow onion, diced",
+        "3  skinless, boneless chicken breast halves, cut into bite-size pieces, or more to taste",
+        "1 (10.75 ounce) can cream of mushroom soup",
+        "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "\u00bd cup shredded Colby-Monterey Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Mexican Chicken Spaghetti",
     "url": "http://allrecipes.com/recipe/244765/easy-mexican-chicken-spaghetti/"
 }

@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk mayonnaise, sour cream, lemon juice, mustard, paprika, and hot pepper sauce together in a small saucepan over medium heat until warmed through, 2 to 3 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7204627.jpg",
+    "ingredients": [
+        "1/2 cup mayonnaise",
+        "1/2 cup sour cream",
+        "1 teaspoon lemon juice",
+        "1 teaspoon prepared yellow mustard, or to taste",
+        "1/4 teaspoon ground paprika",
+        "1 dash hot pepper sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick and Easy Mock Hollandaise Sauce",
     "url": "http://allrecipes.com/recipe/246059/quick-and-easy-mock-hollandaise-sauce/"
 }

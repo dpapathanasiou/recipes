@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender combine blueberries, kefir, peanut butter, stevia, flax, vanilla, and cinnamon. Blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4301771.jpg",
+    "ingredients": [
+        "1 1/2 cups frozen blueberries",
+        "1 cup low-fat plain, unsweetened kefir",
+        "3 tablespoons peanut butter",
+        "2 (1 gram) packets Stevia In The Raw\u00ae",
+        "2 tablespoons ground flax seed",
+        "1/2 teaspoon vanilla extract",
+        "1/2 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Probiotic Peanut Butter-Berry Smoothie",
     "url": "http://allrecipes.com/recipe/256459/probiotic-peanut-butter-berry-smoothi/"
 }

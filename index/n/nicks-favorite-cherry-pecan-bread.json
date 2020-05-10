@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease a 9 x 5 inch loaf pan.",
+        "In a large bowl, cream butter or margarine and sugar together.  Add eggs, and continue mixing until light and fluffy.  Add baking soda, salt, and vanilla; mix thoroughly.  Alternately add buttermilk and flour to the creamed mixture, mixing only enough to hold ingredients together. Fold in cherries and nuts, mixing lightly.  Turn batter into prepared pan.",
+        "Bake for 50 to 60 minutes, or until bread tests done.  Cool completely before slicing."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1920&h=1005&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1025280.jpg",
+    "ingredients": [
+        "\u00bd cup margarine",
+        "\u00be cup white sugar",
+        "2  eggs",
+        "1 cup buttermilk",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 (10 ounce) jar maraschino cherries, drained and chopped",
+        "1 cup chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nick's Favorite Cherry Pecan Bread",
     "url": "http://allrecipes.com/recipe/6705/nicks-favorite-cherry-pecan-bread/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1/4 cup of olive oil in a large skillet over medium-high heat. Add zucchini slices and garlic; cook and stir until starting to brown but you want the squash to stay firm and not get mushy, 3 to 4 minutes. Remove from the heat and mix in the vinegar, mint, salt and pepper. Stir in the remaining olive oil. Spoon into a jar and store covered in the refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F85661.jpg",
+    "ingredients": [
+        "\u00bc cup olive oil",
+        "3 large zucchini, thinly sliced",
+        "2 cloves garlic, minced",
+        "2 cups fresh mint leaves, finely chopped",
+        "\u2153 cup distilled white vinegar",
+        "\u00bd teaspoon salt",
+        "ground black pepper to taste",
+        "1 tablespoon olive oil, for drizzling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Minted Marinated Zucchini",
     "url": "http://allrecipes.com/recipe/147518/minted-marinated-zucchini/"
 }

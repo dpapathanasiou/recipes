@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in large pot over medium-low heat. Place onion, zucchini, yellow squash, and carrot in pot and cook, stirring occasionally, until onions begin to soften and turn translucent, about 5 minutes. Stir in the red and yellow peppers and mushrooms; cook another 3 minutes. Vegetables should still be firm.",
+        "Pour in the vegetable stock and season with paprika, cardamom, salt, and cilantro. Bring mixture to a boil; reduce heat to low. Stir in chickpeas and tomatoes. Slowly pour in the couscous; stir. Cover pot immediately and remove from the heat. Let stand, covered, for 5 minutes. Fluff couscous with a fork. The couscous should have absorbed about half the cooking liquid.",
+        "Serve at slightly warmer than room temperature. Garnish with orange zest and the grated cheese, paprika, and almonds."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/248517.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 red onion, chopped",
+        "1 zucchini, coarsely chopped",
+        "1 yellow squash, coarsely chopped",
+        "1 carrot, coarsely chopped",
+        "1 red bell pepper, coarsely chopped",
+        "1 yellow bell pepper, coarsely chopped",
+        "1/2 cup sliced baby portabella mushrooms",
+        "4 cups vegetable broth",
+        "1/2 teaspoon smoked sweet paprika",
+        "1/4 teaspoon ground cardamom",
+        "1/4 teaspoon salt",
+        "1 tablespoon chopped fresh cilantro",
+        "1 (16 ounce) can chickpeas, drained",
+        "2 Roma tomatoes, sliced",
+        "2 cups dry couscous",
+        "1 teaspoon grated orange zest",
+        "1 tablespoon grated Parmesan cheese (optional)",
+        "1/2 teaspoon paprika (optional)",
+        "1 tablespoon finely chopped toasted almonds (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "25-Minute Tunisian Vegetable Couscous",
     "url": "http://allrecipes.com/recipe/168959/25-minute-tunisian-vegetable-couscous/"
 }

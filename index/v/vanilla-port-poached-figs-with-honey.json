@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Trim a small piece from the bottom of each fig so they stand up straight. Remove stems, and score a 1/4 inch \"X\" into the top of each fig. Set aside.",
+        "In a bowl, beat whipping cream together with sour cream until stiff peaks form. (This can be done either by hand, or with an electric mixer.) Gently fold in 1/4 cup of honey and a pinch of salt. Cover, and refrigerate.",
+        "Pour port into a small saucepan over medium high heat. Add cinnamon sticks, peppercorns, cloves, 1 tablespoon honey, vanilla extract, balsamic vinegar, and lemon and orange zests. Stir to dissolve honey and blend flavors. Bring mixture to a boil, reduce heat, and simmer for up to 30 minutes, or as time allows, being careful not to reduce liquid too much. Place figs upright in pan, cover, and cook for 5 minutes.",
+        "To serve, place a spoonful of honey cream in the center of each plate. Arrange 3 figs around the cream, and drizzle with a small amount of poaching liquid. Tuck a sprig of mint into the slit on the top of each fig. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1114256.jpg",
+    "ingredients": [
+        "12 fresh figs",
+        "1/2 cup heavy whipping cream",
+        "1/2 cup sour cream",
+        "1/4 cup honey",
+        "pinch of salt",
+        "1 1/2 cups port",
+        "2 cinnamon sticks",
+        "2 peppercorns",
+        "2 whole cloves",
+        "1 tablespoon honey",
+        "2 teaspoons vanilla extract",
+        "1 tablespoon balsamic vinegar",
+        "1 lemon, zested",
+        "1 orange, zested",
+        "fresh mint"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vanilla Port Poached Figs with Honey Cream",
     "url": "http://allrecipes.com/recipe/66103/vanilla-port-poached-figs-with-honey/"
 }

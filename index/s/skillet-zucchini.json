@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside. Pour off all but one tablespoon of bacon fat from the skillet.",
+        "Stir in the onion, green and red bell peppers, and celery to the skillet and cook over medium heat, stirring, for 2 minutes. Add the zucchini and mushrooms and cook 1 more minute. Stir in the tomatoes, artichoke hearts, pineapple and crumbled bacon.",
+        "Pour in the reserved pineapple juice and the soy sauce. Season with the salt and pepper, basil, garlic power and Italian seasoning. Cover and simmer over low heat for 10 minutes stirring occasionally. Do not over cook.",
+        "Sprinkle the Cheddar cheese on top of the vegetables and cook 2 more minutes, or until the cheese melts. Serve zucchini in the skillet topped with Parmesan cheese, if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6815330.jpg",
+    "ingredients": [
+        "1/2 pound bacon",
+        "1 large onion, chopped",
+        "1 green bell pepper, chopped",
+        "1 red bell pepper, chopped",
+        "1 cup chopped celery",
+        "6 medium zucchini, cut into 1/4-inch slices",
+        "1 cup sliced fresh mushrooms",
+        "2 large ripe tomatoes, coarsely chopped",
+        "1 (14 ounce) can artichoke hearts, drained and chopped",
+        "1 (16 ounce) can pineapple chunks - drained with juice reserved",
+        "1/4 cup juice from the can of pineapple",
+        "1 tablespoon soy sauce",
+        "salt and pepper to taste",
+        "1 teaspoon dried basil",
+        "1/4 teaspoon garlic powder",
+        "1/2 teaspoon Italian seasoning",
+        "1 cup shredded Cheddar cheese",
+        "1/2 cup grated Parmesan cheese (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Skillet Zucchini Casserole",
     "url": "http://allrecipes.com/recipe/165410/skillet-zucchini/"
 }

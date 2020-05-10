@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the broiler.",
+        "Stuff fig halves with goat cheese. Press pecans into the cheese. Wrap each stuffed fig half with half a slice of bacon, securing with toothpicks.",
+        "Arrange on a medium baking sheet. Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7003924.jpg",
+    "ingredients": [
+        "6 figs, halved",
+        "6 ounces goat cheese",
+        "1/2 cup toasted, chopped pecans",
+        "3 slices bacon, cut in half"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Figs with Goat Cheese, Pecans and Bacon",
     "url": "http://allrecipes.com/recipe/26784/figs-with-goat-cheese-pecans-and-bac/"
 }

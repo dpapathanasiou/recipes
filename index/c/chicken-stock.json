@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the chicken in a large pot over high heat. Add water to cover and bring to a boil, then reduce heat to medium low and simmer for 1 hour.",
+        "Remove chicken from pot. Leave water in pot. Cool chicken. Remove skin and bones from meat. Return bones and skin to pot. Add onions, carrots, celery, bay leaf, ginger, and salt. Continue simmering for 3 to 4 hours.",
+        "Strain and cool the stock, uncovered.",
+        "Use the meat for soups, salads, sandwiches, or other dishes where cooked chicken is needed. After stock has been defatted, use or freeze immediately. I freeze the stock in one-cup amounts and use instead of water for cooking rice or vegetables or making gravy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1596222.jpg",
+    "ingredients": [
+        "4 pounds chicken",
+        "7 cups water",
+        "1 large onion, halved",
+        "3 stalks celery",
+        "3  carrots, cut into 2 inch pieces",
+        "1  bay leaf",
+        "1 teaspoon grated fresh ginger",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Stock",
     "url": "http://allrecipes.com/recipe/13075/chicken-stock/"
 }

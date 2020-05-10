@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring water and barley to a boil in a saucepan. Reduce heat to low, cover, and simmer until barley is tender, about 30 minutes.",
+        "Drain any excess water from barley and transfer to a large bowl; stir in 2 tablespoons olive oil.",
+        "Heat remaining 1 tablespoon olive oil in a large skillet over medium heat. Add corn; cook and stir until slightly softened, about 2 minutes. Stir in tomatoes and scallions; cook until scallions are wilted, about 2 minutes.",
+        "Mix corn mixture into barley in the bowl. Stir in mixed greens, lemon juice, and lemon zest. Season salad with salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3851685.jpg",
+    "ingredients": [
+        "3 cups water",
+        "1 cup barley",
+        "3 tablespoons extra-virgin olive oil, divided",
+        "1 1/2 cups corn kernels",
+        "1 cup cherry tomatoes, halved",
+        "2 scallions, sliced",
+        "2 cups mixed greens",
+        "1 lemon, juiced",
+        "1 teaspoon lemon zest",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barley Corn Salad",
     "url": "http://allrecipes.com/recipe/254769/barley-corn-salad/"
 }

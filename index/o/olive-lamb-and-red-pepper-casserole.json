@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C). Line a baking sheet with aluminum foil. Poke holes in the skin of the squash, and place onto the baking sheet cut-side down. Bake in the preheated oven until soft, about 1 hour. Turn the squash cut-side up, and allow to cool until cool enough to handle, about 30 minutes.",
+        "Heat 1 tablespoon of olive oil in a skillet over medium-high heat. Stir in the ground lamb, and cook until browned and crumbly, about 7 minutes. Once browned, remove the lamb from the skillet and set aside. Heat the remaining 1 tablespoon of olive oil in the skillet over medium heat. Stir in the onion and bell peppers, and cook until the onion has softened and turned translucent, about 5 minutes. Stir in the garlic, basil, rosemary, and oregano. Season to taste with salt and pepper (remember that the ricotta salata is very salty). Continue cooking and stirring until the flavor of the garlic has mellowed, about 3 minutes more.",
+        "Scrape the flesh of the warm spaghetti squash into a large bowl. Separate the strands of the squash with a fork, and season with salt and pepper to taste. Place half of the squash into a 9x13 inch baking dish. Evenly spread with half of the lamb, half of the red pepper mixture, half of the olives, sprinkle with half of the cheese, and spread with half of the tomato sauce. Repeat the layers using the remaining squash, lamb, red pepper mixture, olives, cheese, and tomato sauce.",
+        "Bake the casserole in the preheated oven until hot and bubbly, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (2 pound) spaghetti squash, halved and seeded",
+        "1 tablespoon olive oil",
+        "1 pound ground lamb",
+        "1 tablespoon olive oil",
+        "1/2 small chopped red onion",
+        "2 red bell peppers, seeded and diced",
+        "5 cloves garlic, chopped",
+        "1 tablespoon dried basil",
+        "1 tablespoon chopped fresh rosemary",
+        "1 teaspoon dried oregano",
+        "salt and pepper to taste",
+        "12 ounces ricotta salata cheese, crumbled",
+        "12 pimento-stuffed green olives, sliced",
+        "1 (15 ounce) can tomato sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Olive, Lamb, and Red Pepper Casserole",
     "url": "http://allrecipes.com/recipe/159535/olive-lamb-and-red-pepper-casserole/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Lightly grease 10 muffin cups.",
+        "Place bacon in a large, deep skillet. Cook over medium high heat until crisp and evenly brown. Drain, crumble, and set aside.",
+        "Place the cream cheese, milk, and eggs in a medium bowl, and beat until smooth with an electric mixer set on Low. Stir in Swiss cheese and green onion, and set aside.",
+        "Separate dough into 10 biscuits. Press into the bottom and sides of each muffin cup, forming 1/4 inch rims. Sprinkle half of the bacon into the bottoms of the dough-lined muffin cups. Spoon about 2 tablespoons of the cream cheese mixture into each cup.",
+        "Bake 20 to 25 minutes in the preheated oven, until filling is set and rims of the tarts are golden brown. Sprinkle with the remaining bacon, and lightly press into the filling. Remove from pan, and serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4274736.jpg",
+    "ingredients": [
+        "5 slices bacon",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 tablespoons milk",
+        "2  eggs",
+        "\u00bd cup shredded Swiss cheese",
+        "2 tablespoons chopped green onion",
+        "1 (10 ounce) can refrigerated flaky biscuit dough"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bacon Quiche Tarts",
     "url": "http://allrecipes.com/recipe/23788/bacon-quiche-tarts/"
 }

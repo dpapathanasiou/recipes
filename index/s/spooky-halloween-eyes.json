@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place each egg, cut-side down, into a muffin cup paper liner.",
+        "Spoon mayonnaise into a plastic resealable bag; snip 1 of the bottom corners of the bag. Pipe mayonnaise through the opening around the base of each egg half.",
+        "Portion red food coloring into a small bowl, blue food coloring into a second small bowl, and black food coloring into a third small bowl. Dip a clean and sterile small-tip paintbrush into the red food coloring and paint small lines onto each egg to represent 'veins', making sure to get a little of the red food coloring into the mayonnaise.",
+        "Rinse brush and make a blue circle on the top middle of each egg to represent the 'iris'. Rinse brush and paint a black ring around the iris and put a dot of black in the middle of the iris for the 'pupil'."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1059553.jpg",
+    "ingredients": [
+        "12  hard-boiled eggs, peeled and halved",
+        "\u00bc cup mayonnaise, or as needed",
+        "1 teaspoon red food coloring, or as needed",
+        "1 teaspoon blue food coloring, or as needed",
+        "1 teaspoon black food coloring, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spooky Halloween Eyes",
     "url": "http://allrecipes.com/recipe/234400/spooky-halloween-eyes/"
 }

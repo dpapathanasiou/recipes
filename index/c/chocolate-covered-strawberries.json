@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a double boiler, melt the chocolate and shortening, stirring occasionally until smooth. Holding them by the toothpicks, dip the strawberries into the chocolate mixture.",
+        "Insert toothpicks into the tops of the strawberries.",
+        "Turn the strawberries upside down and insert the toothpick into styrofoam for the chocolate to cool."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/845742.jpg",
+    "ingredients": [
+        "16 ounces milk chocolate chips",
+        "2 tablespoons shortening",
+        "1 pound fresh strawberries with leaves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Covered Strawberries",
     "url": "http://allrecipes.com/recipe/21712/chocolate-covered-strawberries/"
 }

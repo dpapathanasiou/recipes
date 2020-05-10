@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Make deep cuts into the brisket with a paring knife. Place cloves all the way into the cuts. Liberally sprinkle brisket with Greek seasoning.",
+        "Place mesquite wood over gray/hot charcoals.",
+        "Put brisket fat side down on the grill. Smoke for 2 hours and do not turn the meat.",
+        "Take the meat out and wrap tightly 2 times in extra heavy aluminum foil. Put in the oven for 2 hours on a cookie sheet at 250 degrees F.",
+        "Remove from oven and let sit (still wrapped in foil) 30 minutes to 1 hour before serving to let the meat \"firm up\" and the juice to be absorbed."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7233954.jpg",
+    "ingredients": [
+        "8 pounds beef brisket",
+        "15 cloves garlic, peeled",
+        "\u00bc cup Greek-style seasoning"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "David's Mesquite Smoked Texas Brisket",
     "url": "http://allrecipes.com/recipe/23926/davids-mesquite-smoked-texas-brisket/"
 }

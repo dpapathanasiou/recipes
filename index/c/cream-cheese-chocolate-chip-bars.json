@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 300 degrees F (150 degrees C). Grease a 9x13 inch pan.",
+        "In a medium bowl, mix together the cake mix, 1 egg and butter until well blended. The batter will be stiff. Crumble and press into the prepared pan. Sprinkle chocolate chips evenly over, and press them into the crust slightly.",
+        "For the topping, beat the cream cheese, confectioners' sugar, 3 eggs and vanilla in a medium bowl using an electric mixer until light and fluffy. Spread over the chocolate chip layer.",
+        "Bake for 45 to 50 minutes, or until golden brown. Cool completely before cutting into squares."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F778179.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package yellow cake mix",
+        "1  egg, beaten",
+        "\u00bd cup butter, softened",
+        "2 cups semisweet chocolate chips",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (16 ounce) package confectioners' sugar",
+        "3  eggs, beaten",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cream Cheese Chocolate Chip Bars",
     "url": "http://allrecipes.com/recipe/25793/cream-cheese-chocolate-chip-bars/"
 }

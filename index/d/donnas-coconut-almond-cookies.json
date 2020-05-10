@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper.",
+        "Beat butter, shortening, and sugar in a bowl until creamy. Mix almond and vanilla extracts and salt into creamed mixture. Gradually beat in flour until smooth. Stir coconut into dough.",
+        "Scoop up dough by heaping tablespoonfuls, roll into balls, and arrange about 2 inches apart on prepared baking sheets. Dip the bottom of a glass in flour and press cookies 1/4 inch thick.",
+        "Bake in the preheated oven until lightly browned, about 10 minutes. Let cool on baking sheets for 2 or 3 minutes before removing cookies.",
+        "While cookies are baking, heat half the chocolate chips in a small bowl in a microwave oven for 30 seconds; stir. Repeat steps, heating and stirring until chocolate chips are melted, smooth, and warm. Place remaining chocolate chips into melted chocolate and continue heating and stirring until all chips are melted and just warm. Transfer melted chocolate to a resealable plastic sandwich bag. Snip a small corner off the bag with a scissors.",
+        "Hold the bag like a pastry bag and squeeze a thin line of melted chocolate onto warm cookies in a zigzag pattern. Transfer cookies to cooling racks to let the chocolate harden, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1096005.jpg",
+    "ingredients": [
+        "\u00bd cup butter, softened",
+        "\u00bd cup shortening",
+        "\u00be cup white sugar",
+        "1 teaspoon almond extract",
+        "1 teaspoon vanilla extract",
+        "\u00bc teaspoon salt",
+        "2\u2009\u00bc cups all-purpose flour",
+        "1 cup sweetened flaked coconut",
+        "1 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Donna's Coconut Almond Cookies",
     "url": "http://allrecipes.com/recipe/232398/donnas-coconut-almond-cookies/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Beat butter and shortening with an electric mixer on high for 30 seconds.  Add sugar and lemon peel; beat until combined.  Beat in milk.",
+        "Beat in as much flour as you can, stir in remaining flour.  Drop dough by rounded teaspoons 2 inches apart onto ungreased cookie sheets.",
+        "Bake for about 10 minutes or till edges are lightly browned.  Cool on wire racks.  Frost with Lemon Cream Cheese Frosting. Store, covered, in the refrigerator."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=600&h=314&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F12995.jpg",
+    "ingredients": [
+        "\u00bd cup butter",
+        "\u00bd cup shortening",
+        "\u00be cup white sugar",
+        "1 tablespoon lemon zest",
+        "\u2153 cup milk",
+        "2 cups all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Drops",
     "url": "http://allrecipes.com/recipe/10146/lemon-drops/"
 }

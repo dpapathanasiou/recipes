@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a 4 quart saucepan over medium heat, cook ground beef, green pepper, onion, chili powder and garlic, until beef is browned and vegetables are tender.  Drain  fat off of beef/vegetable mixture.",
+        "Add undrained kidney beans, tomato soup, vinegar and cinnamon to soup, and bring to a boil.  Simmer for 15 minutes, stirring occasionally. Heat through.",
+        "Serve with sprinkled cheese on top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=829&h=434&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1000766.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 cup chopped green bell pepper",
+        "\u00bd cup chopped onion",
+        "3 tablespoons chili powder",
+        "2 cloves garlic, minced",
+        "2 (10.75 ounce) cans condensed tomato soup",
+        "1 (15 ounce) can kidney beans",
+        "1 tablespoon distilled white vinegar",
+        "\u00bc teaspoon ground cinnamon",
+        "\u00bc cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cincinnati Chili II",
     "url": "http://allrecipes.com/recipe/13320/cincinnati-chili-ii/"
 }

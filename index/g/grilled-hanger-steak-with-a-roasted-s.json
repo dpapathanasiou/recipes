@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lightly cover the steaks with canola oil and season generously with salt and pepper; cover and place in refrigerator until ready to grill.",
+        "Preheat an outdoor grill for medium-high heat, and lightly oil the grate. Place a sheet of aluminum foil on about 1/3 of the grill surface.",
+        "Bring a large pot of generously salted water to a boil. Cook the green beans in the boiling water until heated through yet still firm, 5 to 7 minutes. Drain. Transfer to a large bowl. Add the garlic and 1/4 cup of canola oil to the green beans and toss to coat. Season with salt and pepper; set aside.",
+        "Stir the water, sugar, and shallots together in a saucepan until the sugar dissolves; cover the pan and bring the mixture to a boil. Drain the liquid and return the shallots to the pan. Add the port wine and demi glace to the saucepan and place over medium heat; cook until the liquid reduces to about half its original volume. Stir the butter into the mixture until it melts. Remove the pan from the heat. Season with salt as needed. Keep the saucepan covered until the steaks are prepared.",
+        "Spread the green beans onto the part of the grill prepared with aluminum foil and allow to finish cooking while grilling the steaks.",
+        "Cook the steaks until they start to firm, and are reddish-pink and juicy in the center, about 2 minutes per side. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C). Allow the steaks to rest 5 minutes before placing onto individual plates. Spoon the sauce over the steaks. Serve the green beans on the side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/783096.jpg",
+    "ingredients": [
+        "4 (6 ounce) hanger steaks - fat and silver skin trimmed",
+        "1 1/2 tablespoons canola oil",
+        "salt and pepper to taste",
+        "1 pound fresh green beans, trimmed",
+        "2 cloves garlic, minced",
+        "1/4 cup canola oil",
+        "1 pinch salt and pepper to taste",
+        "1 cup water",
+        "1/4 cup white sugar",
+        "4 whole shallots",
+        "3 fluid ounces port wine",
+        "1 cup demi glace",
+        "1/2 cup butter, room temperature"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Hanger Steak with a Roasted Shallot Port Demi Sauce and Grilled Garlic Green Beans",
     "url": "http://allrecipes.com/recipe/179149/grilled-hanger-steak-with-a-roasted-s/"
 }

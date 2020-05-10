@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place the potatoes and water to cover in a large pot over high heat. Boil for 15 minutes. Meanwhile, brown the ground beef in a large skillet over medium high heat; drain excess fat.",
+        "To the ground beef, add the tomato sauce, parsley, Worcestershire sauce to taste, salt, ground black pepper and green beans. In a separate small bowl, mix the flour with the 3 tablespoons water and stir into the beef mixture.",
+        "Stir all together well. Drain the potatoes, mash and spread over the beef mixture Place 2 to 3 vent holes through the mashed potatoes.",
+        "Bake at 350 degrees F (175 degrees C) for 25 minutes. Brush the milk over the potatoes for the last 5 minutes of baking."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F496048.jpg",
+    "ingredients": [
+        "9  potatoes - peeled and cubed",
+        "1\u2009\u00bd pounds ground beef",
+        "1 (6 ounce) can tomato sauce",
+        "2 tablespoons chopped fresh parsley",
+        "1 dash Worcestershire sauce",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "2 (15 ounce) cans green beans, drained",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mom's Shepherd's Pie",
     "url": "http://allrecipes.com/recipe/16885/moms-shepherds-pie/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C).",
+        "In a large bowl, stir together the flour, sugar, baking soda, salt, nutmeg and cinnamon. Cut in the shortening, until the mixture appears mealy. Stir in the egg, mashed banana and oatmeal until well blended. Drop by rounded spoonfuls onto an unprepared cookie sheet.",
+        "Bake for 8 to 10 minutes in the preheated oven. Remove from baking sheet to cool on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3888&h=2036&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F336188.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "1 cup white sugar",
+        "\u00bd teaspoon baking soda",
+        "1 teaspoon salt",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00be teaspoon ground cinnamon",
+        "\u00be cup shortening",
+        "1  egg, beaten",
+        "1  banana",
+        "1\u2009\u00be cups rolled oats"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Oatmeal Cookies",
     "url": "http://allrecipes.com/recipe/17233/spicy-oatmeal-cookies/"
 }

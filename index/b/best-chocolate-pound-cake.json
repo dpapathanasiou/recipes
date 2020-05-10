@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 10 inch tube pan.",
+        "Cream shortening and butter until light and fluffy, gradually adding sugar. Beat well at medium speed of an electric mixer. Add egg yolks, one at a time, beating after each addition.",
+        "Sift flour, baking powder, salt, cocoa and cinnamon together.  Add to creamed mixture alternately with milk, beginning and ending with flour mixture.  Mix just until blended after each addition.  Stir in vanilla and almond extracts.",
+        "In a clean bowl, beat egg whites until stiff peaks form.  Fold carefully into cake batter, mixing only until no streaks remain.  Pour batter into a greased and floured 10 inch tube pan.",
+        "Bake at 350 degrees F (175 degrees C) for 1 hour and 15 minutes, or until a toothpick inserted in center comes out clean.  Cool in pan 10 minutes, remove from pan, and let cool completely on a wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1762&h=923&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3726204.jpg",
+    "ingredients": [
+        "\u00bd cup shortening",
+        "1 cup butter, softened",
+        "3 cups white sugar",
+        "5  egg yolks",
+        "5  egg whites",
+        "3 cups all-purpose flour",
+        "\u00bd teaspoon baking powder",
+        "\u00bd teaspoon salt",
+        "\u00bd cup unsweetened cocoa powder",
+        "\u00bd teaspoon ground cinnamon",
+        "1\u2009\u00bc cups milk",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon almond extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Chocolate Pound Cake",
     "url": "http://allrecipes.com/recipe/8391/best-chocolate-pound-cake/"
 }

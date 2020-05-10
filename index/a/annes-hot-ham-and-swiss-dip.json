@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a slow cooker, combine the ham, cream cheese, cream of mushroom soup and cream of celery soup. Stir in the Swiss cheese. Cover, and cook on Low until cheese is melted, about 2 hours, stirring occasionally. Serve on cocktail rye slices."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1704&h=892&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2034181.jpg",
+    "ingredients": [
+        "1 pound thinly sliced deli ham, sliced into thin strips",
+        "1 (8 ounce) package cream cheese, cut into cubes",
+        "1 (10.75 ounce) can condensed cream of mushroom soup, undiluted",
+        "1 (10.75 ounce) can condensed cream of celery soup, undiluted",
+        "2 cups shredded Swiss cheese",
+        "2 (1 pound) loaves cocktail rye bread"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Anne's Hot Ham and Swiss Dip",
     "url": "http://allrecipes.com/recipe/80438/annes-hot-ham-and-swiss-dip/"
 }

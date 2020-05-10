@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F. Melt the butter and unsweetened chocolate over low heat in a medium saucepan, stirring constantly. Remove from heat; cool slightly.",
+        "Stir the sugar into the cooled chocolate mixture in saucepan. Add the eggs, one at a time, beating with a wooden spoon just until combined. Stir in the vanilla.",
+        "Stir together the flour and baking soda in a small mixing bowl. Add the flour mixture to the chocolate mixture; stir just until combined. Press one-half of the cookie dough into an 8x8-inch Reynolds(R) Bakeware Pan. Spread brownie batter evenly over cookie dough. Crumble remaining cookie dough and sprinkle evenly over brownie batter. Press down slightly.",
+        "Bake 50 to 55 minutes or until edges are firm are starting to pull away from sides of the pan. Cool on a wire rack. Cut into bars."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4420249.jpg",
+    "ingredients": [
+        "1/2 cup butter",
+        "3 ounces unsweetened chocolate, coarsely chopped",
+        "1 cup sugar",
+        "2 eggs",
+        "1 tablespoon vanilla",
+        "2/3 cup all-purpose flour",
+        "1/4 teaspoon baking soda",
+        "1 (16.5 ounce) package purchased refrigerated cookie dough",
+        "1 Reynolds\u00ae Bakeware Pan"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Chip Cookie Brownies",
     "url": "http://allrecipes.com/recipe/238747/chocolate-chip-cookie-brownies/"
 }

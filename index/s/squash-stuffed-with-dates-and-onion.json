@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Cook and stir bacon in a large skillet over medium-high heat until evenly browned, about 10 minutes. Use a slotted spoon to remove bacon and discard most of the drippings, leaving about 2 teaspoons bacon drippings in the skillet. Drain bacon on paper towels. Cook and stir onion in the hot drippings until translucent, about 5 minutes.",
+        "Stir cooked bacon, dates, oregano, and basil into onion; add chicken stock to thin the filling.",
+        "Cut the top and stem from the squash, jack o'lantern-style, and scoop out seeds and stringy pulp. Cut out and discard small button at the bottom of the squash. Stuff the date filling into the cavity and replace the top. Set squash into a baking dish, pour in 1/2 inch of water, and cover with aluminum foil.",
+        "Bake in the preheated oven until squash is tender, 40 minutes to 1 hour. Test for doneness by removing top and inserting a thin, sharp knife into the flesh at the bottom. Slice squash into wedges to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4128&h=2161&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1447571.jpg",
+    "ingredients": [
+        "2 slices bacon, chopped",
+        "1  onion, chopped",
+        "\u2154 cup chopped dates",
+        "\u00bd teaspoon dried oregano",
+        "\u00bd teaspoon dried basil",
+        "2 tablespoons chicken stock",
+        "1  butternut squash"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Squash Stuffed With Dates and Onion",
     "url": "http://allrecipes.com/recipe/229963/squash-stuffed-with-dates-and-onion/"
 }

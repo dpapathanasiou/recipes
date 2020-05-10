@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Brown onion and ground beef in a large skillet over medium high heat; drain extra fat out of skillet, then stir in drained sauerkraut. Heat through and set aside.",
+        "Press 1 package of crescent roll dough into the bottom of a lightly greased 9x13 inch baking dish. Spread beef mixture on top, then lay 2nd package of crescent roll dough over the top of the beef mixture. Press dough seams together and sprinkle all with cheese.",
+        "Bake in preheated oven for 25 to 30 minutes, or until golden brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F682824.jpg",
+    "ingredients": [
+        "\u00bd cup chopped onion",
+        "1\u2009\u00bd pounds lean ground beef",
+        "1 (16 ounce) can sauerkraut, drained and pressed dry",
+        "2 (8 ounce) cans refrigerated crescent rolls",
+        "1 (8 ounce) package shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bierock Casserole",
     "url": "http://allrecipes.com/recipe/23070/bierock-casserole/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare rice according to package directions. Preheat oven to 400 degrees F (200 degrees C).",
+        "While rice cooks, saute bacon pieces in a 10-inch oven proof skillet over medium heat until starting to crisp, about 5 minutes. Drain off all but 1 tablespoon bacon fat, then add the scallion whites and edamame (or if desired, use 1 cup frozen green peas) to the bacon in the pan and saute one minute.",
+        "Add the cooked rice, and saute one minute. Whisk together the eggs, 1/2 cup sour cream, and the salt, and add to the pan, swirling gently to distribute the egg mixture evenly throughout the other ingredients. Cook undisturbed for 2-3 minutes, until edges look set then place the pan in the preheated oven until set in the center, about 10 minutes further.",
+        "Mix together the scallion greens with the remaining 1/2 cup sour cream, and serve frittata in wedges topped with a dollop of the scallion cream."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/987961.jpg",
+    "ingredients": [
+        "1 cup Minute\u00ae Brown Rice",
+        "4 thick cut bacon slices, cut into 1/2-inch pieces",
+        "4 scallions, thinly sliced (whites and greens divided)",
+        "1 cup frozen, shelled edamame",
+        "6 eggs",
+        "3/4 cup sour cream, divided",
+        "1/2 teaspoon kosher salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Brown Rice Frittata with Bacon and Edamame",
     "url": "http://allrecipes.com/recipe/229435/brown-rice-frittata-with-bacon-and-ed/"
 }

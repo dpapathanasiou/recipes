@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes, onions, celery, carrots, and cauliflower in a food processor; puree until smooth. Combine the vegetable mixture, water, bouillon cubes, Worcestershire sauce, pepper, and garlic in a large pot over medium heat. Cook until the the liquid reduces to about 1/2 its original volume, about 90 minutes. Add the processed cheese, Parmesan cheese, Cheddar-Monterey Jack cheese, and beer; heat until the cheese is completely melted. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6671779.jpg",
+    "ingredients": [
+        "2  potatoes, chopped",
+        "2  onions, chopped",
+        "3  celery ribs, chopped",
+        "1\u2009\u00bd cups baby carrots",
+        "2 cups cauliflower florets",
+        "6 cups water",
+        "6  chicken bouillon cubes",
+        "1 teaspoon Worcestershire sauce",
+        "\u00bd teaspoon ground black pepper",
+        "1 clove garlic, minced",
+        "1 (16 ounce) package processed cheese",
+        "\u2154 cup Parmesan cheese",
+        "\u2154 cup shredded Cheddar-Monterey Jack cheese blend",
+        "1 (12 fluid ounce) bottle dark beer"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dark Beer Cheese Soup",
     "url": "http://allrecipes.com/recipe/99705/dark-beer-cheese-soup/"
 }

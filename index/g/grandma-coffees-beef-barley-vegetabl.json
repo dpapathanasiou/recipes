@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the beef, water, and bay leaf in a large soup pot over medium heat, and cook until the beef is very tender, about 1 hour. Stir in the tomatoes, carrots, celery, rutabaga, onion, and pearl barley, and simmer until the vegetables are tender, about 30 minutes. Add the frozen white corn, green beans, and lima beans, season to taste, and simmer an additional 15 to 20 minutes, until the frozen vegetables are tender. Add more water if the soup is too thick."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7566826.jpg",
+    "ingredients": [
+        "1 pound beef stew meat, cut into bite-size pieces",
+        "6 cups water, plus more if desired",
+        "1 bay leaf",
+        "2 (14.5 ounce) cans canned diced tomatoes with their juice",
+        "4 carrots, cut into 1/4 inch rounds",
+        "4 stalks celery, cut into bite-size pieces",
+        "1 rutabaga, peeled and cut into bite-size pieces",
+        "1 large sweet onion, chopped",
+        "1/2 cup uncooked pearl barley",
+        "1 (10 ounce) package frozen white corn",
+        "1 (10 ounce) package frozen cut green beans",
+        "1 (10 ounce) package frozen baby lima beans (optional)",
+        "seasoned salt (such as Morton\u00ae Nature's Seasons\u00ae Seasoning Blend) to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Coffee's Beef Barley Vegetable Soup",
     "url": "http://allrecipes.com/recipe/211522/grandma-coffees-beef-barley-vegetabl/"
 }

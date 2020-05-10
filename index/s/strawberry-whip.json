@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine gelatin with 2 cups boiling water; mix well. When dissolved, add 2 cups cold water, mix and refrigerate.",
+        "Before gelatin is completely firm, stir in strawberries and thawed whipped topping. Refrigerate until  completely chilled."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6169943.jpg",
+    "ingredients": [
+        "2 (6 ounce) packages strawberry flavored Jell-O\u00ae",
+        "4 cups water",
+        "1 cup frozen strawberries, thawed",
+        "1 (8 ounce) container frozen whipped topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Strawberry Whip",
     "url": "http://allrecipes.com/recipe/14313/strawberry-whip/"
 }

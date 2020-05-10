@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Slice cucumber halves lengthwise with a mandoline or knife into 1/8 inch thick long slices",
+        "Mix chicken, Neufchatel cheese, mayonnaise, green onions, tomato, red pepper flakes, and garlic salt together until well blended.",
+        "Lay cucumber slices flat on a work surface. Spoon two teaspoons chicken mixture on bottom (flat) edge of each slice; roll up. Secure with toothpicks and place rolls upright like cups on a serving plate. Push a Snack Factory\u00ae Pretzel Crisp\u00ae about halfway down into the chicken mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1933&h=1012&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3707122.jpg",
+    "ingredients": [
+        "1  English cucumber, halved lengthwise",
+        "1 (12.5 fl oz) can chicken breast, drained and flaked",
+        "4 ounces Neufchatel cheese, softened",
+        "1 tablespoon light mayonnaise",
+        "2  green onions, finely chopped",
+        "1  roma (plum) tomatoes, chopped",
+        "\u00bd teaspoon red pepper flakes, or to taste",
+        "\u00bc teaspoon garlic salt",
+        "1 (7.2 ounce) package Original Snack Factory\u00ae Pretzel Crisps\u00ae"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cucumber Chicken Roll-ups",
     "url": "http://allrecipes.com/recipe/247420/cucumber-chicken-roll-ups/"
 }

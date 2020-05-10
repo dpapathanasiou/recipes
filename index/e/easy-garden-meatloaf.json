@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Mix ground beef, eggs, bread crumbs, salt, and black pepper together in a large bowl. Add green bell pepper, red bell pepper, yellow bell pepper, and onion; mix. Spread the beef mixture into a 13x9-inch glass baking dish.",
+        "Make a trough in the middle of the meat mixture. Put 3/4 of the Cheddar cheese and half the tomato sauce into the trough. Fold the beef mixture around the cheese and sauce filling to form a loaf, pinching to seal. Loosely cover the meat loaf with aluminum foil.",
+        "Bake in preheated oven until the beef is cooked through and the cheese in the middle is melted, about 45 minutes. Remove and discard aluminum foil. Top meat loaf with remaining Cheddar cheese and tomato sauce. Continue baking until the cheese melts, about 15 minutes. Rest meat loaf 10 to 15 minutes before slicing to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1045413.jpg",
+    "ingredients": [
+        "2\u2009\u00bd pounds ground beef",
+        "2  eggs",
+        "\u00bd cup Italian seasoned bread crumbs",
+        "1 teaspoon salt",
+        "1 teaspoon fresh cracked black pepper",
+        "1  green bell pepper, chopped",
+        "1  red bell pepper, chopped",
+        "1  yellow bell pepper, chopped",
+        "1  Spanish sweet onion, chopped",
+        "1 (16 ounce) package shredded Cheddar cheese, divided",
+        "1 (8 ounce) can tomato sauce, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Garden Meatloaf",
     "url": "http://allrecipes.com/recipe/232527/easy-garden-meatloaf/"
 }

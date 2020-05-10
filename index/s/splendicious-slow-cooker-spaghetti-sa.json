@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix together the crushed tomatoes, tomato sauce, stewed tomatoes,  1 cup of red wine, green olives, 4 teaspoons of sea salt, basil, oregano, paprika, and cayenne pepper in a slow cooker. Set the cooker to Low.",
+        "While the cooker is warming up, place 3 tablespoons of olive oil in a skillet over medium heat, and cook 3/4 cup of sweet onion until the onion just begins to soften, about 2 minutes; stir in 1 clove of garlic. Cook the mixture for 3 more minutes before mixing in parsley and mushrooms. Reduce heat, and simmer the mixture for about 10 minutes. Stir in the brown sugar, and mix to dissolve.",
+        "While the parsley and mushrooms are simmering, heat 3 more tablespoons of olive oil in a skillet over medium heat, and stir in the remaining onion and the sausage. Brown the sausage, breaking the meat up into crumbles as it cooks, about 10 minutes; season the mixture with white pepper and cumin. Pour 1 cup of red into the skillet, and scrape the pan with a wooden spoon to dissolve any brown flavor bits into the wine. Simmer for about 10 minutes; pour the sausage mixture into the skillet with the parsley and mushrooms. Bring to a simmer over medium-low heat just until all the ingredients have had time to introduce themselves to each other, about 10 minutes. Pour the sausage mixture into the slow cooker.",
+        "Cook on Low for 8 hours to overnight. Add more red wine or water if needed to prevent the sauce from getting too thick and burning on the bottom."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/657860.jpg",
+    "ingredients": [
+        "1 (28 ounce) can crushed tomatoes",
+        "1 (15 ounce) can tomato sauce",
+        "3 (14.5 ounce) cans stewed tomatoes",
+        "1 cup red wine",
+        "1 cup sliced green olives",
+        "4 teaspoons sea salt",
+        "2 tablespoons dried basil",
+        "2 teaspoons dried oregano",
+        "1/2 teaspoon Hungarian paprika",
+        "1/2 teaspoon cayenne pepper",
+        "3 tablespoons olive oil",
+        "1 cup finely chopped sweet onion, divided",
+        "1 clove garlic, crushed and chopped",
+        "2/3 cup chopped fresh parsley",
+        "2/3 cup sliced fresh mushrooms",
+        "1 teaspoon brown sugar",
+        "3 tablespoons olive oil",
+        "3 (4 ounce) links Italian sausage links, casings removed",
+        "2 cloves garlic, crushed and chopped",
+        "1 teaspoon ground white pepper",
+        "1/2 teaspoon ground cumin",
+        "1 cup red wine, or more if needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Splendicious Slow Cooker Spaghetti Sauce",
     "url": "http://allrecipes.com/recipe/216335/splendicious-slow-cooker-spaghetti-sa/"
 }

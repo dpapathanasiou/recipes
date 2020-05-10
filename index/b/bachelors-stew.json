@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine bread crumbs with salt and pepper and toss with beef.  Place coated beef cubes into a slow cooker and add onion, carrots, celery, basil, tapioca, mushrooms, soy sauce, tomato soup and broth.  Stir well, cover and cook on low for 10 to 12 hours, or on high for 3 to 5 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1441&h=754&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4564495.jpg",
+    "ingredients": [
+        "2 pounds lean beef chuck, trimmed and cut into 1 inch cubes",
+        "\u2153 cup dried bread crumbs",
+        "1 teaspoon salt",
+        "\u215b teaspoon ground black pepper",
+        "1  yellow onion",
+        "3  carrots, cut into thick strips",
+        "4 stalks celery, chopped",
+        "1 teaspoon dried basil",
+        "\u2153 cup quick-cooking tapioca",
+        "1 (4.5 ounce) can sliced mushrooms",
+        "1 teaspoon soy sauce",
+        "2 (10.75 ounce) cans condensed tomato soup",
+        "1 cup beef broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bachelor's Stew",
     "url": "http://allrecipes.com/recipe/13297/bachelors-stew/"
 }

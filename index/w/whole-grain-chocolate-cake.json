@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch round cake pan; line with parchment paper.",
+        "Whisk coconut sugar, oat flour, spelt flour, cocoa powder, baking soda, and salt together in a bowl. Pour in buttermilk, coconut oil, and vanilla extract; whisk until batter is well blended.",
+        "Pour batter into the prepared pan; smooth top with a rubber spatula.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes. Cool in the pan for 5 minutes. Invert onto a wire rack to cool completely, about 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1024&h=536&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4382330.jpg",
+    "ingredients": [
+        "1 cup coconut sugar",
+        "1 cup oat flour",
+        "\u00bd cup spelt flour",
+        "\u00bd cup unsweetened cocoa powder",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "1 cup buttermilk",
+        "\u00bd cup coconut oil, melted",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Whole-Grain Chocolate Cake",
     "url": "http://allrecipes.com/recipe/256615/whole-grain-chocolate-cake/"
 }

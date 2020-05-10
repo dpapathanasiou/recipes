@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine red pepper flakes, seafood seasoning, garlic powder, salt, and pepper in a bowl. Spread corn meal into a shallow bowl. Season swai fish with red pepper flake mixture and press each fillet into cornmeal to coat. Wrap coated fillets in plastic wrap and refrigerate for 30 minutes.",
+        "Heat oil in a skillet over medium heat. Unwrap fish and place in the hot oil; cook until browned, about 5 minutes per side. Add water, bring to a simmer, cover, and cook, flipping occasionally, until fish flakes easily with a fork, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4532685.jpg",
+    "ingredients": [
+        "2 teaspoons red pepper flakes",
+        "1 teaspoon seafood seasoning (such as Old Bay\u00ae)",
+        "1 teaspoon garlic powder",
+        "salt and ground black pepper to taste",
+        "1 cup cornmeal",
+        "4 (4 ounce) fillets swai fish",
+        "2 tablespoons canola oil",
+        "1/4 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pan-Fried Swai Fillets",
     "url": "http://allrecipes.com/recipe/242327/pan-fried-swai-fillets/"
 }

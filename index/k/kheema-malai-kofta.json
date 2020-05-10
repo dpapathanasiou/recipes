@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the ground beef, egg, green chile peppers, bread crumbs, ginger, garlic, garam masala, and salt together in a large bowl until evenly mixed. Shape the mixture into balls (koftas) about the size of limes.",
+        "Heat 1 1/2 cups oil in a large, deep skillet or large saucepan to 375 degrees F (190 degrees C). Fry the koftas in the hot oil until browned and crispy on all sides, 10 to 15 minutes.",
+        "To make the gravy, heat 2 tablespoons oil in a deep saucepan over medium heat. Fry the garlic, ginger, red chili powder, garam masala, fennel seed, and salt in the hot oil for 1 to 2 minutes; stir the pureed tomatoes into the mixture and cook until the tomatoes are deep red in color, about 10 minutes. Add the water, fenugreek leaves, and the koftas to the mixture and simmer until thoroughly reheated, another 10 minutes. Pour the cream into the mixture and cook another 2 to 3 minutes. Garnish with cilantro to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1324&h=693&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1468168.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1  egg, beaten",
+        "4  green chile peppers, minced",
+        "\u2153 cup dry bread crumbs",
+        "1 tablespoon minced fresh ginger root",
+        "2 teaspoons minced garlic",
+        "1 teaspoon garam masala",
+        "salt to taste",
+        "1\u2009\u00bd cups cooking oil for deep-frying",
+        "2 tablespoons cooking oil",
+        "3 cloves garlic, minced",
+        "1 tablespoon minced fresh ginger root",
+        "1 teaspoon white sugar",
+        "1 teaspoon Kashmiri red chili powder",
+        "\u00bd teaspoon garam masala",
+        "\u00bd teaspoon ground fennel seed (sanuf)",
+        "salt to taste",
+        "1 (28 ounce) can tomato puree",
+        "\u00bd cup water",
+        "1 tablespoon dried fenugreek leaves (kasoori methi)",
+        "\u00bc cup cream",
+        "2 tablespoons chopped fresh cilantro, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kheema Malai Kofta",
     "url": "http://allrecipes.com/recipe/210530/kheema-malai-kofta/"
 }

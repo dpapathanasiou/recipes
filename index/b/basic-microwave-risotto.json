@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a 3 quart, microwave safe casserole dish combine butter, garlic and onion. Place dish in microwave and cook on high for 3 minutes.",
+        "Place vegetable broth in a microwave safe dish. Heat on microwave until the broth is hot but not boiling (approximately 2 minutes).",
+        "Stir the rice and broth into the casserole dish with the onion, butter and garlic mixture. Cover the dish tightly and cook on high for 6 minutes.",
+        "Stir wine into the rice. Cook on high for 10 minutes more. Most of the liquid should boil off. Stir the cheese into the rice and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3437373.jpg",
+    "ingredients": [
+        "3 tablespoons butter",
+        "1 clove garlic, minced",
+        "1 onion, chopped",
+        "1 1/2 cups vegetable broth",
+        "1 cup uncooked Arborio rice",
+        "3/4 cup white wine",
+        "1/4 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Microwave Risotto",
     "url": "http://allrecipes.com/recipe/14134/basic-microwave-risotto/"
 }

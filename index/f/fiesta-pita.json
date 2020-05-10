@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Warm the pita in a toaster oven until fragrant, 1 or 2 minutes; cut in half and open up each half. Heat the beans in a small saucepan over medium heat until hot, and mix in the avocado. Divide the bean mixture in half, and fill each half of the pita with half the bean mixture. Top each pita with 1 tablespoon of feta cheese, and add a dash of hot sauce and a teaspoon of chopped fresh cilantro to each."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F856029.jpg",
+    "ingredients": [
+        "1 (6 inch) whole wheat pita bread",
+        "\u00bd cup vegetarian refried beans",
+        "\u00bc  avocado - peeled, pitted and diced",
+        "2 tablespoons fresh salsa, or to taste",
+        "2 tablespoons crumbled feta cheese, divided",
+        "hot sauce to taste",
+        "2 teaspoons chopped fresh cilantro, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fiesta Pita",
     "url": "http://allrecipes.com/recipe/216916/fiesta-pita/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lightly beat egg with a fork, then add a heaping tablespoon of the soup and mix lightly. Mix in rice, onion, parsley, onion salt and pepper. Stir in the ground beef and mix well with hands. From mixture into 1 1/2 inch round meatballs.",
+        "Coat a large skillet over medium heat with cooking spray. Cook meatballs and brown on all sides.",
+        "Combine remaining soup with Worcestershire (you can increase or decrease Worcestershire to your liking), stir until smooth, then spoon over meatballs. Cover with lid and simmer for 20 to 30 minutes, stirring every few minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3120&h=1634&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4472003.jpg",
+    "ingredients": [
+        "1  egg",
+        "2 (10.75 ounce) cans condensed tomato soup",
+        "\u00bc cup instant rice",
+        "\u00bc cup chopped onion",
+        "1 tablespoon chopped fresh parsley",
+        "1 teaspoon onion salt",
+        "\u00bc teaspoon ground black pepper",
+        "1 pound lean ground beef",
+        "\u00bc cup Worcestershire sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zesty Porcupine Meatballs",
     "url": "http://allrecipes.com/recipe/14676/zesty-porcupine-meatballs/"
 }

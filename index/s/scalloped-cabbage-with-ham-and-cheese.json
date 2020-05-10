@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 300 degrees F (150 degrees C).",
+        "Steam cabbage and onion in a small amount of water until tender.  Add the ham.  Place into a buttered baking dish.",
+        "In a skillet, melt butter over low heat.  Stir in flour until smooth.  Add milk, stirring until smooth.  Add salt, cheese and stir until melted.  Pour over the cabbage mixture. Sprinkle with bread crumbs and dot with butter.  Bake for 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F849619.jpg",
+    "ingredients": [
+        "1 medium head cabbage, chopped",
+        "1  onion, chopped",
+        "1\u2009\u00bd cups cooked ham, diced",
+        "2 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "1 cup milk",
+        "1 teaspoon salt",
+        "\u00be cup processed American cheese",
+        "2 tablespoons dry bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Scalloped Cabbage with Ham and Cheese",
     "url": "http://allrecipes.com/recipe/21705/scalloped-cabbage-with-ham-and-cheese/"
 }

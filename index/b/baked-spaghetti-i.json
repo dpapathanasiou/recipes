@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add spaghetti, and cook for 8 to 10 minutes, or until al dente. Drain, and set aside.",
+        "In a large skillet over medium-high heat, saute the onions, green peppers and ground beef. Once beef is brown and onions and peppers softened, add the tomatoes, mushrooms and oregano. Simmer uncovered for 10 minutes.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish. Place half of the cooked spaghetti into the prepared dish. Top with half of the meat mixture. Sprinkle with 1 cup of the mild Cheddar cheese. Repeat. In a medium bowl, mix together cream of mushroom soup and water until smooth; pour over casserole. Sprinkle with Parmesan cheese.",
+        "Bake in preheated oven for 30 to 35 minutes. Let stand 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F41166.jpg",
+    "ingredients": [
+        "12 ounces spaghetti",
+        "1 cup chopped onions",
+        "1 cup chopped green bell peppers",
+        "1 pound lean ground beef",
+        "1 (16 ounce) can diced tomatoes",
+        "1 (4.5 ounce) can mushrooms, drained",
+        "1 teaspoon dried oregano",
+        "2 cups shredded mild Cheddar cheese",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "\u00bc cup water",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Spaghetti I",
     "url": "http://allrecipes.com/recipe/11905/baked-spaghetti-i/"
 }

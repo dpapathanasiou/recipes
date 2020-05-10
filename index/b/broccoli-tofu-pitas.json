@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a skillet over medium high heat, heat the tablespoon of oil. Fry broccoli in hot oil for 5 minutes, then stir in the tofu. Cook until broccoli is slightly tender, about 3 to 4 more minutes. Remove from heat and toss with the salad dressing.",
+        "Cut pita bread in half and stuff each pocket with half of the mixture. Other types of dressing may be used in place of thousand island if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4460707.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 cup fresh broccoli florets",
+        "1 cup diced firm tofu",
+        "2 tablespoons thousand island dressing",
+        "1   pita bread"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Broccoli Tofu Pitas",
     "url": "http://allrecipes.com/recipe/20794/broccoli-tofu-pitas/"
 }

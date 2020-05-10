@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the water to a boil in a very large pot. Squeeze the lemon juice into the water, then throw in the halves. Add the onion, garlic, salt and crab boil. Reduce heat to a simmer, cover, and cook for about 10 minutes.",
+        "Add the potatoes and sausage; cover and simmer for 20 minutes. Add the corn and cook for 10 minutes. Remove from the heat and stir in the shrimp. Let sit covered for 5 minutes or until shrimp are pink. Drain, and serve with melted butter for dipping. Broth may be reserved and reused for cooking rice or other soups."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/43057.jpg",
+    "ingredients": [
+        "3 quarts water",
+        "1 lemon, halved",
+        "1 medium onion, halved",
+        "2 cloves garlic, smashed",
+        "coarse salt to taste",
+        "1 (3 ounce) package dry crab boil",
+        "1 1/2 pounds medium red potatoes, scrubbed",
+        "1 pound smoked sausage, cut into 1 inch pieces",
+        "4 ears fresh corn, shucked and broken in half",
+        "1 1/2 pounds unpeeled, large fresh shrimp",
+        "1/2 cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Good Ole' Southern Frogmore Stew",
     "url": "http://allrecipes.com/recipe/91456/good-ole-southern-frogmore-stew/"
 }

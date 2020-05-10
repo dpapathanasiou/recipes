@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together pancake mix and cinnamon.  Make a well in the center of the pancake mix. Add the eggs, applesauce, lemon juice and milk; stir until smooth.",
+        "Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/392439.jpg",
+    "ingredients": [
+        "2 cups dry pancake mix",
+        "1 teaspoon ground cinnamon",
+        "2 eggs",
+        "1 cup applesauce",
+        "1 teaspoon lemon juice",
+        "1/2 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mom's Applesauce Pancakes",
     "url": "http://allrecipes.com/recipe/21429/moms-applesauce-pancakes/"
 }

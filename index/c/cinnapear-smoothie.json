@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the pears, banana, milk, yogurt, cinnamon, and nutmeg into a blender. Cover, and puree until smooth. Pour into glasses to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1015517.jpg",
+    "ingredients": [
+        "2 pears, quartered and cores removed",
+        "1 banana, cut in chunks",
+        "1 cup milk",
+        "1/2 cup vanilla yogurt",
+        "1/2 teaspoon ground cinnamon",
+        "1 pinch ground nutmeg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnapear Smoothie",
     "url": "http://allrecipes.com/recipe/214963/cinnapear-smoothie/"
 }

@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss carrots and sunflower seeds in a bowl with the oil and vinegar salad dressing."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4557209.jpg",
+    "ingredients": [
+        "5 carrots, coarsely grated",
+        "1/4 cup sunflower seeds",
+        "1/4 cup oil and vinegar salad dressing (such as Newman's Own)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Three Ingredient Carrot Slaw",
     "url": "http://allrecipes.com/recipe/215468/three-ingredient-carrot-slaw/"
 }

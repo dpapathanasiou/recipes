@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk eggs and olive oil in a bowl until combined; stir both amounts of club soda and salt into egg mixture. Mix matzo meal into wet ingredients to form a workable dough; if mixture is too wet, stir in 1/4 cup more matzo meal. Cover and refrigerate for 30 minutes.",
+        "Bring water to a boil in a large pot. Wet your hands and form matzo ball dough into walnut-size balls. Gently place matzo balls into boiling water. Reduce heat to low, cover, and simmer matzo balls until tender, 25 to 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1533&h=803&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F997944.jpg",
+    "ingredients": [
+        "4  eggs",
+        "6 tablespoons olive oil",
+        "\u2153 cup club soda",
+        "2 tablespoons club soda",
+        "\u00bd teaspoon salt",
+        "1\u2009\u00bd cups matzo meal, or more as needed",
+        "4 quarts water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Matzah Balls",
     "url": "http://allrecipes.com/recipe/231327/best-matzah-balls/"
 }

@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the water, cider vinegar, sugar, allspice, clove, nutmeg, and ginger into a small saucepan, and bring to a simmer over medium-high heat, stirring until the sugar dissolves.",
+        "Meanwhile, toss the sliced apples with the lemon juice, and pack into two sterilized 1 quart canning jars with lids and rings. Pour the boiling syrup over the apples, and affix the lids and rings.",
+        "Allow the jars to stand at room temperature until cool. Once cool, press the top of each lid with a finger, ensuring that the seal is tight (lid does not move up or down at all). Place in the refrigerator, and wait 1 week before opening."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2767750.jpg",
+    "ingredients": [
+        "1 cup water",
+        "1 cup cider vinegar",
+        "1 cup white sugar",
+        "1 tablespoon whole allspice berries",
+        "1 tablespoon whole cloves",
+        "1 tablespoon ground nutmeg",
+        "1 tablespoon ground ginger",
+        "6 apples - peeled, cored and sliced",
+        "1/2 cup lemon juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apple Refrigerator Pickles",
     "url": "http://allrecipes.com/recipe/171600/apple-refrigerator-pickles/"
 }

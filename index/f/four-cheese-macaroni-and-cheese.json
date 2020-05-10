@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large saucepan of lightly salted water to a boil. Place macaroni in the saucepan and cook for 8 to 10 minutes, or until al dente; drain.",
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x8 inch baking dish.",
+        "Spread the Cheddar cheese over the bottom of the baking dish. Top with a thin layer of macaroni. Top macaroni with Provolone cheese, another layer of macaroni, a layer of mozzarella and a third layer of macaroni. Top with a layer of Colby-Monterey Jack cheese. Pour the egg over all, followed by the milk.",
+        "Bake in the preheated oven 20 minutes, or until bubbly and golden brown."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/417951.jpg",
+    "ingredients": [
+        "1/2 (8 ounce) package elbow macaroni",
+        "1 cup shredded sharp Cheddar cheese",
+        "1 cup shredded provolone cheese",
+        "1 cup shredded mozzarella cheese",
+        "1 cup shredded Colby-Monterey Jack cheese",
+        "1 egg, beaten",
+        "1 cup milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Four Cheese Macaroni and Cheese",
     "url": "http://allrecipes.com/recipe/23586/four-cheese-macaroni-and-cheese/"
 }

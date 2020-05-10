@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare an 8-inch square baking dish with cooking spray.",
+        "Cook and stir peanut butter, corn syrup, brown sugar, and butter together in a large saucepan over medium-low heat until boiling. Fold crispy rice cereal and peanuts into the peanut butter mixture; press into the prepared baking dish. Sprinkle chocolate chips evenly over the top of the hot mixture. Let chocolate chips melt; spread chocolate over the top in an even layer.",
+        "Refrigerate until the mixture hardens, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3836127.jpg",
+    "ingredients": [
+        "cooking spray",
+        "\u00bd cup peanut butter",
+        "\u00bd cup corn syrup",
+        "\u00bd cup brown sugar",
+        "1 tablespoon butter",
+        "2 cups crispy rice cereal",
+        "1 cup peanuts",
+        "1 cup chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "No Bake Sweet Marie Bars",
     "url": "http://allrecipes.com/recipe/222533/no-bake-sweet-marie-bars/"
 }

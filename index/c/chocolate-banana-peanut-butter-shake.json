@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine milk, instant breakfast mix, peanut butter, bananas and ice. Blend until smooth, about 30 seconds. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1054959.jpg",
+    "ingredients": [
+        "2 cups milk",
+        "4 tablespoons chocolate instant breakfast mix",
+        "2 tablespoons crunchy peanut butter",
+        "2 bananas, sliced",
+        "4 cubes ice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Banana Peanut Butter Shake",
     "url": "http://allrecipes.com/recipe/25848/chocolate-banana-peanut-butter-shake/"
 }

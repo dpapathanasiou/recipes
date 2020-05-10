@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large saucepan over medium heat. Mix in shallots, garlic, crushed red pepper, and turmeric. Cook and stir until shallots are tender, about 5 minutes. Pour water into skillet, and mix in lemon grass and tamarind juice. Season with salt. Bring the mixture to a boil.",
+        "Stir snapper into boiling mixture. Cook 10 minutes, or until fish pieces are easily flaked with a fork."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "8 shallots, chopped",
+        "6 cloves garlic, crushed",
+        "1/2 teaspoon crushed red pepper",
+        "1/2 teaspoon ground turmeric",
+        "6 cups water",
+        "6 stalks lemon grass, ground",
+        "1/4 cup tamarind juice",
+        "salt to taste",
+        "2 pounds red snapper fillets, cut into 1 inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fish and Tamarind Soup",
     "url": "http://allrecipes.com/recipe/34631/fish-and-tamarind-soup/"
 }

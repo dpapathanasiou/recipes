@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 475 degrees F.",
+        "Place flour in large bowl. Cut in shortening with pastry blender or 2 knives until crumbs are the size of peas. Add buttermilk, stirring with fork just until flour is moistened.",
+        "Turn dough onto lightly floured surface. Knead gently 5 to 6 times, just until a smooth dough is formed. Roll dough into a 7-inch circle that is 3/4- to 1-inch thick. Cut out 7 to 8 biscuits using a floured 2-inch biscuit cutter. Place on baking sheet, about 1-inch apart. (For softer biscuits, arrange so that edges almost touch.) Shape dough scraps into a ball. Pat out until 3/4-inch thick. Cut out additional biscuits.",
+        "Bake 8 to 10 minutes or until golden brown. Remove from oven. Brush with butter, if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3850318.jpg",
+    "ingredients": [
+        "2 cups White Lily\u00ae Enriched Bleached Self-Rising Flour or White Lily\u00ae Enriched Unbleached Self-Rising Flour",
+        "1/4 cup Crisco\u00ae All-Vegetable Shortening",
+        "3/4 cup buttermilk",
+        "2 tablespoons butter, melted (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Lily\u00ae Light and Fluffy Biscuits",
     "url": "http://allrecipes.com/recipe/255037/white-lily-light-and-fluffy-biscui/"
 }

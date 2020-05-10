@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Combine barbeque sauce, mushrooms, tomatoes, onion, brown sugar, garlic, vinegar, salt, and black pepper in a food processor or blender; pulse until mixture is blended but still chunky. If the mixture is too thick, add water.",
+        "Arrange pork chops in a baking dish and cover with barbeque sauce mixture; cover with aluminum foil.",
+        "Bake in the preheated oven until pork is very tender, about 3 hours. Shred pork with 2 forks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3576697.jpg",
+    "ingredients": [
+        "1 (18 ounce) bottle hickory flavored barbeque sauce",
+        "1 (16 ounce) package fresh mushrooms (optional)",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "2 large onions, coarsely chopped",
+        "\u00bd cup brown sugar",
+        "\u00bd head garlic, peeled",
+        "2 tablespoons malt vinegar",
+        "1 pinch salt and ground black pepper to taste",
+        "\u00bc cup water, if needed",
+        "2 pounds pork chops"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Juicy Pulled Pork",
     "url": "http://allrecipes.com/recipe/235371/juicy-pulled-pork/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt ghee in the skillet over high heat. Add mushrooms and salt; cook, without stirring, until they release their moisture, 1 to 2 minutes. Continue cooking, stirring occasionally, until browned, 5 to 8 minutes. Add shallots; cook and stir until fragrant, about 2 minutes.",
+        "Mix avocado into the mushroom mixture; cook and stir until avocado is creamy, about 5 minutes. Season with salt and ground black pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4483236.jpg",
+    "ingredients": [
+        "2 tablespoons ghee (clarified butter)",
+        "8 fresh white mushrooms, quartered",
+        "salt",
+        "1 shallot, minced",
+        "1 avocado, cubed",
+        "ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Whole30\u00ae Mushroom and Avocado Appetizer",
     "url": "http://allrecipes.com/recipe/254801/whole30-mushroom-and-avocado-appet/"
 }

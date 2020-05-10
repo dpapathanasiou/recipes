@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Spread goat cheese inside each date half.",
+        "Cook dates on preheated grill until dates begin to caramelize and goat cheese melts, about 5 minutes. Remove from grill and cut each date half into halves.",
+        "Mix spinach, pear, onion, and tomatoes together on a plate or in a bowl; top with dates. Drizzle olive oil and vinegar over salad."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 tablespoons honey-flavored goat cheese, or as needed",
+        "6  dried dates, halved and pitted",
+        "2 cups fresh spinach",
+        "1  Anjou pear, cubed",
+        "\u00bc  red onion, thinly sliced",
+        "\u00bc cup grape tomatoes, or to taste",
+        "1 teaspoon extra-virgin olive oil",
+        "\u00bd teaspoon apple cider vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Goat Cheese Stuffed Date Salad",
     "url": "http://allrecipes.com/recipe/231124/goat-cheese-stuffed-date-salad/"
 }

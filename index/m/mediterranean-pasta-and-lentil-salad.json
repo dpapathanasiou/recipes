@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook rotini at a boil until tender yet firm to the bite, about 8 minutes; drain. Rinse rotini with cold water to cool completely.",
+        "Toss cooled rotini, bell pepper, Greek vinaigrette, lentils, feta cheese, and red onion together in a bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 (12 ounce) package tri-color rotini pasta",
+        "1 yellow bell pepper, chopped",
+        "1/2 cup Greek-style vinaigrette (such as Renee's\u00ae Gourmet)",
+        "1/2 cup canned lentils",
+        "1/2 cup crumbled feta cheese",
+        "1/2 cup chopped red onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mediterranean Pasta and Lentil Salad",
     "url": "http://allrecipes.com/recipe/231692/mediterranean-pasta-and-lentil-salad/"
 }

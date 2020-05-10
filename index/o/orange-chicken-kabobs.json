@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk orange marmalade, balsamic vinegar, red wine, olive oil, chives, basil, garlic, sage, garlic salt, and kosher salt together in a bowl until marinade is smooth. Pour about 1/4 of the marinade into a resealable plastic bag; add mushrooms, bell pepper, and red onion. Squeeze air out of bag and seal.",
+        "Pour the remaining marinade into a separate resealable bag; add chicken. Squeeze air out of bag and seal. Marinate vegetables and chicken in the refrigerator, 2 to 8 hours.",
+        "Remove vegetables and chicken from bag and discard marinade. Thread vegetables, chicken, and pineapple onto skewers.",
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Cook kabobs on the preheated grill until chicken is no longer pink in the center, 5 to 10 minutes per side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2318485.jpg",
+    "ingredients": [
+        "\u00bc cup orange marmalade",
+        "2 tablespoons balsamic vinegar",
+        "2 tablespoons red wine",
+        "1 tablespoon olive oil",
+        "1 tablespoon chopped fresh chives",
+        "1 tablespoon chopped fresh basil",
+        "1 large garlic clove, minced",
+        "\u00bc teaspoon dried sage",
+        "\u215b teaspoon garlic salt",
+        "\u215b teaspoon kosher salt",
+        "1 (6 ounce) package fresh mushrooms, or to taste",
+        "1  bell pepper, chopped, or to taste",
+        "\u00bd  red onion, chopped, or to taste",
+        "2  skinless, boneless chicken breast halves, cubed",
+        "1 cup chopped fresh pineapple, or to taste",
+        "skewers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Chicken Kabobs",
     "url": "http://allrecipes.com/recipe/244213/orange-chicken-kabobs/"
 }

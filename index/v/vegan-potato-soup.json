@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large pot over medium heat. Add onion, carrot, celery, and garlic; cook and stir until soft, about 10 minutes. Add potatoes, water, and 2 teaspoons salt. Bring to a boil; reduce heat and simmer until potatoes are very tender, 10 to 15 minutes.",
+        "Remove pot from the heat and puree soup with an immersion blender. Stir in almond milk.",
+        "Return soup to the heat and cook until heated through, about 5 minutes. Season with remaining 2 teaspoons salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5631451.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 cup diced onion",
+        "1 cup diced carrot",
+        "1 cup diced celery",
+        "3 cloves garlic, minced",
+        "4 russet potatoes, peeled and cut into 1-inch pieces",
+        "4 cups water",
+        "4 teaspoons salt, divided",
+        "2 cups almond milk",
+        "1 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Potato Soup",
     "url": "http://allrecipes.com/recipe/255642/vegan-potato-soup/"
 }

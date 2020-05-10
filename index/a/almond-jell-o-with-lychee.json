@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour 1 cup water into a bowl; stir in gelatin powder until dissolved. Slowly stir boiling water into gelatin mixture. Mix milk, sugar, and almond extract into gelatin mixture; add lychees. Pour gelatin mixture into a shallow container; refrigerate until set, 3 to 4 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4417858.jpg",
+    "ingredients": [
+        "1 cup water",
+        "2 (.25 ounce) packages unflavored gelatin powder",
+        "1 cup boiling water",
+        "2 cups milk",
+        "3/4 cup white sugar",
+        "1 1/2 teaspoons almond extract",
+        "8 lychees, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Almond Jell-O\u00ae with Lychee",
     "url": "http://allrecipes.com/recipe/233409/almond-jell-o-with-lychee/"
 }

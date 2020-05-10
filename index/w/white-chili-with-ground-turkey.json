@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot over medium heat, combine the onion, garlic and ground turkey and saute for 10 minutes, or until turkey is well browned. Add the chile peppers, cumin, oregano, cinnamon, cayenne pepper to taste and white pepper to taste and saute for 5 more minutes.",
+        "Add two cans of the beans and the chicken broth to the pot. Take the third can of beans and puree them in a blender or food processor. Add this to the pot along with the cheese. Stir well and simmer for 10 minutes, allowing the cheese to melt."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3359183.jpg",
+    "ingredients": [
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "1 1/2 pounds ground turkey",
+        "2 (4 ounce) cans canned green chile peppers, chopped",
+        "1 tablespoon ground cumin",
+        "1 tablespoon dried oregano",
+        "1 teaspoon ground cinnamon",
+        "ground cayenne pepper to taste",
+        "ground white pepper to taste",
+        "3 (15 ounce) cans cannellini beans",
+        "5 cups chicken broth",
+        "2 cups shredded Monterey Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Chili with Ground Turkey",
     "url": "http://allrecipes.com/recipe/17023/white-chili-with-ground-turkey/"
 }

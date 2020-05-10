@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place garlic in a mortar dish or on a cutting board, and sprinkle with salt. Mash with a pestle, or use the flat side of a knife to mash garlic and salt into a paste. Transfer to a medium bowl, and stir in olive oil, vinegar, and mustard. Add the broccoli, and stir to coat. Chill for 3 hours to marinate, stirring  occasionally. Sprinkle with Parmesan cheese before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F203674.jpg",
+    "ingredients": [
+        "4 cloves garlic, peeled",
+        "1\u2009\u00bd teaspoons salt",
+        "1 bunch broccoli, cut into florets",
+        "\u2153 cup olive oil",
+        "\u00bc cup red wine vinegar",
+        "1 tablespoon Dijon mustard",
+        "\u00bd cup grated Parmesan cheese, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Broccoli",
     "url": "http://allrecipes.com/recipe/78363/garlic-broccoli/"
 }

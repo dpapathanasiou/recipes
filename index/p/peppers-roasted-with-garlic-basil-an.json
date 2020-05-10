@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C). Grease a 9x13 inch baking dish with olive oil flavored cooking spray.",
+        "Place the bell pepper halves open side up in the prepared baking dish. In a medium bowl, toss together the cherry tomatoes, basil and garlic. Fill each pepper half with a handful of this mixture. Season with salt and pepper.  Cover the dish with aluminum foil.",
+        "Bake for 15 minutes in the preheated oven, then remove the aluminum foil, and continue baking for an additional 15 minutes. Remove from the oven, and sprinkle with herb vinegar. These are equally good served hot or cold."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5131470.jpg",
+    "ingredients": [
+        "olive oil-flavored cooking spray",
+        "1 green bell pepper, halved and seeded",
+        "1 red bell pepper, halved and seeded",
+        "1 yellow bell pepper, halved and seeded",
+        "1 pint cherry tomatoes, halved",
+        "1/2 cup chopped fresh basil",
+        "8 cloves garlic, thinly sliced",
+        "1 teaspoon salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1 tablespoon herb vinegar, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peppers Roasted with Garlic, Basil and Tomatoes",
     "url": "http://allrecipes.com/recipe/75036/peppers-roasted-with-garlic-basil-an/"
 }

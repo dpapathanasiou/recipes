@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F or grill to medium-high.",
+        "Center one pork chop on each sheet of Reynolds Wrap(R) Aluminum Foil. Arrange vegetables beside each pork chop. Sprinkle pork chops and vegetables with garlic salt. Combine barbecue sauce, celery and onions; spoon over pork chops.",
+        "Bring up foil sides. Double fold top and ends to seal packet, leaving room for heat circulation inside. Repeat to make four packets.",
+        "Bake 18 to 22 minutes on a cookie sheet in oven.",
+        "OR grill 14 to 16 minutes in covered grill.",
+        "Serve with rice, if desired."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/990924.jpg",
+    "ingredients": [
+        "4 sheets (12x18-inches each) Reynolds Wrap\u00ae Aluminum Foil",
+        "4 bone-in pork chops, 1/2 inch thick",
+        "2 cups frozen baby corn and bean blend*",
+        "Garlic salt",
+        "1 (18 ounce) bottle barbecue sauce",
+        "2 stalks celery, sliced",
+        "2 green onions, sliced",
+        "Hot cooked rice (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barbecue Pork Chops Medley",
     "url": "http://allrecipes.com/recipe/222827/barbecue-pork-chops-medley/"
 }

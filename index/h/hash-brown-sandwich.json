@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes in a saucepan and add enough water to cover. Bring to a boil, and cook until just starting to be tender, about 5 minutes. Drain and place under cool running water to cool, then drain and pat dry. Grate into a large bowl.",
+        "Separate the potato shreds into two sections, and place each one on a square of waxed paper. Pat each section into a 6 inch circle.",
+        "Place bacon in a skillet over medium-high heat. Fry until evenly browned, then set aside to drain on paper towels. In a nonstick skillet over low heat, cook eggs until lightly scrambled. Eggs need to stay slightly wet.",
+        "Heat oil in a large skillet over medium heat. While the oil heats, place the egg, bacon strips and cheese in even layers on top of one of the potato circles. Place the other circle on the top, using the waxed paper to pick it up. Place the whole hash-brown sandwich into the skillet, and fry until nicely browned on both sides, about 10 minutes per side. Cut into wedges, and serve hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F772202.jpg",
+    "ingredients": [
+        "4 large potatoes, peeled and quartered",
+        "4 slices bacon",
+        "1 cup shredded Cheddar cheese",
+        "4  eggs, beaten",
+        "2 tablespoons vegetable oil",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hash Brown Sandwich",
     "url": "http://allrecipes.com/recipe/69894/hash-brown-sandwich/"
 }

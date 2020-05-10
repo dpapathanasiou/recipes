@@ -1,9 +1,37 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "For brush-on, stir together oil, lemon juice, lemon zest, garlic, salt, and thyme in a small bowl; set aside.",
+        "Thaw scallops, if frozen. Rinse scallops; pat dry with paper towels. On eight 10-inch skewers,* alternately thread scallops, cherry tomatoes, and zucchini, leaving 1/4 inch between pieces.",
+        "On eight 10-inch skewers,* alternately thread bison sirloin steak pieces, mushrooms, and bell pepper, leaving 1/4 inch between pieces.",
+        "For gas or charcoal grill, place bison skewers on the rack of a covered grill directly over medium-high heat. Grill for 8 to 10 minutes or until desired doneness, turning once and brushing with brush-on. Grill scallop skewers beside bison skewers for 5 to 6 minutes or until scallops are opaque, turning once and brushing with brush-on. Serve with Mediterranean Couscous Salad.",
+        "Mediterranean Couscous Salad: Bring broth to boiling in a medium saucepan. Stir in couscous. Cover and remove from heat. Let stand for 5 minutes. Fluff couscous lightly with a fork. Transfer to a large bowl. Let stand at room temperature for 10 minutes. Stir in chopped tomato, cucumber, onion, and feta cheese. Toss with vinaigrette."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/1037667.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "3 tablespoons lemon juice",
+        "1 teaspoon finely shredded lemon zest",
+        "4 cloves garlic, minced",
+        "1 teaspoon salt",
+        "1 teaspoon dried thyme, crushed",
+        "16 large fresh or frozen sea scallops",
+        "16 cherry tomatoes",
+        "1 medium zucchini, halved lengthwise and sliced 1/2 inch thick",
+        "3 (6 ounce) packages bison sirloin steak, cut into 1 1/2-inch pieces",
+        "16 small whole or halved large button mushrooms",
+        "1 medium green or red bell pepper, cut into 1-inch pieces",
+        "Mediterranean Couscous Salad:",
+        "1 (14.5 ounce) can chicken broth",
+        "1 1/4 cups quick-cooking couscous",
+        "1 medium tomato, seeded and chopped",
+        "1 cup seeded, chopped cucumber",
+        "1/4 cup sliced green onion",
+        "1/4 cup crumbled feta cheese",
+        "1/2 cup Greek vinaigrette salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sea-and-Shore Bison Kabobs with Mediterranean Couscous Salad",
     "url": "http://allrecipes.com/recipe/233876/sea-and-shore-bison-kabobs-with-medit/"
 }

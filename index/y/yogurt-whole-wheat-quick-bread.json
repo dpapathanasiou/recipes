@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x5 inch loaf pan.",
+        "In a large bowl, combine melted butter and honey. Whisk in yogurt, egg and lemon juice.",
+        "In a separate bowl, sift together all-purpose flour, whole wheat flour, baking soda, nutmeg and cinnamon. Fold this mixture into the yogurt mixture, stirring just enough to blend. Pour batter into prepared loaf pan.",
+        "Bake in preheated oven until top of loaf springs back when touched and a toothpick inserted into center of the loaf comes out clean, about 50 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F761.jpg",
+    "ingredients": [
+        "4 tablespoons butter, melted",
+        "6 tablespoons honey",
+        "1 cup plain yogurt",
+        "1  egg, room temperature",
+        "\u00bc cup fresh lemon juice",
+        "1 cup all-purpose flour",
+        "1 cup whole wheat flour",
+        "1\u2009\u00bd teaspoons baking soda",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bc teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yogurt Whole Wheat Quick Bread",
     "url": "http://allrecipes.com/recipe/20074/yogurt-whole-wheat-quick-bread/"
 }

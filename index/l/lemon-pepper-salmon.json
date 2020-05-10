@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the butter and olive oil in a large skillet over medium heat. Place salmon in the skillet, and season with garlic, lemon pepper and salt. Pour 1/4 cup water around salmon. Place tomatoes and cilantro in the skillet. Cover, and cook 15 minutes, or until fish is easily flaked with a fork.",
+        "Bring 2 cups water to boil in a pot. Remove form heat, and mix in couscous. Cover, and let sit 5 minutes. Serve the cooked salmon over couscous, and drizzle with sauce from skillet."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2783537.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "2 tablespoons olive oil",
+        "4 (4 ounce) salmon steaks",
+        "1 teaspoon minced garlic",
+        "1 tablespoon lemon pepper",
+        "1 teaspoon salt",
+        "1/4 cup water",
+        "1 cup chopped fresh tomatoes",
+        "1 cup chopped fresh cilantro",
+        "2 cups boiling water",
+        "1 cup uncooked couscous"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon-Pepper Salmon",
     "url": "http://allrecipes.com/recipe/75671/lemon-pepper-salmon/"
 }

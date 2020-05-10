@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Butter a large baking dish.",
+        "Place the beaten eggs in a shallow dish. Mix the almonds, coconut, sesame seeds, brown sugar, and nutmeg together in a mixing bowl. Stir the pineapple and onion together in a separate bowl. Dip each tilapia fillet into the beaten egg and then press into the almond mixture. Place the coated tilapia into the prepared dish. Spread the pineapple mixture over the coated fillets.",
+        "Bake in the preheated oven until the fish flakes easily with a fork, about 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/660320.jpg",
+    "ingredients": [
+        "3 eggs, beaten",
+        "1 cup chopped toasted almonds",
+        "1 cup flaked coconut",
+        "1 tablespoon sesame seeds",
+        "1 tablespoon brown sugar",
+        "1 pinch nutmeg",
+        "1 (15 ounce) can crushed pineapple, drained",
+        "1/2 cup chopped onion",
+        "6 (5 ounce) fillets tilapia"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Almond and Coconut Crusted Tilapia",
     "url": "http://allrecipes.com/recipe/205185/almond-and-coconut-crusted-tilapia/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix 2 cups flour, butter, and 1/2 cup white sugar together in a bowl until crumbly; press into the bottom of a 12x9-inch baking dish.",
+        "Bake in preheated oven until crust is light brown, 25 to 30 minutes.",
+        "Beat eggs, 1 cup sugar, and 6 tablespoons flour together in a bowl until smooth; add rhubarb, coconut, lemon juice, and vanilla extract and stir to coat. Pour the rhubarb mixture over the crust.",
+        "Bake in preheated oven until the fruit layer is set, 35 to 40 minutes. Let bars cool completely before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2334&h=1222&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2287522.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "1 cup unsalted butter",
+        "\u00bd cup white sugar",
+        "4  eggs",
+        "1 cup white sugar, or to taste",
+        "6 tablespoons all-purpose flour",
+        "2 cups chopped rhubarb, or more to taste",
+        "1 cup shredded coconut",
+        "6 tablespoons lemon juice",
+        "2 teaspoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Rhubarb Bars",
     "url": "http://allrecipes.com/recipe/241999/lemon-rhubarb-bars/"
 }

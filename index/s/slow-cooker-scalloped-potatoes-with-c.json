@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, mix together the onion, green pepper, mushroom soup, milk, mozzarella cheese, cheese spread, celery seed, paprika, and parsley until thoroughly combined. Pour 1/4 of the sauce into the bottom of a slow cooker. Spread the potatoes over the sauce; pour the remaining sauce over the potatoes. Place chicken breasts into the slow cooker, sprinkle with a pinch or 2 of sea salt, and push the chicken down into the sauce mixture.",
+        "Cook on low for 6 hours, then set cooker to high and cook until chicken and potatoes are very tender, 4 additional hours. During the last hour of cooking, mix cornstarch with water, and stir into the sauce to thicken."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3727462.jpg",
+    "ingredients": [
+        "1/2 onion, chopped",
+        "1/2 green bell pepper, chopped",
+        "1 (10.75 ounce) can reduced fat condensed cream of mushroom soup",
+        "1 (10.75 ounce) can skim milk",
+        "1 1/4 cups cubed mozzarella cheese",
+        "2 tablespoons pressurized canned cheese spread (such as Cheez Whiz\u00ae)",
+        "1/2 teaspoon celery seed",
+        "1/2 teaspoon paprika",
+        "1 teaspoon dried parsley",
+        "5 (4 ounce) skinless, boneless chicken breast halves",
+        "7 large russet potatoes, peeled and thinly sliced",
+        "sea salt to taste",
+        "1 tablespoon cornstarch",
+        "2 tablespoons water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Slow Cooker Scalloped Potatoes with Chicken",
     "url": "http://allrecipes.com/recipe/216690/slow-cooker-scalloped-potatoes-with-c/"
 }

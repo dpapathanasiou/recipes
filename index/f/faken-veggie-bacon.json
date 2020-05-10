@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Slice the thawed tofu into very thin slices (like bacon). In a medium bowl, stir together the yeast, water, maple syrup, liquid smoke, soy sauce, onion powder and garlic powder. Place the tofu strips into the bowl to marinate for at least 10 minutes.",
+        "Heat butter or margarine in a large skillet over medium-high heat. Quickly fry tofu strips until crisp, turning once, about 5 minutes. Drain on paper towels, and serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/24593.jpg",
+    "ingredients": [
+        "1 (7.5 ounce) package smoked firm tofu, frozen and thawed",
+        "1 tablespoon nutritional yeast",
+        "1 tablespoon water",
+        "2 tablespoons maple syrup",
+        "1 dash liquid smoke flavoring (optional)",
+        "2 tablespoons low-sodium soy sauce",
+        "1 teaspoon onion powder",
+        "1/2 teaspoon garlic powder",
+        "2 tablespoons butter or margarine"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Faken (Veggie Bacon)",
     "url": "http://allrecipes.com/recipe/22980/faken-veggie-bacon/"
 }

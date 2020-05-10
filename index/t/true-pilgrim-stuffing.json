@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Melt the butter in a Dutch oven over medium-low heat, and cook and stir the celery and onion for 8 to 10 minutes, until the onion is translucent.",
+        "In a separate skillet, cook and stir the ground beef and sausage over medium heat until the meat is browned and no longer pink inside, about 10 minutes. Drain the excess grease from the meat.",
+        "Place the cubed white bread into the Dutch oven with the butter, celery, and onion, add the cooked meat, and lightly stir to mix well.",
+        "Bake in the preheated oven until evenly browned, about 1 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2322&h=1216&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3529191.jpg",
+    "ingredients": [
+        "2 cups butter",
+        "1 stalk celery, chopped",
+        "1 large onion, chopped",
+        "1 pound ground beef",
+        "1 pound bulk pork breakfast sausage",
+        "1 loaf loaf of white bread, cubed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "True Pilgrim Stuffing",
     "url": "http://allrecipes.com/recipe/80113/true-pilgrim-stuffing/"
 }

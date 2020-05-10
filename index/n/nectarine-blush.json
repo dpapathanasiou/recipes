@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the nectarines, brown sugar and buttermilk in the bowl of a blender and blend until smooth. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/451796.jpg",
+    "ingredients": [
+        "2 nectarines, pitted and chopped",
+        "2 tablespoons brown sugar",
+        "1 cup buttermilk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nectarine Blush",
     "url": "http://allrecipes.com/recipe/142435/nectarine-blush/"
 }

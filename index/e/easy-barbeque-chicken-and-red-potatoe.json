@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place chicken breasts, onion, mushrooms and potatoes in a lightly greased 9x13 inch baking dish and cover all with sauce.",
+        "Cover dish and bake for 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1132063.jpg",
+    "ingredients": [
+        "4 skinless, boneless chicken breast halves",
+        "1 Vidalia onion, sliced",
+        "1 pound sliced fresh mushrooms",
+        "8 red potatoes, sliced 1/2 inch thick",
+        "1 (18 ounce) bottle barbeque sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Barbeque Chicken and Red Potatoes",
     "url": "http://allrecipes.com/recipe/20241/easy-barbeque-chicken-and-red-potatoe/"
 }

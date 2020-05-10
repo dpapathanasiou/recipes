@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add Brussels sprouts and cook until slightly tender, about 2 minutes. Drain and immediately immerse in ice water for several minutes to stop the cooking process. Drain.",
+        "Heat olive oil in a skillet over medium heat; cook and stir onion and garlic in the hot oil until onion is just tender, 5 to 10 minutes. Add Brussels sprouts; cook and stir until sprouts are tender, 8 to 10 minutes.",
+        "Mix balsamic vinegar, butter, salt, black pepper, and garlic powder into Brussels sprouts mixture; toss to coat."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1689&h=884&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1112841.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds Brussels sprouts, trimmed",
+        "2 tablespoons olive oil",
+        "1  onion, thinly sliced",
+        "2 cloves garlic, minced",
+        "\u00bc cup balsamic vinegar",
+        "2 tablespoons butter",
+        "1 teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Balsamic Brussels Sprouts",
     "url": "http://allrecipes.com/recipe/229812/balsamic-brussels-sprouts/"
 }

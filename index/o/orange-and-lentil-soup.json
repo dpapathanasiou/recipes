@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a pot over medium heat, cook onions in butter until softened.  Stir in lentils, orange juice, celery, carrot, bay leaf, thyme, pepper and half the chicken broth and simmer 40 minutes, until lentils are tender.",
+        "Puree in a blender or food processor, or using an immersion blender.  Return to the pot, stir in remaining chicken broth and heat through."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/569193.jpg",
+    "ingredients": [
+        "2 tablespoons butter",
+        "1 onion, diced",
+        "2/3 cup red lentils",
+        "1/2 cup orange juice",
+        "1 stalk celery, chopped",
+        "1/2 carrot, shredded",
+        "1 bay leaf",
+        "1/2 teaspoon dried thyme",
+        "ground black pepper to taste",
+        "3 cups chicken broth, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange and Lentil Soup",
     "url": "http://allrecipes.com/recipe/25724/orange-and-lentil-soup/"
 }

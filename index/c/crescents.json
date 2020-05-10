@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "If using butter it must be cold. Mix butter with flour until it resembles fine crumbs.  Add white sugar, nuts, and salt.  Mix well, adding ice water till you make stiff dough.",
+        "Add vanilla extract and knead lightly.  Roll out on floured board 1/4 inch thick.",
+        "Cut into crescent shapes using a whiskey glass coated with flour.",
+        "Bake at 350 degrees F (180 degrees C) until bottoms are  lightly browned.  While hot, roll in confectioner's sugar, (I usually use a brown bag or baggie bag to roll the cookies in with the powdered sugar)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1762&h=923&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2261963.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup chopped walnuts",
+        "3 tablespoons ice water",
+        "\u00bd teaspoon salt",
+        "\u00be cup butter",
+        "1 teaspoon vanilla extract",
+        "3 tablespoons white sugar",
+        "2 cups confectioners' sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Crescents",
     "url": "http://allrecipes.com/recipe/10176/crescents/"
 }

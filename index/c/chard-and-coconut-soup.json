@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat coconut oil in a large saucepan over medium heat; cook and stir onion, coconut flakes, and garlic until onion is softened, about 10 minutes.",
+        "Bring a pot of water to a boil; add chard and cook just until leaves become brighter green, about 3 minutes. Transfer chard to a bowl of ice water to stop the cooking process.",
+        "Stir chard, vegetable stock, and coconut milk into onion mixture; bring to a boil. Reduce heat and simmer until soup is heated through, about 10 minutes. Top soup with Parmesan cheese; season with salt and pepper."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1114774.jpg",
+    "ingredients": [
+        "2 tablespoons coconut oil",
+        "1 large yellow onion, chopped",
+        "2 tablespoons flaked coconut",
+        "2 tablespoons chopped garlic",
+        "3 cups stemmed and chopped Swiss chard",
+        "1 quart vegetable stock",
+        "1 (16 ounce) can coconut milk",
+        "1/4 cup finely grated Parmesan cheese, or more to taste",
+        "sea salt and freshly ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chard and Coconut Soup",
     "url": "http://allrecipes.com/recipe/236810/chard-and-coconut-soup/"
 }

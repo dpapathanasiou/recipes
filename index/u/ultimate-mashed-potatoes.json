@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes, carrots, and garlic into a large pot and cover with water. Season with salt, black pepper, paprika, onion powder, thyme, basil, oregano, and marjoram. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two.",
+        "Return the potatoes to the pot, and mash until smooth. Fold in the butter, Cheddar cheese, Worcestershire sauce, barbeque sauce, and popcorn chicken until the cheese has melted. Stir in the hot milk until absorbed and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4000&h=2094&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F444212.jpg",
+    "ingredients": [
+        "5 pounds red potato, cut into chunks",
+        "\u00bd cup carrots, cut into 1 inch pieces",
+        "4 cloves garlic, halved",
+        "1 tablespoon salt",
+        "1 pinch ground black pepper",
+        "1 teaspoon paprika",
+        "1 teaspoon onion powder",
+        "1 teaspoon dried thyme leaves",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried marjoram",
+        "\u00bd cup butter, room temperature",
+        "\u00bd cup shredded Cheddar cheese",
+        "2 teaspoons Worcestershire sauce",
+        "2 tablespoons barbeque sauce (such as Sweet Baby Ray's\u00ae)",
+        "1 cup hot popcorn chicken",
+        "2 cups hot milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ultimate Mashed Potatoes",
     "url": "http://allrecipes.com/recipe/168097/ultimate-mashed-potatoes/"
 }

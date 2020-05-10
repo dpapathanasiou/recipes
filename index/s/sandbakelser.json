@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, stir together the flour and sugar. Cut in butter until a mealy consistency is reached. Add water, almond extract, and egg yolk; mix by hand and knead into a smooth ball.  Wrap and refrigerate dough for up to 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C). Roll pieces of dough into 1 inch balls and press down into the cookie molds or small tart molds. Press so dough is all of the way up the side of the molds, then prick with a fork to keep them from puffing up and deforming during baking.",
+        "Bake cookies for 15 to 20 minutes, until golden brown. Cool cookies in molds on a wire rack for 10 minutes before carefully removing to cool completely."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1\u2009\u00be cups all-purpose flour",
+        "\u00bd cup white sugar",
+        "\u00bd cup butter, softened",
+        "3 tablespoons water",
+        "\u00bd teaspoon almond extract",
+        "1  egg yolk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sandbakelser",
     "url": "http://allrecipes.com/recipe/11548/sandbakelser/"
 }

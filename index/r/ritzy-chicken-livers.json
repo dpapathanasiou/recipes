@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place crushed cracker crumbs and seasonings of your choice in a shallow bowl or plate. Pour melted butter into another shallow bowl or plate. Roll chicken livers in butter or margarine, then in crumbs.",
+        "Place coated chicken in a lightly greased 9x13 inch baking dish. Bake in the preheated oven for 40 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3127231.jpg",
+    "ingredients": [
+        "12  fresh chicken livers",
+        "24  buttery round crackers, crushed",
+        "1 tablespoon Italian-style seasoning",
+        "4 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ritzy Chicken Livers",
     "url": "http://allrecipes.com/recipe/8956/ritzy-chicken-livers/"
 }

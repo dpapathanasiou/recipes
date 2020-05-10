@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a skillet with a lid over medium heat. Stir in the leeks and garlic, cook and stir 3 minutes until the leeks begin to soften. Pour in the white wine, and bring to a simmer, then add the tomatoes, chicken broth, thyme, and dill weed. Simmer, uncovered, until the liquid reduces to half.",
+        "Lay the sole filets on top of the vegetables, and cover the skillet. Cook until the fish is opaque, and flakes easily with a fork, about 10 minutes. Ladle the sauce over the sole to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7804943.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 cup leeks, chopped",
+        "1/2 teaspoon minced garlic",
+        "1/2 cup dry white wine",
+        "3 tomatoes, chopped",
+        "1 cup chicken broth",
+        "1/2 teaspoon dried thyme",
+        "1 teaspoon dried dill weed",
+        "2 (6 ounce) fillets sole"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sole Steamed with Tomato-Leek Sauce",
     "url": "http://allrecipes.com/recipe/162905/sole-steamed-with-tomato-leek-sauce/"
 }

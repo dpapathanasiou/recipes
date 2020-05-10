@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch. Cover the saucepan and bring the water to a boil over high heat. Once the water is boiling, remove from the heat and let the eggs stand in the hot water for 15 minutes. Pour out the hot water, then cool the eggs under cold running water in the sink. Peel once cold.",
+        "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Place chicken livers on a baking sheet in a single layer and broil until the liver is no longer pink in the center and the juices run clear, about 3 minutes per side.",
+        "Heat 1 tablespoon of vegetable oil in a skillet over medium heat. Stir in the chopped large onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Divide into two bowls and set aside. Place carrots in the same skillet. Cook and stir until the carrots have softened, about 5 minutes.",
+        "Place chicken livers, carrots, raw chopped onion, 1 hardboiled egg, half of the cooked onion, salt and pepper in a food processor. Process until smooth. Pour in the chicken stock and continue processing until the liver mixture is creamy and fluffy. Arrange the liver mixture in a bowl and top with the remaining cooked onion and grated hardboiled egg. Refrigerate for 4 hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1365&h=715&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F615116.jpg",
+    "ingredients": [
+        "2  eggs",
+        "2\u2009\u00bc pounds chicken livers",
+        "2 tablespoons vegetable oil, divided",
+        "1 large onion, chopped",
+        "2  carrots, grated",
+        "1 small onion, chopped",
+        "salt and pepper to taste",
+        "1 tablespoon chicken stock"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bubbie's Chopped Liver",
     "url": "http://allrecipes.com/recipe/93512/bubbies-chopped-liver/"
 }

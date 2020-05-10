@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix brown sugar, paprika, salt, pepper, garlic powder, oregano, cumin, and cinnamon together until evenly mixed. Store in an airtight container."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6717274.jpg",
+    "ingredients": [
+        "7 tablespoons brown sugar, or more to taste",
+        "1 1/2 tablespoons paprika",
+        "1 1/2 tablespoons salt",
+        "1 1/2 tablespoons ground black pepper",
+        "1 teaspoon garlic powder",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon ground cumin",
+        "1/2 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ann's Sweet and Spicy BBQ Rub",
     "url": "http://allrecipes.com/recipe/237409/anns-sweet-and-spicy-bbq-rub/"
 }

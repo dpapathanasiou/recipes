@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cream cheese, feta cheese, and butter together in a bowl using your hands; add black olives and green onions. Form mixture into a ball; sprinkle with almonds. Lightly press almonds into cheese ball. Refrigerate for at least 2 hours before serving."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, at room temperature",
+        "5 ounces crumbled feta cheese",
+        "\u2153 cup butter, at room temperature",
+        "20  black olives, drained and sliced",
+        "3  green onions, chopped",
+        "1 (3 ounce) package sliced almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Feta and Almond Cheese Ball",
     "url": "http://allrecipes.com/recipe/230554/feta-and-almond-cheese-ball/"
 }

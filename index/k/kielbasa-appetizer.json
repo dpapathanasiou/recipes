@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine the kielbasa, onion, mustard, and jalapeno jelly in a slow cooker; stir.",
+        "Set slow cooker to high. Cook until completely heated, about 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7442897.jpg",
+    "ingredients": [
+        "1 pound kielbasa, cut into 1/4-inch slices",
+        "1  onion, chopped",
+        "\u00bd cup mustard",
+        "1 (10 ounce) jar prepared jalapeno pepper jelly"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Kielbasa Appetizer",
     "url": "http://allrecipes.com/recipe/67390/kielbasa-appetizer/"
 }

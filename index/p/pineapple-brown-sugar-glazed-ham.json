@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Place ham, cut-side down, into a roasting pan. Pin pineapple slices onto ham using toothpicks.",
+        "Mix pineapple juice and 1/2 cup brown sugar together in a saucepan; bring to a boil until glaze is slightly thickened, about 5 minutes. Remove saucepan from heat.",
+        "Bake ham in the preheated oven for 30 minutes. Pour glaze over ham and pineapple rings; continue baking for 30 minutes more. Sprinkle remaining 1 1/2 cups brown sugar over ham and pineapple rings; continue baking until ham is cooked through, about 30 minutes more. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C).",
+        "Pour the remaining glaze over cooked ham."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4485837.jpg",
+    "ingredients": [
+        "1 (6 pound) bone-in ham",
+        "1 (8 ounce) can pineapple rings",
+        "2 (6 ounce) cans pineapple juice",
+        "2 cups brown sugar, divided",
+        "1 (20 ounce) can crushed pineapple"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pineapple Brown Sugar Glazed Ham",
     "url": "http://allrecipes.com/recipe/245216/pineapple-brown-sugar-glazed-ham/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti at a boil until tender yet firm to the bite, about 12 minutes; drain.",
+        "Stir water, peanut butter, garlic, soy sauce, lemon juice, and ginger together in a bowl until smooth; set aside.",
+        "Heat peanut oil in a large skillet over medium-high heat. Fry tofu in oil until lightly browned, about 5 minutes. Add leeks; cook and stir until the leeks soften, 2 to 3 minutes. Stir Thai chilies into the tofu mixture; toss to combine and cook until the chilies are hot, about 1 minute.",
+        "Remove skillet from heat. Add spaghetti and peanut butter sauce to the tofu mixture; toss until everything is evenly coated in sauce. Season with chile-garlic sauce to serve."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "10 ounces spaghetti",
+        "1 cup water",
+        "\u00bd cup crunchy peanut butter",
+        "4 cloves garlic, crushed",
+        "2 tablespoons soy sauce",
+        "1 tablespoon lemon juice",
+        "1 tablespoon crushed fresh ginger root",
+        "2 tablespoons peanut oil",
+        "1 pound tofu, diced",
+        "2  leeks, sliced into rounds",
+        "4  fresh Thai chiles, sliced into rounds (optional)",
+        "1 teaspoon sriracha sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Tofu Pasta",
     "url": "http://allrecipes.com/recipe/230972/peanut-tofu-pasta/"
 }

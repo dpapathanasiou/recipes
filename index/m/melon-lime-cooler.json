@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place honeydew melon in a single layer on a baking sheet. Cover and freeze until firm, about 30 minutes.",
+        "Transfer frozen melon to a food processor with the sherbet and lime juice. Puree until smooth. Pour mixture evenly into 4 glasses, and garnish each glass with a strawberry. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/844979.jpg",
+    "ingredients": [
+        "4 1/2 cups cubed honeydew melon",
+        "1 1/2 cups lime sherbet",
+        "2 tablespoons lime juice",
+        "4 fresh strawberries (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Melon Lime Cooler",
     "url": "http://allrecipes.com/recipe/215354/melon-lime-cooler/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wash the peanuts and place them in a pot. Add salt and water. Bring the water to a boil.",
+        "Let the water boil for 3 hours.",
+        "Taste the peanuts, if they are not salty enough for your taste add more salt. If you would like the peanuts to be softer, return the water to boil and cook until they reach the consistency you desire."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "5 pounds raw peanuts, in shells",
+        "1 cup salt",
+        "water to cover"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Boiled Peanuts",
     "url": "http://allrecipes.com/recipe/17551/boiled-peanuts/"
 }

@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat butter and olive oil together with onion and garlic in a large pot over medium heat; cook and stir ground beef and sausage in the onion mixture until browned and crumbly, 10 to 15 minutes. Stir Italian seasoning, salt, rosemary, oregano, and black pepper into ground beef-sausage mixture; simmer for 20 minutes.",
+        "Pour water, tomato puree, and tomato paste into ground beef-sausage mixture; simmer, stirring occasionally, over low heat until flavors have combined, at least 2 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bd cup butter",
+        "3 tablespoons olive oil",
+        "1 large onion, chopped",
+        "3 cloves garlic, chopped",
+        "1 pound ground beef",
+        "1 pound mild sausage",
+        "4 teaspoons Italian seasoning",
+        "2 teaspoons salt (optional)",
+        "2 teaspoons dried rosemary",
+        "1\u2009\u00bd teaspoons dried oregano",
+        "\u00bd teaspoon ground black pepper",
+        "76 fluid ounces water",
+        "1 (29 ounce) can tomato puree",
+        "3 (6 ounce) cans tomato paste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wedding Gift Spaghetti Sauce",
     "url": "http://allrecipes.com/recipe/233348/wedding-gift-spaghetti-sauce/"
 }

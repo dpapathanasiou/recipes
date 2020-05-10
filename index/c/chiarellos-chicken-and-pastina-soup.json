@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken in 12-inch skillet. Add 1 carton of the broth. Heat to boiling. Reduce heat; cover and simmer 20 minutes or until juice of chicken is clear when center of thickest part is cut (170 degrees F).",
+        "Meanwhile, in 5-quart stockpot, heat oil over medium heat. Add onion, carrot and celery; cook 8 to 10 minutes, stirring occasionally, until vegetables are tender.",
+        "Drain chicken, reserving broth; set chicken aside. Strain broth; add to vegetables. Stir remaining carton of broth, the tomatoes, salt, pepper and bay leaf into stockpot. Heat to boiling. Stir in pasta. Reduce heat; cover and simmer 15 minutes.",
+        "Shred or cut chicken into bite-size pieces; add to soup. Stir in greens just until wilted. Remove bay leaf. Serve with a sprinkle of additional freshly ground pepper and the cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3951311.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 cup Muir Glen\u00ae organic crushed tomatoes with basil",
+        "2 pounds boneless skinless chicken breasts",
+        "\u00bd cup chopped onion",
+        "\u00bd cup diced carrot",
+        "\u00bd cup diced celery",
+        "2 (32 ounce) cartons Progresso\u00ae chicken broth",
+        "\u00bd teaspoon gray salt or sea salt",
+        "\u00bc teaspoon freshly ground black pepper",
+        "1  dried bay leaf",
+        "1 cup uncooked acini de pepe or small round pasta",
+        "2 cups chopped, lightly packed mustard greens, spinach, Swiss chard or other greens",
+        "\u2153 cup shredded Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chiarello's Chicken and Pastina Soup",
     "url": "http://allrecipes.com/recipe/216048/chiarellos-chicken-and-pastina-soup/"
 }

@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pop the popcorn according to the package directions. While the corn pops, cut the candy bar into 1/2 inch pieces. Spread the popped corn onto a microwave-safe platter (I like to use paper plates for easy clean up). Top with candy bar pieces. Heat on full power in the microwave at 30 second intervals, or until candy is melted."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1179437.jpg",
+    "ingredients": [
+        "1 (3.5 ounce) package microwave popcorn",
+        "1 king size bar chocolate-coated caramel-peanut nougat candy"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Candy Bar Popcorn",
     "url": "http://allrecipes.com/recipe/88547/candy-bar-popcorn/"
 }

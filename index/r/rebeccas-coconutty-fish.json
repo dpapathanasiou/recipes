@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Lightly coat the bottom of a 13x9-inch baking dish with cooking spray.",
+        "Drizzle lime juice over one side of each tilapia fillet; place the fillets with the juiced-side down into the prepared baking dish. Spread a thin layer of yogurt atop each fillet.",
+        "Mix pecans and coconut in a bowl. Divide equally between the tilapia fillets and lightly press mixture into the yogurt layer.",
+        "Bake in preheated oven until fish flakes easily with a fork, about 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/841232.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 lime, juiced",
+        "8 tilapia fillets",
+        "1/4 cup honey-flavored Greek-style yogurt",
+        "1/2 cup finely chopped pecans",
+        "1/2 cup shredded sweetened coconut"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rebecca's Coconutty Fish",
     "url": "http://allrecipes.com/recipe/222699/rebeccas-coconutty-fish/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook the tomatoes and peppers together in a small saucepan, or in the microwave until softened. Place into the bowl of a blender with the garlic clove, and puree until smooth.",
+        "Meanwhile, heat the vegetable oil in a large skillet over medium-high heat. Season the beef with salt and pepper to taste, then fry in the skillet until no longer pink.",
+        "Once cooked, pour in the tomato puree, and add the bouillon cube. Stir until the bouillon cube dissolves, then cook for 3 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1114856.jpg",
+    "ingredients": [
+        "2  tomatoes, chopped",
+        "10  fresh chile de arbol peppers, chopped",
+        "1 clove garlic",
+        "2 teaspoons vegetable oil",
+        "2 pounds beef chuck roast, cut into 1/4-inch slices",
+        "salt and pepper to taste",
+        "1 cube tomato-flavored bouillon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carne con Chile Rojo",
     "url": "http://allrecipes.com/recipe/134261/carne-con-chile-rojo/"
 }

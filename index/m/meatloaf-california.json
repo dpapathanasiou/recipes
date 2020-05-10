@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a 9x13 inch baking pan with aluminum foil.",
+        "In a large bowl, mix the beef, onion, green bell pepper, celery, eggs, soy sauce, and ketchup. Season with basil, parsley, oregano, garlic powder, and 2 teaspoons pepper. Mix in 1/2 cup oats. Gradually mix in remaining oats 1/4 cup at a time until the beef mixture is firm but not stiff. Transfer to the prepared baking pan, and form into a loaf shape.",
+        "In a small bowl, mix the brown sugar, ketchup, brown mustard, mesquite smoke flavoring, 1/2 teaspoon pepper, and paprika. Drizzle evenly over the meat loaf.",
+        "Bake meat loaf 1 hour in the preheated oven, or to a minimum temperature of 160 degrees F (72 degrees F)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F457980.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "\u00be cup diced red onion",
+        "\u00bd cup diced green bell pepper",
+        "\u00bd cup diced celery",
+        "2  eggs",
+        "\u00bc cup soy sauce",
+        "\u2153 cup ketchup",
+        "2 tablespoons dried basil",
+        "1 tablespoon dried parsley",
+        "1 tablespoon dried oregano",
+        "2 teaspoons garlic powder",
+        "2 teaspoons ground black pepper",
+        "1 cup quick cooking oats, or as needed",
+        "\u00bc cup brown sugar",
+        "\u00bc cup ketchup",
+        "3 tablespoons brown mustard",
+        "\u00bd teaspoon liquid mesquite smoke flavoring",
+        "\u00bd teaspoon ground black pepper",
+        "\u00bd teaspoon paprika"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meatloaf California",
     "url": "http://allrecipes.com/recipe/85162/meatloaf-california/"
 }

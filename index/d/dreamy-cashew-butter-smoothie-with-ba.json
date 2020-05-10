@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend banana, almond milk, blueberries, dates, flax seeds, and cashew butter together in a blender on high speed until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3466875.jpg",
+    "ingredients": [
+        "1 ripe banana",
+        "1/2 cup cold unsweetened almond milk",
+        "1/3 cup frozen blueberries",
+        "2 dates, pitted and chopped, or more taste",
+        "1 1/2 tablespoons flax seeds",
+        "1 tablespoon cashew butter, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dreamy Cashew Butter Smoothie with Banana, Berry, Dates, and Flax",
     "url": "http://allrecipes.com/recipe/246266/dreamy-cashew-butter-smoothie-with-ba/"
 }

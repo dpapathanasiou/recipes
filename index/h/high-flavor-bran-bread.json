@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place ingredients in order indicated by your manufacturer. Select the whole wheat or whole grain setting."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2751284.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups warm water (110 degrees F/45 degrees C)",
+        "2 tablespoons dry milk powder",
+        "2 tablespoons vegetable oil",
+        "2 tablespoons molasses",
+        "2 tablespoons honey",
+        "1\u2009\u00bd teaspoons salt",
+        "2\u2009\u00bc cups whole wheat flour",
+        "1\u2009\u00bc cups bread flour",
+        "1 cup whole bran cereal",
+        "2 teaspoons active dry yeast"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "High Flavor Bran Bread",
     "url": "http://allrecipes.com/recipe/7127/high-flavor-bran-bread/"
 }

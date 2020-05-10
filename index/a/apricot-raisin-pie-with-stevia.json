@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Whisk together the powdered milk, cornstarch, stevia powder, cinnamon, and salt in a small bowl; set aside.",
+        "Place apricots, raisins, and water in a small saucepan over medium heat, and bring to a boil.  Boil for 5 minutes, stirring occasionally. Stir in the powdered milk mixture, and cook, stirring constantly until the mixture thickens, about 3 minutes. Remove from heat; stir in white vinegar and butter. Allow to cool for 15 minutes.",
+        "Turn the filling into a pastry lined pie pan. Cover with top crust. Seal edges, and cut slits in the top crust.",
+        "Bake in the preheated oven until crust is golden brown, 30 to 35 minutes. Remove from oven and allow to cool before slicing."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd cup powdered milk",
+        "2 tablespoons cornstarch",
+        "\u00bd teaspoon stevia powder",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc teaspoon salt",
+        "1 cup dried apricots, chopped",
+        "1 cup raisins",
+        "2 cups water",
+        "1 tablespoon white vinegar",
+        "1 tablespoon butter",
+        "1  double crust ready-to-use pie crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Apricot Raisin Pie with Stevia",
     "url": "http://allrecipes.com/recipe/143614/apricot-raisin-pie-with-stevia/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).",
+        "Fry bread pieces in batches till deep golden brown. Set aside on a plate lined with paper towels to drain.",
+        "Stir the water and sugar together in a small pan; bring to a boil. Stir the cardamom into the water, reduce the heat to low, and simmer another 2 to 3 minutes. Dip the fried bread pieces in the liquid for 2 to 3 minutes. Arrange the bread in a single layer in a flat-bottomed serving dish.",
+        "Drizzle the cream over the bread pieces, and top with the pistachio nuts. Chill at least 2 hours before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 quart cooking oil",
+        "5 slices white bread, quartered",
+        "1 cup water",
+        "1/2 cup white sugar",
+        "1/2 teaspoon ground cardamom",
+        "2 tablespoons cream",
+        "2 tablespoons chopped pistachio nuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Shahi Tukri (Sweet Fried Bread)",
     "url": "http://allrecipes.com/recipe/212815/shahi-tukri-sweet-fried-bread/"
 }

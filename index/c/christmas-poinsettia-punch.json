@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chilled cranberry juice, club soda, vodka, and Champagne (see Cook's Note).",
+        "Garnish with fresh cranberries."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3029582.jpg",
+    "ingredients": [
+        "3/4 (64 fluid ounce) bottle cranberry juice",
+        "1 liter club soda",
+        "1 (750 milliliter) bottle orange-flavored vodka",
+        "1 (750 milliliter) bottle champagne, or more to taste",
+        "1/2 cup fresh cranberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Poinsettia Punch",
     "url": "http://allrecipes.com/recipe/240526/christmas-poinsettia-punch/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl combine the butter or margarine, sage and stuffing mix. Mix together and spread this mixture in the bottom of a 9x13 inch baking dish. Spread cooked chicken over mixture. In the same bowl combine the cream of chicken soup, cream of celery soup and water. Mix well and pour this mixture over the chicken.",
+        "Bake at 350 degrees F (175 degrees C) for 45 minutes or until bubbly."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1922&h=1006&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2609820.jpg",
+    "ingredients": [
+        "1 (4 pound) whole chicken, deboned and cut into bite size pieces",
+        "\u00bd cup butter",
+        "1 teaspoon dried sage",
+        "1 (6 ounce) package herb-seasoned dry bread stuffing mix",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "1 (10.75 ounce) can condensed cream of celery soup",
+        "2\u2009\u00bd cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken and Dressing Casserole",
     "url": "http://allrecipes.com/recipe/16691/chicken-and-dressing-casserole/"
 }

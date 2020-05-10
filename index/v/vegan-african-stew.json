@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a Dutch oven over medium-high heat. Cook and stir yams, onions, cabbage, tomatoes, coconut, and garlic in the hot oil until the vegetables are slightly browned, 7 to 10 minutes.",
+        "Pour tomato juice and apple juice into the Dutch oven; season with ginger, cayenne pepper, and salt. Reduce heat to medium-low and cook at a simmer for 1 hour.",
+        "Stir bell pepper and peanut butter into the mixture. Cook, stirring regularly, until the peanut butter is melted completely into the soup, about 30 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6624568.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "3 cups chopped yams",
+        "2 large onions, chopped",
+        "2 cups chopped cabbage",
+        "2 tomatoes, chopped",
+        "6 tablespoons flaked coconut",
+        "3 cloves garlic, minced",
+        "3 cups tomato juice",
+        "1 cup apple juice",
+        "1 teaspoon ground ginger",
+        "1/4 teaspoon cayenne pepper",
+        "1 pinch salt",
+        "1 large green bell pepper, chopped",
+        "1/2 cup peanut butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan African Stew",
     "url": "http://allrecipes.com/recipe/234983/vegan-african-stew/"
 }

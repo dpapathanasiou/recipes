@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Lay pork chops flat onto your work surface. Use the tip of a sharp boning or paring knife to cut a pocket in each pork chop making a 2 inch slit in the side.",
+        "Mix mushrooms, Swiss cheese, parsley, garlic powder, black pepper, and salt in a bowl; stuff pork chops with mushroom mixture. Secure the open side with a toothpick.",
+        "Whisk eggs in a bowl; pour bread crumbs into a separate bowl. Dip the stuffed pork chops into the beaten egg; press pork chops into bread crumbs until completely coated.",
+        "Heat oil in a skillet over medium heat; place pork chops, pocket side-down, into the hot oil. Cook until outside of pork chops is browned, 2 to 3 minutes per side.",
+        "Pour in enough wine to come halfway up pork chops. Reduce heat to low, cover skillet, and simmer until pork chops are tender, about 2 hours. Check wine level occasionally and add more as needed. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7039127.jpg",
+    "ingredients": [
+        "2  (3/4 inch thick) bone-in pork chops",
+        "1 (4 ounce) package sliced fresh mushrooms",
+        "4 ounces diced Swiss cheese",
+        "1 tablespoon chopped fresh parsley",
+        "1 teaspoon garlic powder",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bc teaspoon salt",
+        "2  eggs",
+        "\u00be cup bread crumbs",
+        "2 tablespoons vegetable oil",
+        "\u00bd cup white Zinfandel wine, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gourmet Stuffed Pork Chops",
     "url": "http://allrecipes.com/recipe/232208/gourmet-stuffed-pork-chops/"
 }

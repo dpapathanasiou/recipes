@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 375 degrees F. Line 2 baking sheets with foil. Coat sweet potatoes with 3 tablespoons oil. Place on prepared baking sheets. Bake 28 to 32 minutes until fork tender.",
+        "Heat remaining 3 tablespoons oil in large skillet over medium-high heat. Add sage leaves. Cook 1 to 2 minutes or until edges begin to brown. Remove with slotted spoon.",
+        "Add sweet potatoes to skillet. Cook 2 minutes over medium-high heat. Add molasses, cinnamon and red pepper. Cook 2 to 3 minutes, stirring occasionally, until molasses thickens. Season with salt. Place in serving dish. Top with crumbled sage leaves and pecans."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1457008.jpg",
+    "ingredients": [
+        "4 large sweet potatoes, peeled and cut into 1-inch cubes",
+        "6 tablespoons Crisco\u00ae Pure Canola Oil, divided",
+        "15 fresh sage leaves",
+        "1/3 cup molasses",
+        "1/4 teaspoon ground cinnamon",
+        "1/8 teaspoon ground red pepper",
+        "Salt to taste",
+        "1/3 cup coarsely chopped pecans"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Molasses Glazed Sweet Potatoes with Sage & Pecans",
     "url": "http://allrecipes.com/recipe/239360/molasses-glazed-sweet-potatoes-with-s/"
 }

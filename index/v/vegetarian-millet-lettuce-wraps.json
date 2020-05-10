@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a small saucepan over medium heat; add millet and cook until toasted and fragrant, 4 to 5 minutes. Add water, cover, and simmer until most of the water is absorbed, about 10 minutes.",
+        "Stir onion, lime juice, garlic, cilantro, and salt into millet; cook and stir until heated through and liquid is completely absorbed, about 5 minutes more. Cool millet mixture for 3 minutes.",
+        "Divide chopped carrot among butter lettuce leaves. Spoon millet mixture over carrots."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3612811.jpg",
+    "ingredients": [
+        "1 teaspoon butter",
+        "\u00bc cup millet",
+        "\u00bd cup water",
+        "\u00bc small onion, chopped (optional)",
+        "\u00bd  lime, juiced",
+        "1 small clove garlic, minced",
+        "1 teaspoon chopped fresh cilantro",
+        "\u00bd teaspoon salt",
+        "3 leaves butter lettuce",
+        "1  carrot, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetarian Millet Lettuce Wraps",
     "url": "http://allrecipes.com/recipe/255600/vegetarian-millet-lettuce-wraps/"
 }

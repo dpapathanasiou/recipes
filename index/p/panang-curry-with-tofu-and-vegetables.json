@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water, brown rice, soy sauce, and salt in a rice cooker. Cover and cook according to manufacturer's directions, about 35 minutes.",
+        "Heat vegetable oil in a wide skillet over medium heat. Add curry paste; cook and stir until fragrant, 1 to 2 minutes. Add coconut milk, fish sauce, white sugar, and lime leaves. Reduce heat to medium-low and simmer, covered, until flavors combine, about 5 minutes. Stir in tofu, broccoli, red bell pepper, and carrots. Cook and stir until vegetables are tender but not soft, 1 to 2 minutes.",
+        "Serve panang curry over brown rice."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1187&h=621&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7050649.jpg",
+    "ingredients": [
+        "3 cups water, or as needed",
+        "2 cups brown rice",
+        "1 tablespoon soy sauce, or to taste",
+        "\u00bd teaspoon salt",
+        "1 tablespoon vegetable oil",
+        "2\u2009\u00bd tablespoons panang curry paste",
+        "1 (14 ounce) can coconut milk",
+        "1 tablespoon vegetarian fish sauce",
+        "1 tablespoon white sugar",
+        "5  kaffir lime leaves",
+        "8 ounces fried tofu, cubed",
+        "2 cups broccoli florets",
+        "\u00bd  red bell pepper, chopped into 1-inch pieces",
+        "\u00bc cup diagonally sliced carrots"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Panang Curry with Tofu and Vegetables",
     "url": "http://allrecipes.com/recipe/246123/panang-curry-with-tofu-and-vegetables/"
 }

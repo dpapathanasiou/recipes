@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain.",
+        "Mash the potatoes with a potato masher; mash in butter and cream cheese. Stir in milk, bacon bits, Colby-Jack cheese, and steak seasoning. Season to taste with salt."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/441852.jpg",
+    "ingredients": [
+        "3 pounds red potatoes, cut into chunks",
+        "1/4 cup butter",
+        "2 ounces cream cheese, cut into pieces",
+        "1/4 cup milk",
+        "2 tablespoons bacon bits",
+        "1/2 cup shredded Colby-Monterey Jack cheese",
+        "2 tablespoons Montreal steak seasoning",
+        "1/2 teaspoon kosher salt, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Montreal Steak Seasoned Mashed Potatoes",
     "url": "http://allrecipes.com/recipe/188403/montreal-steak-seasoned-mashed-potato/"
 }

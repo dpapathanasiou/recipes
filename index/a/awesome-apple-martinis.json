@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a cocktail shaker full of ice, combine apple schnapps, vodka and apple juice. Mix well. Pour into glasses and garnish with a slice of Granny Smith apple."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/482784.jpg",
+    "ingredients": [
+        "1 fluid ounce apple schnapps",
+        "1 fluid ounce vodka",
+        "1 fluid ounce apple juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Awesome Apple Martinis",
     "url": "http://allrecipes.com/recipe/18919/awesome-apple-martinis/"
 }

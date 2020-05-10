@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk flour and salt together in a large bowl. Cut in the lard with a knife or pastry blender until the mixture resembles coarse crumbs. Sprinkle in water, 1 tablespoon at a time, blending gently with a fork or pastry blender until all flour is moistened and dough almost cleans the sides of the bowl. Divide the dough in half and shape flattened rounds. Wrap in plastic and refrigerate for at least 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1734366.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "2/3 cup lard",
+        "5 tablespoons ice water, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Classic Lard Two-Crust Pie Pastry",
     "url": "http://allrecipes.com/recipe/234976/classic-lard-two-crust-pie-pastry/"
 }

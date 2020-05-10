@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C).",
+        "Place the tomato halves in a shallow baking dish in which they can all fit in snugly side by side. Insert the whole cloves of garlic in between the tomatoes. Brush olive oil over the top and sprinkle with basil. Season with salt and pepper.",
+        "Bake uncovered for 35 to 45 minutes, until tomatoes have softened and are sizzling in the pan with the edges slightly charred. Serve while hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F14594.jpg",
+    "ingredients": [
+        "8  roma (plum) tomatoes, halved",
+        "12 cloves garlic, peeled",
+        "4 tablespoons olive oil",
+        "\u00bc cup chopped fresh basil leaves",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Roma Tomatoes and Garlic",
     "url": "http://allrecipes.com/recipe/88071/roasted-roma-tomatoes-and-garlic/"
 }

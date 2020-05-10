@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain and rinse in cold water.",
+        "Place spaghetti into a large salad bowl and toss with red onion, red bell pepper, cucumber, tomato, Italian salad dressing, salad dressing mix, and salt. Chill before serving; salad is better the longer it chills."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1039946.jpg",
+    "ingredients": [
+        "2 (12 ounce) packages spaghetti",
+        "1 small red onion, finely chopped",
+        "1 red bell pepper, seeded and finely chopped",
+        "1 cucumber, chopped",
+        "1 tomato, chopped",
+        "1 (16 ounce) bottle fat-free Italian salad dressing",
+        "1 (.7 ounce) package dry Italian salad dressing mix (such as Good Seasons\u00ae)",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Light Spaghetti Salad",
     "url": "http://allrecipes.com/recipe/223528/light-spaghetti-salad/"
 }

@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pitcher, stir together the lime juice and sugar until dissolved. Stir in mint sprigs, and mash with a wooden spoon to release some of the oils. Pour in water, and mix well. Mix in jalapeno slices. Put a lid on the pitcher, and refrigerate 8 hours, or overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/14236.jpg",
+    "ingredients": [
+        "4 limes, juiced",
+        "1 cup white sugar",
+        "2 sprigs fresh mint",
+        "1/2 gallon water",
+        "1 fresh jalapeno pepper, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pepper-Mint Limeade",
     "url": "http://allrecipes.com/recipe/85742/pepper-mint-limeade/"
 }

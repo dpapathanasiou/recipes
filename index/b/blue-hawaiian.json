@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour the pineapple juice, curacao, and rum into a cocktail shaker over ice. Cover, and shake until the outside of the shaker has frosted. Strain into a chilled martini glass to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/852691.jpg",
+    "ingredients": [
+        "2 fluid ounces pineapple juice",
+        "1 fluid ounce blue curacao",
+        "1 1/2 fluid ounces coconut-flavored rum"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Hawaiian",
     "url": "http://allrecipes.com/recipe/162122/blue-hawaiian/"
 }

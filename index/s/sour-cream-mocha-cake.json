@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Microwave 1 cup chocolate chips in a small, microwave-safe bowl on high for 1 minute; stir.  Cook at additional 10 to 20 second intervals, stirring until smooth.  Cool to room temperature.",
+        "Beat melted chocolate, sour cream, oil and eggs in large mixer bowl.  Beat in sugar, flour, baking soda and salt.  Dissolve coffee crystals in water; gradually beat into batter.  Pour into greased 13 x 9-inch baking pan. Sprinkle the remaining 1 cup chocolate chips and the chopped nuts over the top of the cake.",
+        "Bake in a preheated 350 degrees F (175 degrees C) for 30 to 40 minutes or until cake tests done."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F831611.jpg",
+    "ingredients": [
+        "2 cups semisweet chocolate chips",
+        "\u00bd cup sour cream, room temperature",
+        "\u00bd cup vegetable oil",
+        "2  eggs",
+        "2 cups white sugar",
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00be teaspoon baking soda",
+        "\u00bd teaspoon salt",
+        "2 tablespoons instant coffee powder",
+        "1 cup warm water",
+        "\u00bd cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sour Cream Mocha Cake",
     "url": "http://allrecipes.com/recipe/7564/sour-cream-mocha-cake/"
 }

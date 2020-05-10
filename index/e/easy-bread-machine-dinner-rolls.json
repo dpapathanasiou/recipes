@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place water, butter, egg, 3 cups flour blend, sugar, salt and yeast in bread machine pan in order recommended by the manufacturer. Select Dough/Manual cycle. During initial mixing cycle, open lid and scrape down sides of bread pan as necessary. As dough mixes, add just enough additional flour blend to create a soft dough. When Dough/Manual cycle is complete, remove dough from bread machine pan. Place on lightly floured surface.",
+        "Coat 13 x 9-inch baking pan with cooking spray. Pat dough into rectangle. Cut with pizza cutter or serrated knife into 15 equal pieces. Shape each into a ball. Place evenly in prepared pan. Cover and let rise in warm place until doubled, about 35 to 45 minutes.",
+        "Heat oven to 375 degrees F. Uncover rolls. Bake 15 minutes or until golden brown. Serve warm or cool completely on wire rack."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4128&h=2161&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4087405.jpg",
+    "ingredients": [
+        "1 cup water",
+        "3 tablespoons butter, softened",
+        "1  egg",
+        "3\u2009\u00bd cups White Lily\u00ae All Purpose Wheat Flour, or more as needed",
+        "\u00bc cup sugar",
+        "1\u2009\u00bc teaspoons salt",
+        "1 (.25 ounce) package active dry yeast",
+        "Crisco\u00ae Original No-Stick Cooking Spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Bread Machine Dinner Rolls",
     "url": "http://allrecipes.com/recipe/255035/easy-bread-machine-dinner-rolls/"
 }

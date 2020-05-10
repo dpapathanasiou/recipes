@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spray a 1-quart microwave-safe casserole dish with cooking spray.",
+        "Beat eggs by hand in a bowl until slightly frothy; add flour, sugar, sour cream, and salt. Beat until all ingredients are fully incorporated. Pour batter into prepared casserole dish; sprinkle blueberries over batter.",
+        "Microwave on high, turning dish around every minute, until center is set, 4 to 5 minutes. Divide onto plates and sprinkle with confectioners' sugar."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/961428.jpg",
+    "ingredients": [
+        "cooking spray",
+        "5 large eggs",
+        "3 tablespoons all-purpose flour",
+        "3 tablespoons white sugar",
+        "2 tablespoons sour cream",
+        "1/2 teaspoon salt",
+        "1 cup fresh blueberries",
+        "1 tablespoon confectioners' sugar, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Microwave Blueberry Dutch Baby",
     "url": "http://allrecipes.com/recipe/228947/microwave-blueberry-dutch-baby/"
 }

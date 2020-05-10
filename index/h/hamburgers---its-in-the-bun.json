@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill to high heat, and lightly oil grate.",
+        "Divide the ground beef into 4 balls, and flatten into patties between sheets of waxed paper. Lay patties onto the grate of the prepared grill. Sprinkle the tops of the burgers with salt. Grill for about 5 minutes per side, or to desired degree of doneness.",
+        "While the burgers are cooking, spread each top bun with 1 teaspoon of butter, and spread each bottom bun with 1 teaspoon of mustard. Place the buns onto the grill for just a minute to toast.",
+        "Assemble the burgers in this order: Bun, onion, burger patty, cheese, tomato, lettuce, a pinch of salt, and top bun. Spread mayonnaise onto top bun if using."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2319714.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 pinch salt",
+        "4 teaspoons prepared mustard",
+        "4 large hamburger buns",
+        "4 teaspoons butter",
+        "1 small sweet onion, thinly sliced",
+        "4 slices American cheese",
+        "1 large tomato, thinly sliced",
+        "4 leaves iceberg lettuce, shredded",
+        "4 teaspoons mayonnaise (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hamburgers - It's in the Bun",
     "url": "http://allrecipes.com/recipe/49939/hamburgers---its-in-the-bun/"
 }

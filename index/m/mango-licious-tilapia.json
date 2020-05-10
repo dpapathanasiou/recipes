@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C.)",
+        "In a shallow baking dish, combine the olive oil, orange zest, orange juice, salt, pepper and chili flakes. Rinse the fish fillets and pat them dry. Place them into the baking dish and turn to coat with the seasonings.",
+        "Bake for 10 to 12 minutes in the preheated oven, until fish can be flaked with a fork.",
+        "While the fish cooks, combine the mango, onion, avocado, tomatoes, lime zest and juice, jalapeno, ginger, cilantro and 1 teaspoon kosher salt in a glass bowl. Stir to blend and set aside at room temperature until fish has finished cooking. Place fillets on a platter and spoon the salsa over them to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/419846.jpg",
+    "ingredients": [
+        "4 tilapia fillets",
+        "2 tablespoons olive oil",
+        "1 1/2 tablespoons grated orange zest",
+        "1/4 cup fresh orange juice",
+        "salt and pepper to taste",
+        "crushed red pepper flakes to taste",
+        "Salsa:",
+        "1 mango - peeled, seeded and diced",
+        "1 small red onion, finely chopped",
+        "1 avocado - peeled, pitted and diced",
+        "3 roma tomatoes - peeled, seeded and chopped",
+        "1 lime, zested and juiced",
+        "1 jalapeno pepper, seeded and finely chopped",
+        "1 tablespoon minced fresh ginger root",
+        "1/4 cup chopped fresh cilantro",
+        "1 teaspoon kosher salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango-licious Tilapia",
     "url": "http://allrecipes.com/recipe/110380/mango-licious-tilapia/"
 }

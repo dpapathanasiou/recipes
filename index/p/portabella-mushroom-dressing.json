@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a skillet, cook and stir celery, onion, mushrooms, and garlic for 3 minutes. Stir in one can of chicken broth and cook until vegetables are tender. Combine mushroom mixture with bread crumb stuffing.  Pour packet of seasoning over dressing mixture and toss to coat.",
+        "In a 2 quart saucepan, heat remaining chicken broth until hot.  Pour broth over mixture.  Stir well.",
+        "Pour stuffing into a 2 quart casserole dish and bake for 30 to 40 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3356&h=1757&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1755167.jpg",
+    "ingredients": [
+        "4 stalks celery",
+        "1  onion, chopped",
+        "2  large portobello mushrooms, sliced",
+        "3  fresh shiitake mushrooms, stemmed and sliced",
+        "8  crimini mushrooms, sliced",
+        "2 cloves garlic, minced",
+        "1 (12 ounce) package dry bread stuffing mix with seasoning packet reserved",
+        "3 (14.5 ounce) cans chicken broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Portabella Mushroom Dressing",
     "url": "http://allrecipes.com/recipe/16337/portabella-mushroom-dressing/"
 }

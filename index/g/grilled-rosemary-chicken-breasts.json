@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Whisk garlic, olive oil, rosemary, mustard, lemon juice, ground black pepper, and salt together in a bowl.",
+        "Place chicken breasts in a resealable plastic bag. Pour garlic mixture over chicken, reserving 1/8 cup. Seal bag and massage marinade into chicken. Let stand for 30 minutes at room temperature.",
+        "Place chicken on preheated grill and cook for 4 minutes. Turn the chicken, baste with reserved marinade, and continue to grill until cooked through, about 5 minutes. Cover with foil and let rest for at least 2 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2030&h=1063&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2251697.jpg",
+    "ingredients": [
+        "8 cloves garlic, minced",
+        "3 tablespoons olive oil",
+        "2 tablespoons minced fresh rosemary",
+        "1\u2009\u00bd tablespoons Dijon mustard",
+        "1\u2009\u00bd tablespoons lemon juice",
+        "\u00bc teaspoon ground black pepper",
+        "\u215b teaspoon kosher salt",
+        "4  boneless, skinless chicken breast halves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Rosemary Chicken Breasts",
     "url": "http://allrecipes.com/recipe/233546/grilled-rosemary-chicken-breasts/"
 }

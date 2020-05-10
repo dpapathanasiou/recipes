@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large mixing bowl, combine together flour, salt and baking powder. Cut in shortening until mixture resembles coarse cornmeal.",
+        "Add the water and mix until the dough can be gathered together. If necessary, add more water (1 teaspoon at a time) until the dough comes together. Cover the dough with a damp cloth and let rest for 15 minutes.",
+        "Divide the dough into 12 equal pieces and roll into rounds. On a lightly floured surface, use a rolling pin to flatten and stretch each round into a circle 7 inches across.",
+        "Cook on an ungreased skillet over medium high heat until brown spots begin to appear on the tortillas. Keep covered with a clean, dry towel until ready to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4000&h=2094&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2022382.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 teaspoon baking powder",
+        "1 tablespoon shortening",
+        "\u00bd cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tortillas II",
     "url": "http://allrecipes.com/recipe/16836/tortillas-ii/"
 }

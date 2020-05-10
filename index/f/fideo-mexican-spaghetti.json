@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon of vegetable oil in a large skillet over medium heat. Cook chicken breasts in the oil until nicely browned on the outside. Remove from the skillet and set aside.",
+        "Add remaining oil to the skillet, and add the broken spaghetti. Cook, stirring constantly until spaghetti is browned. Drain off any excess oil, and add tomatoes and onion. Dice the chicken breasts, and return them to the skillet. Season with cumin, chili powder, salt and pepper. Pour in water, cover, and simmer over medium-low heat until pasta is tender, and water has been absorbed, about 10 minutes. Check towards the end, and add more water if necessary.",
+        "Spoon the chicken mixture into bowls to serve, and garnish with shredded cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F193454.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "4  skinless, boneless chicken breast halves",
+        "1 (12 ounce) package spaghetti noodles, broken in half",
+        "5  roma (plum) tomatoes, chopped",
+        "1 large onion, chopped",
+        "\u00bd tablespoon ground cumin",
+        "2\u2009\u00bd teaspoons chili powder",
+        "salt and pepper to taste",
+        "1\u2009\u00bd cups water",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fideo (Mexican Spaghetti)",
     "url": "http://allrecipes.com/recipe/62212/fideo-mexican-spaghetti/"
 }

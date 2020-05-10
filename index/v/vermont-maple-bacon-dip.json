@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Mix cream cheese, mayonnaise, milk, bacon, Gravy Mix and 1 cup of the cheese in large bowl until well blended.",
+        "Spread in 9-inch glass pie plate sprayed with no stick cooking spray. Top with apple and remaining 1/2 cup cheese.",
+        "Bake 25 minutes or until heated through and cheese is melted. Drizzle with syrup."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4462884.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "1/2 cup mayonnaise",
+        "1/2 cup milk",
+        "8 slices cooked and crumbled bacon",
+        "1 package McCormick\u00ae Original Country Gravy Mix",
+        "1 1/2 cups shredded sharp Vermont Cheddar cheese, such as Cabot\u00ae, divided",
+        "1/3 cup chopped red apple",
+        "2 tablespoons Vermont maple syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vermont Maple Bacon Dip",
     "url": "http://allrecipes.com/recipe/256794/vermont-maple-bacon-dip/"
 }

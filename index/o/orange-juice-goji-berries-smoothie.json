@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend orange juice, goji berries, and ginger together in a high-powered blender until smooth and goji berries are pureed."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3315176.jpg",
+    "ingredients": [
+        "1 cup freshly squeezed orange juice",
+        "1 tablespoon goji berries",
+        "2 slices fresh ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Orange Juice Goji Berries Smoothie",
     "url": "http://allrecipes.com/recipe/246098/orange-juice-goji-berries-smoothie/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Butter a 9-inch square baking dish.",
+        "Arrange eggs, cut-side down, in the prepared baking dish.",
+        "Melt butter in a saucepan over medium-low heat. Whisk flour into the melted butter until dissolved, 2 to 3 minutes. Gradually stir half-and-half into flour mixture until sauce is thickened and smooth, about 5 minutes. Season sauce with salt, pepper, garlic powder, and mustard. Stir Gruyere cheese into sauce until melted and smooth.",
+        "Pour sauce over eggs and sprinkle Parmesan cheese over sauce.",
+        "Bake in the preheated oven until bubbling and golden brown, 20 to 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=7344&h=3845&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1947540.jpg",
+    "ingredients": [
+        "8  hard-boiled eggs, peeled and halved",
+        "\u00bc cup butter",
+        "\u00bc cup all-purpose flour",
+        "2 cups half-and-half",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc teaspoon dry mustard",
+        "1 cup shredded Gruyere cheese",
+        "\u00bd cup freshly grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hard-Boiled Egg Casserole",
     "url": "http://allrecipes.com/recipe/236441/hard-boiled-egg-casserole/"
 }

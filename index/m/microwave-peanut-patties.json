@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Grease a cookie sheet or other flat surface.",
+        "In a 2 quart glass measuring cup combine water, sugar and corn syrup.  Microwave on high until boiling.  Stir in peanuts.",
+        "Microwave on medium to between 234 and 240 degrees F (112 to 116 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface.",
+        "Stir in butter, vanilla and food coloring.  Beat until creamy and cool.  Drop by teaspoonfuls onto prepared pan."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1053683.jpg",
+    "ingredients": [
+        "1/2 cup water",
+        "2 cups white sugar",
+        "1/2 cup light corn syrup",
+        "1 1/2 cups peanuts",
+        "2 tablespoons butter",
+        "1 teaspoon vanilla extract",
+        "3 drops red food coloring"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Microwave Peanut Patties",
     "url": "http://allrecipes.com/recipe/24281/microwave-peanut-patties/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir the cream cheese, almonds, brown sugar, and lemon juice together in a bowl until the mixture is soft and thoroughly combined; spread over one side of each bread slice. Place 1/4 of the blueberries onto a bread slice; press down on the berries to keep them from rolling off. Top the blueberries with a cream cheese-spread slice. Repeat 3 more times with remaining berries to make 4 blueberry sandwiches.",
+        "Beat the eggs, milk, vanilla extract, and cinnamon together in a bowl until blended. Spray a skillet with cooking spray and heat over medium-low heat.",
+        "Dip each blueberry sandwich into the egg mixture on both sides; fry in the prepared skillet until golden brown, about 3 minutes per side."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2301&h=1205&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4514060.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "3 tablespoons chopped almonds",
+        "2 tablespoons light brown sugar",
+        "1 teaspoon lemon juice",
+        "8 slices bread",
+        "\u00be cup blueberries, divided",
+        "2  eggs",
+        "\u00be cup milk",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon ground cinnamon",
+        "butter flavored cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Blueberry Toast",
     "url": "http://allrecipes.com/recipe/214486/stuffed-blueberry-toast/"
 }

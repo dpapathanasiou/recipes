@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the bacon in a large, deep skillet. Cook over medium-high heat until evenly browned, about 10 minutes. Remove from pan, crumble bacon, and reserve.",
+        "Stir peas into bacon grease left in skillet. Cook on low heat until peas are warm. Stir together flour, salt, and pepper in a small bowl. Pour in evaporated milk and whisk until smooth. Stir milk mixture into peas; cook over medium heat until heated through and thickened. Stir in bacon."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F604314.jpg",
+    "ingredients": [
+        "4 slices bacon",
+        "1 (15 ounce) can peas",
+        "2 tablespoons all-purpose flour",
+        "salt and pepper to taste",
+        "\u00bd (12 ounce) can evaporated milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamed Peas with Bacon",
     "url": "http://allrecipes.com/recipe/78912/creamed-peas-with-bacon/"
 }

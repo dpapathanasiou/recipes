@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Grease and flour a 9 x 13 inch cake pan.  Preheat oven to 325 degrees F (165 degrees C).",
+        "Mix together sugar, eggs, fruit cocktail, soda, and flour.  Pour batter into prepared pan.",
+        "Mix the brown sugar and nuts together, and sprinkle mixture onto the batter.",
+        "Bake for 40 minutes, or until done."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4494945.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups white sugar",
+        "2  eggs",
+        "2 cups fruit cocktail",
+        "2 teaspoons baking soda",
+        "2 cups all-purpose flour",
+        "\u00bc cup packed brown sugar",
+        "1 cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Texas Tornado Cake",
     "url": "http://allrecipes.com/recipe/7450/texas-tornado-cake/"
 }

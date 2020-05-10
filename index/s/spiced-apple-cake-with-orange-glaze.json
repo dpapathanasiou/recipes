@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F.",
+        "Sift flour, baking soda, salt, nutmeg, cinnamon and cloves.",
+        "Cream sugar and softened butter or margarine in large bowl. Add eggs, beating thoroughly. Beat in dry ingredients alternately with buttermilk. Stir in apple butter.",
+        "Pour into a greased 9x5x3-inch loaf pan.",
+        "Bake in 350 degrees F oven 55 to 65 minutes or until cake tests done. Cool 10 minutes before removing from pan.",
+        "Make orange glaze by combining powdered sugar, orange juice, and orange peel. Spoon glaze over warm cake."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1504885.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon nutmeg",
+        "1/2 teaspoon ground cinnamon",
+        "1/2 teaspoon ground cloves",
+        "3/4 cup sugar",
+        "1/2 cup butter, softened",
+        "2 eggs",
+        "1/2 cup buttermilk",
+        "1 cup MUSSELMAN'S\u00ae Apple Butter",
+        "1 cup powdered sugar",
+        "2 tablespoons orange juice",
+        "1 teaspoon grated orange peel"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spiced Apple Cake with Orange Glaze",
     "url": "http://allrecipes.com/recipe/239693/spiced-apple-cake-with-orange-glaze/"
 }

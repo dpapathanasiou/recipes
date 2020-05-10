@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).  Lightly butter an 8 inch square baking dish.",
+        "Sift together 1 1/2 cups of flour, sugar, salt, and baking powder.  Cut in 1/2 cup of butter until the mixture is crumbly.  Stir together the egg with the cream and gently mix into the flour until a soft dough has formed.  Press into prepared baking dish.  Layer the apples into the dish overlapping, in neat rows.  Prepare streusel by mixing the brown sugar, 2 tablespoons flour, and cinnamon together in a small bowl.  Cut in 2 tablespoons butter until the mixture is crumbly.  Sprinkle over apples.",
+        "Bake in preheated oven until apples have softened, and topping has browned, about 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F727921.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bc cup white sugar",
+        "\u00bc teaspoon salt",
+        "2 teaspoons baking powder",
+        "\u00bd cup butter",
+        "1  egg, beaten",
+        "\u2153 cup cream",
+        "4 large apple - peeled, cored and thinly sliced",
+        "2 tablespoons cold butter",
+        "\u00bd cup brown sugar",
+        "2 tablespoons flour",
+        "2 teaspoons ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ukrainian Apple Cake (Yabluchnyk)",
     "url": "http://allrecipes.com/recipe/37246/ukrainian-apple-cake-yabluchnyk/"
 }

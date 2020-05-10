@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large soup pot over medium heat. Add celery, carrots, onion, green pepper, and garlic; saute about 8 minutes.",
+        "Stir in tomato paste, and cook 1 minute.  Add clam juice, potatoes, canned tomatoes with juice, Worcestershire sauce, jalapeno pepper, bay leaf, and ground black pepper.  Simmer until potatoes are tender, stirring about every 30 minutes.",
+        "Add fish.  Simmer until snapper is easily flaked with fork, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3604909.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "3 stalks celery, chopped",
+        "2 carrots, chopped",
+        "1 onion, chopped",
+        "1 green bell pepper, chopped",
+        "3 cloves garlic, minced",
+        "3 tablespoons tomato paste",
+        "4 cups clam juice",
+        "2 potatoes, peeled and cubed",
+        "1 (14.5 ounce) can peeled and diced tomatoes",
+        "2 tablespoons Worcestershire sauce",
+        "1 jalapeno pepper, seeded and minced",
+        "1 teaspoon ground black pepper",
+        "1 bay leaf",
+        "1 pound red snapper fillets, cut into 1 inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bermuda Fish Chowder",
     "url": "http://allrecipes.com/recipe/12946/bermuda-fish-chowder/"
 }

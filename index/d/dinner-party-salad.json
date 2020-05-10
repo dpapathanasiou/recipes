@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the olive oil, vegetable oil, lemon juice, vinegar, salt, and garlic in a bowl. Refrigerate until ready to serve.",
+        "Melt the butter in a skillet over medium heat, and cook the almonds until lightly browned.",
+        "In a large bowl, toss the toasted almonds, lettuce, blue cheese, and Romano cheese. Pour in dressing, and toss to coat."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F889371.jpg",
+    "ingredients": [
+        "\u00bd cup olive oil",
+        "\u00bd cup vegetable oil",
+        "3 tablespoons lemon juice",
+        "\u00bd tablespoon distilled white vinegar",
+        "\u00be teaspoon salt",
+        "2 cloves garlic, minced",
+        "1 tablespoon butter",
+        "\u00bd cup sliced almonds",
+        "3  romaine hearts, chopped into bite size pieces",
+        "1 cup crumbled blue cheese",
+        "1 cup grated Romano cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Dinner Party Salad",
     "url": "http://allrecipes.com/recipe/78132/dinner-party-salad/"
 }

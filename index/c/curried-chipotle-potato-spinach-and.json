@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a small pot of salted water to a boil.  Cook potatoes in boiling water until tender but still firm, about 15 minutes. Drain, cool and chop.",
+        "Heat olive oil in a large skillet over medium-high heat; add potatoes and cook until warm. Stir in curry paste and cream over low heat.  Place two slices of cheese on each tortilla and microwave individually for fifteen to twenty-five seconds until melted.",
+        "To assemble, divide the potatoes and spinach evenly between the tortillas and add chipotle salsa to taste.  Heat in the microwave for twenty seconds, then enclose the tortillas around the filling."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1038050.jpg",
+    "ingredients": [
+        "4 small red potatoes",
+        "2 tablespoons olive oil",
+        "curry paste, to taste",
+        "2 tablespoons cream",
+        "4 slices Muenster cheese",
+        "2 (10 inch) flour tortillas",
+        "2 cups baby spinach, rinsed and dried",
+        "1/4 cup chipotle salsa, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Curried Chipotle Potato, Spinach and Cheese Wraps",
     "url": "http://allrecipes.com/recipe/98301/curried-chipotle-potato-spinach-and/"
 }

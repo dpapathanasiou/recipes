@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a skillet over medium heat. Sprinkle both sides of the tilapia fillets with Chinese five-spice powder, salt, and black pepper; cook tilapia fillets in the skillet until lightly browned and the flesh is white and opaque, about 3 minutes per side. Remove from heat.",
+        "Place the spinach leaves into a large salad bowl, and top with the orange bell pepper, grapefruit, tomato, and avocado. Drizzle the salad with the Asian-style dressing, sprinkle with almonds, and top with the cooked tilapia fillets."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3121935.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "2 tilapia fillets",
+        "1 1/2 tablespoons Chinese five-spice powder, or as needed",
+        "salt and ground black pepper to taste",
+        "1 (8 ounce) package baby spinach leaves",
+        "1 orange bell pepper, diced",
+        "1 grapefruit, peeled and sectioned",
+        "1 tomato, diced",
+        "1 avocado - peeled, pitted and diced",
+        "2 tablespoons Asian-style salad dressing",
+        "1 1/2 tablespoons toasted almonds, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tilapia Salad",
     "url": "http://allrecipes.com/recipe/215978/tilapia-salad/"
 }

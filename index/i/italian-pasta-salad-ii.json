@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain.",
+        "Place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.",
+        "In a large bowl, combine the pasta, eggs, mozzarella cheese, Parmesan cheese, bell pepper, green onions and parsley.",
+        "Prepare the dressing by mixing together the mayonnaise, vinegar, Italian seasoning and pepper.",
+        "Pour dressing over pasta mixture and toss well to coat. Refrigerate until chilled and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3750143.jpg",
+    "ingredients": [
+        "1 (12 ounce) package rotini/corkscrew pasta",
+        "8 eggs",
+        "3 cups shredded mozzarella cheese",
+        "2 tablespoons grated Parmesan cheese",
+        "1 green bell pepper, chopped",
+        "5 green onions, chopped",
+        "2 tablespoons chopped fresh parsley",
+        "1 1/2 cups mayonnaise",
+        "1/4 cup red wine vinegar",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zesty Italian Pasta Salad",
     "url": "http://allrecipes.com/recipe/16411/italian-pasta-salad-ii/"
 }

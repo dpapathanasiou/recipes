@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine pork, 2 tablespoons of soy sauce, garlic powder, and pepper in a bowl. Cover the bowl with plastic wrap and refrigerate for 30 minutes to 1 hour. Slice the bitter melon into 1 to 1 1/2 inch thick rounds. Using the tip of a small knife, remove the spongy, seeded interior. Fill each bitter melon ring with the pork mixture, making sure to that each ring is fully stuffed. Form similar sized meatballs with any remaining pork.",
+        "Bring the water to a boil in a saucepan. Drop in the stuffed bitter melon rings and any meatballs. Simmer over medium heat until the bitter melon is tender and easily cut with a spoon, 30 to 45 minutes. Remove from heat. Season with 1 teaspoon of soy sauce and fish sauce. Stir in green onions."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7049019.jpg",
+    "ingredients": [
+        "\u00bd pound ground pork",
+        "2 tablespoons soy sauce",
+        "\u215b teaspoon garlic powder",
+        "\u215b teaspoon ground black pepper",
+        "1  bitter melon",
+        "4 cups water",
+        "1 teaspoon soy sauce, or to taste",
+        "1 teaspoon fish sauce, or to taste",
+        "1  green onions, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Minh-ai's Bitter Melon Soup",
     "url": "http://allrecipes.com/recipe/178090/minh-ais-bitter-melon-soup/"
 }

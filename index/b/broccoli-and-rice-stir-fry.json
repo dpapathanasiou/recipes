@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan, bring 3 cups water to a boil. Stir in rice. Reduce heat, cover, and simmer for 20 minutes.",
+        "Heat oil in a large skillet over medium heat. Saute broccoli until tender crisp, and add scallions. Remove from skillet. Scramble eggs; return broccoli mixture to pan. Stir in cooked rice, soy sauce, salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F356279.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups uncooked long-grain rice",
+        "1 tablespoon vegetable oil",
+        "1 (16 ounce) package frozen broccoli florets, thawed",
+        "3   green onions, diced",
+        "2   eggs, beaten",
+        "2 tablespoons soy sauce",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Broccoli and Rice Stir Fry",
     "url": "http://allrecipes.com/recipe/22916/broccoli-and-rice-stir-fry/"
 }

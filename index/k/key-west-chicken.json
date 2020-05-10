@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a shallow container, blend soy sauce, honey, vegetable oil, lime juice, and garlic. Place chicken breast halves into the mixture, and turn to coat. Cover, and marinate in the refrigerator at least 30 minutes.",
+        "Preheat an outdoor grill for high heat.",
+        "Lightly oil the grill grate. Discard marinade, and grill chicken 6 to 8 minutes on each side, until juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "3 tablespoons soy sauce",
+        "1 tablespoon honey",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon lime juice",
+        "1 teaspoon chopped garlic",
+        "4  skinless, boneless chicken breast halves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Key West Chicken",
     "url": "http://allrecipes.com/recipe/25445/key-west-chicken/"
 }

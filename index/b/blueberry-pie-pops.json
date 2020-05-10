@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper.",
+        "Roll out one of the pie crusts to 1/8-inch thick; cut 16 3-inch circles from the crust. Line 16 mini muffin cups in a 24-cup mini muffin pan with the crust circles. Refrigerate to chill, about 15 minutes. Meanwhile, roll out the other crust to 1/8 inch thick, and cut out 16 2 1/2-inch circles; lay the 16 circles onto the prepared baking sheet, and refrigerate.",
+        "Mix together the sugar, cinnamon, nutmeg, lemon zest, and cornstarch in a bowl. Stir in the blueberries, and toss lightly to coat with the sugar mixture. Whisk the egg in a small separate bowl. Spoon about 1 tablespoon of blueberry mixture into each crust-lined muffin cup (don't overfill). Place a cookie pop stick horizontally into the filled pop so the end sticks out by several inches. With a pastry brush, dab a little beaten egg evenly around the edge of the filled crust; place a 2 1/2-inch top crust circle onto the filled crust, and pinch edges together to seal in the filling and close the crust around the stick. With a toothpick, poke 3 or 4 steam holes into the top crust. Brush top of each pie pop with beaten egg, and sprinkle with sugar.",
+        "Bake in the preheated oven until the tops are golden brown, about 20 minutes. Let cool 5 minutes before gently removing from muffin tin cups. To help pops release, run a small knife around the edges and under stick."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5280501.jpg",
+    "ingredients": [
+        "2 (9 inch) unbaked pie crusts",
+        "\u00bd cup white sugar, or to taste",
+        "1 teaspoon ground cinnamon",
+        "\u00bc teaspoon ground nutmeg",
+        "2 teaspoons lemon zest",
+        "1 tablespoon cornstarch",
+        "1\u2009\u00bc cups blueberries",
+        "1  egg",
+        "1 tablespoon white sugar, for sprinkling",
+        "16  sturdy cookie pop or lollipop sticks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry Pie Pops",
     "url": "http://allrecipes.com/recipe/216929/blueberry-pie-pops/"
 }

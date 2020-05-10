@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate, reserving about 1 tablespoon bacon drippings in the skillet. Crumble bacon.",
+        "Preheat oven to 275 degrees F (135 degrees C).",
+        "Cook and stir the onion in the reserved bacon drippings over medium-high heat until onion has softened and turned translucent, about 5 minutes.",
+        "Combine cooked onion, sugar, cider vinegar, relish, pimento peppers, and green beans in a large bowl.",
+        "Transfer mixture to a baking dish and cover with aluminum foil.",
+        "Bake in the preheated oven until browned, about 1 1/2 hours. Remove foil and stir lightly.",
+        "Allow green beans to rest for 15 minutes before topping with crumbled bacon and serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=976&h=511&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969180.jpg",
+    "ingredients": [
+        "6 slices bacon",
+        "1 tablespoon bacon drippings",
+        "\u00bd  sweet onion, chopped",
+        "\u00bd cup white sugar",
+        "\u00bd cup cider vinegar",
+        "3 tablespoons sweet pickle relish",
+        "1 (2 ounce) jar chopped pimento peppers",
+        "2 (15 ounce) cans French-cut green beans, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Special Green Bean Bake",
     "url": "http://allrecipes.com/recipe/220311/special-green-bean-bake/"
 }

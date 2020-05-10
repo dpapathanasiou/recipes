@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pulse capers, until coarsely chopped, in a food processor fitted with a steel blade. Add salmon, dill, oil and lemon zest; pulse until salmon is finely chopped and well-mixed. Stir in red onion. Serve with kettle-style potato chips, sesame crackers or toasts. If you assemble the hors d'oeuvres (rather than letting guests make their own), top each tartare-covered toast or chip with a thin slice of lemon, rind and all."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F816804.jpg",
+    "ingredients": [
+        "\u00bc cup capers, packed in brine and drained",
+        "8 ounces good-quality smoked salmon",
+        "2 tablespoons chopped fresh dill",
+        "2 tablespoons extra-virgin olive oil",
+        "\u00bd teaspoon finely grated lemon zest",
+        "\u00bc cup finely diced red onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Salmon 'Tartare' Spread",
     "url": "http://allrecipes.com/recipe/102455/salmon-tartare-spread/"
 }

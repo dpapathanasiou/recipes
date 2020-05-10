@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium salad bowl, mix together the mango, black beans, navy beans, onion and cilantro. Toss with the balsamic vinaigrette dressing. Enjoy right away, or chill until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4480194.jpg",
+    "ingredients": [
+        "1 mango - peeled, seeded and diced",
+        "1/2 (15 ounce) can black beans, rinsed and drained",
+        "1/2 (15 ounce) can navy beans, rinsed and drained",
+        "1/4 cup chopped onion",
+        "1/4 cup chopped fresh cilantro",
+        "1/4 cup balsamic vinaigrette salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Two-Bean and Mango Salad",
     "url": "http://allrecipes.com/recipe/59078/two-bean-and-mango-salad/"
 }

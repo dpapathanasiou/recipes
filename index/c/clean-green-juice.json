@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place apples, celery, cucumber, romaine lettuce leaves, kale, parsley, lemon juice, and water in a blender or juicer; process until desired consistency is reached, adding more water as needed."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7861710.jpg",
+    "ingredients": [
+        "2 Granny Smith apples, halved and seeds removed",
+        "5 stalks celery, leaves removed",
+        "1 cucumber, roughly chopped",
+        "3 romaine lettuce leaves",
+        "3 leaves kale",
+        "5 sprigs fresh parsley",
+        "1 tablespoon freshly squeezed lemon juice",
+        "1 tablespoon water, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Clean Green Juice",
     "url": "http://allrecipes.com/recipe/240903/clean-green-juice/"
 }

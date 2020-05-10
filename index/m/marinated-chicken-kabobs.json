@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, blend vegetable oil, soy sauce, light corn syrup, lemon juice, sesame seeds, garlic powder, and garlic salt. Place chicken in the mixture. Cover, and marinate in the refrigerator at least 2 hours.",
+        "Preheat an outdoor grill for medium heat, and lightly oil grate. Thread chicken onto skewers alternately with mushrooms, onions, and green bell pepper. Pour marinade into a saucepan, and bring to a boil. Cook for 5 to 10 minutes.",
+        "Place skewers on the prepared grill. Cook 15 to 20 minutes, turning frequently, until chicken is no longer pink and juices run clear. Baste with the boiled marinade frequently during the last 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4288&h=2245&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F829031.jpg",
+    "ingredients": [
+        "1 cup vegetable oil",
+        "\u00bd cup soy sauce",
+        "\u00bd cup light corn syrup",
+        "\u00bc cup lemon juice",
+        "2 tablespoons sesame seeds",
+        "\u00bd teaspoon garlic powder",
+        "garlic salt to taste",
+        "4  skinless, boneless chicken breast halves - cut into 1 1/2 inch pieces",
+        "1 (8 ounce) package fresh chopped mushrooms",
+        "2  onions, quartered",
+        "1  green bell pepper, cut into large chunks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Chicken Kabobs",
     "url": "http://allrecipes.com/recipe/37333/marinated-chicken-kabobs/"
 }

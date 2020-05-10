@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 475 degrees C (220 degrees C).",
+        "Roll out pizza crust and place on a pizza pan or baking sheet. Spread a thin layer of hummus over the crust. Arrange sliced peppers and broccoli over the hummus, and top with shredded cheese.",
+        "Bake for 10 to 15 minutes in the preheated oven, until the crust is golden brown and cheese is melted in the center. Slice and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F636003.jpg",
+    "ingredients": [
+        "1 (10 ounce) can refrigerated pizza crust dough",
+        "1 cup hummus spread",
+        "1\u2009\u00bd cups sliced bell peppers, any color",
+        "1 cup broccoli florets",
+        "2 cups shredded Monterey Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hummus Pizza",
     "url": "http://allrecipes.com/recipe/74437/hummus-pizza/"
 }

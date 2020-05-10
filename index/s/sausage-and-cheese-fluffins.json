@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1-1/2 cups flour, undissolved yeast, sugar, salt and Italian herb seasoning in large mixer bowl. Add water and oil; beat 2 minutes on medium speed. Gradually add remaining 1-1/4 cups flour to make a stiff yet sticky dough. Stir in sausage and cheese. Cover bowl and let rest 10 minutes.",
+        "Portion dough into 12 (2-1/2 inch) generously greased muffin cups OR 36 mini muffin cups using a scoop or two spoons (do not use paper liners). Cover and let rise 35 to 45 minutes. Dough will rise, but not double in size.",
+        "Bake in preheated 375 degrees F oven for 20 to 25 minutes (17 to 20 minutes for minis) until well browned. Let cool on wire rack for 2 minutes. Run a knife around each roll to remove from pan. Serve warm with pizza sauce for dipping, if desired. Refrigerate any leftovers."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2\u2009\u00be cups all-purpose flour*",
+        "1 (.25 ounce) envelope Fleischmann's\u00ae RapidRise Yeast",
+        "2 tablespoons sugar",
+        "1 teaspoon salt",
+        "1 teaspoon Spice Islands\u00ae Italian Herb Seasoning",
+        "1\u2009\u00bc cups very warm water (120 to 130 degrees F)",
+        "1 tablespoon Mazola\u00ae Corn Oil",
+        "1\u2009\u00bc cups cooked, crumbled sausage",
+        "1 cup 1/4-inch cubed mozzarella cheese",
+        "Pizza sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage and Cheese Fluffins",
     "url": "http://allrecipes.com/recipe/235212/sausage-and-cheese-fluffins/"
 }

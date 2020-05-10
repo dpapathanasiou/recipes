@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sift flour and salt together into a bowl and make a well in the middle. Pour in enough buttermilk to make a soft, but not sticky dough; mix well. Transfer dough to a well floured work surface and knead. Shape dough into a round about 1/2-inch thick. Cut dough into 4 or 8 farls (flatbread) using a bread knife.",
+        "Lightly flour a griddle over medium heat; place farls on the griddle. Cook until lightly browned, 4 to 5 minutes per side."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2\u2009\u00bd cups self-rising soda bread flour",
+        "1 pinch salt",
+        "1 cup buttermilk, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Soda Bread Farls",
     "url": "http://allrecipes.com/recipe/257057/soda-bread-farls/"
 }

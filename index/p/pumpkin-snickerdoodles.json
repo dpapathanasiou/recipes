@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat shortening, 1 cup white sugar, and light brown sugar together in a bowl until light and fluffy. Stir in pumpkin puree; beat in eggs and vanilla extract.",
+        "Whisk flour, baking powder, 1 1/2 teaspoons cinnamon, cream of tartar, salt, and nutmeg together in a bowl. Gradually stir flour mixture into pumpkin mixture until dough is just-combined. Cover the bowl with plastic wrap and refrigerate until chilled, at least 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C). Line baking sheets with parchment paper.",
+        "Whisk 1/2 cup white sugar, 1 teaspoon cinnamon, and allspice together in a small bowl. Roll dough into 1-inch balls; roll balls in cinnamon-sugar mixture and place 2 inches apart on prepared baking sheets. Slightly flatten each ball with a flat-bottomed glass.",
+        "Bake in the preheated oven until golden and set, 12 to 13 minutes. Cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 cup shortening",
+        "1 cup white sugar",
+        "\u00bd cup light brown sugar",
+        "\u00be cup pumpkin puree",
+        "1  large egg",
+        "2 teaspoons vanilla extract",
+        "3\u2009\u00be cups all-purpose flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "1\u2009\u00bd teaspoons ground cinnamon",
+        "1 teaspoon cream of tartar",
+        "1 teaspoon salt",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bd cup white sugar",
+        "1 teaspoon ground cinnamon",
+        "\u00bc teaspoon allspice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Snickerdoodles",
     "url": "http://allrecipes.com/recipe/239577/pumpkin-snickerdoodles/"
 }

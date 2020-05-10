@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour limeade into a blender. Use the limeade container to measure tequila and orange liqueur; pour into the blender. Fill the blender with ice. Blend on high until all ice is crushed and the margarita consistency is thick.",
+        "Fill the base of each margarita glass with sangria. Top with margarita mixture."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "8 fluid ounces limeade (such as Minute Maid\u00ae)",
+        "6 fluid ounces tequila (such as Jose Cuervo 1800\u00ae)",
+        "6 fluid ounces brandy-based orange liqueur (such as Grand Marnier\u00ae)",
+        "ice",
+        "1 cup sangria, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Ultimate Sangria Margarita",
     "url": "http://allrecipes.com/recipe/246842/ultimate-sangria-margarita/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Roast peppers in preheated oven until nearly browned, 5 to 10 minutes.",
+        "Remove and discard seeds and stems from peppers. Transfer peppers to a food processor. Blend peppers and 2 tablespoons milk in the food processor until smooth.",
+        "Melt butter in a skillet over medium heat until bubbly. Stir flour into the melted butter; cook until the mixture starts to brown, 2 to 3 minutes. Add the pepper mixture to the flour mixture. Begin whisking milk into the mixture; cook, whisking regularly, until it begins to thicken, thinning with additional milk as needed. Season with salt and paprika. Sprinkle cilantro over the sauce to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1937344.jpg",
+    "ingredients": [
+        "2 habanero peppers",
+        "2/3 cup milk, divided (or as needed)",
+        "2 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "1 pinch salt",
+        "1 pinch ground paprika",
+        "1 tablespoon chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Habanero Cream Sauce",
     "url": "http://allrecipes.com/recipe/232428/habanero-cream-sauce/"
 }

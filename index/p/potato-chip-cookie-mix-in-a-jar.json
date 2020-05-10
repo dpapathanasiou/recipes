@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small bowl, stir together the flour and baking powder. Layer ingredients in order given in a 1 quart \"wide mouth\" canning jar.  It will be a tight fit.  Press each layer firmly in place before adding next ingredient. Decorate the jar and attatch a tag with the following directions:",
+        "Empty jar of cookie mix into large mixing bowl.  Mix thoroughly.  Add:  2 sticks butter, softened and 1 teaspoon vanilla.  Mix until blended completely.  Shape into balls the size of walnuts.  Flatten.  Bake at 350 degrees F (175 degrees C) for 14 to 18 minutes until edges are very lightly browned.  Cool 5 minutes on the cookie sheets.  Remove cookies to wire racks to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1189826.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "1\u2009\u00bd cups crushed potato chips",
+        "\u2154 cup chopped pecans",
+        "2\u2009\u00bd cups all-purpose flour",
+        "1 teaspoon baking powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato Chip Cookie Mix in a Jar",
     "url": "http://allrecipes.com/recipe/22813/potato-chip-cookie-mix-in-a-jar/"
 }

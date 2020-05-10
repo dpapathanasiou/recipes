@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Line a muffin tin with paper liners.",
+        "Whisk flour, baking powder, and salt together in a bowl.",
+        "Combine brown sugar, peanut butter, and butter in another bowl; beat together with an electric mixer until creamy. Beat in egg and vanilla extract. Mix in flour mixture and milk; beat until smooth. Fold chocolate chips into the batter.",
+        "Spoon batter into the prepared muffin tin.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes. Transfer to a wire rack to cool, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3938673.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 1/2 teaspoons baking powder",
+        "1 pinch salt",
+        "1/2 cup brown sugar",
+        "1/4 cup chunky peanut butter",
+        "3 tablespoons unsalted butter, softened",
+        "1 egg",
+        "1/2 teaspoon vanilla extract",
+        "1/2 cup milk",
+        "1/2 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter and Chocolate Chip Cupcakes",
     "url": "http://allrecipes.com/recipe/255300/peanut-butter-and-chocolate-chip-cupc/"
 }

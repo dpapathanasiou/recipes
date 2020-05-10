@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a heavy-bottom pot. Add leeks, onion, celery, carrot, sweet potatoes, pumpkin, and garlic, and saute until they start to brown.",
+        "Add bay leaf, stock, and cream; bring to a boil. Reduce to a simmer and cook until all vegetables are tender.",
+        "Add sage, cloves, nutmeg, cinnamon, and salt and pepper to taste. Remove bay leaf, and puree. Serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/515505.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "2 leeks, chopped",
+        "1 small white onion, chopped",
+        "1 stalk celery, chopped",
+        "1 small carrot, chopped",
+        "2 sweet potatoes, peeled and diced",
+        "1 medium sugar pumpkin, seeded and cubed",
+        "2 tablespoons chopped garlic",
+        "1 quart chicken stock",
+        "1 cup heavy whipping cream",
+        "1 bay leaf",
+        "1 tablespoon chopped fresh sage",
+        "1 pinch ground cloves",
+        "1 pinch ground nutmeg",
+        "1 pinch ground cinnamon",
+        "salt to taste",
+        "ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin, Sweet Potato, and Leek Soup",
     "url": "http://allrecipes.com/recipe/13159/pumpkin-sweet-potato-and-leek-soup/"
 }

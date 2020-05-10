@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium high heat. In a medium bowl combine the onions, chile peppers, candlenuts, shrimp paste, turmeric, ginger, galangal, lemon grass and mustard seed. Blend together with a little water to form a fine paste. Add to skillet and saute until fragrant and almost dry.",
+        "Add 2 cups water and bring all to a boil. Add chicken and potatoes. Reduce heat and let simmer about 20 minutes, or until chicken is cooked (no longer pink inside) and curry is quite thick in consistency.",
+        "Add salt to taste. Remove from heat and add vinegar. Mix well and serve. This dish is best served with steamed white rice, as it is full of flavor."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1938558.jpg",
+    "ingredients": [
+        "3 tablespoons vegetable oil",
+        "2 tablespoons water, or as needed",
+        "6  red onions, chopped",
+        "25  chile peppers, sun-dried",
+        "7  candlenuts",
+        "1  shrimp paste",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon ground ginger",
+        "1 teaspoon ground allspice",
+        "3  lemon grass",
+        "1 tablespoon mustard seed",
+        "2 cups water",
+        "2\u2009\u00bc pounds skinless, boneless chicken breast meat - cut into bite-size pieces",
+        "2\u2009\u00bc pounds potatoes",
+        "salt to taste",
+        "1 tablespoon distilled white vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Devil Curry",
     "url": "http://allrecipes.com/recipe/9041/devil-curry/"
 }

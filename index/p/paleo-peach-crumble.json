@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with coconut oil.",
+        "Fill a large pot a third of the way with water; bring to a boil. Remove from heat. Slice each peach in half, keeping pit intact. Place peach halves in the boiling water to soften, about 10 minutes. Take out of the water and let cool until easily handled, about 10 minutes.",
+        "Combine 1/4 cup coconut sugar, arrowroot powder, cinnamon, and nutmeg in a small bowl and mix with a fork.",
+        "Mix almond flour, pecans, coconut, 1/4 cup coconut sugar, sea salt, and cinnamon together in a large bowl. Rub in cold butter using your fingers until topping mixture is crumbly, about 2 minutes.",
+        "Remove pit from peach halves; peel and slice flesh. Arrange slices in the baking dish. Sprinkle coconut sugar mixture on top. Scatter topping mixture evenly over the peaches.",
+        "Bake in the preheated oven until topping is golden and juices are bubbly, 35 to 40 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7974949.jpg",
+    "ingredients": [
+        "2 teaspoons coconut oil, melted, or as needed",
+        "8 fresh peaches",
+        "1/4 cup coconut sugar",
+        "2 teaspoons arrowroot powder",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon freshly grated nutmeg",
+        "Crumble Topping:",
+        "1 cup almond flour",
+        "1/2 cup chopped pecans",
+        "1/2 cup unsweetened shredded coconut",
+        "1/4 cup coconut sugar",
+        "1 teaspoon sea salt",
+        "1 teaspoon ground cinnamon",
+        "1/4 cup unsalted butter, chilled and cut into small cubes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Paleo Peach Crumble",
     "url": "http://allrecipes.com/recipe/245553/paleo-peach-crumble/"
 }

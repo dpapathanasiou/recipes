@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a skillet over medium-low heat. Cook garlic, white parts of onions, coriander, cumin, and chile powder, stirring, until garlic and onions are tender, about 3 minutes. Add corn and cook, stirring occasionally, until tender, about 2 minutes.",
+        "Transfer mixture to a blender. Add buttermilk, water, and salt and puree until smooth. Strain through a fine-mesh sieve, pressing on solids to extract as much liquid as possible. Discard solids. Chill at least 1 hour.",
+        "Serve chilled, garnished with green parts of onions and cilantro (if using)."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 clove garlic, smashed and peeled",
+        "2  green onions, white and tender green parts separated and chopped",
+        "\u00be teaspoon ground coriander",
+        "\u00be teaspoon cumin",
+        "\u00be teaspoon chipotle chile powder",
+        "3 cups fresh corn kernels (from fresh ears of corn or frozen corn, thawed)",
+        "1 cup buttermilk",
+        "\u00bd cup water",
+        "\u00bd teaspoon salt",
+        "\u00bc cup chopped cilantro (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chilled Corn Soup",
     "url": "http://allrecipes.com/recipe/247240/chilled-corn-soup/"
 }

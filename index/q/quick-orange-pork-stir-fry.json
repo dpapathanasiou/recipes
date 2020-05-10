@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk 3 tablespoons reserved mandarin orange liquid, stir fry sauce, and orange juice concentrate together in a small bowl until sauce is smooth.",
+        "Heat 2 teaspoons vegetable oil in a large nonstick skillet over high heat until oil shimmers. Cook and stir 1/2 of the pork in hot oil until no longer pink in the center, about 3 minutes. Transfer cooked pork to a plate. Repeat with remaining vegetable oil and pork.",
+        "Place snap peas and sauce mixture in the same skillet, reduce heat to medium-high, cover the skillet with a lid, and cook until peas are tender yet still crisp to the bite, about 2 minutes. Stir pork and mandarin oranges into snap pea mixture; cook and stir until heated through, about 1 minute."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2322&h=1216&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2327104.jpg",
+    "ingredients": [
+        "1 (11 ounce) can mandarin oranges in light syrup, drained, liquid reserved",
+        "\u00bd cup prepared stir-fry sauce (such as sesame ginger)",
+        "1 tablespoon frozen orange juice concentrate",
+        "4 teaspoons vegetable oil, divided",
+        "1 (3/4 pound) teriyaki pork tenderloin, cut into 1/2-inch slices",
+        "3 cups sugar snap peas"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick Orange Pork Stir Fry",
     "url": "http://allrecipes.com/recipe/241092/quick-orange-pork-stir-fry/"
 }

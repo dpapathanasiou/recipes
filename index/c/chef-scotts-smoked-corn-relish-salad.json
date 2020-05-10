@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+        "Toss corn kernels with 1/2 cup vegetable oil in a skillet.",
+        "Place skillet in the preheated grill and roast until browned, 15 to 20 minutes. Transfer corn to a large bowl and add bell pepper, onion, celery, and olives.",
+        "Whisk vinegar, 1/4 cup vegetable oil, cilantro, jalapeno, and granulated garlic in a small bowl. Pour vinegar mixture over corn mixture; toss. Cover and refrigerate for at least 2 hours before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4468705.jpg",
+    "ingredients": [
+        "3 cups fresh corn kernels",
+        "1/2 cup vegetable oil",
+        "1 red bell pepper, cut into 1/4-inch cubes",
+        "1/2 cup chopped red onion",
+        "1/2 cup sliced celery",
+        "1 (2.25 ounce) can sliced ripe olives, drained",
+        "1 cup white balsamic vinegar",
+        "1/4 cup vegetable oil",
+        "1/2 cup chopped fresh cilantro",
+        "1 jalapeno, cut into 1/4-inch pieces, or to taste",
+        "1 teaspoon granulated garlic"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef Scott's Smoked Corn Relish Salad",
     "url": "http://allrecipes.com/recipe/233265/chef-scotts-smoked-corn-relish-salad/"
 }

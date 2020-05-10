@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Sift salt and pepper into flour, and rub onto both sides of pork chops, shaking off any excess. Heat shortening in a large skillet over medium high heat. Brown chops on both sides, reducing heat if necessary, and working in two batches depending on the size of your skillet. Remove from heat, and set aside.",
+        "Peel squash, and slice crosswise into 1/8 inch thick slices. Arrange 1/2 the slices in the bottom of a baking dish. Place pork chops over squash, and top with remaining slices.",
+        "Melt butter in a small saucepan over medium heat. In a bowl, stir remaining 2 tablespoons flour and 1/4 teaspoon salt together with ginger and thyme; add to butter, and stir. Cook for 3 minutes, then very gradually whisk in chicken broth, avoiding any lumps. Continue to cook and stir until slightly thickened, then stir in onion. Pour over chops and squash, and cover with foil.",
+        "Bake in the preheated oven for 45 minutes, or until squash is tender and pork is no longer pink inside."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5312&h=2781&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3350253.jpg",
+    "ingredients": [
+        "1\u2009\u00bc teaspoons salt, divided",
+        "\u00bc teaspoon pepper",
+        "4 tablespoons all-purpose flour, divided",
+        "6  lean pork chops",
+        "1 tablespoon shortening",
+        "1  acorn squash, halved and seeded",
+        "2 tablespoons butter",
+        "\u00bc teaspoon ground ginger",
+        "\u215b teaspoon ground thyme",
+        "1 cup chicken broth",
+        "\u00bd  onion, finely chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Squash and Pork Chops",
     "url": "http://allrecipes.com/recipe/54882/squash-and-pork-chops/"
 }

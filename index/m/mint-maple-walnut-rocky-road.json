@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spread walnuts on a baking sheet.",
+        "Toast walnuts until fragrant, about 6 minutes. Stir and continue toasting until browned, about 9 minutes more.",
+        "Place chocolate in a microwave-safe bowl. Heat in the microwave in 20-second intervals, stirring after each interval, until mostly melted, about 2 minutes. Stir in 1/2 cup plus 2 tablespoons butter and maple-flavored extract.",
+        "Grease an 8x14-inch baking pan. Pour in half of the chocolate mixture. Add marshmallows and half of the walnuts; press into the chocolate using a spatula.",
+        "Mix peppermint extract into remaining chocolate mixture. Scrape into the baking pan and press in remaining walnuts. Press layers together using a spatula. Cool fudge to room temperature, 1 to 2 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 (8 ounce) packages finely chopped walnuts, or more to taste",
+        "3 (16 ounce) packages semisweet chocolate chips",
+        "1/2 cup unsalted butter, melted",
+        "2 tablespoons unsalted butter, melted",
+        "1 tablespoon maple-flavored extract",
+        "1/2 (16 ounce) package marshmallows",
+        "1 teaspoon peppermint extract, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mint-Maple Walnut Rocky Road",
     "url": "http://allrecipes.com/recipe/256582/mint-maple-walnut-rocky-road/"
 }

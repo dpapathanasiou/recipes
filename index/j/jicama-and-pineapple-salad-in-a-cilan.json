@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the serrano pepper, lime juice, rice vinegar, cilantro, salt, and pepper in a large bowl. Slowly drizzle in the olive oil while continually whisking. Add the pineapple and jicama; toss to coat. Allow to sit 30 minutes to 1 hour.",
+        "Place the spring mix in a large salad bowl; scatter the avocado over the lettuce; top with the marinated pineapple and jicama, drizzling the remaining vinaigrette over the salad. Serve NOW!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/112409.jpg",
+    "ingredients": [
+        "2 serrano peppers, seeded and minced",
+        "2 tablespoons fresh lime juice",
+        "2 tablespoons rice vinegar",
+        "1 bunch fresh cilantro, minced",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "1/4 cup olive oil",
+        "1/2 fresh pineapple - peeled, cored, and cut into chunks",
+        "1 jicama, peeled and julienned",
+        "3 cups mixed baby greens",
+        "1 avocado - peeled, pitted and diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jicama and Pineapple Salad in a Cilantro Vinaigrette",
     "url": "http://allrecipes.com/recipe/166622/jicama-and-pineapple-salad-in-a-cilan/"
 }

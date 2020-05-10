@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a pot of water to a boil, and stir in half the walnuts; reduce heat to medium, and boil for 1 minute. Remove nuts with a slotted spoon, and let drain in a colander set in the sink. Repeat with remaining walnuts. Rinse the walnuts under hot water, and transfer to a mixing bowl. Toss the walnuts with the sugar.",
+        "In an electric skillet with heat set to 350 degrees F (175 degrees C), heat the canola oil. With a metal slotted spoon, place enough nuts to cover the bottom of the skillet; the oil will sizzle and pop, so be careful to avoid spatters. Gently stir the nuts with the spoon. Fry the walnuts until golden brown, about 5 minutes per batch. Transfer the walnuts in clumps to a baking sheet.",
+        "Sprinkle the nuts with salt, and let cool. Store in airtight container."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F658031.jpg",
+    "ingredients": [
+        "6 cups shelled walnut halves",
+        "\u00bd cup white sugar, or as needed",
+        "1 cup canola oil",
+        "1 pinch salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Linda's Fried Walnuts",
     "url": "http://allrecipes.com/recipe/218224/lindas-fried-walnuts/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a mixing bowl, cream shortening peanut butter and sugars. Beat in egg. Combine dry ingredients; gradually add to creamed mixture.",
+        "Cover and chill for 1 hour.",
+        "Roll into 1 inch balls; place 2 inches apart on greased baking sheets. Flatten slightly. Bake at 375 degrees F (190 degrees C) for 10 minutes. Cool on wire rack. Spread jam on the bottom of half of the cookie; top with remaining cookie half."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1456&h=762&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1009246.jpg",
+    "ingredients": [
+        "\u00bd cup shortening",
+        "\u00bd cup peanut butter",
+        "\u00bd cup white sugar",
+        "\u00bd cup packed brown sugar",
+        "1  egg",
+        "1\u2009\u00bc cups all-purpose flour",
+        "\u00be teaspoon baking soda",
+        "\u00bd teaspoon baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bd cup any flavor fruit jam"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter and Jelly Cookies",
     "url": "http://allrecipes.com/recipe/11028/peanut-butter-and-jelly-cookies/"
 }

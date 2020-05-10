@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a blender, combine the powdered skim milk, sugar, water and butter. Blend until smooth; cover and refrigerate until ready to use."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/218906.jpg",
+    "ingredients": [
+        "1 cup instant powdered milk",
+        "2/3 cup white sugar",
+        "1/3 cup boiling water",
+        "3 tablespoons melted butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweetened Condensed Milk from Scratch",
     "url": "http://allrecipes.com/recipe/16286/sweetened-condensed-milk/"
 }

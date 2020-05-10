@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a food processor, mix the sun-dried tomatoes, cream cheese, sour cream, mayonnaise, garlic, hot pepper sauce, salt, and pepper. Process until well-blended. Add basil, and continue processing until smooth. Chill at least 1 hour in the refrigerator before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5627719.jpg",
+    "ingredients": [
+        "\u00bc cup oil-packed sun-dried tomatoes, drained and chopped",
+        "8 ounces cream cheese, room temperature",
+        "\u00bd cup sour cream",
+        "\u00bc cup mayonnaise",
+        "2 cloves garlic, minced",
+        "hot pepper sauce to taste",
+        "\u00be teaspoon salt",
+        "\u00be teaspoon freshly ground black pepper",
+        "\u00bc cup fresh basil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sun-Dried Tomato Dip",
     "url": "http://allrecipes.com/recipe/81396/sun-dried-tomato-dip/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "In a medium bowl, mix together the cream cheese, Cheddar cheese, ham, onions and jalapeno peppers. Cut a circle out of the top of the bread, and remove the center leaving a 1 inch shell of bread. Fill bread with the cheese mixture.",
+        "Bake for 35 to 40 minutes in the preheated oven, until the dip is heated through. Serve with crackers for a wonderful taste experience!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F722286.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "4 cups shredded Cheddar cheese",
+        "8 ounces diced cooked ham",
+        "1 small onion, chopped",
+        "1  jalapeno pepper, seeded and chopped",
+        "1 (1 pound) loaf round sourdough bread",
+        "1 cup buttery crackers"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Arkansas Sin",
     "url": "http://allrecipes.com/recipe/93213/arkansas-sin/"
 }

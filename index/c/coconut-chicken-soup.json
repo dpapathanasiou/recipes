@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring 1 cup coconut milk, lemon grass, ginger, and kaffir lime leaves to a boil in a large skillet over medium-high heat. Stir in the chicken, fish sauce, and sugar. Reduce heat to medium, and continue cooking until the chicken no longer pink in the center, about 5 minutes. Stir in the remaining 1 cup coconut milk, and bring to a simmer, about 3 minutes.",
+        "Divide the lime juice and curry paste into 4 bowls. Pour soup into bowls, and garnish with cilantro and Thai chiles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5983244.jpg",
+    "ingredients": [
+        "1 cup coconut milk",
+        "2  lemon grass, chopped",
+        "4 slices (1/2-inch) piece peeled fresh ginger",
+        "5  kaffir lime leaves, torn in half",
+        "\u00be pound skinless, boneless chicken breasts, cut into strips",
+        "5 tablespoons fish sauce",
+        "2 tablespoons white sugar",
+        "1 cup coconut milk",
+        "\u00bd cup lime juice",
+        "1 teaspoon red curry paste",
+        "\u00bc cup coarsely chopped cilantro",
+        "15  green Thai chiles, crushed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coconut Chicken Soup",
     "url": "http://allrecipes.com/recipe/218492/coconut-chicken-soup/"
 }

@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the beer in a saucepan over medium-high heat, stirring constantly, until it comes to a boil; allow to boil until the beer thickens to almost the consistency of a glaze, about 15 minutes. Stir the butter into the beer until the butter melts. Use immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=969&h=507&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F995794.jpg",
+    "ingredients": [
+        "2 (12 fluid ounce) bottles any flavor beer, preferably not light beer",
+        "1 tablespoon butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beer Syrup",
     "url": "http://allrecipes.com/recipe/217957/beer-syrup/"
 }

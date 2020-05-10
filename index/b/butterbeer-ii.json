@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Chill a glass mug in the freezer for at least 15 minutes.",
+        "Combine the butterscotch topping and soda water in the chilled mug; stir until thoroughly mixed. Pour the cream soda into the mug.",
+        "Stir the whipped cream, caramel sauce, and salt together in a small bowl; spoon atop the soda mixture. Stir lightly; it will froth!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/965890.jpg",
+    "ingredients": [
+        "2 tablespoons butterscotch topping",
+        "1 cup soda water",
+        "1 cup cream soda",
+        "2 tablespoons whipped cream",
+        "2 tablespoons caramel sauce",
+        "1 pinch salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Butterbeer II",
     "url": "http://allrecipes.com/recipe/219139/butterbeer-ii/"
 }

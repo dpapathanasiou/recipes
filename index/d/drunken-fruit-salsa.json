@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir together mango, strawberries, kiwi, jalapeno, mint, and rum in a glass bowl. Refrigerate for 1 to 3 hours, stirring once or twice."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 medium mango, peeled and finely diced",
+        "\u00be cup chopped fresh strawberries",
+        "1  kiwi, peeled and finely diced",
+        "1  jalapeno pepper, seeded and finely chopped",
+        "2 tablespoons chopped fresh mint",
+        "\u00bc cup rum"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Drunken Fruit Salsa",
     "url": "http://allrecipes.com/recipe/108666/drunken-fruit-salsa/"
 }

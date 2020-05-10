@@ -1,9 +1,38 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place halved strawberries, zest from one lemon, juice from 2 lemons, water, honey, salt, and cayenne pepper in a pot over medium-high heat and bring to a simmer. As strawberries begin to release their liquid, soften, and start to break down, reduce heat to medium-low and continue stirring and cooking occasionally until fruit is very soft, about 10 minutes. Remove from heat. Pass mixture through a fine mesh strainer.",
+        "Preheat oven to 475 degrees F (245 degrees C). Line a shallow baking pan with foil, bringing ends up and over sides of the pan.",
+        "Generously season rack of lamb on both sides with kosher salt, freshly ground black pepper, and cayenne pepper. Place lamb on prepared pan. Roast rack of lamb in hot oven to sear, about 10 minutes. Remove pan from oven. Reduce oven temperature to 375 degrees F (190 degrees C).",
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Combine mustard and onions in a small bowl. Pour melted butter into bread crumbs in a separate bowl; stir until mixture resembles wet sand. Season with salt.",
+        "Coat top of lamb generously with the mustard mixture. Sprinkle crumb mixture onto the mustard mixture and press down to create a crumb crust.",
+        "Roast rack until it reaches an internal temperature of 125 degrees F (50 degrees C), about 15 minutes. Let rack rest 10 minute before slicing between ribs into four 2-rib servings or two 4-rib servings.",
+        "Mix thinly sliced mint into strawberry sauce just before serving. Spoon a small pool of the sauce onto serving plates. Place ribs on sauce to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3685053.jpg",
+    "ingredients": [
+        "Sauce:",
+        "2 cups fresh strawberries, hulled and halved",
+        "1 lemon, zested and juiced",
+        "1 lemon, juiced",
+        "1/4 cup water",
+        "2 tablespoons honey",
+        "salt and cayenne pepper to taste",
+        "1/4 cup freshly sliced mint leaves",
+        "Lamb:",
+        "1 (8 bone) rack of lamb, fully trimmed",
+        "kosher salt to taste",
+        "freshly ground black pepper to taste",
+        "cayenne pepper to taste",
+        "2 tablespoons Dijon mustard",
+        "1 tablespoon finely minced green onions",
+        "1/4 cup fine plain bread crumbs",
+        "2 tablespoons melted butter",
+        "1/4 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rack of Lamb with Strawberry Mint Sauce",
     "url": "http://allrecipes.com/recipe/246718/rack-of-lamb-with-strawberry-mint-sau/"
 }

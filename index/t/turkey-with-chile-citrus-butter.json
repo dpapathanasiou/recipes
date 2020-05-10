@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Remove zest from lemons and limes and place zest in a medium bowl. Juice citrus, and reserve juice and citrus shells separately. Add butter, adobo sauce, chile powder, oregano and salt to the bowl. Beat with an electric mixer until combined. Slowly pour in about half of the citrus juice and beat until smooth.",
+        "Preheat the oven to 350 degrees F. Carefully loosen skin over turkey breast and thighs; rub some of the butter mixture between meat and skin. Rub remaining butter mixture over skin and inside cavity. Place reserved citrus shells in cavity. Tuck wing tips under bird and tie legs together with kitchen string. Place breast-side up on a rack set in a large roasting pan and pour 3 cups of the broth and remaining citrus juice into the pan.",
+        "Roast until skin begins to deeply brown, about 30 minutes, then loosely cover with foil. Roast, basting turkey with pan juices about every 30 minutes, until an instant-read thermometer inserted into the thickest part of thigh, without touching bone, registers 165 degrees F, 2 1/2 to 3 hours more. Transfer turkey to a cutting board and let rest for at least 30 minutes before serving.",
+        "To make the gravy, spoon off excess fat from pan juices, and place the pan on the stovetop over medium-low heat (over two burners if possible). Sprinkle in flour and cook, stirring, for 2 minutes. Stir in remaining 1 cup broth and cook, stirring, until slightly thickened. Strain gravy if desired. Carve turkey and serve with gravy."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4170217.jpg",
+    "ingredients": [
+        "2 lemons",
+        "2 limes",
+        "1/2 cup (1 stick) unsalted butter, softened",
+        "2 tablespoons adobo sauce (from a can of chipotles in adobo sauce)",
+        "2 tablespoons ancho chile powder",
+        "1 1/2 tablespoons chopped fresh oregano",
+        "2 teaspoons coarse sea salt",
+        "1 (14 pound) turkey, neck and giblets removed",
+        "4 cups low-sodium turkey or chicken broth, divided",
+        "2 1/2 tablespoons all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey with Chile-Citrus Butter",
     "url": "http://allrecipes.com/recipe/256250/turkey-with-chile-citrus-butter/"
 }

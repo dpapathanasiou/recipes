@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a baking sheet.",
+        "Mix the ground beef, chipotle peppers with the adobo sauce, green onions, bread crumbs, garlic powder, salt, and pepper together in a bowl until evenly mixed. Roll the mixture into balls the size of cherry tomatoes. Arrange on the prepared baking sheet.",
+        "Bake in the preheated oven until cooked through, about 30 minutes.",
+        "While the meatballs bake, bring a large pot of lightly-salted water to a boil. Add the spaghetti and return to a boil. Cook until tender but still firm to the bite, about 12 minutes. Drain.",
+        "Pour the spaghetti sauce in a large saucepan over medium heat; cook until hot, 5 to 7 minutes. Add the cooked meatballs and stir to coat. Ladle over the drained spaghetti and top with the grated Parmesan cheese to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2576&h=1349&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4556304.jpg",
+    "ingredients": [
+        "2 pounds ground beef",
+        "1 (7 ounce) can minced chipotle peppers in adobo sauce, or to taste",
+        "1 bunch green onions, minced",
+        "\u00bc cup bread crumbs",
+        "1\u2009\u00bd teaspoons garlic powder, or to taste",
+        "1\u2009\u00bd teaspoons salt, or to taste",
+        "1\u2009\u00bd teaspoons ground black pepper, or to taste",
+        "1 (16 ounce) package spaghetti",
+        "1 (15 ounce) can spaghetti sauce",
+        "\u00bc cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaghetti and Chipotle Meatballs",
     "url": "http://allrecipes.com/recipe/202383/spaghetti-and-chipotle-meatballs/"
 }

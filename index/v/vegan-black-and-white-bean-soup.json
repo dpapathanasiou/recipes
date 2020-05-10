@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large stock pot over medium heat. Cook the onion, celery, garlic, and thyme together in the hot oil until the celery is soft, 7 to 10 minutes. Add the black beans, 4 cups vegetable broth, and the cumin to the pot; mix to combine. Stir the white beans, the remaining vegetable broth, and the sage into the mixture; bring to a gentle boil and simmer 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/624889.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "1 celery rib, chopped",
+        "1 tablespoon crushed garlic",
+        "1 teaspoon thyme",
+        "1 (14.5 ounce) can black beans, drained",
+        "8 cups vegetable broth, divided",
+        "1 teaspoon ground cumin",
+        "1 (14.5 ounce) can white beans, drained",
+        "1/2 teaspoon dried sage"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Black and White Bean Soup",
     "url": "http://allrecipes.com/recipe/216712/vegan-black-and-white-bean-soup/"
 }

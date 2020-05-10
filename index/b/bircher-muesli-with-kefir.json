@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine oats and kefir in a small bowl. Cover with plastic wrap and refrigerate until oats soak up the kefir and thicken, 8 hours to overnight.",
+        "Stir apple and strawberries into the oats. Add honey to reach desired level of sweetness."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3277828.jpg",
+    "ingredients": [
+        "1/2 cup rolled oats",
+        "6 tablespoons plain kefir",
+        "1/2 apple, grated",
+        "4 strawberries, diced",
+        "1 teaspoon honey, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bircher Muesli with Kefir",
     "url": "http://allrecipes.com/recipe/245989/bircher-muesli-with-kefir/"
 }

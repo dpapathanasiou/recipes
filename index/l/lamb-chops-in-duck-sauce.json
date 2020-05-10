@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Arrange lamb chops in a medium baking dish, and evenly coat with Worcestershire sauce, adobo seasoning, and cayenne pepper. Season with salt and pepper.",
+        "Bake 1 hour in the preheated oven.",
+        "Cover lamb chops with duck sauce, and continue baking 15 to 20 minutes, to an internal temperature of 145 degrees F (65 degrees C)."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1023203.jpg",
+    "ingredients": [
+        "3 pounds lamb chops",
+        "2 tablespoons Worcestershire sauce",
+        "1 tablespoon adobo seasoning",
+        "cayenne pepper to taste",
+        "salt and pepper to taste",
+        "1 1/2 cups duck sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lamb Chops in Duck Sauce",
     "url": "http://allrecipes.com/recipe/42243/lamb-chops-in-duck-sauce/"
 }

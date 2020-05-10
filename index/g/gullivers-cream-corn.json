@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place corn kernels, whipping cream, milk, salt, flavor enhancer, sugar, and white or cayenne pepper in a large stockpot. Bring to a slow, low boil beginning on medium heat, stirring frequently. Simmer for 5 minutes on low heat.",
+        "Melt butter in the microwave, or in a small saucepan on low heat. Whisk in flour until smooth. Stir into the corn until well blended. Enjoy!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F303158.jpg",
+    "ingredients": [
+        "2 (20 ounce) packages frozen corn kernels, thawed",
+        "1 cup whipping cream",
+        "1 cup milk",
+        "1 teaspoon salt",
+        "\u00bc teaspoon monosodium glutamate (MSG, or Accent flavor enhancer)",
+        "2 tablespoons sugar",
+        "white or cayenne pepper",
+        "2 tablespoons flour",
+        "2 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gulliver's Cream Corn",
     "url": "http://allrecipes.com/recipe/57713/gullivers-cream-corn/"
 }

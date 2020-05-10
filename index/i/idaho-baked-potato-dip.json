@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Place potatoes in large saucepan. Cover with water. Add 1 tablespoon of the Marinade Mix to water. Bring to boil. Reduce heat to low; cover and simmer 10 to 15 minutes or until potatoes are fork tender. Drain and return potatoes to saucepan. Add milk, sour cream, 1/2 cup of the cheese, 1/2 of the bacon and remaining Marinade Mix to saucepan.",
+        "Mash potatoes using a potato masher or electric mixer until potatoes are smooth and creamy. Spoon into 2-quart baking dish. Sprinkle with remaining 1/2 cup cheese and bacon.",
+        "Bake 15 minutes or until heated through. Sprinkle with green onion."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4462839.jpg",
+    "ingredients": [
+        "1 pound russet or Idaho potatoes, peeled and quartered",
+        "1 (0.71 ounce) package McCormick\u00ae Grill Mates\u00ae Montreal Steak Marinade, divided",
+        "1/2 cup milk",
+        "1 cup sour cream",
+        "1 cup shredded sharp Cheddar cheese, divided",
+        "6 slices cooked bacon, chopped, divided",
+        "1 tablespoon finely chopped green onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Idaho Baked Potato Dip",
     "url": "http://allrecipes.com/recipe/256780/idaho-baked-potato-dip/"
 }

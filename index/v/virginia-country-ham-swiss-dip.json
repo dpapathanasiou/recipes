@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Gradually stir milk into Gravy Mix with whisk in medium saucepan. Stirring frequently, cook on medium heat until gravy comes to boil. Reduce heat and simmer 1 minute. Stir in cream cheese, mayonnaise, mustard and ham.",
+        "Spread mixture in glass pie plate sprayed with no stick cooking spray. Sprinkle with cheese. Top with pickle chips, if desired.",
+        "Bake 20 minutes or until cheese is melted. Serve with sliced baguette or crackers."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4462819.jpg",
+    "ingredients": [
+        "1 cup milk",
+        "1 package McCormick\u00ae Pork Gravy Mix",
+        "1 (8 ounce) package whipped cream cheese",
+        "1/4 cup mayonnaise",
+        "1 tablespoon yellow mustard",
+        "1 cup cubed ham",
+        "1/2 cup shredded Swiss cheese",
+        "Pickle chips (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Virginia Country Ham & Swiss Dip",
     "url": "http://allrecipes.com/recipe/256770/virginia-country-ham-swiss-dip/"
 }

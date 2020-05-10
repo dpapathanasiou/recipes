@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Rinse chicken and pat dry. In a large skillet heat oil until almost hot. Add chicken, skin side down. Brown chicken until lightly browned on both sides. Add curry powder, chutney and red bell pepper. Simmer 30 minutes over medium low heat. Top chicken with lime wedges, chopped scallions and peanuts. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1107557.jpg",
+    "ingredients": [
+        "2\u2009\u00bd pounds cut up chicken pieces",
+        "3 tablespoons olive oil",
+        "3 tablespoons curry powder",
+        "1 (12 ounce) jar chutney",
+        "1  red bell pepper, thinly sliced",
+        "1  lime, cut into wedges",
+        "\u215b cup chopped green onion for topping",
+        "\u00bc cup chopped peanuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Curried Chicken with Rice",
     "url": "http://allrecipes.com/recipe/14983/curried-chicken-with-rice/"
 }

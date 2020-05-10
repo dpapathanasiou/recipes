@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, whisk together the salad dressing, sour cream, lemon juice, lemon pepper, basil and parsley.  Add chicken, peas, onion, lettuce and almonds and stir until evenly coated.  Refrigerate until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F87063.jpg",
+    "ingredients": [
+        "1 cup creamy salad dressing, e.g. Miracle Whip \u2122",
+        "\u00bc cup sour cream",
+        "1 tablespoon lemon juice",
+        "\u00bd teaspoon lemon pepper",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried parsley",
+        "4 cups cubed, cooked chicken",
+        "2 cups sliced snow peas",
+        "1 cup finely diced red onion",
+        "1 cup shredded lettuce",
+        "1 cup blanched slivered almonds, toasted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lemon Chicken Salad",
     "url": "http://allrecipes.com/recipe/25152/lemon-chicken-salad/"
 }

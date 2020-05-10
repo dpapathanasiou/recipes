@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a bowl, toss bread crumbs together with kelp powder, garlic powder, paprika, onion powder, and salt. Dip tofu slices into olive oil, then bread crumb mixture, patting lightly to coat well.",
+        "Bake on a cookie sheet in preheated oven for 30 minutes. When first side is golden brown and slightly crispy, turn over, and finish baking.",
+        "Meanwhile, mix together mayonnaise, relish, and lemon juice until well-blended. When tofu is nearly done baking, brush each bun half with olive oil, and toast in the oven. Serve with tartar sauce and your favorite sandwich condiments."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F65241.jpg",
+    "ingredients": [
+        "1 (12 ounce) package firm tofu - drained, patted dry, and sliced into 4 slices",
+        "1 cup bread crumbs",
+        "1 teaspoon kelp powder",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc teaspoon paprika",
+        "\u00bc teaspoon onion powder or flakes",
+        "1 teaspoon salt",
+        "olive oil, as needed",
+        "\u00bd cup mayonnaise",
+        "\u00bc cup dill pickle relish",
+        "1 tablespoon fresh lemon juice",
+        "4  whole wheat hamburger buns, split"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu 'Fish' Fillet Sandwiches",
     "url": "http://allrecipes.com/recipe/65637/tofu-fish-fillet-sandwiches/"
 }

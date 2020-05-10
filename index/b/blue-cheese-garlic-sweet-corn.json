@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter with olive oil in a large skillet over medium-high heat; cook and stir the garlic briefly in the butter mixture, about 1 minute. Stir corn into butter and oil to coat; cook and stir until warmed, about 3 minutes. Pour milk into the skillet; bring to a simmer. Place a cover on the skillet, reduce heat to low, and cook at a simmer until hot, about 10 minutes.",
+        "Remove the cover from the skillet and continue cooking until the liquid is mostly evaporated, 5 to 10 minutes. Add blue cheese; cook and stir until the cheese melts, 1 to 2 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=813&h=426&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F964884.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "2 tablespoons butter",
+        "4 cloves garlic, minced",
+        "6 ears fresh corn, kernels cut from cob",
+        "\u00be cup milk",
+        "1 cup crumbled blue cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Cheese Garlic Sweet Corn",
     "url": "http://allrecipes.com/recipe/222176/blue-cheese-garlic-sweet-corn/"
 }

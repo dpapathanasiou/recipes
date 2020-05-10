@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together the ketchup, Worcestershire sauce, and hot pepper sauce in a mixing bowl. Sprinkle in the chili powder, paprika, black pepper, salt, and mustard. Whisk until evenly blended. The barbeque sauce is ready to use immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5265454.jpg",
+    "ingredients": [
+        "2 (32 ounce) bottles ketchup",
+        "1 tablespoon Worcestershire sauce",
+        "1 tablespoon hot pepper sauce",
+        "1 tablespoon chili powder",
+        "2 tablespoons paprika",
+        "3 tablespoons ground black pepper",
+        "3 tablespoons salt",
+        "3/4 teaspoon ground mustard"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Uncle Pauly's Carolina BBQ Sauce",
     "url": "http://allrecipes.com/recipe/214954/uncle-paulys-carolina-bbq-sauce/"
 }

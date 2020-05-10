@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the peanut butter together in a bowl with the lemon juice, tamari sauce, garlic, and water until smooth. Stir in the celery and toss until evenly blended. Spread on your choice of sliced bread."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5983215.jpg",
+    "ingredients": [
+        "\u2153 cup natural peanut butter",
+        "1 tablespoon fresh lemon juice",
+        "2 teaspoons tamari sauce",
+        "1 clove garlic, minced",
+        "2 tablespoons water",
+        "1 cup celery, finely chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Celery Pita Spread",
     "url": "http://allrecipes.com/recipe/158192/peanut-celery-pita-spread/"
 }

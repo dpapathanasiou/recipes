@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour sparkling white wine and vodka into a champagne glass; top with cranberry juice."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "3 fluid ounces sparkling white wine, chilled",
+        "1 fluid ounce peach-flavored vodka, chilled",
+        "2 fluid ounces cranberry juice, chilled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Christmas Noels",
     "url": "http://allrecipes.com/recipe/235935/christmas-noels/"
 }

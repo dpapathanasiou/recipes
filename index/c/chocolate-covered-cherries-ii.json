@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, mix together confectioner's sugar, margarine, milk and almond extract.",
+        "On a lightly floured surface, knead the mixture into a large ball. Roll into 1 inch balls. Flatten the balls into 2 inch circles. Leaving the stems sticking out, wrap the cherries in the circles by lightly rolling in hands. Place the wrapped cherries on wax paper and chill in the refrigerator at least 4 hours.",
+        "In a medium saucepan over medium heat, melt chocolate chips and shortening. Holding by the stem, dip the chilled cherries into the chocolate chip mixture. Chill until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/624087.jpg",
+    "ingredients": [
+        "2 1/2 cups confectioners' sugar",
+        "1/4 cup margarine",
+        "1 tablespoon milk",
+        "1/2 teaspoon almond extract",
+        "4 (4 ounce) jars maraschino cherries, drained",
+        "2 cups semisweet chocolate chips",
+        "2 tablespoons shortening"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Covered Cherries II",
     "url": "http://allrecipes.com/recipe/22519/chocolate-covered-cherries-ii/"
 }

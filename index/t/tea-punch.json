@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a pitcher, combine sugar and tea. Stir until sugar is dissolved. Stir in orange juice, pineapple juice and lemonade. Chill in refrigerator for 4 hours.",
+        "Just before serving, pour chilled juice mixture into a punch bowl and stir in ginger ale."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/696565.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "1 cup strong brewed black tea",
+        "4 cups orange juice",
+        "4 cups pineapple juice",
+        "4 cups prepared lemonade",
+        "1 (2 liter) bottle ginger ale, chilled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tea Punch",
     "url": "http://allrecipes.com/recipe/23532/tea-punch/"
 }

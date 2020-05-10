@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine 1/3 cup of the soup, chicken, bread crumbs, celery, onion and 1/4 teaspoon poultry seasoning. Mix well and shape into 6 croquettes (I make patties). Chill in refrigerator for about 1 hour.",
+        "Remove croquettes from refrigerator and roll in additional bread crumbs. In a large skillet, melt 1 to 2 tablespoons shortening. Brown the croquettes in the shortening. Meanwhile, in a small saucepan, combine the remaining soup, milk and 1/8 teaspoon poultry seasoning. Heat over low, stirring occasionally. Serve sauce over croquettes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F695255.jpg",
+    "ingredients": [
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "1\u2009\u00bd cups finely chopped, cooked chicken meat",
+        "\u00bc cup Italian-style dry bread crumbs",
+        "2 tablespoons minced celery",
+        "1 tablespoon minced onion",
+        "\u00bc teaspoon poultry seasoning",
+        "1 tablespoon shortening",
+        "\u00bd cup milk",
+        "\u215b tablespoon poultry seasoning",
+        "\u00bd cup Italian-style dry bread crumbs, for rolling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Easy Chicken Croquettes",
     "url": "http://allrecipes.com/recipe/8712/best-easy-chicken-croquettes/"
 }

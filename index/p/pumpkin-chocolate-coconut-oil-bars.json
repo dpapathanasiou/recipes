@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x9-inch baking pan or glass dish with cooking spray.",
+        "Combine almond flour, coconut sugar, pumpkin puree, coconut oil, dairy-free chocolate chips, tapioca flour, egg white, pumpkin pie spice, cinnamon, and almond extract in a bowl; stir until well mixed. Pour into prepared baking pan.",
+        "Bake in the preheated oven until chocolate chips are melted and top is golden brown, about 30 minutes. Cool until set, about 15 minutes. Cut into bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1448&h=758&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3092553.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 cup almond flour",
+        "1 cup coconut sugar",
+        "\u00be cup pumpkin puree",
+        "\u00bd cup coconut oil",
+        "\u00bd cup dairy-free mini chocolate chips",
+        "\u00bc cup tapioca flour",
+        "1  egg white",
+        "1\u2009\u00bd teaspoons pumpkin pie spice",
+        "1\u2009\u00bd teaspoons ground cinnamon",
+        "1 teaspoon almond extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Chocolate Coconut Oil Bars",
     "url": "http://allrecipes.com/recipe/254927/pumpkin-chocolate-coconut-oil-bars/"
 }

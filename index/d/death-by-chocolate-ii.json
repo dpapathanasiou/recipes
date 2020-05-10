@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bake cake according to package directions for one 9x13 inch cake. When cake is cool poke holes in the top and pour the coffee liqueur over it. Break up the cake into 1 inch cubes and set aside.",
+        "Mix the pudding mixes with the milk until thick.",
+        "In a large punch bowl layer  1/2 of the cake cubes, 1/2 of the pudding, 1/2 of the crushed candy bars, and 1/2 of the whipped topping. Repeat layers following the same order. Sprinkle top toasted almonds and any additional crushed butter toffee candy bars, if desired. Cover and refrigerate for several hours before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4460396.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package chocolate cake mix",
+        "\u00bd cup coffee flavored liqueur",
+        "2 (16 ounce) packages frozen whipped topping, thawed",
+        "2 (5.9 ounce) packages instant chocolate pudding mix",
+        "8 cups milk",
+        "6 (1.4 ounce) bars chocolate covered English toffee",
+        "\u215b cup slivered almonds for topping"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Death By Chocolate II",
     "url": "http://allrecipes.com/recipe/7765/death-by-chocolate-ii/"
 }

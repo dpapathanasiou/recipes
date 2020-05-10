@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the butternut squash cubes in a saucepan, cover with water, and bring to a boil over medium heat. Reduce heat; simmer until tender, about 30 minutes. Drain off water, and set the squash aside.",
+        "Preheat oven to 350 degrees F (175 degrees C). Spray a baking sheet with cooking spray.",
+        "Melt the butter in a large skillet, then cook the carrots, onion, and celery until tender, about 10 minutes. Place the vegetables, cooked butternut squash, cream, and sour cream into a blender. Cover, and puree until smooth, working in batches if necessary. Transfer the blended vegetables to a soup pot; stir in the chicken broth, nutmeg, black pepper, and salt. Bring the mixture to a simmer over medium-low heat, then simmer gently for about 15 minutes, stirring occasionally.",
+        "While the soup is simmering, place the pumpkin halves, cut sides up, on the prepared baking sheet, and bake in the preheated oven until the pumpkin flesh is cooked through, 15 to 20 minutes. Start the broiler, and place the pumpkin halves under the broiler about 6 inches from the heat source to brown the cut side of the pumpkins, if desired. Place a pumpkin bowl into a decorative soup plate; serve soup in the pumpkin bowls, and sprinkle each serving with Asiago cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F720235.jpg",
+    "ingredients": [
+        "6 cups cubed butternut squash",
+        "2 tablespoons butter",
+        "3  carrots, chopped",
+        "1 large onion, chopped",
+        "1 cup chopped celery",
+        "1 cup heavy cream",
+        "1 cup sour cream",
+        "8 cups chicken broth",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon ground black pepper",
+        "salt to taste",
+        "6 small sugar pumpkins, halved and seeded",
+        "1 cup grated Asiago cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin and Butternut Creamed Soup",
     "url": "http://allrecipes.com/recipe/215976/pumpkin-and-butternut-creamed-soup/"
 }

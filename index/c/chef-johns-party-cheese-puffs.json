@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with a silicone baking mat.",
+        "Stir water, butter, and salt together in a pot; bring to a simmer. Reduce heat to medium and whisk flour into butter mixture until a paste-like dough forms, 2 to 3 minutes. Transfer dough to a bowl to cool until warm, 5 to 10 minutes.",
+        "Whisk 1 egg, thyme, and black pepper into cooled dough until egg is completely incorporated. Add remaining egg and whisk until completely incorporated into dough. Stir 3/4 the cheese into dough until combined. Scoop 1-inch balls of dough onto prepared baking sheet. Top each with remaining cheese.",
+        "Bake in the preheated oven until golden and puffed, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "\u00bd cup water",
+        "\u00bc cup butter",
+        "1 pinch salt",
+        "\u00bd cup flour",
+        "2  large eggs",
+        "1 teaspoon fresh thyme leaves",
+        "1 teaspoon ground black pepper",
+        "\u00bd cup shredded sharp Cheddar cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chef John's Party Cheese Puffs",
     "url": "http://allrecipes.com/recipe/237641/chef-johns-party-cheese-puffs/"
 }

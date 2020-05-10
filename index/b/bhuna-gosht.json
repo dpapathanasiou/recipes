@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a large skillet over medium heat. Fry the green cardamom pods, black cardamom pods, bay leaves, and cinnamon stick in the hot oil until aromatic. Stir the onions, garlic, and ginger into the mixture. Reduce heat to low and continue cooking until the onions are golden brown; season with the red chili powder, turmeric, cumin, and salt. Add the tomatoes and continue cooking until the oil separates from the gravy, about 5 minutes more.",
+        "Place the lamb chops into the mixture in the skillet and increase heat to medium-low. Cook and stir until the lamb is cooked about halfway through and the sauce has created a glaze on the outside of the meat, about 20 minutes. Sprinkle the water over the mixture. Cover and cook until the lamb is tender, 15 to 20 minutes more. Remove the cover and add the green chile peppers and cilantro leaves. Increase the heat to high and cook another 3 to 5 minutes. Serve hot."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5649651.jpg",
+    "ingredients": [
+        "1/4 cup cooking oil",
+        "3 pods green cardamom",
+        "1 pod black cardamom",
+        "2 bay leaves",
+        "1 cinnamon stick",
+        "6 large onions, sliced thin",
+        "6 cloves garlic",
+        "1 (1/2 inch) piece fresh ginger root, peeled and julienned",
+        "2 teaspoons Kashmiri red chili powder",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon ground turmeric",
+        "salt, to taste",
+        "2 tomatoes, pureed",
+        "2 pounds lamb chops, rinsed and patted dry",
+        "2 tablespoons water",
+        "3 green chile peppers, halved lengthwise",
+        "1/4 cup cilantro leaves, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bhuna Gosht",
     "url": "http://allrecipes.com/recipe/212488/bhuna-gosht/"
 }

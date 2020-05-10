@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch. Cover the saucepan and bring the water to a boil over high heat. Once the water is boiling, remove from the heat and let the eggs stand in the hot water for 15 minutes. Pour out the hot water, then cool the eggs under cold running water in the sink. Peel once cold.",
+        "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source.",
+        "Coat beef and chicken livers with 2 tablespoons of corn oil, then spread livers on a baking sheet. Broil in the preheated oven until brown on the top, 8 to 10 minutes. Flip the livers and continue to broil until the livers are no longer pink in the center and juices run clear, about 5 minutes. Place livers in a bowl and chill in the refrigerator.",
+        "Heat 2 tablespoons of chicken fat and 2 tablespoons corn oil in a large skillet over medium-high heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 10 minutes. Reduce heat to medium-low, and continue cooking and stirring until the onion is very tender and dark brown, 15 to 20 minutes more. Place onion in a bowl; cover and refrigerate until chilled.",
+        "Finely chop the chilled beef and chicken livers, chilled onions, and hardboiled eggs together, then place in a bowl. Stir in the remaining 1 tablespoon of chicken fat. Season with salt and pepper. Refrigerate until ready to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1197&h=627&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970540.jpg",
+    "ingredients": [
+        "4  eggs",
+        "1\u2009\u00bd pounds beef liver, rinsed",
+        "1 pound chicken livers, rinsed",
+        "2 tablespoons corn oil",
+        "2 tablespoons rendered chicken fat",
+        "2 tablespoons corn oil",
+        "4 cups chopped onion",
+        "2 teaspoons salt",
+        "\u00bd teaspoon ground black pepper",
+        "1 tablespoon rendered chicken fat"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chopped Liver the Real Mccoy",
     "url": "http://allrecipes.com/recipe/80847/chopped-liver-the-real-mccoy/"
 }

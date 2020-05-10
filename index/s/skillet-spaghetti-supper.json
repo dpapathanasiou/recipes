@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium heat, saute onion and garlic in a small amount of oil.  Stir in ground beef, tomatoes, parsley and oregano, pasta and one cup of the mozzarella, simmering mixture.  Cover with the rest of the cheese and simmer for 40 more minutes or until top is slightly crispy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970049.jpg",
+    "ingredients": [
+        "1 cup diced onion",
+        "1 teaspoon minced garlic",
+        "1 pound lean ground beef",
+        "1 (28 ounce) can crushed tomatoes",
+        "1 tablespoon dried parsley",
+        "2 teaspoons dried oregano",
+        "1 pound uncooked linguine",
+        "2 cups shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Skillet Spaghetti Supper",
     "url": "http://allrecipes.com/recipe/23128/skillet-spaghetti-supper/"
 }

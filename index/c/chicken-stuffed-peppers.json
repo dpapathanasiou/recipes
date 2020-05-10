@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Heat oil in a small skillet over medium-high heat. Saute pepper and onion mix in hot oil until the onions are translucent, 7 to 10 minutes.",
+        "Mix sauteed pepper and onion mix, chicken, kale, goat cheese, garlic powder, cayenne pepper, and salt together in a bowl; spoon into bell peppers to overflowing. Arrange stuffed peppers in a casserole dish. Brush coconut oil on outside of peppers, if desired.",
+        "Bake peppers in preheated oven until soft, 30 to 40 minutes. Top each pepper with a half-slice of cheese and continue cooking until cheese melts, about 5 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2311478.jpg",
+    "ingredients": [
+        "2 teaspoons vegetable oil",
+        "\u00bd cup frozen bell pepper and onion mix",
+        "2 cups chopped cooked chicken",
+        "1 bunch kale, chopped",
+        "\u00bc cup crumbled goat cheese",
+        "\u00bc teaspoon garlic powder, or to taste",
+        "1 pinch cayenne pepper, or to taste",
+        "1 pinch salt to taste",
+        "4  bell peppers, tops and seeds removed",
+        "1 tablespoon coconut oil (optional)",
+        "2 slices Havarti cheese, cut into halves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken-Stuffed Peppers",
     "url": "http://allrecipes.com/recipe/240634/chicken-stuffed-peppers/"
 }

@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In non-stick omelet pan, melt 1 tablespoon butter over medium heat.",
+        "Add peppers and cook for 2-3 minutes, tossing frequently. Add Canadian Bacon and cook for another 1-2 minutes, tossing frequently. Remove to paper-towel lined plate.",
+        "In medium mixing bowl, whisk together eggs and milk, beating until frothy.",
+        "Wipe out omelet pan, add 1 tablespoon butter and extra virgin olive oil to pan and heat over medium low heat.",
+        "Once butter is melted, pour in eggs. Sprinkle sea salt over eggs and let sit for about 3 minutes, adjusting temperature as necessary to ensure a low, slow cook without burning the bottom. Once sides are set but middle is still wet, sprinkle 1/3 cup cheese, peppers and Canadian Bacon over eggs. Cook for 1 minute, then loosen edges with silicone spatula and flip eggs. Aim for mostly one large piece of egg, any cracks will slightly repair when other side cooks. Cook until bottom is set, 2-3 minutes, then slide onto plate and set aside.",
+        "Spread cream cheese over tortillas.",
+        "Place cast iron skillet over medium heat and add 1/2 tablespoon butter. Once melted, place prepared tortilla in pan, cream cheese side up. Sprinkle 1/3 cup cheese over entire surface and place half of the eggs over one half of tortilla. Sprinkle half of green onions over eggs. Cook over medium to medium-low heat until cheese is melted, then fold in half.",
+        "Remove to cutting board and let sit for 1-2 minutes before slicing. Repeat with other tortilla and remaining eggs. Serve with sour cream and salsa."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4093601.jpg",
+    "ingredients": [
+        "3 tablespoons unsalted butter, divided",
+        "2 jalapeno peppers, seeded and chopped",
+        "3 slices Jones Dairy Farm Canadian Bacon, chopped",
+        "4 large eggs",
+        "2 tablespoons whole milk",
+        "1 teaspoon extra virgin olive oil",
+        "1 pinch sea salt",
+        "1 cup shredded Mexican blend cheese, divided",
+        "2 ounces cream cheese, softened",
+        "2 flour tortillas",
+        "2 green onions, sliced",
+        "Sour cream (optional)",
+        "Salsa (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jalapeno and Canadian Bacon Breakfast Quesadillas",
     "url": "http://allrecipes.com/recipe/255678/jalapeno-and-canadian-bacon-breakfast/"
 }

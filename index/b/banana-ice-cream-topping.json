@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bananas in a saucepan over high heat; cook and stir until bananas become a chunky paste, about 5 minutes. Turn temperature down to medium, and mix brown sugar, milk, cinnamon, and vanilla extract into saucepan. Stir until all ingredients are well combined, about 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3683720.jpg",
+    "ingredients": [
+        "2 bananas, sliced into 1/4-inch pieces",
+        "1 tablespoon brown sugar",
+        "1 tablespoon milk",
+        "2 teaspoons ground cinnamon",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Banana Ice Cream Topping",
     "url": "http://allrecipes.com/recipe/254175/banana-ice-cream-topping/"
 }

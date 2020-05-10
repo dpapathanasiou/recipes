@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Whisk multi-grain flour, wheat flour, sunflower seeds, flax seeds, wheat germ, sugar, baking powder, and salt together in a large bowl.",
+        "Grate cold butter into flour mixture using the largest holes of a cheese grater and mix with a fork until it resembles coarse crumbs. Slowly pour in milk and mix until dough begins to pull away from sides of the bowl.",
+        "Turn dough out onto a lightly floured surface and gently knead to form a soft dough, about 10 turns. Pat into an 8-inch square, cut into quarters, and cut each quarter into 3 rectangular pieces.",
+        "Place each piece of dough onto an ungreased baking sheet, about 1 inch apart; brush with egg and sprinkle with sesame seeds.",
+        "Bake in the preheated oven until golden, 12 to 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2736673.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups multigrain flour",
+        "1 cup whole wheat flour",
+        "\u00bc cup sunflower seeds",
+        "\u00bc cup flax seeds",
+        "\u00bc cup wheat germ",
+        "1 tablespoon white sugar",
+        "1 tablespoon baking powder",
+        "\u00bd teaspoon salt",
+        "\u00bd cup cold butter",
+        "1 cup milk",
+        "1  egg, lightly beaten",
+        "\u00bc cup sesame seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Multigrain Seed Biscuits",
     "url": "http://allrecipes.com/recipe/245299/multigrain-seed-biscuits/"
 }

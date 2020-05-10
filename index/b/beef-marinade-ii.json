@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a nonreactive container, blend red wine, soy sauce, and sesame oil. Place meat in the mixture, and season with basil, oregano, bay leaf, and garlic powder. Place lemon slices over the beef. Cover, and marinate in the refrigerator 25 minutes, turning once, before grilling as desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1536&h=804&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1588813.jpg",
+    "ingredients": [
+        "\u00be cup red wine",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "1 teaspoon crushed bay leaf",
+        "1 teaspoon garlic powder",
+        "4 slices lemon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Beef Marinade II",
     "url": "http://allrecipes.com/recipe/30499/beef-marinade-ii/"
 }

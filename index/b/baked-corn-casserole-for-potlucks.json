@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Stir corn, flour, sugar, butter, salt, pimento peppers, eggs, bell pepper, processed cheese, and milk together in a mixing bowl, respectively; pour into a 9x13-inch baking dish.",
+        "Bake in preheated oven until the cheese is melted, about 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6500042.jpg",
+    "ingredients": [
+        "2 (19 ounce) cans whole kernel corn, drained",
+        "6 tablespoons all-purpose flour",
+        "6 tablespoons white sugar",
+        "6 tablespoons butter, melted",
+        "4 teaspoons salt",
+        "2  chopped pimento peppers",
+        "6  eggs",
+        "\u00bd cup chopped green bell pepper",
+        "\u00bd pound processed cheese (such as Velveeta\u00ae), cubed",
+        "1\u2009\u00bd cups milk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Corn Casserole for Potlucks",
     "url": "http://allrecipes.com/recipe/232687/baked-corn-casserole-for-potlucks/"
 }

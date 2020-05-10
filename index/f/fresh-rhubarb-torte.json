@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 325 degrees F (165 degrees C). Prepare a 9x9-inch baking dish with cooking spray.",
+        "Mix together 1 cup of flour, 2 tablespoons of sugar, and the melted butter until well combined; pat the mixture into the bottom of the prepared baking dish.",
+        "Bake the crust in the preheated oven until very lightly browned, about 25 minutes. Set aside to cool slightly. Increase oven heat to 350 degrees F (175 degrees C.)",
+        "Stir together 1 1/4 cup of sugar, the rhubarb, 2 tablespoons flour, the milk, and beaten egg yolks until thoroughly combined; pour over the crust.",
+        "Bake in the oven until set, 40 to 45 minutes. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3651908.jpg",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tablespoons white sugar",
+        "\u00bd cup butter, melted",
+        "1\u2009\u00bc cups white sugar",
+        "2\u2009\u00bd cups diced rhubarb",
+        "2 tablespoons all-purpose flour",
+        "\u2153 cup milk",
+        "3  egg yolks, beaten"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fresh Rhubarb Torte",
     "url": "http://allrecipes.com/recipe/214104/fresh-rhubarb-torte/"
 }

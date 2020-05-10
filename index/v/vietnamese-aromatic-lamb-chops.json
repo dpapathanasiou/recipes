@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the lamb chops into a roasting pan, and season evenly with the garlic, garlic powder, chili powder, sugar, salt, and pepper. Drizzle with 1 tablespoon of lime juice, soy sauce and olive oil. Cover and refrigerate overnight.",
+        "Preheat the oven to 400 degrees F (200 degrees C). Allow the lamb to stand at room temperature while the oven preheats.",
+        "Roast uncovered in the preheated oven to your desired degree of doneness, about 20 minutes for medium, or 30 minutes for well done. Garnish with a sprinkle of cilantro and squeeze lemon and lime juice over the top before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1060249.jpg",
+    "ingredients": [
+        "15 (3 ounce) lamb loin chops (1-inch thick)",
+        "2 cloves garlic, sliced",
+        "1 teaspoon garlic powder, or to taste",
+        "1 pinch chili powder",
+        "2 tablespoons white sugar",
+        "freshly ground black pepper to taste",
+        "1 tablespoon fresh lime juice",
+        "1 tablespoon soy sauce",
+        "2 tablespoons olive oil",
+        "1/4 cup chopped fresh cilantro",
+        "2 lime wedges",
+        "2 lemon wedges"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vietnamese Aromatic Lamb Chops",
     "url": "http://allrecipes.com/recipe/152156/vietnamese-aromatic-lamb-chops/"
 }

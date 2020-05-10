@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Put spinach into a microwave-safe bowl. Pour water over the spinach. Cover bowl tightly with plastic wrap.",
+        "Cook in microwave oven on High, stirring occasionally, until the spinach is heated through, 9 to 11 minutes; transfer to a colander to drain, pressing to remove as much moisture from the spinach as possible.",
+        "Melt 1/2 cup butter in a saucepan over medium heat; add spinach, cream cheese, water chestnuts, and garlic powder. Cook and stir until the cheese melts, 5 to 7 minutes.",
+        "Spread artichoke hearts into the bottom of a baking dish. Spread spinach mixture over the artichoke hearts. Sprinkle bread crumbs over the spinach mixture. Dot top of casserole with butter pieces.",
+        "Bake in preheated oven until heated through, 20 to 25 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2322&h=1216&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3588118.jpg",
+    "ingredients": [
+        "2 (10 ounce) packages frozen chopped spinach",
+        "\u00bd cup water",
+        "\u00bd cup butter",
+        "1 (8 ounce) package cream cheese",
+        "1 (8 ounce) can sliced water chestnuts, drained",
+        "garlic powder, or to taste",
+        "1 (14 ounce) can artichoke hearts, drained and halved",
+        "\u00bd cup bread crumbs",
+        "2 tablespoons butter, cut into small pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spinach and Artichoke Casserole",
     "url": "http://allrecipes.com/recipe/242277/spinach-and-artichoke-casserole/"
 }

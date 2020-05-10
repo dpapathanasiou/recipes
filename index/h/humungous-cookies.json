@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F.  Lightly grease two 12 inch pizza pans.",
+        "Stir together flour, baking soda and salt and set aside.",
+        "Using a large bowl, cream together butter, cream cheese and sugars.  Add eggs and beat until fluffy.  Add flour mixture to creamed mixture, blending until dough becomes stiff.  Stir in chocolate chunks and nuts until well blended.",
+        "Divide dough in two.  Press each half into the prepared pans.  Bake 20-25 minutes or until lightly browned around the edges.  Centers should be firm. Cool in the pan on wire rack.  Serve by cutting into wedges."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F103180.jpg",
+    "ingredients": [
+        "1 cup unsalted butter",
+        "1 (8 ounce) package cream cheese",
+        "1 cup packed brown sugar",
+        "\u00bd cup white sugar",
+        "2  eggs",
+        "2\u2009\u2153 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "\u00bc teaspoon salt",
+        "2 cups chopped semisweet chocolate",
+        "1 cup coarsely chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Humungous Cookies",
     "url": "http://allrecipes.com/recipe/10590/humungous-cookies/"
 }

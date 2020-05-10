@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "In a medium saucepan, boil 2 cups water and chicken bouillon. Stir in rice. Remove from heat, and set aside. In a small bowl, mix cornstarch with remaining water.",
+        "Heat olive oil in a medium skillet over medium heat. Place chicken in skillet with thyme, sage, basil, parsley, and marjoram. Cook until chicken is no longer pink and juices run clear. Drain and cube.",
+        "Stir onion into the skillet, and cook 5 minutes, or until browned and tender.",
+        "In a large bowl, thoroughly mix rice, cornstarch mixture, chicken, onion, spinach, and cottage cheese.",
+        "Transfer the mixture to a medium baking dish. Season with salt and pepper. Top with Parmesan cheese, and dot with margarine. Bake, covered, 45 minutes in the preheated oven. Remove cover, and continue baking 15 minutes, until surface is lightly browned."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F65274.jpg",
+    "ingredients": [
+        "3 cups water",
+        "4 cubes chicken bouillon",
+        "2 cups instant brown rice",
+        "2 tablespoons cornstarch",
+        "\u00bc cup olive oil",
+        "4  boneless, skinless chicken breast halves",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried sage",
+        "2 teaspoons dried basil",
+        "1 teaspoon dried parsley",
+        "1 teaspoon dried marjoram",
+        "1  medium onion, chopped",
+        "2 (10 ounce) packages frozen chopped spinach, thawed and drained",
+        "2 cups cottage cheese",
+        "salt and pepper to taste",
+        "\u00bd cup Parmesan cheese",
+        "\u00bc cup margarine"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Florentine Rice Casserole",
     "url": "http://allrecipes.com/recipe/40384/chicken-florentine-rice-casserole/"
 }

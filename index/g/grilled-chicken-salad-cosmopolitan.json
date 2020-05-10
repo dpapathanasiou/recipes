@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small saucepan over low heat, combine the cranberry sauce and orange marmalade. Warm and stir until melted and well blended. Remove from the heat and stir in the lime juice, orange juice and vegetable oil. Remove 1/2 cup of the mixture and set aside in the refrigerator for later.",
+        "Allow the mixture to cool then stir in the lemon vodka and transfer to a large resealable bag. Season the chicken pieces with salt and lemon pepper; place them into the bag with the marinade. Seal the bag and marinate in the refrigerator for at least 1 hour, turning occasionally.",
+        "Preheat a grill for medium heat. Remove the chicken from the plastic bag, discarding the marinade.",
+        "Place the chicken pieces on the preheated grill and cook for 4 to 5 minutes on each side, or until firm and no longer pink in the center. If you have a meat thermometer, it should measure 160 degrees F (70 degrees C) when measured in the thickest part. Remove chicken to a cutting board and allow to rest for about 5 minutes.",
+        "While the chicken is resting, combine the salad greens, cranberries, and orange segments. Pour the reserved citrus marinade over the salad and toss lightly to coat. Divide the salad between four serving plates. Slice each piece of chicken crosswise into 1/2 inch strips. Arrange over the tops of the salads and sprinkle with orange zest strips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F21891.jpg",
+    "ingredients": [
+        "\u00bc cup jellied cranberry sauce",
+        "\u00bc cup orange marmalade",
+        "\u00bc cup fresh lime juice",
+        "\u00bc cup fresh orange juice",
+        "\u00bc cup vegetable oil",
+        "2 tablespoons lemon flavored vodka",
+        "4  skinless, boneless chicken breast halves",
+        "\u00be teaspoon salt",
+        "\u00be teaspoon lemon pepper",
+        "1 (10 ounce) bag European blend salad greens",
+        "\u00bd cup dried cranberries",
+        "2 cups diced orange segments",
+        "2 tablespoons orange zest strips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Chicken Salad Cosmopolitan",
     "url": "http://allrecipes.com/recipe/110056/grilled-chicken-salad-cosmopolitan/"
 }

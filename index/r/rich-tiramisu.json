@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix coffee, milk, 2 tablespoons sugar, and 2 tablespoons rum together in a bowl. Soak lady fingers in the coffee mixture. Layer 1/2 of the soaked ladyfingers in the bottom of a 9x13 inch pan.",
+        "Beat egg yolks and 2 tablespoons sugar together in a bowl; add mascarpone cheese and 1 tablespoon of rum and mix well.",
+        "Beat egg whites in a bowl using an electric mixer until stiff peaks form; fold into mascarpone cheese mixture. Spread 1/2 of mixture over soaked lady fingers; cover with second 1/2 of soaked lady fingers and cover evenly with remaining mascarpone cheese mixture. Sprinkle top with cocoa powder. Refrigerate at least 3 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/885538.jpg",
+    "ingredients": [
+        "1 cup strong brewed coffee",
+        "1/4 cup milk",
+        "1/4 cup white sugar, divided",
+        "3 tablespoons rum, divided",
+        "36 ladyfingers",
+        "2 egg yolks",
+        "9 ounces mascarpone cheese",
+        "2 egg whites",
+        "1/8 teaspoon unsweetened cocoa powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rich Tiramisu",
     "url": "http://allrecipes.com/recipe/15505/rich-tiramisu/"
 }

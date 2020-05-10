@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Butter one side of each slice of bread, and place 4 of the slices butter-side down on a griddle over medium heat.",
+        "On each piece of bread, place one slice of cheese, 1 slice of tomato, and a few slices of serrano pepper. Sprinkle dried basil and salt and pepper to taste. Top each sandwich with a slice of buttered bread, butter-side up.",
+        "Grill sandwiches until golden brown, about 2 to 3 minutes each side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/41420.jpg",
+    "ingredients": [
+        "8 (1 ounce) slices bread",
+        "4 slices Cheddar cheese",
+        "1 large tomato, sliced",
+        "2 serrano peppers, seeded and thinly sliced",
+        "2 teaspoons dried basil",
+        "salt and pepper to taste",
+        "2 tablespoons butter"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Cheese with Tomato, Peppers and Basil",
     "url": "http://allrecipes.com/recipe/40422/grilled-cheese-with-tomato-peppers-a/"
 }

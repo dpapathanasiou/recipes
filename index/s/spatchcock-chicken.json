@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C). Line a large rimmed baking sheet with foil.",
+        "Place chicken, breast side down, on a work surface. Starting at the tail end, cut along both sides of backbone with kitchen shears. Remove backbone. Grabbing hold of both sides of the chicken, open it like a book. Turn breast side up. Push down on each side of breast with your hands until you hear it crack. Flatten chicken and transfer to one short end of the prepared baking sheet. Repeat with the second chicken.",
+        "Combine salt, tarragon, paprika, and pepper in a small bowl. Stir in oil. Run your fingers under chicken skin and rub tarragon paste under skin. Slide lemon slices under skin, in a single layer.",
+        "Roast until skin is crisp and an instant-read thermometer inserted into thickest part of breast reads 165 degrees F, about 35 minutes. Let stand 5 minutes before cutting each chicken into 8 pieces."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3616309.jpg",
+    "ingredients": [
+        "2 (3 1/2) pound whole chickens, wingtips removed",
+        "2 teaspoons salt",
+        "1 teaspoon dried tarragon",
+        "1 teaspoon paprika",
+        "\u00bc teaspoon black pepper",
+        "4 teaspoons olive oil",
+        "2  lemons, thinly sliced and seeded"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spatchcock Chicken",
     "url": "http://allrecipes.com/recipe/246274/spatchcock-chicken/"
 }

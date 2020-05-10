@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place each chicken breast between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound the chicken with the smooth side of a meat mallet to a thickness of 1/2 inch. Sprinkle both sides of the flattened chicken breasts with salt, pepper, and garlic powder.",
+        "Heat olive oil in a large skillet with a cover over medium heat. Pan-fry the chicken breasts for about 2 minutes on each side, until the chicken is golden brown but not cooked all the way through. Remove the chicken and set aside.",
+        "Place the onion and garlic in the skillet, and cook and stir for about 3 minutes, until the onion starts to turn translucent. Pour the white wine and chicken broth into the pan, and bring to a simmer while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Whisk in the rosemary and thyme leaves, lemon juice, lemon zest, milk, and sour cream until the sauce is well mixed.",
+        "Place the chicken breasts back into the skillet; cover with the sauce, Cover the skillet, and simmer for about 1 hour, until the sauce is thickened. Serve chicken with sauce spooned over the top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=800&h=419&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F336209.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves",
+        "salt and pepper to taste",
+        "garlic powder to taste",
+        "3 tablespoons olive oil",
+        "1  onion, chopped",
+        "2 cloves garlic, minced",
+        "1\u2009\u00bd cups white wine",
+        "1 cup chicken broth",
+        "1 tablespoon chopped fresh rosemary leaves",
+        "1 tablespoon chopped fresh thyme leaves",
+        "\u00bd cup lemon juice",
+        "2 tablespoons grated lemon zest",
+        "\u00bd cup milk",
+        "\u00bc cup sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rich Herb and Lemon Chicken",
     "url": "http://allrecipes.com/recipe/167093/rich-herb-and-lemon-chicken/"
 }

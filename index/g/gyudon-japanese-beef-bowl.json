@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Halve the onion and discard the central-most part. Cut halves into thin slices.",
+        "Heat oil in a large skillet or wok over high heat. Add onion; cook and stir until it starts to brown, about 30 seconds. Reduce heat to medium-low; add water, soy sauce, brown sugar, mirin, and sake and simmer until flavors combine, about 3 minutes.",
+        "Stir beef into the skillet. Cook, covered, until beef is cooked through, 3 to 5 minutes. Divide between serving bowls and garnish with sesame seeds, green onions, ginger, and seaweed strips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2212&h=1158&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3663861.jpg",
+    "ingredients": [
+        "1 large white onion",
+        "1 teaspoon vegetable oil",
+        "\u00bd cup water",
+        "2 tablespoons soy sauce",
+        "1 tablespoon brown sugar",
+        "1 tablespoon mirin",
+        "1 tablespoon sake",
+        "\u00bd pound beef ribeye steak, thinly sliced",
+        "1 tablespoon sesame seeds, or to taste (optional)",
+        "2  green onions, thinly sliced, or to taste (optional)",
+        "2 teaspoons pickled ginger (beni shoga), or to taste (optional)",
+        "1 sheet dried seaweed, cut into strips, or to taste (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gyudon Japanese Beef Bowl",
     "url": "http://allrecipes.com/recipe/246894/gyudon-japanese-beef-bowl/"
 }

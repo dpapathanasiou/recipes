@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Wash the carrots and trim the tops off, then juice using a juice machine.  Pour the carrot juice over the ice cream to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2891291.jpg",
+    "ingredients": [
+        "2 large carrots",
+        "1/4 cup vanilla ice cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Carrot Juice Float",
     "url": "http://allrecipes.com/recipe/107958/carrot-juice-float/"
 }

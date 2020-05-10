@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season catfish with Cajun seasoning, salt, and black pepper. Refrigerate fillets 1 to 3 hours.",
+        "Mix saltine crackers and almonds in a large, wide bowl. Stir milk, beaten eggs, and garlic together in a separate bowl.",
+        "Soak the catfish fillets in the milk mixture for 5 to 10 minutes.",
+        "Heat peanut oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+        "Gently press the catfish fillets into the cracker mixture to coat completely; shake to remove any loose breading.",
+        "Fry fillets in hot peanut oil until cooked through and floats atop the oil, about 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1390346.jpg",
+    "ingredients": [
+        "3 pounds catfish fillets",
+        "2 tablespoons Cajun seasoning (such as Tex Joy\u00ae All Purpose), or to taste",
+        "salt and ground black pepper to taste",
+        "1/2 (16 ounce) package saltine crackers, crumbled",
+        "1 (2.45 ounce) package sliced almonds",
+        "2 eggs, beaten",
+        "2 cups milk",
+        "1 teaspoon pressed garlic",
+        "1 quart peanut oil, for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "TW Fried Catfish",
     "url": "http://allrecipes.com/recipe/228054/tw-fried-catfish/"
 }

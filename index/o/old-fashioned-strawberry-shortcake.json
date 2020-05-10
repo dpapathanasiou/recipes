@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix strawberries and 1 cup sugar in a bowl and allow to stand while you complete remaining steps. Stir occasionally to help juice form.",
+        "Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch round baking pan.",
+        "Combine flour, 2 tablespoons sugar, baking powder, and salt in a bowl; cut in shortening with a knife or pastry blender until the mixture resembles coarse crumbs. Stir milk into crumb mixture until just blended; pour into prepared baking pan.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 15 to 20 minutes; cool in the pans for 10 minutes before removing shortcake.",
+        "Split shortcake into two layers; spread bottom layer with 2 tablespoons softened butter and top with strawberries and juice. Place top layer over strawberries. Serve with whipped cream."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1197&h=627&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F966193.jpg",
+    "ingredients": [
+        "1 quart strawberries, sliced",
+        "1 cup white sugar",
+        "2 cups all-purpose flour",
+        "2 tablespoons white sugar",
+        "1 tablespoon baking powder",
+        "1 teaspoon salt",
+        "\u2153 cup vegetable shortening",
+        "1\u2009\u00bd cups milk",
+        "2 tablespoons butter, softened",
+        "1 cup whipped cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Old Fashioned Strawberry Shortcake",
     "url": "http://allrecipes.com/recipe/228308/old-fashioned-strawberry-shortcake/"
 }

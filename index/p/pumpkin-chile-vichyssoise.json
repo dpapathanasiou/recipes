@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Bake the pumpkin on a baking sheet in the preheated oven until soft, 30 to 40 minutes.",
+        "Combine 2 cups chicken broth and chile peppers in a saucepan over medium-low heat; simmer for 30 minutes.",
+        "Melt butter in a large stockpot over medium heat. Cook and stir onion in the butter until caramelized, about 45 minutes. Transfer to a bowl.",
+        "Cook leeks in the same stockpot until tender, 10 to 15 minutes. Add pumpkin, chicken broth with chile peppers, caramelized onion, remaining 3 cups chicken broth, and cumin. Simmer until flavors combine, about 5 minutes.",
+        "Puree soup with an immersion blender until smooth. Add bay leaf, salt, and pepper. Remove from heat; stir in buttermilk. Discard bay leaf before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2656722.jpg",
+    "ingredients": [
+        "1 medium pumpkin - peeled and cubed",
+        "5 cups chicken broth, divided",
+        "6 dried red chile peppers, stemmed and seeded",
+        "1 teaspoon butter",
+        "1 large onion, chopped",
+        "2 pounds leeks, chopped",
+        "1 teaspoon cumin",
+        "1 bay leaf",
+        "salt and ground black pepper to taste",
+        "1 cup buttermilk"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pumpkin Chile Vichyssoise",
     "url": "http://allrecipes.com/recipe/77452/pumpkin-chile-vichyssoise/"
 }

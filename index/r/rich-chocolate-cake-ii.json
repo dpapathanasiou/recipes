@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking pan.",
+        "In a medium bowl, stir together the flour, sugar, cocoa, baking soda and salt. Add the hot coffee, oil and vanilla, mix until smooth. Pour into the prepared pan.",
+        "Bake for 45 to 60 minutes in the preheated oven. Test with a toothpick for doneness. Allow cake to cool before topping or frosting."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F826990.jpg",
+    "ingredients": [
+        "3 cups all-purpose flour",
+        "2 cups white sugar",
+        "\u00bd cup unsweetened cocoa powder",
+        "2 teaspoons baking soda",
+        "\u00bd teaspoon salt",
+        "2 cups hot brewed coffee",
+        "\u2154 cup vegetable oil",
+        "2 tablespoons vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rich Chocolate Cake II",
     "url": "http://allrecipes.com/recipe/17592/rich-chocolate-cake-ii/"
 }

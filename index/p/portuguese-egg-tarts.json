@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Spray 12 muffin cups with cooking spray.",
+        "Place the pie crust mix into a bowl, and lightly rub the butter and water into the mix until the mixture holds together well enough to form a ball. Turn the dough out onto a floured surface, and knead several times to make the dough more elastic. Form into a ball again, and cut the ball in half; cut each half into half again (4 pieces); cut each quarter into thirds to make 12 total pieces. Roll the pieces into balls, and set aside.",
+        "Beat together the egg yolks, sugar, cream, milk, and vanilla extract in a bowl until light and foamy, about 3 minutes; strain the filling through a fine mesh strainer into a clean bowl.",
+        "Press a dough ball into the bottom and about 1 1/2 inches up the sides of a prepared muffin cup; repeat for remaining dough pieces. Spoon each crust about 80 percent full of the egg yolk mixture.",
+        "Bake in the preheated oven until the crusts are golden brown, the filling is set, and the tarts are lightly browned, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2272&h=1190&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2234575.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 (11 ounce) package pie crust mix (such as Betty Crocker\u00ae)",
+        "3 tablespoons cold butter, cubed",
+        "\u2153 cup ice cold water",
+        "4  egg yolks",
+        "\u2153 cup white sugar, or to taste",
+        "\u2153 cup heavy cream",
+        "\u2153 cup milk",
+        "3 drops vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Portuguese Egg Tarts",
     "url": "http://allrecipes.com/recipe/218037/portuguese-egg-tarts/"
 }

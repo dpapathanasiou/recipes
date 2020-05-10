@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper; add sweet potatoes.",
+        "Bake in the preheated oven until potatoes are softened, about 40 minutes. Remove from oven and allow to cool, about 5 minutes.",
+        "Place sweet potato chunks, chickpeas, peanut butter, lime juice, olive oil, paprika, cayenne pepper, cumin, and salt into a blender; puree until smooth."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3604&h=1887&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4050675.jpg",
+    "ingredients": [
+        "1 large sweet potato, peeled and sliced into 1/4 chunks",
+        "1 (15 ounce) can chickpeas, rinsed and drained",
+        "3 tablespoons peanut butter",
+        "2 tablespoons lime juice",
+        "1 tablespoon extra-virgin olive oil",
+        "\u00bd teaspoon paprika",
+        "\u00bd teaspoon cayenne pepper",
+        "\u00bc teaspoon ground cumin",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sweet Potato Peanut Butter Hummus",
     "url": "http://allrecipes.com/recipe/254366/sweet-potato-peanut-butter-hummus/"
 }

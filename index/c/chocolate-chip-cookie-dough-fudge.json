@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Line a 9x9 inch baking dish with aluminum foil, and set aside.",
+        "To make the cookie dough pieces, mix the melted margarine, brown sugar, and salt in a bowl. Stir in the flour to make a dough, and knead in 1/4 cup of chocolate chips. Form the dough into a disk about 1/2 inch to 3/4 inch thick, place it on a sheet of plastic wrap, and then shape the disk into a square with your hands.",
+        "Place the square piece of dough in the freezer for about 10 minutes, until cold and stiff, and then slice it into 1/2 inch square pieces. Refrigerate the dough pieces while you make the cream cheese fudge.",
+        "Mix together the cream cheese and confectioners' sugar in a bowl until smooth, and stir in the melted chocolate chips and vanilla extract.",
+        "Lightly fold in the cookie dough pieces, and spread the candy out into the prepared dish. Refrigerate at least 1 hour, or until firm, and remove the candy from the foil-lined dish. Cut into squares, and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7522481.jpg",
+    "ingredients": [
+        "\u2153 cup margarine, melted",
+        "\u2154 cup light brown sugar, packed",
+        "1 pinch salt",
+        "\u00be cup all-purpose flour",
+        "\u00bc cup semisweet mini chocolate chips",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (16 ounce) package confectioners' sugar",
+        "1 cup semisweet mini chocolate chips, melted",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Chip Cookie Dough Fudge",
     "url": "http://allrecipes.com/recipe/184838/chocolate-chip-cookie-dough-fudge/"
 }

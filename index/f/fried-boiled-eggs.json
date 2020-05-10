@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place eggs in a saucepan and cover with water. Bring water to a boil. Cook eggs at a boil for 10 minutes. Remove eggs from hot water and set aside to cool.",
+        "Peel cooled eggs and cut into large chunks.",
+        "Melt butter in a skillet over medium heat. Fry egg chunks in melted butter until golden brown, about 2 minutes; season with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2189364.jpg",
+    "ingredients": [
+        "4  eggs",
+        "2 tablespoons butter",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fried Boiled Eggs",
     "url": "http://allrecipes.com/recipe/241866/fried-boiled-eggs/"
 }

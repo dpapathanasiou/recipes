@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Spread hazelnuts onto a baking sheet and roast in preheated oven until slightly browned and the skins are slightly blistered, 10 to 15 minutes.",
+        "Spread a kitchen towel onto a flat work surface. Put the hazelnuts in the middle of the towel and wrap the towel around the nuts. Roll towel vigorously to strip the nuts from as much of the skins as you can remove. Discard skins and set nuts aside to cool completely.",
+        "Put hazelnuts in a food processor and grind into a paste; add sugar, canola oil, cocoa powder, vanilla, and salt. Continue to process the mixture until it is as smooth as you can get it.",
+        "Melt the chocolate in the top of a double boiler over simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching. Pour chocolate into the food processor and blend into the hazelnut mixture. Use a spatula to transfer into a container with a tight-fitting lid, but cool completely at room temperature before sealing tightly."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4465844.jpg",
+    "ingredients": [
+        "1 cup hazelnuts",
+        "3 tablespoons confectioners' sugar",
+        "2 tablespoons canola oil",
+        "1 tablespoon unsweetened cocoa powder",
+        "1/2 teaspoon vanilla extract, or more to taste",
+        "1/2 teaspoon salt, or more to taste",
+        "1 (12 ounce) bag dark chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Homemade Nutella\u00ae (Chocolate-Hazelnut Spread)",
     "url": "http://allrecipes.com/recipe/237573/homemade-nutella-chocolate-hazeln/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the flour, bread crumbs, salt, lemon pepper, seasoned salt, and paprika into a large resealable plastic zipper bag, and stir the mixture to thoroughly combine.",
+        "Whisk the eggs and milk together in a large shallow bowl. Rinse off the chicken pieces, and place 2 or 3 pieces at a time into the plastic bag. Seal the bag, shake several times to thoroughly coat the chicken with seasoned flour mixture, and dip into the egg mixture. Place the chicken pieces back into the flour, shake to coat, and dip; repeat one more time, giving each chicken piece 2 dips in egg mixture and 3 coatings of seasoned flour.",
+        "Heat oil in a large skillet with deep sides until the oil shimmers; gently add the chicken in batches, either all drumsticks or all thighs. Cover the skillet, and fry until the juices run clear and the coating is beginning to brown, 10 to 15 minutes; uncover and cook the chicken until the coating is golden brown, another 5 to 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3934514.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "\u00bd cup dry bread crumbs",
+        "1 tablespoon salt (optional)",
+        "2 tablespoons lemon pepper",
+        "2 tablespoons seasoned salt",
+        "2 tablespoons paprika",
+        "2  beaten eggs",
+        "2 cups milk",
+        "5 pounds chicken drumsticks and thigh pieces",
+        "1\u2009\u00bd cups vegetable oil for frying"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "City Fried Chicken",
     "url": "http://allrecipes.com/recipe/214186/city-fried-chicken/"
 }

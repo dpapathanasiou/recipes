@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small saucepan over medium heat, mix together the ketchup, mint jelly, honey, red wine vinegar, and butter. Bring to a boil, then remove from the heat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3338758.jpg",
+    "ingredients": [
+        "1 cup ketchup",
+        "2 tablespoons honey",
+        "2 tablespoons red wine vinegar",
+        "2 tablespoons butter",
+        "2 tablespoons mint jelly"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sauce for Corned Beef",
     "url": "http://allrecipes.com/recipe/83387/sauce-for-corned-beef/"
 }

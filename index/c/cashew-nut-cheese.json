@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend cashews, oil, and sugar together in a food processor or blender until smooth. Add almond milk, tahini, onion powder, salt, garlic powder, and white pepper; blend until well mixed. Add red bell pepper, lemon juice, and garlic and blend until creamy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2448&h=1282&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2202310.jpg",
+    "ingredients": [
+        "2 cups unsalted roasted cashews",
+        "2\u2009\u00bd tablespoons vegetable oil",
+        "1 teaspoon white sugar (optional)",
+        "\u00bc cup almond milk",
+        "2 tablespoons tahini",
+        "\u00bd teaspoon onion powder",
+        "\u00bd teaspoon salt (optional)",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc teaspoon ground white pepper",
+        "1  red bell pepper, chopped",
+        "1 tablespoon lemon juice",
+        "1\u2009\u00bd cloves garlic, peeled"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cashew Nut Cheese",
     "url": "http://allrecipes.com/recipe/241234/cashew-nut-cheese/"
 }

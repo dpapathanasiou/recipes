@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend kale, soy milk, spinach, banana, raspberries, and pineapple together in a blender until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2449609.jpg",
+    "ingredients": [
+        "2 cups chopped kale",
+        "1 cup soy milk",
+        "1 cup fresh spinach",
+        "1 banana, broken into chunks",
+        "1/4 cup frozen raspberries",
+        "1/4 cup frozen pineapple chunks"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Green Breakfast Smoothie",
     "url": "http://allrecipes.com/recipe/241020/green-breakfast-smoothie/"
 }

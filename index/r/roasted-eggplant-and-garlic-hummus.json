@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a baking sheet.",
+        "Place the eggplant slices on the prepared baking sheet, and brush them generously with olive oil. Place garlic slices on top of the eggplant.",
+        "Bake the eggplant in the preheated oven until soft and golden brown, 15 to 20 minutes.",
+        "Place the roasted eggplant slices and garlic into the work bowl of a food processor with the garbanzo beans and salt, and process until smooth."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=873&h=457&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F974425.jpg",
+    "ingredients": [
+        "1  eggplant, cut into 1/2-inch slices",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, peeled and thinly sliced",
+        "1 (15 ounce) can garbanzo beans, drained",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Eggplant and Garlic Hummus",
     "url": "http://allrecipes.com/recipe/203745/roasted-eggplant-and-garlic-hummus/"
 }

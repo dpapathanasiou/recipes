@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix red onion, mango, tomato, and cilantro together in a bowl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4508997.jpg",
+    "ingredients": [
+        "1 red onion, chopped",
+        "1 mango - peeled, seeded, and chopped",
+        "1 medium tomato, chopped",
+        "2 sprigs fresh cilantro, chopped, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Refreshing Mango Chutney",
     "url": "http://allrecipes.com/recipe/222329/refreshing-mango-chutney/"
 }

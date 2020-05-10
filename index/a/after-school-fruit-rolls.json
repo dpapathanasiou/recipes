@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine fruit, honey and cinnamon in a bowl. Spread each tortilla with 1 tablespoon peanut butter, leaving a 1-inch border. Spoon fruit filling down the center of each tortilla. Sprinkle with nuts, if desired. Fold in 2 sides of tortilla to meet in center, then roll up, bottom to top. Place seam-side down. Halve each tortilla on a sharp diagonal."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/982895.jpg",
+    "ingredients": [
+        "4 Mission\u00ae Soft Taco Size Flour Tortillas",
+        "2 Bananas, thinly sliced",
+        "1/4 cup Raisins",
+        "2 tablespoons Honey",
+        "1/4 teaspoon Cinnamon",
+        "1/2 cup Peanut butter",
+        "1/4 cup Chopped Peanuts or other Nuts (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "After School Fruit Rolls",
     "url": "http://allrecipes.com/recipe/86015/after-school-fruit-rolls/"
 }

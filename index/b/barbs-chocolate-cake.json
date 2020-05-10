@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large mixing bowl, add the following ingredients one at a time, beating well after each addition: eggs, white sugar, 2 tablespoons butter or margarine, oil, 1/2 cup cocoa, buttermilk and vanilla.  (Instead of buttermilk you can use 3 tablespoons softened butter or margarine, 1/2 cup milk and 1 tablespoon vinegar.)",
+        "Sift the flour, baking powder, baking soda, and salt; add to the sugar and egg mixture.  Blend well.  Fold in the boiling water.",
+        "Place batter in two greased and floured 8 inch round cake pans.  Sprinkle 1/2 cup chocolate chips over each pan.  Bake at 350 degrees F (175 degrees C) for 25 minutes.  Cool.",
+        "To Make the Icing:  Begin by beating together 1/2 cup butter or margarine, confectioners' sugar and 2/3 cup cocoa; add 1 teaspoon vanilla, milk and coffee.  Beat until very smooth.  Add more confectioners' sugar until you obtain the consistency you want.  Spread on cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F60883.jpg",
+    "ingredients": [
+        "2  eggs",
+        "1 cup white sugar",
+        "2 tablespoons butter, softened",
+        "1 cup vegetable oil",
+        "\u00bd cup unsweetened cocoa powder",
+        "\u00bd cup buttermilk",
+        "1 teaspoon vanilla extract",
+        "2\u2009\u00bc cups all-purpose flour",
+        "1\u2009\u00bd teaspoons baking powder",
+        "1\u2009\u00bd teaspoons baking soda",
+        "\u00bc teaspoon salt",
+        "1 cup boiling water",
+        "1 cup semisweet chocolate chips",
+        "\u00bd cup butter, softened",
+        "1 cup confectioners' sugar",
+        "\u2154 cup unsweetened cocoa powder",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons milk",
+        "1 tablespoon strong brewed coffee"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barb's Chocolate Cake",
     "url": "http://allrecipes.com/recipe/7365/barbs-chocolate-cake/"
 }

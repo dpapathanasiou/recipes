@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a skillet over medium heat. Cook the onion and chicken in the skillet 5 minutes, or until chicken juices run clear; drain.",
+        "Bring the chicken broth to a boil in a large pot, and stir in the broccoli, processed cheese food, and Cheddar cheese. Mix in the chicken and onion. Season with salt and pepper. Stir in rice, and continue cooking 5 minutes, stirring frequently, until cheeses are melted, and broccoli and rice are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F596185.jpg",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "1 small onion, chopped",
+        "1 pound skinless, boneless chicken breast halves - chopped",
+        "2 (32 fluid ounce) containers chicken broth",
+        "1 large head fresh broccoli, cut into bite size pieces",
+        "8 ounces processed cheese food, shredded",
+        "1 cup shredded Cheddar cheese",
+        "1 pinch salt and pepper to taste",
+        "4 cups uncooked instant rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheese, Broccoli, and Chicken Soup",
     "url": "http://allrecipes.com/recipe/83660/cheese-broccoli-and-chicken-soup/"
 }

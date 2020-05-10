@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In the microwave, or in a saucepan over medium heat, melt caramel, stirring frequently until smooth. Stir in the crispy rice cereal and peanuts. Spread the mixture out to an even thickness onto a buttered baking sheet. Set aside to cool.",
+        "In the microwave or in a metal bowl over a pan of simmering water, melt chocolate chips, stirring frequently until smooth. Remove from heat. Spread over the cooled caramel slab. Chill to set, then cut into squares or bars."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2440&h=1277&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970422.jpg",
+    "ingredients": [
+        "1 pound caramels",
+        "2\u2009\u00bd cups crispy rice cereal",
+        "1 cup chopped peanuts",
+        "2 cups milk chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Million Dollar Bars",
     "url": "http://allrecipes.com/recipe/26171/million-dollar-bars/"
 }

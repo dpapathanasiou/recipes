@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In large mixing bowl beat peanut butter and butter on medium speed until combined. Add powdered sugar and milk. Beat until fluffy. Stir in KELLOGG'S RICE KRISPIES cereal, mixing until thoroughly combined. Press mixture evenly into 8 x 8 x 2-inch pan coated with cooking spray. Refrigerate until firm.",
+        "Drizzle chocolate over cereal mixture. Refrigerate about 30 minutes or until chocolate is set and cereal mixture is firm. Cut into bars. Store in airtight container in refrigerator."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2144599.jpg",
+    "ingredients": [
+        "1 cup reduced fat peanut butter",
+        "3 tablespoons butter or margarine, softened",
+        "1 cup powdered sugar",
+        "3 tablespoons fat-free milk",
+        "3 cups Kellogg's\u00ae Rice Krispies\u00ae cereal or Kellogg's\u00ae Cocoa Krispies\u2122 cereal",
+        "1/4 cup semi-sweet chocolate morsels, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "RICE KRISPIES\u00ae Peanut Butter Bars",
     "url": "http://allrecipes.com/recipe/241649/rice-krispies-peanut-butter-bars/"
 }

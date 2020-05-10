@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir mango, onion, bell pepper, cilantro, lime juice, jalapeno pepper, lime zest, and ginger in a bowl; cover and chill for 8 hours to overnight."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4320&h=2262&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F847131.jpg",
+    "ingredients": [
+        "2 cups chopped ripe mango",
+        "\u00bc cup chopped sweet onion (such as Maui)",
+        "\u00bc cup finely chopped red bell pepper",
+        "\u00bc cup chopped fresh cilantro",
+        "2 tablespoons lime juice",
+        "1  jalapeno pepper, seeded and finely chopped",
+        "1 teaspoon grated lime zest",
+        "1 teaspoon grated fresh ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mauigirl's Mango Salsa",
     "url": "http://allrecipes.com/recipe/222925/mauigirls-mango-salsa/"
 }

@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix mayonnaise, jalapeno peppers, 3 tablespoons of the pickling juice from the peppers, sugar, paprika, cumin, cayenne pepper, garlic powder, and salt together in a bowl.",
+        "Cover bowl with plastic wrap and refrigerate 4 to 6 hours before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1128308.jpg",
+    "ingredients": [
+        "1 cup mayonnaise (such as Hellman's\u00ae)",
+        "3 tablespoons canned diced jalapeno peppers, drained (reserve juice)",
+        "1 tablespoon white sugar",
+        "2 teaspoons paprika",
+        "2 teaspoons ground cumin",
+        "1/2 teaspoon cayenne pepper",
+        "1/2 teaspoon garlic powder",
+        "1/4 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spicy Quesadilla Sauce",
     "url": "http://allrecipes.com/recipe/237396/spicy-quesadilla-sauce/"
 }

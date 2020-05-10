@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large shallow baking dish, mix the yogurt, feta cheese, lemon zest, lemon juice, oregano, salt, pepper, and rosemary. Place the chicken in the dish, and turn to coat. Cover, and marinate 3 hours in the refrigerator.",
+        "Preheat an outdoor grill for high heat.",
+        "Thread the chicken, onion wedges, and green bell pepper pieces alternately onto skewers. Discard remaining yogurt mixture.",
+        "Grill skewers on the prepared grill until the chicken is no longer pink and juices run clear."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=5184&h=2714&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F676735.jpg",
+    "ingredients": [
+        "1 (8 ounce) container fat-free plain yogurt",
+        "\u2153 cup crumbled feta cheese with basil and sun-dried tomatoes",
+        "\u00bd teaspoon lemon zest",
+        "2 tablespoons fresh lemon juice",
+        "2 teaspoons dried oregano",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground black pepper",
+        "\u00bc teaspoon crushed dried rosemary",
+        "1 pound skinless, boneless chicken breast halves - cut into 1 inch pieces",
+        "1 large red onion, cut into wedges",
+        "1 large green bell pepper, cut into 1 1/2 inch pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marinated Greek Chicken Kabobs",
     "url": "http://allrecipes.com/recipe/70624/marinated-greek-chicken-kabobs/"
 }

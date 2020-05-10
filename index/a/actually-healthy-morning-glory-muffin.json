@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease silicone muffin cups with coconut oil.",
+        "Mix oat flour, chickpea flour, cinnamon, baking soda, nutmeg, and salt together in a large bowl.",
+        "Mix apple butter, honey, and eggs together in a separate bowl.",
+        "Stir apple butter mixture into the oat flour mixture. Fold carrots, apples, coconut, raisins, and walnuts into the batter.",
+        "Divide muffin batter evenly among muffin cups, filling them almost to the top.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 25 minutes. Cool completely before unmolding, about 20 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5597379.jpg",
+    "ingredients": [
+        "2 tablespoons coconut oil, melted",
+        "1 1/2 cups oat flour",
+        "1/2 cup chickpea flour",
+        "2 teaspoons ground cinnamon",
+        "2 teaspoons baking soda",
+        "1/4 teaspoon ground nutmeg",
+        "1/4 teaspoon salt",
+        "1 cup apple butter",
+        "3/4 cup honey",
+        "2 eggs",
+        "2 cups grated carrots",
+        "2 small apples, chopped",
+        "3/4 cup shredded coconut",
+        "1/2 cup raisins",
+        "1/2 cup chopped walnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Actually Healthy Morning Glory Muffins",
     "url": "http://allrecipes.com/recipe/256595/actually-healthy-morning-glory-muffin/"
 }

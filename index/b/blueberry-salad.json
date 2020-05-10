@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine hot water and gelatin; stir until dissolved.  Stir in pineapple and blueberry pie filling.  Pour into a 9x13 inch dish and chill in refrigerator until firm.",
+        "Cream together cream cheese and sugar.  Beat in sour cream and vanilla.  Spread over firm gelatin.  Chill until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/303657.jpg",
+    "ingredients": [
+        "2 (3 ounce) packages raspberry flavored Jell-O\u00ae mix",
+        "2 cups hot water",
+        "1 (20 ounce) can crushed pineapple, drained",
+        "1 (21 ounce) can blueberry pie filling",
+        "1 (8 ounce) package cream cheese",
+        "1/2 cup white sugar",
+        "1 cup sour cream",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blueberry Salad",
     "url": "http://allrecipes.com/recipe/20260/blueberry-salad/"
 }

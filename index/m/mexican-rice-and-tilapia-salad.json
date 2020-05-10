@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cumin and chili powder together and sprinkle over tilapia chunks to coat.",
+        "Heat non-stick skillet over medium-high heat and melt buttery spread or oil. Saute tilapia on each side until cooked through, 2 to 3 minutes per side. Remove from pan and set aside.",
+        "In same skillet, prepare Knorr(R) Fiesta SidesTM - Mexican Rice according to package directions. Transfer tilapia to the rice mixture.",
+        "Divide lettuce between four salad bowls or plates. Divide the rice and tilapia mixture among the dishes. Top with tomatoes and onions. Serve with your favorite light dressing, such as Ranch."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4562905.jpg",
+    "ingredients": [
+        "1/2 teaspoon cumin",
+        "1/2 teaspoon chili powder",
+        "1 tablespoon buttery spread or oil",
+        "4 (4 ounce) tilapia fillets, cut into chunks",
+        "1 (5.4 ounce) package Knorr\u00ae Fiesta Sides\u2122 - Mexican Rice",
+        "4 cups torn romaine lettuce leaves",
+        "1 fresh tomato, chopped",
+        "1/2 red onion, diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Rice and Tilapia Salad",
     "url": "http://allrecipes.com/recipe/247048/mexican-rice-and-tilapia-salad/"
 }

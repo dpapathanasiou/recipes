@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F  (180 Degrees C).",
+        "In mixing bowl, cream the shortening and peanut butter.  Add the brown sugar, eggs, and vanilla.   Mix well.",
+        "Combine oats, flour,  baking powder, and salt.   Add to creamed mixture and mix well.",
+        "Add chocolate chips and mix in well.",
+        "Drop by the rounded teaspoonful unto ungreased baking sheet.  Flatten slightly with the bottom of a glass.  Bake for 12 minutes or until done."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F98303.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups shortening",
+        "1\u2009\u00bd cups peanut butter",
+        "2 cups packed brown sugar",
+        "3  eggs",
+        "2 teaspoons vanilla extract",
+        "3 cups quick cooking oats",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "2 cups semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Side of the Trail Cookies",
     "url": "http://allrecipes.com/recipe/10169/side-of-the-trail-cookies/"
 }

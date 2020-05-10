@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Split sausages in half lengthwise.  Brown slowly in a skillet (turning often and draining off fat as it collects) until brown and cooked through,  about 15 minutes.",
+        "In another skillet, heat 2 tablespoons butter over low heat. Add apple slices and saute, turning often, until nicely browned and tender. They should be brown at the same time the sausages are ready.",
+        "Toast bread and spread with softened butter.  Drain sausages and arrange on toast.  Arrange apple slices over sausages.  Pour maple syrup over all.  Serve immediately!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/353734.jpg",
+    "ingredients": [
+        "3 links pork sausage",
+        "2 tablespoons butter",
+        "1 large Granny Smith apples - peeled, cored and sliced",
+        "2 slices whole wheat bread",
+        "1 tablespoon butter, softened",
+        "1/4 cup maple syrup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sausage Sandwich with Sauteed Apple Slices",
     "url": "http://allrecipes.com/recipe/24159/sausage-sandwich-with-sauteed-apple-s/"
 }

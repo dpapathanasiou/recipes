@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a small saucepan, combine the butter, brown sugar, water and mint chocolate chips. Cook over low heat, stirring occasionally until melted. Transfer to a medium bowl and set aside to cool for about 10 minutes.",
+        "Beat the eggs into the chocolate mixture one at a time. Combine the flour, baking soda and salt, stir into the chocolate mixture. Cover dough, and chill for 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C). Roll dough into 1 inch balls and place 1 1/2 inches apart onto an unprepared cookie sheet.",
+        "Bake for 12 to 13 minutes in the preheated oven. As soon as the cookies are out of the oven, place 1/2 of  a mint candy on top of each one. Let sit for 30 seconds, then swirl with a toothpick. Cool on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F69328.jpg",
+    "ingredients": [
+        "\u00be cup butter",
+        "1\u2009\u00bd cups packed light brown sugar",
+        "2 teaspoons water",
+        "1\u2009\u00be cups mint chocolate chips",
+        "2  eggs",
+        "2\u2009\u00bd cups all-purpose flour",
+        "1\u2009\u00bc teaspoons baking soda",
+        "\u00bd teaspoon salt",
+        "20  chocolate covered thin mints"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mint  Wafer Cookies",
     "url": "http://allrecipes.com/recipe/18184/mint-wafer-cookies/"
 }

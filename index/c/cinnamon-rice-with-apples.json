@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a saucepan, combine rice, apple juice, chopped apple, and raisins. Season with cinnamon and salt. Bring to a boil, reduce heat to low, and cover for about 17 minutes. Lift lid, and see if rice is moist enough for your taste; if not, cook another couple minutes.",
+        "Mix in fresh parsley. Serve immediately."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6631082.jpg",
+    "ingredients": [
+        "\u00be cup uncooked white rice",
+        "1\u2009\u00bd cups apple juice",
+        "1  apple, cored and chopped",
+        "\u2153 cup raisins",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc teaspoon salt, or to taste",
+        "\u00bc cup chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon Rice with Apples",
     "url": "http://allrecipes.com/recipe/55352/cinnamon-rice-with-apples/"
 }

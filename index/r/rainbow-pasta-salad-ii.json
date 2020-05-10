@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and rinse in cold water.",
+        "In a large bowl combine tomatoes, cucumbers, onion, cooled pasta and Italian dressing.  Refrigerate overnight, or for at least 1 hour."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6471771.jpg",
+    "ingredients": [
+        "1 (16 ounce) package tri-colored pasta assortment",
+        "2 large tomatoes, diced",
+        "1 large cucumber, peeled and diced",
+        "1 red onion, finely chopped",
+        "1 (16 ounce) bottle Italian-style salad dressing"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rainbow Pasta Salad II",
     "url": "http://allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/"
 }

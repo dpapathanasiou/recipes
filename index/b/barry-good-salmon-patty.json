@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix salmon, eggs, bread crumbs, mayonnaise, lemon juice, ranch dressing mix, salt, pepper, garlic powder, dill, and seafood seasoning in a large bowl; divide into 15 portions and shape into patties. Dust each patty with cornmeal.",
+        "Heat 1 tablespoon oil in a large skillet. Fry a few patties in hot oil, not overcrowding the skillet, until browned, 3 to 4 minutes per side. Repeat until all patties are cooked. Garnish each with a lemon slice and a sprig of parsley."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6824868.jpg",
+    "ingredients": [
+        "4 pounds pink salmon (such as Chicken of the Sea\u00ae), drained, flaked and cartilage removed",
+        "4 large eggs",
+        "1 1/2 cups panko bread crumbs",
+        "3/4 cup mayonnaise",
+        "2 lemons, juiced",
+        "2 tablespoons ranch dressing mix",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon garlic powder",
+        "1 teaspoon dried dill",
+        "1 teaspoon seafood seasoning (such as Old Bay\u00ae)",
+        "1/2 cup white cornmeal",
+        "1/4 cup vegetable oil, or as needed",
+        "16 lemon slices",
+        "16 sprigs fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "'Barry Good' Salmon Patty",
     "url": "http://allrecipes.com/recipe/233622/barry-good-salmon-patty/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam for a few minutes. Meanwhile, place garlic, olive oil, vegetable broth, and spinach into a blender. Puree until smooth and set aside.",
+        "When the potatoes are ready, mash until smooth, then fold in Parmesan cheese, and season to taste with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1024&h=536&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F798533.jpg",
+    "ingredients": [
+        "8  red potatoes, peeled and cubed",
+        "2 cloves garlic, minced",
+        "1 tablespoon olive oil",
+        "1 (14 ounce) can vegetable broth",
+        "\u00be (10 ounce) bag washed fresh spinach",
+        "\u00bd cup grated Parmesan cheese",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mashed Potatoes with Spinach Pesto",
     "url": "http://allrecipes.com/recipe/104990/mashed-potatoes-with-spinach-pesto/"
 }

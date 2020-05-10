@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dissolve the cherry gelatin in 1 cup of boiling water. When dissolved, stir in 1/2 cup of cold water and pour into an eight or nine inch square pan. Refrigerate until firm. Repeat this process with the lime and orange flavors.",
+        "In a small sauce pan, mix together the lemon gelatin with the pineapple syrup. Bring the mixture to a boil while stirring constantly. When the gelatin is dissolved, set aside and allow to cool to room temperature until thick.",
+        "Once the cherry, lime, and orange gelatin is firm, cut into 1 to 2  inch cubes. Beat the whip cream into stiff peaks, and fold it into the lemon pineapple mixture. Fold the gelatin cubes into the whipped cream mixture.",
+        "Pour the gelatin and whipped cream mixture into a buttered and graham cracker crumb dusted 9 inch tube pan. Chill for several hours before unmolding."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/614701.jpg",
+    "ingredients": [
+        "1 (3 ounce) package cherry Jell-O\u00ae",
+        "1 (3 ounce) package lime flavored Jell-O\u00ae mix",
+        "1 (3 ounce) package orange flavored Jell-O\u00ae mix",
+        "1 (3 ounce) package lemon flavored Jell-O\u00ae",
+        "2 cups heavy whipping cream",
+        "1 cup syrup from canned pineapple",
+        "3 tablespoons butter",
+        "1/2 cup graham cracker crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chunks of Glass",
     "url": "http://allrecipes.com/recipe/14269/chunks-of-glass/"
 }

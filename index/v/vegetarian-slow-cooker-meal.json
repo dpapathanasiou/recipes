@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir vegetable broth, tortellini, cream cheese, spinach, and mushrooms together in a slow cooker.",
+        "Cook on Low for 5 to 6 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4465378.jpg",
+    "ingredients": [
+        "1 (32 fluid ounce) container vegetable broth",
+        "1 (16 ounce) package frozen cheese-filled tortellini",
+        "1 (8 ounce) package cream cheese, cut into pieces",
+        "1 (8 ounce) package fresh spinach",
+        "1 cup sliced crimini ('baby bella') mushrooms"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetarian Slow Cooker Meal",
     "url": "http://allrecipes.com/recipe/233550/vegetarian-slow-cooker-meal/"
 }

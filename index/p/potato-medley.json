@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot over high heat, combine potatoes, carrots, onion, green bell pepper, corn and water.  Boil until tender, then add bouillon.",
+        "Reduce heat to medium and simmer for 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1982472.jpg",
+    "ingredients": [
+        "5 large potatoes, chopped",
+        "3  carrots, peeled and sliced",
+        "1  onion, chopped",
+        "1  green bell pepper, chopped",
+        "1 (15.25 ounce) can whole kernel corn",
+        "3 cups water",
+        "3 cubes vegetable bouillon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Potato Medley",
     "url": "http://allrecipes.com/recipe/25914/potato-medley/"
 }

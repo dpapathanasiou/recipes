@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Set aside 1/2 cup butter to soften slightly.",
+        "Place onion and apple in a food processor with the steel knife blade; process until coarsely chopped.",
+        "Melt 3 tablespoons butter in a large skillet over medium heat. Add onion and apple; cook and stir until lightly browned, 5 to 10 minutes. Return onion and apple to food processor.",
+        "Melt 5 tablespoons butter in the same skillet over high heat; cook chicken livers until browned and just done inside, about 5 minutes. Reduce heat to low and pour in brandy; allow to warm up without stirring. Carefully light the liquid; let flames subside.",
+        "Transfer chicken liver mixture to the food processor with onion and apple. Add cream and process until very smooth. Transfer mixture into a bowl and refrigerate until cool, at least 30 minutes.",
+        "Cut the softened 1/2 cup butter into pieces and process in the food processor; add about 1/3 of the liver mixture and blend about 5 seconds. Repeat 2 more times with remaining liver mixture. Add lemon juice, salt, and pepper and blend well.",
+        "Transfer pate to a serving dish or several small dishes; top with 1 tablespoon melted butter. Cover loosely with plastic wrap; refrigerate until chilled and set, about 3 hours."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3456&h=1809&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6569367.jpg",
+    "ingredients": [
+        "1 cup butter, divided",
+        "1  onion, quartered",
+        "1  tart apple - peeled, cored, and quartered",
+        "1 pound chicken livers, rinsed and trimmed",
+        "\u00bc cup brandy",
+        "2 tablespoons heavy whipping cream",
+        "1 teaspoon lemon juice",
+        "1\u2009\u00bd teaspoons salt",
+        "\u00bc teaspoon ground black pepper",
+        "1 tablespoon butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy Chicken Liver Pate",
     "url": "http://allrecipes.com/recipe/256173/easy-chicken-liver-pate/"
 }

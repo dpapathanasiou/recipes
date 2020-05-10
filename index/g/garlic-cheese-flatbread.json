@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a cup or small bowl, sprinkle yeast over the surface of the lukewarm water. Let stand for 5 to 10 minutes to dissolve.",
+        "In a large bowl, stir together the flour, salt and sugar. Pour in the yeast mixture along with the olive oil. Beat with a sturdy spoon until  dough is stiff enough to pull away from the sides of the bowl. Cover, and set aside until doubled in size, about 35 minutes.",
+        "Remove the dough from the bowl and knead briefly on a floured surface. Roll the dough out to 1/4 to 1/2 inch thickness or to the size of your baking sheet. Place on a greased baking sheet and spread butter over the top. Sprinkle with garlic powder, Parmesan cheese and mozzarella cheese. Let rest while you preheat the oven to 350 degrees F (175 degrees C).",
+        "Bake for 20 minutes in the preheated oven, until golden brown and cheese is bubbly. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4565546.jpg",
+    "ingredients": [
+        "1 (.25 ounce) envelope active dry yeast",
+        "1 cup lukewarm water",
+        "2 cups bread flour",
+        "1 teaspoon salt",
+        "2 teaspoons white sugar",
+        "2 tablespoons olive oil",
+        "\u2153 cup butter or margarine, softened",
+        "2 tablespoons garlic powder",
+        "\u00bc cup grated Parmesan cheese",
+        "\u2153 cup shredded mozzarella cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Garlic Cheese Flatbread",
     "url": "http://allrecipes.com/recipe/105053/garlic-cheese-flatbread/"
 }

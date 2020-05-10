@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Spray a baking sheet with baking spray; arrange tofu in a single layer.",
+        "Bake tofu in preheated oven until evenly browned, flipping after 10 minutes, about 20 minutes total.",
+        "Heat vegetable oil in a wok or large skillet over medium-high heat. Add mushrooms and garlic; cook and stir until mushrooms are tender; 2 to 3 minutes. Add tofu, spinach, soy sauce, and curry powder; cook and stir until spinach is wilted; 3 to 5 minutes. Sprinkle red pepper flakes over mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1440&h=754&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5217397.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 pound extra-firm tofu, cut into 1-inch cubes",
+        "1 tablespoon vegetable oil",
+        "1 cup sliced fresh mushrooms",
+        "1 tablespoon chopped garlic",
+        "3 cups fresh spinach",
+        "2 tablespoons soy sauce",
+        "1\u2009\u00bd tablespoons curry powder",
+        "1 teaspoon red pepper flakes (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Curry Tofu Stir-Fry",
     "url": "http://allrecipes.com/recipe/246226/curry-tofu-stir-fry/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix soup and cream together in a large saucepan over medium-low heat. Stir in mushrooms and simmer over low heat for 5 minutes; add chicken, water chestnuts, bamboo shoots, corn, teriyaki sauce, and butter. Simmer all together for 10 minutes. Finally, stir in cooked broccoli and simmer for 5 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6360642.jpg",
+    "ingredients": [
+        "1 1/2 cups condensed cream of mushroom soup",
+        "1 cup heavy cream",
+        "1 (16 ounce) can mushrooms, drained",
+        "1 pound cooked, cubed chicken breast meat",
+        "2 (8 ounce) cans water chestnuts, drained and sliced",
+        "1 (8 ounce) can bamboo shoots, drained",
+        "1 (5.5 ounce) can baby corn, drained",
+        "1 1/2 tablespoons teriyaki sauce",
+        "1 tablespoon salted butter",
+        "1 (10 ounce) package frozen broccoli, drained and cooked"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Asian-Inspired Chicken and Broccoli",
     "url": "http://allrecipes.com/recipe/24089/oriental-chicken-broccoli/"
 }

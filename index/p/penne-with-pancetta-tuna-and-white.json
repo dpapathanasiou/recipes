@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 1 tablespoon olive oil in a skillet over medium heat. Stir in pancetta, and cook until browned. Remove to paper towels.",
+        "Return skillet to medium heat, and pour in 2 tablespoons olive oil. Stir in onion, garlic, and crushed red pepper. Cook until soft, about 5 minutes. Stir in mushrooms. Cook until they begin to give off juices.",
+        "Turn the heat up to medium high, and pour in wine. Cook about 3 minutes.",
+        "Reduce heat to medium low. Stir in peas, cherry tomatoes, and spinach. Flake in tuna, drizzle in lemon juice, and season with salt and pepper. Stir to combine, and cook until warmed through.",
+        "Meanwhile, bring a large pot of salted water to boil. Cook penne until al dente, about 8 to 10 minutes. Drain, and stir into tuna mixture. Top with freshly grated Parmesan."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/8062506.jpg",
+    "ingredients": [
+        "3 tablespoons olive oil, divided",
+        "3 ounces pancetta bacon, diced",
+        "1 medium onion, chopped",
+        "1 clove garlic, minced",
+        "1/4 teaspoon crushed red pepper flakes",
+        "5 ounces fresh mushrooms, sliced",
+        "1/2 cup dry white wine",
+        "1/2 cup frozen green peas",
+        "12 cherry tomatoes, halved",
+        "5 ounces baby spinach",
+        "2 (5 ounce) cans solid white tuna packed in water, drained",
+        "1 tablespoon lemon juice",
+        "salt and pepper to taste",
+        "1 pound penne pasta",
+        "freshly grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Penne with Pancetta, Tuna, and White Wine",
     "url": "http://allrecipes.com/recipe/86937/penne-with-pancetta-tuna-and-white/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 300 degrees F (150 degrees C). Season the brisket all over with seasoned salt, and place in a roasting pan. Pour the apple juice over it, and cover tightly with aluminum foil.",
+        "Roast the brisket for 3 hours in the preheated oven. Don't peek.",
+        "Prepare a grill for low heat. In a small bowl, stir together the honey and soy sauce, and season with seasoned salt.",
+        "When the roast comes out of the oven, place it on the preheated grill. Grill for 30 minutes, turning frequently and basting with the honey sauce.",
+        "Meanwhile, in a saucepan over low heat, make a barbeque sauce by combining  the ketchup, brown sugar, Worcestershire sauce, cider vinegar, seasoned salt, and garlic powder. Cook and stir over low heat for 15 minutes without allowing the sauce to boil. If you boil the sauce, it becomes very vinegary.",
+        "Let the brisket rest for about 10 minutes after it comes off the grill. Slice and serve with the barbeque sauce."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4160&h=2178&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1077104.jpg",
+    "ingredients": [
+        "\u00bd cup honey",
+        "3 tablespoons soy sauce",
+        "seasoned salt to taste",
+        "1 (5 pound) beef brisket",
+        "1 cup apple cider",
+        "seasoned salt to taste",
+        "\u00be cup ketchup",
+        "\u00bc cup packed brown sugar",
+        "2 tablespoons Worcestershire sauce",
+        "\u00bc cup apple cider vinegar",
+        "seasoned salt to taste",
+        "\u00bd teaspoon garlic powder, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oklahoma Brisket",
     "url": "http://allrecipes.com/recipe/82380/oklahoma-brisket/"
 }

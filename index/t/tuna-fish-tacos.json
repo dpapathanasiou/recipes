@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Prepare Salsa: In medium bowl combine chopped peaches, green chiles, red onion, parsley, lime juice and Tabasco sauce. Cover and refrigerate until ready to serve.",
+        "Prepare Tacos: Fill tortillas with flaked tuna; top with peach salsa. Serve with shredded cabbage and cheese if desired. Garnish with lime wedges if desired."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (15.25 ounce) can lite peach slices, drained and chopped",
+        "1 (4.25 ounce) can chopped green chilies, drained",
+        "\u00bc cup finely chopped red onion",
+        "1 tablespoon fresh chopped parsley",
+        "1 tablespoon fresh squeezed lime juice",
+        "\u00bc teaspoon hot pepper sauce (such as Tabasco\u00ae)",
+        "1 (5 ounce) can albacore tuna packed in water, drained and flaked",
+        "8 (6 inch) corn, flour, or whole wheat tortillas, slightly warmed",
+        "Finely shredded green cabbage (optional)",
+        "Shredded Monterey Jack cheese (optional)",
+        "Lime wedges (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tuna Fish Tacos",
     "url": "http://allrecipes.com/recipe/245874/tuna-fish-tacos/"
 }

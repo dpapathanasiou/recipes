@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the olive oil in a skillet over medium-high heat. Stir in the curry powder, jerk seasoning, bouillon granules, onions, and garlic. Stir and cook for 2 minutes.",
+        "Reduce heat to medium, add the chicken, and continue to stir and cook 6 to 8 minutes more. Stir in the squash and mushrooms. Reserve 1 tablespoon green onions for garnish, and stir in the remaining amount. Continue to stir and cook 2 minutes more. Pour in the coconut milk, tomatoes, 1/2 cup reserved tomato juice, and sugar. Reduce heat to low, and simmer for 35 to 40 minutes, stirring occasionally. Serve, using 1 tablespoon green onions for garnish."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1550&h=812&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2536204.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "2 teaspoons curry powder",
+        "2 teaspoons dry Caribbean jerk seasoning",
+        "2 teaspoons chicken bouillon granules",
+        "1  yellow onion, coarsely chopped",
+        "1 teaspoon fresh minced garlic",
+        "2 pounds skinless, boneless chicken breast halves - cut into 1/2 inch cubes",
+        "1 cup peeled, seeded, and diced butternut squash",
+        "8 ounces button mushrooms, sliced",
+        "1 bunch green onions, cut into 1/4-inch pieces",
+        "1 (13.5 ounce) can coconut milk",
+        "1 (28 ounce) can whole peeled tomatoes, chopped, juice reserved",
+        "\u00bd cup tomato juice",
+        "1 tablespoon white sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coconut Jerk Chicken",
     "url": "http://allrecipes.com/recipe/132549/coconut-jerk-chicken/"
 }

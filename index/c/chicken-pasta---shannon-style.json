@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil, and stir in the pasta. Cook 8 to 10 minutes, until al dente, and drain.",
+        "Heat 3 tablespoons olive oil in a skillet over medium heat. Whisk together the egg and water in a bowl. Place bread crumbs in a separate bowl. Dip chicken pieces first into the egg mixture, then into the bread crumbs to coat. Place coated chicken pieces in the skillet, and cook 5 minutes on each side, or until coating is golden brown and juices run clear. Drain on paper towels.",
+        "Heat remaining 1 tablespoon olive oil in a separate skillet over medium heat. Mix in garlic, onion, green bell pepper, red bell pepper, yellow bell pepper, and mushrooms. Cook and stir until vegetables are tender.",
+        "In a large bowl, toss the pasta, chicken, and vegetables with the Greek dressing. Serve topped with tomatoes and Parmesan cheese."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/29494.jpg",
+    "ingredients": [
+        "1 pound farfalle (bow tie) pasta",
+        "4 tablespoons olive oil, divided",
+        "1 egg",
+        "2 tablespoons water",
+        "1 cup Italian seasoned bread crumbs",
+        "1 pound skinless, boneless chicken breast halves - cut into bite-size pieces",
+        "1 clove garlic, minced",
+        "1 onion, chopped",
+        "1/2 green bell pepper, chopped",
+        "1/2 red bell pepper, chopped",
+        "1/2 yellow bell pepper, chopped",
+        "1/2 cup chopped fresh mushrooms",
+        "1 cup Greek salad dressing",
+        "1/2 pint grape tomatoes",
+        "1/2 cup grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chicken Pasta - Shannon Style",
     "url": "http://allrecipes.com/recipe/86019/chicken-pasta---shannon-style/"
 }

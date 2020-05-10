@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook carrots in a large pot of boiling water until tender. Drain off most of the liquid, leaving bottom of pan covered with water. Set the carrots aside.",
+        "Stir margarine and brown sugar into the water. Simmer and stir until the margarine melts. Return carrots to the pot, and toss to coat. Cover, and let sit for a few minutes to allow flavors to mingle."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 pound baby carrots",
+        "\u00bc cup margarine",
+        "\u2153 cup brown sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Buttery Cooked Carrots",
     "url": "http://allrecipes.com/recipe/18256/buttery-cooked-carrots/"
 }

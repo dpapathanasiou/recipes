@@ -1,9 +1,36 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "First make the stuffing. Heat 1 tablespoon oil in a pan and fry bacon. Add remaining oil to pan and gently fry onion over low heat to soften, but not brown. Place breadcrumbs in a bowl and add bacon and onion, apricots and parsley. Season well.",
+        "Using pastry brush, paint Maille(R) Honey Dijon mustard over turkey. Place lemon and onion in turkey cavity and season. Spoon stuffing into neck end, pressing in tightly. Secure neck flap underneath. Lightly cover with foil. Place in a pre-heated oven at 350 degrees F and roast for 3 1/2 hours, basting every hour and replacing foil. Test for thorough cooking by piercing the thick part of the thigh with a skewer. The juices should run clear with no pink tinge.",
+        "Place vegetables in a roasting tin, drizzle with olive oil and season. Place in oven 35 minutes before the end of roasting time. Turn occasionally."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/987964.jpg",
+    "ingredients": [
+        "Stuffing:",
+        "2 tablespoons vegetable oil",
+        "4 slices lightly smoked bacon, rinded and chopped",
+        "1 onion, peeled and finely chopped",
+        "6 tablespoons fresh white breadcrumbs",
+        "8 dried apricots, snipped",
+        "1 tablespoon finely chopped fresh parsley",
+        "Salt and freshly ground black pepper",
+        "Turkey:",
+        "1 lemon cut into quarters",
+        "1 onion cut into quarters",
+        "1 (10 pound) turkey",
+        "3 tablespoons Maille\u00ae Honey Dijon mustard",
+        "Vegetables:",
+        "8 baby beets, trimmed",
+        "1 butternut squash peeled, seeded and chunked",
+        "8 baby red onions, peeled and trimmed",
+        "8 baby turnips, trimmed",
+        "2 celery hearts, quartered",
+        "16 baby zucchini, trimmed",
+        "Olive oil for drizzling"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Glazed Turkey with Maille\u00ae Honey Dijon Mustard",
     "url": "http://allrecipes.com/recipe/229536/glazed-turkey-with-maille-honey-di/"
 }

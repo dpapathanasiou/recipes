@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Microwave broth over high heat in a 1-quart glass measuring cup until piping hot, 3 to 4 minutes.",
+        "Heat oil in a large saucepan over medium-high heat. Add onion and garlic; saute until softened, 2 to 3 minutes. Add carrots, couscous and chickpeas; stir to combine. Stir in stock, cover and turn off heat. Let stand until stock is completely absorbed, 4 to 5 minutes. Add salt, if necessary, and pepper to taste. Fluff with a fork, strew with the optional chopped parsley and serve with the Mixed Grill."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2048&h=1072&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F102279.jpg",
+    "ingredients": [
+        "2 cups canned chicken broth",
+        "1 tablespoon vegetable or olive oil",
+        "\u00bd medium onion, cut into 1/4-inch dice",
+        "1  large garlic clove, minced",
+        "2 medium carrots, peeled and coarsely grated",
+        "1 (10 ounce) package plain couscous",
+        "1 (16 ounce) chickpeas, drained and rinsed",
+        "salt and pepper",
+        "chopped parsley (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Couscous with Chickpeas and Carrots",
     "url": "http://allrecipes.com/recipe/76990/couscous-with-chickpeas-and-carrots/"
 }

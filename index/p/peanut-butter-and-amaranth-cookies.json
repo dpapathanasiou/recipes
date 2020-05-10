@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine water and amaranth together in a saucepan; bring to a boil, reduce heat to medium-low, and simmer until water is absorbed and amaranth grains are fluffy, about 20 minutes. Cool for 10 to 15 minutes.",
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Beat cooked amaranth and peanut butter together in a large bowl until smooth. Beat in sugar until completely dissolved. Add butter to amaranth mixture and mix; stir in egg until smooth.",
+        "Whisk all-purpose flour, pastry flour, oats, baking powder, baking soda, and salt together in a bowl. Gradually add flour mixture to amaranth mixture, stirring until the dough starts to come away from the sides of the bowl.",
+        "Form dough into small balls and place 2-inches apart on a baking sheet. Dip a fork into flour and press dough balls with fork to flatten.",
+        "Bake in the preheated oven until set, about 15 minutes. Cool on the baking sheet for 3 to 5 minutes before removing to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1296&h=679&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2514674.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups water",
+        "\u00bd cup amaranth",
+        "1 cup peanut butter",
+        "1 cup white sugar",
+        "\u00bd cup butter, softened",
+        "1  large egg",
+        "1\u2009\u00bd cups all-purpose flour",
+        "1\u2009\u00bd cups whole wheat pastry flour",
+        "1 cup quick-cooking oats",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter and Amaranth Cookies",
     "url": "http://allrecipes.com/recipe/240814/peanut-butter-and-amaranth-cookies/"
 }

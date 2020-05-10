@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place crushed pretzels in the bottom of a 9x13 inch baking dish.  Pour melted butter carefully over top.  Bake in preheated oven 10 minutes.",
+        "Cream together cream cheese and sugar.  Fold in whipped topping.  Spread over cooled crust.  Combine pineapple and pudding mix.  Spread over whipped topping layer.  Chill until serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/417701.jpg",
+    "ingredients": [
+        "2 cups crushed pretzels",
+        "1 cup butter, melted",
+        "1 (8 ounce) package cream cheese",
+        "1 cup white sugar",
+        "1 (8 ounce) container frozen whipped topping, thawed",
+        "2 (20 ounce) cans crushed pineapple",
+        "1/2 (3.4 ounce) package instant vanilla pudding mix"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pineapple Pretzel Salad",
     "url": "http://allrecipes.com/recipe/24046/pineapple-pretzel-salad/"
 }

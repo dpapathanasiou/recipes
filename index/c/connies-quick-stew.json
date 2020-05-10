@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a 6 quart stock pot, over medium heat, brown ground beef and season with salt and pepper.",
+        "Add tomato soup, water (fill pot 2/3 full), carrots and potatoes.  If desired add green beans and then bring soup to a boil and simmer for 15 to 20 minutes, or until vegetables are tender."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1\u2009\u00bd pounds lean ground beef",
+        "salt and pepper to taste",
+        "3 (10.75 ounce) cans condensed tomato soup",
+        "1 pound baby carrots, chopped",
+        "3  potatoes, diced",
+        "16 ounces frozen green beans (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Connie's Quick Stew",
     "url": "http://allrecipes.com/recipe/13360/connies-quick-stew/"
 }

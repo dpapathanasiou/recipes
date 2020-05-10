@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir baked beans, kidney beans, cannellini beans, barbeque sauce, and brown sugar together in a large bowl.",
+        "Heat a large skillet over medium-high heat. Cook and stir beef, sweet Italian sausage, and hot Italian sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; pour meat mixture into a slow cooker. Cook and stir kielbasa in the same skillet over medium-high heat until browned, 5 to 7 minutes; add to slow cooker. Top meats with chopped bacon.",
+        "Pour bean mixture over meats in the slow cooker and stir to combine.",
+        "Cook on Low for 10 to 12 hours."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 (55 ounce) can baked beans (such as Bush's Homestyle\u00ae)",
+        "1 (19 ounce) can red kidney beans",
+        "1 (19 ounce) can cannellini beans",
+        "\u00bc cup barbeque sauce (such as Jack Daniel's\u00ae)",
+        "\u00bc cup brown sugar",
+        "1 pound ground beef",
+        "1 pound bulk sweet Italian sausage",
+        "1 pound bulk hot Italian sausage",
+        "2 (13 ounce) packages kielbasa sausage, thinly sliced",
+        "13 slices crisply cooked bacon, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Big Game Barbeque Meat Chili",
     "url": "http://allrecipes.com/recipe/241850/the-big-game-barbeque-meat-chili/"
 }

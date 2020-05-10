@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place potatoes into a pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain.",
+        "Heat oil in a skillet over medium heat. Saute chicken in hot oil until no longer pink in the center, 5 to 7 minutes. Stir onions and garlic into chicken and cook and stir until onion is translucent, about 5 minutes.",
+        "Place butternut squash in a microwave-safe dish and cover dish with plastic wrap. Cook squash in the microwave on high until squash is tender, about 10 minutes. Remove flesh from squash skin with a fork.",
+        "Puree 1 can cannellini beans with liquid in a blender until smooth.",
+        "Combine potatoes, chicken mixture, butternut squash, pureed cannellini beans, chicken broth, drained cannellini beans, butternut squash soup, celery, apples, and chili seasoning mix together in a large pot. Bring to a boil, reduce heat to medium-low, and cook until flavors blend, about 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "4 red potatoes, cut into chunks",
+        "2 tablespoons olive oil",
+        "1 1/2 pounds skinless, boneless chicken breast halves, cut into chunks",
+        "1 yellow onion, chopped",
+        "2 cloves garlic, minced",
+        "1/2 butternut squash, seeds removed",
+        "1 (15 ounce) can cannellini beans",
+        "3 cups chicken broth, or as needed",
+        "1 (15 ounce) can cannellini beans, drained and rinsed",
+        "1 (8.3 ounce) can butternut squash soup (such as Campbell's\u00ae V8\u00ae)",
+        "2 stalks celery, chopped",
+        "2 apples - peeled, cored, and cut into chunks",
+        "1 (1.25 ounce) package white chicken chili seasoning mix (such as McCormick\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Squash, Bean, and Apple Stew",
     "url": "http://allrecipes.com/recipe/236017/squash-bean-and-apple-stew/"
 }

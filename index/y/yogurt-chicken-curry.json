@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken and water in a medium saucepan and simmer over medium low heat for about 15 minutes, until chicken is cooked through and no longer pink inside.",
+        "When water is almost reduced, season chicken with salt and pepper to taste. In a small bowl, combine yogurt and curry powder and mix together. Stir this mixture into saucepan until all chicken pieces are coated, then simmer for another 5 minutes to heat through and marinate."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F783765.jpg",
+    "ingredients": [
+        "4  skinless, boneless chicken breast halves - cut into bite size pieces",
+        "1 cup water",
+        "salt and pepper to taste",
+        "1 cup yogurt",
+        "1 teaspoon mild curry powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yogurt Chicken Curry",
     "url": "http://allrecipes.com/recipe/17268/yogurt-chicken-curry/"
 }

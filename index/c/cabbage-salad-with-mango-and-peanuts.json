@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine cabbage, mangoes, carrot, celery, and green onions in a large bowl; toss until mixed.",
+        "Combine peanut butter, lime juice, water, soy sauce, cilantro, garlic, and ginger in a food processor; blend until smooth and the consistency of rich cream. Add 1 to 2 tablespoons water if dressing seems too thick.",
+        "Pour dressing over cabbage mixture; toss to distribute evenly. Sprinkle chopped peanuts on top."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4345068.jpg",
+    "ingredients": [
+        "1/2 head green cabbage, thinly sliced",
+        "3 mangoes, peeled and diced",
+        "1 large carrot, peeled and grated",
+        "1 stalk celery, halved lengthwise and thinly sliced on the diagonal",
+        "2 green onions, chopped",
+        "1/4 cup smooth unsalted peanut butter",
+        "2 tablespoons fresh lime juice",
+        "2 tablespoons water, or more as needed",
+        "2 tablespoons low-sodium soy sauce",
+        "2 tablespoons chopped fresh cilantro",
+        "2 cloves garlic, finely chopped",
+        "1/2 teaspoon ground ginger",
+        "2 teaspoons chopped unsalted dry-roasted peanuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cabbage Salad with Mango and Peanuts",
     "url": "http://allrecipes.com/recipe/256366/cabbage-salad-with-mango-and-peanuts/"
 }

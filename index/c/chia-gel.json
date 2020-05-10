@@ -1,9 +1,15 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix the Chia seeds and water in a small, sealable jar. Shake for 15 seconds and rest 1 minute. Shake another 15 seconds and refrigerate until gelatinous, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F872040.jpg",
+    "ingredients": [
+        "2 cups water",
+        "\u2153 cup chia seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chia Gel",
     "url": "http://allrecipes.com/recipe/222060/chia-gel/"
 }

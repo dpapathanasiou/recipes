@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In large skillet, heat 1 tablespoon oil over medium high heat. Season shrimp with salt and pepper if desired. Cook shrimp until just pink, about 1 minute a side, remove and reserve (shrimp will not be fully cooked).",
+        "Season chicken with salt and pepper if desired and in same skillet, brown chicken on all sides, about 5 minutes, remove and reserve.",
+        "Add remaining tablespoon oil to skillet and cook sausage, stirring occasionally until browned, about 4 minutes.",
+        "Stir celery into skillet and cook until translucent, about 3 minutes. Add peppers to skillet and cook until slightly softened, about 2 minutes. Stir in garlic and cook until fragrant, about 30 seconds.",
+        "Add water and Knorr\u00ae Cajun Sides\u2122 - Red Beans & Rice to skillet, stir to combine. Bring to a boil, cover, reduce heat slightly and simmer 5 minutes. Stir in reserved chicken and shrimp and cook 3 - 4 minutes more or until rice is tender. Let stand 2 minutes. Serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3308063.jpg",
+    "ingredients": [
+        "2 tablespoons oil, divided",
+        "8 ounces uncooked medium shrimp",
+        "8 ounces boneless, skinless chicken breasts, cut into bite-size pieces",
+        "4 ounces andouille sausage or kielbasa, cut into half-moon slices",
+        "2 medium ribs celery, chopped",
+        "2 small red and/or green bell peppers, chopped",
+        "1 large clove garlic, finely chopped",
+        "2 cups water",
+        "1 (5.6 ounce) package Knorr\u00ae Cajun Sides\u2122 - Red Beans & Rice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mardi Gras Jambalaya",
     "url": "http://allrecipes.com/recipe/246395/mardi-gras-jambalaya/"
 }

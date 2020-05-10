@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C). Lightly grease baking sheets.",
+        "Sift together flour, baking powder and salt.",
+        "Cream together the butter and sugar.  Add the egg yolks and vanilla, beating until light and fluffy. Mix in the dry ingredients.",
+        "Shape into 1 inch balls.  Push your thumb through center of each ball and shape dough into a ring.  Dip top of each ring in decorating candies. Place cookies onto the prepare baking sheets.",
+        "Bake at 375 degrees F (190 degrees C) for 10 to 12 minutes or until golden brown. Remove from the baking sheets and let cool on racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2917331.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups all-purpose flour",
+        "\u00bd teaspoon baking powder",
+        "\u00bd teaspoon salt",
+        "\u00bd cup butter",
+        "\u2154 cup white sugar",
+        "3  egg yolks",
+        "1 teaspoon vanilla extract",
+        "5 tablespoons multicolored sprinkles (jimmies) (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Cookie Rings",
     "url": "http://allrecipes.com/recipe/11287/mexican-cookie-rings/"
 }

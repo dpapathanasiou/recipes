@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Heat oil in a very large skillet over medium heat. Add chicken strips; cook and stir until browned, 1 to 2 minutes per side. Transfer to a casserole baking dish.",
+        "Place cremini mushrooms, oyster mushrooms, shiitake mushrooms, and garlic in the same skillet; cook and stir until tender, about 5 minutes. Stir in flour until well-incorporated. Slowly mix in white wine. Add chicken stock, sage, salt, and black pepper; bring sauce to a simmer and cook, until thickened, about 5 minutes. Remove from heat and stir in heavy cream.",
+        "Pour sauce over chicken in the casserole dish; stir gently to combine. Cover with aluminum foil.",
+        "Bake in the preheated oven until bubbly, about 30 minutes. Garnish with parsley before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4515460.jpg",
+    "ingredients": [
+        "3 tablespoons vegetable oil",
+        "1 1/2 pounds boneless chicken breast, cut into strips",
+        "8 ounces cremini mushrooms, sliced",
+        "5 ounces oyster mushrooms, stemmed and sliced",
+        "4 ounces shiitake mushrooms, stemmed and sliced",
+        "1 clove garlic, finely chopped",
+        "2 tablespoons all-purpose flour",
+        "1/2 cup white wine",
+        "2 cups chicken stock",
+        "1/2 teaspoon ground sage",
+        "salt and ground black pepper to taste",
+        "1/4 cup heavy whipping cream",
+        "1 tablespoon chopped fresh parsley"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Delicious Chicken and Mushroom Casserole",
     "url": "http://allrecipes.com/recipe/247460/delicious-chicken-and-mushroom-casser/"
 }

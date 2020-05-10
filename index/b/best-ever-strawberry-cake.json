@@ -1,9 +1,34 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Grease and flour two 8-inch cake pans.",
+        "Mix pureed strawberries, milk, eggs, and 1 tablespoon vanilla extract together in a small bowl; transfer to the bowl of a stand mixer.",
+        "Beat flour, white sugar, baking powder, and salt into strawberry mixture on Low; add butter and continue beating on Low until evenly combined.",
+        "Stop mixer, scrape sides, and beat again for about 30 seconds.",
+        "Divide batter evenly between the two prepared cake pans.",
+        "Bake in the preheated oven until a toothpick inserted into the center of each cake comes out clean, about 25 minutes. Cool the cakes in the pans for about 10 minutes; transfer to wire racks to completely cool, about 30 minutes.",
+        "Beat cream cheese and butter together in a medium bowl until smooth. Gradually beat confectioners' sugar into cream cheese mixture until creamy and fluffy; stir in 1 teaspoon vanilla extract.",
+        "Spread about 1/2 the frosting on top of 1 cake. Place second cake on top of frosting layer; spread the remaining frosting on top of second cake and around sides of both cakes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1458&h=763&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F846554.jpg",
+    "ingredients": [
+        "1 cup pureed strawberries",
+        "\u00bc cup 2% milk",
+        "6  eggs",
+        "1 tablespoon vanilla extract",
+        "2\u2009\u00bc cups sifted cake flour",
+        "1\u2009\u00be cups white sugar",
+        "4 teaspoons baking powder",
+        "1 teaspoon salt",
+        "\u00be cup butter, softened",
+        "2 (8 ounce) packages cream cheese, softened",
+        "\u00bd cup butter, softened",
+        "2 cups confectioners' sugar",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Best Ever Strawberry Cake",
     "url": "http://allrecipes.com/recipe/221101/best-ever-strawberry-cake/"
 }

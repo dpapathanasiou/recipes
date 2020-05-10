@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend mangoes, pineapple, water, sugar, and lime juice in a blender until smooth; strain through a fine-mesh strainer. Chill soup in the refrigerator for 2 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1133247.jpg",
+    "ingredients": [
+        "2 small champagne mangoes, peeled and chopped",
+        "1 1/2 cups chopped pineapple",
+        "1/2 cup water",
+        "2 tablespoons white sugar",
+        "2 teaspoons lime juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chilled Mango and Pineapple Soup",
     "url": "http://allrecipes.com/recipe/237649/chilled-mango-and-pineapple-soup/"
 }

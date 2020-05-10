@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk together in medium bowl the flour, salt, baking soda, and baking powder.",
+        "In a large bowl, beat on high until light in color and texture, 2-3 minutes: the Melt\u00ae and a little less than 2/3 cups sugar.",
+        "Beat in flour mixture until blended and consistency of brown sugar.",
+        "Gradually beat in the eggs.",
+        "Fold in just until combined the bananas and chocolate chips (sometimes I use half chocolate chips and half peanut butter chips).",
+        "Bake 50-60 minutes and when toothpick comes out clean from center it is done!",
+        "Promptly remove baked banana bread from loaf pan and let cool.",
+        "Serve warm with an ice cold glass of milk!"
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1\u2009\u2153 cups flour",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon baking soda",
+        "\u00bc teaspoon baking powder",
+        "5\u2009\u2153 tablespoons Melt\u00ae Organic Buttery Spread",
+        "\u2154 cup sugar (slightly less--see directions)",
+        "2  large eggs, lightly beaten",
+        "1 cup mashed ripe bananas",
+        "1 cup milk chocolate or semi-sweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Melted Banana Bread",
     "url": "http://allrecipes.com/recipe/219863/melted-banana-bread/"
 }

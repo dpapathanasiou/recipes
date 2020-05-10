@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Spread 1/4 of the cream cheese onto the middle of one side of each sandwich wrap. Sprinkle 1 tablespoon cranberries onto the cheese on each wrap. Arrange 3 slices turkey atop each wrap to cover most of the wrap. Spread 1/4 cup spinach atop the turkey.",
+        "Starting with one edge of a wrap, tightly roll the wrap around the fillings into a cylinder; cut into 1 1/4-inch slices and arrange onto a serving platter."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1944859.jpg",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, at room temperature",
+        "4 large whole-wheat sandwich wrap",
+        "1/4 cup sweetened dried cranberries (such as Craisins\u00ae), or to taste",
+        "12 slices turkey lunch meat",
+        "1 cup fresh spinach, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Turkey, Cranberry, and Spinach Roll-Ups",
     "url": "http://allrecipes.com/recipe/239341/turkey-cranberry-and-spinach-roll-u/"
 }

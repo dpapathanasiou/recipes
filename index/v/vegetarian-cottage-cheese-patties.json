@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Beat eggs into a large bowl. Stir in cottage cheese, rolled oats, wheat germ, dry onion soup mix, and dried thyme. Form into 8 patties.",
+        "Heat oil in a skillet over medium heat. Place patties in oil, and brown on both sides. Remove patties to a 9x13-inch baking dish.",
+        "Pour condensed soup into a small bowl. Stir in 1/2 can of water (or milk) to dilute, then pour over patties.",
+        "Bake in a preheated oven until the soup is bubbly, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6584001.jpg",
+    "ingredients": [
+        "3  eggs",
+        "1\u2009\u00bd cups cottage cheese",
+        "1\u2009\u00bd cups quick rolled oats",
+        "3 tablespoons wheat germ (optional)",
+        "1 (1 ounce) envelope dry onion soup mix",
+        "1 teaspoon dried thyme",
+        "2 tablespoons vegetable oil (for frying)",
+        "1 (10 ounce) can condensed cream of mushroom soup"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetarian Cottage Cheese Patties",
     "url": "http://allrecipes.com/recipe/86896/vegetarian-cottage-cheese-patties/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the Brussels sprouts into a large saucepan and fill with enough water to cover. Bring to a boil and cook until tender enough to easily pierce with a fork, 15 to 20 minutes. Drain and allow to dry for a few minutes.",
+        "Place the Brussels sprouts into a serving dish and toss with melted butter to coat. Stir in the breadcrumbs gently until evenly distributed."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/819589.jpg",
+    "ingredients": [
+        "20 Brussels sprouts, cleaned and trimmed",
+        "2 tablespoons butter, melted",
+        "1 cup Italian seasoned dry bread crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Basic Breaded Brussels Sprouts",
     "url": "http://allrecipes.com/recipe/132870/breaded-brussels-sprouts/"
 }

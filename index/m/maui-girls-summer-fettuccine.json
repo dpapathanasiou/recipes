@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the fettuccini, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 8 minutes. Drain well in a colander set in the sink.",
+        "Place the pancetta in a large, deep skillet, and cook and stir over medium heat until lightly browned, about 5 minutes. Drain the pancetta on a paper towel-lined plate.",
+        "Heat 1/2 of the heavy cream in the skillet over medium heat. Stir in the fettuccine, and bring to a boil. Add the remaining heavy cream, garlic, pancetta, tomatoes, and basil. Cook and stir until the sauce is reduced, about 15 minutes. Season with pepper. Top with Parmesan cheese before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1024652.jpg",
+    "ingredients": [
+        "1 pound fettuccine",
+        "1/4 pound pancetta bacon, diced",
+        "1 quart heavy cream, divided",
+        "5 cloves garlic, minced",
+        "1 pint cherry tomatoes",
+        "1/2 cup coarsely chopped fresh basil",
+        "ground black pepper",
+        "1 cup freshly grated Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Maui Girl's Summer Fettuccine",
     "url": "http://allrecipes.com/recipe/218577/maui-girls-summer-fettuccine/"
 }

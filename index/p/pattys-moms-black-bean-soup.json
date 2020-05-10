@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak the beans overnight in a pan of water.",
+        "Drain off the soaking water. Simmer beans in 8 cups of water until soft.",
+        "While the beans are cooking, saute the chopped onion and celery in margarine until golden. Add the vegetables to the soup pot along with bay leaves, parsley, salt, pepper, and ham bone. Cook over medium heat for 3 hours, adding water if needed.",
+        "After the beans are cooked and soft, remove the ham. Set aside. Cool soup, and puree in batches. Return the soup to the pot, and add dry sherry.",
+        "Cut the meat off the bone, and add the meat to the soup. Cook over low heat until warmed through, and adjust seasonings."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F519693.jpg",
+    "ingredients": [
+        "2 cups dry black beans",
+        "8 cups water",
+        "1 tablespoon margarine",
+        "3 stalks celery, chopped",
+        "3  onions, chopped",
+        "2  bay leaves",
+        "1 tablespoon chopped fresh parsley",
+        "\u00bd teaspoon salt",
+        "\u215b teaspoon ground black pepper",
+        "1  smoked ham bone (with some meat on it)",
+        "\u2154 cup dry sherry"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Patty's Mom's Black Bean Soup",
     "url": "http://allrecipes.com/recipe/12933/pattys-moms-black-bean-soup/"
 }

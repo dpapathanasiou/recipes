@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring Herman Starter to room temperature.",
+        "Stir together flour, baking soda, baking powder and salt.",
+        "Stir flour mixture and oil into Herman Starter. It will form a soft dough.",
+        "On a lightly floured surface knead dough until smooth. Pinch off small pieces of dough and shape into balls OR roll dough out and cut with a biscuit cutter. Place biscuits onto a greased baking sheet, cover and let rise in a warm place for 1 hour.",
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Bake in biscuits in the preheat oven for about 30 minutes or until golden. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7418886.jpg",
+    "ingredients": [
+        "1 cup Herman Sourdough Starter",
+        "1 cup all-purpose flour",
+        "\u00bc teaspoon baking soda",
+        "2 teaspoons baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bc cup vegetable oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Herman Biscuits",
     "url": "http://allrecipes.com/recipe/7161/herman-biscuits/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Season pork roast with kosher salt and 1 1/2 teaspoons pepper.",
+        "Process gingersnap cookies in a food processor to fine crumbs. Transfer crumbs to a plate or shallow bowl. Roll roast in crumbs to coat.",
+        "Heat olive oil in a large oven-proof skillet over medium-high heat. Cook roast in hot oil until all sides are browned, 8 to 10 minutes. Transfer skillet with roast to the center rack of the oven.",
+        "Roast pork in the preheated oven until it is slightly pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Remove roast to a serving platter and cover with foil.",
+        "Pour apple cider and chicken stock into the same skillet used to cook the pork roast and bring liquid to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Add apple slices and currants; simmer until sauce reduces to 1/2 cup, 5 to 10 minutes. Stir butter into apple mixture until butter is completely melted and incorporated, about 1 minute more. Season sauce with salt and pepper to taste.",
+        "Slice pork roast into 1/2-inch thick slices and pour apple currant sauce over the top."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4511997.jpg",
+    "ingredients": [
+        "1 (2 pound) boneless pork loin roast",
+        "2 teaspoons kosher salt",
+        "1 1/2 teaspoons ground black pepper",
+        "3 cups gingersnap cookies",
+        "3 tablespoons olive oil",
+        "1 cup apple cider",
+        "1/2 cup chicken stock",
+        "1 cup apple slices",
+        "1/4 cup dried currants",
+        "1 tablespoon butter",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gingersnap Pork Loin Roast with Apples, Currants, and an Apple Cider Pan Reduction Sauce",
     "url": "http://allrecipes.com/recipe/235480/gingersnap-pork-loin-roast-with-apple/"
 }

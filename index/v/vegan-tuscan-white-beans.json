@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix cannellini beans, onion, celery, carrot, lemon juice, parsley, olive oil, sage, lemon zest, garlic, salt, and red pepper flakes together in a large bowl; marinate at room temperature for 30 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2237&h=1171&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1998178.jpg",
+    "ingredients": [
+        "3 pounds cooked cannellini beans, drained and rinsed",
+        "\u00bd cup chopped onion",
+        "\u00bd cup chopped celery",
+        "\u00bd cup chopped carrot",
+        "\u2153 cup fresh lemon juice",
+        "\u2153 cup chopped fresh parsley",
+        "2 tablespoons extra-virgin olive oil",
+        "2 tablespoons chopped fresh sage",
+        "1 tablespoon lemon zest",
+        "2 cloves garlic, minced",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon red pepper flakes"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegan Tuscan White Beans",
     "url": "http://allrecipes.com/recipe/238989/vegan-tuscan-white-beans/"
 }

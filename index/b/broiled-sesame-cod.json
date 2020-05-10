@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Line a broiler pan with aluminum foil.",
+        "Place the cod fillets on the foil, and brush with butter. Season with lemon juice, tarragon, and black pepper; sprinkle with sesame seeds.",
+        "Broil the fish in the preheated broiler until the flesh turns opaque and white, and the fish flakes easily, about 10 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/836611.jpg",
+    "ingredients": [
+        "1 1/2 pounds cod fillets",
+        "1 teaspoon butter, melted",
+        "1 teaspoon lemon juice",
+        "1 teaspoon dried tarragon",
+        "1 pinch ground black pepper",
+        "1 tablespoon sesame seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Broiled Sesame Cod",
     "url": "http://allrecipes.com/recipe/217910/broiled-sesame-cod/"
 }

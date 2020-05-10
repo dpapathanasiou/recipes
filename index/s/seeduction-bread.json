@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Gently stir together the warm water, molasses, honey, and yeast in a large bowl and let stand until foamy, about 5 minutes. Pour oil into the yeast mixture.",
+        "In a separate bowl mix together all-purpose flour, whole wheat flour, salt, pumpkin seeds, sunflower seeds, poppy seeds, 2 tablespoons of millet, barley flour, and vital wheat gluten. Stir the flour and seed mixture to the yeast mixture until it pulls together. Turn the dough out of the bowl onto a lightly floured surface. Knead for 7 to 8 minutes, adding additional flour as needed. Place the dough in a large oiled bowl, cover and let stand in a warm place until doubled in size, about 1 hour. Grease a 9x13 baking sheet.",
+        "Punch down the risen dough and turn out of the bowl onto a lightly floured surface. Form into a round or oval loaf shape and place onto the prepared baking sheet. Cover the dough and allow to rise until doubled in size again, about 40 minutes.",
+        "Preheat oven to 375  degrees F (190 degrees C) toward the end of this second rise. Slash the top of the loaf diagonally with a sharp razor blade or serrated knife, carefully brush with the beaten egg white, and sprinkle remaining millet seeds over the top.",
+        "Bake in preheated oven until the bread sounds hollow when thumped on the side, 40 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3179&h=1664&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F641993.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups warm water (105 degrees to 115 degrees)",
+        "2 tablespoons molasses",
+        "2 tablespoons honey",
+        "1 (.25 ounce) envelope active dry yeast",
+        "2 tablespoons canola oil",
+        "2 cups unbleached all-purpose flour",
+        "1 cup whole wheat flour",
+        "1\u2009\u00bd teaspoons sea salt",
+        "3 tablespoons raw pumpkin seeds",
+        "2 tablespoons raw sunflower seeds",
+        "1 tablespoon poppy seeds",
+        "2 tablespoons millet seed",
+        "3 tablespoons malted barley flour",
+        "1 tablespoon wheat gluten",
+        "1  egg white, beaten",
+        "1 teaspoon millet seed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Seeduction Bread",
     "url": "http://allrecipes.com/recipe/142061/seeduction-bread/"
 }

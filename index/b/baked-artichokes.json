@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 375 degrees F (190 degrees C). Prepare a baking dish with cooking spray.",
+        "Mix bread crumbs, Parmesan cheese, and parsley together in a bowl. Stir olive oil, lemon juice, lemon zest, and garlic together in a separate bowl.",
+        "Spread artichoke hearts into bottom of prepared baking dish. Pour olive oil mixture over artichokes and stir to coat. Spread bread crumb mixture over the artichokes.",
+        "Bake in preheated oven until hot in the center and the bread crumb layer is golden brown, 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2305&h=1207&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7573553.jpg",
+    "ingredients": [
+        "1 serving cooking spray",
+        "\u00bd cup Italian-seasoned bread crumbs",
+        "\u00bd cup grated Parmesan cheese",
+        "\u00bc cup chopped fresh parsley",
+        "\u00bc cup extra-virgin olive oil",
+        "\u00bc cup lemon juice",
+        "2 teaspoons lemon zest",
+        "2 cloves garlic, minced",
+        "2 (14 ounce) cans artichoke hearts, rinsed and drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Artichokes",
     "url": "http://allrecipes.com/recipe/221944/baked-artichokes/"
 }

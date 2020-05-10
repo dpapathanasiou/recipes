@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Place ground beef in a large, deep skillet. Cook over medium high heat until evenly brown. Drain fat. Stir in cabbage and onion soup mix; cook 5 minutes longer, or until lightly browned. Set aside.",
+        "Roll one loaf of bread dough into a 16x8 inch rectangle, then cut into eight 4 inch squares. Spoon cabbage mixture into center of each square, top with 1 small slice cheese and bring up diagonal points, pinching edges closed. Place krautburgers on a cookie sheet coated with cooking spray, and let rise for about 10 minutes.",
+        "Bake for 20 minutes, or until brown. Brush tops of warm rolls with margarine.  Repeat process with second loaf of bread and remaining cabbage mixture and cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2517&h=1318&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F53887.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1  onion, chopped",
+        "\u00bd medium head cabbage, shredded",
+        "\u00bd (1 ounce) package dry onion soup mix",
+        "1 (8 ounce) package mild Cheddar cheese, sliced",
+        "black pepper to taste",
+        "2 (1 pound) loaves frozen bread dough, thawed",
+        "butter flavored cooking spray",
+        "\u00bc cup margarine, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Krautburger",
     "url": "http://allrecipes.com/recipe/34892/krautburger/"
 }

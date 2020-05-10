@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Insert wooden sticks 3/4 of the way into the stem end of each apple. Place apples on a cookie sheet covered with lightly greased aluminum foil.",
+        "Combine sugar, corn syrup and water in a large saucepan and bring to a boil over medium-high heat.  Reduce heat to medium-low and simmer until thermometer registers 290 degrees F (143 degrees C). Remove from the heat and stir in the bourbon if desired.",
+        "Keep the saucepan over low heat to keep the caramel liquid for dipping the apples. Working quickly, carefully dip apples in the caramel. Place apples on the greased aluminum foil until coating has cooled and hardened."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/23473.jpg",
+    "ingredients": [
+        "8 Granny Smith apples",
+        "8 wooden sticks",
+        "1 (16 ounce) package brown sugar",
+        "2/3 cup dark corn syrup",
+        "3/4 cup water",
+        "2 tablespoons bourbon whiskey"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bourbon Candy Apples",
     "url": "http://allrecipes.com/recipe/125863/bourbon-candy-apples/"
 }

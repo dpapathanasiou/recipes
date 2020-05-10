@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Using a large stock pot, brown your meat (breaking into small pieces as it cooks). Once meat is browned, add onions and celery, sauteing until soft.",
+        "Add frozen vegetables, tomato soup, basil, parsley, oregano, bay leaves, salt and pepper, crushed tomatoes, tomato sauce and water.  Simmer for one hour and then serve. Remove bay leaves before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F61252.jpg",
+    "ingredients": [
+        "1\u2009\u00bd pounds lean ground beef",
+        "1 cup chopped onion",
+        "2 stalks celery, finely chopped",
+        "1 (2 pound) package frozen mixed vegetables",
+        "1 (10.75 ounce) can condensed tomato soup",
+        "1 tablespoon dried basil",
+        "1 tablespoon dried parsley",
+        "1 teaspoon dried oregano",
+        "1  bay leaf",
+        "salt and pepper to taste",
+        "1 (16 ounce) can crushed tomatoes",
+        "1 (8 ounce) can tomato sauce",
+        "9\u2009\u00be cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Thermos Bottle Stew",
     "url": "http://allrecipes.com/recipe/13350/thermos-bottle-stew/"
 }

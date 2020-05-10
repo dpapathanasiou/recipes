@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat, and lightly oil grate.",
+        "Place cabbage on a large sheet of aluminum foil. Top with onion slices, bell pepper slices, garlic, black pepper, and butter. Fold edges of foil together to seal, then wrap entire package again with another sheet of foil.",
+        "Cook on hot grill for 30 to 45 minutes, turning packet every 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=838&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F807303.jpg",
+    "ingredients": [
+        "1 head cabbage, cored and cut into wedges",
+        "1  onion, sliced",
+        "1  green bell pepper, sliced",
+        "1 clove garlic, minced",
+        "cracked black pepper to taste",
+        "\u00bc cup butter or margarine, cut into pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Cabbage II",
     "url": "http://allrecipes.com/recipe/52531/grilled-cabbage-ii/"
 }

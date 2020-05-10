@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of water to a boil. Place egg noodles in the pot, cook for 8 to 10 minutes, until al dente, and drain.",
+        "Heat the oil in a skillet over medium heat, and saute the tofu 5 minutes on each side, until lightly browned. Set aside. Place the onions in the skillet, and cook until tender. Mix in mushrooms, garlic, and soy sauce, and cook until heated through.",
+        "In a bowl, mix the cottage cheese, sour cream, and dill. Stir into the skillet. Return tofu to skillet, and continue cooking just until heated through. Serve over the cooked noodles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2856&h=1495&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F452900.jpg",
+    "ingredients": [
+        "1 (16 ounce) package uncooked egg noodles",
+        "2 (12 ounce) packages extra-firm tofu, drained and diced",
+        "1 tablespoon vegetable oil",
+        "2  onions, sliced",
+        "1 (12 ounce) container cottage cheese",
+        "2 tablespoons sour cream",
+        "1 sprig fresh dill weed, chopped",
+        "8 ounces mushrooms, sliced",
+        "1 teaspoon garlic, minced",
+        "2 tablespoons soy sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Stroganoff",
     "url": "http://allrecipes.com/recipe/75700/tofu-stroganoff/"
 }

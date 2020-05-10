@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Dressing: In a small bowl combine apple cider vinegar, honey, onion, mustard, salt and pepper. Slowly whisk in oil. Set aside.",
+        "Salad: Finely grate or chop 2 eggs; slice remaining 2 eggs. In a large salad bowl, combine greens, tomatoes, bacon and grated eggs. Toss with dressing to coat and garnish with remaining egg slices. Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1770526.jpg",
+    "ingredients": [
+        "Dressing:",
+        "2 tablespoons apple cider vinegar",
+        "1 1/2 tablespoons honey",
+        "2 tablespoons finely chopped sweet onion",
+        "2 teaspoons coarse-grain mustard",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "1/4 cup olive oil",
+        "Salad:",
+        "4 hard-cooked eggs, peeled",
+        "8 cups mixed greens",
+        "1 1/2 cups grape tomatoes, halved",
+        "4 slices bacon, cooked and chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "BLT Salad with Sweet Onion Vinaigrette",
     "url": "http://allrecipes.com/recipe/240531/blt-salad-with-sweet-onion-vinaigrett/"
 }

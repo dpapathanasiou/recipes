@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, dissolve yeast in warm water. Let stand until creamy, about 10 minutes.",
+        "Stir in shortening, sugar, salt and 2 cups flour; beat well. Stir in the remaining flour, 1/2 cup at a time, beating well after each addition. Scrape sides of bowl, cover and let rise until doubled in size, about 1 hour.",
+        "Grease 12 muffin cups. Spoon in batter until cups are half full.  Let rise in warm place until batter reaches top of the cup, about 20 to 30 minutes.",
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Bake in preheated oven for 10 to 15 minutes. Remove from pans and brush tops with melted butter."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4266&h=2234&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F886062.jpg",
+    "ingredients": [
+        "2 (.25 ounce) packages active dry yeast",
+        "1\u2009\u00bd cups warm water (110 degrees F/45 degrees C)",
+        "\u00bd cup shortening, melted and cooled slightly",
+        "\u00bd cup white sugar",
+        "2 teaspoons salt",
+        "4\u2009\u00bd cups all-purpose flour",
+        "2 tablespoons butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Batter Buns",
     "url": "http://allrecipes.com/recipe/24211/batter-buns/"
 }

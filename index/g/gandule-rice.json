@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat 2 tablespoons of the oil in a large saucepan over medium high heat. Add pork and brown in oil. Meanwhile, place remaining oil in a small saucepan over medium heat and add achiote seeds. Heat until oil becomes very dark orange/red. Remove from heat and set aside.",
+        "To the browned pork add the onion, cilantro, garlic, salt and pepper. Cook to reduce veggies, then add the tomato sauce, pigeon peas and olives. Mix well. Strain achiote/oil mixture into pork mixture and stir together. Reduce heat to low and let simmer for 10 minutes.",
+        "Add uncooked rice and water to pork mixture; stir well. Raise temperature to high, cover saucepan and bring all to a boil. Stir again, reduce heat to low and cover; let cook on low about 10 minutes. Remove cover, stir again, replace cover and cook another 10 minutes; stir again. Remove from heat and allow to stand 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F245702.jpg",
+    "ingredients": [
+        "1 cup vegetable oil",
+        "3 pounds pork shoulder, cubed",
+        "3 tablespoons achiote (annatto) seeds",
+        "2 cups chopped onion",
+        "2 cups chopped fresh cilantro",
+        "12 cloves garlic, crushed",
+        "2 tablespoons salt",
+        "1 teaspoon ground black pepper",
+        "2 (8 ounce) cans tomato sauce",
+        "1 (15 ounce) can pigeon peas, drained",
+        "15 ounces black olives, pitted and halved",
+        "8 cups uncooked calrose rice, rinsed",
+        "9 cups water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gandule Rice",
     "url": "http://allrecipes.com/recipe/14782/gandule-rice/"
 }

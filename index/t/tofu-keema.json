@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place tofu in a colander, and cover with a plate. Weight down with a skillet or some other heavy object.  Let drain for 30 minutes. Place in the freezer for 24 hours.",
+        "Remove tofu from freezer, and defrost. Mince, and set aside.",
+        "Heat oil in a large skillet over medium heat; add cumin seeds, and cook until the seeds begin to sputter. Cook onion, ginger, garlic in oil until browned. Stir in tofu, peas, and curry powder; cook, stirring frequently, for 5 minutes. Then stir in tomatoes and salt. Cover, and cook for 15 minutes. Stir in chopped pepper, and cook for 2 to 3 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F128352.jpg",
+    "ingredients": [
+        "1 (16 ounce) package firm tofu",
+        "3 tablespoons vegetable oil",
+        "1 teaspoon cumin seeds",
+        "1  onion, chopped",
+        "1 teaspoon minced fresh ginger root",
+        "1 teaspoon minced garlic",
+        "1 cup frozen peas, thawed",
+        "2 teaspoons curry powder",
+        "1 cup chopped fresh tomatoes",
+        "salt to taste",
+        "1  fresh jalapeno pepper, chopped"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tofu Keema",
     "url": "http://allrecipes.com/recipe/43805/tofu-keema/"
 }

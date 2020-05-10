@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook and stir the ground beef in a large skillet over medium heat until the meat is browned, about 10 minutes; drain excess grease. Pour in the water, bring to a boil, and stir in the bouillon cubes until the cubes are dissolved. Mix in broken lasagna noodles, tomato soup, onion, garlic, Italian seasoning, and black pepper. Reduce heat to a simmer, and cook until the lasagna noodle pieces are tender, about 10 minutes.",
+        "Remove about 1 cup of sauce from the skillet, and mix with the cornstarch; return mixture to skillet, and simmer to thicken, about 3 minutes. Season to taste with salt."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1280&h=670&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1152434.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "4 cups water",
+        "3  beef bouillon cubes",
+        "7  dry lasagna noodles, broken into pieces",
+        "1 (10.75 ounce) can condensed tomato soup",
+        "1  onion, chopped",
+        "2 cloves garlic, minced",
+        "1\u2009\u00bd tablespoons Italian seasoning",
+        "\u00bd teaspoon ground black pepper",
+        "1 teaspoon cornstarch",
+        "salt to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lasagna Helper",
     "url": "http://allrecipes.com/recipe/217293/lasagna-helper/"
 }

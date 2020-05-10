@@ -1,9 +1,35 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Slice spaghetti squash lengthwise and scoop out seeds. Place cut-side down in a baking dish; add 1/2 inch water.",
+        "Bake in the preheated oven until fork tender, about 35 minutes. Cool squash until easily handled.",
+        "Shred spaghetti squash from rind using a fork; cool to room temperature.",
+        "Combine feta cheese, red bell peppers, sun-dried tomatoes, Kalamata olives, basil, parsley, white onion, and jalapeno pepper together in a large bowl. Stir in Greek salad dressing, balsamic vinegar, white wine vinegar, olive oil, thyme, garlic, ground black pepper, and salt. Add spaghetti squash; toss to combine."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3740240.jpg",
+    "ingredients": [
+        "1  spaghetti squash",
+        "water as needed",
+        "1\u2009\u00bd cups crumbled Macedonian feta cheese",
+        "1 cup slivered roasted red bell peppers",
+        "1 cup slivered sun-dried tomatoes",
+        "\u00be cup chopped Kalamata olives",
+        "\u2154 cup chopped fresh basil",
+        "\u00bd cup chopped fresh parsley",
+        "\u2153  white onion, chopped",
+        "1  jalapeno chile pepper, diced",
+        "3 tablespoons Greek salad dressing",
+        "3 tablespoons balsamic vinegar",
+        "2 tablespoons white wine vinegar",
+        "2 tablespoons extra-virgin olive oil",
+        "1 tablespoon chopped fresh thyme",
+        "1 tablespoon minced garlic",
+        "1\u2009\u00bd teaspoons ground black pepper",
+        "1 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sicilian Spaghetti Squash Salad",
     "url": "http://allrecipes.com/recipe/245504/sicilian-spaghetti-squash-salad/"
 }

@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Brown sausage in Dutch oven or large deep skillet on medium-high heat; drain. Add onions, peppers, garlic and paprika; cook and stir 5 minutes or until crisp-tender. Serve topped with cheese.",
+        "Add all remaining ingredients except sour cream and cheese; stir. Bring to boil; simmer on low heat 45 minutes, stirring occasionally.",
+        "Serve topped with sour cream and cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6848580.jpg",
+    "ingredients": [
+        "1 pound chorizo, casings removed, crumbled",
+        "1 large onion, chopped",
+        "2 tablespoons chopped chipotle peppers in adobo sauce",
+        "2 cloves garlic, minced",
+        "2 teaspoons smoked paprika",
+        "1 (19 ounce) can no-salt-added kidney beans, rinsed",
+        "1 (19 ounce) can no-salt-added black beans, rinsed",
+        "1 (28 ounce) can no-salt-added diced tomatoes, undrained",
+        "\u00bd cup fat-free sour cream",
+        "1 cup CRACKER BARREL Shredded Old Cheddar Cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chipotle and Chorizo Chili",
     "url": "http://allrecipes.com/recipe/246108/chipotle-and-chorizo-chili/"
 }

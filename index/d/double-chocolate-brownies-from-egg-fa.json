@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine flour, cocoa, salt and baking powder in a medium bowl and stir until well-mixed.",
+        "Whisk together sugar and oil in a large bowl. Add eggs and vanilla; whisk until blended. Add dry ingredients; whisk just until blended. Fold in chocolate chips.",
+        "Pour batter into a lightly greased or a foil or parchment paper-lined 9-inch (23 cm) square baking pan; spread evenly.",
+        "Bake in a preheated 350 degrees F (180 degrees C) oven until toothpick inserted near centre comes out clean, 25 to 30 minutes. Take care not to overbake brownies."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/988287.jpg",
+    "ingredients": [
+        "3/4 cup all-purpose flour",
+        "1/4 cup cocoa",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon baking powder",
+        "1 cup sugar",
+        "1/2 cup cooking oil",
+        "2 eggs",
+        "1 teaspoon vanilla",
+        "1/2 cup chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Double Chocolate Brownies from Egg Farmers of Ontario",
     "url": "http://allrecipes.com/recipe/229842/double-chocolate-brownies-from-egg-fa/"
 }

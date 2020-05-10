@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Spread almonds onto a baking sheet.",
+        "Bake almonds in the preheated oven until lightly toasted and fragrant, 5 to 10 minutes.",
+        "Bring vegetable stock and quinoa to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until quinoa is tender and stock has been absorbed, 15 to 20 minutes. Transfer quinoa to a bowl and refrigerate until chilled, about 30 minutes.",
+        "Mix almonds, cucumber, tomatoes, parsley, orange bell pepper, feta cheese, raisins, olives, and scallions into quinoa.",
+        "Whisk lemon juice and olive oil together in a bowl; pour over quinoa mixture and stir until quinoa mixture is coated."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1201375.jpg",
+    "ingredients": [
+        "1/2 cup sliced almonds",
+        "4 cups vegetable stock",
+        "2 cups quinoa",
+        "1 English cucumber, diced",
+        "15 grape tomatoes, quartered",
+        "1 bunch fresh flat-leaf parsley, stemmed and leaves finely chopped",
+        "1 orange bell pepper, diced",
+        "3/4 cup crumbled feta cheese",
+        "1/2 cup raisins",
+        "1/4 cup chopped black olives",
+        "4 scallions, white and light green parts, chopped",
+        "1/2 cup fresh lemon juice",
+        "1/2 cup olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Veggie, Almond, and Raisin Quinoa Salad",
     "url": "http://allrecipes.com/recipe/238266/veggie-almond-and-raisin-quinoa-sal/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine mayonnaise, sour cream, milk, blue cheese, hot sauce, horseradish, and garlic powder in a bowl. Refrigerate 1 to 2 hours to let flavors blend."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1680&h=880&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1008978.jpg",
+    "ingredients": [
+        "1 (16 ounce) jar mayonnaise (such as Hellmann's\u00ae/Best Foods\u00ae)",
+        "10 ounces sour cream",
+        "6 tablespoons milk",
+        "1 (4 ounce) package crumbled blue cheese, or more to taste",
+        "1 dash hot pepper sauce",
+        "\u215b teaspoon prepared horseradish",
+        "\u215b teaspoon garlic powder, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Blue Cheese Horseradish Dressing",
     "url": "http://allrecipes.com/recipe/232111/blue-cheese-horseradish-dressing/"
 }

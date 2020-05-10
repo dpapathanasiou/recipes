@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a saucepan over medium-high heat.  Cook mustard seeds in hot oil until they begin to crackle. Stir in ginger and onion; cook for 5 minutes. Pour in water, and stir in tamarind paste. Bring to a boil, then season with coriander, chile powder, and salt.  Reduce heat to medium-low, and cook on for 15 minutes, stirring occasionally.",
+        "Cook fish in sauce until fish is cooked through. Serve garnished with fresh curry leaves."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 tablespoon cooking oil",
+        "1 teaspoon mustard seed",
+        "2 tablespoons chopped fresh ginger",
+        "1 cup chopped onions",
+        "2 cups water",
+        "1 tablespoon tamarind paste",
+        "2 tablespoons coriander powder",
+        "1/2 teaspoon ground red pepper",
+        "salt to taste",
+        "1/2 pound cod fillets, cut into 1 inch cubes",
+        "fresh curry leaves (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fish in Ginger-Tamarind Sauce",
     "url": "http://allrecipes.com/recipe/55449/fish-in-ginger-tamarind-sauce/"
 }

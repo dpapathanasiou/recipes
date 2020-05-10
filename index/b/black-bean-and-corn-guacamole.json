@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir Seasoning Mix and mashed avocados in medium bowl until well blended. Stir in corn, beans and tomato. Cover surface with plastic wrap.",
+        "Refrigerate 30 minutes to allow flavors to blend. Stir before serving. Serve as a dip with tortilla chips."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=6000&h=3141&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462825.jpg",
+    "ingredients": [
+        "1 (1 ounce) package McCormick\u00ae Guacamole Seasoning Mix",
+        "2  ripe avocados - peeled, pitted, and mashed",
+        "1 (8.75 ounce) can whole kernel corn, drained",
+        "1 cup canned black beans, rinsed and drained",
+        "1 cup chopped tomato"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Black Bean and Corn Guacamole",
     "url": "http://allrecipes.com/recipe/256774/black-bean-and-corn-guacamole/"
 }

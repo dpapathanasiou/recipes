@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk the honey mustard, and balsamic vinegar together in a small bowl until combined. Drizzle in the olive oil while whisking to make the dressing; set aside.",
+        "Place the salad greens, tomatoes, strawberries, walnuts, and feta cheese into a large salad bowl. Tear off the dill fronds and add to the salad. Toss gently to mix, then pour on the dressing, and toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/100098.jpg",
+    "ingredients": [
+        "1 teaspoon honey mustard",
+        "2 tablespoons balsamic vinegar",
+        "1/4 cup olive oil",
+        "1 (10 ounce) bag mixed salad greens",
+        "1 pint grape tomatoes, halved",
+        "1 pint strawberries, sliced",
+        "1/2 cup candied walnuts",
+        "1 (4 ounce) container crumbled feta cheese",
+        "3 sprigs fresh dill"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tomato and Strawberry Salad",
     "url": "http://allrecipes.com/recipe/171405/tomato-and-strawberry-salad/"
 }

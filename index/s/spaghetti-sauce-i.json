@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Saute the beef and onion. Drain.",
+        "Stir in the tomato sauce, butter and sugar. Add the oregano, basil, salt, pepper and garlic powder to taste. Cook over low heat until hot."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F257831.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1  onion, chopped",
+        "2 (15 ounce) cans tomato sauce",
+        "\u00bc cup white sugar",
+        "\u00bc cup butter",
+        "2 teaspoons dried oregano",
+        "\u00bc tablespoon dried basil",
+        "salt to taste",
+        "ground black pepper to taste",
+        "1 pinch garlic powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Spaghetti Sauce I",
     "url": "http://allrecipes.com/recipe/11801/spaghetti-sauce-i/"
 }

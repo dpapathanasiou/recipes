@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place about 2 teaspoons of Parmesan cheese onto a silicone sheet or baking sheet lined with parchment paper, and gently spread the cheese out into a circle about 2 inches in diameter. Spread more circles of cheese onto the baking sheet, keeping them at least 1 inch apart.",
+        "Bake in the preheated oven until golden brown, 4 to 5 minutes. Watch carefully to avoid burning. Remove from the oven, and let cool on the sheets until warm; while still warm, drape the wafers over a small bowl or other container. Let cool. Store at room temperature in an airtight container."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "8 ounces freshly grated Parmesan cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Parmesan Baskets",
     "url": "http://allrecipes.com/recipe/215071/parmesan-baskets/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir milk, egg, crumbled bacon, and chives together in a 2-cup glass measuring cup.",
+        "Cook in microwave oven until the egg mixture is solid in the center, 90 seconds to 2 minutes.",
+        "Heat a small skillet over medium heat; cook sausage patty in hot skillet until hot in the center, 2 to 3 minutes per side. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C).",
+        "Sandwich the cooked egg, sausage, and cheese between the donut halves."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2731&h=1430&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F967901.jpg",
+    "ingredients": [
+        "\u00bc cup milk",
+        "1  egg, beaten",
+        "1 slice cooked bacon, crumbled",
+        "1 pinch dried chives",
+        "1  breakfast sausage patty",
+        "1  glazed donut, halved",
+        "1 slice American cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Breakfast Sandwich Heaven",
     "url": "http://allrecipes.com/recipe/231165/breakfast-sandwich-heaven/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a medium skillet.  Add chopped onions, and cook until tender.  Add ground beef, and brown.   Stir in salt and turmeric.  Dilute tomato paste in water, and add to the beef mixture.  Cook   for 30 minutes over medium heat.",
+        "Cook spaghetti in a large kettle of boiling salted water according to package directions.  Drain well.",
+        "Combine beef mixture and noodles in a large kettle.  Cover, and cook over medium heat for 30 to 40 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3459&h=1811&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4421070.jpg",
+    "ingredients": [
+        "1 pound lean ground beef",
+        "12 ounces spaghetti",
+        "1  onion, chopped",
+        "\u2153 cup vegetable oil",
+        "\u00bd teaspoon salt",
+        "\u00bc teaspoon ground turmeric",
+        "2\u2009\u00bd tablespoons tomato paste",
+        "\u2154 cup water"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "The Best and Easiest Spaghetti",
     "url": "http://allrecipes.com/recipe/11724/the-best-and-easiest-spaghetti/"
 }

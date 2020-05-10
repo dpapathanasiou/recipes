@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking dish.",
+        "Mix sugar, matzo meal, oil, eggs, cocoa powder, chocolate chips, walnuts, and salt together in a bowl; pour into prepared baking dish.",
+        "Bake in the preheated oven until a toothpick inserted in the center of the brownies comes out mostly clean, 35 to 40 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "2 cups white sugar",
+        "1 cup fine matzo meal",
+        "\u00be cup vegetable oil",
+        "4  eggs",
+        "\u00bd cup unsweetened cocoa powder",
+        "\u00bd cup chocolate chips",
+        "\u00bd cup chopped walnuts (optional)",
+        "\u00bd teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Passover Fudge Brownies",
     "url": "http://allrecipes.com/recipe/237107/passover-fudge-brownies/"
 }

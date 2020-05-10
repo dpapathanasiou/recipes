@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Arrange top oven rack 6 inches from top heat source. Heat broiler.",
+        "Arrange tortilla chips in single layer in 12-inch skillet (or other oven-proof dish of equal size). Sprinkle beans, tomatoes, peppers and scallions evenly over chips. Sprinkle cheese evenly over chips and toppings.",
+        "Broil, occasionally rotating pan for even melting, until cheese is bubbly and toppings are hot, 3-5 minutes. Sprinkle with cilantro, if desired. Serve with Pico de Gallo and guacamole, if desired."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "6 ounces tortilla chips",
+        "1 (15.5 ounce) can GOYA\u00ae Black Beans, drained and rinsed",
+        "2 medium tomatoes, cored, seeded, and finely chopped",
+        "4  GOYA\u00ae Whole Jalapeno peppers, thinly sliced",
+        "1  scallion, thinly sliced",
+        "1\u2009\u00bd cups shredded Monterey Jack cheese",
+        "Chopped fresh cilantro, for garnish",
+        "GOYA\u00ae Pico de Gallo, for garnish",
+        "Frozen GOYA\u00ae Guacamole, thawed, for garnish"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Black Bean Nachos from GOYA&reg;",
     "url": "http://allrecipes.com/recipe/232982/black-bean-nachos-from-goya/"
 }

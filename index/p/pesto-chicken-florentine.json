@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a large skillet over medium high heat. Add garlic, saute for 1 minute; then add chicken and cook for 7 to 8 minutes on each side. When chicken is close to being cooked through (no longer pink inside), add spinach and saute all together for 3 to 4 minutes.",
+        "Meanwhile, prepare Alfredo sauce according to package directions. When finished, stir in 2 tablespoons pesto; set aside.",
+        "In a large pot of salted boiling water, cook pasta for 8 to 10 minutes or until al dente. Rinse under cold water and drain.",
+        "Add chicken/spinach mixture to pasta, then stir in pesto/Alfredo sauce. Mix well, top with cheese and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "2 cloves garlic, finely chopped",
+        "4  skinless, boneless chicken breast halves - cut into strips",
+        "2 cups fresh spinach leaves",
+        "1 (4.5 ounce) package dry Alfredo sauce mix",
+        "2 tablespoons pesto",
+        "1 (8 ounce) package dry penne pasta",
+        "1 tablespoon grated Romano cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pesto Chicken Florentine",
     "url": "http://allrecipes.com/recipe/16723/pesto-chicken-florentine/"
 }

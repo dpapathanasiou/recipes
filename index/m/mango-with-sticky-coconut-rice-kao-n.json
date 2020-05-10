@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in a saucepan over medium heat; gently cook and stir rice in the hot oil until toasted, 2 to 3 minutes. Add coconut milk, water, sugar, and salt; bring to a boil. Reduce heat, cover saucepan, and simmer until rice is tender and has absorbed all the liquid, 20 to 25 minutes. Stir coconut cream into rice.",
+        "Scoop rice into a serving bowl and top with mango."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1099412.jpg",
+    "ingredients": [
+        "1 tablespoon grapeseed oil",
+        "1 1/2 cups sweet rice",
+        "2 cups coconut milk",
+        "1/4 cup water",
+        "2 tablespoons palm sugar, or more to taste",
+        "1 pinch salt",
+        "1/2 cup unsweetened coconut cream (optional)",
+        "2 mangoes - peeled, seeded, and diced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mango with Sticky Coconut Rice (Kao Niaw)",
     "url": "http://allrecipes.com/recipe/236476/mango-with-sticky-coconut-rice-kao-n/"
 }

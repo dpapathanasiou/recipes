@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Mix egg and water together in a bowl.",
+        "Beat cream cheese, white sugar, and lemon juice together in a bowl with an electric mixer until smooth and fluffy.",
+        "Roll each puff pastry into a 12x16-inch rectangle. Spread 1/2 of the cream cheese mixture down the center of a long side of each rectangle, leaving a 1-inch border. Top each of the cream cheese layers with 1/2 of the cherries and 1/2 of the walnuts.",
+        "Fold opposite end of each puff pastry over the filling, brushing the edges with egg mixture to seal. Tuck the ends underneath the roll and place seam-side down on a baking sheet. Brush the tops of each strudel with egg mixture.",
+        "Bake in the preheated oven until golden brown, about 35 minutes. Cool strudels on baking sheet set on a wire rack, at least 30 minutes.",
+        "Whisk confectioners' sugar, milk, and vanilla extract together in a bowl until desired consistency for glaze is reached; drizzle over strudels."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1936&h=1014&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2514575.jpg",
+    "ingredients": [
+        "1 large egg, beaten",
+        "1 tablespoon water",
+        "1 (8 ounce) package cream cheese, softened",
+        "\u00bd cup white sugar",
+        "1 tablespoon lemon juice",
+        "2 sheets frozen puff pastry, thawed",
+        "1 (12 ounce) bag frozen dark cherries",
+        "8 ounces chopped black walnuts",
+        "\u00bd cup confectioners' sugar",
+        "2 teaspoons milk, or more as needed",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Black Walnut and Cherry Strudel",
     "url": "http://allrecipes.com/recipe/237698/black-walnut-and-cherry-strudel/"
 }

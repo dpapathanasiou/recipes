@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Soak currants in rum overnight.",
+        "In a saucepan, heat the eggnog to a boil. Pour it into a large bowl and add 1 1/2 cups of bread flour. Mix until smooth and let the mixture cool to 110 degrees F (43 degrees C) or just warm to the touch. Add the instant yeast and mix until blended. Cover the bowl with plastic wrap and allow to rise until doubled, 20 to 30 minutes.",
+        "In the bowl of an electric mixer, beat the sugar and butter together until smooth. Beat in the eggs one at a time. Stir in the salt and cinnamon. Pour the egg mixture into the dough and mix until smooth. Gradually add the remaining 2 cups of bread flour and mix for 3 minutes. The dough will be very sticky. Stir in the currants, cover the bowl with plastic wrap, and allow it to rest for 20 minutes.",
+        "Lightly grease a kugelhopf mold or Bundt pan. Sprinkle the bottom of the pan with sliced almonds. Carefully add the dough mixture and cover with plastic wrap. Let the dough rise until doubled, 1 to 1 1/2 hours.",
+        "Preheat an oven to 375 degrees F (190 degrees C).",
+        "Bake the kugelhopf in the preheated oven until the loaf is deep golden brown and the bottom of the loaf sounds hollow when tapped, 30 to 35 minutes. Invert the loaf onto a wire rack to cool. Dust with powdered sugar before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F316496.jpg",
+    "ingredients": [
+        "1 cup dried currants",
+        "3 tablespoons rum",
+        "1 cup eggnog",
+        "3\u2009\u00bd cups bread flour, divided",
+        "2\u2009\u00bd teaspoons instant yeast",
+        "\u00bd cup white sugar",
+        "1 cup butter",
+        "3  eggs",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc cup sliced almonds, for garnish",
+        "2 tablespoons confectioners' sugar, for dusting"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rum and Eggnog Kugelhopf",
     "url": "http://allrecipes.com/recipe/212786/rum-and-eggnog-kugelhopf/"
 }

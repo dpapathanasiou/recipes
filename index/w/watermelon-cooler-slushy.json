@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place watermelon and ice into a blender. Pour in lime juice, sugar, and salt. Blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/247594.jpg",
+    "ingredients": [
+        "4 cups cubed seedless watermelon",
+        "10 ice cubes",
+        "1/3 cup fresh lime juice",
+        "1/4 cup white sugar",
+        "1/8 teaspoon salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Watermelon Cooler Slushy",
     "url": "http://allrecipes.com/recipe/141371/watermelon-cooler-slushy/"
 }

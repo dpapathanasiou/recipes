@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C). Prepare a baking sheet with cooking spray.",
+        "Heat a large skillet over medium-high heat. Cook and stir turkey and onion in the hot skillet until turkey is completely browned, 5 to 7 minutes.",
+        "Stir sloppy joe sauce into the turkey and onion mixture; simmer until slightly thickened, about 5 minutes. Remove skillet from heat and stir Cheddar cheese into the turkey mixture until melted.",
+        "Lay an egg roll wrapper onto a flat surface. Spoon about 2 tablespoons of the turkey mixture down the center of the wrapper making a line that reaches to within an inch of 2 opposing corners. Fold the near corners over the filling so the points overlap the filling. Fold one of the remaining corners over the filling and roll to form a log. Repeat filling and rolling with remaining filling and wrappers until all filling is used. Brush olive oil over the rolls to coat and arrange onto the prepared baking sheet.",
+        "Bake rolls in the preheated oven until lightly browned and crispy, 12 to 15 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1254112.jpg",
+    "ingredients": [
+        "cooking spray",
+        "1 pound ground turkey",
+        "1 small onion, diced (optional)",
+        "1 (15 ounce) can sloppy joe sauce",
+        "1 cup shredded Cheddar cheese (optional)",
+        "14  egg roll wrappers (such as Nasoya\u00ae), or as needed",
+        "\u2153 cup olive oil"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baked Sloppy Joe Egg Rolls",
     "url": "http://allrecipes.com/recipe/238119/baked-sloppy-joe-egg-rolls/"
 }

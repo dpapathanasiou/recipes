@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Crumble and set aside. In a medium sauce pan, steam Brussels sprouts until tender.",
+        "Heat the remaining fat in the skillet over medium high heat and add the Brussels sprouts and caraway seeds. Stir for 1 to 2 minutes, or until the sprouts are tender.",
+        "Remove the skillet from heat, stir in the oil, vinegar, and sugar. Stir, and add the spinach. Saute the mixture over moderately high heat for 1 minute or until the spinach is wilted. Season salad with pepper and sprinkle with bacon. Serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/858733.jpg",
+    "ingredients": [
+        "8 slices bacon",
+        "2 cups Brussels sprouts, trimmed and thinly sliced",
+        "1 1/2 teaspoons caraway seed",
+        "3 tablespoons vegetable oil",
+        "3 tablespoons white wine vinegar",
+        "1/4 teaspoon white sugar",
+        "1/2 pound spinach - chopped, washed and dried"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Warm Brussels Sprout, Bacon and Spinach Salad",
     "url": "http://allrecipes.com/recipe/14424/warm-brussels-sprout-bacon-and-spina/"
 }

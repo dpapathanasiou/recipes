@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Blend pistachios and almonds in a blender until ground; add coconut milk, ice cubes, avocado, honey, and saffron. Blend until smooth."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1085797.jpg",
+    "ingredients": [
+        "1 tablespoon shelled pistachios",
+        "1 tablespoon almonds",
+        "3/4 cup unsweetened coconut milk",
+        "5 cubes ice cubes",
+        "1/2 large avocado, peeled and pitted",
+        "1 tablespoon honey",
+        "1 pinch saffron threads (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Nutty Avocado",
     "url": "http://allrecipes.com/recipe/235971/nutty-avocado/"
 }

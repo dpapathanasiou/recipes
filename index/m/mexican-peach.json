@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix tequila, peach schnapps, margarita mix, and cranberry juice together in a cocktail shaker. Fill a short glass with ice and pour cocktail over the ice. Garnish with lime wedge."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1201051.jpg",
+    "ingredients": [
+        "1 (1.5 fluid ounce) jigger tequila (such as Patron\u00ae Reposado)",
+        "1 fluid ounce peach schnapps",
+        "1 fluid ounce margarita mix",
+        "1 fluid ounce cranberry juice",
+        "ice, as desired",
+        "1 lime wedge"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mexican Peach",
     "url": "http://allrecipes.com/recipe/238129/mexican-peach/"
 }

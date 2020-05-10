@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch tube pan.",
+        "Cut bread dough apart 2 1/2-inch pieces. Chop cream cheese into 1/2-inch cubes. Flatten the same number of dough pieces into small circles as you have pieces of cream cheese (reserve remaining dough). Fold a piece of cream cheese into each flattened dough circle and pinch the seams closed. Roll all the filled and unfilled pieces of dough into balls.",
+        "Combine sugar with cinnamon in a bowl and roll all the dough balls in the cinnamon sugar; set aside. Bring butter and brown sugar to a boil in a saucepan, reduce heat, and simmer for 1 minute.",
+        "Layer half the filled and unfilled dough balls with half the walnuts and raisins in the prepared tube pan; pour half the brown sugar syrup over the mixture. Layer remaining dough balls, walnuts, and raisins into the pan and pour remaining syrup over the gorilla bread.",
+        "Bake gorilla bread in the preheated oven until golden brown and the dough has baked through, 35 to 45 minutes. Let bread cool in the pan for 10 minutes before turning out onto a serving platter. To serve, pull the bread apart."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2340&h=1225&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4050387.jpg",
+    "ingredients": [
+        "2 (1 pound) loaves frozen bread dough, thawed",
+        "1 (8 ounce) package cold cream cheese",
+        "1 cup white sugar",
+        "1 tablespoon ground cinnamon",
+        "\u00be cup butter",
+        "1\u2009\u00bd cups packed brown sugar",
+        "\u00bd cup chopped walnuts (optional)",
+        "\u00bd cup raisins, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gorilla Bread",
     "url": "http://allrecipes.com/recipe/228242/gorilla-bread/"
 }

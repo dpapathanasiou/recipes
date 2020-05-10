@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Arrange cucumber slices in a large bowl, generously seasoning each layer of cucumber with salt and pepper. Cover bowl with plastic wrap and refrigerate for 3 hours.",
+        "Drain liquid from cucumbers. Gently press cucumber slices with paper towel to absorb any remaining liquid.",
+        "Stir half-and-half, sour cream, mayonnaise, green onions, ranch dressing mix, sugar, dill, celery salt, and lime juice together in a small bowl; pour over cucumber slices and gently stir to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2555881.jpg",
+    "ingredients": [
+        "4 large cucumbers, sliced",
+        "salt and ground black pepper to taste",
+        "1/2 cup half-and-half",
+        "1/2 cup sour cream",
+        "1/2 cup mayonnaise",
+        "5 large green onions, thinly sliced",
+        "1 (1 ounce) package ranch dressing mix (such as Lipton\u00ae Recipe Secrets\u00ae)",
+        "1 1/2 tablespoons white sugar",
+        "1 tablespoon dried dill weed",
+        "1 teaspoon celery salt",
+        "2 teaspoons lime juice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Creamy Garden Cucumber Salad",
     "url": "http://allrecipes.com/recipe/238426/creamy-garden-cucumber-salad/"
 }

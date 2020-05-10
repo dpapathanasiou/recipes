@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Sift together the flour, baking soda, salt, cinnamon, and nutmeg.",
+        "Add oatmeal, brown sugar, white sugar, shortening, eggs, milk, and vanilla. Mix together.  Stir in 1 cup of chopped walnuts.",
+        "Drop by teaspoonful onto greased cookie sheets.  Bake at 375 degrees F (190 degrees C)  for 10 to 12 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=640&h=335&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F57021.jpg",
+    "ingredients": [
+        "2 cups sifted all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1\u2009\u00bd teaspoons ground cinnamon",
+        "\u215b teaspoon ground nutmeg",
+        "2 cups rolled oats",
+        "\u00bd cup packed brown sugar",
+        "\u00bd cup white sugar",
+        "1 cup shortening",
+        "2  eggs",
+        "\u2153 cup milk",
+        "1 teaspoon vanilla extract",
+        "1 cup raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Prize Winning Oatmeal Drop Cookies",
     "url": "http://allrecipes.com/recipe/10867/prize-winning-oatmeal-drop-cookies/"
 }

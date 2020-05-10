@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the bacon in a large, deep skillet, and cook over medium heat, stirring until evenly browned, about 10 minutes. Drain the bacon on a paper towel-lined plate, leaving the grease in the skillet. Stir the onion and bell pepper into the skillet, and cook until the onion has softened and turned translucent, about 5 minutes. Add the corn, pimentos, and reserved bacon. Cook and stir until heated through, 3 to 5 minutes. Season with salt and pepper before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6946752.jpg",
+    "ingredients": [
+        "2 slices bacon, cut into 1/2 inch pieces",
+        "\u00bc cup minced white onion",
+        "2 tablespoons green bell pepper, chopped",
+        "2 cups whole kernel corn, drained",
+        "1 tablespoon chopped pimento peppers",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Corn O'Brien",
     "url": "http://allrecipes.com/recipe/213615/corn-obrien/"
 }

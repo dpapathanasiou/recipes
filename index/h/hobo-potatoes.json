@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Peel and cut up the potatoes and carrots into bite-size chunks. Chop up onion.",
+        "Combine all veggies in tin foil or foil baking bag. Season with desired amount of seasoning salt and top with butter. Seal foil well (you may need more than one bag, so the vegetables are done evenly).",
+        "Grill for approximately 40 minutes or until potatoes and carrots are soft (flip bags at least 3-4 times during grilling). Remove form grill and place the veggies in a large bowl and add the sour cream, mixing well."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2032&h=1064&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F38759.jpg",
+    "ingredients": [
+        "4 pounds baking potatoes",
+        "2 pounds carrots",
+        "1  onion",
+        "seasoning salt to taste",
+        "\u00bd cup butter",
+        "1\u2009\u00bc cups sour cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Hobo Potatoes",
     "url": "http://allrecipes.com/recipe/19865/hobo-potatoes/"
 }

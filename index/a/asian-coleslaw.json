@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium bowl, whisk together the rice vinegar, oil, peanut butter, soy sauce, brown sugar, ginger, and garlic.",
+        "In a large bowl, mix the green cabbage, red cabbage, napa cabbage, red bell peppers, carrots, green onions, and cilantro. Toss with the peanut butter mixture just before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2805594.jpg",
+    "ingredients": [
+        "6 tablespoons rice wine vinegar",
+        "6 tablespoons vegetable oil",
+        "5 tablespoons creamy peanut butter",
+        "3 tablespoons soy sauce",
+        "3 tablespoons brown sugar",
+        "2 tablespoons minced fresh ginger root",
+        "1 1/2 tablespoons minced garlic",
+        "5 cups thinly sliced green cabbage",
+        "2 cups thinly sliced red cabbage",
+        "2 cups shredded napa cabbage",
+        "2 red bell peppers, thinly sliced",
+        "2 carrots, julienned",
+        "6 green onions, chopped",
+        "1/2 cup chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Asian Coleslaw",
     "url": "http://allrecipes.com/recipe/14297/asian-coleslaw/"
 }

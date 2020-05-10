@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 400 degrees F.",
+        "Mix meat, stuffing mix, water and eggs until blended. Shape into 50 (1-1/2-inch) meatballs; place in 2 foil-lined 15x10x1-inch pans sprayed with cooking spray.",
+        "Bake 16 min. or until done (160 degrees F). Meanwhile, bring jelly and chili sauce to boil in large saucepan on medium heat, stirring occasionally.",
+        "Add meatballs to sauce; stir to evenly coat."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6989780.jpg",
+    "ingredients": [
+        "2 pounds lean ground beef",
+        "1 (6 ounce) package STOVE TOP Stuffing Mix for Chicken",
+        "1 cup water",
+        "2  eggs",
+        "1 (12 ounce) jar grape jelly",
+        "1 (12 ounce) bottle chili sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Classic Cocktail Meatballs",
     "url": "http://allrecipes.com/recipe/234629/classic-cocktail-meatballs/"
 }

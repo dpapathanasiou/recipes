@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place chicken breasts on a cutting board. With a sharp knife, slice chicken breasts horizontally, without slicing them completely in half. Open the chicken breasts like a book. Place chicken and marinade into a large resealable plastic bag. Refrigerate for 30 minutes.",
+        "Preheat oven to 500 degrees F (260 degrees C).",
+        "Place opened chicken breasts on a broiler pan. Place 4 basil leaves on the bottom half of each chicken breast. Top each with 2 or 3 tomato slices and 1 slice of cheese, and fold over top half of chicken (if necessary, fasten with toothpicks). Wrap 3 slices bacon around each chicken breast.",
+        "Cook in preheated oven for 15 minutes. Turn chicken, and cook 15 minutes more. Remove from oven, and sprinkle chicken with Parmesan. Return to oven, and cook until cheese is melted, about 2 to 3 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4032&h=2111&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3564737.jpg",
+    "ingredients": [
+        "4 (6 ounce) boneless, skinless chicken breasts",
+        "\u00bd (12 ounce) bottle garlic and herb marinade",
+        "16  fresh basil leaves",
+        "1 large tomato, thinly sliced",
+        "4 slices provolone cheese",
+        "12 slices bacon",
+        "\u00bc cup freshly grated Parmesan"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Tomato Basil Chicken",
     "url": "http://allrecipes.com/recipe/88228/stuffed-tomato-basil-chicken/"
 }

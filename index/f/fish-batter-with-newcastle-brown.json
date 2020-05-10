@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oil in deep-fryer to 325 degrees F (165 degrees C).",
+        "Whisk together the flour, cornmeal, garlic salt, garlic powder, and cinnamon in a large bowl. Mix in beer until no dry lumps remain. Dip the cod into the batter, allow some of the excess to run off, then carefully place into the deep-fryer. Cook until golden brown and crispy on the outside, and the fish is easily flaked, about 8 minutes. Cook the fish in several batches to avoid over loading the deep fryer."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7522473.jpg",
+    "ingredients": [
+        "1 quart vegetable oil for frying",
+        "1/2 cup flour",
+        "1/2 cup cornmeal",
+        "1 teaspoon garlic salt",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon ground cinnamon",
+        "1 cup brown ale (such as Newcastle\u2122 brown ale)",
+        "1 pound cod fillets, cut into pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fish Batter with Newcastle\u2122 Brown Ale",
     "url": "http://allrecipes.com/recipe/163207/fish-batter-with-newcastle-brown/"
 }

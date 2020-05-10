@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring to boil the white sugar, butter or margarine and milk.  Boil for exactly 1 minute.  NO LONGER.",
+        "Remove from heat and add oatmeal,  peanut butter, vanilla and cocoa.  Mix together and drop by teaspoon onto wax paper.  Let cool for approximate 1/2 hour."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1040066.jpg",
+    "ingredients": [
+        "2 cups white sugar",
+        "\u00bd cup butter",
+        "\u00bd cup milk",
+        "3 cups rolled oats",
+        "\u00bd cup peanut butter",
+        "1 teaspoon vanilla extract",
+        "4 tablespoons unsweetened cocoa powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Wright's No Bakes",
     "url": "http://allrecipes.com/recipe/10603/grandma-wrights-no-bakes/"
 }

@@ -1,9 +1,17 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a shallow dish combine Marsala wine, honey and garlic.",
+        "Marinate chicken for at least 3 hours, or overnight."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/2 cup Marsala wine",
+        "2 tablespoons honey",
+        "2 cloves garlic, minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Marsala Marinade",
     "url": "http://allrecipes.com/recipe/23629/marsala-marinade/"
 }

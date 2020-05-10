@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Place egg noodles in the pot, cook for 8 to 10 minutes, until al dente, and drain.",
+        "In a bowl, mix the beef, 1 1/4 teaspoons salt, pepper, eggs, and onion. Form into small meatballs around the olives.",
+        "Heat the oil in skillet over medium heat, and cook the meatballs until evenly brown. Remove meatballs from skillet, reserving oil; set meatballs aside, and keep warm.",
+        "Stir the flour into the reserved oil in the skillet. Gradually mix in water to form a thick gravy. Stir in sour cream, dill, and remaining 1/4 teaspoon salt, and cook until heated through. Pour over the meatballs, and serve over cooked egg noodles."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4971200.jpg",
+    "ingredients": [
+        "1 (16 ounce) package uncooked wide egg noodles",
+        "2 pounds ground beef",
+        "1\u2009\u00bd teaspoons salt, divided",
+        "\u00bc teaspoon pepper",
+        "2  eggs, beaten",
+        "1 cup chopped onion",
+        "2 (4.25 ounce) cans pitted black olives",
+        "3 tablespoons vegetable oil",
+        "3 tablespoons all-purpose flour",
+        "\u00bd cup water",
+        "2 cups sour cream",
+        "1 teaspoon dried dill weed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meatballs in Sour Cream Gravy",
     "url": "http://allrecipes.com/recipe/76597/meatballs-in-sour-cream-gravy/"
 }

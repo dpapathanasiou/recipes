@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place Great Northern beans into a large container and cover with several inches of cool water; let stand 8 hours to overnight. Drain.",
+        "Heat oil in a large pot over medium heat; cook and stir onion and garlic in the hot oil until onion is translucent, 5 to 10 minutes. Add bay leaves and cook until fragrant, about 1 minute.",
+        "Mix beans, water, and bouillon into onion mixture; bring to a boil. Reduce heat, cover pot, and simmer, stirring occasionally, until beans are tender, about 1 hour.",
+        "Stir squash, carrots, celery, salt, black pepper, white pepper, ginger, and allspice into broth mixture; simmer until squash and carrots are tender, about 20 minutes.",
+        "Remove bay leaves from broth mixture and discard. Scoop 2 to 3 cups of vegetable-bean mixture using a slotted spoon from broth; blend broth and remaining vegetable-bean mixture using a hand blender until smooth. Return the vegetable-bean mixture to broth mixture and stir in sausage. Simmer soup until sausage is cooked through, 5 to 10 more minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4932009.jpg",
+    "ingredients": [
+        "1 pound dried Great Northern beans",
+        "2 tablespoons vegetable oil",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "3 large bay leaves",
+        "2 quarts water",
+        "2 cubes chicken bouillon",
+        "2 pounds butternut squash - peeled, seeded, and cut into chunks",
+        "2 cups chopped carrots",
+        "2 stalks celery, chopped",
+        "2 1/2 teaspoons salt",
+        "3/4 teaspoon ground black pepper",
+        "3/4 teaspoon ground white pepper",
+        "1/2 teaspoon ground ginger",
+        "1/2 teaspoon allspice",
+        "1 (12 ounce) package pre-cooked chicken sausage, cut into bite-size pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bean and Butternut Squash Soup",
     "url": "http://allrecipes.com/recipe/234637/bean-and-butternut-squash-soup/"
 }

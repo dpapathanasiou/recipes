@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix ground beef, saltine crackers, onion, green bell pepper, milk, egg, Worcestershire sauce, garlic, black pepper, and seasoned salt together in a bowl.",
+        "Stir ketchup and brown sugar together in a bowl. Spoon ketchup mixture into the bottom of each muffin cup of a 6-cup muffin tin.",
+        "Fill muffin cups with beef mixture, leaving 1/2-inch space on the top.",
+        "Bake in the preheated oven until no longer pink in the center, about 30 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Drain fat from muffin cups.",
+        "Top each 'cupcake' with mashed potatoes and Cheddar cheese.",
+        "Continue baking until cheese is melted, about 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 cup crushed saltine crackers",
+        "\u00bd cup chopped onion",
+        "\u00bd cup chopped green bell pepper",
+        "\u2153 cup milk",
+        "1  egg",
+        "1 tablespoon Worcestershire sauce",
+        "2 cloves garlic, chopped",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon seasoned salt",
+        "\u00bd cup ketchup",
+        "\u00bd cup brown sugar",
+        "4 cups mashed potatoes",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Meatloaf Cupcakes",
     "url": "http://allrecipes.com/recipe/236847/meatloaf-cupcakes/"
 }

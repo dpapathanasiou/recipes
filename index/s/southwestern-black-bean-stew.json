@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large skillet over medium high heat, saute the ground beef and drain the excess fat. Add taco seasoning, and stir. Reduce heat to low, cover and simmer for 10 minutes.",
+        "In a slow cooker over low heat, combine the corn, beans, tomato paste and water. Mix well. Add the seasoned meat and the sour cream. Raise heat to high setting and simmer for 20 minutes. Pour into individual bowls and garnish with shredded cheddar cheese."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1221&h=639&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4559926.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 (1.25 ounce) package taco seasoning mix",
+        "1 (15 ounce) can whole kernel corn, drained",
+        "1 (15 ounce) can black beans, undrained",
+        "1 (6 ounce) can tomato paste",
+        "1\u2009\u00bd cups water",
+        "\u00bd cup sour cream",
+        "2 (8 ounce) packages shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Southwestern Black Bean Stew",
     "url": "http://allrecipes.com/recipe/15601/southwestern-black-bean-stew/"
 }

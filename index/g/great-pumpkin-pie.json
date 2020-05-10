@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Arrange pumpkin halves on a baking sheet, cut sides down.",
+        "Roast in preheated oven until tender, about 1 hour. Set aside until cool enough to handle, though still warm.",
+        "Adjust oven heat to 375 degrees F (190 degrees C).",
+        "Scoop flesh from pumpkin halves into a bowl; mash with potato masher. Measure 2 cups mashed pumpkin into a large mixing bowl; add sugar, amber rum, egg yolk, pumpkin pie spice, butter, dark molasses, and vanilla extract. Puree the mixture with an immersion blender or electric hand mixer until smooth and thick. Pour the puree into the pie crust.",
+        "Bake in preheated oven until a toothpick inserted into the center comes out clean, 50 to 60 minutes."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 small sugar pumpkin, halved and seeded",
+        "1 cup white sugar",
+        "\u00bc cup amber rum",
+        "1  egg yolk",
+        "1 tablespoon pumpkin pie spice",
+        "1 tablespoon butter",
+        "1\u2009\u00bd teaspoons dark molasses",
+        "1 teaspoon vanilla extract",
+        "1  frozen deep-dish prepared pie crust, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Great Pumpkin Pie",
     "url": "http://allrecipes.com/recipe/229588/great-pumpkin-pie/"
 }

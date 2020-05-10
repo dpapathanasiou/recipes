@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine tripe and lemon juice in a large bowl. Let sit, about 10 minutes.",
+        "Transfer tripe and lemon juice to a large pot. Cover with 2 inches of water. Bring to a boil; reduce heat to low and cook, stirring occasionally, until slightly softened, about 10 minutes. Drain and rinse tripe.",
+        "Return tripe to the pot. Cover with 2 quarts beef broth, adding water as needed. Bring to a boil; reduce heat and cook until tender, about 2 hours.",
+        "Stir remaining beef stock, cassava, potatoes, yams, pumpkin, sweet potatoes, tomato sauce, sofrito, and corn into the pot. Cook until tender, about 20 minutes more. Season with salt and pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6068804.jpg",
+    "ingredients": [
+        "3 pounds beef tripe, trimmed of fat and cut into cubes",
+        "4  lemons, juiced",
+        "water to cover",
+        "3 quarts beef stock, divided",
+        "8 ounces cassava, peeled and cubed",
+        "8 ounces potatoes, peeled and cubed",
+        "8 ounces yams, peeled and cubed",
+        "8 ounces pumpkin, peeled and cubed",
+        "8 ounces sweet potatoes, peeled and cubed",
+        "\u00bd (16 ounce) can tomato sauce",
+        "\u2154 cup sofrito",
+        "1 ear corn, cut into 1-inch pieces",
+        "salt and ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Puerto Rican Mondongo",
     "url": "http://allrecipes.com/recipe/254965/puerto-rican-mondongo/"
 }

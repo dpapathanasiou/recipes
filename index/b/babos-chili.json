@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a large pot over medium heat; cook and stir onion until softened, 5 to 10 minutes. Add garlic; cook and stir until fragrant, about 1 minute.  Stir beef, green bell pepper, chili powder, cumin, celery seed, basil, chile pepper, bay leaves, and salt into onion mixture; cook and stir until beef is no longer red in the center, about 10 minutes.",
+        "Stir tomatoes into beef mixture, decrease heat to low, and simmer for 4 hours.",
+        "Stir kidney beans and cocoa powder into the chili; cook, stirring occasionally, for 1 hour more."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 large onion, chopped",
+        "3 cloves garlic, minced",
+        "1 pound beef chuck, cubed",
+        "1  green bell pepper, finely chopped",
+        "\u00bc cup chili powder",
+        "1 teaspoon ground cumin",
+        "\u00bd teaspoon celery seed",
+        "\u00bd teaspoon dried basil",
+        "1  dried chile pepper",
+        "2  bay leaves",
+        "1 pinch salt",
+        "4 (16 ounce) cans tomatoes",
+        "4 (14.5 ounce) cans kidney beans, rinsed and drained",
+        "1 tablespoon unsweetened cocoa powder"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Babo's Chili",
     "url": "http://allrecipes.com/recipe/238303/babos-chili/"
 }

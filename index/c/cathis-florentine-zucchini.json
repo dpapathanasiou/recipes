@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+        "Meanwhile, heat oil in a medium skillet over medium heat.  Saute onion and garlic until onions begin to soften.  Stir in zucchini and season with salt and pepper.",
+        "Increase the heat to medium-high and add the wine.  Allow it to reduce by half, stirring frequently.  Reduce heat to medium-low and stir in ricotta and cinnamon.  Heat through and season with salt and pepper.  Add drained pasta to skillet and toss.  Serve immediately."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1 pound seashell pasta",
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "3 cloves garlic, chopped",
+        "4 zucchini, cut into 1/2-inch slices",
+        "salt and pepper to taste",
+        "2/3 cup white wine",
+        "1/2 pound ricotta cheese",
+        "1/4 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cathi's Florentine Zucchini",
     "url": "http://allrecipes.com/recipe/20710/cathis-florentine-zucchini/"
 }

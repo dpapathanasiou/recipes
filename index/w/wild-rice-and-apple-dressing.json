@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large saucepan or rice cooker, combine the brown rice and water. Bring to a boil, then cover and reduce heat to low. Set a timer for 20 minutes. When that time is up, stir in the instant wild rice. Continue to simmer, covered, until the rice is tender and water has been absorbed, 10 to 15 more minutes.",
+        "Preheat the oven to 350 degrees F (175 degrees C). Spread the bread cubes over a baking sheet and season with sage, thyme, and garlic powder. Bake for 10 minutes, or until bread is lightly toasted and spices are fragrant. Set aside to cool slightly. Leave the oven on.",
+        "In a large bowl, toss the bread cubes with the celery, carrot, onion, and apples. Stir in the rice until evenly distributed. Pour into a lightly greased 9x13 inch baking dish. Pour the chicken broth evenly over the top. Cover with aluminum foil.",
+        "Bake for 30 minutes in the preheated oven, or until heated through. Remove the aluminum foil and bake an additional 10 minutes if you like a crispy top."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4257287.jpg",
+    "ingredients": [
+        "1 cup brown rice",
+        "4 cups water",
+        "1 cup instant long grain and wild rice",
+        "1 (1 pound) loaf white bread, cut into 1/2-inch cubes",
+        "1 teaspoon dried sage",
+        "1 teaspoon dried thyme",
+        "1 teaspoon garlic powder",
+        "4 stalks celery, grated",
+        "4  carrots, grated",
+        "1 small onion, grated",
+        "2  Granny Smith apples - peeled, cored and chopped",
+        "1 cup chicken broth"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wild Rice and Apple Dressing",
     "url": "http://allrecipes.com/recipe/125475/wild-rice-and-apple-dressing/"
 }

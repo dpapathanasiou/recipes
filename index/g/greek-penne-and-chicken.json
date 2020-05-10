@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large pot with boiling salted water cook penne pasta until al dente. Drain.",
+        "Meanwhile, in a large skillet over medium-high heat melt butter, add onion and garlic and cook for 2 minutes. Add chopped chicken and continue cooking, stirring occasionally until golden brown, about 5 to 6 minutes.",
+        "Reduce heat to medium- low. Drain and chop artichoke hearts and add them, chopped tomato, feta cheese, fresh parsley, lemon juice, dried oregano, and drained penne pasta to the large skillet. Cook until heated through, about 2 to 3 minutes.",
+        "Season with salt and ground black pepper. Serve warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "1 (16 ounce) package penne pasta",
+        "1\u2009\u00bd tablespoons butter",
+        "\u00bd cup chopped red onion",
+        "2 cloves garlic, minced",
+        "1 pound skinless, boneless chicken breast halves - cut into bite-size pieces",
+        "1 (14 ounce) can artichoke hearts in water",
+        "1  tomato, chopped",
+        "\u00bd cup crumbled feta cheese",
+        "3 tablespoons chopped fresh parsley",
+        "2 tablespoons lemon juice",
+        "1 teaspoon dried oregano",
+        "salt to taste",
+        "ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Greek Penne and Chicken",
     "url": "http://allrecipes.com/recipe/11998/greek-penne-and-chicken/"
 }

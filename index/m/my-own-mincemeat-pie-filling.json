@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the ground beef into a skillet over medium heat, and cook and stir until the beef is well browned, about 10 minutes, breaking it up into small crumbles as it cooks. Drain excess fat.",
+        "In a large cast-iron or other heavy skillet over medium heat, mix the cooked beef, suet, apples, brown sugar, brandy, raisins, walnuts, dried mixed fruit, mixed fruit peel, lemon juice, salt, nutmeg, cinnamon, allspice, and cloves. Stir the mincemeat until thoroughly combined and the sugar has dissolved, and bring the mixture to a boil. Reduce heat to a simmer, and cook until the flavors have blended and the mincemeat filling is thickened, about 1 hour. Stir occasionally.",
+        "Use as mincemeat pie filling."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1940&h=1016&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F971684.jpg",
+    "ingredients": [
+        "1 pound ground beef",
+        "\u00bd cup ground suet (white beef fat)",
+        "4  apples - peeled, cored and chopped",
+        "1 cup brown sugar",
+        "1 cup brandy",
+        "\u00be cup raisins, chopped",
+        "\u00bd cup walnuts, chopped",
+        "\u00bd cup chopped dried mixed fruit",
+        "\u00bd cup candied mixed fruit peel, chopped",
+        "1  lemon, juiced",
+        "1 teaspoon salt",
+        "1 teaspoon ground nutmeg",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bd teaspoon ground allspice",
+        "\u00bd teaspoon ground cloves"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "My Own Mincemeat Pie Filling",
     "url": "http://allrecipes.com/recipe/215758/my-own-mincemeat-pie-filling/"
 }

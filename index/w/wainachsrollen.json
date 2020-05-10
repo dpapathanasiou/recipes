@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, stir together the melted butter, melted lard, white sugar, brown sugar, and eggs. Mix until well blended. Stir in the flour, baking soda, salt, cinnamon, and almonds. Shape the dough into two logs about 2 1/2 inches in diameter; wrap tightly in waxed paper and refrigerate 8 hours or overnight.",
+        "Preheat oven to 350 degrees F (175 degrees C). Remove the dough logs from the fridge and let them rest at room temperature for about 5 minutes.",
+        "Slice dough into slices about 1/4 inch thick. (The thinner you slice them, the crispier the cookies will be.) Bake in the preheated oven for 8 to 10 minutes until the edges begin to brown. Cool on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F308804.jpg",
+    "ingredients": [
+        "1 cup butter, melted",
+        "1 cup lard, melted",
+        "1 cup white sugar",
+        "1 cup packed brown sugar",
+        "3  egg",
+        "4\u2009\u00bd cups all-purpose flour",
+        "2 teaspoons baking soda",
+        "1 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "8 ounces chopped almonds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Wainachsrollen",
     "url": "http://allrecipes.com/recipe/11533/wainachsrollen/"
 }

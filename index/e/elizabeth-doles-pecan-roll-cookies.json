@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 275 degrees F (135 degrees C).",
+        "Beat butter or margarine and sugar until creamy.  Beat in water and vanilla.  Gradually beat in flour.  Stir in chopped pecans.",
+        "With floured hands, roll 2 teaspoons dough for each cookie into an oblong shape.  Press slight indentation down the center of each cookie with a knife.",
+        "Bake on greased baking sheets for 45 minutes.  Roll in confectioners' sugar while still warm."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F530772.jpg",
+    "ingredients": [
+        "1 cup butter, softened",
+        "\u00bc cup confectioners' sugar",
+        "1 tablespoon cold water",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "2 cups chopped pecans",
+        "\u2153 cup confectioners' sugar for decoration"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Elizabeth Dole's Pecan Roll Cookies",
     "url": "http://allrecipes.com/recipe/10635/elizabeth-doles-pecan-roll-cookies/"
 }

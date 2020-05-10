@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine flour, wheat germ, baking powder, and salt in a large bowl. Set bowl aside. In a separate bowl, whisk together the skim milk, melted margarine, eggs, and sugar. Make a well in the center of the dry ingredients; stir in the wet ingredients, being careful not to over mix the batter. Gently fold in the chocolate chips.",
+        "Heat a large skillet over medium heat, and coat with cooking spray. Pour 1/4 cupfuls of batter onto the skillet, and cook until bubbles appear on the surface. Flip with a spatula, and cook until golden brown on the other side."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/807625.jpg",
+    "ingredients": [
+        "1 3/4 cups white whole wheat flour",
+        "1/4 cup wheat germ",
+        "2 tablespoons baking powder",
+        "1 teaspoon salt",
+        "1 3/4 cups skim milk",
+        "1/4 cup margarine, melted",
+        "2 eggs, beaten",
+        "3 tablespoons demerara sugar",
+        "1/2 cup semisweet chocolate chips",
+        "cooking spray"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lighter Chocolate Chip Pancakes",
     "url": "http://allrecipes.com/recipe/186684/lighter-chocolate-chip-pancakes/"
 }

@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C).",
+        "Cut 1 cup of the butter into the flour until the mixture resembles coarse crumbs. Stir in the cream and form the dough into a ball.",
+        "Roll dough out 1/2 inch thick and cut with a small round cutter. Roll cut circles in granulated sugar and place on ungreased cookies sheets. Prick cookies a few times with a fork.",
+        "Bake at 375 degrees F (190 degrees C) for 8 to 10 minutes. Let cookies cool before frosting.",
+        "To Assemble: Frost bottoms of half of the cookies and place the remaining cookies on top to make sandwich cookies.",
+        "To Make Buttercream Frosting: Beat 1/2 cup of the butter until fluffy. Gradually add the confectioners' sugar. Beat in the evaporated milk and the vanilla. Adjust milk and confectioners' sugar amounts to get buttercream to a good spreading consistency."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F587064.jpg",
+    "ingredients": [
+        "1 cup butter",
+        "2 cups all-purpose flour",
+        "\u2153 cup light cream",
+        "\u2153 cup granulated sugar for decoration",
+        "\u00bd cup butter",
+        "1\u2009\u00bc cups confectioners' sugar",
+        "3 tablespoons evaporated milk",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Swedish Tea Cookies",
     "url": "http://allrecipes.com/recipe/11243/swedish-tea-cookies/"
 }

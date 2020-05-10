@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+        "Place crust in a 9 inch glass pie plate. Sprinkle bacon inside of crust. In a small bowl, combine Cheddar cheese, Monterey jack cheese and flour. In a separate bowl, beat together eggs, cream, onion and green chiles. Add cheese mixture; stir well. Pour mixture into pie crust.",
+        "Bake in preheated oven for 60 to 70 minutes, until set. Let stand 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4320&h=2262&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1620154.jpg",
+    "ingredients": [
+        "8 ounces bacon",
+        "1 (9 inch) unbaked 9 inch pie crust",
+        "2 cups sharp Cheddar cheese, shredded",
+        "1 cup shredded Monterey Jack cheese",
+        "3 tablespoons all-purpose flour",
+        "5  eggs, lightly beaten",
+        "1\u2009\u00bd cups half-and-half",
+        "\u00bd cup diced onion",
+        "1 (4 ounce) can diced green chile peppers, drained"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Yummy Quiche",
     "url": "http://allrecipes.com/recipe/22190/yummy-quiche/"
 }

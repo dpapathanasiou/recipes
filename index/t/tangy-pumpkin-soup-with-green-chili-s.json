@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a food processor or blender, puree the green chilies and sour cream until well blended. Set aside. In a medium saucepan, over medium-high heat, combine the pumpkin puree, chicken broth, and water. Season with chili powder, garlic powder and hot pepper sauce. Stir in 1/4 cup of the sour cream mixture.",
+        "Bring to a boil, then reduce heat to medium and simmer, uncovered, for 5 minutes. Pour into serving bowls, and spoon a dollop of the sour cream mixture on top. Run a knife or the tip of a spoon through the dollop to swirl."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/763569.jpg",
+    "ingredients": [
+        "1 (4 ounce) can diced green chile peppers",
+        "1/4 cup sour cream",
+        "1 (15 ounce) can solid pack pumpkin puree",
+        "1 (14 ounce) can chicken broth",
+        "1/2 cup water",
+        "1/2 teaspoon chili powder",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon hot pepper sauce"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tangy Pumpkin Soup with Green Chili Swirl",
     "url": "http://allrecipes.com/recipe/42627/tangy-pumpkin-soup-with-green-chili-s/"
 }

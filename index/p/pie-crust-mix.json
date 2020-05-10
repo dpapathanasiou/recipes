@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a large bowl, combine flour, salt and baking powder. Cut in lard until mixture resembles coarse crumbs.",
+        "Store in an airtight container for up to 6 weeks. To make 2 pie crusts, combine 2 1/2 cups mix with 5 tablespoons water."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/302473.jpg",
+    "ingredients": [
+        "6 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 teaspoon baking powder",
+        "1 pound lard"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pie Crust Mix",
     "url": "http://allrecipes.com/recipe/22345/pie-crust-mix/"
 }

@@ -1,9 +1,30 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).  Grease a 9x9 inch baking pan.",
+        "In a large mixing bowl resift flour with the baking powder, baking soda, salt and 3/4 cup of sugar.  In a separate bowl combine the egg replacer and water (2 eggs' worth) and mix in sour cream substitute and vanilla.  Pour the 'egg' mixture into the flour mixture and beat until smooth.  Spread batter in baking pan.  Sprinkle blueberries (optional) and/or walnuts (optional) over the batter, and stir slightly so that they stay in the top layer.",
+        "In a small bowl, combine the 5 tablespoons sugar, margarine and cinnamon.  Mix with a fork until mixture resembles cornmeal (not smooth).  Sprinkle topping over batter.",
+        "Bake in preheated oven for 20 to 25 minutes, or until a toothpick inserted into the center of the cake comes out clean.   Cool slightly before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4000&h=2094&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F558777.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups sifted unbleached all-purpose flour",
+        "2 teaspoons baking powder",
+        "\u00bd teaspoon baking soda",
+        "\u00bc teaspoon salt",
+        "\u00be cup white sugar",
+        "3 teaspoons egg replacer (dry)",
+        "4 tablespoons water",
+        "1 cup sour cream substitute",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bc cup fresh blueberries",
+        "\u00bc cup chopped walnuts (optional)",
+        "5 tablespoons white sugar",
+        "2 tablespoons soy margarine",
+        "\u00bd teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Eggless Coffee Cake",
     "url": "http://allrecipes.com/recipe/21216/eggless-coffee-cake/"
 }

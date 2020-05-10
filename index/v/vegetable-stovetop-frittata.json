@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat olive oil in a 10-inch skillet over medium heat. Cook and stir broccoli, bell pepper, and sweet onion in hot oil until hot, about 3 minutes. Place a cover on the skillet and continue cooking until the vegetables begin to soften, about 5 minutes more. Stir olives into the vegetable mixture.",
+        "Beat eggs, egg whites, milk, salt, and pepper together with a whisk in a small bowl; pour over the vegetable mixture in the skillet. Sprinkle feta cheese over the egg mixture.",
+        "Replace cover on the skillet, reduce heat to medium-low, and cook until the egg is lightly browned on the bottom, 3 to 5 minutes. Carefully flip the frittata and cook until the bottom is again lightly browned, 1 to 2 minutes more."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2011101.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "2/3 cup 1-inch pieces broccoli florets",
+        "1/2 red bell pepper, chopped",
+        "1/2 sweet onion, chopped",
+        "6 marinated olives, chopped",
+        "2 eggs",
+        "2 egg whites",
+        "2 tablespoons whole milk",
+        "1 pinch salt and ground black pepper to taste",
+        "1/4 cup crumbled sheep's milk feta cheese (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Vegetable Stovetop Frittata",
     "url": "http://allrecipes.com/recipe/235340/vegetable-stovetop-frittata/"
 }

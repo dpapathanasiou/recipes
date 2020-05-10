@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Toss jicama, red pepper, mango, and red onion together in a large bowl. Set aside.",
+        "Stir cilantro, lime juice, honey, salt, and cayenne pepper together in a bowl.",
+        "Pour the cilantro mixture over the jicama mixture and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 15 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5268357.jpg",
+    "ingredients": [
+        "1 large jicama, peeled and cut into matchsticks",
+        "1 small red bell pepper, cut into matchsticks",
+        "1 large firm mango, peeled and cut into matchsticks",
+        "1/2 red onion, cut into matchsticks",
+        "Dressing:",
+        "1/2 cup chopped cilantro leaves",
+        "2 limes, juiced",
+        "1/4 cup honey",
+        "1 teaspoon salt",
+        "1/8 teaspoon cayenne pepper, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Jicama Mango Salad with Cilantro and Lime",
     "url": "http://allrecipes.com/recipe/233495/jicama-mango-salad-with-cilantro-and/"
 }

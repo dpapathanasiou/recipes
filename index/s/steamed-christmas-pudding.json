@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Grease one 2-quart lidded pudding mold.  Sift together the flour, sugar and cinnamon; set aside.",
+        "In a large bowl, mix together the eggs, butter, mincemeat, cranberry sauce and pumpkin. Add to flour mixture and mix until smooth; pour into pudding mold.",
+        "Place a rack in the bottom of a large pot, over medium heat, and fill 1/2 way up with boiling water.  Place the pudding on the rack. Steam for 2 1/2 hours.",
+        "Check the pan occasionally and add more water if needed. Check for doneness by inserting a toothpick in the center. When firm, place the pudding mold on a rack outside of the water for 10 minutes and unmold.",
+        "Prepare a sauce by blending together the sour cream, cream cheese and confectioners sugar. Spoon dollops over warm pudding and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/544498.jpg",
+    "ingredients": [
+        "1 1/2 cups self-rising flour",
+        "1 cup white sugar",
+        "1 teaspoon ground cinnamon",
+        "2 eggs, beaten",
+        "1/4 cup melted butter",
+        "1/2 cup prepared mincemeat pie filling",
+        "1/2 cup whole cranberry sauce",
+        "1/2 cup pumpkin puree",
+        "1 (8 ounce) container sour cream",
+        "1 (8 ounce) package cream cheese",
+        "1/3 cup confectioners' sugar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Steamed Christmas Pudding",
     "url": "http://allrecipes.com/recipe/9558/steamed-christmas-pudding/"
 }

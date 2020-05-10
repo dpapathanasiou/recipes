@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+        "In a medium bowl, cream together the butter, white sugar and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla and food coloring. Mix in the chocolate hazelnut spread. Combine the flour, baking powder, and baking soda; stir into the sugar mixture until just blended. Fold in chocolate chips. Drop dough by spoonfuls 2 inches apart onto the prepared cookie sheets. These cookies spread.",
+        "Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3968&h=2077&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F517395.jpg",
+    "ingredients": [
+        "1 cup butter, softened",
+        "1 cup white sugar",
+        "1 cup brown sugar",
+        "2  eggs",
+        "2 teaspoons vanilla extract",
+        "8 drops food coloring",
+        "\u00be cup chocolate hazelnut spread",
+        "2\u2009\u00be cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "1 teaspoon baking soda",
+        "\u00be cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Chocolate Fudgy Cookies",
     "url": "http://allrecipes.com/recipe/25772/chocolate-fudgy-cookies/"
 }

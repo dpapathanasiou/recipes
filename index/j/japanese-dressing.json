@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat mirin, champagne vinegar, sunflower seed oil, hazelnut oil, sugar, sesame oil, and ground ginger together in a bowl until smooth.",
+        "Let dressing sit at room temperature until the flavors blend, at least 30 minutes."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/3319551.jpg",
+    "ingredients": [
+        "2 tablespoons mirin (Japanese sweet wine)",
+        "1 tablespoon champagne vinegar",
+        "1 1/2 teaspoons sunflower seed oil",
+        "1 1/2 teaspoons hazelnut oil",
+        "1 teaspoon white sugar",
+        "1/4 teaspoon toasted sesame oil",
+        "1/4 teaspoon ground ginger"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Japanese Dressing",
     "url": "http://allrecipes.com/recipe/239935/japanese-dressing/"
 }

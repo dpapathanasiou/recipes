@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat a skillet over medium heat. Cook and stir livers in the hot skillet until cooked through, 3 to 5 minutes. Add olive oil, lemon juice, and salt to livers; gently stir until mixed. Remove skillet from heat and sprinkle garlic over livers."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3352781.jpg",
+    "ingredients": [
+        "1 pound chicken livers - rinsed, trimmed, and patted dry",
+        "1\u2009\u00bd tablespoons olive oil",
+        "2 teaspoons lemon juice",
+        "\u00bd teaspoon salt, or to taste",
+        "6 cloves garlic, minced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amazing Garlic Chicken Livers",
     "url": "http://allrecipes.com/recipe/237306/amazing-garlic-chicken-livers/"
 }

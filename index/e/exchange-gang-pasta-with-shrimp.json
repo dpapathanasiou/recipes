@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Stir in the spaghetti, and return to a boil. Cook, uncovered, stirring occasionally, until the pasta is cooked through, but still firm to the bite, about 12 minutes. Drain; toss with 2 tablespoons of the butter.",
+        "Melt the remaining 2 tablespoons butter in a large skillet over medium heat, and cook and stir the shallots and mushrooms until the mushrooms are tender, about 5 minutes. Stir in the grape tomatoes and garlic, season with salt and pepper, and cook and stir until tomatoes are heated through, about 3 minutes. Add the shrimp, and cook until the shrimp just begins to turn pink, stirring occasionally.",
+        "Stir in the white wine and lemon juice, reduce the heat to medium-low, and simmer until shrimp are opaque, about 5 minutes. Stir in the spinach; once spinach has wilted, stir in the half-and-half and Parmesan cheese. Simmer until all ingredients are heated through and the sauce is slightly thickened, about 5 minutes. Serve over the cooked spaghetti."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/472948.jpg",
+    "ingredients": [
+        "1/2 pound spaghetti",
+        "4 tablespoons butter, divided",
+        "2 shallots, minced",
+        "1 cup diced mushrooms",
+        "1 cup grape tomatoes, quartered",
+        "2 cloves garlic, minced",
+        "salt and ground black pepper to taste",
+        "1 pound uncooked medium shrimp, peeled and deveined",
+        "1/4 cup white wine",
+        "2 tablespoons fresh lemon juice",
+        "2 cups torn fresh spinach leaves",
+        "1/2 cup half-and-half cream",
+        "1/4 cup shredded Parmesan cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Exchange Gang Pasta with Shrimp",
     "url": "http://allrecipes.com/recipe/187351/exchange-gang-pasta-with-shrimp/"
 }

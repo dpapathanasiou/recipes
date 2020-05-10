@@ -1,9 +1,28 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cream shortening and sugar until light and fluffy.  Beat in peanut butter, egg and milk.",
+        "Sift together flour, soda and salt.  Stir into creamed mixture.",
+        "Place dough on floured waxed paper.  Roll into 15 x 18 inch rectangle (just pat it out and don't measure).",
+        "Melt chocolate chips over hot water; cool slightly.  Spread over cookie dough.",
+        "Roll up like jelly roll, rolling the long side, lifting wax paper off with each turn.  Chill about 15-20 minutes.",
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Dough should be fine, but chocolate should be hard.  Slice cookies 1/4 inch thick.  Place on ungreased cookie sheet.  Bake for 8-10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F204582.jpg",
+    "ingredients": [
+        "\u00bd cup shortening",
+        "1 cup white sugar",
+        "\u00bd cup crunchy peanut butter",
+        "1  egg",
+        "2 tablespoons milk",
+        "1\u2009\u00bc cups all-purpose flour",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon baking soda",
+        "1 cup semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pinwheel Cookies II",
     "url": "http://allrecipes.com/recipe/9937/pinwheel-cookies-ii/"
 }

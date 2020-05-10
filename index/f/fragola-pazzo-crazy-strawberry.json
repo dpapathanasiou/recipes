@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix balsamic vinegar, sugar, and black pepper together in a bowl. Add strawberries and stir to coat; marinate in refrigerator until chilled, about 10 minutes. Grate chocolate over top as a garnish."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6378799.jpg",
+    "ingredients": [
+        "1/4 cup balsamic vinegar",
+        "2 tablespoons white sugar",
+        "1 teaspoon freshly ground black pepper",
+        "2 pints fresh strawberries, hulled and quartered",
+        "1 (1 ounce) square unsweetened chocolate, grated, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fragola Pazzo (Crazy Strawberry)",
     "url": "http://allrecipes.com/recipe/237220/fragola-pazzo-crazy-strawberry/"
 }

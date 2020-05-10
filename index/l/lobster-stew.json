@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Saute the lobster meat gently in butter until butter turns pink. Add half and half slowly. Heat over medium heat until hot. Do not boil. Serve with oyster crackers and enjoy!"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/5052035.jpg",
+    "ingredients": [
+        "1 pound cooked lobster meat",
+        "1 cup butter",
+        "2 quarts half-and-half cream"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lobster Stew",
     "url": "http://allrecipes.com/recipe/13016/lobster-stew/"
 }

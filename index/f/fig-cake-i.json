@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 300 degrees F (150 degrees C). Grease a 9x13 inch pan. Mix together the flour, cinnamon, cloves, nutmeg, 1 teaspoon baking soda, baking powder and salt. Set aside.",
+        "In a large bowl, cream together 1 cup butter and 1 1/2 cup sugar until light and fluffy.  Stir in the eggs.  Beat in the flour mixture alternately with the buttermilk, mixing just until incorporated.  Fold in the chopped figs and pecans.",
+        "Pour batter into prepared pan. Bake in the preheated oven for 60 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool.",
+        "To make the icing:    In a large saucepan, mix together butter, sugar, evaporated milk and baking soda.  Bring to a boil, stirring until sugar is dissolved. Then cook without stirring until the mixture turns brown, or until it reaches the soft ball stage on a candy thermometer (234 degrees F - 115 degrees C). Cool to lukewarm (110 degrees F). Pour into a small bowl and beat until it thickens to spreading consistency.  Quickly spread icing onto the cooled cake."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1022979.jpg",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground cloves",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon baking soda",
+        "1 teaspoon baking powder",
+        "\u00bd teaspoon salt",
+        "1\u2009\u00bd cups white sugar",
+        "1 cup butter",
+        "3  eggs, beaten",
+        "1 cup buttermilk",
+        "1 cup chopped fresh figs",
+        "1 cup chopped pecans",
+        "\u00bd cup butter",
+        "\u00bd cup white sugar",
+        "\u00bd cup evaporated milk",
+        "\u00bd teaspoon baking soda"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Fig Cake I",
     "url": "http://allrecipes.com/recipe/21074/fig-cake-i/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a medium salad bowl, stir together the lemon juice, sugar, olive oil, salt, and pepper until the sugar is dissolved. Add the salad greens, mint, and cucumber to the bowl and toss to coat."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1308136.jpg",
+    "ingredients": [
+        "1/4 cup lemon juice",
+        "2 tablespoons sugar",
+        "2 tablespoons extra virgin olive oil",
+        "salt and ground black pepper to taste",
+        "2 cups mixed salad greens",
+        "1/2 cup fresh mint leaves, finely chopped",
+        "1/2 cucumber, sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Midsummer Night's Salad",
     "url": "http://allrecipes.com/recipe/69865/midsummer-nights-salad/"
 }

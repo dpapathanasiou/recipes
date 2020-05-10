@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat grill to medium heat.",
+        "In a small skillet combine the oil, vinegar, salt and pepper and put over low heat. Add the poultry seasoning while stirring constantly; when sauce mixes well and starts to bubble, it is done.",
+        "Place chicken on hot grill and brush with sauce. Grill for 45 to 60 minutes, turning every 5 to 10 minutes, and brush chicken with sauce after each turning. Grill until chicken is done and juices run clear. (Note: Be sure to keep an eye on the chicken as it cooks, as it tends to have flair ups due to the oil and chicken drippings!)"
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/661746.jpg",
+    "ingredients": [
+        "3 tablespoons vegetable oil",
+        "1 1/2 cups cider vinegar",
+        "1 tablespoon salt",
+        "1/4 teaspoon ground black pepper",
+        "2 teaspoons poultry seasoning",
+        "2 pounds cut up chicken pieces"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "BBQ Chicken",
     "url": "http://allrecipes.com/recipe/8902/bbq-chicken/"
 }

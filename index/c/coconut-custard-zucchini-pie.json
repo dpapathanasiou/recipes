@@ -1,9 +1,25 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Heat 1 inch of water to a boil in a small saucepan over medium heat. Add zucchini, cover, and steam until softened, about 5 minutes.",
+        "In a blender or food processor, blend the cooked zucchini, 3/4 cup coconut, sugar, milk, eggs, vanilla extract, and salt until smooth. Pour into the pie crust, and sprinkle with remaining coconut and nutmeg.",
+        "Bake 10 minutes in the preheated oven. Reduce heat to 350 degrees F (175 degrees C), and continue baking 50 minutes, or until a knife inserted in the center comes out clean."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5054634.jpg",
+    "ingredients": [
+        "1 cup peeled, chopped zucchini",
+        "1 cup sweetened flaked coconut, divided",
+        "\u2154 cup sugar",
+        "1\u2009\u00bd cups milk",
+        "3  eggs",
+        "1 teaspoon vanilla extract",
+        "1 pinch salt",
+        "1 (9 inch) unbaked pie crust",
+        "1 pinch ground nutmeg"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Coconut Custard (Zucchini) Pie",
     "url": "http://allrecipes.com/recipe/63186/coconut-custard-zucchini-pie/"
 }

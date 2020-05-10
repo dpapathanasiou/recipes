@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (190 degrees C).",
+        "In a large bowl, cream the butter and sugar. Stir in egg, corn syrup, orange juice, and orange zest.  Sift together the flour, baking soda, cinnamon, ginger, and  cloves; stir into the creamed mixture until combined.",
+        "Roll dough out to 1/8 inch thickness, and cut into shapes with cookie cutters. Bake for 8 to 10 minutes in the preheated oven. Cool cookies on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3072&h=1608&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F53983.jpg",
+    "ingredients": [
+        "8 ounces butter",
+        "1\u2009\u00bd cups white sugar",
+        "1 tablespoon light corn syrup",
+        "1  egg",
+        "3\u2009\u00bd cups all-purpose flour",
+        "2 teaspoons baking soda",
+        "2 teaspoons ground cinnamon",
+        "2 teaspoons ground ginger",
+        "2 teaspoons ground cloves",
+        "\u00bc cup orange juice",
+        "2 teaspoons orange zest"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pepparkakor II",
     "url": "http://allrecipes.com/recipe/11600/pepparkakor-ii/"
 }

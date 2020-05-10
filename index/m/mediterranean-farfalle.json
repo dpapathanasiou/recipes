@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cook pasta in salted, boiling water until al dente.",
+        "While the pasta is cooking, brown chorizo over medium heat.  Add nuts and brown them also; do not burn!  Add garlic, and remove from heat.",
+        "Drain pasta.  In a large bowl, toss together pasta, chorizo mixture, basil, cheese, and tomatoes. Whisk together olive oil and vinegar; pour over pasta, and toss.  Serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7033224.jpg",
+    "ingredients": [
+        "1 (12 ounce) package farfalle pasta",
+        "1 pound chorizo sausage, crumbled",
+        "\u00bc cup fresh basil leaves, cut into thin strips",
+        "\u00bd cup pine nuts",
+        "2 cloves garlic, minced",
+        "\u00bd cup grated Parmesan cheese",
+        "1 cup diced tomato",
+        "\u00bd cup olive oil",
+        "\u00bc cup red wine vinegar"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Mediterranean Farfalle",
     "url": "http://allrecipes.com/recipe/11666/mediterranean-farfalle/"
 }

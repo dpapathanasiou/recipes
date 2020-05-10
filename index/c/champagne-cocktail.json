@@ -1,9 +1,16 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place the softened ice cream into a punch bowl. Pour in lemonade and champagne. Stir briefly then serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/824481.jpg",
+    "ingredients": [
+        "1 quart vanilla ice cream",
+        "1 quart prepared lemonade",
+        "1 (750 milliliter) bottle champagne"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Champagne Cocktail",
     "url": "http://allrecipes.com/recipe/54906/champagne-cocktail/"
 }

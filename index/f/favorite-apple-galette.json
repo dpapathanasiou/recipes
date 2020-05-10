@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Whisk 1 1/8 cups flour, white sugar, and salt together in a bowl. Press 1/2 cup butter pieces into flour mixture with your fingers until the mixture resembles coarse crumbs.",
+        "Make a well in the center of the flour mixture. Pour water and vanilla into well; quickly work water and vanilla into flour to create a loose dough, adding more water if the dough is crumbly. You should be able to squeeze it in your hand and have it stay together but be a bit crumbly. Shape dough into a flat disc, wrap in plastic wrap, and refrigerate for at least 30 minutes.",
+        "Stir brown sugar, 1 tablespoon flour, and cinnamon together in a bowl. Add apples and toss to coat. Let sit for flavors to blend, about 10 minutes.",
+        "Preheat oven to 450 degrees F (230 degrees C).",
+        "Roll dough out into a large, rough circle on a baking stone or baking sheet. Pour apple mixture into the center of the dough, leaving a 2-inch uncovered border, and dot apples with 1 tablespoon butter.",
+        "Fold edges of dough up over the apples, leaving an opening in the center. Dot dough with remaining 1 tablespoon butter and sprinkle coarse sugar over the dough.",
+        "Bake in the preheated oven until the crust is crisp and golden and apples are tender and caramelized, 40 to 45 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2592&h=1357&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4574906.jpg",
+    "ingredients": [
+        "1\u2009\u215b cups all-purpose flour",
+        "1 tablespoon white sugar",
+        "\u00bc teaspoon salt",
+        "\u00bd cup butter, cut into pieces",
+        "2 tablespoons ice water, or as needed",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bc cup brown sugar, or more to taste",
+        "1 tablespoon all-purpose flour",
+        "\u00bd teaspoon ground cinnamon",
+        "5  apples - peeled, cored, and sliced",
+        "2 tablespoons butter, cut into pieces",
+        "1 tablespoon coarse sugar crystals (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Favorite Apple Galette",
     "url": "http://allrecipes.com/recipe/235294/favorite-apple-galette/"
 }

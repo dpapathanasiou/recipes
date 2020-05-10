@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring the rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender and the liquid has been absorbed, 20 to 25 minutes. Allow to cool.",
+        "Stir the rice, tuna, corn, sweet pickle relish, and salad dressing in a large bowl to combine.  Refrigerate for at least 1 hour before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/7801691.jpg",
+    "ingredients": [
+        "1 cup white rice",
+        "2 cups water",
+        "1 (5 ounce) can light tuna in water, drained",
+        "1 (8 ounce) can whole kernel corn, drained",
+        "2 tablespoons sweet pickle relish",
+        "1/2 cup creamy salad dressing (such as Miracle Whip\u00ae)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rice Salad with Tuna",
     "url": "http://allrecipes.com/recipe/228595/rice-salad-with-tuna/"
 }

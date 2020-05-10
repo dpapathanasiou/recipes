@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix mayonnaise, sour cream, buttermilk, green onions, garlic, Worcestershire sauce, and garlic powder together in a large bowl; season with salt and black pepper. Fold cheese into the mayonnaise mixture."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3888&h=2036&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1959856.jpg",
+    "ingredients": [
+        "5 cups mayonnaise",
+        "1 cup sour cream",
+        "1 cup buttermilk",
+        "6  green onions, chopped",
+        "1 clove garlic, chopped",
+        "1 teaspoon Worcestershire sauce",
+        "\u00bd teaspoon garlic powder",
+        "salt and ground black pepper to taste",
+        "5 ounces crumbled Roquefort cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Big-Batch Roquefort Dressing",
     "url": "http://allrecipes.com/recipe/234359/big-batch-roquefort-dressing/"
 }

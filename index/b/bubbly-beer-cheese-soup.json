@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine chicken broth, potatoes, and garlic in a saucepan over medium heat; bring to a simmer and cook until potatoes are tender, about 30 minutes. Remove from heat and allow to cool for 5 minutes. Stir milk into the mixture, place over medium heat, and simmer until warm, about 5 minutes; add soy sauce and black pepper. Sprinkle Cheddar cheese into the soup in small batches while stirring, allowing each addition to melt into the soup before adding more.",
+        "Pour soup into a blender no more than half full. Cover and hold lid in place; pulse a few times before leaving on to blend. Puree in batches until smooth. Return blended soup to the saucepan; return to a simmer over medium heat.",
+        "Slowly stream beer into the soup while gently stirring. Garnish with paprika to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2031674.jpg",
+    "ingredients": [
+        "1 quart chicken broth",
+        "3 pounds potatoes, peeled and chopped",
+        "3 cloves garlic, minced",
+        "1 quart milk",
+        "\u00bc cup soy sauce",
+        "1 teaspoon ground black pepper",
+        "\u00be pound shredded Cheddar cheese",
+        "1 cup beer",
+        "1 pinch paprika, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Bubbly Beer Cheese Soup",
     "url": "http://allrecipes.com/recipe/228655/bubbly-beer-cheese-soup/"
 }

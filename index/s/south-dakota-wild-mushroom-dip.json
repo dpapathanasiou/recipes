@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F. Melt butter in large skillet on medium-high heat. Add mushrooms and onion; cook and stir until softened.",
+        "Mix milk, water and Gravy Mix in small bowl. Stir into mushroom mixture. Cook on medium heat until gravy comes to boil, stirring frequently. Reduce heat to simmer. Stir in 3/4 cup of the cheese. Simmer 1 to 2 minutes or until cheese is melted and gravy has thickened slightly.",
+        "Spoon into 1-quart baking dish. Sprinkle with remaining 1/4 cup cheese.",
+        "Bake 5 to 10 minutes or until cheese is melted. Serve with onion rings, fries or crusty bread."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=6000&h=3141&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462876.jpg",
+    "ingredients": [
+        "1 tablespoon butter",
+        "1 cup sliced mushrooms, such as oyster, portobello or shiitake",
+        "\u00bc cup chopped onion",
+        "\u00bd cup milk",
+        "\u00bd cup water",
+        "1 (.87 ounce) package McCormick\u00ae Brown Gravy Mix",
+        "1 cup shredded Monterey Jack cheese, divided"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "South Dakota Wild Mushroom Dip",
     "url": "http://allrecipes.com/recipe/256791/south-dakota-wild-mushroom-dip/"
 }

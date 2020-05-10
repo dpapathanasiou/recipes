@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Stir buckwheat groats, peanut butter, sugar, and sea salt together in a bowl to coat the groats completely.",
+        "Set a food dehydrator to 118 degrees F (244 degrees C).",
+        "Spread coated groats onto a sheet and dry in the dehydrator, occasionally breaking larger clumps into smaller bits, until dried, 12 to 24 hours."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1382340.jpg",
+    "ingredients": [
+        "1 cup buckwheat groats",
+        "1/2 cup natural peanut butter",
+        "1/4 cup white sugar",
+        "1/4 teaspoon sea salt"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Butter Buckwheat Cereal",
     "url": "http://allrecipes.com/recipe/239069/peanut-butter-buckwheat-cereal/"
 }

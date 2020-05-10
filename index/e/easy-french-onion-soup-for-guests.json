@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Melt butter in a large skillet over low heat. Cook onions with salt, stirring occasionally, until the onions are soft and golden, about 40 to 45 minutes.",
+        "Mix in thyme sprigs and bay leaf. Pour in sherry wine and sherry vinegar, and stir in black pepper. Pour in beef broth, chicken broth, and water. Stir to combine, and allow the soup to simmer gently for one hour.",
+        "Ladle soup into heat-proof crocks. Place a slice of toasted baguette on top of each crock, and sprinkle 1 ounce of shredded Gruyere cheese per serving.",
+        "Preheat oven's broiler and set the oven rack about 6 inches from the heat source. Place the filled crocks on a baking sheet, and broil until the cheese is golden and bubbly, about 1 minute."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/944878.jpg",
+    "ingredients": [
+        "1/4 cup unsalted butter",
+        "3 large yellow onions, coarsely chopped",
+        "1 teaspoon kosher salt",
+        "2 sprigs fresh thyme",
+        "1 bay leaf",
+        "1/4 cup dry sherry",
+        "1 tablespoon sherry vinegar",
+        "freshly ground black pepper to taste",
+        "3 cups beef broth",
+        "2 cups chicken broth",
+        "1 cup water",
+        "6 (1/4 inch thick) slices French baguette, toasted",
+        "6 ounces Gruyere cheese, shredded, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Easy French Onion Soup for Guests",
     "url": "http://allrecipes.com/recipe/219169/easy-french-onion-soup-for-guests/"
 }

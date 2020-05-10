@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine peaches and apricot jam in a saucepan over medium-low heat.",
+        "Stir orange liqueur, bourbon, cinnamon, cloves, nutmeg, and allspice into the peach mixture; bring to a boil, stirring until flavors combine and glaze thickens, about 5 minutes. Remove from heat and serve warm."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "2 (15 ounce) cans sliced peaches, drained",
+        "1 (10 ounce) jar apricot preserves",
+        "1/4 cup orange liqueur",
+        "1/4 cup bourbon whiskey (such as Wild Turkey \u00ae)",
+        "1 1/2 teaspoons ground cinnamon",
+        "1/2 teaspoon ground cloves",
+        "1/4 teaspoon ground nutmeg",
+        "1/4 teaspoon ground allspice"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grandma Dee's Apricot Ham Glaze",
     "url": "http://allrecipes.com/recipe/245214/grandma-dees-apricot-ham-glaze/"
 }

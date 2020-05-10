@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the oil in a skillet over medium heat. Fry the cumin seeds, mustard seeds, fennel seeds, and red chile peppers in the oil until the seeds begin to splutter. Stir the asafoetida powder into the mixture. Add the onion, ginger, and turmeric; cook and stir for a few minutes. Add the tomato and simmer until the tomatoes are soft. Sprinkle the ground cumin, coriander, and ground red pepper over the mixture.",
+        "Fold the potatoes into the mixture until coated. Pour the water into the skillet; season with the sugar and salt. Cover and cook until the potatoes are tender, about 20 minutes. The gravy should be nicely thickened. If not, add a teaspoon of chickpea flour to thicken it. Garnish with the cilantro to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/348421.jpg",
+    "ingredients": [
+        "2 tablespoons peanut oil",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon fennel seed",
+        "2 dried red chile peppers",
+        "1 pinch asafoetida powder",
+        "1 small onion, chopped",
+        "1 tablespoon grated fresh ginger root",
+        "1/2 teaspoon ground turmeric",
+        "1 tomato, chopped",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon ground red pepper",
+        "4 cups peeled and cubed potatoes",
+        "2 cups water",
+        "1/2 teaspoon white sugar",
+        "salt to taste",
+        "1 teaspoon chickpea flour (besan) (optional)",
+        "2 tablespoons chopped fresh cilantro"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Batata Nu Shak (Potato Curry)",
     "url": "http://allrecipes.com/recipe/212441/batata-nu-shak-potato-curry/"
 }

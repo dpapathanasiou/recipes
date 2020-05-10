@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an outdoor grill for medium-high heat.",
+        "Slice the top off of the head of cabbage so that it will sit flat with the cored side up. Place the butter, ice cube and garlic into the hole where the core used to be. Season with salt and pepper. Wrap tightly with foil, sealing at the top of the head.",
+        "Place wrapped cabbage core side down directly on the grate. Let cook for 25 to 30 minutes, or until tender. Slice into wedges, and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2300&h=1204&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060472.jpg",
+    "ingredients": [
+        "1 small head cabbage, cored",
+        "\u00bc cup butter, cut into pieces",
+        "1 teaspoon minced garlic",
+        "1  ice cube",
+        "salt and pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Grilled Cabbage I",
     "url": "http://allrecipes.com/recipe/37960/grilled-cabbage-i/"
 }

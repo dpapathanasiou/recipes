@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C). Spread shredded cheese in the bottom of pie crust.",
+        "In a large bowl, combine eggs, cream and milk. Season with hot sauce, salt, pepper and paprika.  Pour filling over shredded cheese in the pie crust.",
+        "Bake in the preheated oven for 40 to 50 minutes, or until golden brown. Cool 10 minutes before serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3024&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5234746.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups shredded Cheddar cheese",
+        "4  eggs",
+        "1 cup heavy cream",
+        "1 cup milk",
+        "3 drops hot sauce",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon pepper",
+        "\u00bc teaspoon paprika",
+        "1 (9 inch) unbaked pie crust"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Rich Cheese Pie",
     "url": "http://allrecipes.com/recipe/23146/rich-cheese-pie/"
 }

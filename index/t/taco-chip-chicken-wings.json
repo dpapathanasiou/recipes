@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Rinse chicken pieces and pat dry. In a shallow dish or bowl, mix together the taco seasoning mix and tortilla chip crumbs.",
+        "Roll chicken pieces in chip mixture and place coated chicken in a lightly greased 9x13 inch baking dish. Bake in the preheated oven for 20 minutes. Turn chicken pieces and bake for another 15 to 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F617042.jpg",
+    "ingredients": [
+        "1 (16 ounce) package chicken drumettes",
+        "1 (1.25 ounce) package taco seasoning mix",
+        "2 cups crushed tortilla chip crumbs"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Taco Chip Chicken Wings",
     "url": "http://allrecipes.com/recipe/15594/taco-chip-chicken-wings/"
 }

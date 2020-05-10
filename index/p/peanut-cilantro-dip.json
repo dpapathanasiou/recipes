@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "In a food processor, thoroughly blend peanut butter, peanut oil, red wine vinegar, soy sauce, and lemon juice. Mix in garlic, cilantro, red pepper flakes, and ginger. Process until smooth. Cover, and refrigerate until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6029682.jpg",
+    "ingredients": [
+        "\u00bd cup chunky peanut butter",
+        "\u00bd cup peanut oil",
+        "\u00bc cup red wine vinegar",
+        "\u00bc cup soy sauce",
+        "\u00bc cup fresh lemon juice",
+        "4 cloves garlic, minced",
+        "10 sprigs fresh cilantro leaves, finely chopped",
+        "2 teaspoons crushed red pepper flakes",
+        "2 teaspoons minced fresh ginger root"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peanut Cilantro Dip",
     "url": "http://allrecipes.com/recipe/45796/peanut-cilantro-dip/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F (190 degrees C).",
+        "Combine mixed vegetables, potatoes, cream of chicken soup, and chicken chunks in a 9-inch pie dish. Add more soup if needed to coat the ingredients. Unroll crescent rolls and lay the sheet of dough onto the pie dish. Gaps are okay because they allow for ventilation. Press dough to pie plate to seal.",
+        "Bake in the preheated oven until crescent roll dough is golden brown and filling is bubbling, 15 to 20 minutes. Let cool a few minutes before serving."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1053583.jpg",
+    "ingredients": [
+        "1 (15 ounce) can mixed vegetables, drained",
+        "1 (15 ounce) can diced potatoes, drained (optional)",
+        "1 (10.75 ounce) can cream of chicken soup, or more to taste",
+        "3 (6 ounce) cans white meat chicken, drained and broken into chunks",
+        "1 (8 ounce) package refrigerated crescent rolls"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Amazingly Easy, Surprisingly Tasty Broke College Student Chicken Pot Pie",
     "url": "http://allrecipes.com/recipe/231564/amazingly-easy-surprisingly-tasty-br/"
 }

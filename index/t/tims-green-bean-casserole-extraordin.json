@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 1 1/2 quart casserole dish.",
+        "Melt 1/4 cup of butter in a large skillet. Stir flour into the butter to make a paste. Blend sour cream into the flour paste, stirring constantly. When the mixture is hot and bubbly, remove from heat, and stir in Swiss cheese. When the cheese has melted, add the green beans, stirring until they are coated. Pour the entire mixture into the prepared casserole dish.",
+        "In a small bowl, mix together the cornflakes and melted butter. Sprinkle over the top of the green beans.",
+        "Bake uncovered for 30 minutes in the preheated oven, or until bubbly and golden brown."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/12470.jpg",
+    "ingredients": [
+        "1/4 cup butter",
+        "1/4 cup all-purpose flour",
+        "2 cups sour cream",
+        "2 cups shredded Swiss cheese",
+        "4 (14.5 ounce) cans French-style green beans, drained",
+        "2 cups cornflakes cereal, crushed",
+        "1/4 cup butter, melted"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Tim's Green Bean Casserole Extraordinaire",
     "url": "http://allrecipes.com/recipe/16475/tims-green-bean-casserole-extraordin/"
 }

@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels.",
+        "Transfer bacon to a food processor; pulse until finely chopped.",
+        "Combine confectioners' sugar and butter in a stand mixer; beat until light and fluffy, about 2 minutes. Add maple flavoring. Mix in milk a little at a time until icing is spreading consistency. Fold in bacon."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3023&h=1583&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5616429.jpg",
+    "ingredients": [
+        "1 pound bacon",
+        "1 (16 ounce) package confectioners' sugar",
+        "1\u2009\u00bd cups butter, softened",
+        "1 teaspoon maple flavoring",
+        "2 tablespoons milk, or as needed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Maple Bacon Icing",
     "url": "http://allrecipes.com/recipe/255432/maple-bacon-icing/"
 }

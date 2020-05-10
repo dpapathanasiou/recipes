@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan.",
+        "Beat the eggs in a large bowl until frothy. Stir the vegetable oil, sugar, and zucchini into the eggs.",
+        "Sift the flour, baking powder, baking soda, and salt together in a separate bowl; stir into the zucchini mixture until combined. Fold the coconut and chocolate chips into the resulting mixture; pour into the prepared loaf pan.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 45 to 50 minutes. Cool in the pans for 10 minutes before removing to cool completely on a wire rack."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/250x250/896496.jpg",
+    "ingredients": [
+        "3 eggs",
+        "1 cup vegetable oil",
+        "1 cup white sugar",
+        "2 cups grated zucchini",
+        "3 cups all-purpose flour",
+        "1/4 teaspoon baking powder",
+        "1 tablespoon baking soda",
+        "1 teaspoon salt",
+        "3/4 cup shredded coconut",
+        "1/2 cup miniature semisweet chocolate chips"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Zucchini Bread with Coconut and Chocolate Chips",
     "url": "http://allrecipes.com/recipe/215492/zucchini-bread-with-coconut-and-choco/"
 }

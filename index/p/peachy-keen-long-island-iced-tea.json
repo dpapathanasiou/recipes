@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Fill a large glass with ice. Pour peach schnapps, vodka, gin, tequila, and rum over the ice; stir in sweet and sour mix. Top with a splash of cola; stir."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/968605.jpg",
+    "ingredients": [
+        "1 fluid ounce peach schnapps",
+        "1 fluid ounce vodka",
+        "1 fluid ounce gin",
+        "1 fluid ounce gold tequila",
+        "1 fluid ounce rum",
+        "3 fluid ounces sweet and sour mix",
+        "1 fluid ounce cola, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Peachy Keen Long Island Iced Tea",
     "url": "http://allrecipes.com/recipe/228490/peachy-keen-long-island-iced-tea/"
 }

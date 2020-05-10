@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place cauliflower in a food processor and pulse until chopped into rice-shaped pieces.",
+        "Combine cauliflower, mushrooms, and olive oil in a skillet over high heat; cook and stir until mushrooms are soft, 5 to 10 minutes. Mix nutritional yeast, black pepper, garlic powder, and minced onion into cauliflower mixture; cook and stir over low heat until heated through, 5 to 10 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4608&h=2413&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2494561.jpg",
+    "ingredients": [
+        "1 large head cauliflower, broken into florets",
+        "2 cups white mushrooms, diced",
+        "1 tablespoon olive oil, or more as needed",
+        "2 tablespoons nutritional yeast",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon garlic powder",
+        "1 teaspoon dried minced onion"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cauliflower Dream",
     "url": "http://allrecipes.com/recipe/244220/cauliflower-dream/"
 }

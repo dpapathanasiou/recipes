@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Combine amaretto, gin, creme de cacao, simple syrup, and cinnamon in a cocktail shaker full of ice. Shake well; strain into 2 martini glasses."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1029540.jpg",
+    "ingredients": [
+        "1 fluid ounce amaretto liqueur",
+        "3 fluid ounces gin",
+        "1 fluid ounce creme de cacao",
+        "1 1/2 fluid ounces simple syrup",
+        "1/8 teaspoon ground cinnamon"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Baklava Martini",
     "url": "http://allrecipes.com/recipe/213619/baklava-martini/"
 }

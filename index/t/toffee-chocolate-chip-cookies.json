@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Mix sugars, butter and shortening until light and fluffy.  Mix in egg and vanilla.  Stir in flour, baking soda, baking powder and salt.  Stir in chocolate chips and brickle chips.",
+        "Drop dough by rounded teaspoons onto ungreased cookie sheet. Make 9-10 minutes until lightly brown."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2736&h=1432&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F229396.jpg",
+    "ingredients": [
+        "1 cup packed brown sugar",
+        "\u00bd cup butter, softened",
+        "\u00bd cup shortening",
+        "\u00bc cup white sugar",
+        "1  egg",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "\u00bd teaspoon baking powder",
+        "\u00bc teaspoon salt",
+        "2 cups mini semi-sweet chocolate chips",
+        "1 (6 ounce) package almond brickle chips",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Toffee Chocolate Chip Cookies",
     "url": "http://allrecipes.com/recipe/10524/toffee-chocolate-chip-cookies/"
 }

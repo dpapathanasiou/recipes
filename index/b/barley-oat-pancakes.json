@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Mix oat flour, barley flour, wheat germ, brown sugar, baking powder, and salt together in a bowl; make a well in the center. Stir milk, eggs, banana, honey, oil, and vanilla extract together in a separate bowl. Pour milk mixture into the well in the flour mixture and gently stir just until batter is moistened and slightly lumpy. Add more milk to thin the batter, if desired.",
+        "Heat a griddle or skillet over medium-low heat. Drop a small amount of water on surface. If water bounces, the griddle is ready. Lightly grease the griddle by running a paper towel dabbed with oil around the bottom of the griddle.",
+        "Drop batter by large spoonfuls onto the griddle forming 4- to 6-inch circles and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/6581716.jpg",
+    "ingredients": [
+        "1 cup oat flour",
+        "1 cup barley flour",
+        "1/4 cup wheat germ",
+        "2 tablespoons brown sugar",
+        "1 tablespoon baking powder",
+        "1 teaspoon salt",
+        "1 1/2 cups skim milk, or as needed",
+        "2 eggs, slightly beaten",
+        "1/2 banana, mashed",
+        "2 tablespoons honey",
+        "1 tablespoon oil",
+        "1 teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Barley Oat Pancakes",
     "url": "http://allrecipes.com/recipe/242242/barley-oat-pancakes/"
 }

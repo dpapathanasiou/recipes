@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 450 degrees F (230 degrees C). Line a roasting pan or baking sheet with aluminum foil and coat with cooking spray.",
+        "Arrange tomatoes, cut-side down, in the roasting pan; add Anaheim chile peppers, jalapeno peppers, and poblano peppers, all skin-side up. Add onions and garlic to roasting pan. Spray the vegetable mixture with cooking spray.",
+        "Roast in the preheated oven until tomato and chile pepper skins are blistered and charred, 40 to 45 minutes. Remove from oven and cool for 10 to 15 minutes, keeping skins on tomatoes and chile peppers.",
+        "Blend tomato-chile pepper mixture, lime juice, cilantro, cider vinegar, oregano, cumin, kosher salt, black pepper, and celery salt in a food processor using quick pulses until desired consistency is reached. Refrigerate salsa in an air-tight container."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1784&h=934&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3182878.jpg",
+    "ingredients": [
+        "olive oil cooking spray",
+        "7  roma tomatoes, halved and cored, or more to taste",
+        "2  Anaheim chile peppers, halved lengthwise and seeded",
+        "2  jalapeno peppers",
+        "1  poblano chile pepper, halved lengthwise and seeded",
+        "2  onions, quartered",
+        "2  garlic cloves, peeled",
+        "1  lime, juiced",
+        "2 tablespoons chopped fresh cilantro, or more to taste",
+        "2 tablespoons cider vinegar, or more to taste",
+        "\u00be teaspoon dried oregano, or more to taste",
+        "\u00be teaspoon ground cumin, or more to taste",
+        "\u00be teaspoon kosher salt, or more to taste",
+        "\u00be teaspoon ground black pepper, or more to taste",
+        "\u00bd teaspoon celery salt, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Salsa",
     "url": "http://allrecipes.com/recipe/242031/roasted-salsa/"
 }

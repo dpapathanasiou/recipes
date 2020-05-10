@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "Melt 1 tablespoon butter in an oven-proof skillet over medium heat; stir in corn and tarragon and cook, stirring occasionally, until corn begins to brown, about 5 minutes.",
+        "Place skillet with corn in the preheated oven; roast, stirring every 5 minutes, until lightly browned but not dry, about 20 minutes.",
+        "Place bacon in a Dutch oven over medium-high heat; cook, turning occasionally, until evenly browned, about 10 minutes. Remove bacon slices; drain on paper towels. Pour off all but 1 tablespoon bacon fat.",
+        "Heat reserved bacon fat in Dutch oven over medium heat; stir in onion. Cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to medium-low, and continue to cook and stir until the onion is very tender and dark brown, about 15 minutes.",
+        "Pour chicken stock over caramelized onions; stir, scraping the bottom of the pot to dissolve any browned bits, and bring to a boil. Stir potatoes, parsley, garlic, celery, and paprika into onion mixture. Crumble bacon, reserving about 1/4 cup for garnish, and stir bacon into soup. Reduce heat to low; simmer until potatoes are tender, about 30 minutes.",
+        "Stir remaining 2 tablespoons butter and half-and-half into soup; season with salt and pepper. Sprinkle reserved bacon and Cheddar cheese over soup to serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/4480958.jpg",
+    "ingredients": [
+        "3 tablespoons butter, divided",
+        "3 cups fresh white corn kernels",
+        "1 teaspoon dried tarragon",
+        "1 pound bacon",
+        "1 large onion, chopped",
+        "3 cups chicken stock, or as needed",
+        "6 potatoes, diced",
+        "1/4 cup chopped fresh flat-leaf parsley",
+        "4 cloves garlic, chopped",
+        "1 teaspoon dried celery flakes",
+        "1/2 teaspoon paprika",
+        "1/2 cup half-and-half",
+        "salt and ground black pepper to taste",
+        "1/4 cup shredded Cheddar cheese, or as needed (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Roasted Corn Chowder",
     "url": "http://allrecipes.com/recipe/236689/roasted-corn-chowder/"
 }

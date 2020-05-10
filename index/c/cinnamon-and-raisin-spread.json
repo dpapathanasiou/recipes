@@ -1,9 +1,18 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place fat free cream cheese, cottage cheese, cinnamon and white sugar in a food processor. Blend until smooth. Transfer to a medium bowl. Stir in raisins. Cover and chill in the refrigerator until serving."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1920&h=1005&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F882047.jpg",
+    "ingredients": [
+        "1 cup fat free cream cheese",
+        "1 cup cottage cheese",
+        "1 teaspoon ground cinnamon",
+        "2 teaspoons white sugar",
+        "\u00bd cup raisins"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cinnamon and Raisin Spread",
     "url": "http://allrecipes.com/recipe/26742/cinnamon-and-raisin-spread/"
 }

@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375  degrees F (190 degrees C). Lightly grease a medium baking sheet.",
+        "Arrange the dinner roll dough in 4 rectangles on the baking sheet.",
+        "Bake in the preheated oven 12 minutes, or until golden brown. Remove from heat and allow to cool completely.",
+        "In a medium bowl, mix the cream cheese, mayonnaise and dry ranch-style dressing mix. Spread evenly on the crescent rolls. Sprinkle with broccoli and tomatoes. Top with Cheddar cheese and serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=4032&h=2111&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3808866.jpg",
+    "ingredients": [
+        "2 (8 ounce) packages refrigerated crescent roll dough",
+        "2 (8 ounce) packages cream cheese, softened",
+        "1 cup mayonnaise",
+        "1 (1 ounce) package dry Ranch-style dressing mix",
+        "1 head fresh broccoli, chopped",
+        "3   roma (plum) tomatoes, chopped",
+        "1 cup shredded Cheddar cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Broccoli Squares",
     "url": "http://allrecipes.com/recipe/22697/broccoli-squares/"
 }

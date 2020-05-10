@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 375 degrees F.",
+        "Scoop out pulp of zucchini and chop. Heat oil in medium saucepan over medium heat and cook zucchini pulp, stirring occasionally, until tender, about 2 minutes. Stir in water and Knorr\u00ae Fiesta Sides\u2122 - Mexican Rice. Bring to a boil. Reduce heat to low and simmer covered 7 minutes or until rice is tender.",
+        "Arrange zucchini on baking sheet. Evenly fill with rice mixture. Sprinkle with cheese. Bake 25 minutes or until zucchini are tender."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=503&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3153268.jpg",
+    "ingredients": [
+        "4 large zucchini, halved lengthwise",
+        "2 tablespoons vegetable oil",
+        "1\u2009\u00be cups water",
+        "1 (5.4 ounce) package Knorr\u00ae Fiesta Sides\u2122 - Mexican Rice",
+        "1 cup shredded Monterey Jack cheese"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Stuffed Zucchini from Knorr&reg;",
     "url": "http://allrecipes.com/recipe/245959/stuffed-zucchini-from-knorr/"
 }

@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Cream butter, sugar and brown sugar.  Add eggs and vanilla, blend well.",
+        "Stir together flour, baking powder and salt. Add gradually to the creamed mixture, blending well.",
+        "Turn out the dough onto a floured surface and knead 1-2 minutes until the dough is smooth.  Break off a small piece of dough and roll it in your palms to make an oval about 2 inches long and 3/4 inch thick.",
+        "Dip the oval in milk and roll it in sesame seeds.  Place on the greased cookie sheet.  Repeat with the remaining dough.",
+        "Bake at 350 degrees F (175 degrees C) for 15 minutes or until golden.  Remove to wire racks to cool."
+    ],
+    "image": "https://www.allrecipes.com/img/misc/og-default.png",
+    "ingredients": [
+        "\u00bd cup butter",
+        "\u00bc cup white sugar",
+        "\u00bc cup packed brown sugar",
+        "2  eggs",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bc cup milk",
+        "\u00be cup sesame seeds"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Sesame Seed Cookies II",
     "url": "http://allrecipes.com/recipe/11007/sesame-seed-cookies-ii/"
 }

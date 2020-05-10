@@ -1,9 +1,22 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat grill for medium heat and lightly oil the grate.",
+        "Lay ears of corn onto the preheated grill. Cook the corn until the kernels are lightly browned, 10 to 15 minutes, turning the ears often. Set corn aside to cool. When cooled, cut kernels from the ears and transfer to a large salad bowl.",
+        "Lightly toss apples with corn. Whisk mayonnaise, vinegar, chili powder, salt, and black pepper in a separate bowl; stir the dressing into the apples and corn. Squeeze lime wedge over the salad and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "3 ears corn on the cob, husks and silk removed",
+        "2 apples - peeled, cored and diced",
+        "1/4 cup mayonnaise",
+        "2 tablespoons vinegar",
+        "1 pinch chili powder",
+        "salt and ground black pepper to taste",
+        "1 wedge lime"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Caribbean Corn and Apple Salad",
     "url": "http://allrecipes.com/recipe/222684/caribbean-corn-and-apple-salad/"
 }

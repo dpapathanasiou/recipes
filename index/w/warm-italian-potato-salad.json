@@ -1,9 +1,29 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+        "Brush 1 tablespoon olive oil over the red potatoes. Pierce potatoes with a fork and arrange onto a baking sheet. Spread baby eggplant pieces, red bell pepper slices, green bell pepper pieces, red onion, and garlic onto a separate baking sheet; drizzle 1 tablespoon olive oil over the vegetables. Stir 1/2 cup olive oil, garlic salt, oregano, basil, and black pepper together in a bowl.",
+        "Roast potatoes in preheated oven for 20 minutes. Put baking sheet into the oven and continue roasting potatoes and the vegetables until the potatoes are tender, about 25 minutes more. Let everything cool for 10 minutes.",
+        "Cut potatoes into bite-size chunks and put into a bowl. Drizzle olive oil and seasoning mixture over the potatoes and stir to coat; add the roasted vegetables and stir."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/2220911.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil, or as needed",
+        "10 small red potatoes, or to taste",
+        "4 small baby eggplants, cut into 1-inch pieces",
+        "3 canned roasted red bell pepper slices, drained and chopped (optional)",
+        "2 green bell peppers, cut into 1-inch pieces",
+        "1 red onion, cut into large chunks",
+        "2 cloves cloves garlic, quartered",
+        "1 tablespoon olive oil, or to taste",
+        "1/2 cup olive oil",
+        "1 teaspoon garlic salt",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon dried basil",
+        "1/2 tablespoon coarsely ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Warm Italian Potato Salad",
     "url": "http://allrecipes.com/recipe/241991/warm-italian-potato-salad/"
 }

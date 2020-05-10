@@ -1,9 +1,20 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Beat white corn syrup, butter or margarine, mint extract, and 1/2 teaspoon salt.  Mix in 1 pound of powdered sugar and knead intil smooth.",
+        "Color with food coloring as desired. Pat or roll to about 1/4 inch thick. Use small cookie cutters to cut shapes."
+    ],
+    "image": "https://images.media-allrecipes.com/images/79591.png",
+    "ingredients": [
+        "1/2 cup light corn syrup",
+        "1/2 cup butter",
+        "1 teaspoon mint extract",
+        "1/2 teaspoon salt",
+        "1 pound confectioners' sugar",
+        "1 drop red food coloring (optional)"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "My Grandma's Mint Patties",
     "url": "http://allrecipes.com/recipe/9398/my-grandmas-mint-patties/"
 }

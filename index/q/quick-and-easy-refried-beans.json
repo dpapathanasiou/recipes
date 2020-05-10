@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat canola oil in a heavy skillet over medium heat.",
+        "Cook garlic cloves in hot oil, turning once, until brown on both sides, 4 to 5 minutes.",
+        "Smash garlic cloves in skillet with a fork.",
+        "Stir pinto beans, cumin, chili powder, and salt into mashed garlic and cook until beans are thoroughly heated, about 5 minutes. Stir occasionally.",
+        "Smash bean mixture with a potato masher to desired texture. Squeeze lime juice over smashed beans and stir until combined."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=undefined",
+    "ingredients": [
+        "2 tablespoons canola oil",
+        "2  garlic cloves, peeled",
+        "2 (15 ounce) cans pinto beans",
+        "1 teaspoon cumin",
+        "1 teaspoon chili powder",
+        "salt to taste",
+        "\u00bd  lime, juiced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quick and Easy Refried Beans",
     "url": "http://allrecipes.com/recipe/220642/quick-and-easy-refried-beans/"
 }

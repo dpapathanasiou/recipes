@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat oven to 425 degrees  F. Line 2 (10 x 15 x 1-inch) baking pans with foil.",
+        "Coat cauliflower, broccoli, carrots and cabbage with oil in large bowl. Place on prepared baking sheets. Sprinkle with brown sugar, Italian seasoning and salt.",
+        "Bake 23 to 26 minutes or until fork tender. Top with croutons."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1456997.jpg",
+    "ingredients": [
+        "1 small head cauliflower, cut into florets",
+        "1 small head broccoli, cut into florets",
+        "2 cups sliced carrots",
+        "2 cups sliced red cabbage",
+        "1/4 cup Crisco\u00ae Pure Vegetable Oil",
+        "2 tablespoons firmly packed brown sugar",
+        "1 teaspoon Italian herb seasoning",
+        "1/2 teaspoon salt",
+        "1/2 cup coarsely crushed garlic croutons"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Herb Roasted Vegetables with Garlic Croutons",
     "url": "http://allrecipes.com/recipe/239357/herb-roasted-vegetables-with-garlic-c/"
 }

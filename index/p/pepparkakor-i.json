@@ -1,9 +1,26 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place butter in a large, heatproof bowl. In a medium saucepan, heat brown sugar, molasses and spices just to boiling point. Add baking soda and stir in.   Pour this mixture over the butter and stir until it melts.",
+        "Beat egg and mix in; add flour, a cup at a time, and blend thoroughly. Turn out onto a lightly floured board and knead 1-2 minutes. Wrap in waxed paper and chill until firm (about an hour).",
+        "Preheat oven to 325 degrees F (170 degrees C).",
+        "Roll out to approximately 1/8 inch thickness on a lightly floured board and cut into desired shapes. Place on greased baking sheets and bake for 8 - 10 minutes.",
+        "Remove from sheets and cool on racks; may be decorated with piped icing or whatever else you like!"
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3264&h=1709&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3658312.jpg",
+    "ingredients": [
+        "\u2154 cup packed brown sugar",
+        "\u2154 cup molasses",
+        "1 teaspoon ground ginger",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon ground cloves",
+        "\u00be tablespoon baking soda",
+        "\u2154 cup butter",
+        "1  egg",
+        "3\u2009\u00bd cups sifted all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Pepparkakor I",
     "url": "http://allrecipes.com/recipe/10288/pepparkakor-i/"
 }

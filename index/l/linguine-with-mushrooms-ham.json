@@ -1,9 +1,24 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add linguine pasta, and cook for 8 to 10 minutes, or until al dente; drain.",
+        "Melt butter in a saute pan over medium heat. Cook and stir  onion, garlic, and mushrooms in butter until tender. Reduce heat, and slowly stir in cream. Continue cooking until sauce has thickened, add ham and basil, and simmer for 10 more minutes.",
+        "In a large bowl, toss linguine with cream sauce, and season with freshly ground black pepper."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F68312.jpg",
+    "ingredients": [
+        "1 (8 ounce) package linguine pasta",
+        "1 tablespoon butter",
+        "1  onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 cup sliced fresh mushrooms",
+        "1\u2009\u00bd cups whipping cream",
+        "\u00bc pound cooked ham, julienned",
+        "1 teaspoon fresh basil leaves, chopped",
+        "freshly ground black pepper"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Linguine with Mushrooms & Ham",
     "url": "http://allrecipes.com/recipe/38470/linguine-with-mushrooms-ham/"
 }

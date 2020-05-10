@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat the oven to 325 degrees F (165 degrees C). Grease an 8x8 inch baking dish.",
+        "In a medium bowl, stir together the sugar, cocoa powder and yogurt. Stir in the eggs one at a time until well blended, then add vanilla and salt. Stir in the flour until just absorbed. Spread evenly into the prepared pan.",
+        "Bake for 28 to 32 minutes in the preheated oven, until the brownies begin to pull away from the sides of the pan, and a toothpick inserted comes out fairly clean (sticky crumbs are okay). Cool brownies in the pan over a wire rack before cutting into squares. Cover tightly with plastic wrap to store."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F802608.jpg",
+    "ingredients": [
+        "1 cup white sugar",
+        "6 tablespoons unsweetened cocoa powder",
+        "10 tablespoons plain yogurt",
+        "2  eggs",
+        "\u215b teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "\u00bd cup all-purpose flour",
+        "1 tablespoon all-purpose flour"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Lower Fat Fudge Brownies",
     "url": "http://allrecipes.com/recipe/61568/lower-fat-fudge-brownies/"
 }

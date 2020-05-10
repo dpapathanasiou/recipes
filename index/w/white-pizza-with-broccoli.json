@@ -1,9 +1,27 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Place a pizza stone on the bottom rack of your oven. Preheat oven to 450 degrees F (230 degrees C).",
+        "Stretch pizza dough into a round disc on a floured surface. Brush 1 tablespoon olive oil over dough. Sprinkle minced garlic, garlic powder, onion powder, salt, and pepper on top.",
+        "Cover dough with Italian cheese blend and dollops of ricotta. Scatter broccoli and tomato over cheese. Swirl remaining 1 tablespoon olive oil on top. Sprinkle Parmesan cheese over pizza.",
+        "Transfer pizza to the preheated pizza stone and bake until the crust is crispy and the cheese is melted, about 20 minutes."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4457894.jpg",
+    "ingredients": [
+        "1 pound refrigerated whole-wheat pizza dough",
+        "2 tablespoons olive oil, divided, or to taste",
+        "2 cloves garlic, minced, or to taste",
+        "1 teaspoon garlic powder, or to taste",
+        "1 teaspoon onion powder, or to taste",
+        "1 pinch salt and ground black pepper to taste",
+        "1 cup shredded Italian cheese blend, or to taste",
+        "\u00be cup ricotta, or to taste",
+        "1 cup broccoli florets, or to taste",
+        "1 small tomato, sliced",
+        "1 tablespoon grated Parmesan cheese, or to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "White Pizza with Broccoli",
     "url": "http://allrecipes.com/recipe/256005/white-pizza-with-broccoli/"
 }

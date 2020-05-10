@@ -1,9 +1,31 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet.",
+        "In a large bowl, blend the applesauce, brown sugar, and honey. In a separate bowl, sift together the whole wheat flour, all-purpose flour, baking soda, baking powder, salt, cinnamon, and nutmeg. Blend the flour mixture into the applesauce mixture. Fold in the oats, vanilla extract, almond extract, apricots, almonds, and cranberries. Drop the batter by rounded teaspoonfuls onto the prepared baking sheet.",
+        "Bake 12 to 15 minutes in the preheated oven, until golden brown. Cool on wire racks."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1200&h=628&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F971051.jpg",
+    "ingredients": [
+        "\u00be cup unsweetened applesauce",
+        "\u2153 cup packed brown sugar",
+        "\u2153 cup honey",
+        "\u00bd cup whole wheat flour",
+        "\u00bd cup all-purpose flour",
+        "\u00bd teaspoon baking soda",
+        "\u00bd teaspoon baking powder",
+        "\u00bc teaspoon salt",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bd cup rolled oats",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon almond extract",
+        "\u00bd cup chopped dried apricots",
+        "\u00bc cup sliced almonds",
+        "\u00bc cup dried cranberries"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Oatmeal Apricot Almond Bites",
     "url": "http://allrecipes.com/recipe/69404/oatmeal-apricot-almond-bites/"
 }

@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Pour water into a saucepan and bring to a boil; add quinoa and salt, stir, cover saucepan with a lid, and reduce heat to low. Simmer mixture until quinoa is tender, 10 to 15 minutes. Remove saucepan from heat, let quinoa rest for 5 minutes, and transfer quinoa to a bowl to cool.",
+        "Bring a large pot of lightly salted water to a boil. Add asparagus and cook uncovered until tender but still crisp, 2 to 3 minutes; drain in a colander and immediately immerse asparagus in ice water for several minutes until cold to stop the cooking process. Drain.",
+        "Stir asparagus, feta cheese, almonds, green onions, parsley, thyme, and lemon zest into quinoa.",
+        "Whisk lemon juice, olive oil, honey, garlic, Dijon mustard, and black pepper together in a bowl until dressing is smooth. Pour dressing over quinoa mixture and stir gently to combine."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3430363.jpg",
+    "ingredients": [
+        "1\u2009\u00bd cups water",
+        "\u00be cup quinoa",
+        "\u00bc teaspoon salt",
+        "1 bunch fresh asparagus, trimmed and cut into 1 1/2-inch pieces",
+        "4 ounces crumbled feta cheese",
+        "\u2153 cup toasted slivered almonds",
+        "2  green onions, thinly sliced, or to taste",
+        "2 tablespoons chopped fresh parsley",
+        "1 teaspoon chopped fresh thyme",
+        "1  lemon, zested",
+        "\u00bc cup lemon juice",
+        "2 tablespoons olive oil",
+        "1 tablespoon honey",
+        "1 clove garlic, minced",
+        "1\u2009\u00bd teaspoons Dijon mustard",
+        "freshly ground black pepper to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Quinoa, Asparagus, and Feta Salad",
     "url": "http://allrecipes.com/recipe/238182/quinoa-asparagus-and-feta-salad/"
 }

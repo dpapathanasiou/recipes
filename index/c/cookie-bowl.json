@@ -1,9 +1,23 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Turn a 9x5 inch loaf pan or metal bowl upside down and cover the outside with foil. Place onto a cookie sheet.",
+        "Stir together the flour, cocoa, salt and almonds; set aside. In a medium bowl, cream together the butter and sugar until smooth. Beat in the egg and vanilla. Gradually stir in the dry ingredients to form a fairly stiff dough. On a lightly floured surface, roll the dough out to 1/4 inch in thickness. Cut into circles using a glass or cookie cutter. Starting at the top (bottom) of the pan or bowl, arrange cookies so they are overlapping. Work toward the edges covering as much of the pan as you can. Be sure to press each cookie on so you will have a good solid bowl.",
+        "Bake for 10 to 15 minutes in the preheated oven, until cookies are firm. Cool completely. Carefully turn the pan over and remove the pan from the foil, then carefully remove the foil from inside the cookie structure. Fill with cookie or candy."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F145368.jpg",
+    "ingredients": [
+        "1\u2009\u00bc cups all-purpose flour",
+        "\u00bd cup unsweetened cocoa powder",
+        "\u00bd teaspoon salt",
+        "\u00bc cup sliced almonds",
+        "\u00bc cup butter, softened",
+        "\u2154 cup white sugar",
+        "1  egg, beaten",
+        "\u00bd teaspoon vanilla extract"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cookie Bowl",
     "url": "http://allrecipes.com/recipe/25777/cookie-bowl/"
 }

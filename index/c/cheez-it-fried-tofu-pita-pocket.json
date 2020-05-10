@@ -1,9 +1,32 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Season tofu with salt and black pepper.",
+        "Place cheese-flavored crackers, potato chips, and saltine crackers in a large resealable plastic bag. Seal and crush into crumbs using a rolling pin or can. Pour into a shallow dish.",
+        "Whisk water and egg together in a small bowl. Dip tofu cubes in egg mixture then roll in crushed cracker mixture and place on a plate.",
+        "Heat 6 tablespoons olive oil in a large skillet over medium-high heat. Saute tofu cubes, in batches if necessary, until golden brown, 30 seconds to 1 minute per side. Transfer to a plate lined with paper towels to drain. Reduce heat to medium. Season cherry tomatoes with salt and pepper and add to the skillet; cook and stir until slightly softened, about 1 minute.",
+        "Combine chickpeas, tahini, and garlic in a food processor or blender; with motor running, add remaining 2 tablespoons olive oil and process until hummus is smooth and has a slight sheen.",
+        "Spread some hummus in each pita pocket. Top with tofu cubes, cherry tomatoes, and baby spinach."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=3648&h=1910&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4460706.jpg",
+    "ingredients": [
+        "1 (12 ounce) package extra-firm tofu, cut into 1-inch cubes",
+        "1 pinch salt and freshly cracked black pepper to taste",
+        "2\u2009\u00bd cups cheese-flavored crackers (such as Cheez-It\u00ae)",
+        "\u00bd cup plain potato chips",
+        "6  saltine crackers, or more to taste",
+        "\u00bd cup water",
+        "1  egg",
+        "\u00bd cup olive oil, divided",
+        "3 cups cherry tomatoes, halved",
+        "1 (15 ounce) can chickpeas, drained",
+        "3 tablespoons tahini",
+        "1\u2009\u00bd tablespoons minced garlic",
+        "4  pita bread pockets, halved lengthwise",
+        "3 ounces baby spinach, or more to taste"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Cheez-It&reg; Fried Tofu Pita Pocket",
     "url": "http://allrecipes.com/recipe/246938/cheez-it-fried-tofu-pita-pocket/"
 }

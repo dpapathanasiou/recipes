@@ -1,9 +1,33 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Heat the vegetable oil in a large pot; cook and stir the onion in the hot oil until soft, 5 to 7 minutes.",
+        "Pour water and chicken bouillon cubes to the pot; cook and stir until the bouillon dissolves, about 4 minutes.",
+        "Stir the potato and carrot into the mixture in the pot; cook another 4 minutes.",
+        "Pour milk into the pot; add broccoli, garlic, chives, bay leaf, cayenne pepper, salt, and black pepper to the mixture, stir, and cook until warm, about 4 minutes.",
+        "Stir the sliced processed cheese food into the soup, bring to a simmer, and cook and stir until the cheese food is melted completely into the soup, about 5 minutes.",
+        "Reduce heat to medium-low and continue cooking until the potatoes and carrots are tender, 10 to 15 minutes.",
+        "Remove and discard the bay leaf to serve."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F954461.jpg",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 small onion, diced",
+        "3 cups water",
+        "7 cubes  chicken bouillon",
+        "1 large russet potato, cubed",
+        "6   carrots, cubed",
+        "3 cups milk",
+        "1 (16 ounce) bag frozen broccoli florets",
+        "2 cloves garlic, minced",
+        "2 teaspoons dried chives",
+        "1  bay leaf",
+        "1 pinch cayenne pepper, or more to taste",
+        "1 pinch salt and ground black pepper to taste",
+        "1 pound processed cheese food (such as Velveeta \u00ae), sliced"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Gail's Broccoli Soup",
     "url": "http://allrecipes.com/recipe/220267/gails-broccoli-soup/"
 }

@@ -1,9 +1,21 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Layer the strawberries and blueberries in 6 individual serving dishes.",
+        "Using an electric beater, whip together the ricotta cheese, milk, sugar and wine. Spoon a portion of the cream over each fruit serving, top with toasted hazelnuts, and serve."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/677720.jpg",
+    "ingredients": [
+        "1 1/2 cups sliced fresh strawberries",
+        "1 1/2 cups fresh blueberries",
+        "1 cup part-skim ricotta cheese",
+        "1 tablespoon nonfat evaporated milk",
+        "1 tablespoon white sugar",
+        "1 1/2 tablespoons Marsala wine",
+        "1 1/2 tablespoons chopped toasted hazelnuts"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Berries and Cream",
     "url": "http://allrecipes.com/recipe/15593/berries-and-cream/"
 }

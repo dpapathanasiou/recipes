@@ -1,9 +1,19 @@
 {
-    "directions": [],
-    "ingredients": [],
+    "directions": [
+        "Bake cake in 9x13 inch pan according to the manufacturers instructions. While the cake is baking, prepare the instant pudding according to instructions on box, set aside to chill.",
+        "When the cake comes out of the oven, pour the chocolate syrup over the top of the entire cake. Using a fork, crumble the cake into small pieces. In a large clear bowl, put a layer of cake on the bottom, then cover with a layer of pudding. Then spread a layer of whipped topping, then sprinkle some of the crushed candy bars. Repeat the layers to the top of the bowl, ending with toffee bar pieces on top. Refrigerate until serving time."
+    ],
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=250&h=131&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F21578.jpg",
+    "ingredients": [
+        "1 (18.25 ounce) package devil's food cake mix",
+        "1 cup chocolate syrup",
+        "2 (3.9 ounce) packages instant chocolate pudding mix",
+        "8 (1.4 ounce) bars chocolate covered toffee bars, chopped",
+        "1 (16 ounce) package frozen whipped topping, thawed"
+    ],
     "language": "en-US",
     "source": "allrecipes.com",
     "tags": [],
-    "title": "Too Many Requests",
+    "title": "Death By Chocolate IV",
     "url": "http://allrecipes.com/recipe/17469/death-by-chocolate-iv/"
 }
