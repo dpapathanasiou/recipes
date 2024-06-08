@@ -1293,7 +1293,6 @@
  * [Sweet Potato Cashew Bake](../../index/s/sweet-potato-cashew-bake.json)
  * [Sweet Potato Casserole I](../../index/s/sweet-potato-casserole-i.json)
  * [Sweet Potato Casserole Ii](../../index/s/sweet-potato-casserole-ii.json)
- * [Sweet Potato Casserole Iii](../../index/s/sweet-potato-casserole-iii.json)
  * [Sweet Potato Casserole Iv](../../index/s/sweet-potato-casserole-iv.json)
  * [Sweet Potato Casserole V](../../index/s/sweet-potato-casserole-v.json)
  * [Sweet Potato Casserole Vi](../../index/s/sweet-potato-casserole-vi.json)
