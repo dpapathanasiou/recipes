@@ -48,7 +48,6 @@
  * [Noel Fruitcake](../../index/n/noel-fruitcake.json)
  * [Quick Fruitcake](../../index/q/quick-fruitcake.json)
  * [Rich Dark Fruitcake](../../index/r/rich-dark-fruitcake.json)
- * [Sugarless Fruitcake](../../index/s/sugarless-fruitcake.json)
  * [Texas Brazil Nut Fruitcake](../../index/t/texas-brazil-nut-fruitcake.json)
  * [Unbaked Fruitcake Ii](../../index/u/unbaked-fruitcake-ii.json)
  * [A Fruitcake To Love 240697](../../index/a/a-fruitcake-to-love-240697.json)
